@@ -1,343 +1,405 @@
-ASCII MASTER FLOW — PANEL 1/12: The Liberal Family and Its Core Vocabulary
-CENTRAL FOCUS
-The Liberal Family and Its Core Vocabulary
-  [1] UPSC often rewards answers that keep together liberalism's durable constitutional
-      core and its debated economic program.
-        |
-        v
-  [2] Liberalism is the starting point for understanding rights, constitutionalism,
-      limited government, consent and the rule of law in modern politics (Gauba, PDF
-      pp.40-41, 45).
-        |
-        v
-  [3] Gauba shows that liberalism has at least two major internal turns before neoliberal
-      revival: classical laissez-faire and welfare/positive liberalism (Gauba, PDF
-      pp.41-42).
-        |
-        v
-  [4] The chapter also explains why neoliberalism cannot simply be equated with all
-      liberalism; it is a contemporary restoration of the classical laissez-faire impulse
-      (Gauba, PDF pp.42-43).
-        |
-        v
-SYNTHESIS -> The Liberal Family and Its Core Vocabulary is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 1/19: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Liberalism and Neoliberalism.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Companion depth file (Advanced enrichment beyond a core GS answer, not required for      |
+| marks-adequacy): Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Historical Spine and Essential Distinctions
-CENTRAL FOCUS
-Historical Spine and Essential Distinctions
-  [1] Liberalism emerged historically in the West to attack feudal privilege and create
-      space for the entrepreneurial class against authoritarian rule (Gauba, PDF p.40).
-        |
-        v
-  [2] Its core tenets include rational individuality, natural rights, consent, civil
-      society and state as artificial institutions, primacy of fair procedure, civil
-      liberties, contract and group bargaining (Gauba, PDF pp.40-41).
-        |
-        v
-  [3] In its early classical phase, Locke, Smith and Bentham defend laissez-faire and the
-      negative role of the state; the state is treated as a necessary evil and the
-      individual as the end (Gauba, PDF p.41).
-        |
-        v
-  [4] Mill and then Green, Hobhouse, Laski and Tawney move liberalism toward welfare and
-      positive state action to secure a dignified life (Gauba, PDF p.41).
-        |
-        v
-  [5] Gauba then identifies neoliberalism as a twentieth-century effort, associated with
-      Hayek, Friedman and Nozick, to roll back welfare-state expansion and restore
-      market-led liberty (Gauba, PDF pp.42-43).
-        |
-        v
-SYNTHESIS -> Historical Spine and Essential Distinctions is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 2/19: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. Late 17th century -> The principle of liberation from an authoritarian state             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. John Locke (1632-1704) -> English philosopher; father of liberalism                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Adam Smith (1723-90) -> English-listed philosopher; father of economics                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Jeremy Bentham (1748-1832) -> Founder of utilitarianism                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1789 -> The French Revolution                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. John Stuart Mill (1806-73) -> English philosopher                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Thinkers, Illustrations and the Comparison Matrix
-CENTRAL FOCUS
-Thinkers, Illustrations and the Comparison Matrix
-  [1] A classical liberal state protects life, property and contract and avoids broad
-      interference in production and exchange (Gauba, PDF p.41).
-        |
-        v
-  [2] A welfare liberal state taxes and regulates in order to provide education, health
-      and social security, because dignity requires more than non-interference alone
-      (Gauba, PDF p.41).
-        |
-        v
-  [3] A neoliberal response says forced transfer of resources harms liberty and that
-      markets coordinate needs better than governments can (Gauba, PDF pp.42-43).
-        |
-        v
-  [4] Gauba's own criticism notes that representative institutions may still reflect
-      unequal group organization and vocal power, as in his India example of concentrated
-      business interests versus diffuse consumers (Gauba, PDF p.44).
-        |
-        v
-  [5] A compact exam contrast is this: liberalism asks how to protect liberty; welfare
-      liberalism asks what background conditions liberty needs; neoliberalism asks whether
-      those conditions themselves have become coercive through the state.
-        |
-        v
-SYNTHESIS -> Thinkers, Illustrations and the Comparison Matrix is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 3/19: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. Herbert Spencer (1820-1903) -> English philosopher                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. T. H. Green (1836-82) -> English philosopher                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. L. T. Hobhouse (1864-1929), Harold J. Laski (1893-1950), R. H. Tawney (1880-1962) ->     |
+| English philosophers                                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1920 -> R. H. Tawney, The Acquisitive Society                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. Second half of the 20th century -> F. A. Hayek (1899-1992), Austrian thinker; Milton     |
+| Friedman (1912-2006), American economist; Robert Nozick (1938-2002), American philosopher    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Ownership Boundaries and UPSC Trap Repair
-CENTRAL FOCUS
-Ownership Boundaries and UPSC Trap Repair
-  [1] Neoliberalism vs libertarianism: Hayek and Friedman chiefly defend market
-      coordination and limits on welfare intervention; Nozick grounds a minimal state in
-      self-ownership and entitlement. The labels may overlap in Gauba, but the arguments
-      should not be treated as interchangeable.
-        |
-        v
-  [2] Chain 3 — Objection: "Welfare liberalism abandoned liberty for equality." Reply:
-      welfare liberalism's own claim is that liberty without supportive social conditions
-      is too thin to be meaningful (Gauba, PDF p.41; §9 trap already in this file).
-        |
-        v
-  [3] UPSC often rewards answers that keep together liberalism's durable constitutional
-      core and its debated economic program.
-        |
-        v
-  [4] Liberalism: A political principle that places liberty of the individual at the
-      centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF
-      p.40).
-        |
-        v
-SYNTHESIS -> Ownership Boundaries and UPSC Trap Repair is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 4/19: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. LIBERALISM: A political principle that places liberty of the individual at the centre of |
+| public policy, especially freedom from authoritarian restraint                               |
+| 02. AUTHORITARIAN STATE: A state in which authority is treated as unquestionable and its     |
+| directives must be obeyed without challenge                                                  |
+| 03. CLASSICAL / NEGATIVE LIBERALISM: The laissez-faire strand that confines the state to     |
+| protection of life, property, contract and minimal common services                           |
+| 04. WELFARE / POSITIVE LIBERALISM: The strand that gives the state a positive role in        |
+| securing a dignified life, welfare and self-development                                      |
+| 05. WELFARE STATE: A state that provides social security, education, health and other public |
+| services to secure social well-being                                                         |
+| 06. NEOLIBERALISM / NEO-CLASSICAL LIBERALISM / LIBERTARIANISM: Gauba groups these closely as |
+| a restoration of laissez-faire and welfare-state rollback. For conceptual precision, market  |
+| neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not  |
+| identical                                                                                    |
+| 07. CONSTITUTIONALISM: Organization of the state according to a constitution so that power   |
+| is structured and limited rather than arbitrary                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Classical, New, Welfare-State and Neoliberal Strands
-CENTRAL FOCUS
-Classical, New, Welfare-State and Neoliberal Strands
-  [1] Classical liberalism is laissez-faire and negative-state; welfare liberalism is
-      positive-state; neoliberalism is rollback liberalism (Gauba, PDF pp.41-43).
-        |
-        v
-  [2] Two-line enrichment: classical liberals fear state coercion, welfare liberals fear
-      market-generated deprivation, and neoliberals fear the coercive growth of
-      welfare-state control.
-        |
-        v
-  [3] Locke, Smith and Bentham anchor the classical, laissez-faire strand: the state is a
-      "necessary evil" confined to protecting life, property and contract, with minimal
-      interference in production and exchange (Gauba, PDF p.41).
-        |
-        v
-  [4] Laski and Tawney, writing later in the first half of the twentieth century, develop
-      a fuller welfare-state tradition — institutionalized social security, education and
-      redistribution — going further than Green's moral argument toward a positive,
-      welfare-providing state (Gauba, PDF p.41).
-        |
-        v
-  [5] Gauba's critique focuses on bourgeois bias, unequal group power and the gap between
-      market liberty and actual social welfare (Gauba, PDF pp.43-44).
-        |
-        v
-SYNTHESIS -> Classical, New, Welfare-State and Neoliberal Strands is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 5/19: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism emerged historically in the West to attack feudal privilege and create space  |
+| for the entrepreneurial class against authoritarian rule                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Its core tenets include rational individuality, natural rights, consent, civil society   |
+| and state as artificial institutions, primacy of fair procedure, civil liberties, contract   |
+| and group bargaining                                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. In its early classical phase, Locke, Smith and Bentham defend laissez-faire and the      |
+| negative role of the state; the state is treated as a necessary evil and the individual as   |
+| the end                                                                                      |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Hayek and Nozick: Different Routes to the Minimal State
-CENTRAL FOCUS
-Hayek and Nozick: Different Routes to the Minimal State
-  [1] Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian
-      exponent of rollback liberalism, grounded in rights and entitlement rather than only
-      in market-efficiency argument (Gauba, PDF p.42).
-        |
-        v
-  [2] Knowledge argument: neoliberalism holds that governments cannot possess sufficient
-      knowledge of dispersed individual needs and circumstances to plan an economy
-      successfully; needs and coordination emerge instead through unpredictable
-      transactions in a free market ("spontaneous order"), not through centralized state
-      knowledge (Gauba, PDF pp.42-43).
-        |
-        v
-  [3] Coercion argument: on this view, forced or compulsory redistribution (tax-financed
-      welfare, state intervention) is itself a form of coercion that curtails freedom
-      without reliably satisfying genuine wants, even when it is intended to enlarge
-      welfare (Gauba, PDF pp.42-43).
-        |
-        v
-SYNTHESIS -> Hayek and Nozick: Different Routes to the Minimal State is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 6/19: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 04. Mill and then Green, Hobhouse, Laski and Tawney move liberalism toward welfare and       |
+| positive state action to secure a dignified life                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Gauba then identifies neoliberalism as a twentieth-century effort, associated with       |
+| Hayek, Friedman and Nozick, to roll back welfare-state expansion and restore market-led      |
+| liberty                                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. The chapter closes with criticism of liberalism's bourgeois character, unequal group     |
+| power and welfare-state limits, but also credits liberalism with rationalism,                |
+| constitutionalism and an expandable language of freedom, equality and justice                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: The Rawlsian Reply and the Indian Mixed-Economy Lens
-CENTRAL FOCUS
-The Rawlsian Reply and the Indian Mixed-Economy Lens
-  [1] The standard welfare-liberal/Rawlsian reply to Nozick (analytical synthesis,
-      cross-referencing the justice files rather than duplicating them): even a
-      procedurally clean history of acquisition and transfer can leave persons born into
-      unchosen disadvantage without a defensible share of social cooperation's benefits. A
-      fair procedure, on this reply, should be judged partly by whether the resulting
-      inequalities work to the benefit of the least advantaged (Rawls's difference
-      principle), not solely by whether each step in a holding's history was itself
-      voluntary.
-        |
-        v
-  [2] Rawls is noted (in the justice-chapter grounding already used elsewhere in this
-      knowledge base) as a critic of utilitarianism who tries to accommodate substantive
-      concerns within a procedural framework (Gauba, PDF pp.434-435, 443) — the standard
-      reply-anchor against neoliberal/libertarian proceduralism.
-        |
-        v
-SYNTHESIS -> The Rawlsian Reply and the Indian Mixed-Economy Lens is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 7/19: Essential Distinctions
++----------------------------------------------------------------------------------------------+
+| ESSENTIAL DISTINCTIONS                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism vs authoritarianism => Liberalism opposes unquestioned and arbitrary          |
+| authority and demands limits on power plus rights for individuals                            |
+| 02. Classical vs welfare liberalism => Classical liberalism wants minimal state              |
+| interference; welfare liberalism wants positive state action for dignity and welfare         |
+| 03. Welfare liberalism vs neoliberalism => Welfare liberalism expands state responsibility;  |
+| neoliberalism wants to roll back intervention and restore laissez-faire individualism        |
+| 04. Individualism vs utilitarianism => Early liberal thought develops both through rights-   |
+| bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls     |
+| utilitarianism toward liberty and welfare reform                                             |
+| 05. Capitalism vs constitutionalism => Gauba says liberalism today is invoked both as a      |
+| theory of capitalism and as a theory of constitutionalism; the second has more lasting       |
+| political value                                                                              |
+| 06. Neoliberalism vs libertarianism => Hayek and Friedman chiefly defend market coordination |
+| and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and     |
+| entitlement. The labels may overlap in Gauba, but the arguments should not be treated as     |
+| interchangeable                                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Qualified Thesis and Directive-Specific Architecture
-CENTRAL FOCUS
-Qualified Thesis and Directive-Specific Architecture
-  [1] Premises: (a) liberalism places individual liberty at the centre of politics and
-      opposes arbitrary/authoritarian rule (Gauba, PDF p.40); (b) liberty can be read
-      negatively (freedom from restraint) or positively (conditions for self-development)
-      (Gauba, PDF pp.40-41); (c) neoliberalism argues that state-provided welfare itself
-      becomes a new coercive restraint on liberty (Gauba, PDF pp.42-43).
-        |
-        v
-  [2] Mechanism: because "liberty" is not self-defining, each strand supplies a different
-      account of what threatens it most — the state (classical), unmet welfare needs
-      (new/welfare, §12.2), or the redistributive state itself (neoliberal, §13) — and
-      Nozick's entitlement theory converts the neoliberal claim into a rights-based test
-      of acquisition/transfer/rectification (§14), while Rawls's reply converts the
-      welfare claim into a procedural-cum-substantive test, the difference principle
-      (§15).
-        |
-        v
-  [3] Conclusion: liberalism's durable, cross-strand contribution is constitutionalism —
-      limits on arbitrary power — while its economic program remains genuinely contested
-      between these strands (Gauba, PDF p.45).
-        |
-        v
-SYNTHESIS -> Qualified Thesis and Directive-Specific Architecture is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 8/19: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. JOHN LOCKE: Father of liberalism; early defender of rights, consent and limited          |
+| government within classical liberalism                                                       |
+| 02. ADAM SMITH: Early liberal defender of laissez-faire and market society                   |
+| 03. JEREMY BENTHAM: Founder of utilitarianism, focused on greatest happiness, but still part |
+| of early liberal development                                                                 |
+| 04. J.S. MILL: Modifies utilitarianism, elevates liberty, and opens the road toward taxation |
+| for welfare and a positive state role                                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Evidence Units, Objection-Reply Chains and Answer Design
-CENTRAL FOCUS
-Evidence Units, Objection-Reply Chains and Answer Design
-  [1] Mark-weight cue (10/15/20): Scale the number of thinkers and depth of
-      objection-reply chain (§21).
-        |
-        v
-  [2] Chain 1 — Objection: "Neoliberalism just wants small government, which is the same
-      as classical liberalism, so there is nothing new here." Reply: neoliberalism is a
-      twentieth-century restoration responding specifically to an already-existing welfare
-      state, using knowledge/price/coercion arguments (Hayek, §13) and rights-based
-      entitlement arguments (Nozick, §14) that classical liberals like Locke or Smith did
-      not need to make because the welfare state did not yet exist in their own time
-      (Gauba, PDF pp.41-43).
-        |
-        v
-  [3] Chain 2 — Objection: "Because Nozick's entitlement theory only requires a clean
-      procedural history, any existing distribution of wealth is automatically just."
-      Reply: the rectification principle itself requires correcting holdings traceable to
-      unjust acquisition or transfer, and Rawls's reply further shows that a clean
-      procedural history does not guarantee the resulting inequality benefits the least
-      advantaged — so Nozick's own framework does not endorse every existing distribution
-      (§14-15).
-        |
-        v
-SYNTHESIS -> Evidence Units, Objection-Reply Chains and Answer Design is best presented
-             through its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 9/19: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. T.H. GREEN: Adds a moral dimension and advances a fuller theory of welfare liberalism    |
+| 02. HOBHOUSE / LASKI / TAWNEY: Develop the welfare-state tradition in the first half of the  |
+| twentieth century                                                                            |
+| 03. HAYEK / FRIEDMAN / NOZICK: Chief exponents of neoliberal or libertarian rollback against |
+| the welfare state                                                                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Proposition Discipline, Sources and Final Integration
-CENTRAL FOCUS
-Proposition Discipline, Sources and Final Integration
-  [1] The "New Liberalism" label (§12.2) and the acquisition/transfer/rectification triad
-      and Rawlsian reply (§14-15) are flagged specifically because they are analytical
-      clarifications of well-known political-theory frameworks, not independently
-      page-anchored against Gauba's own liberalism-chapter text; do not upgrade them to
-      status or attach a specific book title/year/page to Nozick's or Rawls's own works
-      without independent verification.
-        |
-        v
-  [2] Direct-book anchors used here: PDF pp.40-42 for liberal core and internal streams;
-      PDF pp.42-43 for neoliberalism; PDF pp.43-45 for critique and contribution; PDF
-      pp.434-435, 443 (justice chapter, reused) for the Rawls reply-anchor.
-        |
-        v
-  [3] Terminology caution: Gauba places neo-liberalism, neo-classical liberalism and
-      libertarianism close together; §13-15 extend this compressed treatment with
-      standard, well-established political-theory clarifications that are explicitly
-      flagged as analytical rather than page-anchored to Gauba's own text.
-        |
-        v
-SYNTHESIS -> Proposition Discipline, Sources and Final Integration is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 10/19: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. A classical liberal state protects life, property and contract and avoids broad          |
+| interference in production and exchange                                                      |
+| 02. A welfare liberal state taxes and regulates in order to provide education, health and    |
+| social security, because dignity requires more than non-interference alone                   |
+| 03. A neoliberal response says forced transfer of resources harms liberty and that markets   |
+| coordinate needs better than governments can                                                 |
+| 04. Gauba's own criticism notes that representative institutions may still reflect unequal   |
+| group organization and vocal power, as in his India example of concentrated business         |
+| interests versus diffuse consumers                                                           |
+| 05. A compact exam contrast is this: liberalism asks how to protect liberty; welfare         |
+| liberalism asks what background conditions liberty needs; neoliberalism asks whether those   |
+| conditions themselves have become coercive through the state                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Chain 3 — Objection: "Welfare liberalism abandoned liberty for equality." Reply:
-      welfare liberalism's own claim is that liberty without supportive social conditions
-      is too thin to be meaningful (Gauba, PDF p.41; §9 trap already in this file).
-        |
-        v
-  [2] Liberalism: A political principle that places liberty of the individual at the
-      centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF
-      p.40).
-        |
-        v
-  [3] Authoritarian state: A state in which authority is treated as unquestionable and its
-      directives must be obeyed without challenge (Gauba, PDF p.40).
-        |
-        v
-  [4] Classical / negative liberalism: The laissez-faire strand that confines the state to
-      protection of life, property, contract and minimal common services (Gauba, PDF
-      p.41).
-        |
-        v
-SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 11/19: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. STATE | Classical liberalism = Minimal or "necessary evil"; protect life, property,      |
+| contract and minimum services | Welfare liberalism = Positive and enabling; secure dignified |
+| life through social services | Neoliberalism = Roll back expanded state intervention and     |
+| control                                                                                      |
+| 02. PROPERTY | Classical liberalism = Strong protection of private property and market       |
+| exchange | Welfare liberalism = Property remains but may be taxed or regulated for welfare   |
+| ends | Neoliberalism = Strong defence of market choice and resistance to redistributive      |
+| compulsion                                                                                   |
+| 03. EQUALITY | Classical liberalism = Leans toward formal legal equality and fair procedure  |
+| | Welfare liberalism = Gives more room to substantive equality through welfare measures |    |
+| Neoliberalism = Suspicious of equality projects that require coercive redistribution         |
+| 04. LIBERTY | Classical liberalism = Mainly negative liberty or freedom from restraint |     |
+| Welfare liberalism = Liberty plus conditions for a dignified life and self-development |     |
+| Neoliberalism = Strong negative liberty, especially economic freedom from regulation         |
+| 05. WELFARE | Classical liberalism = Not a central state obligation beyond minimal services  |
+| | Welfare liberalism = Central responsibility of the welfare state | Neoliberalism = Often   |
+| seen as overreach when financed through forced transfers                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Doctrine. Justice in holdings has three principles -- justice in ACQUISITION (how
-      unowned things are first justly held), justice in TRANSFER (voluntary exchange and
-      gift) and justice in RECTIFICATION (correcting past injustice). There is no required
-      end-state pattern.
-        |
-        v
-  [2] Historical vs patterned. Patterned principles (equality, need, merit) judge the
-      shape of the distribution; historical principles judge the PROCESS. The Wilt
-      Chamberlain argument shows that if people freely pay to watch him, the resulting
-      inequality is just, and maintaining any fixed pattern would require continuous
-      interference with voluntary transfers.
-        |
-        v
-  [3] Critique. The acquisition and rectification principles are the weakest links: both
-      need an independent criterion, and real starting distributions are tainted by
-      conquest, coercion and background injustice, so "voluntariness" is rarely clean.
-        |
-        v
-  [4] The core argument. A society that excludes half its members or attaches rights to
-      status wastes human capacities and violates utility properly understood; the
-      "nature" invoked to justify subordination is itself socially manufactured through
-      subjection.
-        |
-        v
-SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 12/19: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Liberalism always means anti-state politics => REPAIR: Gauba explicitly            |
+| distinguishes classical negative liberalism from welfare positive liberalism                 |
+| 02. TRAP: Neoliberalism and liberalism are identical => REPAIR: Neoliberalism is a           |
+| contemporary restoration of laissez-faire within the wider liberal family                    |
+| 03. TRAP: Hayek, Friedman and Nozick defend one identical doctrine => REPAIR: Gauba groups   |
+| them for rollback purposes, but Hayekian spontaneous order, Friedmanite market freedom and   |
+| Nozickian entitlement/minimal-state reasoning remain distinct arguments                      |
+| 04. TRAP: Liberalism only protects property and has nothing to do with constitutionalism =>  |
+| REPAIR: Gauba says liberalism's lasting value survives strongly as constitutionalism and     |
+| limits on arbitrary power                                                                    |
+| 05. TRAP: Welfare liberalism abandoned liberty => REPAIR: Its claim is that liberty needs    |
+| supportive conditions, not merely absence of restraint                                       |
+| 06. TRAP: Gauba's criticism means liberalism has no contribution => REPAIR: He also credits  |
+| it with rationalism, critique of feudalism and durable constitutional values                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/19: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Companion depth file (Advanced enrichment beyond a core GS answer, not required for      |
+| marks-adequacy): Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md                |
+| 02. For the ideology backdrop, read Political-Theory/basic/02_Ideology-and-End-of-           |
+| Ideology.md first                                                                            |
+| 03. For the later concept-level unpacking of liberty, equality and property, use Political-  |
+| Theory/basic/18_Liberty-Equality-and-Property.md                                             |
+| 04. For Indian constitutional applications of liberal values, cross-link to                  |
+| Polity/basic/Fundamental-Rights.md, Polity/basic/Directive-Principles.md and                 |
+| Polity/advanced/10_Amendment-and-Basic-Structure.md                                          |
+| 05. For thinker-specific optional depth, link to Philosophy/paper-2/socio-                   |
+| political/Political-Ideologies.md, Philosophy/paper-2/socio-political/Social-Political-      |
+| Ideals.md and Philosophy/paper-2/socio-political/Individual-and-State.md                     |
+| 06. Do not collapse liberalism into a single market slogan. -> Keep classical, welfare and   |
+| neoliberal strands distinct                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/19: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism puts individual liberty at the centre of public policy and opposes arbitrary  |
+| authority                                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Its core vocabulary includes rights, consent, procedure, civil liberties, contract and   |
+| rule-limited government                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Classical liberalism is laissez-faire and negative-state; welfare liberalism is          |
+| positive-state; neoliberalism is rollback liberalism                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Gauba's critique focuses on bourgeois bias, unequal group power and the gap between      |
+| market liberty and actual social welfare                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/19: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 05. Gauba's contribution claim is that liberalism replaced tradition with rationalism and    |
+| survives most durably as constitutionalism                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. One-line answer spine: liberalism is a family doctrine of individual liberty under       |
+| limited government, internally divided over how much state action liberty requires           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Two-line enrichment: classical liberals fear state coercion, welfare liberals fear       |
+| market-generated deprivation, and neoliberals fear the coercive growth of welfare-state      |
+| control                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/19: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism is the starting point for understanding rights, constitutionalism, limited    |
+| government, consent and the rule of law in modern politics                                   |
+| 02. Liberalism emerged historically in the West to attack feudal privilege and create space  |
+| for the entrepreneurial class against authoritarian rule                                     |
+| 03. Thinker - Position in brief                                                              |
+| 04. Liberalism always means anti-state politics. -> Gauba explicitly distinguishes classical |
+| negative liberalism from welfare positive liberalism                                         |
+| 05. Liberalism puts individual liberty at the centre of public policy and opposes arbitrary  |
+| authority                                                                                    |
+| 06. Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian      |
+| exponent of rollback liberalism, grounded in rights and entitlement rather than only in      |
+| market-efficiency                                                                            |
+| 07. Candidates should pair this conceptual mapping with their own independently verified     |
+| Economy-file dates, policy names and outcomes; this file supplies only the political-theory  |
+| lens, not                                                                                    |
+| 08. Directive decoding table:                                                                |
+| 09. Chain 3 - Objection: "Welfare liberalism abandoned liberty for equality." Reply: welfare |
+| liberalism's own claim is that liberty without supportive social conditions is too thin to   |
+| be                                                                                           |
+| 10. Do not present any sentence in this file as a verbatim quotation from Locke, Green,      |
+| Hayek, Friedman, Nozick or Rawls unless it is already inside quotation marks in the source   |
+| text used to                                                                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/19: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Liberal Family                                                                               |
+| 02. Historical Spine; Essential Distinctions; SESSION; Core; Liberalism; West; Gauba         |
+| 03. Thinkers; Illustrations; Comparison Matrix; SESSION; Thinker; Position; John Locke       |
+| 04. Ownership Boundaries; UPSC Trap; Repair; SESSION; UPSC; Liberalism; Gauba                |
+| 05. Classical; Welfare-State; Neoliberal Strands; SESSION; Revision; Liberalism; Gauba       |
+| 06. Knowledge argument:; Price/market-coordination argument:; Coercion argument:;            |
+| Limitation:; Analytical clarification of Nozick's entitlement-theory architecture; justice   |
+| in acquisition; justice in transfer                                                          |
+| 07. The standard welfare-liberal/Rawlsian reply to Nozick; Rawlsian Reply; Indian Mixed-     |
+| Economy; Lens; SESSION; Rawlsian; Rawls                                                      |
+| 08. Qualified thesis formula for this topic:; Directive decoding table:; Premises:;          |
+| Mechanism:; Conclusion:; Qualified Thesis; Directive-Specific Architecture                   |
+| 09. Unit 1 - Claim:; Named:; Significance:; Limitation:; Unit 2 - Claim:; Unit 3 - Claim:;   |
+| Unit 4 - Claim:                                                                              |
+| 10. Proposition Discipline; Sources; Final Integration; SESSION; Quotation; Locke; Green     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/19: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish classical liberalism, welfare liberalism and neoliberalism. Answer |
+| in 150 words                                                                                 |
+| 02. 10 MARKS: Explain Hayek's knowledge argument against comprehensive economic planning.    |
+| Answer in 150 words                                                                          |
+| 03. 10 MARKS: Critically examine Nozick's entitlement theory and minimal state. Answer in    |
+| 150 words                                                                                    |
+| 04. 15 MARKS: How does welfare liberalism answer the classical liberal conception of         |
+| freedom? Answer in 250 words                                                                 |
+| 05. 15 MARKS: Evaluate neoliberalism as both a revival of classical liberalism and a         |
+| response to the welfare state. Answer in 250 words                                           |
+| 06. 15 MARKS: Compare the Hayekian, Nozickian and Rawlsian approaches to liberty, property   |
+| and distributive justice. Answer in 250 words                                                |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/19: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Liberalism is not one doctrine but a moving intellectual movement:                |
+| classical/negative liberalism liquidated feudal privilege and confined the state to life,    |
+| property, contract and minimum common services; positive/welfare liberalism from Mill and    |
+| Green to Hobhouse, Laski and Tawney gave the state a duty to secure a dignified life; and    |
+| neoliberalism from Hayek, Friedman and Nozick tries to roll that state back in the name of   |
+| spontaneous order. The examinable judgment is therefore never 'is liberalism pro- or anti-   |
+| state? ' but 'which liberal strand, on which criterion of liberty, and with what recorded    |
+| criticism' - including Gauba's own charge that liberalism has clung to capitalism and that   |
+| welfare may create an illusion of welfare rather than securing real welfare                  |
++----------------------------------------------------------------------------------------------+

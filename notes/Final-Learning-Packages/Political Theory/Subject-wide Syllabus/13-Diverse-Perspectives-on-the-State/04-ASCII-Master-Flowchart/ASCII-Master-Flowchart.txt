@@ -1,238 +1,511 @@
-ASCII MASTER FLOW — PANEL 1/12: The State-Theory Problem and Its Stakes
-CENTRAL FOCUS
-The State-Theory Problem and Its Stakes
-  [1] State theory asks about origin, purpose, liberty, inequality, society and change.
-        |
-        v
-  [2] Gauba compares competing images rather than announcing one final state doctrine.
-        |
-        v
-  [3] The state appears as ethical whole, instrument, class relation and group
-      coordinator.
-        |
-        v
-  [4] A theory becomes misleading when its partial insight is treated as exhaustive.
-        |
-        v
-VERDICT -> State theory is plural because political power has several dimensions.
-ANSWER USE -> Name the dimension before selecting or combining perspectives.
+ASCII MASTER FLOW — PANEL 1/22: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Diverse Perspectives on the State.                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/13_Diverse-Perspectives-on-the-State.md for the full       |
+| direct-book reconstruction and the larger comparative argument                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Definitions and the Chapter Sequence
-CENTRAL FOCUS
-Definitions and the Chapter Sequence
-  [1] Organic theory treats the state as natural; contract theory treats it as artificial.
-        |
-        v
-  [2] Laissez-faire limits the state, while welfare liberalism makes freedom enabling.
-        |
-        v
-  [3] Marxist, communitarian and post-colonial views relocate the source of political
-      power.
-        |
-        v
-  [4] Gandhian, feminist and pluralist views challenge coercion, patriarchy and monopoly.
-        |
-        v
-VERDICT -> Definitions locate each perspective before evaluation begins.
-ANSWER USE -> Contrast the image of the state, not only the thinker's name.
+ASCII MASTER FLOW — PANEL 2/22: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1588-1679 -> Theory Thomas Hobbes                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1690 -> In his Two Treatises of Civil Government                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1711-76 -> David Hume                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1712-78 -> Jean Jacques Rousseau                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1723-90 -> Adam Smith                                                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: The Six-Test Comparison Grid
-CENTRAL FOCUS
-The Six-Test Comparison Grid
-  [1] Origin asks whether the state is natural, contracted, class-produced or colonial.
-        |
-        v
-  [2] Purpose compares good life, rights, welfare, class rule, swaraj and coordination.
-        |
-        v
-  [3] Liberty ranges from obedience through non-interference to capacity and self-rule.
-        |
-        v
-  [4] Inequality, civil society and route to change complete the mandatory six-test grid.
-        |
-        v
-VERDICT -> The six-test grid converts a list of theories into disciplined comparison.
-ANSWER USE -> Apply the same dimensions to every perspective in the answer.
+ASCII MASTER FLOW — PANEL 3/22: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1724-1804 -> Immanuel Kant                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1729-97 -> Edmund Burke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1737-1809 -> Tom Paine                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1755 -> Rousseau Rousseau, in his Discourse on Inequality                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1762 -> However, in his later work The Social Contract                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Organic, Contract and Liberal Thinkers
-CENTRAL FOCUS
-Organic, Contract and Liberal Thinkers
-  [1] Aristotle, Burke and Hegel develop natural, historical and ethical state images.
-        |
-        v
-  [2] Hobbes, Locke and Rousseau use contract for security, rights and popular
-      sovereignty.
-        |
-        v
-  [3] Smith, Bentham, James Mill, Spencer and Nozick defend different limited-state
-      arguments.
-        |
-        v
-  [4] J.S. Mill, Green, Hobhouse, Laski and MacIver revise liberalism toward welfare.
-        |
-        v
-VERDICT -> Liberal traditions disagree internally about authority, rights and welfare.
-ANSWER USE -> Separate contract, minimal-state and positive-liberal arguments.
+ASCII MASTER FLOW — PANEL 4/22: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1773-1836 -> James Mill                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1776 -> Inquiry into the Nature and Causes of the Wealth of Nations                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1789 -> French Revolution                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1806-73 -> LIBERALISM John Stuart Mill                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1814-76 -> Mikhail Bakunin                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers
-CENTRAL FOCUS
-Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers
-  [1] Marx, Engels and Lenin explain class rule; Gramsci adds coercion and hegemony.
-        |
-        v
-  [2] Miliband argues instrumental capture; Poulantzas answers with bounded relative
-      autonomy.
-        |
-        v
-  [3] Communitarians stress embedded selves; post-colonial theory stresses inherited state
-      forms.
-        |
-        v
-  [4] Gandhi, Millett, Eisenstein and pluralists expose coercive, gendered and dispersed
-      power.
-        |
-        v
-VERDICT -> Critical theories differ over class, community, empire, coercion and gender.
-ANSWER USE -> Use one internal debate before moving across traditions.
+ASCII MASTER FLOW — PANEL 5/22: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1818-83 -> Karl Marx                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1818-83 -> Marx Like Marx                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1820-1903 -> Herbert Spencer                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1820-95 -> Friedrich Engels                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Ten-Perspective Comparative Matrix
-CENTRAL FOCUS
-Ten-Perspective Comparative Matrix
-  [1] Ten perspectives must be compared through the same six dimensions, not merely
-      listed.
-        |
-        v
-  [2] Organic and contract views prioritise ethical whole and authorised protection
-      differently.
-        |
-        v
-  [3] Minimal, welfare and Marxist views disagree about liberty, property and structural
-      power.
-        |
-        v
-  [4] Communitarian, post-colonial, Gandhian, feminist and pluralist lenses widen the
-      agenda.
-        |
-        v
-VERDICT -> Each perspective illuminates one state function and obscures another.
-ANSWER USE -> Compare attraction, mechanism and strongest limitation together.
+ASCII MASTER FLOW — PANEL 6/22: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins by saying the aim is to bring out the complexity of the problem, not to     |
+| pronounce any final verdict on the state (PDF p.220)                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. The organic view treats the state as natural and ethical, with individual freedom        |
+| realized through obedience and functional differentiation (PDF pp.221-225)                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. The liberal-individualist stream treats the state as artificial, but it branches into    |
+| contractarian legitimacy, laissez-faire protection, and later welfare revision (PDF          |
+| pp.226-260)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Marxism rejects both organic and liberal harmony and sees the state as an instrument of  |
+| class domination and class exploitation (PDF pp.261-266)                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Trap Repair, Boundaries, Revision and Sources
-CENTRAL FOCUS
-Trap Repair, Boundaries, Revision and Sources
-  [1] Reject the claims that all contract theorists, liberals or feminist thinkers agree.
-        |
-        v
-  [2] Keep Miliband distinct from Poulantzas and Millett distinct from Eisenstein.
-        |
-        v
-  [3] Locke's text was largely composed before 1688 but later read as vindicating the
-      settlement.
-        |
-        v
-  [4] Pluralism disperses power but does not prove equal groups or a neutral state.
-        |
-        v
-VERDICT -> Precision depends on resisting false mergers and unsafe historical claims.
-ANSWER USE -> Turn every common misconception into an explicit correction.
+ASCII MASTER FLOW — PANEL 7/22: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. Communitarianism attacks the liberal image of the detached self and wants the political  |
+| order to cultivate common goods and shared identities (PDF pp.267-270)                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Post-colonial analysis adds the historical burdens of colonial rule, inherited           |
+| bureaucracy, nation-building and neo-colonial continuities (PDF pp.270-273)                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Gandhian thought morally distrusts the coercive state and shifts the ideal toward self-  |
+| rule, trusteeship, bread labour and village-centred democracy (PDF pp.273-277)               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Feminist and pluralist perspectives then challenge the state from two further sides:     |
+| gendered power and dispersed associational power (PDF pp.277-279)                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Theses, Directives and Marxist Argument Reconstruction
-CENTRAL FOCUS
-Theses, Directives and Marxist Argument Reconstruction
-  [1] A rigorous thesis identifies which state image and which comparison dimension
-      matter.
-        |
-        v
-  [2] Directive control prevents liberalism, Marxism or feminism from being flattened.
-        |
-        v
-  [3] Miliband's personnel and leverage claim meets Poulantzas's structural-autonomy
-      objection.
-        |
-        v
-  [4] Relative autonomy remains bounded if the account is to retain a Marxist explanation.
-        |
-        v
-VERDICT -> Relative autonomy explains mediation without making class power irrelevant.
-ANSWER USE -> Present claim, objection and bounded reply in that order.
+ASCII MASTER FLOW — PANEL 8/22: Illustrations Attached to Claims (1/2)
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS (1/2)                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. The Nazi and Fascist experiences are used by Gauba as historical warnings against        |
+| treating state authority as absolute and beyond challenge (PDF p.224)                        |
+| 02. Locke's defence of the Glorious Revolution of 1688 is a historical example of limited    |
+| government and a right to replace rulers who betray the trust (PDF p.232). Dating/framing    |
+| caution: Locke's Two Treatises of Government was published in 1689 (title page dated 1690),  |
+| and is popularly taught as a direct, after-the-fact justification of 1688. Peter Laslett's   |
+| textual scholarship established that most of the work was actually composed earlier,         |
+| c.1679-1683, during the Exclusion Crisis, likely to justify resistance to Charles II/James   |
+| II's succession rather than to celebrate an event that had not yet occurred. The safer exam  |
+| framing is: Locke's argument for trust, limited government and a right to resist a           |
+| government that breaches that trust was available before 1688 and was then read publicly as  |
+| the philosophical defence of the Revolution Settlement once it was published - not that      |
+| Locke sat down in 1689 to write an apologia for a completed revolution. Use "associated      |
+| with," "came to justify," or "published shortly after and read as vindicating" rather than   |
+| an unqualified "written to defend."                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Named Evidence and Mark-Scaled Architecture
-CENTRAL FOCUS
-Named Evidence and Mark-Scaled Architecture
-  [1] Aristotle, Locke, Macaulay, Miliband and Poulantzas supply named evidence units.
-        |
-        v
-  [2] Millett and Eisenstein provide distinct feminist routes into state criticism.
-        |
-        v
-  [3] Solidarity and Eastern European environmental groups illustrate associational
-      pressure.
-        |
-        v
-  [4] Mark-scaled answers move from one pair to cross-cluster comparison and internal
-      debate.
-        |
-        v
-VERDICT -> Named texts and cases must perform an analytical role, not decorate the answer.
-ANSWER USE -> Link evidence to one comparison dimension and one limitation.
+ASCII MASTER FLOW — PANEL 9/22: Illustrations Attached to Claims (2/2)
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS (2/2)                                                       |
++----------------------------------------------------------------------------------------------+
+| 03. Gauba's account of nineteenth-century capitalism uses child labour, slum housing and     |
+| harmful commodities as historical illustrations of why laissez-faire had to be revised (PDF  |
+| pp.245-247)                                                                                  |
+| 04. Macaulay's 1835 educational minute and colonial infrastructure in India are cited as     |
+| historical illustrations of how colonial institutions could modernize and dominate at the    |
+| same time (PDF pp.271-272)                                                                   |
+| 05. Gandhi's swaraj discussion here prepares the conceptual ground for the later civil-      |
+| disobedience discussion in Political-Theory/basic/14_Political-Obligation-Resistance-and-    |
+| Law.md                                                                                       |
+| 06. Solidarity in Poland and environmental groups in Eastern Europe are book-period          |
+| illustrations of associational pressure helping authoritarian systems give way to pluralist  |
+| democracy (PDF p.278)                                                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Indian Application and Proposition Method
-CENTRAL FOCUS
-Indian Application and Proposition Method
-  [1] India's post-colonial state combines inherited institutions with a new legitimating
-      order.
-        |
-        v
-  [2] The 1-2 July 2026 e-Governance conference illustrates service and capacity-building.
-        |
-        v
-  [3] AI-enabled administration also raises surveillance, access, neutrality and
-      accountability issues.
-        |
-        v
-  [4] Use current evidence to test perspectives, not to declare one theory finally
-      correct.
-        |
-        v
-VERDICT -> Digital governance can express welfare capacity and intensify domination risks.
-ANSWER USE -> Apply several lenses without treating a current programme as proof.
+ASCII MASTER FLOW — PANEL 10/22: Comparison Matrix (1/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. ORGANIC / IDEALIST | State origin = Natural or historical growth; state logically prior  |
+| to the individual (PDF pp.221-223) | State purpose = Secure good life and moral development  |
+| (PDF pp.221-223) | Liberty = Often equated with obedience to the state; critics reject this  |
+| reduction (PDF pp.223-225) | Inequality = Frequently treated as functional or natural        |
+| hierarchy (PDF pp.222-225) | Civil society = Tends to blur state and society (PDF p.224) |   |
+| Route to change = Organic growth and ethical cultivation, not contract or revolution         |
+| 02. SOCIAL-CONTRACT | State origin = Artificial agreement out of the state of nature (PDF    |
+| pp.226-236) | State purpose = Security, order, rights-protection or civil liberty, depending |
+| on thinker (PDF pp.227-234) | Liberty = Hobbes narrows liberty for security; Locke preserves |
+| rights; Rousseau transforms natural into civil liberty (PDF pp.228-234) | Inequality =       |
+| Formally begins from equality of contractors, but Gauba criticizes this simplification (PDF  |
+| pp.235-236) | Civil society = Often secondary to the constituted political order | Route to  |
+| change = Constitutional replacement or renewed consent, especially in Locke (PDF pp.231-232) |
+| 03. LAISSEZ-FAIRE LIBERAL | State origin = Artificial and limited state; may emerge from     |
+| contract or protection needs (PDF pp.236-244) | State purpose = Protect life, property,      |
+| contract and external order (PDF pp.236-244) | Liberty = Negative liberty, market freedom    |
+| and freedom from interference (PDF pp.236-244) | Inequality = Accepts inequality if produced |
+| by free acquisition and exchange; Spencer radicalizes this (PDF pp.242-244) | Civil society  |
+| = Voluntary association and market society are primary | Route to change = Reform by         |
+| limiting state action, not redistributive transformation                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close options test natural versus artificial state and negative versus positive
-      liberty.
-        |
-        v
-  [2] They also test state above society versus state within society.
-        |
-        v
-  [3] Thinker groups must not erase Hobbes-Locke-Rousseau or Miliband-Poulantzas
-      differences.
-        |
-        v
-  [4] Every correct option should identify perspective, mechanism and theoretical limit.
-        |
-        v
-VERDICT -> Close options are separated by state image, freedom concept and power location.
-ANSWER USE -> State the decisive distinction before selecting an answer.
+ASCII MASTER FLOW — PANEL 11/22: Comparison Matrix (2/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 04. WELFARE / POSITIVE LIBERAL | State origin = State still artificial/instrumental, but     |
+| rooted in moral community and social interdependence (PDF pp.245-260) | State purpose =      |
+| Remove obstacles to self-development and secure welfare, education and social justice (PDF   |
+| pp.250-260) | Liberty = Positive liberty: real capacity to develop and act well (PDF         |
+| pp.251-253) | Inequality = Inequality is tolerable only if socially functional and checked   |
+| by welfare and taxation; Gauba shows liberal debate here (PDF pp.250-257) | Civil society =  |
+| Society is morally prior to the state in Green and Maclver (PDF pp.252-260) | Route to       |
+| change = Incremental democratic reform, regulation and welfare expansion                     |
+| 05. MARXIST / CLASS | State origin = Arises with private property and class division (PDF    |
+| pp.261-263) | State purpose = In reality, preserve dominant-class rule and suppress class    |
+| conflict (PDF pp.262-266) | Liberty = Liberal freedom is formal; real freedom needs class    |
+| emancipation (PDF pp.262-266) | Inequality = Inequality is structurally produced by          |
+| ownership and exploitation (PDF pp.261-265) | Civil society = Civil society can reproduce    |
+| hegemony, especially in Gramsci (PDF pp.266-267) | Route to change = Revolution, proletarian |
+| rule in transition, then withering away of the state (PDF pp.263-266)                        |
+| 06. COMMUNITARIAN | State origin = Political order grows out of socially situated selves,    |
+| not isolated individuals (PDF pp.267-270) | State purpose = Sustain common good, shared      |
+| identity and moral responsibility (PDF pp.268-270) | Liberty = Liberty is meaningful only    |
+| within a well-functioning community (PDF pp.267-270) | Inequality = Worries less about       |
+| abstract equality than about disintegration and misdistribution across social spheres (PDF   |
+| pp.268-270) | Civil society = Community, not mere association, is central (PDF pp.267-270) | |
+| Route to change = Moral reconstruction of community and institutions                         |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic.
-        |
-        v
-  [2] Six original questions cover comparison, internal debate and agenda-widening
-      critiques.
-        |
-        v
-  [3] A strong answer applies the six-test grid and one named objection-reply pair.
-        |
-        v
-  [4] Final recall: no single image exhausts the state's ethical, coercive and social
-      roles.
-        |
-        v
-VERDICT -> Original practice preserves ownership while testing the complete theory grid.
-ANSWER USE -> Conclude by naming which lens best answers the question's demand.
+ASCII MASTER FLOW — PANEL 12/22: Comparison Matrix (3/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (3/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 07. POST-COLONIAL | State origin = Shaped by colonial conquest, inherited borders, elites    |
+| and institutions (PDF pp.270-273) | State purpose = Nation-building, state-building and      |
+| developmental fulfilment after empire (PDF pp.272-273) | Liberty = Freedom means more than   |
+| formal independence; it includes decolonizing values and institutions (PDF pp.271-273) |     |
+| Inequality = Inequality is tied to colonial domination, dependence and internal              |
+| fragmentation (PDF pp.270-273) | Civil society = Civil society can be awakened by colonial   |
+| education and national movement, but may also inherit elite bias (PDF pp.271-273) | Route to |
+| change = Decolonization, nation-building and welfare extension                               |
+| 08. GANDHIAN | State origin = State emerges from coercive and centralized political power;   |
+| ideal life points beyond it (PDF pp.273-277) | State purpose = At best a temporary means;    |
+| ideal is self-regulated swaraj (PDF pp.274-277) | Liberty = Freedom is self-rule, self-      |
+| discipline and capacity to resist abused authority (PDF pp.275-277) | Inequality =           |
+| Inequality is moral as well as economic; Gandhi answers it through dignity of labour and     |
+| trusteeship (PDF pp.274-275) | Civil society = Village community and moral society are       |
+| higher than centralized rule (PDF pp.275-277) | Route to change = Non-violent reform, self-  |
+| purification and decentralized reconstruction                                                |
+| 09. FEMINIST | State origin = Existing states are shaped within gendered power relations,    |
+| not gender-neutral social contracts (PDF pp.277-278) | State purpose = Secure justice        |
+| against male violence, unequal power and exclusion (PDF pp.277-278) | Liberty = Freedom      |
+| includes bodily autonomy, reproductive choice and freedom from domination in both public and |
+| private life (PDF pp.277-278) | Inequality = Gender hierarchy is structural, not accidental  |
+| (PDF pp.277-278) | Civil society = Family and intimacy are political sites, not extra-       |
+| political zones (PDF p.277) | Route to change = Legal reform, welfare claims and deeper      |
+| transformation of patriarchal structures                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/22: Comparison Matrix (4/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (4/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 10. PLURALIST | State origin = Modern democracy produces multiple centres of power and       |
+| association (PDF pp.278-279) | State purpose = Coordinate, arbitrate and justify authority   |
+| through justice across groups (PDF pp.278-279) | Liberty = Freedom of association is         |
+| indispensable (PDF p.278) | Inequality = Early pluralism underestimated unequal bargaining   |
+| power; Dahl and Lindblom later qualify this (PDF p.279) | Civil society = Civil society is   |
+| the bulwark of democratic order (PDF p.278) | Route to change = Redistribution of power,     |
+| stronger associations and democratic correction                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/22: Examiner Trap Firewall (1/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Organic theory simply means patriotism." => REPAIR: In Gauba it is a strong claim |
+| that the state is natural, ethically prior and superior to the individual (PDF pp.221-223)   |
+| 02. TRAP: "All contract theorists defend limited government." => REPAIR: Hobbes does not;    |
+| Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF    |
+| pp.230-234)                                                                                  |
+| 03. TRAP: "Liberalism always means minimal state." => REPAIR: Gauba clearly distinguishes    |
+| laissez-faire from welfare or positive liberalism (PDF pp.243-260)                           |
+| 04. TRAP: "Pluralism proves the state is neutral." => REPAIR: Even Gauba's pluralist         |
+| discussion admits unequal groups and privileged interests; neutrality remains contested (PDF |
+| p.279)                                                                                       |
+| 05. TRAP: "Gandhi was just another anarchist." => REPAIR: Gandhi shares suspicion of         |
+| coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha, not |
+| in the same premises as Bakunin or Kropotkin (PDF pp.274-277)                                |
+| 06. TRAP: "Feminism studies only representation in parliament." => REPAIR: Gauba's feminist  |
+| section insists that domination extends into intimate relations and that the personal itself |
+| is political (PDF p.277)                                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/22: Examiner Trap Firewall (2/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 07. TRAP: "Miliband and Poulantzas say the same thing about the capitalist state." =>        |
+| REPAIR: Miliband's instrumentalism (state = direct tool of capitalist class via              |
+| personnel/economic power/vested interest) is explicitly rejected by Poulantzas's             |
+| structuralism (relative autonomy of the state, legitimacy through "the people," state as     |
+| arena of class struggle); Gauba himself flags the risk that Poulantzas's autonomy thesis can |
+| drift away from core Marxism (PDF p.266)                                                     |
+| 08. TRAP: "Locke wrote the Two Treatises after 1688 specifically to celebrate the Glorious   |
+| Revolution." => REPAIR: Laslett's scholarship shows most of the text was composed            |
+| c.1679-1683, before the Revolution; it was published in 1689 and then read as the            |
+| Revolution's philosophical defence - composition predates the event popularly said to have   |
+| inspired it                                                                                  |
+| 09. TRAP: "Millett and Eisenstein make the identical feminist argument about the state." =>  |
+| REPAIR: Millett's entry point is the personal/intimate sphere and "power-structured          |
+| relationships"; Eisenstein's is the liberal state's claimed neutrality and its socialist-    |
+| feminist critique of capitalist welfare policy - distinct emphases within one broader        |
+| feminist perspective (PDF pp.277-278)                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/22: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/13_Diverse-Perspectives-on-the-State.md for the full       |
+| direct-book reconstruction and the larger comparative argument                               |
+| 02. Use Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md before  |
+| this file if you need the basic distinction between state, government, society and civil     |
+| society                                                                                      |
+| 03. Use Political-Theory/basic/11_Sovereignty-and-Pluralism.md and Political-                |
+| Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md to connect state theory with  |
+| sovereignty and global pressures                                                             |
+| 04. Use Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md, Political-    |
+| Theory/basic/06_Feminism-Sex-and-Gender.md and Political-Theory/basic/07_Nature-of-Politics- |
+| and-Communitarianism.md for ideology-specific foundations already studied separately         |
+| 05. Use Philosophy/paper-2/socio-political/Individual-and-State.md,                          |
+| Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md and Philosophy/paper-2/socio-    |
+| political/Gender-Discrimination.md for Philosophy-optional parallels                         |
+| 06. Boundary: this file remains conceptual; it does not reproduce Indian constitutional      |
+| articles, statutes or case law                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/22: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Start with Gauba's caution: there is no final verdict on the state; different theories   |
+| illuminate different aspects                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Then classify the perspectives in three clusters: ethical-natural (organic), liberal-    |
+| instrumental (contract, laissez-faire, welfare, pluralist), and critical-transformative      |
+| (Marxist, communitarian, post-colonial, Gandhian, feminist)                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Use the mandatory six tests in any answer: origin, purpose, liberty, inequality, civil   |
+| society, route to change                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add one sentence that liberal neutrality is disputed by Marxist, feminist, post-colonial |
+| and pluralist critics                                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. End with a balanced conclusion: the state can be read as protector, welfare agent, class |
+| instrument, coercive machine or coordinator depending on what dimension of power one         |
+| foregrounds                                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/22: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. natural growth / contract / class division / colonial history / associations             |
+| 02. Organic theory: the state is like an organism; individuals are like its organs, and      |
+| their worth depends on the whole (PDF pp.221-223)                                            |
+| 03. Natural state vs artificial state: organic theory treats the state as a natural          |
+| condition of civilized life, whereas liberal and Marxist theories treat it as historically   |
+| produced or                                                                                  |
+| 04. Aristotle: the state exists for life and continues for the good life; man is             |
+| intelligible as a political being only within the polis (PDF pp.221-222)                     |
+| 05. MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and recover |
+| community, embeddedness and differentiated spheres of justice (PDF pp.267-270)               |
+| 06. Perspective - State origin - State purpose - Liberty - Inequality - Civil society -      |
+| Route to change                                                                              |
+| 07. "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the      |
+| state is natural, ethically prior and superior to the individual (PDF pp.221-223)            |
+| 08. Directive - What it demands - Trap to avoid                                              |
+| 09. 1. Aristotle's polis argument - state exists for life, continues for the good life       |
+| (organic/ethical cluster)                                                                    |
+| 10. India's post-colonial state-building (Constituent Assembly's balancing of colonial       |
+| administrative                                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/22: Must-Write Keyword Bank (1/2)
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK (1/2)                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| social-contract                                                                              |
+| 02. Organic theory:; Social-contract theory:; Laissez-faire individualism:; Welfare /        |
+| positive liberal state:; Class theory of the state:; Communitarian perspective:; Post-       |
+| colonial perspective:                                                                        |
+| 03. Natural state vs artificial state:; Ethical institution vs instrument:; Negative liberty |
+| vs positive liberty vs moral self-rule:; State above society vs state within society:;       |
+| Inequality as natural vs inequality as produced:; Neutral umpire = real description of all   |
+| liberal states.; Six-Test Comparison                                                         |
+| 04. Aristotle:; Burke and Hegel:; Hobbes, Locke, Rousseau:; Adam Smith, Bentham, James Mill, |
+| Spencer, Nozick:; J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver:; Organic; Contract        |
+| 05. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas:; political society; civil society;   |
+| instrumentalist theory; structuralist theory; relative autonomy; claim (Miliband) ->         |
+| objection (Poulantzas) -> limit                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 20/22: Must-Write Keyword Bank (2/2)
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK (2/2)                                                                |
++----------------------------------------------------------------------------------------------+
+| 06. Organic / idealist; Social-contract; Laissez-faire liberal; Welfare / positive liberal;  |
+| Marxist / class; Communitarian; Post-colonial                                                |
+| 07. "Organic theory simply means patriotism."; "All contract theorists defend limited        |
+| government."; "Liberalism always means minimal state."; "Pluralism proves the state is       |
+| neutral."; "Gandhi was just another anarchist."; "Feminism studies only representation in    |
+| parliament."; "Miliband and Poulantzas say the same thing about the capitalist state."       |
+| 08. "Diverse perspectives" essay question:; Marxist-state-specific question:;                |
+| "Compare/Contrast the liberal and Marxist views of the state"; "Critically examine the       |
+| Marxist theory of the state"; "Discuss the feminist critique of the state"; "Evaluate the    |
+| post-colonial state"; Claim (Miliband):                                                      |
+| 09. Claim:; Evidence:; Significance:; Limit:; 10-marker:; 15-marker:; Named Evidence         |
+| 10. not; Identify the proposition and the concept; Reconstruct the strongest argument for    |
+| it; Test the counterargument and the conditions; Apply named evidence; Give a graded         |
+| verdict; Never treat an unverified quotation as verbatim                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 21/22: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Compare the organic and social-contract perspectives on the origin and purpose |
+| of the state. Answer in 150 words                                                            |
+| 02. 10 MARKS: Distinguish the laissez-faire state from the welfare or positive-liberal       |
+| state. Answer in 150 words                                                                   |
+| 03. 10 MARKS: Critically examine the Marxist theory of the state with reference to Miliband  |
+| and Poulantzas. Answer in 150 words                                                          |
+| 04. 15 MARKS: Compare Gandhian and pluralist criticisms of centralised state power. Answer   |
+| in 250 words                                                                                 |
+| 05. 15 MARKS: Evaluate diverse perspectives on the state through origin, purpose, liberty,   |
+| inequality, civil society and route to change. Answer in 250 words                           |
+| 06. 15 MARKS: How do feminist and post-colonial perspectives widen classical state theory?   |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 22/22: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Natural state vs artificial state: organic theory treats the state as a natural   |
+| condition of civilized life, whereas liberal and Marxist theories treat it as historically   |
+| produced or MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and |
+| recover community, embeddedness and differentiated spheres of justice (PDF pp. 267-270)      |
++----------------------------------------------------------------------------------------------+

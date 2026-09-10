@@ -1,1035 +1,820 @@
 ---
 topic_key: political-theory-08
 title: Approaches, Behaviouralism and Post-Behaviouralism — Solved Practice Workbook
-generation_identity: political-theory-08:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-08:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Approaches, Behaviouralism and Post-Behaviouralism — Solved Practice Workbook
 
-**Generation:** learner-v2:g3  
-**PYQ ownership:** No directly owned verified PYQ is assigned to this topic; all questions below are original practice.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 08 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Method**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+### MCQ 1
 
-B. A corrective within behavioural political science stressing relevance, action and concern for values.
+Which proposition is correctly associated with **Method**?
 
-C. those generalisations must be testable against relevant, observable behaviour.
+- A. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- B. political science should integrate with, and borrow from, the other social sciences.
+- C. political behaviour shows uniformities expressible as generalisations/theories.
+- D. those generalisations must be testable against relevant, observable behaviour.
 
-D. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Method.
+- **B:** B Attaches to Integration, not Method.
+- **C:** C Attaches to Regularities, not Method.
+- **D:** D Attaches to Verification, not Method.
 
-**Explanation:** The canonical Basic owner pairs **Method** with **The procedure of inquiry by which reliable knowledge and conclusions are obtained**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The procedure of inquiry by which reliable knowledge and conclusions are obtained.**
-
-A. Integration
-
-B. Method
-
-C. Marxian approach
-
-D. Empirical statement
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **The procedure of inquiry by which reliable knowledge and conclusions are obtained.** with **Method**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Method by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Approach**? Other options belong to different named entries.
+Which proposition is correctly associated with **Approach**?
 
-A. Politics is illuminated through philosophy, history, law and institutions.
+- A. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+- B. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- C. A corrective within behavioural political science stressing relevance, action and concern for values.
+- D. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
 
-B. rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+**Answer: B**
 
-C. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+**Option-by-option explanation**
+- **A:** A Attaches to Normative statement, not Approach.
+- **B:** B States the source-recorded proposition for Approach.
+- **C:** C Attaches to Post-behaviouralism, not Approach.
+- **D:** D Attaches to Post-behavioural, not Approach.
 
-D. political science should integrate with, and borrow from, the other social sciences.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Approach** with **A wider frame that includes method plus criteria for selecting problems, questions and relevant data**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A wider frame that includes method plus criteria for selecting problems, questions and relevant data.**
-
-A. David Easton — systems analysis
-
-B. Leo Strauss
-
-C. Normative statement
-
-D. Approach
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A wider frame that includes method plus criteria for selecting problems, questions and relevant data.** with **Approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Approach by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Empirical statement**? Other options belong to different named entries.
+Which proposition is correctly associated with **Empirical statement**?
 
-A. A claim about an observable situation that can be tested or verified by repeated observation.
+- A. research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- B. precision through measurement and quantification wherever the data meaningfully allow it.
+- C. A claim about an observable situation that can be tested or verified by repeated observation.
+- D. rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
 
-B. Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
+**Answer: C**
 
-C. precision through measurement and quantification wherever the data meaningfully allow it.
+**Option-by-option explanation**
+- **A:** A Attaches to Systematization, not Empirical statement.
+- **B:** B Attaches to Quantification, not Empirical statement.
+- **C:** C States the source-recorded proposition for Empirical statement.
+- **D:** D Attaches to Techniques, not Empirical statement.
 
-D. the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Empirical statement** with **A claim about an observable situation that can be tested or verified by repeated observation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A claim about an observable situation that can be tested or verified by repeated observation.**
-
-A. Gabriel Almond — structural-functional approach
-
-B. Empirical statement
-
-C. David Easton
-
-D. Behaviouralism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A claim about an observable situation that can be tested or verified by repeated observation.** with **Empirical statement**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Empirical statement by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Normative statement**? Other options belong to different named entries.
+Which proposition is correctly associated with **Normative statement**?
 
-A. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- A. A corrective within behavioural political science stressing relevance, action and concern for values.
+- B. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- C. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- D. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
 
-B. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+**Answer: D**
 
-C. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+**Option-by-option explanation**
+- **A:** A Attaches to Post-behaviouralism, not Normative statement.
+- **B:** B Attaches to Approach, not Normative statement.
+- **C:** C Attaches to Post-behavioural, not Normative statement.
+- **D:** D States the source-recorded proposition for Normative statement.
 
-D. every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Normative statement** with **A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.**
-
-A. Karl Deutsch — communication/cybernetic approach
-
-B. Method
-
-C. Post-behaviouralism
-
-D. Normative statement
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.** with **Normative statement**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Normative statement by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Behaviouralism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Behaviouralism**?
 
-A. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+- A. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+- B. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+- C. Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+- D. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
 
-B. political behaviour shows uniformities expressible as generalisations/theories.
+**Answer: A**
 
-C. research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Behaviouralism.
+- **B:** B Attaches to Values, not Behaviouralism.
+- **C:** C Attaches to Leo Strauss, not Behaviouralism.
+- **D:** D Attaches to Pure science, not Behaviouralism.
 
-D. government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Behaviouralism** with **A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.**
-
-A. Decision-making approach
-
-B. Behaviouralism
-
-C. Approach
-
-D. Traditional
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.** with **Behaviouralism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Behaviouralism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Post-behaviouralism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Post-behaviouralism**?
 
-A. those generalisations must be testable against relevant, observable behaviour.
+- A. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- B. A corrective within behavioural political science stressing relevance, action and concern for values.
+- C. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+- D. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
 
-B. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+**Answer: B**
 
-C. A corrective within behavioural political science stressing relevance, action and concern for values.
+**Option-by-option explanation**
+- **A:** A Attaches to Approach, not Post-behaviouralism.
+- **B:** B States the source-recorded proposition for Post-behaviouralism.
+- **C:** C Attaches to Normative statement, not Post-behaviouralism.
+- **D:** D Attaches to Post-behavioural, not Post-behaviouralism.
 
-D. political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Post-behaviouralism** with **A corrective within behavioural political science stressing relevance, action and concern for values**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A corrective within behavioural political science stressing relevance, action and concern for values.**
-
-A. Marxian approach
-
-B. Empirical statement
-
-C. Behavioural
-
-D. Post-behaviouralism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A corrective within behavioural political science stressing relevance, action and concern for values.** with **Post-behaviouralism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Post-behaviouralism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Traditional**? Other options belong to different named entries.
+Which proposition is correctly associated with **Traditional**?
 
-A. Politics is illuminated through philosophy, history, law and institutions.
+- A. those generalisations must be testable against relevant, observable behaviour.
+- B. political behaviour shows uniformities expressible as generalisations/theories.
+- C. Politics is illuminated through philosophy, history, law and institutions.
+- D. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
 
-B. rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+**Answer: C**
 
-C. political science should integrate with, and borrow from, the other social sciences.
+**Option-by-option explanation**
+- **A:** A Attaches to Verification, not Traditional.
+- **B:** B Attaches to Regularities, not Traditional.
+- **C:** C States the source-recorded proposition for Traditional.
+- **D:** D Attaches to Method, not Traditional.
 
-D. politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Traditional** with **Politics is illuminated through philosophy, history, law and institutions**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Politics is illuminated through philosophy, history, law and institutions.**
-
-A. Leo Strauss
-
-B. Traditional
-
-C. Normative statement
-
-D. Post-behavioural
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Politics is illuminated through philosophy, history, law and institutions.** with **Traditional**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Traditional by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Behavioural**? Other options belong to different named entries.
+Which proposition is correctly associated with **Behavioural**?
 
-A. precision through measurement and quantification wherever the data meaningfully allow it.
+- A. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+- B. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+- C. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+- D. Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
 
-B. the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.
+**Answer: D**
 
-C. Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
+**Option-by-option explanation**
+- **A:** A Attaches to Behaviouralism, not Behavioural.
+- **B:** B Attaches to Pure science, not Behavioural.
+- **C:** C Attaches to Values, not Behavioural.
+- **D:** D States the source-recorded proposition for Behavioural.
 
-D. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Behavioural** with **Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.**
-
-A. David Easton
-
-B. Behaviouralism
-
-C. Regularities
-
-D. Behavioural
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.** with **Behavioural**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Behavioural by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Post-behavioural**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- A. Post-behavioural — Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- B. Approach — rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+- C. Normative statement — research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- D. Post-behaviouralism — Gives both the behavioural framework and the later post-behavioural call for relevance and action.
 
-B. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+**Answer: A**
 
-C. every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
+**Option-by-option explanation**
+- **A:** A Records the association: Post-behavioural is associated with this proposition.
+- **B:** B Wrong attachment: Approach is recorded with A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- **C:** C Misplaced: Normative statement is recorded with A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+- **D:** D Belongs elsewhere: Post-behaviouralism is recorded with A corrective within behavioural political science stressing relevance, action and concern for values.
 
-D. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Post-behavioural** with **Science should remain rigorous but also relevant, action-oriented and attentive to value-construction**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.**
-
-A. Method
-
-B. Post-behavioural
-
-C. Post-behaviouralism
-
-D. Verification
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.** with **Post-behavioural**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Post-behavioural; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Regularities**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- A. Method — precision through measurement and quantification wherever the data meaningfully allow it.
+- B. Regularities — political behaviour shows uniformities expressible as generalisations/theories.
+- C. Verification — political science should integrate with, and borrow from, the other social sciences.
+- D. Traditional — A claim about an observable situation that can be tested or verified by repeated observation.
 
-B. government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.
+**Answer: B**
 
-C. political behaviour shows uniformities expressible as generalisations/theories.
+**Option-by-option explanation**
+- **A:** A Source disagrees: Method is recorded with The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- **B:** B Matches the record: Regularities is associated with this proposition.
+- **C:** C Misplaced: Verification is recorded with those generalisations must be testable against relevant, observable behaviour.
+- **D:** D Cross-attached: Traditional is recorded with Politics is illuminated through philosophy, history, law and institutions.
 
-D. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Regularities** with **political behaviour shows uniformities expressible as generalisations/theories**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political behaviour shows uniformities expressible as generalisations/theories.**
-
-A. Approach
-
-B. Traditional
-
-C. Techniques
-
-D. Regularities
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **political behaviour shows uniformities expressible as generalisations/theories.** with **Regularities**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Regularities; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Verification**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. those generalisations must be testable against relevant, observable behaviour.
+- A. Method — precision through measurement and quantification wherever the data meaningfully allow it.
+- B. Regularities — political science should integrate with, and borrow from, the other social sciences.
+- C. Verification — those generalisations must be testable against relevant, observable behaviour.
+- D. Traditional — A claim about an observable situation that can be tested or verified by repeated observation.
 
-B. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+**Answer: C**
 
-C. political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+**Option-by-option explanation**
+- **A:** A Cross-attached: Method is recorded with The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- **B:** B Belongs elsewhere: Regularities is recorded with political behaviour shows uniformities expressible as generalisations/theories.
+- **C:** C Faithful pairing: Verification is associated with this proposition.
+- **D:** D Mismatched: Traditional is recorded with Politics is illuminated through philosophy, history, law and institutions.
 
-D. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Verification** with **those generalisations must be testable against relevant, observable behaviour**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **those generalisations must be testable against relevant, observable behaviour.**
-
-A. Empirical statement
-
-B. Verification
-
-C. Behavioural
-
-D. Quantification
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **those generalisations must be testable against relevant, observable behaviour.** with **Verification**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Verification; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Techniques**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. political science should integrate with, and borrow from, the other social sciences.
+- A. Approach — Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- B. Systematization — A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+- C. David Easton — A corrective within behavioural political science stressing relevance, action and concern for values.
+- D. Techniques — rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
 
-B. politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
+**Answer: D**
 
-C. rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Approach is recorded with A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- **B:** B Cross-attached: Systematization is recorded with research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- **C:** C Mismatched: David Easton is recorded with Gives both the behavioural framework and the later post-behavioural call for relevance and action.
+- **D:** D Correct attachment: Techniques is associated with this proposition.
 
-D. A claim about an observable situation that can be tested or verified by repeated observation.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Techniques** with **rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.**
-
-A. Normative statement
-
-B. Post-behavioural
-
-C. Values
-
-D. Techniques
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.** with **Techniques**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Techniques; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Quantification**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. precision through measurement and quantification wherever the data meaningfully allow it.
+- A. Quantification — precision through measurement and quantification wherever the data meaningfully allow it.
+- B. Empirical statement — rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+- C. Integration — research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- D. Method — Gives both the behavioural framework and the later post-behavioural call for relevance and action.
 
-B. the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.
+**Answer: A**
 
-C. Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+**Option-by-option explanation**
+- **A:** A Correct attachment: Quantification is associated with this proposition.
+- **B:** B Mismatched: Empirical statement is recorded with A claim about an observable situation that can be tested or verified by repeated observation.
+- **C:** C Cross-attached: Integration is recorded with political science should integrate with, and borrow from, the other social sciences.
+- **D:** D Wrong attachment: Method is recorded with The procedure of inquiry by which reliable knowledge and conclusions are obtained.
 
-D. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Quantification** with **precision through measurement and quantification wherever the data meaningfully allow it**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **precision through measurement and quantification wherever the data meaningfully allow it.**
-
-A. Behaviouralism
-
-B. Quantification
-
-C. Regularities
-
-D. Systematization
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **precision through measurement and quantification wherever the data meaningfully allow it.** with **Quantification**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Quantification; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Values**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
+- A. Pure science — Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+- B. Values — an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+- C. Behavioural — Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- D. Behaviouralism — A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
 
-B. Gives both the behavioural framework and the later post-behavioural call for relevance and action.
+**Answer: B**
 
-C. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+**Option-by-option explanation**
+- **A:** A Mismatched: Pure science is recorded with understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+- **B:** B Correct attachment: Values is associated with this proposition.
+- **C:** C Wrong attachment: Behavioural is recorded with Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
+- **D:** D Source disagrees: Behaviouralism is recorded with A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
 
-D. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Values** with **an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).**
-
-A. Post-behaviouralism
-
-B. Verification
-
-C. Pure science
-
-D. Values
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).** with **Values**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Values; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Systematization**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- A. Approach — Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+- B. Techniques — A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+- C. Systematization — research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+- D. David Easton — A corrective within behavioural political science stressing relevance, action and concern for values.
 
-B. government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.
+**Answer: C**
 
-C. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+**Option-by-option explanation**
+- **A:** A Not this pair: Approach is recorded with A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- **B:** B Wrong attachment: Techniques is recorded with rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+- **C:** C Faithful pairing: Systematization is associated with this proposition.
+- **D:** D Source disagrees: David Easton is recorded with Gives both the behavioural framework and the later post-behavioural call for relevance and action.
 
-D. A corrective within behavioural political science stressing relevance, action and concern for values.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Systematization** with **research and theory are interdependent; data collection is guided by, and in turn refines, theory**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **research and theory are interdependent; data collection is guided by, and in turn refines, theory.**
-
-A. Traditional
-
-B. Systematization
-
-C. Techniques
-
-D. Integration
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **research and theory are interdependent; data collection is guided by, and in turn refines, theory.** with **Systematization**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Systematization; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Pure science**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+- A. Behavioural — Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+- B. Behaviouralism — A wider frame that includes method plus criteria for selecting problems, questions and relevant data; the other dimensions would remain secondary under this reading.
+- C. Values — Science should remain rigorous but also relevant, action-oriented and attentive to value-construction; this option treats that proposition as the decisive account.
+- D. Pure science — understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
 
-B. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+**Answer: D**
 
-C. understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Behavioural is recorded with Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
+- **B:** B Belongs elsewhere: Behaviouralism is recorded with A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+- **C:** C Misplaced: Values is recorded with an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+- **D:** D Records the association: Pure science is associated with this proposition.
 
-D. Politics is illuminated through philosophy, history, law and institutions.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Pure science** with **understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.**
-
-A. Behavioural
-
-B. Quantification
-
-C. David Easton — systems analysis
-
-D. Pure science
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.** with **Pure science**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Pure science; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Integration**? Other options belong to different named entries.
+Consider the following statements:
+1. **Integration** is associated with: political science should integrate with, and borrow from, the other social sciences.
+2. **Karl Deutsch — communication/cybernetic approach** is associated with: Gives both the behavioural framework and the later post-behavioural call for relevance and action.
+Which option is correct?
 
-A. political science should integrate with, and borrow from, the other social sciences.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
+**Answer: A**
 
-C. A claim about an observable situation that can be tested or verified by repeated observation.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Integration** with **political science should integrate with, and borrow from, the other social sciences**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political science should integrate with, and borrow from, the other social sciences.**
-
-A. Post-behavioural
-
-B. Integration
-
-C. Values
-
-D. Gabriel Almond — structural-functional approach
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **political science should integrate with, and borrow from, the other social sciences.** with **Integration**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Integration does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **David Easton — systems analysis**? Other options belong to different named entries.
+Consider the following statements:
+1. **David Easton — systems analysis** is associated with: political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+2. **Decision-making approach** is associated with: political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+Which option is correct?
 
-A. Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+**Answer: B**
 
-C. the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **David Easton — systems analysis** with **the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.**
-
-A. Regularities
-
-B. Systematization
-
-C. Karl Deutsch — communication/cybernetic approach
-
-D. David Easton — systems analysis
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the political system is best understood as an open system embedded in a wider social environment, processing inputs (demands and supports from citizens/groups) through a conversion process (legislatures, parties, bureaucracy) into outputs (policies, decisions), which generate feedback that reshapes future demands and supports.** with **David Easton — systems analysis**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with David Easton — systems analysis does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Gabriel Almond — structural-functional approach**? Other options belong to different named entries.
+Consider the following statements:
+1. **Gabriel Almond — structural-functional approach** is associated with: every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
+2. **Marxian approach** is associated with: politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
+Which option is correct?
 
-A. every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Gives both the behavioural framework and the later post-behavioural call for relevance and action.
+**Answer: C**
 
-C. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. political behaviour shows uniformities expressible as generalisations/theories.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Gabriel Almond — structural-functional approach** with **every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).**
-
-A. Verification
-
-B. Gabriel Almond — structural-functional approach
-
-C. Pure science
-
-D. Decision-making approach
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **every political system, regardless of its formal constitution, must perform certain universal functions (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different structures in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).** with **Gabriel Almond — structural-functional approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Gabriel Almond — structural-functional approach does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Karl Deutsch — communication/cybernetic approach**? Other options belong to different named entries.
+Consider the following statements:
+1. **Karl Deutsch — communication/cybernetic approach** is associated with: Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+2. **Leo Strauss** is associated with: A claim about an observable situation that can be tested or verified by repeated observation.
+Which option is correct?
 
-A. The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. A corrective within behavioural political science stressing relevance, action and concern for values.
+**Answer: D**
 
-C. government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. those generalisations must be testable against relevant, observable behaviour.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Karl Deutsch — communication/cybernetic approach** with **government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.**
-
-A. Techniques
-
-B. Integration
-
-C. Marxian approach
-
-D. Karl Deutsch — communication/cybernetic approach
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **government functions like a steering mechanism, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.** with **Karl Deutsch — communication/cybernetic approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Karl Deutsch — communication/cybernetic approach does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Decision-making approach**? Other options belong to different named entries.
+Consider the following statements:
+1. **Decision-making approach** is associated with: political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+2. **David Easton** is associated with: A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+Which option is correct?
 
-A. political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+**Answer: A**
 
-C. Politics is illuminated through philosophy, history, law and institutions.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Decision-making approach** with **political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.**
-
-A. Quantification
-
-B. Decision-making approach
-
-C. David Easton — systems analysis
-
-D. Leo Strauss
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **political outcomes are best explained by identifying the decision-makers, the alternatives before them, and the information, values and organisational setting that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.** with **Decision-making approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Decision-making approach does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Marxian approach**? Other options belong to different named entries.
+Consider the following statements:
+1. **Marxian approach** is associated with: The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+2. **Method** is associated with: The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+Which option is correct?
 
-A. A claim about an observable situation that can be tested or verified by repeated observation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Political science should study actual political behaviour scientifically through regularities, verification, techniques and quantification.
+**Answer: B**
 
-C. politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. precision through measurement and quantification wherever the data meaningfully allow it.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Marxian approach** with **politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.**
-
-A. Values
-
-B. Gabriel Almond — structural-functional approach
-
-C. David Easton
-
-D. Marxian approach
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **politics has no autonomous existence; political institutions and ideas form part of a superstructure resting on, and reproducing, the economic base/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.** with **Marxian approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Marxian approach does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Leo Strauss**? Other options belong to different named entries.
+Consider the following statements:
+1. **Leo Strauss** is associated with: Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+2. **Approach** is associated with: A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+Which option is correct?
 
-A. Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. A claim expressing a preference, duty or moral principle about what ought to be valued or prescribed.
+**Answer: C**
 
-C. Science should remain rigorous but also relevant, action-oriented and attentive to value-construction.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Leo Strauss** with **Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.**
-
-A. Systematization
-
-B. Leo Strauss
-
-C. Karl Deutsch — communication/cybernetic approach
-
-D. Method
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Defends political philosophy as inseparable from facts and values and criticizes behavioural value-neutrality.** with **Leo Strauss**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Leo Strauss does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **David Easton**? Other options belong to different named entries.
+Consider the following statements:
+1. **David Easton** is associated with: A claim about an observable situation that can be tested or verified by repeated observation.
+2. **Empirical statement** is associated with: Politics is illuminated through philosophy, history, law and institutions.
+Which option is correct?
 
-A. A scientific orientation focusing on actual political behaviour, especially of actors such as voters, leaders and groups.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. political behaviour shows uniformities expressible as generalisations/theories.
+**Answer: D**
 
-C. Gives both the behavioural framework and the later post-behavioural call for relevance and action.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. research and theory are interdependent; data collection is guided by, and in turn refines, theory.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **David Easton** with **Gives both the behavioural framework and the later post-behavioural call for relevance and action**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with David Easton does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gives both the behavioural framework and the later post-behavioural call for relevance and action.**
+Which correction is most defensible for the claim: **Method and approach are synonyms.**?
 
-A. Pure science
+- A. Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109)
+- B. Method means The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- C. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+- D. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
 
-B. Decision-making approach
+**Answer: A**
 
-C. Approach
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109).
+- **B:** B Repairs a different misconception, 'Method means A corrective within behavioural political science stressing relevance, action and concern for values.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
 
-D. David Easton
+> **Examiner trap:** Repair the exact overstatement about Method and approach are synonyms, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **Gives both the behavioural framework and the later post-behavioural call for relevance and action.** with **David Easton**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **Traditional always means normative, and contemporary always means empirical.**?
+
+- A. Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109)
+- B. Gauba explicitly rejects that mechanical equation. (PDF pp.109-110)
+- C. Method means The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- D. Its content may still be empirical if it states an instrumentally testable condition. (PDF.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Method and approach are synonyms.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba explicitly rejects that mechanical equation. (PDF pp.109-110).
+- **C:** C Repairs a different misconception, 'Method means A corrective within behavioural political science stressing relevance, action and concern for values.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Traditional always means normative, and contemporary, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **Any sentence with "ought" is normative.**?
+
+- A. Method means The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- B. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
+- C. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+- D. Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Method means A corrective within behavioural political science stressing relevance, action and concern for values.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111).
+- **D:** D Repairs a different misconception, 'Method and approach are synonyms.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Any sentence with "ought" is normative, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **Value-free means politically consequence-free.**?
+
+- A. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122); the other dimensions would remain secondary under this reading.
+- B. Approach means A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- C. Easton presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF pp.121-122); this option treats that proposition as the decisive account.
+- D. Behavioural inquiry can shape what gets studied and ignored, which is why post-behaviouralism raised the issue of relevance. (PDF pp.121-122)
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Approach means Politics is illuminated through philosophy, history, law and institutions.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Post-behaviouralism means abandoning science for activism.', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Behavioural inquiry can shape what gets studied and ignored, which is why post-behaviouralism raised the issue of relevance. (PDF pp.121-122).
+
+> **Examiner trap:** Repair the exact overstatement about Value-free means politically consequence-free, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **Post-behaviouralism means abandoning science for activism.**?
+
+- A. Easton presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF pp.121-122)
+- B. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
+- C. Approach means A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+- D. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Easton presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF pp.121-122).
+- **B:** B Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Approach means Politics is illuminated through philosophy, history, law and institutions.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Post-behaviouralism means abandoning science for, not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Post-behaviouralism allows unsupported moral assertion.**?
+
+- A. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+- B. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
+- C. Easton presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF pp.121-122)
+- D. Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109)
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122).
+- **C:** C Repairs a different misconception, 'Post-behaviouralism means abandoning science for activism.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Method and approach are synonyms.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Post-behaviouralism allows unsupported moral assertion, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Method means A corrective within behavioural political science stressing relevance, action and concern for values.**?
+
+- A. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+- B. Approach is wider because it includes selection-criteria for problems and data. (PDF pp.108-109)
+- C. Method means The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- D. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Method and approach are synonyms.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Method means The procedure of inquiry by which reliable knowledge and conclusions are obtained.
+- **D:** D Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Method means A corrective within behavioural, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Approach means Politics is illuminated through philosophy, history, law and institutions.**?
+
+- A. Easton presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF pp.121-122)
+- B. Its content may still be empirical if it states an instrumentally testable condition. (PDF pp.110-111)
+- C. Gauba presents it as value-conscious science, not as an escape from disciplined inquiry. (PDF pp.121-122)
+- D. Approach means A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Post-behaviouralism means abandoning science for activism.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Any sentence with "ought" is normative.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Post-behaviouralism allows unsupported moral assertion.', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Approach means A wider frame that includes method plus criteria for selecting problems, questions and relevant data.
+
+> **Examiner trap:** Repair the exact overstatement about Approach means Politics is illuminated through, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ STATUS
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No directly owned verified UPSC PYQ is assigned to this Political Theory topic. Political Theory is a conceptual-support repository, and the source mapping expressly prohibits proxy, alias or synthetic PYQ routing. The questions below are therefore labelled as original practice, not PYQs.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Approaches, Behaviouralism and Post-Behaviouralism** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
----
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 1 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Distinguish method from approach in political inquiry and explain why the distinction matters. Answer in 150 words.
 
-**Question:** Distinguish method from approach in political inquiry and explain why the distinction matters. Answer in about 150 words.
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of method from approach in political inquiry and explain why the distinction matters in the opening line, carry the argument on Introduction, Method, Core and Conclusion, and reserve the closing sentences for the qualification that yet the distinction remains analytically useful: approaches set the agenda, while methods make investigation disciplined and publicly testable.
 
+**Model answer (138 words):**
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Method and approach both organise inquiry, but they operate at different levels. Core analysis: A method is a procedure for obtaining, testing and interpreting knowledge, such as observation, comparison, historical reconstruction or statistical analysis. An approach is wider: it includes methods but also criteria for selecting the problem, relevant actors, admissible data and explanatory variables. A behavioural approach, for example, directs attention toward observable conduct and may then use surveys or quantification as methods. A philosophical approach selects conceptual coherence and normative justification as central problems and uses argument as a method. Yet the distinction remains analytically useful: approaches set the agenda, while methods make investigation disciplined and publicly testable. Conclusion: The distinction matters because method governs the reliability of inquiry, whereas approach also governs its intellectual agenda by deciding which problems, actors and evidence become visible.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Method and approach both organise inquiry, but they operate at different levels.
-
-**Core analysis:** A method is a procedure for obtaining, testing and interpreting knowledge, such as observation, comparison, historical reconstruction or statistical analysis. An approach is wider: it includes methods but also criteria for selecting the problem, relevant actors, admissible data and explanatory variables. A behavioural approach, for example, directs attention toward observable conduct and may then use surveys or quantification as methods. A philosophical approach selects conceptual coherence and normative justification as central problems and uses argument as a method. Vernon Van Dyke's distinction therefore prevents tools from being confused with intellectual frames.
-
-**Critical evaluation:** Methods are not neutral instruments floating outside an approach, because the choice of data already reflects a view of what matters. Yet the distinction remains analytically useful: approaches set the agenda, while methods make investigation disciplined and publicly testable.
-
-**Conclusion:** The distinction matters because method governs the reliability of inquiry, whereas approach also governs its intellectual agenda by deciding which problems, actors and evidence become visible.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish method from approach in political inquiry and explain why the distinction matters.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Method, Core and Conclusion), converts that evidence into analysis of method from approach in political inquiry and explain why the distinction matters, and keeps the examiner-facing qualification that yet the distinction remains analytically useful: approaches set the agenda, while methods make investigation disciplined and publicly testable. At 138 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** Why must empirical and normative statements be classified by content rather than grammatical form? Answer in about 150 words.
+**Question:** Why must empirical and normative statements be classified by content rather than grammatical form? Answer in 150 words.
 
+**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of must empirical and normative statements be classified by content rather than grammatical form in the opening line, carry the argument on Introduction, Empirical, Core and Gauba's, and reserve the closing sentences for the qualification that conclusion: Political analysis must test what kind of claim is being made rather than searching mechanically for 'is' or 'ought', because factual conditions can be phrased prescriptively and value judgments descriptively.
 
-**Demand decoding:** The operative directive is **Why**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (134 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Empirical and normative statements differ by the kind of claim they make, not simply by whether their wording contains 'is' or 'ought'. Core analysis: An empirical statement describes an observable relation that can be checked through evidence, repetition or consequences. A normative statement expresses a value, obligation or preferred order and requires moral justification. Gauba's examples expose the grammatical trap. 'Everybody ought to vote if democracy is to work' can be empirical in content because the proposed condition may be tested against democratic functioning. Correct classification requires asking whether the claim is verifiable, evaluative or a combination requiring both forms of reasoning. Conclusion: Political analysis must test what kind of claim is being made rather than searching mechanically for 'is' or 'ought', because factual conditions can be phrased prescriptively and value judgments descriptively.
 
-**Introduction:** Empirical and normative statements differ by the kind of claim they make, not simply by whether their wording contains 'is' or 'ought'.
-
-**Core analysis:** An empirical statement describes an observable relation that can be checked through evidence, repetition or consequences. A normative statement expresses a value, obligation or preferred order and requires moral justification. Gauba's examples expose the grammatical trap. 'Everybody ought to vote if democracy is to work' can be empirical in content because the proposed condition may be tested against democratic functioning. A definition such as 'justice is treating equals equally' may use 'is' while still expressing a normative standard. Instrumental prescriptions can therefore be empirical, and descriptive-looking definitions can be evaluative.
-
-**Critical evaluation:** Evidence cannot by itself prove an ultimate moral end, while moral language cannot shield a factual claim from testing. Correct classification requires asking whether the claim is verifiable, evaluative or a combination requiring both forms of reasoning.
-
-**Conclusion:** Political analysis must test what kind of claim is being made rather than searching mechanically for 'is' or 'ought', because factual conditions can be phrased prescriptively and value judgments descriptively.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Why must empirical and normative statements be classified by content rather than grammatical form?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Empirical, Core and Gauba's), converts that evidence into analysis of must empirical and normative statements be classified by content rather than grammatical form, and keeps the examiner-facing qualification that conclusion: Political analysis must test what kind of claim is being made rather than searching mechanically for 'is' or 'ought', because factual conditions can be phrased prescriptively and value judgments descriptively. At 134 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** Examine behaviouralism's eight tenets and its contribution to political science. Answer in about 200 words.
+**Question:** Examine behaviouralism's eight tenets and its contribution to political science. Answer in 150 words.
 
+**Demand decode:** the directive `examine` requires the answer to test the proposition rather than describe it, weighing what supports and what weakens it. Fix the boundary of behaviouralism's eight tenets and its contribution to political science in the opening line, carry the argument on Introduction, Behaviouralism, Core and Eastonian, and reserve the closing sentences for the qualification that conclusion: Behaviouralism made political inquiry more systematic, verifiable and interdisciplinary, but its scientific contribution remains defensible only when technique serves significant political questions rather than replacing them.
 
-**Demand decoding:** The operative directive is **Examine**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (141 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Behaviouralism reoriented political science toward the systematic study of actual political behaviour rather than exclusive reliance on formal institutions or inherited texts. Core analysis: Its commonly taught Eastonian tenets are regularities, verification, techniques, quantification, value separation, systematization, pure science and integration. Regularities make generalisation possible; verification tests claims against observation; techniques and quantification improve precision; value separation distinguishes empirical explanation from ethical judgment; systematization connects theory and research; pure science gives explanation logical priority over application; and integration opens political science to other social sciences. Wallas, Bentley, Merriam and Lasswell prepared this movement by studying psychology, groups, power and policy. Scientific rigour enlarged political knowledge, but could not decide which questions deserved priority. Conclusion: Behaviouralism made political inquiry more systematic, verifiable and interdisciplinary, but its scientific contribution remains defensible only when technique serves significant political questions rather than replacing them.
 
-**Introduction:** Behaviouralism reoriented political science toward the systematic study of actual political behaviour rather than exclusive reliance on formal institutions or inherited texts.
-
-**Core analysis:** Its commonly taught Eastonian tenets are regularities, verification, techniques, quantification, value separation, systematization, pure science and integration. Regularities make generalisation possible; verification tests claims against observation; techniques and quantification improve precision; value separation distinguishes empirical explanation from ethical judgment; systematization connects theory and research; pure science gives explanation logical priority over application; and integration opens political science to other social sciences. Wallas, Bentley, Merriam and Lasswell prepared this movement by studying psychology, groups, power and policy.
-
-**Further development:** The tenets are mutually supporting rather than a checklist of isolated slogans. Regularities require verification; verification depends on suitable techniques; quantification is justified only where measurement preserves meaning; and systematization prevents data collection from becoming theory-free. Integration supplies concepts and methods from neighbouring disciplines, while pure science marks an ordering of inquiry rather than a permanent ban on application. The strongest assessment therefore distinguishes behaviouralism's scientific discipline from scientism, the mistaken belief that only measurable questions are politically significant.
-
-**Critical evaluation:** The contribution was substantial: political inquiry gained clearer hypotheses, comparative data and methodological self-criticism. Its limits were method-fetish, excessive micro-focus and distance from urgent injustice. Scientific rigour enlarged political knowledge, but could not decide which questions deserved priority.
-
-**Conclusion:** Behaviouralism made political inquiry more systematic, verifiable and interdisciplinary, but its scientific contribution remains defensible only when technique serves significant political questions rather than replacing them.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Examine behaviouralism's eight tenets and its contribution to political science.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Behaviouralism, Core and Eastonian), converts that evidence into analysis of behaviouralism's eight tenets and its contribution to political science, and keeps the examiner-facing qualification that conclusion: Behaviouralism made political inquiry more systematic, verifiable and interdisciplinary, but its scientific contribution remains defensible only when technique serves significant political questions rather than replacing them. At 141 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Evaluate post-behaviouralism as a correction of, rather than a rejection of, behaviouralism. Answer in about 200 words.
+**Question:** Evaluate post-behaviouralism as a correction of, rather than a rejection of, behaviouralism. Answer in 250 words.
 
+**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of post-behaviouralism as a correction of, rather than a rejection of, behaviouralism in the opening line, carry the argument on Introduction, Post-behaviouralism, Core and Easton's, and reserve the closing sentences for the qualification that it does not replace verification with conviction.
 
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (238 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Post-behaviouralism arose from dissatisfaction with behavioural political science's retreat into tractable method while public crises demanded responsible knowledge. Core analysis: Easton's correction preserved behaviouralism's achievements—regularities, verification, rigorous technique and empirical explanation—but added relevance and action. Relevance requires research to address significant problems such as war, poverty, discrimination and injustice instead of selecting questions only because they are easily measured. Action requires scholars to accept responsibility for applying knowledge toward social betterment. The movement also made value choice explicit: deciding what to study and whom research serves cannot be treated as politically innocent. Further development: Its correction also changes the scholar's role. Behavioural detachment protects research from propaganda, but detachment cannot mean indifference to how knowledge is selected or used. Relevance identifies important public problems, action connects findings to possible remedies, and value-consciousness requires explicit justification of ends. The residual danger is that urgency may reward weak evidence or ideological certainty. Post-behaviouralism succeeds only when public responsibility is joined to reproducible inquiry and critical scrutiny. Critical evaluation: This is not permission for unsupported activism. Evidence standards remain necessary, and a fashionable cause does not validate weak analysis. Post-behaviouralism corrects the purpose and public orientation of science; it does not replace verification with conviction. Its durable position is therefore a synthesis of rigour, relevance and accountable action. Conclusion: Post-behaviouralism is best understood as value-conscious science: it retains verification and technique while restoring relevance, action and public responsibility.
 
-**Introduction:** Post-behaviouralism arose from dissatisfaction with behavioural political science's retreat into tractable method while public crises demanded responsible knowledge.
-
-**Core analysis:** Easton's correction preserved behaviouralism's achievements—regularities, verification, rigorous technique and empirical explanation—but added relevance and action. Relevance requires research to address significant problems such as war, poverty, discrimination and injustice instead of selecting questions only because they are easily measured. Action requires scholars to accept responsibility for applying knowledge toward social betterment. The movement also made value choice explicit: deciding what to study and whom research serves cannot be treated as politically innocent.
-
-**Further development:** Its correction also changes the scholar's role. Behavioural detachment protects research from propaganda, but detachment cannot mean indifference to how knowledge is selected or used. Relevance identifies important public problems, action connects findings to possible remedies, and value-consciousness requires explicit justification of ends. The residual danger is that urgency may reward weak evidence or ideological certainty. Post-behaviouralism succeeds only when public responsibility is joined to reproducible inquiry and critical scrutiny.
-
-**Critical evaluation:** This is not permission for unsupported activism. Evidence standards remain necessary, and a fashionable cause does not validate weak analysis. Post-behaviouralism corrects the purpose and public orientation of science; it does not replace verification with conviction. Its durable position is therefore a synthesis of rigour, relevance and accountable action.
-
-**Conclusion:** Post-behaviouralism is best understood as value-conscious science: it retains verification and technique while restoring relevance, action and public responsibility.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate post-behaviouralism as a correction of, rather than a rejection of, behaviouralism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Post-behaviouralism, Core and Easton's), converts that evidence into analysis of post-behaviouralism as a correction of, rather than a rejection of, behaviouralism, and keeps the examiner-facing qualification that it does not replace verification with conviction. At 238 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Compare the systems, structural-functional, communications, decision-making and Marxian models of political analysis. Answer in about 250 words.
+**Question:** Compare the systems, structural-functional, communications, decision-making and Marxian models of political analysis. Answer in 250 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of the systems, structural-functional, communications, decision-making and Marxian models of political analysis in the opening line, carry the argument on Introduction, Core, Easton's and Almond's, and reserve the closing sentences for the qualification that conclusion: The five models should be treated as complementary but limited lenses: each identifies a different causal mechanism, and no one model can explain stability, function, information, choice and class power simultaneously.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (248 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: The five models organise political explanation around different units and mechanisms, so comparison must ask what each reveals and conceals. Core analysis: Easton's systems analysis traces demands and supports through conversion into outputs and feedback, explaining persistence and adaptation. Almond's structural-functional model compares the universal functions performed by different formal or informal structures. Deutsch's communications model treats government as a steering process dependent on information flow, load, lag and corrective feedback. Decision-making analysis reconstructs who chose among which alternatives under particular informational, value and organisational constraints. Marxian analysis locates institutions and ideas within the economic base, class relations and dominant interests. Further development: Model choice should follow the explanatory problem. A demand moving through institutions is suited to Easton's input-output-feedback cycle; comparison across unlike formal structures is suited to Almond's functional grid; bureaucratic learning is illuminated by Deutsch's information flows; a discrete policy choice requires decision-process reconstruction; and concealed ownership power calls for Marxian analysis. Objections also differ: systems and functionalism are criticised for stability bias, communications for underplaying conflict, decision-making for ignoring pre-structured alternatives, and Marxism for economic reductionism. Triangulating models can test whether one model's omitted variable changes the conclusion, but models cannot simply be stacked without a clear causal sequence. Their strengths are therefore conditional, not cumulative proof of one master model. Conclusion: The five models should be treated as complementary but limited lenses: each identifies a different causal mechanism, and no one model can explain stability, function, information, choice and class power simultaneously.
 
-**Introduction:** The five models organise political explanation around different units and mechanisms, so comparison must ask what each reveals and conceals.
-
-**Core analysis:** Easton's systems analysis traces demands and supports through conversion into outputs and feedback, explaining persistence and adaptation. Almond's structural-functional model compares the universal functions performed by different formal or informal structures. Deutsch's communications model treats government as a steering process dependent on information flow, load, lag and corrective feedback. Decision-making analysis reconstructs who chose among which alternatives under particular informational, value and organisational constraints. Marxian analysis locates institutions and ideas within the economic base, class relations and dominant interests.
-
-**Further development:** Model choice should follow the explanatory problem. A demand moving through institutions is suited to Easton's input-output-feedback cycle; comparison across unlike formal structures is suited to Almond's functional grid; bureaucratic learning is illuminated by Deutsch's information flows; a discrete policy choice requires decision-process reconstruction; and concealed ownership power calls for Marxian analysis. Objections also differ: systems and functionalism are criticised for stability bias, communications for underplaying conflict, decision-making for ignoring pre-structured alternatives, and Marxism for economic reductionism. Triangulating models can test whether one model's omitted variable changes the conclusion, but models cannot simply be stacked without a clear causal sequence.
-
-**Critical evaluation:** Systems and functional models can privilege equilibrium; communications language can mechanise politics; decision analysis may become elite-centred and episodic; Marxian analysis may reduce political autonomy to economics. Their strengths are therefore conditional, not cumulative proof of one master model.
-
-**Conclusion:** The five models should be treated as complementary but limited lenses: each identifies a different causal mechanism, and no one model can explain stability, function, information, choice and class power simultaneously.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare the systems, structural-functional, communications, decision-making and Marxian models of political analysis.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Easton's and Almond's), converts that evidence into analysis of the systems, structural-functional, communications, decision-making and Marxian models of political analysis, and keeps the examiner-facing qualification that conclusion: The five models should be treated as complementary but limited lenses: each identifies a different causal mechanism, and no one model can explain stability, function, information, choice and class power simultaneously. At 248 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 6 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Can political science be value-free? Discuss with reference to behaviouralism, Strauss and post-behaviouralism. Answer in about 250 words.
+**Question:** Can political science be value-free? Discuss with reference to behaviouralism, Strauss and post-behaviouralism. Answer in 250 words.
 
+**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of political science be value-free? Discuss with reference to behaviouralism, Strauss and post-behaviouralism in the opening line, carry the argument on Introduction, Core, Behaviouralism and Strauss, and reserve the closing sentences for the qualification that conclusion: Political science can discipline factual inquiry against partisan assertion, but it cannot become value-free in its choice of problems, interpretation of significance or judgment of political ends.
 
-**Demand decoding:** The operative directive is **Can**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (241 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: The ideal of value-free political science seeks to protect factual explanation from the researcher's moral preferences, but it cannot remove values from every stage of inquiry. Core analysis: Behaviouralism usefully separates empirical propositions from ethical evaluation and demands verification, regularity and disciplined technique. This prevents desired conclusions from substituting for evidence. Strauss objects that political inquiry cannot understand tyranny, justice or the good regime while refusing to judge values; selection of politically important problems already presupposes standards of significance. Post-behaviouralism converts that criticism into methodological reform: research must retain scientific rigour while becoming relevant, action-oriented and conscious of its public consequences. Further development: The empirical-normative distinction should be preserved even when complete neutrality is rejected. Whether turnout changed, an institution complied with a rule or an attitude correlates with behaviour remains an evidential question. Whether participation is adequate, compliance legitimate or an attitude unjust requires evaluative reasons. Strauss protects the latter inquiry; behaviouralism disciplines the former; post-behaviouralism asks how the two can address public problems together. The remaining danger is ideological capture, where relevance becomes an excuse to predetermine findings. Transparent question selection, replicable evidence, explicit value premises and openness to criticism provide a stronger settlement than either scientistic withdrawal or untested activism. Value control is possible; complete value absence is not. Conclusion: Political science can discipline factual inquiry against partisan assertion, but it cannot become value-free in its choice of problems, interpretation of significance or judgment of political ends.
 
-**Introduction:** The ideal of value-free political science seeks to protect factual explanation from the researcher's moral preferences, but it cannot remove values from every stage of inquiry.
+**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Behaviouralism and Strauss), converts that evidence into analysis of political science be value-free? Discuss with reference to behaviouralism, Strauss and post-behaviouralism, and keeps the examiner-facing qualification that conclusion: Political science can discipline factual inquiry against partisan assertion, but it cannot become value-free in its choice of problems, interpretation of significance or judgment of political ends. At 241 words it stays inside the 250-word GS ceiling for 15 marks.
 
-**Core analysis:** Behaviouralism usefully separates empirical propositions from ethical evaluation and demands verification, regularity and disciplined technique. This prevents desired conclusions from substituting for evidence. Strauss objects that political inquiry cannot understand tyranny, justice or the good regime while refusing to judge values; selection of politically important problems already presupposes standards of significance. Post-behaviouralism converts that criticism into methodological reform: research must retain scientific rigour while becoming relevant, action-oriented and conscious of its public consequences.
-
-**Further development:** The empirical-normative distinction should be preserved even when complete neutrality is rejected. Whether turnout changed, an institution complied with a rule or an attitude correlates with behaviour remains an evidential question. Whether participation is adequate, compliance legitimate or an attitude unjust requires evaluative reasons. Strauss protects the latter inquiry; behaviouralism disciplines the former; post-behaviouralism asks how the two can address public problems together. The remaining danger is ideological capture, where relevance becomes an excuse to predetermine findings. Transparent question selection, replicable evidence, explicit value premises and openness to criticism provide a stronger settlement than either scientistic withdrawal or untested activism.
-
-**Critical evaluation:** The distinction between detachment and ethical neutrality is decisive. Scholars should disclose premises, test factual claims and avoid partisan distortion, yet they must still justify why particular ends, harms and exclusions matter. Value control is possible; complete value absence is not.
-
-**Conclusion:** Political science can discipline factual inquiry against partisan assertion, but it cannot become value-free in its choice of problems, interpretation of significance or judgment of political ends.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Can political science be value-free? Discuss with reference to behaviouralism, Strauss and post-behaviouralism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+---

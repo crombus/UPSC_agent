@@ -1,1220 +1,820 @@
 ---
 topic_key: political-theory-14
 title: Political Obligation, Resistance and Law — Solved Practice Workbook
-generation_identity: political-theory-14:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-14:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Political Obligation, Resistance and Law — Solved Practice Workbook
 
-**Generation:** learner-v2:g3  
-**PYQ ownership:** Every verified question below retains the primary owner recorded in the source ledger.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 14 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Political obligation**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+### MCQ 1
 
-B. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+Which proposition is correctly associated with **Political obligation**?
 
-C. law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- A. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+- B. law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- C. law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- D. a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
 
-D. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Political obligation.
+- **B:** B Attaches to Analytical jurisprudence, not Political obligation.
+- **C:** C Attaches to Sociological jurisprudence, not Political obligation.
+- **D:** D Attaches to Legal validity vs moral legitimacy, not Political obligation.
 
-**Explanation:** The canonical Basic owner pairs **Political obligation** with **the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept asks why, when and how far a person ought to obey political authority?
-
-A. Kelsen (Grundnorm/hierarchy)
-
-B. Political obligation
-
-C. Natural law school
-
-D. Retributive punishment
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).** with **Political obligation**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Political obligation by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Force-based obligation**? Other options belong to different named entries.
+Which proposition is correctly associated with **Force-based obligation**?
 
-A. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- A. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
+- B. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+- C. law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+- D. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
 
-B. governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
+**Answer: B**
 
-C. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+**Option-by-option explanation**
+- **A:** A Attaches to Natural law school, not Force-based obligation.
+- **B:** B States the source-recorded proposition for Force-based obligation.
+- **C:** C Attaches to Historical jurisprudence, not Force-based obligation.
+- **D:** D Attaches to Political obligation, not Force-based obligation.
 
-D. in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Force-based obligation** with **obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-A state secures submission solely through fear of sanctions. Which proposed ground explains compliance without yet proving a moral duty?
-
-A. Legal validity vs moral legitimacy
-
-B. Hart (critique of Austin; structure of rules)
-
-C. Analytical jurisprudence
-
-D. Force-based obligation
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).** with **Force-based obligation**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Force-based obligation by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Consent**? Other options belong to different named entries.
+Which proposition is correctly associated with **Consent**?
 
-A. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+- A. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+- B. resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+- C. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+- D. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
 
-B. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
+**Answer: C**
 
-C. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
+**Option-by-option explanation**
+- **A:** A Attaches to Deterrent punishment, not Consent.
+- **B:** B Attaches to Resistance vs revolution, not Consent.
+- **C:** C States the source-recorded proposition for Consent.
+- **D:** D Attaches to Retributive punishment, not Consent.
 
-D. a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Consent** with **obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which ground of obligation appeals to explicit or implicit agreement to political authority?
-
-A. Civil disobedience vs ordinary law-breaking
-
-B. Consent
-
-C. Dworkin (principles in hard cases)
-
-D. Civil disobedience
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).** with **Consent**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Consent by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Common good basis**? Other options belong to different named entries.
+Which proposition is correctly associated with **Common good basis**?
 
-A. law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- A. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- B. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- C. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+- D. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
 
-B. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+**Answer: D**
 
-C. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+**Option-by-option explanation**
+- **A:** A Attaches to Prescriptive law, not Common good basis.
+- **B:** B Attaches to Civil disobedience, not Common good basis.
+- **C:** C Attaches to Conscientious objection, not Common good basis.
+- **D:** D States the source-recorded proposition for Common good basis.
 
-D. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Common good basis** with **obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which ground limits obedience to laws that sustain the shared good and conditions of moral development?
-
-A. Resistance vs revolution
-
-B. Conscientious objection
-
-C. Sociological jurisprudence
-
-D. Common good basis
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).** with **Common good basis**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Common good basis by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Civil disobedience**? Other options belong to different named entries.
+Which proposition is correctly associated with **Civil disobedience**?
 
-A. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- A. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- B. governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
+- C. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+- D. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
 
-B. law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+**Answer: A**
 
-C. forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Civil disobedience.
+- **B:** B Attaches to Rule of law, not Civil disobedience.
+- **C:** C Attaches to Conscientious objection, not Civil disobedience.
+- **D:** D Attaches to Common good basis, not Civil disobedience.
 
-D. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Civil disobedience** with **deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-A citizen openly and non-violently breaches a specific unjust law and accepts punishment. Which mode of resistance is this?
-
-A. Austin (command theory)
-
-B. Civil disobedience
-
-C. Force-based obligation
-
-D. Prescriptive law
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).** with **Civil disobedience**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Civil disobedience by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Conscientious objection**? Other options belong to different named entries.
+Which proposition is correctly associated with **Conscientious objection**?
 
-A. law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- A. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+- B. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+- C. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- D. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
 
-B. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
+**Answer: B**
 
-C. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+**Option-by-option explanation**
+- **A:** A Attaches to Common good basis, not Conscientious objection.
+- **B:** B States the source-recorded proposition for Conscientious objection.
+- **C:** C Attaches to Prescriptive law, not Conscientious objection.
+- **D:** D Attaches to Civil disobedience, not Conscientious objection.
 
-D. law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Conscientious objection** with **refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-A person refuses a particular legal duty because conscience forbids participation. Which category applies?
-
-A. Kelsen (Grundnorm/hierarchy)
-
-B. Consent
-
-C. Natural law school
-
-D. Conscientious objection
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).** with **Conscientious objection**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Conscientious objection by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Prescriptive law**? Other options belong to different named entries.
+Which proposition is correctly associated with **Prescriptive law**?
 
-A. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- A. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+- B. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+- C. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- D. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
 
-B. some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+**Answer: C**
 
-C. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+**Option-by-option explanation**
+- **A:** A Attaches to Common good basis, not Prescriptive law.
+- **B:** B Attaches to Conscientious objection, not Prescriptive law.
+- **C:** C States the source-recorded proposition for Prescriptive law.
+- **D:** D Attaches to Civil disobedience, not Prescriptive law.
 
-D. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Prescriptive law** with **man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which kind of law directs what people should or should not do, rather than describing a natural regularity?
-
-A. Hart (critique of Austin; structure of rules)
-
-B. Prescriptive law
-
-C. Common good basis
-
-D. Deterrent punishment
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).** with **Prescriptive law**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Prescriptive law by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Natural law school**? Other options belong to different named entries.
+Which proposition is correctly associated with **Natural law school**?
 
-A. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
+- A. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+- B. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+- C. law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+- D. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
 
-B. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+**Answer: D**
 
-C. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
+**Option-by-option explanation**
+- **A:** A Attaches to Political obligation, not Natural law school.
+- **B:** B Attaches to Force-based obligation, not Natural law school.
+- **C:** C Attaches to Historical jurisprudence, not Natural law school.
+- **D:** D States the source-recorded proposition for Natural law school.
 
-D. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Natural law school** with **law derives authority from a higher moral order discoverable by reason (PDF pp.290-291)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which school makes legal authority answerable to a higher moral order or rational standard of justice?
-
-A. Dworkin (principles in hard cases)
-
-B. Civil disobedience
-
-C. Reformative punishment
-
-D. Natural law school
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).** with **Natural law school**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Natural law school by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Analytical jurisprudence**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- A. Analytical jurisprudence — law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- B. Political obligation — civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+- C. Sociological jurisprudence — deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- D. Legal validity vs moral legitimacy — governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
 
-B. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+**Answer: A**
 
-C. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+**Option-by-option explanation**
+- **A:** A Matches the record: Analytical jurisprudence is associated with this proposition.
+- **B:** B Source disagrees: Political obligation is recorded with the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+- **C:** C Misplaced: Sociological jurisprudence is recorded with law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- **D:** D Wrong attachment: Legal validity vs moral legitimacy is recorded with a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
 
-D. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Analytical jurisprudence** with **law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which school studies positive legal validity through institutional sources, promulgation and enforceability?
-
-A. Political obligation
-
-B. Analytical jurisprudence
-
-C. Conscientious objection
-
-D. Proportionality
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).** with **Analytical jurisprudence**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Analytical jurisprudence; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Historical jurisprudence**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
+- A. Force-based obligation — law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- B. Historical jurisprudence — law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+- C. Natural law school — law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- D. Political obligation — a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
 
-B. resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+**Answer: B**
 
-C. law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+**Option-by-option explanation**
+- **A:** A Misplaced: Force-based obligation is recorded with obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+- **B:** B Records the association: Historical jurisprudence is associated with this proposition.
+- **C:** C Belongs elsewhere: Natural law school is recorded with law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
+- **D:** D Cross-attached: Political obligation is recorded with the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
 
-D. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Historical jurisprudence** with **law must be traced to social history, custom and legal evolution (PDF pp.292-293)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which school explains law through custom, social history and legal evolution?
-
-A. Force-based obligation
-
-B. Prescriptive law
-
-C. Rule of law
-
-D. Historical jurisprudence
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **law must be traced to social history, custom and legal evolution (PDF pp.292-293).** with **Historical jurisprudence**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Historical jurisprudence; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Sociological jurisprudence**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- A. Political obligation — civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+- B. Analytical jurisprudence — deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- C. Sociological jurisprudence — law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+- D. Legal validity vs moral legitimacy — governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
 
-B. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
+**Answer: C**
 
-C. law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+**Option-by-option explanation**
+- **A:** A Misplaced: Political obligation is recorded with the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+- **B:** B Cross-attached: Analytical jurisprudence is recorded with law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
+- **C:** C Matches the record: Sociological jurisprudence is associated with this proposition.
+- **D:** D Mismatched: Legal validity vs moral legitimacy is recorded with a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
 
-D. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Sociological jurisprudence** with **law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which school treats law as an instrument of social purpose and evaluates its effects?
-
-A. Consent
-
-B. Sociological jurisprudence
-
-C. Retributive punishment
-
-D. Legal validity vs moral legitimacy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).** with **Sociological jurisprudence**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Sociological jurisprudence; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Rule of law**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+- A. Common good basis — a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
+- B. Civil disobedience — man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+- C. Conscientious objection — civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+- D. Rule of law — governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
 
-B. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+**Answer: D**
 
-C. governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Common good basis is recorded with obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+- **B:** B Cross-attached: Civil disobedience is recorded with deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- **C:** C Mismatched: Conscientious objection is recorded with refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
+- **D:** D Correct attachment: Rule of law is associated with this proposition.
 
-D. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Rule of law** with **governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which ideal requires known, general, prospective law and restraint of arbitrary governmental power?
-
-A. Common good basis
-
-B. Analytical jurisprudence
-
-C. Deterrent punishment
-
-D. Rule of law
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).** with **Rule of law**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Rule of law; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Retributive punishment**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
+- A. Retributive punishment — backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political.
+- B. Deterrent punishment — forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social.
+- C. Resistance vs revolution — some theories demand near-total obedience, some qualify obedience by rights or common good.
+- D. Consent — obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
 
-B. a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
+**Answer: A**
 
-C. in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.
+**Option-by-option explanation**
+- **A:** A Correct attachment: Retributive punishment is associated with this proposition.
+- **B:** B Mismatched: Deterrent punishment is recorded with forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+- **C:** C Cross-attached: Resistance vs revolution is recorded with resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+- **D:** D Wrong attachment: Consent is recorded with obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
 
-D. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Retributive punishment** with **backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which punishment theory asks what a culpable wrong deserves while requiring proportionate public sanction?
-
-A. Civil disobedience
-
-B. Retributive punishment
-
-C. Historical jurisprudence
-
-D. Resistance vs revolution
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).** with **Retributive punishment**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Retributive punishment; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Deterrent punishment**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+- A. Consent — obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+- B. Deterrent punishment — forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime.
+- C. Resistance vs revolution — some theories demand near-total obedience, some qualify obedience by rights or common good.
+- D. Retributive punishment — forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social.
 
-B. in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.
+**Answer: B**
 
-C. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+**Option-by-option explanation**
+- **A:** A Mismatched: Consent is recorded with obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+- **B:** B Records the association: Deterrent punishment is associated with this proposition.
+- **C:** C Wrong attachment: Resistance vs revolution is recorded with resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+- **D:** D Not this pair: Retributive punishment is recorded with backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
 
-D. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Deterrent punishment** with **forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which punishment theory justifies sanction through the prevention of future offending?
-
-A. Conscientious objection
-
-B. Sociological jurisprudence
-
-C. Proportionality
-
-D. Deterrent punishment
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).** with **Deterrent punishment**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Deterrent punishment; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Reformative punishment**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
+- A. Retributive punishment — obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF.
+- B. Unlimited vs limited vs anti-obligation — resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and.
+- C. Reformative punishment — forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social.
+- D. Deterrent punishment — severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select.
 
-B. resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+**Answer: C**
 
-C. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+**Option-by-option explanation**
+- **A:** A Not this pair: Retributive punishment is recorded with backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
+- **B:** B Wrong attachment: Unlimited vs limited vs anti-obligation is recorded with some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+- **C:** C Records the association: Reformative punishment is associated with this proposition.
+- **D:** D Misplaced: Deterrent punishment is recorded with forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
 
-D. refusal to comply with a legal duty because conscience forbids participation, as in objection to military service (PDF p.287).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Reformative punishment** with **forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which punishment theory centres rehabilitation and the offender's return to lawful life?
-
-A. Prescriptive law
-
-B. Reformative punishment
-
-C. Rule of law
-
-D. Unlimited vs limited vs anti-obligation
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).** with **Reformative punishment**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Reformative punishment; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Proportionality**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+- A. Dworkin (principles in hard cases) — backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-.
+- B. Reformative punishment — resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks.
+- C. Unlimited vs limited vs anti-obligation — forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence).
+- D. Proportionality — severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select.
 
-B. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+**Answer: D**
 
-C. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Dworkin (principles in hard cases) is recorded with in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.
+- **B:** B Belongs elsewhere: Reformative punishment is recorded with forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
+- **C:** C Misplaced: Unlimited vs limited vs anti-obligation is recorded with some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+- **D:** D Records the association: Proportionality is associated with this proposition.
 
-D. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Proportionality** with **severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which principle requires punishment severity to track the seriousness and culpability of the offence?
-
-A. Natural law school
-
-B. Legal validity vs moral legitimacy
-
-C. Hart (critique of Austin; structure of rules)
-
-D. Proportionality
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.** with **Proportionality**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Proportionality; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Unlimited vs limited vs anti-obligation**? Other options belong to different named entries.
+Consider the following statements:
+1. **Unlimited vs limited vs anti-obligation** is associated with: some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+2. **Resistance vs revolution** is associated with: in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.
+Which option is correct?
 
-A. some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm.
+**Answer: A**
 
-C. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Unlimited vs limited vs anti-obligation** with **some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which spectrum separates near-total obedience, conditional duty and denial of a duty to the coercive state?
-
-A. Analytical jurisprudence
-
-B. Unlimited vs limited vs anti-obligation
-
-C. Deterrent punishment
-
-D. Civil disobedience vs ordinary law-breaking
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **some theories demand near-total obedience, some qualify obedience by rights or common good, and some deny obligation to the coercive state itself (PDF pp.280-287).** with **Unlimited vs limited vs anti-obligation**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Unlimited vs limited vs anti-obligation does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **Legal validity vs moral legitimacy**? Other options belong to different named entries.
+Consider the following statements:
+1. **Legal validity vs moral legitimacy** is associated with: law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+2. **Austin (command theory)** is associated with: law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+Which option is correct?
 
-A. in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+**Answer: B**
 
-C. a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. law is positive law, technically valid because properly made and enforceable by authority (PDF pp.291-292).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Legal validity vs moral legitimacy** with **a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which distinction explains how a properly enacted rule can belong to a legal system yet remain morally contestable?
-
-A. Historical jurisprudence
-
-B. Reformative punishment
-
-C. Resistance vs revolution
-
-D. Legal validity vs moral legitimacy
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **a law may be technically valid because properly enacted, yet still morally contestable (PDF pp.290-292, 295-296).** with **Legal validity vs moral legitimacy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Legal validity vs moral legitimacy does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Civil disobedience vs ordinary law-breaking**? Other options belong to different named entries.
+Consider the following statements:
+1. **Civil disobedience vs ordinary law-breaking** is associated with: civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+2. **Kelsen (Grundnorm/hierarchy)** is associated with: in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm.
+Which option is correct?
 
-A. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.
+**Answer: C**
 
-C. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Civil disobedience vs ordinary law-breaking** with **civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which distinction turns on publicity, principle, non-violence and willingness to accept penalty?
-
-A. Sociological jurisprudence
-
-B. Civil disobedience vs ordinary law-breaking
-
-C. Proportionality
-
-D. Austin (command theory)
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).** with **Civil disobedience vs ordinary law-breaking**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Civil disobedience vs ordinary law-breaking does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Resistance vs revolution**? Other options belong to different named entries.
+Consider the following statements:
+1. **Resistance vs revolution** is associated with: in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.
+2. **Hart (critique of Austin; structure of rules)** is associated with: obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+Which option is correct?
 
-A. the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
+**Answer: D**
 
-C. resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. severity should not exceed the seriousness and culpability of the offence; this constrains punishment but does not by itself select retribution, deterrence or reform as the governing purpose.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Resistance vs revolution** with **resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which distinction separates correction of a specific injustice from transformation of the wider political order?
-
-A. Rule of law
-
-B. Unlimited vs limited vs anti-obligation
-
-C. Kelsen (Grundnorm/hierarchy)
-
-D. Resistance vs revolution
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).** with **Resistance vs revolution**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Resistance vs revolution does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Austin (command theory)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Austin (command theory)** is associated with: law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+2. **Dworkin (principles in hard cases)** is associated with: obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+Which option is correct?
 
-A. law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+**Answer: A**
 
-C. man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Austin (command theory)** with **law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Who defines law through a determinate sovereign's command backed by sanction?
-
-A. Retributive punishment
-
-B. Austin (command theory)
-
-C. Legal validity vs moral legitimacy
-
-D. Common good basis
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.** with **Austin (command theory)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Austin (command theory) does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Kelsen (Grundnorm/hierarchy)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Kelsen (Grundnorm/hierarchy)** is associated with: the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+2. **Political obligation** is associated with: the duty to obey political authority and the laws necessary to maintain political institutions (PDF p.280).
+Which option is correct?
 
-A. obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. law derives authority from a higher moral order discoverable by reason (PDF pp.290-291).
+**Answer: B**
 
-C. in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. backward-looking punishment justified by the offender's culpable wrong and constrained by proportionality (Socio-Political Philosophy, PDF p.164).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Kelsen (Grundnorm/hierarchy)** with **in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Who reconstructs positivist validity as a hierarchy of norms terminating in a basic norm?
-
-A. Deterrent punishment
-
-B. Civil disobedience vs ordinary law-breaking
-
-C. Civil disobedience
-
-D. Kelsen (Grundnorm/hierarchy)
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **in General Theory of Law and State — first published in English in 1945 (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a basic norm (Grundnorm); law forms a hierarchy of norms, where each lower norm derives validity from a higher one, terminating in the Grundnorm.** with **Kelsen (Grundnorm/hierarchy)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Kelsen (Grundnorm/hierarchy) does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Hart (critique of Austin; structure of rules)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Hart (critique of Austin; structure of rules)** is associated with: in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.
+2. **Force-based obligation** is associated with: obedience grounded mainly in the superior coercive power of the state (PDF pp.280-281).
+Which option is correct?
 
-A. in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. obedience owed only insofar as law promotes the shared good of the community, not every command of government (PDF pp.284-286).
+**Answer: C**
 
-C. forward-looking punishment intended to discourage the offender (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. civil disobedience is principled, public, non-violent and penalty-accepting; casual illegality is not (PDF p.287).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Hart (critique of Austin; structure of rules)** with **in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Who replaces the coercive-command model with primary and secondary rules grounded in social practice?
-
-A. Reformative punishment
-
-B. Hart (critique of Austin; structure of rules)
-
-C. Resistance vs revolution
-
-D. Political obligation
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **in The Concept of Law (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing.** with **Hart (critique of Austin; structure of rules)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Hart (critique of Austin; structure of rules) does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Dworkin (principles in hard cases)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Dworkin (principles in hard cases)** is associated with: obedience grounded in explicit or implicit agreement to political authority, classically through social-contract reasoning (PDF pp.282-284).
+2. **Consent** is associated with: man-made law telling people what they should or should not do under specified conditions, backed by sanctions (PDF pp.289-290).
+Which option is correct?
 
-A. deliberate, public and non-violent disobedience of an unjust law or policy, with willingness to accept penalty (PDF p.287).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. law must be traced to social history, custom and legal evolution (PDF pp.292-293).
+**Answer: D**
 
-C. in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. forward-looking treatment aimed at rehabilitation and return to law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Dworkin (principles in hard cases)** with **in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Dworkin (principles in hard cases) does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Who challenges source-based positivism by treating legal principles as binding constraints in hard cases?
+Which correction is most defensible for the claim: **"Civil disobedience means any illegal act done for a cause."**?
 
-A. Proportionality
+- A. Gauba's version is public, non-violent, principled, last-resort and penalty-accepting (PDF p.287).
+- B. This file gives conceptual tests; Indian statutes, Articles and case-law belong elsewhere.
+- C. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+- D. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
 
-B. Force-based obligation
+**Answer: A**
 
-C. Prescriptive law
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba's version is public, non-violent, principled, last-resort and penalty-accepting (PDF p.287).
+- **B:** B Repairs a different misconception, '"This topic is basically Indian Polity."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Hobbes, Locke and Rousseau all justify the same kind of consent."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Law always reduces liberty."', so it does not answer the claim in the stem.
 
-D. Dworkin (principles in hard cases)
+> **Examiner trap:** Repair the exact overstatement about "Civil disobedience means any illegal act done for a, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **in Taking Rights Seriously (1977), Dworkin criticises Hart's positivist account because source-based rules and a rule of recognition do not exhaust the legal standards used in hard/disputed cases.** with **Dworkin (principles in hard cases)**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **"A valid law is automatically a just law."**?
+
+- A. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+- B. Legal validity and moral legitimacy can diverge; the whole discussion of natural law, equity and conscience depends on this (PDF pp.290-296).
+- C. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
+- D. Gauba's traffic example shows generality and clarity do not exclude differentiated regulation by relevant situation (PDF p.300).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Hobbes, Locke and Rousseau all justify the same kind of consent."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Legal validity and moral legitimacy can diverge; the whole discussion of natural law, equity and conscience depends on this (PDF pp.290-296).
+- **C:** C Repairs a different misconception, '"Law always reduces liberty."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Rule of law means identical rights and duties in all situations."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "A valid law is automatically a just law.", not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Rule of law means identical rights and duties in all situations."**?
+
+- A. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+- B. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
+- C. Gauba's traffic example shows generality and clarity do not exclude differentiated regulation by relevant situation (PDF p.300).
+- D. Legal validity and moral legitimacy can diverge; the whole discussion of natural law, equity and conscience depends on this (PDF pp.290-296).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Hobbes, Locke and Rousseau all justify the same kind of consent."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Law always reduces liberty."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Gauba's traffic example shows generality and clarity do not exclude differentiated regulation by relevant situation (PDF p.300).
+- **D:** D Repairs a different misconception, '"A valid law is automatically a just law."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Rule of law means identical rights and duties in, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Hobbes, Locke and Rousseau all justify the same kind of consent."**?
+
+- A. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
+- B. Legal validity and moral legitimacy can diverge; the whole discussion of natural law, equity and conscience depends on this (PDF pp.290-296).
+- C. Gauba's traffic example shows generality and clarity do not exclude differentiated regulation by relevant situation (PDF p.300).
+- D. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Law always reduces liberty."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"A valid law is automatically a just law."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Rule of law means identical rights and duties in all situations."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+
+> **Examiner trap:** Repair the exact overstatement about "Hobbes, Locke and Rousseau all justify the same, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Law always reduces liberty."**?
+
+- A. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
+- B. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
+- C. Gauba's traffic example shows generality and clarity do not exclude differentiated regulation by relevant situation (PDF p.300).
+- D. Legal validity and moral legitimacy can diverge; the whole discussion of natural law, equity and conscience depends on this (PDF pp.290-296).
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
+- **B:** B Repairs a different misconception, '"Hobbes, Locke and Rousseau all justify the same kind of consent."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Rule of law means identical rights and duties in all situations."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"A valid law is automatically a just law."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Law always reduces liberty.", not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **"This topic is basically Indian Polity."**?
+
+- A. Gauba's version is public, non-violent, principled, last-resort and penalty-accepting (PDF p.287).
+- B. This file gives conceptual tests; Indian statutes, Articles and case-law belong elsewhere.
+- C. Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF.
+- D. Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Civil disobedience means any illegal act done for a cause."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: This file gives conceptual tests; Indian statutes, Articles and case-law belong elsewhere.
+- **C:** C Repairs a different misconception, '"Hobbes, Locke and Rousseau all justify the same kind of consent."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Law always reduces liberty."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "This topic is basically Indian Polity.", not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Retribution means unlimited revenge."**?
+
+- A. This file gives conceptual tests; Indian statutes.
+- B. Deterrence is an
+- C. A defensible retributive theory is
+- D. Gauba's version is public, non-violent, principled.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"This topic is basically Indian Polity."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"A severe sentence is automatically an effective deterrent."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: A defensible retributive theory is.
+- **D:** D Repairs a different misconception, '"Civil disobedience means any illegal act done for a cause."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Retribution means unlimited revenge.", not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **"A severe sentence is automatically an effective deterrent."**?
+
+- A. Gauba's version is public, non-violent.
+- B. A defensible retributive theory is
+- C. This file gives conceptual tests; Indian.
+- D. Deterrence is an
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Civil disobedience means any illegal act done for a cause."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Retribution means unlimited revenge."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"This topic is basically Indian Polity."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Deterrence is an.
+
+> **Examiner trap:** Repair the exact overstatement about "A severe sentence is automatically an effective, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-> **Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II — Crime and Punishment. They are not re-routed to Political Theory; they are included because this topic provides a directly usable supporting framework.
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-> **Primary owner:** Philosophy Paper II - Philosophy Paper II — Crime and Punishment.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Political Obligation, Resistance and Law** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
-#### Solved PYQ 1 - 2022 Q1(e), 10 marks
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Question:** What are the moral justifications of capital punishment? Discuss.
+### Original GS Mains Model 1 — 10 marks
 
+**Question:** Why is force insufficient to establish political obligation? Answer in 150 words.
 
-**Demand decoding:** The operative directive is **What**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of is force insufficient to establish political obligation in the opening line, carry the argument on Introduction, Core, Obligation and Conclusion, and reserve the closing sentences for the qualification that conclusion: Force can explain compliance, but political obligation requires a publicly justifiable reason for obedience;.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+**Model answer (137 words):**
 
-**Thesis.** The moral justifications of capital punishment are RETRIBUTIVE (desert),
-DETERRENT and INCAPACITATIVE -- but a justification stem still requires stating the
-fallibility and dignity counters that defeat them.
+Introduction: Political obligation asks why a person ought to obey political authority, whereas force explains only why disobedience may be costly. Core analysis: A coercively superior state can secure outward compliance through fear, sanctions and control. That causal fact cannot create a moral duty, because otherwise every successful usurper or oppressor would automatically become legitimate. Obligation requires an additional justificatory basis such as consent, protection of rights, participation in a general will or promotion of the common good. Gauba therefore separates force-based obedience from authority and later cautions that citizens encounter abstract authority through fallible officials. The defensible position is that sanctions support a legitimate legal order; they cannot substitute for its public justification. Conclusion: Force can explain compliance, but political obligation requires a publicly justifiable reason for obedience; without legitimacy, coercion produces submission rather than duty.
 
-- **Doctrine.** Retributively, the gravest murders can seem to deserve the gravest
-  penalty; Kant himself defended the death penalty on strict retributive grounds
-  (C1) -- state this accurately, not as caricature. Deterrence claims execution
-  uniquely saves future victims (contested, C3). Incapacitation guarantees the
-  offender never kills again.
-- **Objection -> reply.** Objection: irreversibility, human fallibility and unequal
-  application undercut the desert case. Reply: even GRANTING desert, an irrevocable
-  penalty administered by a fallible and unequally applied process cannot satisfy the
-  proportionate desert offered to justify it -- and secure imprisonment already
-  incapacitates, so incapacitation does not require killing.
-
-**Verdict.** The justifications are genuine but defeasible: retributive desert is the
-strongest, yet fallibility plus irreversibility is the counter it cannot survive.
-
-> 🔑 MEMORY: Why this earns marks -- it answers the "justifications" demand fully (C1
-> desert, deterrence, incapacitation) but a 10-marker still lands the decisive
-> fallibility limit rather than eulogising the penalty.
+**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Obligation and Conclusion), converts that evidence into analysis of is force insufficient to establish political obligation, and keeps the examiner-facing qualification that conclusion: Force can explain compliance, but political obligation requires a publicly justifiable reason for obedience;. At 137 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Philosophy Paper II — Crime and Punishment.
+### Original GS Mains Model 2 — 10 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “What are the moral justifications of capital punishment? Discuss.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Distinguish resistance, revolution, conscientious objection and civil disobedience. Answer in 150 words.
 
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of resistance, revolution, conscientious objection and civil disobedience in the opening line, carry the argument on Introduction, Core, Resistance and Revolution, and reserve the closing sentences for the qualification that conclusion: The four differ by target, scale, method and relation to law, so disciplined resistance cannot be inferred merely from the fact that every form involves some refusal of authority.
 
-#### Solved PYQ 2 - 2023 Q4(a), 20 marks
+**Model answer (131 words):**
 
-**Question:** "Severity of punishment should be proportionate to the seriousness of the crime." Do you agree that while punishing a juvenile, the nature of the crime should be considered? Justify your answer.
+Introduction: These forms of non-compliance differ by the object challenged, the scale of change sought, the method used and the actor's continuing relation to law. Core analysis: Resistance targets a particular unjust command, policy or abuse and may remain inside constitutional politics. Revolution seeks transformation of the wider political or social order and therefore raises greater risks of violence, authority vacuum and unintended domination. Conscientious objection is normally a personal refusal to perform a specific legal duty that violates conscience, such as military service. The decisive test is whether refusal is limited and accountable or aims to replace the order itself. Conclusion: The four differ by target, scale, method and relation to law, so disciplined resistance cannot be inferred merely from the fact that every form involves some refusal of authority.
 
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Thesis.** I agree that severity should be proportionate to seriousness, and that the
-NATURE of a juvenile's crime is a relevant input -- but it must not OVERRIDE the reduced
-culpability of a developmentally immature agent, whose desert, and therefore deserved
-severity, is lower.
-
-- **What makes it hard.** The stem pits the seriousness of the ACT against the status
-  of the OFFENDER, and it forces a choice only if we conflate the two.
-- **Doctrine.** Proportionality has two dimensions (C10): ordinal proportionality ranks
-  worse crimes above lesser ones; cardinal proportionality fixes the overall severity
-  scale. The maxim in the stem is ordinal. Crucially, desert presupposes responsible
-  agency (canonical 1.2); a juvenile's capacities for deliberation and self-control are
-  still forming, so CULPABILITY -- the basis of desert -- is reduced (the responsibility
-  gradient). Reformative prospects are also greater (canonical 1.6), and
-  restorative / reintegrative approaches (C8, C9) fit the juvenile case. Separating the
-  three questions (C4) shows the AIM (prevent harm, reform) does not settle the AMOUNT
-  (desert-capped severity).
-- **Objection -> reply (two chains).** (1) Objection: grave crimes are grave whoever
-  commits them, so a heinous juvenile act warrants adult severity. Reply: the
-  seriousness of the act is not irrelevant, but proportionate desert tracks
-  culpability, which immaturity reduces -- so nature is one INPUT, not an OVERRIDE. (2)
-  Objection: reduced culpability means impunity and ignores victims. Reply: reduced is
-  not zero; a proportionate, reform-oriented and restorative response answers victims
-  without treating a child as an adult.
-- **Critical qualification.** Foucault's caution (C7): open-ended "treatment" of
-  juveniles risks disciplinary control, so keep a determinate ceiling. Indian
-  juvenile-justice and proportionality principles are legal facts (C15), not
-  philosophical proofs, and no specific holding is asserted here.
-
-**Verdict.** Agree with proportionality; in juvenile cases weigh the nature of the
-crime as ONE factor within a desert reduced by developmental immaturity -- individualised
-justice that neither trivialises grave harm nor punishes a child as an adult.
-
-> 🔑 MEMORY: Why this earns marks -- a 20-marker that separates the three questions
-> (C4), deploys ordinal/cardinal proportionality (C10) and the responsibility gradient,
-> runs two objection chains, and lands a genuinely graded verdict.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Resistance and Revolution), converts that evidence into analysis of resistance, revolution, conscientious objection and civil disobedience, and keeps the examiner-facing qualification that conclusion: The four differ by target, scale, method and relation to law, so disciplined resistance cannot be inferred merely from the fact that every form involves some refusal of authority. At 131 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Philosophy Paper II — Crime and Punishment.
+### Original GS Mains Model 3 — 10 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “"Severity of punishment should be proportionate to the seriousness of the crime." Do you agree that while punishing a juvenile, the nature of the crime should be considered? Justify your answer.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Compare Hobbes, Locke, Rousseau and T.H. Green on the grounds and limits of political obligation. Answer in 150 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of hobbes, Locke, Rousseau and T.H. Green on the grounds and limits of political obligation in the opening line, carry the argument on Introduction, Core, Hobbes and Locke, and reserve the closing sentences for the qualification that conclusion: Their theories move from security and civic self-authorship to rights and common good, showing that consent alone cannot settle how far obedience extends or when resistance becomes justified.
 
-#### Solved PYQ 3 - 2024 Q3(b), 15 marks
+**Model answer (142 words):**
 
-**Question:** On what grounds would you accept or reject the idea of capital punishment as an effective deterrent? Discuss.
+Introduction: The four thinkers justify obedience through different accounts of what political authority protects or expresses. Core analysis: Hobbes grounds strong obligation in the need to escape insecurity: subjects authorise a sovereign for self-preservation and cannot casually reclaim natural liberty without reopening anarchy. Locke treats government as a limited trust for life, liberty and property; breach of trust restores a right of resistance. Rousseau locates obligation in the general will, framing obedience to public law as civic self-rule rather than submission to another's private will. Hobbes risks absolutism, Rousseau risks identifying dissenters with an allegedly higher self, Locke can understate social inequality, and Green may presume a common good that plural societies contest. Conclusion: Their theories move from security and civic self-authorship to rights and common good, showing that consent alone cannot settle how far obedience extends or when resistance becomes justified.
 
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Thesis.** I would REJECT reliance on capital punishment as a deterrent -- separating
-the EMPIRICAL question (does execution deter beyond life imprisonment?) from the MORAL
-question (even an effective deterrent may be impermissible). On both, the case fails.
-
-- **Doctrine.** Deterrence rests on empirical presuppositions (C3): offenders weigh
-  costs, and sanctions are known and certain. Beccaria's decisive point is that
-  CERTAINTY and SWIFTNESS of detection deter more than SEVERITY of penalty -- so the
-  marginal deterrent of execution OVER life imprisonment is not established and must
-  never be assumed "proved" (Trap 3). If that marginal effect is unproven, the
-  distinctively utilitarian ground for execution collapses.
-- **Objection -> reply.** Objection: if it deters even slightly, it saves innocent
-  lives and is justified. Reply: (a) the marginal effect is empirically unproven; (b)
-  using the offender purely as a lever to frighten others instrumentalises him, the
-  Kantian charge (C1); (c) irreversibility means wrongful executions cannot be
-  corrected -- fallibility defeats the practice independently of deterrence.
-
-**Verdict.** Reject on deterrence grounds: the empirical case is unproven and the moral
-case is independently defeated by instrumentalisation and irreversibility. What deters
-is the certainty of detection, not the severity of the penalty.
-
-> 🔑 MEMORY: Why this earns marks -- it splits effectiveness from permissibility, uses
-> Beccaria's certainty-over-severity (C3), and refuses to assert deterrence as proven.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Hobbes and Locke), converts that evidence into analysis of hobbes, Locke, Rousseau and T.H. Green on the grounds and limits of political obligation, and keeps the examiner-facing qualification that conclusion: Their theories move from security and civic self-authorship to rights and common good, showing that consent alone cannot settle how far obedience extends or when resistance becomes justified. At 142 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Philosophy Paper II — Crime and Punishment.
+### Original GS Mains Model 4 — 15 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “On what grounds would you accept or reject the idea of capital punishment as an effective deterrent? Discuss.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Critically examine the jurisprudential debate from Austin through Kelsen and Hart to Dworkin. Answer in 250 words.
 
+**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine the jurisprudential debate from Austin through Kelsen and Hart to Dworkin in the opening line, carry the argument on Introduction, Austin's, Dworkin's and Core, and reserve the closing sentences for the qualification that inclusive positivism may recognise principles through accepted social sources, but the residual dispute concerns whether legal obligation can be exhausted by pedigree or necessarily includes interpretive moral principle.
 
-#### Solved PYQ 4 - 2025 Q3(a), 20 marks
+**Model answer (235 words):**
 
-**Question:** Can one's right to life be absolute? Answer with reference to the idea of Capital Punishment.
+Introduction: The debate begins with Austin's sovereign-command theory, develops through two positivist reconstructions and culminates in Dworkin's interpretivist challenge. Core analysis: Austin defines law as a determinate sovereign's command backed by sanction, a model strong on coercive clarity but weak on power-conferring rules and legal continuity. Kelsen replaces personal command with a hierarchy of norms deriving validity from a presupposed Grundnorm while retaining the separation of validity from morality. Hart grounds legal validity in a social practice of primary and secondary rules, especially a rule of recognition, and explains powers, adjudication and legal change. Dworkin argues that source-based rules do not exhaust law in hard cases: judges are also constrained by principles possessing weight and requiring interpretive fit and justification. Further development: The sequence should not be narrated as four cumulative additions to one positivist doctrine. Kelsen replaces the personal sovereign with a validity hierarchy, and Hart replaces coercive command with a social practice of primary and secondary rules. Dworkin then disputes the source/pedigree boundary itself by treating principles as legally binding and denying strong judicial discretion. Inclusive positivism may recognise principles through accepted social sources, but the residual dispute concerns whether legal obligation can be exhausted by pedigree or necessarily includes interpretive moral principle. Conclusion: Kelsen and Hart reconstruct legal positivism beyond sovereign command, while Dworkin challenges its source-based limits; the debate is therefore an internal positivist development followed by an interpretivist critique.
 
-
-**Demand decoding:** The operative directive is **Can**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Thesis.** No -- the right to life is not treated as absolute even by its defenders;
-but that concession does NOT license capital punishment, because custodial killing does
-not meet the conditions (imminent-threat self-defence, necessity) under which taking
-life is permitted.
-
-- **What makes it hard.** The case is a three-way clash between desert, deterrence and
-  dignity; separating the three questions (C4) reorganises it.
-- **Doctrine.** The right to life is qualified even by its champions: self-defence and
-  necessity are conceded exceptions (canonical 5), so an exceptionless right cannot be
-  simply asserted. The decisive move is therefore CONDITIONAL -- is custodial killing
-  relevantly LIKE self-defence? It is not: a convicted prisoner poses no imminent
-  threat that only killing can avert, and imprisonment already incapacitates. So the
-  permitted exceptions do not reach the execution of a disarmed offender.
-- **Competing theories at strength.** Retention: retributive desert (Kant, C1, himself
-  a retentionist), deterrence (C3), incapacitation. Abolition: dignity, irreversibility,
-  arbitrariness and discrimination, brutalisation; Beccaria's utilitarian abolitionism
-  (C3).
-- **Objection -> reply (two chains, including fallibility and standing).** (1) Objection:
-  some crimes deserve death and society may defend itself. Reply: secure imprisonment
-  already achieves incapacitation, so the self-defence analogy fails; and the
-  fallibility verdict -- an irrevocable penalty by a fallible, unequally applied process
-  cannot satisfy the proportionate desert offered to justify it. (2) Objection: the
-  state takes life in war and self-defence, so why not in punishment? Reply: those
-  involve imminent threat or necessity absent in custodial killing; Duff's standing
-  point (C6) further weakens the state's title where it has denied the conditions of
-  citizenship.
-- **Critical qualification.** Distinguish philosophical evaluation from current law.
-  Indian legal facts (C15) -- Bachan Singh v. State of Punjab (1980, JUDGMENT)
-  articulating the "rarest of rare" framework, and Law Commission of India Report No.
-  262 (2015, REPORT) recommending abolition except for terrorism-related offences --
-  are dated legal facts, not philosophical proofs.
-
-**Verdict.** The right to life is not absolute, but its permitted exceptions do not
-extend to killing a disarmed, incapacitated prisoner; capital punishment therefore
-cannot be justified by the "not absolute" concession, and its irreversibility makes it
-incompatible with the very desert invoked to justify it.
-
-> 🔑 MEMORY: Why this earns marks -- it concedes "not absolute", then blocks the
-> inference with the custodial-killing-is-not-self-defence move, runs fallibility and
-> standing (C6), and classifies the Indian facts (C15) as facts, not proofs.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Can one's right to life be absolute? Answer with reference to the idea of Capital Punishment.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Austin's, Dworkin's and Core), converts that evidence into analysis of examine the jurisprudential debate from Austin through Kelsen and Hart to Dworkin, and keeps the examiner-facing qualification that inclusive positivism may recognise principles through accepted social sources, but the residual dispute concerns whether legal obligation can be exhausted by pedigree or necessarily includes interpretive moral principle. At 235 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 5 — 15 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** When is civil disobedience justified? Discuss with reference to Gandhi, Thoreau and the rule of law. Answer in 250 words.
 
-**Question:** Why is force insufficient to establish political obligation? Answer in about 150 words.
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of is civil disobedience justified? Discuss with reference to Gandhi, Thoreau and the rule of law in the opening line, carry the argument on Introduction, Civil, Core and Thoreau, and reserve the closing sentences for the qualification that publicity and acceptance of penalty expose the protester's reasons to reciprocal judgment, while non-violence and last resort limit harm.
 
+**Model answer (247 words):**
 
-**Demand decoding:** The operative directive is **Why**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Civil disobedience is a morally serious breach of law intended to correct injustice without repudiating legal order as such. Core analysis: Thoreau makes conscience central: a citizen should not cooperate personally with grave injustice merely because law commands it. Gandhi converts refusal into a disciplined public practice. The breach must be open, non-violent, principled, directed against a specific injustice, free from narrow sectional selfishness and willing to accept penalty. These conditions distinguish civil disobedience from clandestine evasion and from revolution. Its justification also depends on proportionality, the seriousness of the wrong and whether ordinary remedies are unavailable or exhausted. The 1930 salt-law satyagraha illustrates law-breaking that appeals to a wider public standard rather than private advantage. Further development: The argument must also distinguish justification from political wisdom. A breach can satisfy conscience yet impose costs on third parties, invite imitation or weaken institutions protecting vulnerable groups. Publicity and acceptance of penalty expose the protester's reasons to reciprocal judgment, while non-violence and last resort limit harm. Gauba's warning that failure to deliver every welfare promise is not by itself sufficient ground for resistance prevents civil disobedience from becoming a routine substitute for democratic disagreement. If rule of law prohibited every principled breach, it would protect arbitrary enactment from the moral standards that make legal authority worthy of obedience. Conclusion: Civil disobedience is justified only as public, principled, non-violent and accountable resistance to serious injustice, preserving respect for law while denying that legality makes every command morally binding.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Political obligation asks why a person ought to obey political authority, whereas force explains only why disobedience may be costly.
-
-**Core analysis:** A coercively superior state can secure outward compliance through fear, sanctions and control. That causal fact cannot create a moral duty, because otherwise every successful usurper or oppressor would automatically become legitimate. Obligation requires an additional justificatory basis such as consent, protection of rights, participation in a general will or promotion of the common good. Gauba therefore separates force-based obedience from authority and later cautions that citizens encounter abstract authority through fallible officials.
-
-**Critical evaluation:** Coercion remains necessary for some law enforcement, but necessity does not convert force into rightfulness. The defensible position is that sanctions support a legitimate legal order; they cannot substitute for its public justification.
-
-**Conclusion:** Force can explain compliance, but political obligation requires a publicly justifiable reason for obedience; without legitimacy, coercion produces submission rather than duty.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Why is force insufficient to establish political obligation?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Civil, Core and Thoreau), converts that evidence into analysis of is civil disobedience justified? Discuss with reference to Gandhi, Thoreau and the rule of law, and keeps the examiner-facing qualification that publicity and acceptance of penalty expose the protester's reasons to reciprocal judgment, while non-violence and last resort limit harm. At 247 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Distinguish resistance, revolution, conscientious objection and civil disobedience. Answer in about 150 words.
+**Question:** Can legal validity by itself generate political obligation? Discuss with reference to jurisprudence, resistance and the rule of law. Answer in 250 words.
 
+**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of legal validity by itself generate political obligation? Discuss with reference to jurisprudence, resistance and the rule of law in the opening line, carry the argument on Introduction, Legal, Core and Austin, and reserve the closing sentences for the qualification that conclusion: Legal validity supplies institutional order but not a complete duty to obey;.
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (236 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Legal validity identifies a rule as belonging to a legal system; political obligation asks whether citizens have a justified duty to obey it. The questions overlap institutionally but cannot be collapsed. Core analysis: Austin, Kelsen and Hart explain validity through command, normative hierarchy and socially accepted rules respectively. Their accounts secure identifiable standards and continuity without making moral merit a condition of every law. Natural-law reasoning replies that radically unjust enactments lack full authority, while Dworkin shows that principles may be legally relevant even where source-based rules underdetermine a hard case. The distinction becomes practical in resistance. Locke permits resistance when government breaches its trust; Green limits obligation by common good; Gandhi and Thoreau justify accountable refusal of specific injustice. Rule of law strengthens obligation where law is known, general, prospective and restrained, because citizens receive security and equal treatment rather than arbitrary command. Further development: Punishment reveals the same separation. Legal guilt is necessary before sanction, but it does not settle the legitimate aim or severity of punishment. Retribution, deterrence and reform answer different questions, while proportionality and fallibility constrain the state even after valid conviction. Validity creates a presumption and coordination reason, but legitimacy, rights and contestability determine whether that reason matures into duty. Conclusion: Legal validity supplies institutional order but not a complete duty to obey; obligation becomes defensible only when law is publicly known, non-arbitrary, rights-compatible and open to principled contestation.
 
-**Introduction:** These forms of non-compliance differ by the object challenged, the scale of change sought, the method used and the actor's continuing relation to law.
-
-**Core analysis:** Resistance targets a particular unjust command, policy or abuse and may remain inside constitutional politics. Revolution seeks transformation of the wider political or social order and therefore raises greater risks of violence, authority vacuum and unintended domination. Conscientious objection is normally a personal refusal to perform a specific legal duty that violates conscience, such as military service. Civil disobedience is public, principled and non-violent breach of a law or policy, undertaken to awaken public conscience with willingness to accept legal consequences.
-
-**Critical evaluation:** The categories can overlap in practice, but they are not synonyms for illegality. The decisive test is whether refusal is limited and accountable or aims to replace the order itself.
-
-**Conclusion:** The four differ by target, scale, method and relation to law, so disciplined resistance cannot be inferred merely from the fact that every form involves some refusal of authority.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish resistance, revolution, conscientious objection and civil disobedience.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Legal, Core and Austin), converts that evidence into analysis of legal validity by itself generate political obligation? Discuss with reference to jurisprudence, resistance and the rule of law, and keeps the examiner-facing qualification that conclusion: Legal validity supplies institutional order but not a complete duty to obey;. At 236 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
-
-#### Original Mains Practice 3 — 15 marks
-
-**Question:** Compare Hobbes, Locke, Rousseau and T.H. Green on the grounds and limits of political obligation. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** The four thinkers justify obedience through different accounts of what political authority protects or expresses.
-
-**Core analysis:** Hobbes grounds strong obligation in the need to escape insecurity: subjects authorise a sovereign for self-preservation and cannot casually reclaim natural liberty without reopening anarchy. Locke treats government as a limited trust for life, liberty and property; breach of trust restores a right of resistance. Rousseau locates obligation in the general will, framing obedience to public law as civic self-rule rather than submission to another's private will. Green limits obligation by the common good: law binds insofar as it sustains conditions of moral development, and conscience need not obey a command destructive of that good.
-
-**Further development:** The comparison is also a sequence of resistance tests. Hobbes permits little organised recovery of authority because insecurity is the controlling fear. Locke makes breach of fiduciary trust decisive. Rousseau's general will creates the strongest democratic claim but risks converting disagreement into moral error. Green gives the most explicit common-good limit, yet must explain how citizens identify that good without simply replacing public law with private conscience. A defensible modern position combines lawful authority, rights-protection, participation and a carefully limited resistance doctrine.
-
-**Critical evaluation:** Consent is therefore not one doctrine. Hobbes risks absolutism, Rousseau risks identifying dissenters with an allegedly higher self, Locke can understate social inequality, and Green may presume a common good that plural societies contest.
-
-**Conclusion:** Their theories move from security and civic self-authorship to rights and common good, showing that consent alone cannot settle how far obedience extends or when resistance becomes justified.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare Hobbes, Locke, Rousseau and T.H. Green on the grounds and limits of political obligation.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 4 — 15 marks
-
-**Question:** Critically examine the jurisprudential debate from Austin through Kelsen and Hart to Dworkin. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **Critically examine**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** The debate begins with Austin's sovereign-command theory, develops through two positivist reconstructions and culminates in Dworkin's interpretivist challenge.
-
-**Core analysis:** Austin defines law as a determinate sovereign's command backed by sanction, a model strong on coercive clarity but weak on power-conferring rules and legal continuity. Kelsen replaces personal command with a hierarchy of norms deriving validity from a presupposed Grundnorm while retaining the separation of validity from morality. Hart grounds legal validity in a social practice of primary and secondary rules, especially a rule of recognition, and explains powers, adjudication and legal change. Dworkin argues that source-based rules do not exhaust law in hard cases: judges are also constrained by principles possessing weight and requiring interpretive fit and justification.
-
-**Further development:** The sequence should not be narrated as four cumulative additions to one positivist doctrine. Kelsen replaces the personal sovereign with a validity hierarchy, and Hart replaces coercive command with a social practice of primary and secondary rules. Dworkin then disputes the source/pedigree boundary itself by treating principles as legally binding and denying strong judicial discretion. The residual issue is whether inclusive positivism can recognise principles when a legal system's social practices incorporate them, or whether interpretation necessarily exceeds source-based validity.
-
-**Critical evaluation:** Dworkin is not a fourth positivist refinement. Inclusive positivism may recognise principles through accepted social sources, but the residual dispute concerns whether legal obligation can be exhausted by pedigree or necessarily includes interpretive moral principle.
-
-**Conclusion:** Kelsen and Hart reconstruct legal positivism beyond sovereign command, while Dworkin challenges its source-based limits; the debate is therefore an internal positivist development followed by an interpretivist critique.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically examine the jurisprudential debate from Austin through Kelsen and Hart to Dworkin.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 5 — 20 marks
-
-**Question:** When is civil disobedience justified? Discuss with reference to Gandhi, Thoreau and the rule of law. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Civil disobedience is a morally serious breach of law intended to correct injustice without repudiating legal order as such.
-
-**Core analysis:** Thoreau makes conscience central: a citizen should not cooperate personally with grave injustice merely because law commands it. Gandhi converts refusal into a disciplined public practice. The breach must be open, non-violent, principled, directed against a specific injustice, free from narrow sectional selfishness and willing to accept penalty. These conditions distinguish civil disobedience from clandestine evasion and from revolution. Its justification also depends on proportionality, the seriousness of the wrong and whether ordinary remedies are unavailable or exhausted. The 1930 salt-law satyagraha illustrates law-breaking that appeals to a wider public standard rather than private advantage.
-
-**Further development:** The argument must also distinguish justification from political wisdom. A breach can satisfy conscience yet impose costs on third parties, invite imitation or weaken institutions protecting vulnerable groups. Publicity and acceptance of penalty expose the protester's reasons to reciprocal judgment, while non-violence and last resort limit harm. Gauba's warning that failure to deliver every welfare promise is not by itself sufficient ground for resistance prevents civil disobedience from becoming a routine substitute for democratic disagreement.
-
-**Critical evaluation:** Rule of law creates a presumption of compliance because general, known and prospective rules protect equal liberty. Yet legality is not self-justifying. If rule of law prohibited every principled breach, it would protect arbitrary enactment from the moral standards that make legal authority worthy of obedience.
-
-**Conclusion:** Civil disobedience is justified only as public, principled, non-violent and accountable resistance to serious injustice, preserving respect for law while denying that legality makes every command morally binding.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “When is civil disobedience justified? Discuss with reference to Gandhi, Thoreau and the rule of law.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 6 — 20 marks
-
-**Question:** Can legal validity by itself generate political obligation? Discuss with reference to jurisprudence, resistance and the rule of law. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **Can**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Legal validity identifies a rule as belonging to a legal system; political obligation asks whether citizens have a justified duty to obey it. The questions overlap institutionally but cannot be collapsed.
-
-**Core analysis:** Austin, Kelsen and Hart explain validity through command, normative hierarchy and socially accepted rules respectively. Their accounts secure identifiable standards and continuity without making moral merit a condition of every law. Natural-law reasoning replies that radically unjust enactments lack full authority, while Dworkin shows that principles may be legally relevant even where source-based rules underdetermine a hard case. The distinction becomes practical in resistance. Locke permits resistance when government breaches its trust; Green limits obligation by common good; Gandhi and Thoreau justify accountable refusal of specific injustice. Rule of law strengthens obligation where law is known, general, prospective and restrained, because citizens receive security and equal treatment rather than arbitrary command.
-
-**Further development:** Punishment reveals the same separation. Legal guilt is necessary before sanction, but it does not settle the legitimate aim or severity of punishment. Retribution, deterrence and reform answer different questions, while proportionality and fallibility constrain the state even after valid conviction. The March 2026 Tele-Law consultation offers a limited current anchor: accessible legal advice can strengthen rule-of-law legitimacy by making remedies practically usable, but service expansion alone cannot prove that every law or official decision is just.
-
-**Critical evaluation:** Neither morality nor conscience should become an unlimited private veto. Publicity, non-violence, proportionality, procedural challenge and acceptance of consequences discipline resistance. Validity creates a presumption and coordination reason, but legitimacy, rights and contestability determine whether that reason matures into duty.
-
-**Conclusion:** Legal validity supplies institutional order but not a complete duty to obey; obligation becomes defensible only when law is publicly known, non-arbitrary, rights-compatible and open to principled contestation.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Can legal validity by itself generate political obligation? Discuss with reference to jurisprudence, resistance and the rule of law.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.

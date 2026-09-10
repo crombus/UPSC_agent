@@ -1,363 +1,573 @@
-ASCII MASTER FLOW — PANEL 1/12: Perspective Map, Stakes and Essential Vocabulary
-CENTRAL FOCUS
-Perspective Map, Stakes and Essential Vocabulary
-  [1] Gauba presents rival perspectives on justice rather than one settled formula.
-        |
-        v
-  [2] Rawls, Nozick, Marxism, socialism, anarchism, feminism and communitarianism differ.
-        |
-        v
-  [3] Every doctrine identifies a standard, an object, an institution and a remedy.
-        |
-        v
-  [4] Objects include liberties, offices, holdings, labour, status, voice and common
-      goods.
-        |
-        v
-  [5] Institutions include the state, market, property regime, family and public culture.
-        |
-        v
-  [6] Redistribution, rectification, transformation and recognition are not
-      interchangeable.
-        |
-        v
-  [7] The topic rewards comparison across rule, state, property, equality and community.
-        |
-        v
-  [8] A strong answer names the justice standard before judging an outcome.
-        |
-        v
-VERDICT -> The chapter is comparative by design.
-ANSWER USE -> Name the rival standard of justice first.
+ASCII MASTER FLOW — PANEL 1/24: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Diverse Perspectives on Justice.                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Read Political-Theory/advanced/20_Diverse-Perspectives-on-Justice.md for deeper          |
+| criticism, Walzer's complex equality and thinker-by-thinker reconstruction                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: The Eight-Perspective Chapter Spine
-CENTRAL FOCUS
-The Eight-Perspective Chapter Spine
-  [1] Rawls tests institutions through fair choice and ordered distributive principles.
-        |
-        v
-  [2] Nozick tests holdings through acquisition, transfer and rectification.
-        |
-        v
-  [3] Marxism targets exploitation, surplus value and productive ownership.
-        |
-        v
-  [4] Democratic socialism joins social justice to welfare, liberty and competition.
-        |
-        v
-  [5] Anarchism treats coercive hierarchy and domination as the central danger.
-        |
-        v
-  [6] Feminist justice exposes gendered burdens hidden by formally equal rules.
-        |
-        v
-  [7] Subaltern justice centres dignity, contribution, voice and structural exclusion.
-        |
-        v
-  [8] Communitarianism begins from embedded selves and socially interpreted goods.
-        |
-        v
-VERDICT -> Rawls requires ordered principles, not one slogan.
-ANSWER USE -> State liberty, opportunity and difference in sequence.
+ASCII MASTER FLOW — PANEL 2/24: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1690 -> John Locke's Second Treatise of Government                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1724-1804 -> Immanuel Kant                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1756-1836 -> William Godwin                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1759-97 -> When Mary WoUstonecraft                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1792 -> Vindication of the Rights of Woman                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Rawls, Nozick and Controlling Distinctions
-CENTRAL FOCUS
-Rawls, Nozick and Controlling Distinctions
-  [1] Rawls does not defend simple equality of outcome.
-        |
-        v
-  [2] Original position and veil of ignorance model fair choice under uncertainty.
-        |
-        v
-  [3] Equal basic liberties come first, then fair opportunity, then difference.
-        |
-        v
-  [4] Primary goods identify the liberties, opportunities and means being distributed.
-        |
-        v
-  [5] Nozick does not deny justice; he denies patterned redistribution as the master test.
-        |
-        v
-  [6] Entitlement theory turns on acquisition, transfer and rectification together.
-        |
-        v
-  [7] Wilt Chamberlain attacks end-state patterning through voluntary exchange.
-        |
-        v
-  [8] The water-source case shows that acquisition is not morally unlimited.
-        |
-        v
-VERDICT -> Nozick's history matters as much as present consent.
-ANSWER USE -> Mention rectification when title history is disputed.
+ASCII MASTER FLOW — PANEL 3/24: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1793 -> In his Enquiry Concerning Political Justice                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1809-82 -> Charles Darwin                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1814-76 -> Mikhail Bakunin                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1828-1910 -> Leo Tolstoy                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1842-1921 -> Then Peter Kropotkin                                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Thinkers and Rival Standards of Justice
-CENTRAL FOCUS
-Thinkers and Rival Standards of Justice
-  [1] Marxist critique targets exploitation, surplus value and productive control.
-        |
-        v
-  [2] Democratic socialism keeps social justice but rejects dictatorship.
-        |
-        v
-  [3] Anarchism values voluntary cooperation while questioning coercive authority.
-        |
-        v
-  [4] Feminist justice tests burdens in property, care, work and representation.
-        |
-        v
-  [5] Gramsci explains how hegemony can make inequality appear consensual.
-        |
-        v
-  [6] Walzer's complex equality blocks dominance across distinct social spheres.
-        |
-        v
-  [7] Sen's capability lens asks what resources enable persons actually to do.
-        |
-        v
-  [8] Fraser's parity lens joins distribution, status and peer participation.
-        |
-        v
-VERDICT -> Socialism divides over freedom, method and state form.
-ANSWER USE -> Separate welfare constitutionalism from centralism.
+ASCII MASTER FLOW — PANEL 4/24: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1847-1922 -> George Sorel                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1848 -> Marx and Engels in their Communist Manifesto                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1848-1923 -> Vilfredo Pareto                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1858-1941 -> Gaetano Mosca                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1859 -> Contribution to the Critique of Political Economy                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1861-79 -> Marx's Capital                                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Illustrative Cases and Evidence Units
-CENTRAL FOCUS
-Illustrative Cases and Evidence Units
-  [1] Wilt Chamberlain tests whether voluntary transfer may upset a pattern.
-        |
-        v
-  [2] The sole water source tests whether acquisition worsens others' position.
-        |
-        v
-  [3] A clean sale after dispossession shows why rectification cannot be omitted.
-        |
-        v
-  [4] Unpaid labour captured in production illustrates the surplus-value critique.
-        |
-        v
-  [5] A neutral rule with unequal care burdens illustrates feminist correction.
-        |
-        v
-  [6] Cash transfers with continuing stigma illustrate mis-recognition.
-        |
-        v
-  [7] Wealth purchasing office or education illustrates cross-sphere dominance.
-        |
-        v
-  [8] Antyodaya is an Indian policy illustration, not proof of one justice theory.
-        |
-        v
-VERDICT -> Anarchism critiques domination, not coordination as such.
-ANSWER USE -> Balance voluntary order with the scale objection.
+ASCII MASTER FLOW — PANEL 5/24: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1869-1948 -> Mahatma Gandhi                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1869 -> The Subjection of Women                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1875 -> Again, in his Critique of the Gotha Programme                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1876-1936 -> Robert Michels                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: The Six-Axis Comparative Matrix
-CENTRAL FOCUS
-The Six-Axis Comparative Matrix
-  [1] Rule axis: patterned fairness, historical entitlement or anti-domination.
-        |
-        v
-  [2] State axis: redistributive authority, minimal protection or decentralisation.
-        |
-        v
-  [3] Property axis: primary goods, title history or productive control.
-        |
-        v
-  [4] Equality axis: formal treatment, fair opportunity, capability or status parity.
-        |
-        v
-  [5] Community axis: isolated chooser, embedded self or sphere-specific meanings.
-        |
-        v
-  [6] Critique axis: abstraction, history, exploitation, patriarchy or hegemony.
-        |
-        v
-  [7] The same policy can pass one axis while failing another.
-        |
-        v
-  [8] A comparative answer should explain conflict before offering a graded synthesis.
-        |
-        v
-VERDICT -> Formal equality can leave structural subordination intact.
-ANSWER USE -> Show why correction is not identical treatment.
+ASCII MASTER FLOW — PANEL 6/24: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. PRIMARY GOODS: Rawls's distributive object: rights, liberties, powers, opportunities,    |
+| income, wealth and the social bases of self-respect. (PDF p.447)                             |
+| 02. ORIGINAL POSITION: Rawls's hypothetical starting point where rational persons choose     |
+| principles of justice without knowing their actual social place. (PDF p.447)                 |
+| 03. VEIL OF IGNORANCE: The condition in which parties lack knowledge of their particular     |
+| wants, talents, class position and other discriminatory markers. (PDF p.447)                 |
+| 04. EQUAL BASIC LIBERTIES: Rawls's first principle: each person has an equal claim to the    |
+| most extensive compatible liberty. (PDF p.448)                                               |
+| 05. FAIR EQUALITY OF OPPORTUNITY: Rawls's second-stage rule that offices and positions       |
+| should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)        |
+| 06. DIFFERENCE PRINCIPLE: Rawls's rule that inequality is just only if it brings the         |
+| greatest benefit to the least advantaged. (PDF p.448)                                        |
+| 07. ENTITLEMENT THEORY: Nozick's view that holdings are just if they arise from just         |
+| acquisition, voluntary transfer and, where needed, rectification. (PDF pp.450-452)           |
+| 08. SUBALTERN: Groups kept in subordinate, exploited or marginalized positions by structural |
+| inequalities and hegemonic domination. (PDF pp.467-469)                                      |
+| 09. SITUATED / EMBEDDED SELF: Communitarian idea that persons discover themselves within     |
+| social roles, traditions and shared ends, not in abstraction from them. (PDF pp.469-472)     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Trap Repair, Boundaries and PYQ Routes
-CENTRAL FOCUS
-Trap Repair, Boundaries and PYQ Routes
-  [1] Trap: Rawls orders principles; he does not permit liberty-for-income trades.
-        |
-        v
-  [2] Trap: Nozick includes rectification; recent consent does not cleanse old injustice.
-        |
-        v
-  [3] Trap: Marxian exploitation is structural, not merely a complaint about low wages.
-        |
-        v
-  [4] Trap: communitarian goods do not license cultural uniformity or silenced dissent.
-        |
-        v
-  [5] Capability and parity are bounded extensions, not Gauba chapter vocabulary.
-        |
-        v
-  [6] Postcolonial and global justice remain routed outside this owner.
-        |
-        v
-  [7] Verified cross-applied PYQs retain their Philosophy Paper II ownership.
-        |
-        v
-  [8] Democratisation, backsliding and movement processes remain Topic 23 bridges.
-        |
-        v
-VERDICT -> Hegemony explains why injustice can appear normal.
-ANSWER USE -> Link subaltern critique to public meaning and reward.
+ASCII MASTER FLOW — PANEL 7/24: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins with the liberal perspective and presents Rawls as the major attempt to     |
+| reconcile liberty with equality and fraternity within a broader liberal frame. (PDF p.446)   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Rawls rejects utilitarian sacrifice of some for aggregate happiness and instead asks     |
+| what principles free and rational agents would choose under fairness conditions. (PDF        |
+| pp.447-448)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Gauba then shifts to the libertarian perspective, where Nozick opposes redistributive    |
+| welfare and treats justice historically through titles and transfers, not patterned end-     |
+| states. (PDF pp.450-452)                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. The Marxist discussion rejects repair of capitalism through mere fairer shares and       |
+| locates injustice in exploitation, surplus value and private ownership of major means of     |
+| production. (PDF pp.452-459)                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Democratic socialism softens the revolutionary route, combines socialism with democratic |
+| freedoms, and seeks welfare plus civil liberties through constitutional politics. (PDF       |
+| pp.459-461)                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Revision Spine and Directive Control
-CENTRAL FOCUS
-Revision Spine and Directive Control
-  [1] Revise each perspective through standard, object, institution and remedy.
-        |
-        v
-  [2] Define asks for conceptual boundaries before examples.
-        |
-        v
-  [3] Compare requires a common axis and a point of real disagreement.
-        |
-        v
-  [4] Discuss requires claim, support, objection and balanced conclusion.
-        |
-        v
-  [5] Critically examine requires an internal limit, not a decorative criticism.
-        |
-        v
-  [6] Use one evidence unit only after stating the mechanism it illustrates.
-        |
-        v
-  [7] Route the answer through thesis, distinction, objection-reply and verdict.
-        |
-        v
-  [8] Keep quotations paraphrased unless wording and ownership are verified.
-        |
-        v
-VERDICT -> Community meanings qualify but do not abolish justice.
-ANSWER USE -> Use Walzer to block one sphere dominating another.
+ASCII MASTER FLOW — PANEL 8/24: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 06. Anarchism radicalizes suspicion of coercive authority by arguing that justice needs the  |
+| shrinking or abolition of state power and domination. (PDF pp.461-464)                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Feminist justice makes gender hierarchy a central political problem and presses for      |
+| rights, opportunities, representation and compensatory measures. (PDF pp.464-468)            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Subaltern justice reframes distribution around structurally subordinated groups whose    |
+| labour and contribution are undervalued under elite hegemony. (PDF pp.467-469)               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. Communitarian justice criticizes liberal neutrality and insists that right cannot be     |
+| understood apart from shared conceptions of the good and community life. (PDF pp.469-473)    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Argument Reconstruction and Objection-Reply Chains
-CENTRAL FOCUS
-Argument Reconstruction and Objection-Reply Chains
-  [1] Rawls objection: abstract choice may understate history and social identity.
-        |
-        v
-  [2] Rawls reply: the device models fair terms, not an empirical bargaining meeting.
-        |
-        v
-  [3] Nozick objection: title history may be unknowable and background power unequal.
-        |
-        v
-  [4] Nozick reply: uncertainty strengthens the need for rectification rather than
-      patterning.
-        |
-        v
-  [5] Marxist objection: centralised transformation may threaten liberty and opposition.
-        |
-        v
-  [6] Anarchist objection: voluntary order faces scale, coordination and enforcement
-      problems.
-        |
-        v
-  [7] Communitarian objection: shared meanings may conceal hierarchy and exclusion.
-        |
-        v
-  [8] Synthesis must preserve distribution, history, status and reviewable power.
-        |
-        v
-VERDICT -> The six-axis grid prevents descriptive overflow.
-ANSWER USE -> Compare rule, state, property, equality, community and critique.
+ASCII MASTER FLOW — PANEL 9/24: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. JOHN RAWLS: Justice as fairness through two lexically ordered principles: equal basic    |
+| liberties; then fair opportunity plus the difference principle, chosen in the original       |
+| position. Gauba explains the second principle's two parts as separate steps (PDF pp.447-450) |
+| 02. ROBERT NOZICK: Justice as entitlement grounded jointly in self-ownership, just initial   |
+| acquisition, voluntary transfer and rectification under a minimal protective state (PDF      |
+| pp.450-452)                                                                                  |
+| 03. MARX AND ENGELS: Capitalist injustice lies in exploitation of labour, surplus value and  |
+| private ownership of major means of production; communist society aims to end class          |
+| domination. (PDF pp.452-459)                                                                 |
+| 04. HAROLD LASKI / E.F.M. DURBIN: Democratic socialism combines socialist justice with       |
+| democratic method, civil liberties and public services. (PDF pp.459-461)                     |
+| 05. GODWIN / PROUDHON / BAKUNIN / KROPOTKIN / TOLSTOY / GANDHI / BOOKCHIN: Anarchist family  |
+| members differ, but all distrust coercive authority and seek justice through decentralized,  |
+| voluntary or morally regenerated association. (PDF pp.461-464)                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Indian Applications, Quotation Safety and MCQ Ledger
-CENTRAL FOCUS
-Indian Applications, Quotation Safety and MCQ Ledger
-  [1] Antyodaya illustrates targeted public action but proves no single doctrine.
-        |
-        v
-  [2] Indian application should test resources, opportunity, dignity, voice and power.
-        |
-        v
-  [3] The 44th-Amendment property bridge must not be cited as Gauba chapter evidence.
-        |
-        v
-  [4] Capability and parity require explicit supplementary attribution.
-        |
-        v
-  [5] Recognition language must remain a bridge rather than an invented chapter owner.
-        |
-        v
-  [6] MCQ labels must preserve narrow distinctions among adjacent standards.
-        |
-        v
-  [7] Current examples require dates and source limits before analytical use.
-        |
-        v
-  [8] Quotation safety means named propositions are preferable to invented wording.
-        |
-        v
-VERDICT -> Supplementary bridges must remain explicitly bounded.
-ANSWER USE -> Tag capability and parity as extensions, not Gauba terms.
+ASCII MASTER FLOW — PANEL 10/24: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. MARY WOLLSTONECRAFT / J.S. MILL: Early feminist demand for equal rights, education,      |
+| property and political citizenship for women. (PDF pp.465-466)                               |
+| 02. BOOK-PERIOD GENDER INDICATORS: Gauba uses development and empowerment indicators to show |
+| that gender justice includes health, education and power, not merely formal rights. (PDF     |
+| pp.466-468)                                                                                  |
+| 03. ANTONIO GRAMSCI: Subaltern justice exposes hegemony, elite-centred history and           |
+| exploitation masked as consent. (PDF pp.467-469)                                             |
+| 04. MACINTYRE / SANDEL / TAYLOR / WALZER: Communitarian thinkers stress virtue,              |
+| embeddedness, social context and sphere-specific meanings of goods against abstract liberal  |
+| universalism. (PDF pp.470-473)                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Primary goods and capability differ between distributed means and real freedom.
-        |
-        v
-  [2] Original position and veil differ between a choice device and its information rule.
-        |
-        v
-  [3] Liberty, fair opportunity and difference form an ordered Rawlsian sequence.
-        |
-        v
-  [4] Entitlement, self-ownership and minimal state are related but non-identical.
-        |
-        v
-  [5] Wilt, water-source and rectification cases test different historical questions.
-        |
-        v
-  [6] Formal equality, feminist correction and parity test different exclusion mechanisms.
-        |
-        v
-  [7] Embedded self and complex equality address identity and sphere dominance separately.
-        |
-        v
-  [8] Close-option practice should identify the decisive threshold before selecting.
-        |
-        v
-VERDICT -> Cross-application never transfers Philosophy ownership.
-ANSWER USE -> Keep the original Philosophy owner explicit.
+ASCII MASTER FLOW — PANEL 11/24: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Rawls's anti-utilitarian point is illustrated by the possibility that aggregate          |
+| happiness could rise even while a minority is enslaved; he rejects such trade-offs. (PDF     |
+| p.447)                                                                                       |
+| 02. Nozick's Wilt Chamberlain example shows why voluntary exchange may generate inequality   |
+| without, in his view, making the outcome unjust. (PDF p.451)                                 |
+| 03. Nozick's water-source example shows that initial acquisition is not unlimited; control   |
+| over an indispensable natural resource cannot rightfully make others worse off. (PDF p.451)  |
+| 04. Marxist surplus-value analysis illustrates injustice when labour creates more value than |
+| the worker receives back as wages. (PDF pp.453-455)                                          |
+| 05. Feminist justice is illustrated through historically denied rights to women's education, |
+| property, vote and occupations, followed by claims for compensatory measures. (PDF           |
+| pp.465-468)                                                                                  |
+| 06. Subaltern justice is illustrated through the contrast between elite theory, which        |
+| naturalizes rule, and Gramsci's view that hegemony makes subordination look consensual. (PDF |
+| pp.468-469)                                                                                  |
+| 07. Walzer's example of keeping money from corrupting politics, health and education         |
+| illustrates communitarian "complex equality." (PDF p.473)                                    |
+| 08. In answer writing, treat these as timeless conceptual illustrations or clearly           |
+| historical book-period examples, not present-day statistics                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Six verified PYQs remain cross-applied under Philosophy ownership.
-        |
-        v
-  [2] Rawls, Nozick, Sen, Plato and Mill route through Social and Political Ideals.
-        |
-        v
-  [3] Political Theory borrows tested questions without claiming primary ownership.
-        |
-        v
-  [4] Original Topic 20 practice must remain distinguishable from transferred PYQs.
-        |
-        v
-  [5] A 10-mark answer needs definition, mechanism, one criticism and a tight verdict.
-        |
-        v
-  [6] A 15-mark answer adds comparison and an objection-reply chain.
-        |
-        v
-  [7] A 20-mark answer integrates rival standards, application and graded synthesis.
-        |
-        v
-  [8] Every conclusion should state which justice dimension the preferred view secures.
-        |
-        v
-VERDICT -> Topic 20 ends where Topic 23's democratic bridges begin.
-ANSWER USE -> Route democratisation and backsliding forward to Topic 23.
+ASCII MASTER FLOW — PANEL 12/24: Comparison Matrix (1/3)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/3)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. RAWLSIAN LIBERAL | Distribution rule = Equal liberties first; the second principle then  |
+| requires fair opportunity before inequalities can be tested by the difference principle (PDF |
+| p.448) | State = Active state may pursue distributive justice and regulate inequalities.     |
+| (PDF pp.448-450) | Property = Retains capitalism conditionally, but only in a more humane,   |
+| regulated form. (PDF p.450) | Equality = Equal liberty plus justified inequality, not simple |
+| leveling. (PDF pp.448-449) | Community = Gauba's "chain connection" is his explanatory       |
+| presentation of social interdependence, not a substitute for Rawls's ordered principles |    |
+| Critique = Criticized by collectivists, Marxists, libertarians and communitarians from       |
+| different angles. (PDF pp.448-449)                                                           |
+| 02. LIBERTARIAN (NOZICK) | Distribution rule = Historical entitlement through just           |
+| acquisition, voluntary transfer and rectification. All three matter (PDF pp.450-452) | State |
+| = Minimal protective state plus rectification, not patterned welfare redistribution. (PDF    |
+| pp.451-452) | Property = Strong private property and self-ownership are central to liberty,  |
+| qualified by just title and the acquisition proviso | Equality = Equality of outcome is      |
+| irrelevant only where holdings arose justly | Community = Community does not automatically   |
+| ground coercive redistribution; voluntary aid remains possible | Critique = Criticized for   |
+| underestimating structural injustice and the indeterminacy of rectification                  |
+| 03. MARXIST | Distribution rule = Ultimately distribution by need in communist society;      |
+| under capitalism, justice cannot be reduced to fair shares inside an exploitative system.    |
+| (PDF pp.453, 458-459) | State = Socialist state is transitional, then expected to wither     |
+| away with class abolition. (PDF pp.455-459) | Property = Abolishes private ownership of      |
+| major means of production while distinguishing personal property. (PDF pp.458-459) |         |
+| Equality = Seeks abolition of exploitative class inequality. (PDF pp.453-459) | Community =  |
+| Envisions classless association where free development of each supports all. (PDF            |
+| pp.458-459) | Critique = Criticized because new domination may reappear through political or |
+| bureaucratic power. (PDF p.459)                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/24: Comparison Matrix (2/3)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/3)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 04. DEMOCRATIC-SOCIALIST | Distribution rule = Social justice through partial socialization, |
+| welfare, public services and democratic rights. (PDF pp.459-461) | State = Strong welfare-   |
+| democratic state, but not dictatorship. (PDF pp.460-461) | Property = Mixed regime: some     |
+| essential sectors under state ownership, not wholesale abolition. (PDF p.459) | Equality =   |
+| Combines socio-economic justice with civil liberties and personality development. (PDF       |
+| pp.459-460) | Community = Public opinion, work culture and democratic institutions are       |
+| needed to sustain it. (PDF p.461) | Critique = Criticized as hard to fund and politically    |
+| difficult to sustain without coercion or incentive loss. (PDF p.461)                         |
+| 05. ANARCHIST | Distribution rule = Equitable sharing through voluntary cooperation,         |
+| mutualism or communal association, not imposed hierarchy. (PDF pp.461-464) | State = State   |
+| is coercive evil to be abolished or progressively diluted. (PDF pp.461-464) | Property =     |
+| Often hostile to property as domination, though strands differ. (PDF pp.462-464) | Equality  |
+| = Equality means release from domination by state, hierarchy and exploitative ownership.     |
+| (PDF pp.462-464) | Community = Small associations, federations and mutual aid are preferred  |
+| to centralized rule. (PDF pp.462-464) | Critique = Criticized as politically impracticable,  |
+| overly optimistic about human nature, and weak on regulation. (PDF p.464)                    |
+| 06. FEMINIST | Distribution rule = Justice requires equal rights plus corrective support     |
+| against gendered disadvantage. (PDF pp.465-468) | State = State may need to secure           |
+| education, representation, reservations and protective benefits. (PDF pp.466-468) | Property |
+| = Challenges women's historic exclusion from property ownership and economic power. (PDF     |
+| pp.465-468) | Equality = Equality includes effective status, empowerment, participation and  |
+| share in power. (PDF pp.466-468) | Community = Community arrangements are suspect when they  |
+| naturalize patriarchal roles. (PDF pp.465-467) | Critique = Critiques social arrangements    |
+| that turn biological difference into unwarranted subordination. (PDF pp.465-468)             |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/24: Comparison Matrix (3/3)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (3/3)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 07. SUBALTERN | Distribution rule = Justice means restoring equitable shares, rights,        |
+| dignity and protection to structurally subordinated groups. (PDF pp.467-469) | State = State |
+| and history-writing must stop privileging elites and must protect marginalized groups. (PDF  |
+| pp.468-469) | Property = Property/class matters, but subordination extends beyond ownership  |
+| into caste, culture, gender and hegemony. (PDF pp.467-469) | Equality = Equality means       |
+| ending undeserved subordination and rewarding contribution fairly. (PDF pp.468-469) |        |
+| Community = Community is divided by ruling-class hegemony unless subaltern agency can        |
+| organize and speak. (PDF pp.467-469) | Critique = Critiques elite theory for naturalizing    |
+| rule and minimizing subordinate agency. (PDF pp.468-469)                                     |
+| 08. COMMUNITARIAN | Distribution rule = Distribution should reflect community meanings,      |
+| virtue and sphere-specific reasons, not one abstract universal metric. (PDF pp.469-473) |    |
+| State = State is not neutral umpire alone; it may legitimately sustain common goods and      |
+| proper boundaries between spheres. (PDF pp.470-473) | Property = Property is not the sole    |
+| key to social worth; money must not dominate every sphere. (PDF pp.472-473) | Equality =     |
+| Rejects simple equality; Walzer prefers complex equality across distinct social spheres.     |
+| (PDF pp.472-473) | Community = Persons are situated selves whose good is discovered through  |
+| shared practices and deeper commonality. (PDF pp.470-472) | Critique = Critiques liberal     |
+| neutrality and the abstract or unencumbered self; is itself criticized for weak political    |
+| mechanism. (PDF pp.469-473)                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/24: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Rawls wants identical outcomes for all => REPAIR: Rawls permits inequality after   |
+| liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)         |
+| 02. TRAP: The difference principle alone is enough to justify an inequality => REPAIR: Equal |
+| basic liberties and fair equality of opportunity have lexical priority                       |
+| 03. TRAP: Nozick is anti-justice => REPAIR: Nozick proposes a full theory of justice, but    |
+| one centred on entitlement rather than redistribution. (PDF pp.451-452)                      |
+| 04. TRAP: Any voluntary market transfer is just for Nozick => REPAIR: The transfer must rest |
+| on just title; acquisition, transfer and rectification form a connected historical test      |
+| 05. TRAP: Marxism has nothing to do with justice => REPAIR: Gauba says that would be too     |
+| strong, because Marx condemns exploitation and endorses superior distributive principles in  |
+| a classless order. (PDF p.453)                                                               |
+| 06. TRAP: Democratic socialism is just Marxism without elections => REPAIR: It explicitly    |
+| insists on freedom of thought, multi-party competition and opposition rights. (PDF           |
+| pp.460-461)                                                                                  |
+| 07. TRAP: Feminism only demands that women be treated exactly like men in every situation => |
+| REPAIR: Gauba also notes claims for maternity benefits and compensatory support rooted in    |
+| actual disadvantage. (PDF pp.466-468)                                                        |
+| 08. TRAP: Communitarian criticism means justice should give way to blind conformity =>       |
+| REPAIR: The criticism is directed at the abstract self and ethical neutrality, not at the    |
+| very idea of justice. (PDF pp.469-473)                                                       |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/24: Ownership Boundaries and Cross-Links (1/2)
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS (1/2)                                                   |
++----------------------------------------------------------------------------------------------+
+| 01. Read Political-Theory/advanced/20_Diverse-Perspectives-on-Justice.md for deeper          |
+| criticism, Walzer's complex equality and thinker-by-thinker reconstruction                   |
+| 02. Conceptual prequel: Political-Theory/basic/03_Liberalism-and-Neoliberalism.md for        |
+| liberal and libertarian background                                                           |
+| 03. Socialist and anarchist background: Political-Theory/basic/04_Marxism-and-Neo-Marxism.md |
+| and Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md                    |
+| 04. Gender and community background: Political-Theory/basic/06_Feminism-Sex-and-Gender.md    |
+| and Political-Theory/basic/07_Nature-of-Politics-and-Communitarianism.md                     |
+| 05. State-role boundary: Political-Theory/basic/10_State-Civil-Society-Nation-and-           |
+| Internationalism.md                                                                          |
+| 06. Module frame and topic map: Political-Theory/00_Master-Framework.md and Political-       |
+| Theory/README.md                                                                             |
+| 07. Boundary: this file stays conceptual and does not duplicate constitutional reservations  |
+| law, welfare statutes or court doctrine                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/24: Ownership Boundaries and Cross-Links (2/2)
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS (2/2)                                                   |
++----------------------------------------------------------------------------------------------+
+| 08. Scope boundary: this canonical owner covers Gauba's eight chapter-framed perspectives.   |
+| Capability and recognition are separately sourced extensions; multicultural,                 |
+| environmental/intergenerational, postcolonial and global justice remain external cross-      |
+| routes unless independently sourced in their own owners                                      |
+| 09. 2019, 10 marks: "How far do you think John Rawls is continuing with Plato's concept of   |
+| justice?" Primary owner: Philosophy Paper II - Social and Political Ideals                   |
+| 10. 2021, 10 marks: "Discuss critically the distributive theory of justice as propounded by  |
+| R. Nozick." Primary owner: Philosophy Paper II - Social and Political Ideals                 |
+| 11. 2022, 15 marks: "Explain the difference between the notion of equity and equality with   |
+| reference to Marxian philosophy." Primary owner: Philosophy Paper II - Social and Political  |
+| Ideals                                                                                       |
+| 12. 2023, 10 marks: "What is meant by justice as fairness? Explain Rawls' theory of          |
+| justice." Primary owner: Philosophy Paper II - Social and Political Ideals                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/24: Revision Capsule (1/3)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/3)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Rawls: two principles - equal basic liberties; then fair opportunity plus the difference |
+| principle in lexical order. Gauba presents the second principle's two parts as separate      |
+| steps (PDF pp.447-450)                                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Nozick: justice in holdings = acquisition + transfer + rectification under minimal       |
+| state. (PDF pp.450-452)                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Marxist: injustice lies in exploitation and private ownership of major means of          |
+| production; communist justice points to need-based distribution. (PDF pp.453-459)            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Democratic-socialist: welfare and social ownership must coexist with civil liberties and |
+| democratic competition. (PDF pp.459-461)                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/24: Revision Capsule (2/3)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/3)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 05. Anarchist: justice seeks release from coercive authority and domination through          |
+| voluntary association. (PDF pp.461-464)                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Feminist, subaltern and communitarian critiques widen justice beyond market shares to    |
+| gendered power, structural subordination and embedded community meanings. (PDF pp.464-473)   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Walzer adds the important reminder that equality can mean keeping money from colonizing  |
+| every other sphere of life. (PDF pp.472-473)                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. One-line synthesis: Gauba's chapter moves from fair procedure, to valid title, to        |
+| structural exploitation, structured subordination and finally to shared meanings of goods;   |
+| recognition is a later analytical extension                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 20/24: Revision Capsule (3/3)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (3/3)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 09. Best answer move: compare each theory on rule of distribution, role of state, treatment  |
+| of property, idea of equality, view of community, and strongest criticism                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. Verified PYQ (2023): What is justice as fairness? Explain Rawls's theory of justice      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. PYQ trap: do not write only the difference principle; define original position and veil  |
+| of ignorance, state the two principles and their priority, then add objections               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 21/24: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba opens the chapter by treating justice as a field of many rival perspectives rather |
+| than one settled formula. (PDF p.446)                                                        |
+| 02. Gauba begins with the liberal perspective and presents Rawls as the major attempt to     |
+| reconcile liberty with equality and fraternity within a broader liberal frame. (PDF p.446)   |
+| 03. Rawlsian justice is not flat equality; liberty comes first, opportunity next, and only   |
+| then may inequalities be permitted if they help the least advantaged. (PDF p.448)            |
+| 04. Thinker / stream - Position in this topic                                                |
+| 05. Rawls's anti-utilitarian point is illustrated by the possibility that aggregate          |
+| happiness could rise even while a minority is enslaved; he rejects such trade-offs. (PDF     |
+| p.447)                                                                                       |
+| 06. Perspective - Distribution rule - State - Property - Equality - Community - Critique     |
+| 07. Rawls wants identical outcomes for all. -> Rawls permits inequality after liberty and    |
+| fair opportunity, provided it benefits the least advantaged. (PDF p.448)                     |
+| 08. Rawls: two principles - equal basic liberties; then fair opportunity plus the difference |
+| 09. Rawls, reconstructed for answer-writing (synthesis of PDF pp.447-450, not a direct       |
+| quotation): P1: rational agents choose principles behind a veil of ignorance, unaware of     |
+| their own place                                                                              |
+| 10. All Indian illustrations in this section are exam-use analytical bridges. They must not  |
+| be cited with a Gauba PDF page number                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 22/24: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Perspective                                                                                  |
+| 02. Eight-Perspective Chapter; Spine; SESSION; Core; Gauba; Rawls; Nozick                    |
+| 03. two principles; Rawls; Nozick; Controlling Distinctions; SESSION; Essential; Rawlsian    |
+| 04. Thinkers; Rival Standards; Justice; SESSION; Thinker; Position; John Rawls               |
+| 05. Illustrative Cases; Evidence Units; SESSION; Illustrative; Rawls; Nozick; Wilt           |
+| Chamberlain                                                                                  |
+| 06. Six-Axis Comparative; Matrix; SESSION; Comparison; Perspective; Distribution; State      |
+| 07. 2019, 10 marks:; 2021, 10 marks:; 2022, 15 marks:; 2023, 10 marks:; Trap Repair;         |
+| Boundaries; Routes                                                                           |
+| 08. Verified PYQ (2023):; Directive decoding for this topic:; plus; 10-mark architecture     |
+| (~150 words):; 15-mark architecture (~200-250 words):; Revision Spine; Directive Control     |
+| 09. Rawls, reconstructed for answer-writing; Nozick, reconstructed; Recognition              |
+| (Fraser/Honneth), supplementary synthesis, not Gauba-grounded:; Postcolonial and global      |
+| justice route:; Communitarian objection to Rawls (Sandel) -> Rawlsian reply:; Libertarian    |
+| objection to Rawls (Nozick) -> Rawlsian reply:; Egalitarian/Marxist objection to Nozick ->   |
+| Nozickian reply:                                                                             |
+| 10. Primary goods:; Original position:; Veil of ignorance:; Equal basic liberties:; Fair     |
+| equality of opportunity:; Difference principle:; Entitlement theory:                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 23/24: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish Rawls's difference principle from Nozick's entitlement theory.     |
+| Answer in 150 words                                                                          |
+| 02. 10 MARKS: Why is Walzer's complex equality not simple levelling? Answer in 150 words     |
+| 03. 10 MARKS: Compare feminist and subaltern critiques of distributive justice. Answer in    |
+| 150 words                                                                                    |
+| 04. 15 MARKS: Does Sen improve Rawls, or mainly change the metric of justice? Answer in 250  |
+| words                                                                                        |
+| 05. 15 MARKS: Can justice be exhausted by redistribution? Discuss with Rawls, Fraser and     |
+| Ambedkarian/subaltern implications. Answer in 250 words                                      |
+| 06. 15 MARKS: Evaluate whether democratic socialism is the strongest correction to both      |
+| libertarianism and Marxist centralism. Answer in 250 words                                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 24/24: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Rawls, reconstructed for answer-writing (synthesis of PDF pp. 447-450, not a      |
+| direct quotation): P1: rational agents choose principles behind a veil of ignorance, unaware |
+| of their own place Gauba begins with the liberal perspective and presents Rawls as the major |
+| attempt to reconcile liberty with equality and fraternity within a broader liberal frame     |
++----------------------------------------------------------------------------------------------+

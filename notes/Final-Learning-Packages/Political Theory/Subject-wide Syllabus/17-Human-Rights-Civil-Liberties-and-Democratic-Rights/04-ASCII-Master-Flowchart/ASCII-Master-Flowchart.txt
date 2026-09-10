@@ -1,221 +1,391 @@
-ASCII MASTER FLOW — PANEL 1/12: Human Rights, Civil Liberties and Democratic Rights
-CENTRAL FOCUS
-Human Rights, Civil Liberties and Democratic Rights
-  [1] Human rights attach to persons through dignity and universal moral concern.
-        |
-        v
-  [2] Civil liberties protect legal freedom against arbitrary public power.
-        |
-        v
-  [3] Democratic rights enable citizens to participate in collective self-government.
-        |
-        v
-  [4] The categories overlap but are not arranged in one rigid hierarchy.
-        |
-        v
-VERDICT -> Rights categories overlap because dignity, liberty and participation interdepend.
-ANSWER USE -> Distinguish them through holder, function and duty-bearer.
+ASCII MASTER FLOW — PANEL 1/17: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Human Rights, Civil Liberties and Democratic Rights.                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md   |
+| for the full theory-by-theory reconstruction and criticisms                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Hohfeld and the Negative-Positive Obligation Grid
-CENTRAL FOCUS
-Hohfeld and the Negative-Positive Obligation Grid
-  [1] Hohfeld separates claim, liberty, power and immunity positions.
-        |
-        v
-  [2] Negative duties require restraint; positive duties require protection or provision.
-        |
-        v
-  [3] Most real rights combine both dimensions through institutions and remedies.
-        |
-        v
-  [4] Every answer should identify holder, duty-bearer, content and remedy.
-        |
-        v
-VERDICT -> Negative and positive identify obligation dimensions, not sealed right-types.
-ANSWER USE -> Map every right through Hohfeldian position and required duty.
+ASCII MASTER FLOW — PANEL 2/17: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1588-1679 -> Thomas Hobbes                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1628 -> Petition of Right                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1688 -> On the contrary, he glorified the English Revolution                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1729-97 -> Edmund Burke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1737-1809 -> Tom Paine                                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Natural, Legal, Historical and Personality Theories
-CENTRAL FOCUS
-Natural, Legal, Historical and Personality Theories
-  [1] Natural-rights theories give claims moral force before legal recognition.
-        |
-        v
-  [2] Legal theories stress public definition, guarantee and enforceability.
-        |
-        v
-  [3] Historical theories ground rights in evolved practices and inheritance.
-        |
-        v
-  [4] Personality theories connect rights to moral development and common good.
-        |
-        v
-VERDICT -> Rights theories separate moral source, legal guarantee, history and personality.
-ANSWER USE -> Compare the source of validity before judging institutional force.
+ASCII MASTER FLOW — PANEL 3/17: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1776 -> The American Declaration of Independence                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1789 -> French Declaration of the Rights of Man and of the Citizen                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1789 -> In his Principles of Legislation                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1789 -> French Revolution                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1791 -> Rights of Man                                                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Locke, Paine, Green and Barker
-CENTRAL FOCUS
-Locke, Paine, Green and Barker
-  [1] Locke grounds resistance in life, liberty, property and limited trust.
-        |
-        v
-  [2] Paine attacks inherited privilege through universal natural equality.
-        |
-        v
-  [3] Green links rights to social recognition and moral self-development.
-        |
-        v
-  [4] Barker joins personality-grounding to legal guarantee without collapsing the two.
-        |
-        v
-VERDICT -> Barker bridges moral purpose and law without proving effective enjoyment.
-ANSWER USE -> Keep validity, recognition, enforceability and realisation distinct.
+ASCII MASTER FLOW — PANEL 4/17: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1818-83 -> Karl Marx                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1870-1964 -> Roscoe Pound                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1878 -> As Engles in his Anti-Duhring                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1885-1957 -> Zechariah Chafee                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1917 -> State and Revolution                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1935 -> In his State in Theory and Practice                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Burke, Laski, Marx and Nozick
-CENTRAL FOCUS
-Burke, Laski, Marx and Nozick
-  [1] Burke protects prescriptive inheritance but risks preserving inherited exclusion.
-        |
-        v
-  [2] Laski treats rights as social conditions of personality and common welfare.
-        |
-        v
-  [3] Marx exposes class power beneath formally equal rights.
-        |
-        v
-  [4] Nozick defends side-constraints and an anti-redistributive minimal state.
-        |
-        v
-VERDICT -> Rights can protect agency and still conceal unequal social power.
-ANSWER USE -> Compare welfare, class and libertarian critiques through one dispute.
+ASCII MASTER FLOW — PANEL 5/17: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1938 -> Laski, in his A Grammar of Politics                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1938 -> In his Grammar of Politics                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1938-2002 -> Robert Nozick                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1943 -> In his Reflections on the Revolution of Our Time                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Theses, Directives and Rights-Answer Architecture
-CENTRAL FOCUS
-Theses, Directives and Rights-Answer Architecture
-  [1] A thesis should identify the rights theory, obligation structure and enforcement
-      level.
-        |
-        v
-  [2] Directive control determines whether comparison, criticism or application dominates.
-        |
-        v
-  [3] Generations answers must distinguish mnemonic value from historical accuracy.
-        |
-        v
-  [4] Covenant answers must separate immediate duties from progressive realisation.
-        |
-        v
-VERDICT -> Directive fidelity determines the theory, duty and remedy required.
-ANSWER USE -> State the obligation structure in the thesis before examples.
+ASCII MASTER FLOW — PANEL 6/17: Chapter Spine
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE                                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins by defining human rights as a broad moral and legal standard extending      |
+| beyond ordinary citizenship-based rights (PDF p.338), not as an automatically superior rule  |
+| of positive constitutional law                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then explains rights in general as claims arising against arbitrary state authority   |
+| and as demands for legal-constitutional embodiment (PDF pp.339-340)                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Next he distinguishes negative and positive rights and surveys the major theories of     |
+| rights: natural, legal, historical and social-welfare/social-democratic, later adding        |
+| Marxist and other broader theories (PDF pp.340-355, 365-366)                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. He then turns to the post-Second World War rise of human-rights discourse, especially    |
+| Nuremberg and the Universal Declaration of Human Rights (PDF pp.358-360)                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Finally, he distinguishes human rights from civil liberties and democratic rights and    |
+| extends the discussion to life, property, dignity, social rights and duties to the community |
+| (PDF pp.361-366)                                                                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: MacIntyre and Accurate Feminist Critiques
-CENTRAL FOCUS
-MacIntyre and Accurate Feminist Critiques
-  [1] MacIntyre challenges abstract rights-talk from traditions and social practices.
-        |
-        v
-  [2] Feminist critique tests whether neutral rights conceal patriarchal power.
-        |
-        v
-  [3] Firestone foregrounds sex-class and reproductive control.
-        |
-        v
-  [4] Rowbotham joins women's oppression to capitalism, labour and historical struggle.
-        |
-        v
-VERDICT -> Community and feminist critiques expose different limits of abstraction.
-ANSWER USE -> Separate MacIntyre, Firestone and Rowbotham by mechanism.
+ASCII MASTER FLOW — PANEL 7/17: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Nuremberg legal turn: the trials established individual international criminal           |
+| responsibility for crimes including crimes against humanity, not merely a moral idea beyond  |
+| domestic law (PDF p.358)                                                                     |
+| 02. UDHR (1948): a declaration and common standard, not a treaty, domestic constitution or   |
+| directly enforceable global code (PDF pp.358-360)                                            |
+| 03. The ICCPR and ICESCR are treaties binding their States Parties. The ICCPR combines       |
+| immediate respect/ensure and remedy duties with permitted restrictions and derogation rules; |
+| the ICESCR requires progressive realisation while also imposing immediate duties such as     |
+| non-discrimination and good-faith steps                                                      |
+| 04. India acceded to both Covenants on 10 April 1979. India is not party to the ICCPR or     |
+| ICESCR individual-complaint Optional Protocols; treaty-body reporting should not be confused |
+| with an individual petition route                                                            |
+| 05. Undertrials kept for years without charges, custodial violence, fake encounters,         |
+| degrading punishment, child labour and human trafficking are used as book-period             |
+| illustrations of human-rights violations (PDF pp.363-364)                                    |
+| 06. Gauba also treats clean air, clean water and public health as expanding implications of  |
+| the right to life under modern human-rights consciousness (PDF pp.338, 361, 364-365)         |
+| 07. Use all such examples as conceptual illustrations of dignity, legality and state         |
+| responsibility, not as current-status claims                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Generations of Rights and Indivisibility
-CENTRAL FOCUS
-Generations of Rights and Indivisibility
-  [1] First-generation rights protect civil and political agency but need institutions.
-        |
-        v
-  [2] Second-generation rights contain progressive and immediate obligations.
-        |
-        v
-  [3] Third-generation claims have unequal legal status and enforcement paths.
-        |
-        v
-  [4] Indivisibility means mutual support, not identical duties or remedies.
-        |
-        v
-VERDICT -> Generations organise claims but cannot rank or date them universally.
-ANSWER USE -> Add actual legal status, immediate duties and interdependence.
+ASCII MASTER FLOW — PANEL 8/17: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. HUMAN RIGHTS | Core scope = Claims grounded in human dignity rather than citizenship     |
+| alone (PDF pp.338, 361-363) | Main content = Life, liberty, dignity, legal safeguards,       |
+| socio-economic and cultural claims | Key caution = Moral universality does not automatically |
+| settle domestic legal enforceability                                                         |
+| 02. CIVIL LIBERTIES | Core scope = Legal freedom against arbitrary power (PDF pp.362-363) |  |
+| Main content = Expression, religion, movement, association, fair trial, personal liberty |   |
+| Key caution = They are neither purely negative nor only vertical; protection may require     |
+| positive duties                                                                              |
+| 03. DEMOCRATIC RIGHTS | Core scope = Participation in public life under membership and       |
+| eligibility rules (PDF pp.361-362) | Main content = Voting, choosing government, influencing |
+| decisions, seeking office | Key caution = They support but are not logically necessary for   |
+| every civil liberty                                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Nuremberg, UDHR, ICCPR and ICESCR
-CENTRAL FOCUS
-Nuremberg, UDHR, ICCPR and ICESCR
-  [1] The UDHR is a global standard rather than a treaty with Covenant form.
-        |
-        v
-  [2] ICCPR duties stress respect, ensure and effective remedy.
-        |
-        v
-  [3] ICESCR combines progressive realisation with immediate non-discrimination and steps.
-        |
-        v
-  [4] Nuremberg supplied an accountability precedent, not the whole origin of human
-      rights.
-        |
-        v
-VERDICT -> Human-rights instruments differ in form, duty and enforcement route.
-ANSWER USE -> Distinguish UDHR standard-setting from Covenant obligations.
+ASCII MASTER FLOW — PANEL 9/17: Examiner Trap Firewall (1/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "The UDHR is itself a domestic constitution." => REPAIR: It is an international    |
+| declaration and moral-legal standard, not a country's own constitution (PDF pp.358-360)      |
+| 02. TRAP: "All rights are absolute" / "No right is absolute." => REPAIR: Rights must be      |
+| classified. Some permit lawful limitation; some permit emergency derogation; some are non-   |
+| derogable; and a few prohibitions, such as torture, are treated as absolute                  |
+| 03. TRAP: "Human rights, democratic rights and civil liberties are interchangeable." =>      |
+| REPAIR: Gauba distinguishes them and places human rights as the widest category (PDF         |
+| pp.361-363)                                                                                  |
+| 04. TRAP: "Civil liberties are simply a smaller subset of democratic rights in every         |
+| theory." => REPAIR: Gauba's own prose distinguishes legal and political arenas; treat them   |
+| as overlapping human-rights categories rather than a rigid universal nesting                 |
+| 05. TRAP: "Only negative liberty counts as rights." => REPAIR: Gauba explicitly includes     |
+| positive rights and state responsibility in modern rights discourse (PDF pp.340-341)         |
+| 06. TRAP: "Rights generations is Gauba's own classification." => REPAIR: If taught,          |
+| generations of rights are only a pedagogic synthesis; Gauba's own classification here is     |
+| different and must not be misattributed                                                      |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Restrictions, Emergencies, Horizontal Effect and Protection
-CENTRAL FOCUS
-Restrictions, Emergencies, Horizontal Effect and Protection
-  [1] Ordinary restrictions require law, permitted aim, necessity and proportionality.
-        |
-        v
-  [2] Emergency derogation is narrower and leaves specified non-derogable rights intact.
-        |
-        v
-  [3] Horizontal harms may require legislation or positive state protection.
-        |
-        v
-  [4] The NHRC detention case is an allegation and response anchor, not an adjudicated
-      finding.
-        |
-        v
-VERDICT -> Lawful limits and emergency derogation require separate structured tests.
-ANSWER USE -> Use the NHRC case only as an allegation and institutional response.
+ASCII MASTER FLOW — PANEL 10/17: Examiner Trap Firewall (2/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 07. TRAP: 2018: Human rights and dignity as a common human aspiration                        |
+| 08. TRAP: 2019: Whether rights make citizens accountable to the state                        |
+| 09. TRAP: 2020: Indian tradition and individual/human rights                                 |
+| 10. TRAP: 2021: Social contract theory and human-rights issues                               |
+| 11. TRAP: 2022: Whether unconditional rights lead to anarchy                                 |
+| 12. TRAP: 2023: Priority of duties and accountability over rights                            |
+| 13. TRAP: 2025: Whether duties as obligations and rights as entitlements lack a necessary    |
+| connection                                                                                   |
+| 14. TRAP: All seven are cross-applications whose primary owner remains Philosophy Paper II   |
+| => REPAIR: Individual and State                                                              |
+| 15. TRAP: Framework: identify the kind of right => REPAIR: name its correlative duty-holder  |
+| -> distinguish moral claim from legal enforcement -> explain limits imposed by equal rights  |
+| of others -> reject both rightless statism and condition-free absolutism                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close options test moral validity, recognition, enforceability and realisation.
-        |
-        v
-  [2] Civil liberties may protect non-citizens while electoral rights usually depend on
-      citizenship.
-        |
-        v
-  [3] Absolute-right language must be confined to the applicable legal rule and context.
-        |
-        v
-  [4] Social movements can deepen effective rights without themselves replacing legal
-      guarantee.
-        |
-        v
-VERDICT -> Close options turn on legal level, obligation, holder and remedy.
-ANSWER USE -> Reject absolute language unless the specific rule supports it.
+ASCII MASTER FLOW — PANEL 11/17: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md   |
+| for the full theory-by-theory reconstruction and criticisms                                  |
+| 02. Use Polity/advanced/07_Fundamental-Rights.md for Indian constitutional rights detail;    |
+| this file stays with concepts, not Articles/case law                                         |
+| 03. Use Polity/advanced/35_NHRC-and-SHRC.md for current institutional detail on human-rights |
+| commissions                                                                                  |
+| 04. Use Philosophy/paper-2/socio-political/Social-Political-Ideals.md if you want a parallel |
+| normative discussion of rights, justice and social ideals                                    |
+| 05. Boundary: if Indian constitutional provisions, NHRC powers or current compliance status  |
+| are needed, they must be studied through official/Polity material, not supplied here as      |
+| theory prose                                                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Seven rights PYQs are cross-applied from Individual and State.
-        |
-        v
-  [2] Primary Philosophy ownership remains explicit in every transferred question.
-        |
-        v
-  [3] Six original questions test taxonomy, theories, generations and enforcement.
-        |
-        v
-  [4] Final recall: rights require justification, law, remedy and usable institutional
-      access.
-        |
-        v
-VERDICT -> Rights become real through justification, recognition, remedy and access.
-ANSWER USE -> Preserve Philosophy ownership and end with institutional plurality.
+ASCII MASTER FLOW — PANEL 12/17: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Start by defining human rights as rights attached to human status itself, wider than     |
+| citizenship rights (PDF p.338)                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Then define rights generally as claims against arbitrary power plus claims for           |
+| conditions of better life (PDF pp.339-340)                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Distinguish negative and positive rights in one compact paragraph (PDF pp.340-341)       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use the corrected relation: human rights are the umbrella; democratic rights and civil   |
+| liberties are distinct, overlapping branches tied respectively to participation and          |
+| protection from arbitrary power (PDF pp.361-363)                                             |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/17: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 05. Add one line on rights and duties: claim-rights identify duty-bearers, while liberties,  |
+| powers and immunities require different relational analysis                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. End with a balanced conclusion: rights protect dignity, but they require institutions,   |
+| law and public responsibility to become real                                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/17: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba makes rights the central tool for regulating the relation between individual and   |
+| state and for resisting arbitrary power (PDF pp.339-340)                                     |
+| 02. Human rights: rights to which an individual is entitled by virtue of being human; they   |
+| remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338)   |
+| 03. Negative vs positive dimensions: negative duties require restraint; positive duties      |
+| require protection or provision. Most rights need both - for example, speech requires non-   |
+| censorship and                                                                               |
+| 04. Nuremberg legal turn: the trials established individual international criminal           |
+| responsibility for crimes including crimes against humanity, not merely a moral idea beyond  |
+| domestic law (PDF                                                                            |
+| 05. Use Political-Theory/advanced/17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md   |
+| for the full theory-by-theory reconstruction and criticisms                                  |
+| 06. Theory - Core claim (named thinker) - Significance for a rights answer - Limit to name   |
+| alongside it                                                                                 |
+| 07. Civil liberties are legal protections against arbitrary state action in the individual's |
+| personal/legal sphere - expression, religion, movement, association, fair trial (PDF         |
+| pp.362-363)                                                                                  |
+| 08. Generation (pedagogic label only) - Illustrative content - Non-linear caution            |
+| 09. Directive word - What the examiner expects - How to open this topic's answer             |
+| 10. # - Move - What to do here                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/17: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| human rights                                                                                 |
+| 02. Human rights:; Rights:; Negative-right dimension:; Positive-right dimension:; Civil      |
+| liberties:; Democratic rights:; Natural, moral and legal rights:                             |
+| 03. Human rights, civil liberties and democratic rights:; Negative vs positive dimensions:;  |
+| Natural, moral and legal rights:; Ideal vs legal rights:; Scope relation, corrected:; Rights |
+| and duties:; Moral claim vs full enforceable right:                                          |
+| 04. Nuremberg legal turn:; UDHR (1948):; Human rights; Civil liberties; Democratic rights;   |
+| "The UDHR is itself a domestic constitution."; "All rights are absolute" / "No right is      |
+| absolute."                                                                                   |
+| 05. Burke; Laski; Marx; Nozick; SESSION; Cross-links; Political-Theory                       |
+| 06. Theses; Directives; Rights-Answer Architecture; SESSION; Named; Theory; Core             |
+| 07. Objection:; Reply:; Cultural-relativist objection:; Vienna Declaration boundary:;        |
+| MacIntyre; Accurate Feminist; Critiques                                                      |
+| 08. moral validity; legal recognition; justiciability/remedy; effective realisation;         |
+| Restriction test:; Emergency distinction:; Horizontal effect:                                |
+| 09. 10-mark qualified-thesis template:; 15-mark qualified-thesis template:; Central debate   |
+| used as the model:; P1:; P2:; P3:; Mechanism:                                                |
+| 10. 10-mark/~150 words:; 15-mark/~200 words:; Identify the proposition and the concept;      |
+| Reconstruct the strongest argument for it; Test the counterargument and the conditions;      |
+| Apply named evidence; Give a graded verdict                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/17: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish human rights, civil liberties and democratic rights. Why are they  |
+| overlapping rather than hierarchically nested? Answer in 150 words                           |
+| 02. 10 MARKS: Explain why negative and positive rights are better understood as dimensions   |
+| of obligation. Answer in 150 words                                                           |
+| 03. 10 MARKS: Compare natural, legal, historical and personality theories of rights. Does    |
+| Barker reconcile moral validity with legal guarantee? Answer in 150 words                    |
+| 04. 15 MARKS: Critically examine the generations-of-rights framework in light of the         |
+| indivisibility of human rights. Answer in 250 words                                          |
+| 05. 15 MARKS: Evaluate Laski, Marx, Nozick, MacIntyre and feminist approaches to rights,     |
+| power and common welfare. Answer in 250 words                                                |
+| 06. 15 MARKS: Distinguish moral validity, legal recognition, judicial enforceability and     |
+| effective realization of rights with reference to the Covenants, constitutional limits,      |
+| emergencies and social movements. Answer in 250 words                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/17: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Negative vs positive dimensions: negative duties require restraint; positive      |
+| duties require protection or provision. Most rights need both - for example, speech requires |
+| non-censorship and. Add one line on rights and duties: claim-rights identify duty-bearers,   |
+| while liberties, powers and immunities require different relational analysis. So the answer  |
+| must move from definition to mechanism to counter-position, and end with a verdict that      |
+| concedes what the evidence cannot support                                                    |
++----------------------------------------------------------------------------------------------+

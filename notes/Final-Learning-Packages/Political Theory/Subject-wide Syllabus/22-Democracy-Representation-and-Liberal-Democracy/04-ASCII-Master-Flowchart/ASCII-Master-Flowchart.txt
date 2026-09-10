@@ -1,217 +1,393 @@
-ASCII MASTER FLOW — PANEL 1/12: Meaning, Stakes and the Classical Democratic Map
-CENTRAL FOCUS
-Meaning, Stakes and the Classical Democratic Map
-  [1] Democracy means rule of the people, but Topic 22 asks how rule is restrained.
-        |
-        v
-  [2] Gauba moves from Greek participation to modern representative institutions.
-        |
-        v
-  [3] Elections are necessary to modern democracy, but not sufficient by themselves.
-        |
-        v
-  [4] Liberal democracy adds consent, accountability, rights and minority security.
-        |
-        v
-VERDICT -> Topic 22 treats democracy as restrained people-rule.
-ANSWER USE -> Define popular rule, then add restraint and protection.
+ASCII MASTER FLOW — PANEL 1/16: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Democracy, Representation and Liberal Democracy.                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Companion file: Political-Theory/advanced/22_Democracy-Representation-and-Liberal-       |
+| Democracy.md                                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Direct, Representative and Liberal Democracy
-CENTRAL FOCUS
-Direct, Representative and Liberal Democracy
-  [1] Direct democracy expects citizens to deliberate and decide public affairs.
-        |
-        v
-  [2] Representative democracy uses elected intermediaries for large modern states.
-        |
-        v
-  [3] The scale problem explains the shift from assembly to representation.
-        |
-        v
-  [4] The democratic risk is distance between rulers and the people.
-        |
-        v
-VERDICT -> Representation solves scale but creates accountability risk.
-ANSWER USE -> Contrast feasibility with democratic distance.
+ASCII MASTER FLOW — PANEL 2/16: Origin and Dated Rail (1/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1588-1679 -> Thomas Hobbes                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1712-78 -> Jean-Jaques Rousseau                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1729-97 -> Edmund Burke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1743-1826 -> Thomas Jefferson                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. 1751-1836 -> James Madison                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Necessary and Sufficient Democratic Conditions
-CENTRAL FOCUS
-Necessary and Sufficient Democratic Conditions
-  [1] Liberal democracy joins popular authorisation to constitutional restraint.
-        |
-        v
-  [2] Its core package is consent, accountability, majority rule and minority rights.
-        |
-        v
-  [3] Civil liberties, party competition and courts protect the reality of choice.
-        |
-        v
-  [4] Majority rule is a decision rule, not unrestricted domination.
-        |
-        v
-VERDICT -> Liberal democracy joins authorisation to rights and law.
-ANSWER USE -> Separate necessary elections from sufficient safeguards.
+ASCII MASTER FLOW — PANEL 3/16: Origin and Dated Rail (2/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 08. 1756-1804 -> Alexander Hamilton                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1790-1859 -> John Austin                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1834-95 -> John Seeley                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1838-1922 -> James Bryce                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 13. 1859 -> On Liberty                                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1859-1952 -> John Dewey                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Classical Critics and Comparative Defenders
-CENTRAL FOCUS
-Classical Critics and Comparative Defenders
-  [1] Plato fears demagogy, incompetence and instability under unchecked democracy.
-        |
-        v
-  [2] Aristotle accepts collective judgment but warns against false equality claims.
-        |
-        v
-  [3] Dicey and Bryce defend democracy through majority opinion and public welfare.
-        |
-        v
-  [4] Classical criticism and modern defence both belong inside Topic 22 answers.
-        |
-        v
-VERDICT -> Classical criticism tests democracy without exhausting it.
-ANSWER USE -> Pair each thinker with one precise risk or gain.
+ASCII MASTER FLOW — PANEL 4/16: Origin and Dated Rail (3/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 15. 1861 -> Representative Government                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1893 -> In his two monumental works, The American Commonwealth                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1905 -> COUNT OF DEMOCRACY Dicey, in his famous work Law and Opinion in England          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1921 -> Modern Democracies                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 19. 1961 -> In his celebrated work, Democracy and Education                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1973 -> Essays in Retrieval                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Locke, Mill, Rousseau and Dewey
-CENTRAL FOCUS
-Locke, Mill, Rousseau and Dewey
-  [1] Locke and Bentham defend accountable government against abuse of power.
-        |
-        v
-  [2] Mill links representation to liberty, criticism and civic improvement.
-        |
-        v
-  [3] Rousseau insists sovereignty stays with the people and resists alienation.
-        |
-        v
-  [4] Dewey extends democracy into communication, inquiry and associated living.
-        |
-        v
-VERDICT -> Key thinkers differ over sovereignty, liberty and civic life.
-ANSWER USE -> Compare what each protects and what each fears.
+ASCII MASTER FLOW — PANEL 5/16: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba first reconstructs the classical idea of democracy through the Greek experience of |
+| citizen participation, free discussion and respect for law (PDF pp.491-492)                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then presents classical criticisms from Plato and Aristotle, showing early anxiety    |
+| about ignorance, demagogy and instability under unchecked popular rule (PDF p.492)           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. The chapter next moves to modern defenders such as Dicey and Bryce, who connect          |
+| democracy to majority opinion, welfare and participation rather than literal day-to-day rule |
+| by the people (PDF pp.492-494)                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Representation: Territorial, Functional and Normative Models
-CENTRAL FOCUS
-Representation: Territorial, Functional and Normative Models
-  [1] Territorial representation organises constituencies through geography.
-        |
-        v
-  [2] Functional representation seeks voice for occupations or sectoral interests.
-        |
-        v
-  [3] Gauba notes functional schemes attracted corporatist or totalitarian uses.
-        |
-        v
-  [4] Representation theory therefore asks about structure as well as legitimacy.
-        |
-        v
-VERDICT -> Representation has structural forms as well as role theories.
-ANSWER USE -> Keep territorial-functional distinct from delegate-trustee.
+ASCII MASTER FLOW — PANEL 6/16: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 04. Gauba then explains how liberal democracy emerged historically by joining democratic     |
+| franchise with liberal institutions and procedures (PDF pp.494-499)                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Finally, the chapter broadens the discussion from government form to democracy as a      |
+| wider social ethic, especially in Dewey's idea of democracy as associated living and         |
+| communication (PDF pp.510-512)                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. The chapter's hidden lesson is that democracy becomes sturdier when participation,       |
+| rights and constitutionalism reinforce each other                                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Electoral Translation, Minority Protection and Trap Repair
-CENTRAL FOCUS
-Electoral Translation, Minority Protection and Trap Repair
-  [1] Delegate theory stresses constituent control over the representative.
-        |
-        v
-  [2] Trustee theory stresses the representative's own judgment after election.
-        |
-        v
-  [3] Mandate theory ties election to authorisation of a public programme.
-        |
-        v
-  [4] Descriptive and substantive representation ask different democratic questions.
-        |
-        v
-VERDICT -> Composition and action are different tests of representation.
-ANSWER USE -> Ask who mirrors society, then who serves interests.
+ASCII MASTER FLOW — PANEL 7/16: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Imagine a small mountain commune where all adult citizens gather monthly to debate water |
+| use and school rules; that resembles the logic of direct democracy                           |
+| 02. Imagine a large nation where citizens instead elect legislators every five years because |
+| permanent town-hall government is impracticable; that illustrates representative democracy   |
+| 03. Imagine a legislature where the majority passes a school-language policy but still       |
+| preserves minority-language schooling and legal appeal; that captures majority rule with     |
+| minority rights                                                                              |
+| 04. Imagine a regime that conducts periodic voting but allows only one approved candidate    |
+| and silences criticism; that shows why elections alone do not amount to democracy            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Revision Spine and Secondary Representation Theory
-CENTRAL FOCUS
-Revision Spine and Secondary Representation Theory
-  [1] FPTP elects the largest vote-getter and is not a 50 per cent plus rule.
-        |
-        v
-  [2] Majoritarian devices seek broader backing through runoff or transfer methods.
-        |
-        v
-  [3] List PR aligns seats more closely with vote share and improves inclusion.
-        |
-        v
-  [4] STV is one proportional method using ranked transfer in multi-member seats.
-        |
-        v
-VERDICT -> Electoral systems trade off decisiveness, legitimacy and inclusion.
-ANSWER USE -> Do not merge plurality, majoritarian and PR rules.
+ASCII MASTER FLOW — PANEL 8/16: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. BASIS OF RULE | Classical/direct democracy = Citizens directly deliberate and decide     |
+| (PDF pp.491, 500) | Modern representative democracy = Citizens choose representatives who    |
+| govern for a limited term (PDF p.500) | Liberal-democratic addition = Representation is tied |
+| to consent, accountability and rights (PDF pp.495-499)                                       |
+| 02. SCALE | Classical/direct democracy = Suitable to small communities (PDF p.500) | Modern  |
+| representative democracy = Designed for large modern states (PDF p.500) | Liberal-democratic |
+| addition = Adds institutional safeguards needed in mass politics (PDF pp.498-499)            |
+| 03. DECISION PROCESS | Classical/direct democracy = Face-to-face discussion and law-         |
+| respecting participation (PDF p.491) | Modern representative democracy = Elections,          |
+| legislatures and committees translate public choice into policy (PDF pp.495-499) | Liberal-  |
+| democratic addition = Free parties, civil liberties and independent courts protect the       |
+| process (PDF pp.498-499)                                                                     |
+| 04. MAIN DANGER | Classical/direct democracy = Demagogy or instability if judgment is weak   |
+| (PDF p.492) | Modern representative democracy = Distance between people and rulers (PDF      |
+| p.500) | Liberal-democratic addition = Formal institutions may survive while actual          |
+| democracy is hollowed out                                                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Electoral Trade-offs and Liberal-Democratic Tensions
-CENTRAL FOCUS
-Electoral Trade-offs and Liberal-Democratic Tensions
-  [1] Concurrent and consociational devices respond to risks of permanent exclusion.
-        |
-        v
-  [2] Their promise is minority security; their cost can be delay and bargaining.
-        |
-        v
-  [3] Indian application here stays conceptual: franchise, rights and review matter.
-        |
-        v
-  [4] Detailed article law remains with Polity owners, not this theory topic.
-        |
-        v
-VERDICT -> Minority protection deepens democracy when domination is checked.
-ANSWER USE -> Use Indian illustrations conceptually, not article-heavy.
+ASCII MASTER FLOW — PANEL 9/16: Examiner Trap Firewall (1/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "If elections are held, democracy exists." => REPAIR: Gauba says even non-         |
+| democratic systems may hold elections; the real test is genuine choice among alternatives    |
+| under free conditions (PDF p.504)                                                            |
+| 02. TRAP: "Majority rule means minorities must simply obey." => REPAIR: Liberal democracy    |
+| requires recognition and protection of minority rights (PDF p.497)                           |
+| 03. TRAP: "Civil liberties are optional extras." => REPAIR: Freedom of expression,           |
+| association and personal liberty are core to democracy because public will cannot be formed  |
+| or communicated without them (PDF p.499)                                                     |
+| 04. TRAP: "Independent judiciary is anti-democratic because judges are unelected." =>        |
+| REPAIR: Gauba treats judicial independence as a safeguard for freedom and continuity under   |
+| democracy (PDF p.499)                                                                        |
+| 05. TRAP: "Representation means citizens disappear after voting." => REPAIR: Dewey's         |
+| extension of democracy as a way of life reminds us that democratic habits must continue      |
+| beyond polling day                                                                           |
+| 06. TRAP: "A market economy proves a state is liberal-democratic." => REPAIR: Market         |
+| exchange does not establish free political choice, minority rights, accountable office or    |
+| civil liberty                                                                                |
+| 07. TRAP: 2018, 10 marks: "What is meant by liberal democracy? Does it require deeper        |
+| principles for social cohesion to balance its own strong affirmation of individual rights?   |
+| Give reasons from the Indian context." Primary owner: Philosophy Paper II => REPAIR: Forms   |
+| of Government                                                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Answer Architecture, Indian Application and Provenance
-CENTRAL FOCUS
-Answer Architecture, Indian Application and Provenance
-  [1] Verified Philosophy PYQs must retain original ownership in their source owners.
-        |
-        v
-  [2] Topic 22 answers start with threshold: define, then test sufficiency.
-        |
-        v
-  [3] Topic 23 adds Schumpeter, Dahl and later models as bounded extensions.
-        |
-        v
-  [4] Topic 23 must not displace Topic 22's liberal-democratic foundation.
-        |
-        v
-VERDICT -> Topic 23 extends Topic 22 rather than replacing it.
-ANSWER USE -> Use later models as bounded supplemental bridges.
+ASCII MASTER FLOW — PANEL 10/16: Examiner Trap Firewall (2/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 08. TRAP: 2020, 10 marks: "How far do the liberal democracies safeguard the interests of     |
+| minorities? Evaluate critically." Primary owner: Philosophy Paper II => REPAIR: Forms of     |
+| Government                                                                                   |
+| 09. TRAP: 2021, 10 marks: "Is Austin's theory of sovereignty compatible with democracy?      |
+| Discuss." Primary owner: Philosophy Paper II => REPAIR: Sovereignty                          |
+| 10. TRAP: 2021, 15 marks: "Discuss Kautilya's contribution regarding the concept of          |
+| sovereignty. Is it applicable in a democratic form of government? Explain." Primary owner:   |
+| Philosophy Paper II => REPAIR: Sovereignty                                                   |
+| 11. TRAP: 2023, 15 marks: "Explain the challenges faced by a democratic state and the ways   |
+| to overcome them." Primary owner: Philosophy Paper II => REPAIR: Forms of Government         |
+| 12. TRAP: 2025, 10 marks: "Comment on Plato's critique of Democracy." Primary owner:         |
+| Philosophy Paper II => REPAIR: Forms of Government                                           |
+| 13. TRAP: Answer frame: define the democratic threshold => REPAIR: separate necessary        |
+| electoral conditions from sufficient liberal-democratic safeguards -> add representation and |
+| minority protection -> test propaganda, money or elite control -> conclude with democracy as |
+| an institutional and social ethic                                                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Repair the trap that elections automatically prove democracy.
-        |
-        v
-  [2] Repair the trap that majority rule equals minority suppression.
-        |
-        v
-  [3] Repair the trap that FPTP is itself a majoritarian 50 per cent system.
-        |
-        v
-  [4] Repair the trap that descriptive and substantive representation are identical.
-        |
-        v
-VERDICT -> Close-option errors come from collapsed threshold distinctions.
-ANSWER USE -> State the decisive distinction before choosing.
+ASCII MASTER FLOW — PANEL 11/16: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Companion file: Political-Theory/advanced/22_Democracy-Representation-and-Liberal-       |
+| Democracy.md                                                                                 |
+| 02. Revise Political-Theory/basic/11_Sovereignty-and-Pluralism.md for the question of where  |
+| ultimate authority is said to lie                                                            |
+| 03. Revise Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md for  |
+| the political community within which democratic rule is organized                            |
+| 04. Use Polity/advanced/27_Election-Commission.md for Indian electoral administration, law   |
+| and procedure; this file stays at the conceptual layer                                       |
+| 05. Use Polity/advanced/11_Parliamentary-System.md for the institutional working of          |
+| representative government in India                                                           |
+| 06. Use Governance/advanced/14_Participatory-Governance.md for applied participation         |
+| mechanisms in administration; this file explains the democratic idea behind them             |
+| 07. Forward boundary: use Political-Theory/basic/23_Contemporary-Democracy-Social-Change-    |
+| and-Development.md for Schumpeter, Dahl/polyarchy, elite, pluralist, participatory, Marxist  |
+| and deliberative models; Topic 22 owns the classical-to-liberal-democratic foundation        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] This topic uses six original Mains prompts for direct package generation.
-        |
-        v
-  [2] Forms of Government owns liberal-democracy and democracy-challenge PYQs.
-        |
-        v
-  [3] Ideals owns liberty-equality-democracy, while Sovereignty owns democracy stems
-      there.
-        |
-        v
-  [4] Final recall: democracy needs representation, restraint and public judgment
-      together.
-        |
-        v
-VERDICT -> Cross-applied PYQs help only when ownership is preserved.
-ANSWER USE -> Borrow the concept, never reroute the primary owner.
+ASCII MASTER FLOW — PANEL 12/16: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Start with the literal core: democracy means rule of the people                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Add the modern qualification: in large states this usually means representative rather   |
+| than direct democracy                                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. State the liberal-democratic package: consent, accountability, majority rule, minority   |
+| rights and constitutional government                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Mention the institutional supports: party competition, universal franchise, civil        |
+| liberties, periodic elections and independent judiciary                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Insert the key correction: elections alone do not establish democracy unless choice,     |
+| liberty and accountability are real                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. End with Dewey's broadening move: democracy also needs habits of communication and       |
+| consultation in social life                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/16: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins with the literal meaning of democracy as rule of the people and then shows  |
+| how its meaning changes from ancient direct participation to modern representative           |
+| institutions (PDF                                                                            |
+| 02. Democracy: rule of the people in the sense that ultimate governing authority rests with  |
+| ordinary people and public policy should reflect their will and interests (PDF p.491)        |
+| 03. Direct vs representative democracy: direct democracy expects citizens to decide          |
+| collectively; representative democracy relies on elected intermediaries because large modern |
+| states cannot                                                                                |
+| 04. Plato: warns that democracy may empower eloquent but selfish and incompetent leaders if  |
+| the people lack judgment (PDF p.492)                                                         |
+| 05. Imagine a small mountain commune where all adult citizens gather monthly to debate water |
+| use and school rules; that resembles the logic of direct democracy                           |
+| 06. Dimension - Classical/direct democracy - Modern representative democracy - Liberal-      |
+| democratic addition                                                                          |
+| 07. "If elections are held, democracy exists." -> Gauba says even non-democratic systems may |
+| hold elections; the real test is genuine choice among alternatives under free conditions     |
+| (PDF p.504)                                                                                  |
+| 08. Start with the literal core: democracy means rule of the people                          |
+| 09. Majoritarian systems: the winner must secure an absolute majority directly or through a  |
+| runoff or preference transfer. Trade-off: the winner has broader numerical support, but      |
+| constituency                                                                                 |
+| 10. 10-mark architecture (~150 words): qualified thesis naming the representation model or   |
+| electoral system at stake -> one named-evidence unit (provenance-tagged) -> one brief trade  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/16: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| liberal democracy                                                                            |
+| 02. Democracy:; Direct democracy:; Representative democracy:; Liberal democracy:; Majority   |
+| rule:; Constitutional government:; Direct                                                    |
+| 03. Direct vs representative democracy:; Majority rule vs minority suppression:; not;        |
+| Consent vs facade election:; Government by law vs rule by men:; Form of government vs way of |
+| life:; Necessary                                                                             |
+| 04. Plato:; Aristotle:; Dicey:; Bryce:; Locke, Bentham and J.S. Mill:; Rousseau:; Dewey:     |
+| 05. Locke; Mill; Rousseau; Dewey; SESSION; Illustrative; Imagine                             |
+| 06. Representation; Territorial; Functional; Normative Models; SESSION; Comparison;          |
+| Dimension                                                                                    |
+| 07. "If elections are held, democracy exists."; "Majority rule means minorities must simply  |
+| obey."; "Civil liberties are optional extras."; "Independent judiciary is anti-democratic    |
+| because judges are unelected."; "Representation means citizens disappear after voting."; "A  |
+| market economy proves a state is liberal-democratic."; 2018, 10 marks:                       |
+| 08. Provenance note:; Trustee model; Delegate model:; Mandate model:; Descriptive            |
+| representation; Substantive representation; Territorial representation:                      |
+| 09. First-Past-The-Post (FPTP) / plurality:; Majoritarian systems:; List Proportional        |
+| Representation (List PR):; Single Transferable Vote (STV):; Concurrent majority - John C.    |
+| Calhoun; Limitation, stated cautiously:; Consociational democracy - Arend Lijphart           |
+| 10. Directive decoding:; 10-mark architecture (~150 words):; 15-mark architecture (~200-250  |
+| words):; Indian liberal-democratic capsule:; Answer Architecture; Indian Application;        |
+| Provenance                                                                                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/16: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish direct and representative democracy. Why do large modern states    |
+| rely mainly on representative institutions? Answer in 150 words                              |
+| 02. 10 MARKS: Distinguish delegate and trustee theories of representation. Which model is    |
+| more defensible in a constitutional democracy? Answer in 150 words                           |
+| 03. 10 MARKS: Can majority rule remain democratic without strong minority-rights             |
+| protections? Discuss in the framework of liberal democracy. Answer in 150 words              |
+| 04. 15 MARKS: Compare FPTP/plurality, majoritarian and proportional electoral systems with   |
+| special reference to representation and governability. Answer in 250 words                   |
+| 05. 15 MARKS: Liberal democracy is more than electoral democracy. Critically examine. Answer |
+| in 250 words                                                                                 |
+| 06. 15 MARKS: Compare Plato, Rousseau, J.S. Mill and John Dewey on democracy and             |
+| representation. Answer in 250 words                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/16: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Majoritarian systems: the winner must secure an absolute majority directly or     |
+| through a runoff or preference transfer. Trade-off: the winner has broader numerical         |
+| support, but constituency. Direct vs representative democracy: direct democracy expects      |
+| citizens to decide collectively; representative democracy relies on elected intermediaries   |
+| because large modern states cannot. So the answer must move from definition to mechanism to  |
+| counter-position, and end with a verdict that concedes what the evidence cannot support      |
++----------------------------------------------------------------------------------------------+

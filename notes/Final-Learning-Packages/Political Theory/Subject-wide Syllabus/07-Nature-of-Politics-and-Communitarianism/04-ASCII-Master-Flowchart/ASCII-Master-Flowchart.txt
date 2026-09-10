@@ -1,339 +1,338 @@
-ASCII MASTER FLOW — PANEL 1/12: Politics as Public Conflict and Authoritative Resolution
-CENTRAL FOCUS
-Politics as Public Conflict and Authoritative Resolution
-  [1] A political situation exists when public issues generate conflict and require an
-      authoritative, publicly binding resolution. (PDF pp.95-99)
-        |
-        v
-  [2] Politics is not just elections or party intrigue; it is a public process around
-      conflict, decision and order. (PDF pp.95-99)
-        |
-        v
-  [3] Marxist theory reads politics as rooted in class domination, where apparent
-      compromise masks suppression of class conflict. (PDF pp.102-104)
-        |
-        v
-  [4] It gives three rival answers to one core question: what kind of conflict or
-      cooperation makes politics necessary? (PDF pp.100-107)
-        |
-        v
-  [5] Liberal theory reads politics as reconciliation of conflicting interests through
-      state-backed decisions and legitimate coercion. (PDF pp.101-102)
-        |
-        v
-  [6] Communitarian theory reads politics as pursuit of the common good by socially
-      embedded persons linked by cooperation and belonging. (PDF pp.101, 104-105)
-        |
-        v
-SYNTHESIS -> Politics as Public Conflict and Authoritative Resolution is best presented
-             through its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 1/16: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Nature of Politics and Communitarianism.                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Read Political-Theory/advanced/07_Nature-of-Politics-and-Communitarianism.md for the     |
+| deeper rivalry between individualism, class and community and for the liberty-equalit        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Definitions, Chapter Spine and Essential Distinctions
-CENTRAL FOCUS
-Definitions, Chapter Spine and Essential Distinctions
-  [1] Gauba moves from the layman's narrow image of politics to a broader account of
-      politics as a social process. (PDF pp.94-95)
-        |
-        v
-  [2] He argues that politics requires public conflict, not merely private disagreement,
-      and that war is a failure of political solution rather than politics itself. (PDF
-      p.96)
-        |
-        v
-  [3] Easton's formulation adds the key element of authority: political decisions allocate
-      scarce values in a manner treated as binding. (PDF pp.96-99)
-        |
-        v
-  [4] Liberal theory then presents politics as a process of conciliating interests and
-      securing order, justice and welfare. (PDF pp.101-102)
-        |
-        v
-  [5] Marxist theory shifts the centre of analysis to the mode of production and class
-      struggle, treating politics as class domination and suppression. (PDF pp.102-104)
-        |
-        v
-SYNTHESIS -> Definitions, Chapter Spine and Essential Distinctions is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 2/16: Origin and Dated Rail
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL                                                                        |
++----------------------------------------------------------------------------------------------+
+| 01. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1818-83 -> Karl Marx                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1820-95 -> Friedrich Engels                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1848 -> As Marx and Engels in their Communist Manifesto                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1949 -> People's Republic of China                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1977 -> Ralph Miliband, in his Marxism and Politics                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. 1988 -> Alan Ball, in his Modern Politics and Government                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Thinkers, Positions and the Three Rival Social Images
-CENTRAL FOCUS
-Thinkers, Positions and the Three Rival Social Images
-  [1] It gives three rival answers to one core question: what kind of conflict or
-      cooperation makes politics necessary? (PDF pp.100-107)
-        |
-        v
-  [2] "Explain/Discuss the nature of politics" → definitional + comparative directive:
-      define the political situation (Easton/Gauba), then compare at least two rival
-      images of society.
-        |
-        v
-  [3] Doctrine reconstruction: political situation → authoritative allocation (Easton) →
-      three rival views (liberal/Marxist/communitarian).
-        |
-        v
-  [4] Alasdair MacIntyre — tradition and practices: the self is unintelligible outside the
-      narrative of a particular community and moral tradition; virtues are acquired only
-      through participation in social "practices" (activities with internal standards of
-      excellence — e.g. medicine, craft, scholarship) sustained by inherited traditions.
-        |
-        v
-SYNTHESIS -> Thinkers, Positions and the Three Rival Social Images is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 3/16: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. POLITICS: A public process involving conflict, its resolution, and authoritative value-  |
+| allocation in society. (PDF pp.95-99)                                                        |
+| 02. POLITICAL SITUATION: A situation of public conflict among major groups that calls for a  |
+| universal/public solution, not a private settlement. (PDF p.96)                              |
+| 03. AUTHORITATIVE ALLOCATION OF VALUES: Easton's idea that politics distributes valued       |
+| things through decisions treated as binding because they carry authority, not mere brute     |
+| force. (PDF pp.96-97)                                                                        |
+| 04. LIBERAL VIEW OF POLITICS: Politics as group-and-state activity aimed at reconciling      |
+| competing interests and promoting a common good compatible with them. (PDF pp.101-102)       |
+| 05. MARXIST VIEW OF POLITICS: Politics as an effect of class division, used by the dominant  |
+| class to hold down the dependent class until class society is abolished. (PDF pp.102-104)    |
+| 06. COMMUNITARIANISM: A view stressing that persons are socially constituted, owe duties to  |
+| the community, and should seek their good through the good of the community. (PDF pp.101,    |
+| 104-105)                                                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Illustrations and the Liberty-Equality-Fraternity Matrix
-CENTRAL FOCUS
-Illustrations and the Liberty-Equality-Fraternity Matrix
-  [1] In answers, use such examples as conceptual illustrations, not as present-day data
-      claims.
-        |
-        v
-  [2] Reserved seats, taxation and similar distributive arrangements show how
-      authoritative allocation binds both beneficiaries and contributors. (PDF p.99)
-        |
-        v
-  [3] The queue system or traffic-signal type example captures the liberal hope that
-      institutional rules can reconcile competing claims. (PDF p.102)
-        |
-        v
-  [4] Marxist analysis would treat labour-capital compromise in class society as unstable
-      because the underlying relation of dominance remains intact. (PDF pp.103-106)
-        |
-        v
-  [5] Communitarian analysis would read family breakdown, loneliness, crime or drug abuse
-      in modern liberal society as signs of weakened social bonds. (PDF pp.101, 105)
-        |
-        v
-SYNTHESIS -> Illustrations and the Liberty-Equality-Fraternity Matrix is best presented
-             through its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 4/16: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba moves from the layman's narrow image of politics to a broader account of politics  |
+| as a social process. (PDF pp.94-95)                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He argues that politics requires public conflict, not merely private disagreement, and   |
+| that war is a failure of political solution rather than politics itself. (PDF p.96)          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Easton's formulation adds the key element of authority: political decisions allocate     |
+| scarce values in a manner treated as binding. (PDF pp.96-99)                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Liberal theory then presents politics as a process of conciliating interests and         |
+| securing order, justice and welfare. (PDF pp.101-102)                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Trap Repair, Boundaries, Revision and Source Discipline
-CENTRAL FOCUS
-Trap Repair, Boundaries, Revision and Source Discipline
-  [1] Primary source used directly: Gauba, Ch.3, especially PDF pp.95-107 for the nature
-      of politics, the three views, and the comparison table.
-        |
-        v
-  [2] Politics, for Gauba, is a public process of conflict and authoritative resolution,
-      not a synonym for private quarrelling or war. (PDF pp.95-99)
-        |
-        v
-  [3] Liberalism: many groups, limited conflict, reconciliation, common good, welfare
-      orientation. (PDF pp.101-102)
-        |
-        v
-  [4] Marxism: economic structure, class antagonism, dominant-class state, politics as
-      suppression until classless society. (PDF pp.102-104)
-        |
-        v
-  [5] Best UPSC line: politics can be read as reconciliation, domination, or common-good
-      pursuit depending on whether society is imagined as plural individuals, classes, or
-      community.
-        |
-        v
-SYNTHESIS -> Trap Repair, Boundaries, Revision and Source Discipline is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 5/16: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. Marxist theory shifts the centre of analysis to the mode of production and class         |
+| struggle, treating politics as class domination and suppression. (PDF pp.102-104)            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Communitarian theory shifts the centre again, arguing that the deeper point of politics  |
+| is not bargaining among isolated selves but discovering and pursuing a shared common good.   |
+| (PDF pp.104-105)                                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Gauba's conclusion is comparative and conditional: each view fits different social       |
+| conditions rather than functioning as a universal key. (PDF p.106)                           |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: MacIntyre: Traditions, Practices and Internal Goods
-CENTRAL FOCUS
-MacIntyre: Traditions, Practices and Internal Goods
-  [1] Claim: the self is unintelligible outside the narrative of a particular community
-      and moral tradition; virtues are acquired only through participation in social
-      "practices" (activities with internal standards of excellence — e.g. medicine,
-      craft, scholarship) sustained by inherited traditions.
-        |
-        v
-  [2] Limit: risks relativism — if morality is tradition-bound, how do we judge between
-      rival traditions or criticise our own? MacIntyre's answer (traditions can be
-      rationally compared by their capacity to resolve their own internal crises) remains
-      contested.
-        |
-        v
-  [3] Evidence/mechanism: a practice has "internal goods" (excellence achieved through the
-      activity itself) understandable and judgeable only from within its own tradition of
-      standards.
-        |
-        v
-  [4] Significance: morality cannot be reconstructed from an abstract, tradition-free
-      standpoint, as much liberal theory attempts; moral reasoning is always reasoning
-      within an inherited tradition.
-        |
-        v
-SYNTHESIS -> MacIntyre: Traditions, Practices and Internal Goods is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 6/16: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. ARISTOTLE: Politics begins with the polis, and communitarian strands later revive his    |
+| idea that political association is tied to good life. (PDF pp.95, 104)                       |
+| 02. DAVID EASTON: Politics is the authoritative allocation of values for society. (PDF       |
+| pp.96-97)                                                                                    |
+| 03. LIBERAL-PLURALIST STREAM: Locke-linked liberalism treats society as composed of multiple |
+| organized groups seeking accommodation through the state. (PDF pp.100-102)                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Taylor: Dialogical Identity and Recognition
-CENTRAL FOCUS
-Taylor: Dialogical Identity and Recognition
-  [1] Charles Taylor — dialogical self and recognition (Sources of the Self, 1989; "The
-      Politics of Recognition", 1994)
-        |
-        v
-  [2] Claim: the self is "dialogical," not monological — identity is formed through
-      language and relationships with "significant others," and a person's
-      self-understanding depends partly on being adequately recognised by others.
-        |
-        v
-  [3] Evidence/mechanism: withholding or distorting recognition (of a person's or a
-      group's identity/culture) inflicts real harm, grounding claims for recognition of
-      minority cultures within a shared political community.
-        |
-        v
-  [4] Significance: grounds communitarian/multicultural claims in the human need for
-      recognition — a moral, not merely sociological, case for community.
-        |
-        v
-  [5] Limit: critics ask how far the demand for recognition can be accommodated without
-      flattening genuine disagreement (false equal validity of all cultures) or
-      fragmenting common citizenship.
-        |
-        v
-SYNTHESIS -> Taylor: Dialogical Identity and Recognition is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 7/16: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. MARX AND ENGELS: Politics and the state arise from class division and serve dominant-    |
+| class interests until class conflict ends in a classless order. (PDF pp.102-104)             |
+| 02. MACINTYRE, TAYLOR, SANDEL: Contemporary communitarians criticize the atomistic           |
+| individual and stress embedded identity, virtue, shared understanding and common good. (PDF  |
+| pp.101, 105)                                                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Sandel, the Unencumbered Self and Cautious Precursors
-CENTRAL FOCUS
-Sandel, the Unencumbered Self and Cautious Precursors
-  [1] Michael Sandel — critique of the unencumbered self (Liberalism and the Limits of
-      Justice, 1982)
-        |
-        v
-  [2] Claim: targets Rawls's "original position," where parties choose principles of
-      justice behind a "veil of ignorance," stripped of knowledge of their own particular
-      ends and identity — Sandel calls this the "unencumbered self."
-        |
-        v
-  [3] Exam discipline: if a question names one thinker specifically, answer with that
-      thinker's own mechanism (practices/tradition for MacIntyre; recognition/dialogical
-      self for Taylor; unencumbered self/original position for Sandel) — a generic
-      "communitarianism says community matters" answer loses specific marks.
-        |
-        v
-  [4] Evidence/mechanism: real persons are partly constituted by their ends and
-      attachments (family, community, tradition); a self that could stand wholly apart
-      from all its ends to choose principles of justice is not a coherent picture of a
-      person.
-        |
-        v
-SYNTHESIS -> Sandel, the Unencumbered Self and Cautious Precursors is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 8/16: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Reserved seats, taxation and similar distributive arrangements show how authoritative    |
+| allocation binds both beneficiaries and contributors. (PDF p.99)                             |
+| 02. The queue system or traffic-signal type example captures the liberal hope that           |
+| institutional rules can reconcile competing claims. (PDF p.102)                              |
+| 03. Marxist analysis would treat labour-capital compromise in class society as unstable      |
+| because the underlying relation of dominance remains intact. (PDF pp.103-106)                |
+| 04. Communitarian analysis would read family breakdown, loneliness, crime or drug abuse in   |
+| modern liberal society as signs of weakened social bonds. (PDF pp.101, 105)                  |
+| 05. In answers, use such examples as conceptual illustrations, not as present-day data       |
+| claims                                                                                       |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Communitarian Objections, Liberal Replies and Indian Application
-CENTRAL FOCUS
-Communitarian Objections, Liberal Replies and Indian Application
-  [1] Caste/community-based reservation debates are a live Indian example of the liberal
-      (individual merit/equal treatment) vs communitarian-adjacent (group-based,
-      historically embedded disadvantage) argument structure — cite only as an
-      illustrative type of debate, not with unverified statistics.
-        |
-        v
-  [2] India's constitutional balance of individual Fundamental Rights with
-      community-oriented Directive Principles and Fundamental Duties is a structural
-      illustration of liberal-communitarian tension being institutionally managed — cite
-      the structure without asserting specific article numbers here (route exact
-      constitutional detail to the Polity module).
-        |
-        v
-SYNTHESIS -> Communitarian Objections, Liberal Replies and Indian Application is best
-             presented through its central claim, causal logic, strongest limit and qualified
-             verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 9/16: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. IMAGE OF SOCIETY | Liberal view = A plurality of individuals and groups with             |
+| reconcilable interests. (PDF pp.101-102) | Marxist view = Antagonistic classes structured by |
+| ownership and exploitation. (PDF pp.102-104) | Communitarian view = Interconnected persons   |
+| whose identity is formed within community. (PDF pp.101, 104-105)                             |
+| 02. NATURE OF POLITICS | Liberal view = Reconciliation and authoritative settlement of       |
+| disputes. (PDF pp.101-102) | Marxist view = Suppression/management of class conflict under   |
+| class rule. (PDF pp.103-104) | Communitarian view = Identification and pursuit of the common |
+| good. (PDF pp.104-105)                                                                       |
+| 03. COMMON GOOD | Liberal view = A balanced outcome accommodating contending interests. (PDF |
+| p.102) | Marxist view = Not genuinely available under class society dominated by class       |
+| interests. (PDF p.107) | Communitarian view = A shared good comprehending the interest of    |
+| each member. (PDF p.107)                                                                     |
+| 04. ORGANIZING IDEAL | Liberal view = Liberty. (PDF p.107) | Marxist view = Equality. (PDF   |
+| p.107) | Communitarian view = Fraternity. (PDF p.107)                                        |
+| 05. END-POINT | Liberal view = Order, justice and welfare within society. (PDF p.102) |      |
+| Marxist view = Classless society where politics withers away. (PDF pp.104, 107) |            |
+| Communitarian view = Social solidarity through cooperation and belonging. (PDF pp.104-107)   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Directive Decoding and Mark-Scaled Answer Architecture
-CENTRAL FOCUS
-Directive Decoding and Mark-Scaled Answer Architecture
-  [1] "Examine the communitarian critique of liberalism" → critique-directive: state the
-      liberal position targeted, the specific communitarian objection (name the thinker),
-      and the liberal reply — a one-sided answer loses marks.
-        |
-        v
-  [2] "Explain/Discuss the nature of politics" → definitional + comparative directive:
-      define the political situation (Easton/Gauba), then compare at least two rival
-      images of society.
-        |
-        v
-  [3] "Distinguish MacIntyre, Taylor and Sandel" → strict distinguishing directive: three
-      separate mechanisms are required, not a shared paragraph.
-        |
-        v
-  [4] Thesis: politics can be read as reconciliation, domination or common-good pursuit
-      depending on the assumed image of society.
-        |
-        v
-  [5] Doctrine reconstruction: political situation → authoritative allocation (Easton) →
-      three rival views (liberal/Marxist/communitarian).
-        |
-        v
-SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 10/16: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Politics means only party competition or elections => REPAIR: Gauba widens         |
+| politics to public conflict-resolution and authoritative value-allocation. (PDF pp.95-99)    |
+| 02. TRAP: Any quarrel becomes political => REPAIR: Only public conflicts requiring a         |
+| universal/public solution count as properly political. (PDF p.96)                            |
+| 03. TRAP: Communitarianism means total unanimity or denial of all real tensions => REPAIR:   |
+| Gauba presents it as a stress on common interest and cooperation, but he also says it        |
+| becomes futile where wide disparities of power and opinion persist. (PDF pp.106-107)         |
+| 04. TRAP: Marxism treats every visible compromise as genuine reconciliation => REPAIR:       |
+| Marxist analysis treats such compromise as often imposed within relations of domination.     |
+| (PDF pp.103-106)                                                                             |
+| 05. TRAP: Liberalism ignores common good altogether => REPAIR: In Gauba, liberalism does     |
+| speak of a common good, but as something worked out through accommodation of interests. (PDF |
+| p.102)                                                                                       |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Politics: A public process involving conflict, its resolution, and authoritative
-      value-allocation in society.
-        |
-        v
-  [2] Political situation: A situation of public conflict among major groups that calls
-      for a universal/public solution, not a private settlement.
-        |
-        v
-  [3] Authoritative allocation of values: Easton's idea that politics distributes valued
-      things through decisions treated as binding because they carry authority, not mere
-      brute force.
-        |
-        v
-  [4] Liberal view of politics: Politics as group-and-state activity aimed at reconciling
-      competing interests and promoting a common good compatible with them.
-        |
-        v
-SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 11/16: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Read Political-Theory/advanced/07_Nature-of-Politics-and-Communitarianism.md for the     |
+| deeper rivalry between individualism, class and community and for the liberty-equality-      |
+| fraternity matrix                                                                            |
+| 02. Read Political-Theory/basic/08_Approaches-Behaviouralism-and-Post-Behaviouralism.md to   |
+| see how different approaches study politics once its nature is defined                       |
+| 03. Use Political-Theory/00_Master-Framework.md for the larger comparison between liberal,   |
+| Marxist and communitarian conceptual families                                                |
+| 04. Use Political-Theory/README.md for the full topic map and dated-source discipline        |
+| 05. Boundary: this file stays at the conceptual level and does not duplicate constitutional  |
+| Polity material                                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Alasdair MacIntyre — mechanism: a practice has "internal goods" (excellence achieved
-      through the activity itself) understandable and judgeable only from within its own
-      tradition of standards.
-        |
-        v
-  [2] Exam discipline: if a question names one thinker specifically, answer with that
-      thinker's own mechanism (practices/tradition for MacIntyre; recognition/dialogical
-      self for Taylor; unencumbered self/original position for Sandel) — a generic
-      "communitarianism says community matters" answer loses specific marks.
-        |
-        v
-  [3] UPSC shortcut: first identify the image of society behind the answer—individuals,
-      classes, or community.
-        |
-        v
-  [4] Evidence/mechanism: a practice has "internal goods" (excellence achieved through the
-      activity itself) understandable and judgeable only from within its own tradition of
-      standards.
-        |
-        v
-SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 12/16: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Politics, for Gauba, is a public process of conflict and authoritative resolution, not a |
+| synonym for private quarrelling or war. (PDF pp.95-99)                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Liberalism: many groups, limited conflict, reconciliation, common good, welfare          |
+| orientation. (PDF pp.101-102)                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Marxism: economic structure, class antagonism, dominant-class state, politics as         |
+| suppression until classless society. (PDF pp.102-104)                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Communitarianism: embedded self, duties, cooperation, common good, fraternity. (PDF      |
+| pp.101, 104-107)                                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Best UPSC line: politics can be read as reconciliation, domination, or common-good       |
+| pursuit depending on whether society is imagined as plural individuals, classes, or          |
+| community                                                                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/16: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Politics is not just elections or party intrigue; it is a public process around          |
+| conflict, decision and order. (PDF pp.95-99)                                                 |
+| 02. Term - Exam-ready meaning                                                                |
+| 03. Thinker / stream - Position in this chapter                                              |
+| 04. Reserved seats, taxation and similar distributive arrangements show how authoritative    |
+| allocation binds both beneficiaries and contributors. (PDF p.99)                             |
+| 05. Politics means only party competition or elections. -> Gauba widens politics to public   |
+| conflict-resolution and authoritative value-allocation. (PDF pp.95-99)                       |
+| 06. Gauba names MacIntyre, Taylor and Sandel together as communitarian critics of the        |
+| atomistic liberal self (PDF pp.101, 105), but a strong answer must not treat them as one     |
+| undifferentiated                                                                             |
+| 07. 2. Charles Taylor - dialogical self and recognition (Sources of the Self, 1989; "The     |
+| Politics of Recognition", 1994)                                                              |
+| 08. Use both names only as precursors/anticipations, not card-carrying communitarians -      |
+| overstating this lineage is a taxonomic overclaim to avoid                                   |
+| 09. 1. Objection (communitarian -> liberal): liberal neutrality (the state should not favour |
+| any particular conception of the good life) is impossible and self-defeating - liberal       |
+| politics                                                                                     |
+| 10. "Explain/Discuss the nature of politics" -> definitional + comparative directive: define |
+| the political situation (Easton/Gauba), then compare at least two rival images of society    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/16: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Politics                                                                                     |
+| 02. Definitions; Chapter Spine; Essential Distinctions; SESSION; Essential; Term; Exam-ready |
+| 03. Thinkers; Positions; Three Rival; Social Images; SESSION; Thinker; Position              |
+| 04. Illustrations; Liberty-Equality-Fraternity Matrix; SESSION; Illustrative; Reserved;      |
+| Marxist; Communitarian                                                                       |
+| 05. Trap Repair; Boundaries; Revision; Source Discipline; SESSION; UPSC; Politics            |
+| 06. Alasdair MacIntyre - tradition and practices; Claim:; Evidence/mechanism:;               |
+| Significance:; Limit:; MacIntyre; Traditions                                                 |
+| 07. Charles Taylor - dialogical self and recognition; Claim:; Evidence/mechanism:;           |
+| Significance:; Limit:; Taylor; Dialogical Identity                                           |
+| 08. Michael Sandel - critique of the unencumbered self; Claim:; Evidence/mechanism:;         |
+| Significance:; Limit:; Exam discipline:; Sandel                                              |
+| 09. Objection (communitarian -> liberal):; Reply (liberal):; Objection (communitarian ->     |
+| liberal, Sandel's core charge):; Reply (liberal, standard rebuttal):; Communitarian          |
+| Objections; Liberal Replies; Indian Application                                              |
+| 10. Directive Decoding; Mark-Scaled Answer; Architecture; SESSION; Executable; Directive;    |
+| Explain                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/16: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Define a political situation and explain why authority, rather than brute      |
+| force, is central to Easton's account of politics. Answer in 150 words                       |
+| 02. 10 MARKS: Distinguish the liberal, Marxist and communitarian views of politics. Answer   |
+| in 150 words                                                                                 |
+| 03. 10 MARKS: Examine the communitarian critique of the atomistic liberal self with          |
+| reference to MacIntyre, Taylor and Sandel. Answer in 150 words                               |
+| 04. 15 MARKS: Is liberal neutrality possible? Discuss the communitarian objection and the    |
+| liberal reply. Answer in 250 words                                                           |
+| 05. 15 MARKS: Is politics best understood as reconciliation, class domination or pursuit of  |
+| the common good? Critically discuss. Answer in 250 words                                     |
+| 06. 15 MARKS: Evaluate communitarianism as an alternative to liberalism, with reference to   |
+| embedded selfhood, the common good and its limits. Answer in 250 words                       |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/16: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Best UPSC line: politics can be read as reconciliation, domination, or common-    |
+| good pursuit depending on whether society is imagined as plural individuals, classes, or     |
+| community. Use both names only as precursors/anticipations, not card-carrying communitarians |
+| - overstating this lineage is a taxonomic overclaim to avoid. So the answer must move from   |
+| definition to mechanism to counter-position, and end with a verdict that concedes what the   |
+| evidence cannot support                                                                      |
++----------------------------------------------------------------------------------------------+

@@ -1,1077 +1,820 @@
 ---
 topic_key: political-theory-16
 title: Citizenship and Its Critiques — Solved Practice Workbook
-generation_identity: political-theory-16:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-16:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Citizenship and Its Critiques — Solved Practice Workbook
 
-**Generation:** learner-v2:g3  
-**PYQ ownership:** Every verified question below retains the primary owner recorded in the source ledger.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 16 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Citizenship**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+### MCQ 1
 
-B. the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+Which proposition is correctly associated with **Citizenship**?
 
-C. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+- A. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- B. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+- C. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+- D. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
 
-D. Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Citizenship.
+- **B:** B Attaches to Benjamin Barber, not Citizenship.
+- **C:** C Attaches to B.S. Turner, not Citizenship.
+- **D:** D Attaches to Reciprocity is not barter, not Citizenship.
 
-**Explanation:** The canonical Basic owner pairs **Citizenship** with **the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept joins full political membership to rights, duties and public responsibility?
-
-A. Marxist critique of citizenship
-
-B. Citizenship
-
-C. Will Kymlicka (group-differentiated rights)
-
-D. Civil, political and social rights
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).** with **Citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Citizenship by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Formal citizenship**? Other options belong to different named entries.
+Which proposition is correctly associated with **Formal citizenship**?
 
-A. Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.
+- A. actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+- B. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+- C. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+- D. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
 
-B. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
+**Answer: B**
 
-C. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+**Option-by-option explanation**
+- **A:** A Attaches to Substantive citizenship, not Formal citizenship.
+- **B:** B States the source-recorded proposition for Formal citizenship.
+- **C:** C Attaches to Hannah Arendt, not Formal citizenship.
+- **D:** D Attaches to Michael Walzer, not Formal citizenship.
 
-D. defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Formal citizenship** with **legal membership without effective enjoyment of all associated rights in practice (PDF p.325)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept names legal membership that may exist without effective enjoyment of its promised rights?
-
-A. Anthony Giddens
-
-B. Stateless person
-
-C. Differentiated citizenship
-
-D. Formal citizenship
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **legal membership without effective enjoyment of all associated rights in practice (PDF p.325).** with **Formal citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Formal citizenship by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Substantive citizenship**? Other options belong to different named entries.
+Which proposition is correctly associated with **Substantive citizenship**?
 
-A. actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+- A. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+- B. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+- C. actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+- D. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
 
-B. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
+**Answer: C**
 
-C. defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
+**Option-by-option explanation**
+- **A:** A Attaches to Formal citizenship, not Substantive citizenship.
+- **B:** B Attaches to Hannah Arendt, not Substantive citizenship.
+- **C:** C States the source-recorded proposition for Substantive citizenship.
+- **D:** D Attaches to Michael Walzer, not Substantive citizenship.
 
-D. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Substantive citizenship** with **actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept asks whether members can actually exercise rights, protections and participation?
-
-A. David Held
-
-B. Substantive citizenship
-
-C. Denizenship (Tomas Hammar)
-
-D. Reciprocity is not barter
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).** with **Substantive citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Substantive citizenship by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Differentiated citizenship**? Other options belong to different named entries.
+Which proposition is correctly associated with **Differentiated citizenship**?
 
-A. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+- A. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+- B. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+- C. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+- D. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
 
-B. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+**Answer: D**
 
-C. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+**Option-by-option explanation**
+- **A:** A Attaches to Reciprocity is not barter, not Differentiated citizenship.
+- **B:** B Attaches to Benjamin Barber, not Differentiated citizenship.
+- **C:** C Attaches to B.S. Turner, not Differentiated citizenship.
+- **D:** D States the source-recorded proposition for Differentiated citizenship.
 
-D. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Differentiated citizenship** with **a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept uses group-sensitive arrangements to answer structural barriers hidden by formally identical status?
-
-A. B.S. Turner
-
-B. Citizenship
-
-C. Subject vs citizen
-
-D. Differentiated citizenship
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.** with **Differentiated citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Differentiated citizenship by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Reciprocity is not barter**? Other options belong to different named entries.
+Which proposition is correctly associated with **Reciprocity is not barter**?
 
-A. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+- A. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+- B. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+- C. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+- D. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
 
-B. defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).
+**Answer: A**
 
-C. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Reciprocity is not barter.
+- **B:** B Attaches to Differentiated citizenship, not Reciprocity is not barter.
+- **C:** C Attaches to B.S. Turner, not Reciprocity is not barter.
+- **D:** D Attaches to Benjamin Barber, not Reciprocity is not barter.
 
-D. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Reciprocity is not barter** with **rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which principle means citizenship connects rights and duties without making each right conditional on a matching act?
-
-A. Iris Marion Young (differentiated citizenship)
-
-B. Reciprocity is not barter
-
-C. Formal citizenship
-
-D. Negative vs positive rights within citizenship
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.** with **Reciprocity is not barter**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Reciprocity is not barter by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Subject vs citizen**? Other options belong to different named entries.
+Which proposition is correctly associated with **Subject vs citizen**?
 
-A. is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
+- A. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- B. the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+- C. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+- D. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
 
-B. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+**Answer: B**
 
-C. the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+**Option-by-option explanation**
+- **A:** A Attaches to Citizenship, not Subject vs citizen.
+- **B:** B States the source-recorded proposition for Subject vs citizen.
+- **C:** C Attaches to Michael Walzer, not Subject vs citizen.
+- **D:** D Attaches to Hannah Arendt, not Subject vs citizen.
 
-D. rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Subject vs citizen** with **the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which distinction separates obedience to privileged rule from membership in the community that authorises rule?
-
-A. Will Kymlicka (group-differentiated rights)
-
-B. Substantive citizenship
-
-C. Civil, political and social rights
-
-D. Subject vs citizen
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).** with **Subject vs citizen**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Subject vs citizen by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Negative vs positive rights within citizenship**? Other options belong to different named entries.
+Which proposition is correctly associated with **Negative vs positive rights within citizenship**?
 
-A. rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
+- A. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform.
+- B. defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not.
+- C. rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed.
+- D. analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a final.
 
-B. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+**Answer: C**
 
-C. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+**Option-by-option explanation**
+- **A:** A Attaches to Denizenship (Tomas Hammar), not Negative vs positive rights within citizenship.
+- **B:** B Attaches to Aristotle, not Negative vs positive rights within citizenship.
+- **C:** C States the source-recorded proposition for Negative vs positive rights within citizenship.
+- **D:** D Attaches to T.H. Marshall, not Negative vs positive rights within citizenship.
 
-D. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Negative vs positive rights within citizenship** with **rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which distinction separates protection against interference from claims to enabling provision?
-
-A. Stateless person
-
-B. Negative vs positive rights within citizenship
-
-C. Differentiated citizenship
-
-D. Universal vs differentiated citizenship
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).** with **Negative vs positive rights within citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Negative vs positive rights within citizenship by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Civil, political and social rights**? Other options belong to different named entries.
+Which proposition is correctly associated with **Civil, political and social rights**?
 
-A. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- A. develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
+- B. is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
+- C. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+- D. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
 
-B. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+**Answer: D**
 
-C. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
+**Option-by-option explanation**
+- **A:** A Attaches to David Held, not Civil, political and social rights.
+- **B:** B Attaches to Locke, not Civil, political and social rights.
+- **C:** C Attaches to Universal vs differentiated citizenship, not Civil, political and social rights.
+- **D:** D States the source-recorded proposition for Civil, political and social rights.
 
-D. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Civil, political and social rights** with **civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which triad links liberty and legal equality, public participation and welfare-based membership?
-
-A. Denizenship (Tomas Hammar)
-
-B. Reciprocity is not barter
-
-C. Aristotle
-
-D. Civil, political and social rights
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).** with **Civil, political and social rights**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Civil, political and social rights by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Universal vs differentiated citizenship**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+- A. Universal vs differentiated citizenship — formal universality says all citizens are equal in status; differentiated critique asks whether some groups need.
+- B. Locke — civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF.
+- C. Stateless person — an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is.
+- D. Robert Nozick — defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and.
 
-B. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+**Answer: A**
 
-C. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+**Option-by-option explanation**
+- **A:** A Faithful pairing: Universal vs differentiated citizenship is associated with this proposition.
+- **B:** B Source disagrees: Locke is recorded with is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
+- **C:** C Wrong attachment: Stateless person is recorded with under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- **D:** D Belongs elsewhere: Robert Nozick is recorded with defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
 
-D. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Universal vs differentiated citizenship** with **formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which distinction contrasts identical formal status with group-sensitive correction of unequal participation?
-
-A. Citizenship
-
-B. Universal vs differentiated citizenship
-
-C. Subject vs citizen
-
-D. Locke
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.** with **Universal vs differentiated citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Universal vs differentiated citizenship; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Aristotle**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+- A. Denizenship (Tomas Hammar) — formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special.
+- B. Aristotle — defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was.
+- C. Negative vs positive rights within citizenship — under the 1954 Convention, someone "not considered as a national by any State under the operation of its.
+- D. T.H. Marshall — defines libertarian membership through strong individual rights and a minimal protective state.
 
-B. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+**Answer: B**
 
-C. defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).
+**Option-by-option explanation**
+- **A:** A Source disagrees: Denizenship (Tomas Hammar) is recorded with an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+- **B:** B Kept where the source puts it: Aristotle is associated with this proposition.
+- **C:** C Belongs elsewhere: Negative vs positive rights within citizenship is recorded with rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
+- **D:** D Misplaced: T.H. Marshall is recorded with analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a final mature stage (PDF pp.327-330).
 
-D. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Aristotle** with **defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Who defines the citizen through participation in deliberative and judicial office within the polis?
-
-A. Formal citizenship
-
-B. Negative vs positive rights within citizenship
-
-C. T.H. Marshall
-
-D. Aristotle
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).** with **Aristotle**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Aristotle; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Locke**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
+- A. Universal vs differentiated citizenship — civil rights protect liberty/equality before law; political rights secure participation; social rights secure.
+- B. Stateless person — an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is.
+- C. Locke — is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government.
+- D. Robert Nozick — defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and.
 
-B. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+**Answer: C**
 
-C. Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+**Option-by-option explanation**
+- **A:** A Misplaced: Universal vs differentiated citizenship is recorded with formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+- **B:** B Cross-attached: Stateless person is recorded with under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- **C:** C Matches the record: Locke is associated with this proposition.
+- **D:** D Mismatched: Robert Nozick is recorded with defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
 
-D. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Locke** with **is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Who supplies the natural-rights, consent and government-as-trust tradition used in modern citizenship arguments?
-
-A. Substantive citizenship
-
-B. Locke
-
-C. Civil, political and social rights
-
-D. Robert Nozick
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).** with **Locke**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Locke; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **T.H. Marshall**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. Marx's distinction between political emancipation and human emancipation helps explain how formally equal citizenship can coexist with class and property relations; later Marxist accounts treat rights-expansion as an achievement of struggle rather than a neutral gift.
+- A. Denizenship (Tomas Hammar) — formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special.
+- B. Aristotle — defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of.
+- C. Negative vs positive rights within citizenship — under the 1954 Convention, someone "not considered as a national by any State under the operation of its.
+- D. T.H. Marshall — analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law.
 
-B. Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.
+**Answer: D**
 
-C. analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a final mature stage (PDF pp.327-330).
+**Option-by-option explanation**
+- **A:** A Not this pair: Denizenship (Tomas Hammar) is recorded with an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+- **B:** B Cross-attached: Aristotle is recorded with defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).
+- **C:** C Mismatched: Negative vs positive rights within citizenship is recorded with rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
+- **D:** D Matches the record: T.H. Marshall is associated with this proposition.
 
-D. actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **T.H. Marshall** with **analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a final mature stage (PDF pp.327-330)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Who reconstructs civil, political and social citizenship through a stylised English historical sequence?
-
-A. Differentiated citizenship
-
-B. Universal vs differentiated citizenship
-
-C. Hannah Arendt
-
-D. T.H. Marshall
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a final mature stage (PDF pp.327-330).** with **T.H. Marshall**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to T.H. Marshall; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Robert Nozick**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
+- A. Robert Nozick — defines libertarian membership through strong individual rights and a minimal protective state.
+- B. Stateless person — an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is.
+- C. Universal vs differentiated citizenship — defines the citizen through sharing in deliberative and judicial office within the polis; the model remained.
+- D. Locke — analyses the English historical extension of citizenship through civil, political and social rights; his sequence is neither a universal law nor a.
 
-B. in his 1982 citizenship-rights essay, criticises smooth evolutionary development and stresses class conflict and political struggle (PDF pp.331-333). His modern-state surveillance argument belongs especially to The Nation-State and Violence (1985) and should be treated as a separate extension.
+**Answer: A**
 
-C. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+**Option-by-option explanation**
+- **A:** A Source-exact: Robert Nozick is associated with this proposition.
+- **B:** B Mismatched: Stateless person is recorded with under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- **C:** C Not this pair: Universal vs differentiated citizenship is recorded with formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+- **D:** D Cross-attached: Locke is recorded with is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
 
-D. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Robert Nozick** with **defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Who represents strong individual rights and a minimal protective state against redistributive social citizenship?
-
-A. Reciprocity is not barter
-
-B. Robert Nozick
-
-C. Aristotle
-
-D. Michael Walzer
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).** with **Robert Nozick**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Robert Nozick; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Hannah Arendt**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
+- A. Michael Walzer — the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- B. Hannah Arendt — stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+- C. Substantive citizenship — legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+- D. Subject vs citizen — defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
 
-B. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+**Answer: B**
 
-C. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+**Option-by-option explanation**
+- **A:** A Mismatched: Michael Walzer is recorded with stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+- **B:** B Source-exact: Hannah Arendt is associated with this proposition.
+- **C:** C Not this pair: Substantive citizenship is recorded with actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+- **D:** D Source disagrees: Subject vs citizen is recorded with the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
 
-D. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Hannah Arendt** with **stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Who links citizenship to public freedom, appearance and collective action rather than passive benefit receipt?
-
-A. Subject vs citizen
-
-B. Locke
-
-C. Iris Marion Young (differentiated citizenship)
-
-D. Hannah Arendt
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).** with **Hannah Arendt**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Hannah Arendt; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Michael Walzer**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+- A. Subject vs citizen — actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+- B. Hannah Arendt — defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+- C. Michael Walzer — stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
+- D. Citizenship — treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
 
-B. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+**Answer: C**
 
-C. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+**Option-by-option explanation**
+- **A:** A Not this pair: Subject vs citizen is recorded with the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+- **B:** B Source disagrees: Hannah Arendt is recorded with stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+- **C:** C Source-exact: Michael Walzer is associated with this proposition.
+- **D:** D Misplaced: Citizenship is recorded with the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
 
-D. the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Michael Walzer** with **stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Who treats political membership as a bounded distributive sphere with consequences for other social goods?
-
-A. Negative vs positive rights within citizenship
-
-B. Michael Walzer
-
-C. T.H. Marshall
-
-D. Marxist critique of citizenship
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).** with **Michael Walzer**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Michael Walzer; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Benjamin Barber**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+- A. Reciprocity is not barter — the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+- B. B.S. Turner — a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+- C. Citizenship — develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
+- D. Benjamin Barber — defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
 
-B. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+**Answer: D**
 
-C. defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Reciprocity is not barter is recorded with rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+- **B:** B Source disagrees: B.S. Turner is recorded with treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+- **C:** C Misplaced: Citizenship is recorded with the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- **D:** D Matches the record: Benjamin Barber is associated with this proposition.
 
-D. rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Benjamin Barber** with **defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Who defends strong participatory democracy in which citizens shape common purposes?
-
-A. Civil, political and social rights
-
-B. Robert Nozick
-
-C. Anthony Giddens
-
-D. Benjamin Barber
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **defends participatory "strong democracy" in which citizens shape common purposes rather than merely choose representatives (PDF p.331).** with **Benjamin Barber**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Benjamin Barber; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Marxist critique of citizenship**? Other options belong to different named entries.
+Consider the following statements:
+1. **Marxist critique of citizenship** is associated with: Marx's distinction between political emancipation and human emancipation helps explain how formally equal citizenship can coexist with class and property relations; later Marxist accounts treat rights-expansion as an achievement of struggle rather than a neutral gift.
+2. **B.S. Turner** is associated with: an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+Which option is correct?
 
-A. Marx's distinction between political emancipation and human emancipation helps explain how formally equal citizenship can coexist with class and property relations; later Marxist accounts treat rights-expansion as an achievement of struggle rather than a neutral gift.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.
+**Answer: A**
 
-C. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Marxist critique of citizenship** with **Marx's distinction between political emancipation and human emancipation helps explain how formally equal citizenship can coexist with class and property relations; later Marxist accounts treat rights-expansion as an achievement of struggle rather than a neutral gift**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which critique argues that formal political equality may coexist with class and property domination?
-
-A. Universal vs differentiated citizenship
-
-B. Marxist critique of citizenship
-
-C. Hannah Arendt
-
-D. David Held
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Marx's distinction between political emancipation and human emancipation helps explain how formally equal citizenship can coexist with class and property relations; later Marxist accounts treat rights-expansion as an achievement of struggle rather than a neutral gift.** with **Marxist critique of citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Marxist critique of citizenship does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **Anthony Giddens**? Other options belong to different named entries.
+Consider the following statements:
+1. **Anthony Giddens** is associated with: Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+2. **Iris Marion Young (differentiated citizenship)** is associated with: Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+Which option is correct?
 
-A. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+**Answer: B**
 
-C. in his 1982 citizenship-rights essay, criticises smooth evolutionary development and stresses class conflict and political struggle (PDF pp.331-333). His modern-state surveillance argument belongs especially to The Nation-State and Violence (1985) and should be treated as a separate extension.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Anthony Giddens** with **in his 1982 citizenship-rights essay, criticises smooth evolutionary development and stresses class conflict and political struggle (PDF pp.331-333). His modern-state surveillance argument belongs especially to The Nation-State and Violence (1985) and should be treated as a separate extension**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Who links citizenship-right expansion to organised conflict while treating surveillance separately in later work?
-
-A. Aristotle
-
-B. Michael Walzer
-
-C. Citizenship
-
-D. Anthony Giddens
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **in his 1982 citizenship-rights essay, criticises smooth evolutionary development and stresses class conflict and political struggle (PDF pp.331-333). His modern-state surveillance argument belongs especially to The Nation-State and Violence (1985) and should be treated as a separate extension.** with **Anthony Giddens**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Anthony Giddens does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **David Held**? Other options belong to different named entries.
+Consider the following statements:
+1. **David Held** is associated with: develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
+2. **Will Kymlicka (group-differentiated rights)** is associated with: Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.
+Which option is correct?
 
-A. develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+**Answer: C**
 
-C. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **David Held** with **develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Who extends citizenship analysis to overlapping national and transnational sites of authority?
-
-A. Locke
-
-B. David Held
-
-C. Benjamin Barber
-
-D. Iris Marion Young (differentiated citizenship)
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).** with **David Held**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with David Held does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **B.S. Turner**? Other options belong to different named entries.
+Consider the following statements:
+1. **B.S. Turner** is associated with: under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+2. **Stateless person** is associated with: actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+Which option is correct?
 
-A. the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).
+**Answer: D**
 
-C. treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. is an antecedent of liberal citizenship through natural rights and resistance to rights-violating government, not a complete modern theory of citizenship (PDF p.326).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **B.S. Turner** with **treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Who connects citizenship to social closure, embodiment and struggles over membership?
-
-A. T.H. Marshall
-
-B. Marxist critique of citizenship
-
-C. Will Kymlicka (group-differentiated rights)
-
-D. B.S. Turner
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **treats citizenship as a contested social institution shaped by stratification, movements and struggles over membership (PDF pp.333-334).** with **B.S. Turner**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with B.S. Turner does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Iris Marion Young (differentiated citizenship)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Iris Marion Young (differentiated citizenship)** is associated with: Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+2. **Denizenship (Tomas Hammar)** is associated with: a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+Which option is correct?
 
-A. Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+**Answer: A**
 
-C. civil rights protect liberty/equality before law; political rights secure participation; social rights secure welfare and social membership (PDF pp.327-329).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. defines libertarian membership through strong individual rights and a minimal protective state, not through the generic image of a consumer of public goods (PDF pp.330-331).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Iris Marion Young (differentiated citizenship)** with **Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Who argues that difference-blind universal citizenship can reproduce dominant group norms?
-
-A. Robert Nozick
-
-B. Iris Marion Young (differentiated citizenship)
-
-C. Anthony Giddens
-
-D. Stateless person
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Young criticises universality understood as identical treatment and one allegedly neutral citizen norm when that norm reproduces privileged-group experience; she does not reject universal inclusion or equal moral status.** with **Iris Marion Young (differentiated citizenship)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Iris Marion Young (differentiated citizenship) does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Will Kymlicka (group-differentiated rights)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Will Kymlicka (group-differentiated rights)** is associated with: the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+2. **Citizenship** is associated with: the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+Which option is correct?
 
-A. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
+**Answer: B**
 
-C. Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. develops democratic autonomy across interconnected sites of power rather than confining citizenship to periodic national voting (PDF pp.333-334).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Will Kymlicka (group-differentiated rights)** with **Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Who distinguishes minority self-government, polyethnic accommodation and special representation within liberal limits?
-
-A. Hannah Arendt
-
-B. David Held
-
-C. Denizenship (Tomas Hammar)
-
-D. Will Kymlicka (group-differentiated rights)
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Within a liberal framework, group-differentiated rights include self-government, polyethnic and special-representation claims. Kymlicka distinguishes external protections against majority decisions from internal restrictions imposed on a group's own members.** with **Will Kymlicka (group-differentiated rights)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Will Kymlicka (group-differentiated rights) does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Stateless person**? Other options belong to different named entries.
+Consider the following statements:
+1. **Stateless person** is associated with: under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+2. **Formal citizenship** is associated with: legal membership without effective enjoyment of all associated rights in practice (PDF p.325).
+Which option is correct?
 
-A. under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. a later analytical label for citizenship claims that insist equal formal status is insufficient where groups remain structurally excluded.
+**Answer: C**
 
-C. formal universality says all citizens are equal in status; differentiated critique asks whether some groups need special correctives to enjoy that equality in reality.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. stresses public freedom and collective action among citizens rather than passive receipt of status (PDF p.331).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Stateless person** with **under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which status applies when no state considers a person its national under the operation of its law?
-
-A. Michael Walzer
-
-B. Stateless person
-
-C. B.S. Turner
-
-D. Citizenship
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **under the 1954 Convention, someone "not considered as a national by any State under the operation of its law." This is different from a refugee and from a stateless nation.** with **Stateless person**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Stateless person does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Denizenship (Tomas Hammar)**? Other options belong to different named entries.
+Consider the following statements:
+1. **Denizenship (Tomas Hammar)** is associated with: actual access to the rights, protections and participation that citizenship promises (PDF pp.325, 327-329).
+2. **Substantive citizenship** is associated with: rights against interference and claims to enabling provision identify different functions that overlap in modern citizenship; they are not sealed chronological stages (PDF pp.326-329).
+Which option is correct?
 
-A. rights and duties belong to a common political relationship; each right is not conditional on a matching individual service to the state.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. defines the citizen through sharing in deliberative and judicial office within the polis; the model remained restricted to a limited body and was not universal membership (PDF p.325).
+**Answer: D**
 
-C. an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. stresses membership in a bounded political community and the distributive importance of deciding who belongs (PDF p.331).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Denizenship (Tomas Hammar)** with **an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Denizenship (Tomas Hammar) does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept names durable residents with substantial civil and social rights but incomplete political membership?
+Which correction is most defensible for the claim: **"Citizen and subject are interchangeable."**?
 
-A. Benjamin Barber
+- A. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+- B. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+- C. Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- D. Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
 
-B. Iris Marion Young (differentiated citizenship)
+**Answer: A**
 
-C. Formal citizenship
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+- **B:** B Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Citizenship means the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Subaltern critique is only about class."', so it does not answer the claim in the stem.
 
-D. Denizenship (Tomas Hammar)
+> **Examiner trap:** Repair the exact overstatement about "Citizen and subject are interchangeable.", not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **an analytical category for long-term foreign residents who possess many civil and social rights but lack full political membership; it is not one uniform legal status across states.** with **Denizenship (Tomas Hammar)**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Citizenship is only a bundle of rights."**?
+
+- A. His broad grouping must be distinguished from Gramsci's vocabulary, Subaltern Studies and Spivak's later intervention.
+- B. It is reciprocal status involving duties, obligations and allegiance as well (PDF p.324).
+- C. His sequence is drawn from England and is best treated as a historical model.
+- D. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Gauba's subaltern category is identical to every use of subaltern."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: It is reciprocal status involving duties, obligations and allegiance as well (PDF p.324).
+- **C:** C Repairs a different misconception, '"Marshall gives a universal, necessary three-stage chronology for all countries."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Citizenship is only a bundle of rights.", not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Marshall gives a universal, necessary three-stage chronology for all countries."**?
+
+- A. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+- B. His broad grouping must be distinguished from Gramsci's vocabulary, Subaltern Studies and Spivak's later intervention.
+- C. His sequence is drawn from England and is best treated as a historical model, not a law of development (PDF pp.327-330).
+- D. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Gauba's subaltern category is identical to every use of subaltern."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: His sequence is drawn from England and is best treated as a historical model, not a law of development (PDF pp.327-330).
+- **D:** D Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Marshall gives a universal, necessary three-stage, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Once legal equality is granted, feminist critique is over."**?
+
+- A. Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
+- B. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+- C. Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- D. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Subaltern critique is only about class."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Citizenship means the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+
+> **Examiner trap:** Repair the exact overstatement about "Once legal equality is granted, feminist critique, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Subaltern critique is only about class."**?
+
+- A. Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
+- B. Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- C. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+- D. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
+- **B:** B Repairs a different misconception, 'Citizenship means the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Subaltern critique is only about class.", not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Gauba's subaltern category is identical to every use of subaltern."**?
+
+- A. His sequence is drawn from England and is best treated as a historical model, not a law of development (PDF pp.327-330).
+- B. His broad grouping must be distinguished from Gramsci's vocabulary, Subaltern Studies and Spivak's later intervention.
+- C. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+- D. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Marshall gives a universal, necessary three-stage chronology for all countries."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: His broad grouping must be distinguished from Gramsci's vocabulary, Subaltern Studies and Spivak's later intervention.
+- **C:** C Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Gauba's subaltern category is identical to every, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Do not extend this file into constitutional Article detail, CAA/NRC current-affairs analysis, or Polity ownership.**?
+
+- A. Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+- B. Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
+- C. Its role is to show how the conceptual categories above (differentiated citizenship, group rights, citizenship-vs-nationality) can be applied cautiously to.
+- D. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Citizenship means the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Subaltern critique is only about class."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Its role is to show how the conceptual categories above (differentiated citizenship, group rights, citizenship-vs-nationality) can be applied cautiously to Indian examples without duplicating Polity's job.
+- **D:** D Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Do not extend this file into constitutional Article, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Citizenship means the subject obeys a privileged ruler; the citizen is part of the political community that authorizes rule (PDF pp.324-325).**?
+
+- A. Gauba separates them sharply; citizenship presupposes a community where rule is authorized procedurally and non-discriminatorily (PDF pp.324-325).
+- B. Gauba shows that under-representation, domestic role expectations and unequal opportunities persist despite formal equality (PDF pp.334-336).
+- C. Gauba expands it to all groups discriminated against on irrelevant grounds such as caste, gender, religion, language, age, region or vocation (PDF pp.336-337).
+- D. Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Citizen and subject are interchangeable."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Once legal equality is granted, feminist critique is over."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Subaltern critique is only about class."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Citizenship means the status of an individual as a full and responsible member of a political community, with reciprocal duties and rights (PDF p.324).
+
+> **Examiner trap:** Repair the exact overstatement about Citizenship means the subject obeys a privileged, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-> **Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II - Individual and State. They are not re-routed to Political Theory; they are included because this topic provides a directly usable supporting framework.
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-> **Primary owner:** Philosophy Paper II - Philosophy Paper II - Individual and State.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Citizenship and Its Critiques** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
-#### Solved PYQ 1 - 2019 Q2(a), 20 marks
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Question:** Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario.
+### Original GS Mains Model 1 — 10 marks
 
+**Question:** Explain how the movement from Aristotle's restricted participatory citizenship to modern reciprocal membership transforms the citizen-subject distinction. Answer in 150 words.
 
-**Demand decoding:** The operative directive is **Do**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of how the movement from Aristotle's restricted participatory citizenship to modern reciprocal membership transforms the citizen-subject distinction in the opening line, carry the argument on Introduction, Citizenship, Core and Modern, and reserve the closing sentences for the qualification that modernity enlarges status, but democratic citizenship requires effective voice.
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+**Model answer (144 words):**
 
-**Directive:** *Argue* -> take and defend a reasoned position.
+Introduction: Citizenship changes the relation between ruler and ruled by replacing inherited subordination with membership carrying rights, duties and a claim to public agency. Core analysis: For Aristotle, citizenship meant sharing in deliberative and judicial office within a restricted polis; women, slaves and aliens were excluded. Modern citizenship generalises membership beyond that narrow participating class. The citizen is no longer merely protected or commanded but belongs to a reciprocal political relationship: the state owes rights and protection, while citizens bear civic and legal responsibilities. This ideal separates citizenship from subjecthood, where rule is reserved for a privileged authority. Modernity enlarges status, but democratic citizenship requires effective voice. Conclusion: The transformation is from privileged participation within a restricted polis to a general legal-political status, but modern citizenship fulfils its promise only when formal membership becomes effective public agency rather than a new name for subjecthood.
 
-**Thesis (category correction).** Rights *primarily* make the **State accountable to citizens**, not citizens accountable to the State; but because rights also
-carry responsibilities, a *reciprocal* accountability exists. The stem's implied
-one-way direction is the thing to correct.
-
-**Distinguish two ideas.** *Accountability* = answering for the use of power;
-*responsibility* = the duties that accompany a right. Rights institutionalise the
-first against the State and generate the second in the citizen.
-
-**Direction of accountability.** Locke's *fiduciary trust* is cashed out
-institutionally as judicial review, a free press and periodic elections: these
-make public power answerable to the individual. That is the core sense in which
-rights bear on accountability.
-
-**Reciprocity.** My right to free expression carries a duty not to defame or incite -- Article 19 freedoms are subject to **reasonable restrictions** -- so
-rights also make citizens *responsible*. Claim-rights are correlative to duties
-(Hohfeld), which blocks the "rights breed pure entitlement" worry.
-
-**Indian scenario.** Part III makes the State *justiciably* answerable through
-judicial review; Fundamental Duties (Article 51A) are **non-justiciable** and
-express citizen responsibility -- they do *not* make citizens legally *accountable to* the State. So the enforceable vector runs State-ward.
-
-**Objection.** Does this not ignore civic obligation? **Reply.** No -- reciprocity
-retains citizen responsibility; it only denies that rights make the citizen
-*subordinate-accountable* to the State.
-
-**Graded verdict.** Rights make the State accountable to citizens and citizens
-co-responsible; corrected to reciprocity, not one-way subordination.
-
-> MEMORY: Why this earns marks - it performs a reasoned category correction, uses
-> the accountability/responsibility distinction, and pins Article 19 + Part III +
-> Article 51A precisely without overclaiming enforceability.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, Citizenship, Core and Modern), converts that evidence into analysis of how the movement from Aristotle's restricted participatory citizenship to modern reciprocal membership transforms the citizen-subject distinction, and keeps the examiner-facing qualification that modernity enlarges status, but democratic citizenship requires effective voice. At 144 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 2 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Elucidate Marshall's civil, political and social rights. Why is their English sequence not universally necessary? Answer in 150 words.
 
-**Question:** Explain how the movement from Aristotle's restricted participatory citizenship to modern reciprocal membership transforms the citizen-subject distinction. Answer in about 150 words.
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of marshall's civil, political and social rights. Why is their English sequence not universally necessary in the opening line, carry the argument on Introduction, Marshall, Core and Civil, and reserve the closing sentences for the qualification that conclusion: Marshall's triad remains indispensable as a map of effective membership, but its English chronology is a historically specific reconstruction whose elements can develop in different orders through conflict, institutions and social movements.
 
+**Model answer (147 words):**
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: T.H. Marshall explains substantive citizenship through three mutually supporting dimensions of equal membership. Core analysis: Civil rights protect liberty, speech, belief, property, contract and equality before law. Political rights enable voting and participation in institutions exercising public authority. Social rights secure welfare, education, security and a share in society's common heritage. Marshall reconstructed their English development as civil rights expanding first, political rights next and social rights through the welfare state. Critical evaluation: This order is historical, not logically necessary or universally automatic. Rights overlap, can advance or retreat together, and often emerge through class conflict, suffrage campaigns and other movements. The triad is a conceptual map, not a law of development. Conclusion: Marshall's triad remains indispensable as a map of effective membership, but its English chronology is a historically specific reconstruction whose elements can develop in different orders through conflict, institutions and social movements.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Citizenship changes the relation between ruler and ruled by replacing inherited subordination with membership carrying rights, duties and a claim to public agency.
-
-**Core analysis:** For Aristotle, citizenship meant sharing in deliberative and judicial office within a restricted polis; women, slaves and aliens were excluded. Modern citizenship generalises membership beyond that narrow participating class. The citizen is no longer merely protected or commanded but belongs to a reciprocal political relationship: the state owes rights and protection, while citizens bear civic and legal responsibilities. This ideal separates citizenship from subjecthood, where rule is reserved for a privileged authority.
-
-**Critical evaluation:** The contrast is an ideal type, not a perfect historical binary. A legal citizen can remain substantively subject-like when intimidation, poverty or discrimination blocks participation. Modernity enlarges status, but democratic citizenship requires effective voice.
-
-**Conclusion:** The transformation is from privileged participation within a restricted polis to a general legal-political status, but modern citizenship fulfils its promise only when formal membership becomes effective public agency rather than a new name for subjecthood.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain how the movement from Aristotle's restricted participatory citizenship to modern reciprocal membership transforms the citizen-subject distinction.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Marshall, Core and Civil), converts that evidence into analysis of marshall's civil, political and social rights. Why is their English sequence not universally necessary, and keeps the examiner-facing qualification that conclusion: Marshall's triad remains indispensable as a map of effective membership, but its English chronology is a historically specific reconstruction whose elements can develop in different orders through conflict, institutions and social movements. At 147 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** Elucidate Marshall's civil, political and social rights. Why is their English sequence not universally necessary? Answer in about 150 words.
+**Question:** Compare liberal, libertarian, communitarian-republican, Marxist and pluralist theories of citizenship. Answer in 150 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of liberal, libertarian, communitarian-republican, Marxist and pluralist theories of citizenship in the opening line, carry the argument on Introduction, Theories, Core and Liberal, and reserve the closing sentences for the qualification that communitarian and republican approaches recover active participation, civic belonging and common purposes: Arendt stresses public action, Walzer bounded membership and Barber strong democracy.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (139 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Theories of citizenship differ because they locate freedom, membership and political agency in different institutions and social relations. Core analysis: Liberal citizenship begins with equal legal status and rights, while Marshallian social liberalism adds welfare conditions that make freedom effective. Libertarianism, represented by Nozick, protects strong individual rights through a minimal state and resists compulsory redistributive purposes. Communitarian and republican approaches recover active participation, civic belonging and common purposes: Arendt stresses public action, Walzer bounded membership and Barber strong democracy. Marxist criticism argues that formal political equality can coexist with class and property domination. A sound synthesis protects universal rights while testing effective participation and structural power. Conclusion: The theories illuminate rights, limited government, civic participation, class domination and associational plurality respectively; a complete account combines a universal status floor with effective participation and criticism of unequal power.
 
-**Introduction:** T.H. Marshall explains substantive citizenship through three mutually supporting dimensions of equal membership.
-
-**Core analysis:** Civil rights protect liberty, speech, belief, property, contract and equality before law. Political rights enable voting and participation in institutions exercising public authority. Social rights secure welfare, education, security and a share in society's common heritage. Marshall reconstructed their English development as civil rights expanding first, political rights next and social rights through the welfare state.
-
-**Critical evaluation:** This order is historical, not logically necessary or universally automatic. Rights overlap, can advance or retreat together, and often emerge through class conflict, suffrage campaigns and other movements. Giddens therefore corrects any smooth state-gift narrative. The triad is a conceptual map, not a law of development.
-
-**Conclusion:** Marshall's triad remains indispensable as a map of effective membership, but its English chronology is a historically specific reconstruction whose elements can develop in different orders through conflict, institutions and social movements.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Elucidate Marshall's civil, political and social rights. Why is their English sequence not universally necessary?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Theories, Core and Liberal), converts that evidence into analysis of liberal, libertarian, communitarian-republican, Marxist and pluralist theories of citizenship, and keeps the examiner-facing qualification that communitarian and republican approaches recover active participation, civic belonging and common purposes: Arendt stresses public action, Walzer bounded membership and Barber strong democracy. At 139 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Compare liberal, libertarian, communitarian-republican, Marxist and pluralist theories of citizenship. Answer in about 200 words.
+**Question:** Formal equality can coexist with substantive subordination. Discuss through feminist and subaltern critiques of citizenship. Answer in 250 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of equality can coexist with substantive subordination. Discuss through feminist and subaltern critiques of citizenship in the opening line, carry the argument on Introduction, Formal, Core and Feminist, and reserve the closing sentences for the qualification that conclusion: Feminist and broadly subaltern critiques show that equal legal status is necessary but insufficient where unpaid labour, social hierarchy, intimidation and under-representation continue to block the exercise of citizenship.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (181 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Formal citizenship grants equal legal status, whereas substantive citizenship asks whether people can actually exercise rights, voice and public agency. Core analysis: Feminist criticism shows how the public-private divide can hide unequal care work, economic dependence, violence and under-representation. Voting rights alone do not equalise the social conditions of participation. Gauba's broad subaltern critique extends the same test to caste, class, religion, language, region, disability and other social positions: a group may possess nominal rights yet face intimidation, stigma, inaccessible institutions or exclusion from agenda-setting. Young sharpens the mechanism by showing how difference-blind rules can embody the experience of already privileged groups. Critical evaluation: Group-conscious remedies are not self-justifying. They may essentialise identity or empower internal elites. Their legitimacy depends on expanding members' effective agency, preserving individual rights and allowing internal contestation. Equality in law remains indispensable, but it becomes democratic only when institutions reduce patterned barriers to its exercise. Conclusion: Feminist and broadly subaltern critiques show that equal legal status is necessary but insufficient where unpaid labour, social hierarchy, intimidation and under-representation continue to block the exercise of citizenship.
 
-**Introduction:** Theories of citizenship differ because they locate freedom, membership and political agency in different institutions and social relations.
-
-**Core analysis:** Liberal citizenship begins with equal legal status and rights, while Marshallian social liberalism adds welfare conditions that make freedom effective. Libertarianism, represented by Nozick, protects strong individual rights through a minimal state and resists compulsory redistributive purposes. Communitarian and republican approaches recover active participation, civic belonging and common purposes: Arendt stresses public action, Walzer bounded membership and Barber strong democracy. Marxist criticism argues that formal political equality can coexist with class and property domination. Pluralism treats citizens as members of multiple associations and movements rather than one undifferentiated public.
-
-**Critical evaluation:** Each view has a blind spot. Rights can become merely formal; civic unity can suppress difference; class reductionism can miss gender and culture; plural groups possess unequal resources. A sound synthesis protects universal rights while testing effective participation and structural power.
-
-**Conclusion:** The theories illuminate rights, limited government, civic participation, class domination and associational plurality respectively; a complete account combines a universal status floor with effective participation and criticism of unequal power.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare liberal, libertarian, communitarian-republican, Marxist and pluralist theories of citizenship.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Formal, Core and Feminist), converts that evidence into analysis of equality can coexist with substantive subordination. Discuss through feminist and subaltern critiques of citizenship, and keeps the examiner-facing qualification that conclusion: Feminist and broadly subaltern critiques show that equal legal status is necessary but insufficient where unpaid labour, social hierarchy, intimidation and under-representation continue to block the exercise of citizenship. At 181 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Formal equality can coexist with substantive subordination. Discuss through feminist and subaltern critiques of citizenship. Answer in about 200 words.
+**Question:** Critically evaluate group-differentiated citizenship through Iris Marion Young and Will Kymlicka. Answer in 250 words.
 
+**Demand decode:** the directive `critically evaluate` requires the answer to apply a stated criterion, grade the claim against it and record what survives. Fix the boundary of evaluate group-differentiated citizenship through Iris Marion Young and Will Kymlicka in the opening line, carry the argument on Introduction, Group-differentiated, Core and Young, and reserve the closing sentences for the qualification that differentiation is justified only where it removes a demonstrable participation barrier and remains compatible with individual freedom.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (240 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Group-differentiated citizenship asks whether identical legal treatment can deliver equal membership where institutions reflect majority norms and disadvantages are structured by group position. Core analysis: Young does not reject universal inclusion; she criticises universality interpreted as sameness or one neutral general standpoint. Group representation and voice may be needed when ordinary procedures silence socially positioned experience. Kymlicka shows how liberal theory can recognise self-government rights, polyethnic accommodations and special representation. His distinction is crucial: external protections address majority power over a minority, whereas internal restrictions constrain members within the group. Liberal differentiation must protect cultural membership without licensing domination of dissenters. Further development: The comparison also turns on institutional form. Young's politics of difference is concerned with voice, representation and the critique of a falsely neutral public sphere. Kymlicka classifies minority claims more precisely and asks whether they protect a group against majority decisions or restrict members internally. This distinction makes differentiated citizenship conditional: remedies must answer a demonstrated disadvantage, preserve dissent and remain open to democratic review. Critical evaluation: The strongest objection is essentialism: official group categories can freeze identities, overlook intersections and strengthen unaccountable leaders. External protection is also not automatically proportionate. Differentiation is justified only where it removes a demonstrable participation barrier and remains compatible with individual freedom. Conclusion: Differentiated citizenship is defensible when it corrects structurally unequal participation while preserving a universal rights floor, internal dissent and scrutiny of both majority domination and minority-group authority.
 
-**Introduction:** Formal citizenship grants equal legal status, whereas substantive citizenship asks whether people can actually exercise rights, voice and public agency.
-
-**Core analysis:** Feminist criticism shows how the public-private divide can hide unequal care work, economic dependence, violence and under-representation. Voting rights alone do not equalise the social conditions of participation. Gauba's broad subaltern critique extends the same test to caste, class, religion, language, region, disability and other social positions: a group may possess nominal rights yet face intimidation, stigma, inaccessible institutions or exclusion from agenda-setting. Young sharpens the mechanism by showing how difference-blind rules can embody the experience of already privileged groups.
-
-**Critical evaluation:** Group-conscious remedies are not self-justifying. They may essentialise identity or empower internal elites. Their legitimacy depends on expanding members' effective agency, preserving individual rights and allowing internal contestation. Equality in law remains indispensable, but it becomes democratic only when institutions reduce patterned barriers to its exercise.
-
-**Conclusion:** Feminist and broadly subaltern critiques show that equal legal status is necessary but insufficient where unpaid labour, social hierarchy, intimidation and under-representation continue to block the exercise of citizenship.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Formal equality can coexist with substantive subordination. Discuss through feminist and subaltern critiques of citizenship.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `critically evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Group-differentiated, Core and Young), converts that evidence into analysis of evaluate group-differentiated citizenship through Iris Marion Young and Will Kymlicka, and keeps the examiner-facing qualification that differentiation is justified only where it removes a demonstrable participation barrier and remains compatible with individual freedom. At 240 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Critically evaluate group-differentiated citizenship through Iris Marion Young and Will Kymlicka. Answer in about 250 words.
+**Question:** Does migration expose the limits of nationally bounded citizenship? Discuss nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis. Answer in 250 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of migration expose the limits of nationally bounded citizenship? Discuss nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis in the opening line, carry the argument on Introduction, Migration, Core and Citizenship, and reserve the closing sentences for the qualification that conclusion: Migration exposes the divergence of residence, citizenship, legal nationality and identity, but the answer is not to erase membership;.
 
-**Demand decoding:** The operative directive is **Critically evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (234 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Migration reveals that residence, legal membership, international nationality and cultural identity do not always coincide within one territorial state. Core analysis: Citizenship usually names domestic legal-political membership, while legal nationality is the person-state bond recognised internationally; national identity refers to cultural or political identification and cannot be inferred from documents alone. Jus soli allocates nationality through territorial birth and jus sanguinis through descent, but actual regimes combine and qualify these rules. The sharpest limit is statelessness: under the 1954 Convention, no state considers the person its national under its law. Hammar's denizen occupies a different intermediate position—a durable resident with substantial civil and social rights but incomplete political membership. Migration therefore produces people governed and socially integrated without equal authorship of binding rules. Further development: The temporal dimension matters as well. Temporary presence does not create the same membership claim as durable residence, intergenerational attachment or exposure to a state's coercive rules. A graded route to membership can recognise that difference without making residents permanently rightless. A defensible system prevents statelessness, protects basic rights regardless of status, separates legal nationality from ethnic identity and provides transparent routes from durable residence to fuller political membership. Conclusion: Migration exposes the divergence of residence, citizenship, legal nationality and identity, but the answer is not to erase membership; it is to prevent statelessness, secure basic rights and create fair routes from durable residence to political inclusion.
 
-**Introduction:** Group-differentiated citizenship asks whether identical legal treatment can deliver equal membership where institutions reflect majority norms and disadvantages are structured by group position.
-
-**Core analysis:** Young does not reject universal inclusion; she criticises universality interpreted as sameness or one neutral general standpoint. Group representation and voice may be needed when ordinary procedures silence socially positioned experience. Kymlicka shows how liberal theory can recognise self-government rights, polyethnic accommodations and special representation. His distinction is crucial: external protections address majority power over a minority, whereas internal restrictions constrain members within the group. Liberal differentiation must protect cultural membership without licensing domination of dissenters.
-
-**Further development:** The comparison also turns on institutional form. Young's politics of difference is concerned with voice, representation and the critique of a falsely neutral public sphere. Kymlicka classifies minority claims more precisely and asks whether they protect a group against majority decisions or restrict members internally. This distinction makes differentiated citizenship conditional: remedies must answer a demonstrated disadvantage, preserve dissent and remain open to democratic review.
-
-**Critical evaluation:** The strongest objection is essentialism: official group categories can freeze identities, overlook intersections and strengthen unaccountable leaders. External protection is also not automatically proportionate. The reply is a universal floor of civil, political and social rights, transparent justification, member voice, review and revision. Differentiation is justified only where it removes a demonstrable participation barrier and remains compatible with individual freedom.
-
-**Conclusion:** Differentiated citizenship is defensible when it corrects structurally unequal participation while preserving a universal rights floor, internal dissent and scrutiny of both majority domination and minority-group authority.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically evaluate group-differentiated citizenship through Iris Marion Young and Will Kymlicka.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Migration, Core and Citizenship), converts that evidence into analysis of migration expose the limits of nationally bounded citizenship? Discuss nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis, and keeps the examiner-facing qualification that conclusion: Migration exposes the divergence of residence, citizenship, legal nationality and identity, but the answer is not to erase membership;. At 234 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
-
-#### Original Mains Practice 6 — 20 marks
-
-**Question:** Does migration expose the limits of nationally bounded citizenship? Discuss nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **Does**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Migration reveals that residence, legal membership, international nationality and cultural identity do not always coincide within one territorial state.
-
-**Core analysis:** Citizenship usually names domestic legal-political membership, while legal nationality is the person-state bond recognised internationally; national identity refers to cultural or political identification and cannot be inferred from documents alone. Jus soli allocates nationality through territorial birth and jus sanguinis through descent, but actual regimes combine and qualify these rules. The sharpest limit is statelessness: under the 1954 Convention, no state considers the person its national under its law. Hammar's denizen occupies a different intermediate position—a durable resident with substantial civil and social rights but incomplete political membership. Migration therefore produces people governed and socially integrated without equal authorship of binding rules.
-
-**Further development:** The temporal dimension matters as well. Temporary presence does not create the same membership claim as durable residence, intergenerational attachment or exposure to a state's coercive rules. A graded route to membership can recognise that difference without making residents permanently rightless. The central test is whether the allocation system prevents arbitrary exclusion while preserving an administrable and democratically justified account of political membership.
-
-**Critical evaluation:** States retain legitimate interests in administrable membership and democratic solidarity, while immediate voting rights need not follow every temporary residence. Yet indefinite exclusion creates domination and weakens reciprocity. A defensible system prevents statelessness, protects basic rights regardless of status, separates legal nationality from ethnic identity and provides transparent routes from durable residence to fuller political membership.
-
-**Conclusion:** Migration exposes the divergence of residence, citizenship, legal nationality and identity, but the answer is not to erase membership; it is to prevent statelessness, secure basic rights and create fair routes from durable residence to political inclusion.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Does migration expose the limits of nationally bounded citizenship? Discuss nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.

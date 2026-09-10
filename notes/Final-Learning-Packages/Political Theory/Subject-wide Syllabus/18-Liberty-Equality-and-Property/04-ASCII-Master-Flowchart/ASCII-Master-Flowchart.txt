@@ -1,368 +1,646 @@
-ASCII MASTER FLOW — PANEL 1/12: The Triad, Liberty versus Licence and Three Spheres of Freedom
-CENTRAL FOCUS
-The Triad, Liberty versus Licence and Three Spheres of Freedom
-  [1] Liberty rejects unreasonable restraint while licence permits oppression.
-        |
-        v
-  [2] Civil, political and economic liberty identify different spheres of agency.
-        |
-        v
-  [3] Economic dependence can hollow out formally protected choice.
-        |
-        v
-  [4] The triad asks how liberty, equality and property condition one another.
-        |
-        v
-  [5] Negative freedom tests obstruction; positive freedom tests effective agency.
-        |
-        v
-  [6] Equality begins with equal worth but does not require identical treatment.
-        |
-        v
-  [7] Property protects a personal sphere yet can also organise structural dependence.
-        |
-        v
-  [8] A strong answer specifies the agent, constraint, institution and distributive
-      effect.
-        |
-        v
-VERDICT -> Liberty is regulated agency across civil, political and economic life.
-ANSWER USE -> Begin by separating liberty from licence and formal from usable freedom.
+ASCII MASTER FLOW — PANEL 1/25: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Liberty, Equality and Property.                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Justice linkage: Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md and        |
+| Political-Theory/advanced/19_Justice-Concepts-and-Dimensions.md carry these ideals into      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Mill, Green, Berlin and Competing Positive-Liberty Languages
-CENTRAL FOCUS
-Mill, Green, Berlin and Competing Positive-Liberty Languages
-  [1] Mill's harm principle does not convert every social consequence into coercible harm.
-        |
-        v
-  [2] Green's enabling freedom differs from Berlinian self-mastery.
-        |
-        v
-  [3] Berlin protects non-interference and warns against the real-self hijack.
-        |
-        v
-  [4] The Four Freedoms address and Atlantic Charter remain distinct 1941 documents.
-        |
-        v
-  [5] Offence, dislike and paternal benefit are not automatically harms to others.
-        |
-        v
-  [6] Enabling institutions should expand agency without prescribing one authentic life.
-        |
-        v
-  [7] Hayek and Friedman defend related market freedoms through different arguments.
-        |
-        v
-  [8] Marcuse tests false needs while Macpherson tests developmental and extractive power.
-        |
-        v
-VERDICT -> Mill, Green and Berlin identify different grounds and risks of freedom.
-ANSWER USE -> Keep harm, enabling conditions and self-mastery analytically separate.
+ASCII MASTER FLOW — PANEL 2/25: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1711-76 -> Thus David Hume                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1723-80 -> To William Blackston                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1723-90 -> Adam Smith                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1723-80 -> William Blackstone                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1751-1836 -> James Madison                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Equality, Opportunity, Outcome, Rawls, Dworkin and Mill
-CENTRAL FOCUS
-Equality, Opportunity, Outcome, Rawls, Dworkin and Mill
-  [1] Equality means equal worth rather than sameness.
-        |
-        v
-  [2] Formal, substantive, opportunity and outcome standards answer different questions.
-        |
-        v
-  [3] Rawls orders liberty, fair opportunity and the difference principle.
-        |
-        v
-  [4] Dworkin separates resource equality, brute luck and option luck.
-        |
-        v
-  [5] Rousseau distinguishes natural difference from conventionally organised hierarchy.
-        |
-        v
-  [6] Alterability alone does not prove injustice; rational relevance must also be tested.
-        |
-        v
-  [7] Outcome equality ranges from a floor or range to a strict end-state pattern.
-        |
-        v
-  [8] Affirmative action requires its rationale, design, beneficiary and objection to be
-      named.
-        |
-        v
-VERDICT -> Equality can target rules, opportunities or outcomes without requiring sameness.
-ANSWER USE -> Use Rawls, Dworkin and Mill to specify the metric.
+ASCII MASTER FLOW — PANEL 3/25: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1755 -> Rousseau, in his Discourse on the Origin of Inequality                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1762 -> Social Contract                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1773-1836 -> James Mill                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1776 -> The authors of the American Revolution                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1789 -> The French Revolution                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1789 -> Thus, the French Declaration of the Rights of Man and the Citizen                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Property as Security and Power: Locke, Hegel and Marx
-CENTRAL FOCUS
-Property as Security and Power: Locke, Hegel and Marx
-  [1] Property can secure personal independence or become social power over others.
-        |
-        v
-  [2] Locke's labour title includes enough-and-as-good and spoilage provisos.
-        |
-        v
-  [3] Hegel links property to personhood without licensing unlimited accumulation.
-        |
-        v
-  [4] Marx distinguishes personal use from private control of production.
-        |
-        v
-  [5] Money explains accumulation in Locke but does not erase every justificatory limit.
-        |
-        v
-  [6] Ownership must be separated into use, income, exclusion, transfer and control
-      powers.
-        |
-        v
-  [7] Property concentration affects bargaining power even where contracts are formally
-      free.
-        |
-        v
-VERDICT -> Property supports personhood but can also organise class domination.
-ANSWER USE -> Compare Locke, Hegel and Marx through source, object and limit.
+ASCII MASTER FLOW — PANEL 4/25: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1789 -> French revolution                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1806-73 -> Stuart Mill                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1820-1903 -> Herbert Spencer                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1834-1902 -> Lord Acton                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1838-1900 -> Henry Sidgwick                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Berlin, MacCallum and Taylor as Named Liberty Evidence
-CENTRAL FOCUS
-Berlin, MacCallum and Taylor as Named Liberty Evidence
-  [1] MacCallum gives every freedom claim an agent, constraint and purpose.
-        |
-        v
-  [2] Taylor contrasts opportunity with meaningful exercise.
-        |
-        v
-  [3] Berlin's paternalism warning remains the check on exercise-based freedom.
-        |
-        v
-  [4] Formal unification does not eliminate substantive disagreement.
-        |
-        v
-  [5] Different theories disagree over which obstacles count as freedom-reducing
-      constraints.
-        |
-        v
-  [6] Internal incapacity should not be converted automatically into a licence for
-      coercion.
-        |
-        v
-  [7] Opportunity matters because open doors may coexist with conditioned inability to
-      act.
-        |
-        v
-VERDICT -> MacCallum unifies grammar, not the substance of liberty disputes.
-ANSWER USE -> Add Taylor's exercise claim and Berlin's paternalism check.
+ASCII MASTER FLOW — PANEL 5/25: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1843 -> Critique of Hegel's Philosophy of Right                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1844 -> Holy Family                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1844 -> NIST BASIS OF FREEDOM Marx, in his Economic and Philosophic Manuscripts          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1844 -> On the Jewish Question                                                           |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Functionless Property and Nozick's Entitlement Theory
-CENTRAL FOCUS
-Functionless Property and Nozick's Entitlement Theory
-  [1] Tawney targets functionless property rather than every large holding.
-        |
-        v
-  [2] Nozick requires acquisition, transfer, proviso and rectification.
-        |
-        v
-  [3] Rectification remains seriously under-specified.
-        |
-        v
-  [4] Social-democratic function and libertarian entitlement are rival standards.
-        |
-        v
-  [5] Hobhouse treats much wealth as socially enabled rather than purely individual
-      creation.
-        |
-        v
-  [6] Laski tests property through personality, democratic power and the common good.
-        |
-        v
-  [7] A voluntary recent transfer cannot cleanse an unjust chain of acquisition.
-        |
-        v
-  [8] A balanced answer asks what ownership contributes, whom it subjects and how it
-      arose.
-        |
-        v
-VERDICT -> Function and entitlement are rival tests of legitimate property.
-ANSWER USE -> State Nozick's proviso and under-specified rectification.
+ASCII MASTER FLOW — PANEL 6/25: Core Definitions (1/2)
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. LIBERTY: Liberty is commonly described as absence of restraint, but Gauba insists that   |
+| in society it means absence of unreasonable restraint and protection of conditions in which  |
+| human capacities can develop                                                                 |
+| 02. NEGATIVE LIBERTY: Freedom from interference in chosen actions, especially where the      |
+| state abstains from imposing unreasonable restraints on speech, worship, movement and        |
+| similar activities                                                                           |
+| 03. POSITIVE LIBERTY: Freedom secured by removing socially created obstacles such as         |
+| poverty, insecurity, unemployment or lack of education where these are alterable by public   |
+| policy                                                                                       |
+| 04. POSITIVE LIBERTY: TWO SENSES: Do not conflate Berlin's sense of self-mastery with        |
+| positive liberalism's enabling-conditions sense. Gauba expressly says Berlin's positive      |
+| liberty does not correspond to welfare/positive liberalism                                   |
+| 05. EQUALITY: Equality is a claim of right and equal moral worth, not a statement that all   |
+| persons are factually identical in talent, strength or circumstance                          |
+| 06. FORMAL EQUALITY: Equality understood as non-discrimination, equal legal personality,     |
+| equal vote or open access in principle, without necessarily changing the underlying socio-   |
+| economic structure                                                                           |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Synthesis, Indian Applications and Objection-Reply Chains
-CENTRAL FOCUS
-Synthesis, Indian Applications and Objection-Reply Chains
-  [1] The final synthesis is proposed rather than jointly canonical.
-        |
-        v
-  [2] Affirmative action has compensatory, anti-subordination, representational and
-      opportunity rationales.
-        |
-        v
-  [3] Reverse discrimination is an objection, not a neutral description.
-        |
-        v
-  [4] NAKSHA illustrates title, procedure and contestability without proving
-      redistribution.
-        |
-        v
-  [5] Formal equality and remedial differentiation can serve equal citizenship together.
-        |
-        v
-  [6] Current schemes illustrate institutional design but do not prove a philosophical
-      doctrine.
-        |
-        v
-  [7] Digitised title can reduce uncertainty while leaving concentration and exclusion
-      untouched.
-        |
-        v
-VERDICT -> Equal liberty requires correction that remains reasoned and contestable.
-ANSWER USE -> Treat reverse discrimination as an objection and NAKSHA as illustration.
+ASCII MASTER FLOW — PANEL 7/25: Core Definitions (2/2)
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 07. SUBSTANTIVE EQUALITY: Equality understood as actual reduction of unjust and alterable    |
+| inequalities, especially by extending real opportunities and safeguards to weaker sections   |
+| 08. EQUALITY OF OPPORTUNITY: Offices and advantages are genuinely open on fair terms; this   |
+| is stronger than merely removing explicit legal barriers because inherited education, health |
+| and social power can distort the starting point                                              |
+| 09. EQUALITY OF OUTCOME: Attention to the final distribution of resources, welfare or        |
+| capability. It need not demand identical results: many egalitarian positions instead defend  |
+| thresholds, a social minimum or limits on avoidable deprivation                              |
+| 10. PROPERTY: Property denotes possession or control of material things and claims over      |
+| them, including documents embodying entitlement; politically it raises the issue of whether  |
+| such control empowers some over others                                                       |
+| 11. PRIVATE PROPERTY: In the Marxist discussion, private property chiefly means property in  |
+| the means of production that enables control over others' labour and life-chances            |
+| 12. PERSONAL PROPERTY: Property genuinely tied to personal use, security and the fruit of    |
+| one's own labour; Marxism does not aim to abolish this category                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Republican Non-Domination: Mechanism and Benevolent Master
-CENTRAL FOCUS
-Republican Non-Domination: Mechanism and Benevolent Master
-  [1] Republican liberty asks whether another holds arbitrary power with impunity.
-        |
-        v
-  [2] Domination can exist without current interference.
-        |
-        v
-  [3] The benevolent master leaves some options unobstructed but the person is not free
-      simpliciter.
-        |
-        v
-  [4] Dependency creates anticipatory self-adjustment and loss of standing.
-        |
-        v
-  [5] Capacity, arbitrariness and weak contestation together reveal the domination
-      relation.
-        |
-        v
-  [6] A credible threat may discipline conduct before any command is actually issued.
-        |
-        v
-  [7] Workplace, household, platform and bureaucratic power can each create dependency.
-        |
-        v
-  [8] Non-domination adds secure status to the negative-liberty concern with obstruction.
-        |
-        v
-VERDICT -> Non-domination detects standing arbitrary power beyond interference counts.
-ANSWER USE -> Use the benevolent master without calling the person free simpliciter.
+ASCII MASTER FLOW — PANEL 8/25: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Liberty first appears as the cry of the oppressed against privilege and injustice; it is |
+| therefore linked from the beginning with equality and social change, not with unregulated    |
+| selfishness                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Liberty in society must be regulated so that one person's freedom does not become        |
+| another's oppression; this is the distinction between liberty and licence                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Gauba then distinguishes civil, political and economic liberty, showing that economic    |
+| life is the sphere where mere non-interference often leaves the weak exposed to the strong   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. The modern liberty debate turns on negative liberty versus positive liberty: non-        |
+| interference remains necessary, but freedom also needs removal of socially produced          |
+| obstacles that can be changed by human action                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Equality is presented not as sameness but as a modern demand to reduce unjust            |
+| inequalities that are alterable by social effort; it is therefore a principle of social      |
+| change                                                                                       |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Republican Law, Objections and Three-Family Comparison
-CENTRAL FOCUS
-Republican Law, Objections and Three-Family Comparison
-  [1] General, public and reviewable law can reduce domination.
-        |
-        v
-  [2] Private dominium and public imperium require parallel scrutiny.
-        |
-        v
-  [3] Contestability must be effective rather than a decorative complaints route.
-        |
-        v
-  [4] The three-family matrix separates non-interference, capacity and status.
-        |
-        v
-  [5] Law is freedom-enhancing only when it is non-arbitrary in design and administration.
-        |
-        v
-  [6] Public reasons, independent review and practical remedies limit official discretion.
-        |
-        v
-  [7] Private power also requires exit options, voice and protection against retaliation.
-        |
-        v
-  [8] The correct institutional test joins legality, justification, proportionality and
-      appeal.
-        |
-        v
-VERDICT -> Answerable law can constitute freedom while arbitrary law becomes imperium.
-ANSWER USE -> Test capacity, arbitrariness, impunity and effective contestation.
+ASCII MASTER FLOW — PANEL 9/25: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 06. Equality allows rational discrimination in favour of need and social usefulness, and it  |
+| develops across legal, political and socio-economic dimensions                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Formal legal and political equality are important achievements, but without socio-       |
+| economic reform they can remain hollow for the poor and dependent                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Property is treated as a complex right because ownership patterns are deeply shaped by   |
+| inheritance, markets, prior advantage and social power, not only by individual merit         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. Liberal, social-democratic and Marxist theories all engage property differently:         |
+| protection of liberty, social regulation for common good, and abolition of exploitative      |
+| ownership of means of production respectively                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. The chapter sequence therefore moves from freedom, to equal freedom, to the material     |
+| structures that can support or defeat both                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Answer Architecture, Evidence Units and Final Recall
-CENTRAL FOCUS
-Answer Architecture, Evidence Units and Final Recall
-  [1] Pettit supplies the normative non-domination theory; Skinner reconstructs its
-      history.
-        |
-        v
-  [2] Republican objections test institutionalisation, overbreadth and redundancy.
-        |
-        v
-  [3] PSIR and Philosophy word conventions must remain separately labelled.
-        |
-        v
-  [4] Final answers identify the constraint, institution, objection and graded verdict.
-        |
-        v
-  [5] The redundancy objection asks whether domination adds anything to non-interference.
-        |
-        v
-  [6] The overbreadth objection asks whether every dependency should count as political
-      unfreedom.
-        |
-        v
-  [7] Institutionalisation requires measurable safeguards rather than republican
-      vocabulary alone.
-        |
-        v
-VERDICT -> Three liberty families survive MacCallum's formal unification.
-ANSWER USE -> Separate Pettit's norm from Skinner's historical recovery.
+ASCII MASTER FLOW — PANEL 10/25: Essential Distinctions (1/2)
++----------------------------------------------------------------------------------------------+
+| ESSENTIAL DISTINCTIONS (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. Negative liberty => It asks whether the individual is being obstructed by the state or   |
+| other persons in a sphere of action such as speech, worship, movement or contract; it        |
+| therefore emphasizes non-interference                                                        |
+| 02. Positive liberty => It asks whether the individual lacks the means or conditions to act  |
+| because of poverty, insecurity, unemployment, ignorance or similar social obstacles that can |
+| be altered by policy                                                                         |
+| 03. Core warning => Positive liberty simply means "more government." -> Gauba's point is     |
+| narrower: it means removal of alterable social constraints, not unlimited state command over |
+| life                                                                                         |
+| 04. Common ground => Gauba treats the two as complementary rather than mutually exclusive,   |
+| although different schools give different priority to them                                   |
+| 05. Two positive-liberty languages => Self-mastery: rule by one's reflective or higher self  |
+| (Berlin's analytic category). Enabling freedom: removal of socially alterable deprivation    |
+| (Green/positive liberalism). They can overlap, but neither definition may be silently        |
+| substituted for the other                                                                    |
+| 06. Third family (do not omit) => Republican liberty / non-domination: freedom as not being  |
+| subject to another's arbitrary power, whether or not that power is currently exercised - a   |
+| distinct third position, not a variant of either column. Full module at ?22; associated with |
+| Pettit (1997) and Skinner (1998), outside Gauba's own framing                                |
+| 07. Distinction => What to say precisely                                                     |
+| 08. Formal equality => It means equal status in law, equal voting rights, open competition   |
+| and non-discrimination in principle                                                          |
+| 09. Substantive equality => It means actual widening of access and capability through social |
+| provision, protection of weaker sections and reduction of unjust socio-economic disparities  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close options turn on harm, capacity, domination, opportunity and title.
-        |
-        v
-  [2] Property categories must not collapse personhood, personal use and productive
-      control.
-        |
-        v
-  [3] Mill, Green and Berlin must be separated by the role assigned to coercion.
-        |
-        v
-  [4] Formal equality is not substantive access, and outcome is not a single strict
-      doctrine.
-        |
-        v
-  [5] Locke's provisos prevent labour-mixing from becoming an unlimited acquisition
-      slogan.
-        |
-        v
-  [6] Nozick's three principles require historical evidence, not merely present consent.
-        |
-        v
-  [7] Every MCQ should eliminate adjacent doctrines through one precise qualifier.
-        |
-        v
-VERDICT -> Close distractors exploit adjacent equality and property categories.
-ANSWER USE -> Name the metric, owner and institutional mechanism before choosing.
+ASCII MASTER FLOW — PANEL 11/25: Essential Distinctions (2/2)
++----------------------------------------------------------------------------------------------+
+| ESSENTIAL DISTINCTIONS (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 10. Core warning => If opportunities are formally open to all, equality is already achieved. |
+| -> Gauba repeatedly argues that legal-political equality can become decorative where         |
+| poverty, hierarchy and dependence block actual access                                        |
+| 11. Test => Ask not only "Is the rule same?" but also "Can ordinary people really use the    |
+| opportunity?"                                                                                |
+| 12. Necessary/sufficient test => Alterability is a necessary condition for making an         |
+| inequality a practical target of reform, but not sufficient to prove injustice; some         |
+| alterable differences may be justified by need, relevant function or socially beneficial     |
+| excellence                                                                                   |
+| 13. Axis => Equality of opportunity                                                          |
+| 14. Core question => Are offices and advantages open on genuinely fair terms?                |
+| 15. Strongest form => Fair equality of opportunity corrects background barriers rather than  |
+| merely announcing open competition                                                           |
+| 16. Main risk => Opportunity can remain formal where inherited resources decide who can      |
+| compete                                                                                      |
+| 17. Distinction => What to say precisely                                                     |
+| 18. Possession/use => Property includes material things or enforceable claims over them, and |
+| in ordinary liberal language it is often linked to security and pursuit of happiness         |
+| 19. Property as power => Once property gives monopoly, control of capital or bargaining      |
+| superiority, it becomes power over others' life and labour, not just private enjoyment       |
+| 20. Personal property => Property needed for personal security, use and independence remains |
+| defensible, including in Marxist discussion                                                  |
+| 21. Means of production => Ownership of land, capital and productive assets is politically   |
+| controversial because it structures class relations and access to work itself                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Twenty-two PYQs remain cross-applied under six Philosophy owners.
-        |
-        v
-  [2] The final flow joins equal liberty, fair opportunity, justified property and
-      contestable power.
-        |
-        v
-  [3] Transferred PYQs retain their original Philosophy ownership and directive.
-        |
-        v
-  [4] Ten-mark models prioritise a thesis, distinction, objection and concise verdict.
-        |
-        v
-  [5] Fifteen-mark answers add comparison and a developed objection-reply chain.
-        |
-        v
-  [6] Twenty-mark answers integrate theory, institution, current illustration and
-      evaluation.
-        |
-        v
-  [7] Six original questions cover liberty, equality, property and republican synthesis.
-        |
-        v
-  [8] Register notes finish the package so revision follows teaching and solved practice.
-        |
-        v
-VERDICT -> Cross-application preserves six Philosophy ownership routes.
-ANSWER USE -> End on equal agency, non-domination and justified social power.
+ASCII MASTER FLOW — PANEL 12/25: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. J.S. MILL: In On Liberty, coercion of a competent adult is presumptively justified only  |
+| to prevent harm to others; offence, dislike and the person's own good are insufficient.      |
+| Mill's support for education, taxation, inheritance and other social reform rests on         |
+| separate arguments and must not be presented as part of the harm principle. His equality     |
+| doctrine protects equal civic worth, women's equality and individuality against inherited    |
+| status                                                                                       |
+| 02. ISAIAH BERLIN: Berlin distinguishes negative liberty from positive liberty as self-      |
+| mastery and denies that poverty automatically equals political unfreedom; Gauba accepts the  |
+| moral self-mastery distinction but criticizes its treatment of socially produced material    |
+| disability                                                                                   |
+| 03. F.A. HAYEK: Hayek identifies liberty with freedom from coercion, defends equality before |
+| law rather than material equality, and warns that distributive schemes may destroy freedom   |
+| 04. MILTON FRIEDMAN: Friedman links competitive capitalism with freedom and seeks to         |
+| minimize welfare and regulatory functions of the state; Gauba treats this as conceptually    |
+| narrow because market power itself can coerce labour                                         |
+| 05. ROBERT NOZICK: Nozick defends a minimal state and a historical entitlement theory of     |
+| acquisition, transfer and rectification. Acquisition is constrained by a modified Lockean    |
+| proviso, and rectification is required for unjust history, though its determinate formula is |
+| seriously under-specified                                                                    |
+| 06. MARX AND ENGELS: Freedom requires transformation of the capitalist system, social        |
+| control of production and emancipation from alienation; private property in means of         |
+| production is a basis of class domination                                                    |
+| 07. HERBERT MARCUSE: Consumer capitalism manufactures wants, dulls critical consciousness    |
+| and turns people into one-dimensional beings, thereby suppressing the urge for genuine       |
+| freedom                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/25: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. C.B. MACPHERSON: Freedom should be understood as creative or developmental power;        |
+| capitalist market society erodes this power among the poor while expanding extractive power  |
+| among owners                                                                                 |
+| 02. ROUSSEAU: Equality requires distinguishing natural differences from conventional         |
+| privileges; only the latter are properly political targets of reform                         |
+| 03. LOCKE: Locke treats life, liberty and property as natural rights and grounds initial     |
+| appropriation in labour, subject to leaving "enough and as good" for others and to a         |
+| spoilage limitation. Money bypasses spoilage through consent and enables accumulation;       |
+| whether the enough-and-as-good proviso survives monetisation remains contested. Gauba notes  |
+| that the theory ultimately accommodates substantial inequality                               |
+| 04. HEGEL: Property is the external embodiment through which free will first gives itself    |
+| objective existence within Abstract Right. This personhood claim explains why some property  |
+| matters for agency, but it is not an unlimited moral title to accumulation or domination     |
+| 05. JOHN RAWLS: Equal basic liberties are lexically prior; fair equality of opportunity and  |
+| the difference principle then regulate the background institutions through which property    |
+| and advantage are distributed                                                                |
+| 06. RONALD DWORKIN: Equality of resources, tested through hypothetical auction and           |
+| insurance, aims to neutralise brute luck while preserving responsibility for option luck;    |
+| the distinction is illuminating but difficult to operationalise cleanly                      |
+| 07. HOBHOUSE / TAWNEY / LASKI: These positive liberals/social democrats reject functionless  |
+| or absolute property and subordinate ownership to service, social origin and common welfare  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/25: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba uses the historical "four freedoms" (freedom of speech, freedom of worship,        |
+| freedom from want, freedom from fear) to show that speech/worship exemplify non-             |
+| interference, whereas freedom from want/fear exemplify removal of preventable obstacles.     |
+| Correction: these four freedoms were announced by F.D. Roosevelt in his State of the Union   |
+| address of 6 January 1941; they are distinct from the Atlantic Charter, a separate joint     |
+| FDR-Churchill declaration of August 1941 that set out war aims and post-war principles       |
+| (self-determination, no territorial aggrandizement, freer trade, disarmament) but did not    |
+| itself enumerate the four freedoms. Treat the two as related-but-separate 1941 documents,    |
+| never as one and the same text                                                               |
+| 02. A poor family facing legally open but effectively unaffordable schooling is the cleanest |
+| way to explain why formal freedom can exist without positive freedom                         |
+| 03. Gauba's discussion of affirmative action shows that equality may require preferential    |
+| treatment for deprived sections. "Reverse discrimination" is an objection, not a neutral     |
+| diagnosis; compensatory justice, anti-subordination, representation and fair opportunity are |
+| distinct rationales that must be evaluated separately                                        |
+| 04. A labour contract signed under desperation may be formally voluntary yet substantively   |
+| unequal; this is exactly why Hobhouse questions "freedom of contract" without approximate    |
+| equality of bargaining power                                                                 |
+| 05. Gauba treats progressive taxation and social services as instruments of socio-economic   |
+| equality because financing is based on ability to pay while benefits track social need       |
+| 06. A large estate or productive monopoly is politically different from a house, tools or    |
+| savings for personal security; the former can shape others' livelihoods in a way the latter  |
+| ordinarily does not                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/25: Comparison Matrix (1/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. LIBERTY | Classical/libertarian liberal emphasis = Primarily non-interference, minimal   |
+| coercion, protected private sphere | Positive liberal / social-democratic emphasis = Freedom |
+| needs enabling conditions and welfare safeguards against social vulnerability | Marxist      |
+| emphasis = Freedom requires abolition of alienating class relations and collective control   |
+| over production                                                                              |
+| 02. EQUALITY | Classical/libertarian liberal emphasis = Strongest at equality before law and |
+| open competition; suspicious of material equalization | Positive liberal / social-democratic |
+| emphasis = Accepts equal rights but also progressive reduction of unjust inequalities and    |
+| protection of weaker sections | Marxist emphasis = Targets class inequality as structural    |
+| injustice and seeks socio-economic transformation, not mere formal equality                  |
+| 03. PROPERTY | Classical/libertarian liberal emphasis = Usually defended as liberty,         |
+| security and incentive, though modern liberals qualify absoluteness | Positive liberal /     |
+| social-democratic emphasis = Defensible only if tied to function, public good and reasonable |
+| limits on concentration/inheritance | Marxist emphasis = Personal property may remain, but   |
+| private ownership of major means of production is seen as exploitative and must be           |
+| socialized                                                                                   |
+| 04. CATEGORY | Classical/libertarian liberal emphasis = Basic claim | Positive liberal /     |
+| social-democratic emphasis = Political implication                                           |
+| 05. LOCKEAN LABOUR-BASED PROPERTY | Classical/libertarian liberal emphasis = Labour gives an |
+| initial title subject to leaving enough and as good for others and avoiding spoilage; money  |
+| permits accumulation beyond the spoilage limit, while survival of the first proviso remains  |
+| contested. Gauba notes that Locke still ends up accommodating inequality | Positive liberal  |
+| / social-democratic emphasis = Useful for explaining why liberalism links effort and         |
+| ownership, but insufficient for explaining inherited and large-scale capitalist inequality   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/25: Comparison Matrix (2/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 06. HEGELIAN PERSONHOOD PROPERTY | Classical/libertarian liberal emphasis = Some property    |
+| gives free will an external sphere and supports recognition as a person within Abstract      |
+| Right | Positive liberal / social-democratic emphasis = This justifies a domain of           |
+| personhood-supporting property, not unlimited accumulation or immunity from social           |
+| regulation                                                                                   |
+| 07. PERSONAL PROPERTY | Classical/libertarian liberal emphasis = Property for use, security  |
+| and ordinary self-development is not the primary Marxist target | Positive liberal / social- |
+| democratic emphasis = This category helps avoid the false claim that socialism seeks         |
+| abolition of every possession                                                                |
+| 08. MEANS OF PRODUCTION | Classical/libertarian liberal emphasis = Property in land, capital |
+| and productive assets determines who controls labour and social output | Positive liberal /  |
+| social-democratic emphasis = This is the real battleground of socialist and Marxist critique |
+| 09. FUNCTION-REGULATED PROPERTY | Classical/libertarian liberal emphasis = Hobhouse, Tawney  |
+| and Laski seek to preserve property only under limits of service, function and common        |
+| welfare | Positive liberal / social-democratic emphasis = This is the classic social-        |
+| democratic middle path between absolutism and abolition                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/25: Examiner Trap Firewall (1/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Positive liberty means the state may command whatever it likes => REPAIR: Positive |
+| liberty means removing socially alterable obstacles to self-development; it does not justify |
+| unlimited authority                                                                          |
+| 02. TRAP: Berlin, Green, Hayek and Nozick use "positive liberty" in the same way => REPAIR:  |
+| Berlin's self-mastery category differs from Green's enabling freedom, while Hayek and Nozick |
+| resist the redistributive conclusions associated with positive liberalism                    |
+| 03. TRAP: Liberty and equality are natural enemies => REPAIR: Gauba treats them as           |
+| complementary when liberty is understood as equal liberty and equality as reasonable, not    |
+| literal, equalization                                                                        |
+| 04. TRAP: Equality means identical treatment or identical shares for all => REPAIR: Gauba    |
+| explicitly rejects literal equalization and allows differential treatment on grounds of need |
+| and socially useful excellence                                                               |
+| 05. TRAP: Formal equality before law automatically yields justice => REPAIR: Gauba stresses  |
+| that legal access and political rights may remain ineffective amid poverty, hierarchy and    |
+| unequal bargaining power                                                                     |
+| 06. TRAP: Substantive equality means identical outcomes => REPAIR: It may require fair       |
+| opportunity, capability thresholds, a social minimum or limits on avoidable deprivation      |
+| without erasing every difference produced by choice                                          |
+| 07. TRAP: Affirmative action is neutrally described as reverse discrimination => REPAIR:     |
+| Reverse discrimination is an objection; compensatory, anti-subordination, representational   |
+| and fair-opportunity justifications must be assessed on their own terms                      |
+| 08. TRAP: Property is one undifferentiated right => REPAIR: The chapters distinguish         |
+| security-giving personal holdings from productive assets that can become instruments of      |
+| power over others                                                                            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/25: Examiner Trap Firewall (2/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 09. TRAP: Marxism abolishes every form of property => REPAIR: Gauba says its target is       |
+| bourgeois/private property in the means of production, not personal property as such         |
+| 10. TRAP: "Liberty has exactly two concepts - negative and positive." => REPAIR: That pair   |
+| is Gauba's framing (PDF pp.375-381) and is the safe default, but contemporary theory         |
+| recognises a third family, republican liberty as non-domination, which asks whether a person |
+| is subject to another's arbitrary power rather than whether interference has occurred (?22). |
+| Naming it - with the caution that it is outside Gauba's own framing - is a depth marker, not |
+| a deviation                                                                                  |
+| 11. TRAP: "Non-domination is just negative liberty restated." => REPAIR: They diverge on the |
+| benevolent-master case (unfree without interference) and on heavily but answerably regulated |
+| citizens (interfered with without loss of standing); a probability-of-interference re-       |
+| description cannot generate both verdicts (?22.5, Objection 4)                               |
+| 12. TRAP: 2025: salient features of equality according to J.S. Mill; why liberty and         |
+| equality remain inadequate without justice                                                   |
+| 13. TRAP: 2024: critically evaluate liberty and equality as political ideals                 |
+| 14. TRAP: 2022: complete liberty, inequality and the loss of freedom through                 |
+| order/restriction                                                                            |
+| 15. TRAP: Framework: define => REPAIR: separate negative liberty, self-mastery and enabling  |
+| freedom -> distinguish formal/substantive equality -> apply the alterability-but-not-        |
+| sufficiency test -> reconcile through equal liberty and justice                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/25: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Justice linkage: Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md and        |
+| Political-Theory/advanced/19_Justice-Concepts-and-Dimensions.md carry these ideals into the  |
+| language of legal, political and socio-economic justice                                      |
+| 02. Companion depth: Political-Theory/advanced/18_Liberty-Equality-and-Property.md           |
+| reconstructs Berlin, Hayek, Locke, Marx and the Hobhouse-Tawney-Laski line in greater detail |
+| 03. The next justice topic in this module takes up rival theories of justice more directly;  |
+| use this file first so that later justice debates do not float free from liberty, equality   |
+| and property                                                                                 |
+| 04. For implementation, welfare design and outcome-based discussion, move in prose to the    |
+| Social-Justice module rather than overloading this conceptual file with institutional detail |
+| 05. Do not convert this file into a constitutional-rights summary. -> Its job is conceptual  |
+| clarification, not Article-wise Polity exposition                                            |
+| 06. Third liberty family: republican liberty as non-domination (Pettit, Skinner) is          |
+| reconstructed in full in ?22 of this file - mechanism, benevolent-master illustration, law-  |
+| as-freedom-enhancing, four objection->reply chains, a three-column comparison table and its  |
+| own answer architecture. It is a named-scholar addition outside Gauba's PDF pp.367-390       |
+| range, tagged throughout, and is no longer optional-Advanced material                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 20/25: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Liberty in society means absence of unreasonable restraint, not absence of all restraint |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Negative liberty protects a sphere of non-interference; positive liberty removes social  |
+| obstacles that policy can alter                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Equality is a right-claim grounded in equal worth, not a factual claim that all persons  |
+| are identical                                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Formal equality matters, but substantive equality asks whether actual opportunities are  |
+| widened for weaker sections                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Property is politically contentious because it can provide security to its holder and    |
+| domination over others when concentrated                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 21/25: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 06. Locke links property to labour; social democrats link it to function and common good;    |
+| Marxists attack private ownership of means of production                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. One-line answer spine: liberty becomes just only as equal liberty, equality becomes real |
+| only when substantive, and property becomes defensible only when subordinated to social      |
+| welfare rather than domination                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Two-line expansion: begin with a definition, distinguish negative/positive liberty and   |
+| formal/substantive equality, then show how property distribution shapes both freedom and     |
+| equality in practice                                                                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 22/25: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Liberty, equality and property are treated as core political ideals, but Gauba shows     |
+| that each ideal changes meaning once we ask who really enjoys it and under what social       |
+| conditions                                                                                   |
+| 02. Distinction - What to say precisely                                                      |
+| 03. A poor family facing legally open but effectively unaffordable schooling is the cleanest |
+| way to explain why formal freedom can exist without positive freedom                         |
+| 04. Positive liberty means the state may command whatever it likes. -> Positive liberty      |
+| means removing socially alterable obstacles to self-development; it does not justify         |
+| unlimited authority                                                                          |
+| 05. Thinker/unit - Core claim - Significance - Limit to name alongside it                    |
+| 06. Once ownership yields monopoly, control of capital or bargaining superiority, it becomes |
+| power over others' labour and life-chances, not merely private enjoyment (Gauba, PDF pp.414  |
+| 07. Liberty becomes universal only as equal liberty - one person's non-interference cannot   |
+| be allowed to destroy another's                                                              |
+| 08. Directive word - What the examiner expects - How to open this topic's answer             |
+| 09. The claim: for the negative tradition, every law is pro tanto a reduction of liberty     |
+| 10. Main direct-book anchors used here: liberty at PDF pp.367-390; equality at PDF           |
+| pp.391-412; property at PDF pp.413-431                                                       |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 23/25: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| unreasonable                                                                                 |
+| 02. Self-mastery:; Enabling freedom:; Republican liberty / non-domination:; Fair; Rawls:;    |
+| Dworkin:; Mill on equality:                                                                  |
+| 03. Correction:; distinct from; Equality; Opportunity; Outcome; Rawls; Dworkin               |
+| 04. third family; 2025:; 2024:; 2022:; Third liberty family:; non-domination; Property       |
+| 05. Berlin; MacCallum; Taylor; Named Liberty; Evidence; SESSION; Thinker                     |
+| 06. functionless property; Justice in acquisition:; Justice in transfer:; Justice in         |
+| rectification:; not; Functionless Property; Nozick                                           |
+| 07. equal; Proposed synthesis, not a shared canonical doctrine:; Objection 1:; Reply:;       |
+| Objection 2:; Objection 3:; Synthesis                                                        |
+| 08. 10-mark qualified-thesis template:; 15-mark qualified-thesis template:; Provenance note  |
+| (read first).; what kind of obstacle counts; what kind of relationship; and; Attribution,    |
+| stated cautiously:                                                                           |
+| 09. Central debate used as the model:; P1:; P2:; P3:; Mechanism:; Conclusion (qualified):;   |
+| The claim:                                                                                   |
+| 10. 10-mark/~150 words:; 15-mark/~200 words:; ?22 (republican liberty) provenance:; not;     |
+| lens; arbitrary power over others' life-chances; Unit R1 - Claim:                            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 24/25: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Explain why Mill's distinction between self-regarding and other-regarding      |
+| conduct does not make every socially consequential act coercible. Answer in 150 words        |
+| 02. 10 MARKS: Distinguish formal equality, substantive equality, equality of opportunity and |
+| equality of outcome. Can differential treatment serve equality? Answer in 150 words          |
+| 03. 10 MARKS: Compare Berlin's two concepts, Green's positive freedom and republican non-    |
+| domination. Does MacCallum dissolve their differences? Answer in 150 words                   |
+| 04. 15 MARKS: Compare Locke, Hegel and Marx on the moral significance of property. Answer in |
+| 250 words                                                                                    |
+| 05. 15 MARKS: The apparent conflict between liberty and equality is mediated by the          |
+| distribution of property and social power. Evaluate through Rawls, Dworkin and Nozick.       |
+| Answer in 250 words                                                                          |
+| 06. 15 MARKS: Can affirmative action and redistribution enhance equal liberty without        |
+| becoming paternalistic or arbitrary? Discuss using Mill, Berlin, Green, Rawls and Nozick.    |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 25/25: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Liberty, equality and property are treated as core political ideals, but Gauba    |
+| shows that each ideal changes meaning once we ask who really enjoys it and under what social |
+| conditions. Main direct-book anchors used here: liberty at PDF pp. 367-390; equality at PDF  |
+| pp. 391-412; property at PDF pp. 413-431                                                     |
++----------------------------------------------------------------------------------------------+

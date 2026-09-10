@@ -1,232 +1,356 @@
-ASCII MASTER FLOW — PANEL 1/12: Citizenship: Meaning, Status and Democratic Practice
-CENTRAL FOCUS
-Citizenship: Meaning, Status and Democratic Practice
-  [1] Citizenship is a legal status, a bundle of rights and a democratic practice.
-        |
-        v
-  [2] Substantive citizenship tests whether formally equal members can use those rights.
-        |
-        v
-  [3] Citizen-subject is an ideal-type contrast, not a complete history of every regime.
-        |
-        v
-  [4] Answers must distinguish membership, participation, identity and social capacity.
-        |
-        v
-VERDICT -> Citizenship joins legal membership to substantive political agency.
-ANSWER USE -> Begin by distinguishing status, rights, participation and capability.
+ASCII MASTER FLOW — PANEL 1/15: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Citizenship and Its Critiques.                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/16_Citizenship-and-Its-Critiques.md for the full theory-   |
+| by-theory comparison and critiques                                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Historical Genealogy: Aristotle, Locke and Marshall
-CENTRAL FOCUS
-Historical Genealogy: Aristotle, Locke and Marshall
-  [1] Aristotle links citizenship to participation in deliberative and judicial office.
-        |
-        v
-  [2] Modern citizenship expands beyond the polis through rights, representation and
-      nation-state membership.
-        |
-        v
-  [3] Locke supplies a rights-and-trust tradition rather than a full modern citizenship
-      theory.
-        |
-        v
-  [4] Marshall reconstructs civil, political and social rights from the English case.
-        |
-        v
-VERDICT -> Citizenship expanded historically without following one universal sequence.
-ANSWER USE -> Use Aristotle, Locke and Marshall with explicit scope limits.
+ASCII MASTER FLOW — PANEL 2/15: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1469-1527 -> Niccolo Machiavelli                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1608-74 -> John Milton                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1611-77 -> England James Harrington                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1688 -> The exponents of Glorious Revolution                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1712-78 -> Jean Jaques Rousseau                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Liberal, Libertarian, Marxist and Communitarian Models
-CENTRAL FOCUS
-Liberal, Libertarian, Marxist and Communitarian Models
-  [1] Liberal theory protects equal legal status and individual rights.
-        |
-        v
-  [2] Libertarian theory narrows compulsory provision and redistributive social
-      citizenship.
-        |
-        v
-  [3] Marxist critique asks whether formal equality masks class dependence.
-        |
-        v
-  [4] Communitarian theory stresses belonging, shared practices and reciprocal obligation.
-        |
-        v
-VERDICT -> Citizenship theories disagree over liberty, equality, class and belonging.
-ANSWER USE -> Compare each model through rights, duties, membership and exclusion.
+ASCII MASTER FLOW — PANEL 3/15: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1762 -> Rousseau in his Social Contract                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1762 -> Social Contract                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1776 -> American Revolution                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1789 -> The idea of citizenship reached its zenith with the French Revolution            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1792 -> Mary Wollstonecraft                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1815-98 -> Prince Bismarck                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Republican Citizenship, Public Action and Membership
-CENTRAL FOCUS
-Republican Citizenship, Public Action and Membership
-  [1] Republican citizenship connects freedom with participation and non-domination.
-        |
-        v
-  [2] Arendt links citizenship to a public world in which persons can appear and act.
-        |
-        v
-  [3] Walzer treats membership as a distinct sphere with distributive significance.
-        |
-        v
-  [4] Barber's strong democracy intensifies participatory self-government.
-        |
-        v
-VERDICT -> Public action, membership and participation are related but distinct.
-ANSWER USE -> Keep Arendt, Walzer and Barber in their correct argumentative roles.
+ASCII MASTER FLOW — PANEL 4/15: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1891-1937 -> Antonio Gramsci                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1939-45 -> Second World War                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1942 -> It reached its zenith with the publication of Beveridge Report                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1950 -> Marshall in his Citizenship and Social Class                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1950 -> In his Citizenship and Social Class                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1974 -> In his Anarchy, State and Utopia                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Rights, Duties, Obligation and Reciprocity
-CENTRAL FOCUS
-Rights, Duties, Obligation and Reciprocity
-  [1] Duties include lawfulness, taxes, civic contribution and protection of institutions.
-        |
-        v
-  [2] Political obligation remains conditional on legitimacy rather than mere legal
-      status.
-        |
-        v
-  [3] Reciprocity asks whether members both receive protection and sustain common
-      institutions.
-        |
-        v
-  [4] A rights-duty answer must not convert citizenship into unconditional obedience.
-        |
-        v
-VERDICT -> Reciprocal citizenship supports duties without licensing unconditional obedience.
-ANSWER USE -> Connect contribution to legitimate and non-dominating institutions.
+ASCII MASTER FLOW — PANEL 5/15: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1981 -> Works A Contemporary Critique of Historical Materialism                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1982 -> Profiles and Critiques of Social Theory                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1985 -> In his recent work The Nation State and Violence                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1989 -> David Held in his Political Theory and the Modern State                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Theses, Directives and Comparative Answer Design
-CENTRAL FOCUS
-Theses, Directives and Comparative Answer Design
-  [1] A thesis should name the model of citizenship and the exclusion it diagnoses.
-        |
-        v
-  [2] Directive control determines whether the answer explains, compares or evaluates.
-        |
-        v
-  [3] Marshall answers need sequence, English-case limits and the welfare-state mechanism.
-        |
-        v
-  [4] Migration answers must separate nationality, identity, residence and political
-      membership.
-        |
-        v
-VERDICT -> Directive control prevents history, theory and critique from becoming a list.
-ANSWER USE -> State the citizenship model and the precise exclusion under review.
+ASCII MASTER FLOW — PANEL 6/15: Chapter Spine
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE                                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba starts with citizenship as reciprocal membership, then distinguishes it from mere  |
+| subjecthood (PDF pp.324-325)                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He next traces a stylised Western genealogy from ancient restricted citizenship to       |
+| modern mass citizenship based increasingly on rights (PDF pp.325-327). It is not a universal |
+| or automatically progressive history of every political community                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Modern substantive citizenship, for Gauba, is organized through Marshall's triad of      |
+| civil, political and social rights (PDF pp.327-329)                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. The chapter then compares liberal, libertarian, communitarian, Marxist and pluralist     |
+| theories of citizenship (PDF pp.329-334)                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Finally, feminist and subaltern critiques expose how legal equality can coexist with     |
+| actual exclusion, under-representation and discrimination (PDF pp.334-337)                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Feminist, Differentiated, Minority and Subaltern Critiques
-CENTRAL FOCUS
-Feminist, Differentiated, Minority and Subaltern Critiques
-  [1] Feminist critique exposes the public-private split and unequal care burdens.
-        |
-        v
-  [2] Young challenges universal citizenship that assimilates group difference.
-        |
-        v
-  [3] Kymlicka defends differentiated minority rights within liberal citizenship.
-        |
-        v
-  [4] Subaltern critique asks who can speak, organise and convert formal rights into
-      voice.
-        |
-        v
-VERDICT -> Equal treatment can reproduce exclusion when social positions are unequal.
-ANSWER USE -> Distinguish feminist, Young, Kymlicka and subaltern mechanisms.
+ASCII MASTER FLOW — PANEL 7/15: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Ancient Greek city-states limited citizenship to a small body of freemen while excluding |
+| slaves, women and aliens; this is a historical warning against romanticizing classical       |
+| citizenship (PDF p.325)                                                                      |
+| 02. Gauba uses the American civil rights movement to show the gap between formal rights in   |
+| law and substantive access in practice (PDF p.328)                                           |
+| 03. He uses the 1989 Tiananmen Square repression in China as a book-period illustration of   |
+| the gap between formal claims and genuine political rights (PDF p.328). It does not by       |
+| itself establish a claim about every communist system                                        |
+| 04. The feminist section notes that voting rights alone did not ensure equal representation  |
+| of women in legislatures or public authority; treat Gauba's country figures as               |
+| historical/book-period data (PDF pp.335-336)                                                 |
+| 05. Gauba presents reservation for women in panchayats as a starting point toward fuller     |
+| participation from a feminist perspective (PDF p.336)                                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Giddens, Held, Turner and Advanced Citizenship Debates
-CENTRAL FOCUS
-Giddens, Held, Turner and Advanced Citizenship Debates
-  [1] Giddens's conflict account links citizenship expansion to organised struggle.
-        |
-        v
-  [2] His later surveillance analysis should remain separate from the 1982 rights
-      argument.
-        |
-        v
-  [3] Held studies citizenship under overlapping national and transnational authority.
-        |
-        v
-  [4] Turner links citizenship to social closure, embodiment and contested membership.
-        |
-        v
-VERDICT -> Citizenship rights emerge through conflict and changing authority structures.
-ANSWER USE -> Separate Giddens's two arguments and mark later extensions clearly.
+ASCII MASTER FLOW — PANEL 8/15: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. FORMAL VS SUBSTANTIVE CITIZENSHIP | Side A = Legal membership and nominal rights (PDF    |
+| p.325) | Side B = Actual enjoyment and enforcement of rights in practice (PDF pp.325,        |
+| 327-329) | Exam use = Do not assume legal inclusion means lived equality                     |
+| 02. UNIVERSAL VS DIFFERENTIATED CITIZENSHIP | Side A = Same formal status for all citizens | |
+| Side B = Group-sensitive remedies where historic exclusion blocks equal participation | Exam |
+| use = Use to explain feminist/subaltern critiques                                            |
+| 03. MARSHALL'S TRIAD | Side A = Civil rights: liberty, speech, property, equality before law |
+| (PDF p.327) | Side B = Political rights: voting/office; social rights: welfare/social        |
+| heritage (PDF pp.327-329) | Exam use = Marshall's sequence is an English historical model,   |
+| not a universal chronology                                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship
-CENTRAL FOCUS
-Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship
-  [1] Jus soli assigns nationality through territorial birth; jus sanguinis through
-      descent.
-        |
-        v
-  [2] Statelessness means no state considers the person its national under its law.
-        |
-        v
-  [3] Denizens possess durable residence and substantial rights without full political
-      membership.
-        |
-        v
-  [4] Migration reveals governance without equal authorship of binding rules.
-        |
-        v
-VERDICT -> Migration separates residence, nationality and political authorship.
-ANSWER USE -> Define each legal status before evaluating inclusion or exclusion.
+ASCII MASTER FLOW — PANEL 9/15: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Citizen and subject are interchangeable." => REPAIR: Gauba separates them         |
+| sharply; citizenship presupposes a community where rule is authorized procedurally and non-  |
+| discriminatorily (PDF pp.324-325)                                                            |
+| 02. TRAP: "Citizenship is only a bundle of rights." => REPAIR: It is reciprocal status       |
+| involving duties, obligations and allegiance as well (PDF p.324)                             |
+| 03. TRAP: "Marshall gives a universal, necessary three-stage chronology for all countries."  |
+| => REPAIR: His sequence is drawn from England and is best treated as a historical model, not |
+| a law of development (PDF pp.327-330)                                                        |
+| 04. TRAP: "Once legal equality is granted, feminist critique is over." => REPAIR: Gauba      |
+| shows that under-representation, domestic role expectations and unequal opportunities        |
+| persist despite formal equality (PDF pp.334-336)                                             |
+| 05. TRAP: "Subaltern critique is only about class." => REPAIR: Gauba expands it to all       |
+| groups discriminated against on irrelevant grounds such as caste, gender, religion,          |
+| language, age, region or vocation (PDF pp.336-337)                                           |
+| 06. TRAP: "Gauba's subaltern category is identical to every use of subaltern." => REPAIR:    |
+| His broad grouping must be distinguished from Gramsci's vocabulary, Subaltern Studies and    |
+| Spivak's later intervention                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Citizenship, Legal Nationality, National Identity and Civic Capability
-CENTRAL FOCUS
-Citizenship, Legal Nationality, National Identity and Civic Capability
-  [1] Citizenship names domestic legal-political membership and its rights and duties.
-        |
-        v
-  [2] Legal nationality is the person-state bond recognised in international law.
-        |
-        v
-  [3] National identity is cultural or political identification, not a documentary
-      synonym.
-        |
-        v
-  [4] The ECI literacy anchor illustrates civic capability without proving equal
-      participation.
-        |
-        v
-VERDICT -> Civic literacy builds capability but does not prove equal democratic power.
-ANSWER USE -> Use the verified ECI anchor with a clear evidence boundary.
+ASCII MASTER FLOW — PANEL 10/15: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/16_Citizenship-and-Its-Critiques.md for the full theory-   |
+| by-theory comparison and critiques                                                           |
+| 02. Use Political-Theory/basic/06_Feminism-Sex-and-Gender.md for the broader theory of       |
+| patriarchy underlying the feminist critique of citizenship                                   |
+| 03. Use Polity/advanced/06_Citizenship.md for constitutional-legal citizenship in India;     |
+| this file stays at the conceptual level                                                      |
+| 04. Use Philosophy/paper-2/socio-political/Gender-Discrimination.md if you want a            |
+| Philosophy-optional extension of the gender-exclusion argument                               |
+| 05. Boundary: do not reproduce Articles, statutory rules or constitutional case law here;    |
+| link outward to Polity for those details                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close options test legal status versus effective capability and identity versus
-      nationality.
-        |
-        v
-  [2] Arendt, Walzer and Barber address public action, membership and participation
-      differently.
-        |
-        v
-  [3] Young's differentiated citizenship is not Kymlicka's complete minority-rights
-      framework.
-        |
-        v
-  [4] Marshall's sequence is an English reconstruction, not a universal law of
-      development.
-        |
-        v
-VERDICT -> Close options turn on holder, mechanism, provenance and scope.
-ANSWER USE -> Correct the tempting overclaim before selecting the answer.
+ASCII MASTER FLOW — PANEL 11/15: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Define citizenship first as a two-way relationship of rights and duties (PDF p.324)      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Immediately distinguish citizen from subject, and substantive from merely formal         |
+| citizenship (PDF pp.324-325)                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Then organize the body around Marshall's civil-political-social triad (PDF pp.327-329)   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add one line that Marshall's order is historically English, not universally mandatory    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Finish with the critiques: feminist critique shows under-representation; subaltern       |
+| critique shows deeper structures of exclusion despite formal equality (PDF pp.334-337)       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. One-line conclusion: citizenship becomes real only when equal status in law is matched   |
+| by equal capability to participate and claim rights                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] One cross-applied PYQ asks whether rights make citizens accountable to the state.
-        |
-        v
-  [2] Primary ownership remains Philosophy Paper II - Individual and State.
-        |
-        v
-  [3] Six original questions test genealogy, theories, critiques and migration boundaries.
-        |
-        v
-  [4] Final recall: equal status is incomplete without usable voice and non-dominated
-      membership.
-        |
-        v
-VERDICT -> Cross-application preserves PYQ ownership while testing citizenship logic.
-ANSWER USE -> End on fair membership, usable voice and resistance to domination.
+ASCII MASTER FLOW — PANEL 12/15: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. The chapter turns citizenship from a mere legal label into a structured status of        |
+| rights, duties and participation (PDF pp.324-327)                                            |
+| 02. Gauba starts with citizenship as reciprocal membership, then distinguishes it from mere  |
+| subjecthood (PDF pp.324-325)                                                                 |
+| 03. Aristotle: defines the citizen through sharing in deliberative and judicial office       |
+| within the polis; the model remained restricted to a limited body and was not universal      |
+| membership (PDF                                                                              |
+| 04. Distinction - Side A - Side B - Exam use                                                 |
+| 05. Use Political-Theory/advanced/16_Citizenship-and-Its-Critiques.md for the full theory-   |
+| by-theory comparison and critiques                                                           |
+| 06. Thinker/unit - Core claim to name in an answer - Significance for this debate - Limit to |
+| state alongside it                                                                           |
+| 07. Migration strand: cross-border movement strains nationally bounded citizenship because   |
+| residence, legal nationality, national identity and political membership can diverge         |
+| 08. India's single-citizenship constitutional design is named here only as an illustration   |
+| of one institutional choice among the options this file discusses; article-level detail      |
+| belongs to                                                                                   |
+| 09. Directive word - What the examiner expects - How to open this topic's answer             |
+| 10. # - Move - What to do here                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/15: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| citizen from subject                                                                         |
+| 02. Subject vs citizen:; Formal vs substantive citizenship:; Negative vs positive rights     |
+| within citizenship:; Civil, political and social rights:; Universal vs differentiated        |
+| citizenship:; Historical Genealogy; Aristotle                                                |
+| 03. Aristotle:; Rousseau:; Locke:; T.H. Marshall:; Robert Nozick:; Hannah Arendt:; Michael   |
+| Walzer:                                                                                      |
+| 04. Formal vs substantive citizenship; Universal vs differentiated citizenship; Marshall's   |
+| triad; English historical model; "Citizen and subject are interchangeable."; "Citizenship is |
+| only a bundle of rights."; "Once legal equality is granted, feminist critique is over."      |
+| 05. two-way relationship; Rights; Duties; Obligation; Reciprocity; SESSION; Cross-links      |
+| 06. external protections; internal restrictions; Theses; Directives; Comparative Answer;     |
+| Design; SESSION                                                                              |
+| 07. Feminist strand (boundary-respecting):; Postcolonial strand:; Migration strand:;         |
+| Stateless person:; Denizenship (Tomas Hammar):; Jus soli:; Jus sanguinis:                    |
+| 08. Objection 1:; Reply:; Objection 2:; Objection 3:; Giddens; Held; Turner                  |
+| 09. 10-mark qualified-thesis template:; 15-mark qualified-thesis template:; Central debate   |
+| used as the model:; P1:; P2:; P3:; Mechanism:                                                |
+| 10. 10-mark/~150 words:; 15-mark/~200 words:; Identify the proposition and the concept;      |
+| Reconstruct the strongest argument for it; Test the counterargument and the conditions;      |
+| Apply named evidence; Give a graded verdict                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/15: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Explain how the movement from Aristotle's restricted participatory citizenship |
+| to modern reciprocal membership transforms the citizen-subject distinction. Answer in 150    |
+| words                                                                                        |
+| 02. 10 MARKS: Elucidate Marshall's civil, political and social rights. Why is their English  |
+| sequence not universally necessary? Answer in 150 words                                      |
+| 03. 10 MARKS: Compare liberal, libertarian, communitarian-republican, Marxist and pluralist  |
+| theories of citizenship. Answer in 150 words                                                 |
+| 04. 15 MARKS: Formal equality can coexist with substantive subordination. Discuss through    |
+| feminist and subaltern critiques of citizenship. Answer in 250 words                         |
+| 05. 15 MARKS: Critically evaluate group-differentiated citizenship through Iris Marion Young |
+| and Will Kymlicka. Answer in 250 words                                                       |
+| 06. 15 MARKS: Does migration expose the limits of nationally bounded citizenship? Discuss    |
+| nationality, national identity, statelessness, denizenship, jus soli and jus sanguinis.      |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/15: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: India's single-citizenship constitutional design is named here only as an         |
+| illustration of one institutional choice among the options this file discusses; article-     |
+| level detail belongs to. Migration strand: cross-border movement strains nationally bounded  |
+| citizenship because residence, legal nationality, national identity and political membership |
+| can diverge. A high-band answer therefore names the position, names the mechanism, names the |
+| objection and then says exactly how far the claim still holds                                |
++----------------------------------------------------------------------------------------------+

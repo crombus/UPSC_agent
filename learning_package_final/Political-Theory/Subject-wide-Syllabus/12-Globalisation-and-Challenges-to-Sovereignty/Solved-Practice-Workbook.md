@@ -1,1035 +1,820 @@
 ---
 topic_key: political-theory-12
 title: Globalisation and Challenges to Sovereignty — Solved Practice Workbook
-generation_identity: political-theory-12:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-12:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Globalisation and Challenges to Sovereignty — Solved Practice Workbook
 
-**Generation:** learner-v2:g3  
-**PYQ ownership:** No directly owned verified PYQ is assigned to this topic; all questions below are original practice.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 12 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Imperialism**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+### MCQ 1
 
-B. relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
+Which proposition is correctly associated with **Imperialism**?
 
-C. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- A. domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+- B. Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+- C. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- D. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
 
-D. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Imperialism.
+- **B:** B Attaches to Market, not Imperialism.
+- **C:** C Attaches to Pooled and delegated sovereignty (analytical addition, not in Gauba), not Imperialism.
+- **D:** D Attaches to Neo-colonialism, not Imperialism.
 
-**Explanation:** The canonical Basic owner pairs **Imperialism** with **domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-A metropolitan centre dominates distant territories without direct settlement being necessary. Which concept is broad enough to cover this relation?
-
-A. Edward Said
-
-B. Imperialism
-
-C. State
-
-D. Neo-colonialism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).** with **Imperialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Imperialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Colonialism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Colonialism**?
 
-A. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- A. sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+- B. implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- C. helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- D. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
 
-B. international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).
+**Answer: B**
 
-C. implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+**Option-by-option explanation**
+- **A:** A Attaches to Lenin, not Colonialism.
+- **B:** B States the source-recorded proposition for Colonialism.
+- **C:** C Attaches to Edward Said, not Colonialism.
+- **D:** D Attaches to Constraint vs disappearance, not Colonialism.
 
-D. Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Colonialism** with **implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Foreign settlement and direct territorial rule are the defining features of which form of domination?
-
-A. J.A. Hobson
-
-B. Market
-
-C. Power blocs
-
-D. Colonialism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).** with **Colonialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Colonialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Neo-colonialism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Neo-colonialism**?
 
-A. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- A. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- B. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+- C. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- D. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
 
-B. Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.
+**Answer: C**
 
-C. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+**Option-by-option explanation**
+- **A:** A Attaches to Pooled and delegated sovereignty (analytical addition, not in Gauba), not Neo-colonialism.
+- **B:** B Attaches to Power blocs, not Neo-colonialism.
+- **C:** C States the source-recorded proposition for Neo-colonialism.
+- **D:** D Attaches to Imperialism vs neo-colonialism, not Neo-colonialism.
 
-D. interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Neo-colonialism** with **formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-A formally independent state remains dependent on external finance, prices, technology and corporate power. Which concept best explains this?
-
-A. Lenin
-
-B. Neo-colonialism
-
-C. Citizenship
-
-D. Globalization
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).** with **Neo-colonialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Neo-colonialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Power blocs**? Other options belong to different named entries.
+Which proposition is correctly associated with **Power blocs**?
 
-A. already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).
+- A. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+- B. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- C. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- D. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
 
-B. one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
+**Answer: D**
 
-C. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+**Option-by-option explanation**
+- **A:** A Attaches to Imperialism vs neo-colonialism, not Power blocs.
+- **B:** B Attaches to Neo-colonialism, not Power blocs.
+- **C:** C Attaches to Pooled and delegated sovereignty (analytical addition, not in Gauba), not Power blocs.
+- **D:** D States the source-recorded proposition for Power blocs.
 
-D. sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Power blocs** with **Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-A weaker state retains legal independence but faces military and diplomatic pressure to follow a superpower camp. Which concept applies?
-
-A. Kwame Nkrumah
-
-B. Imperialism
-
-C. Liberalization / privatization
-
-D. Power blocs
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).** with **Power blocs**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Power blocs by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Globalization**? Other options belong to different named entries.
+Which proposition is correctly associated with **Globalization**?
 
-A. worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and privatization (PDF pp.214-217).
+- A. worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and.
+- B. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness.
+- C. relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding.
+- D. international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF.
 
-B. treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.
+**Answer: A**
 
-C. Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Globalization.
+- **B:** B Attaches to Gauba's balanced appraisal, not Globalization.
+- **C:** C Attaches to Liberalization / privatization, not Globalization.
+- **D:** D Attaches to Legal sovereignty vs actual power, not Globalization.
 
-D. domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Globalization** with **worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and privatization (PDF pp.214-217)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Production, finance, communication, culture and environmental effects become increasingly interconnected across borders. Which concept names this process?
-
-A. Gauba's balanced appraisal
-
-B. Globalization
-
-C. Colonialism
-
-D. Pooled and delegated sovereignty (analytical addition, not in Gauba)
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and privatization (PDF pp.214-217).** with **Globalization**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Globalization by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Liberalization / privatization**? Other options belong to different named entries.
+Which proposition is correctly associated with **Liberalization / privatization**?
 
-A. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- A. international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).
+- B. relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding.
+- C. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- D. Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).
 
-B. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
+**Answer: B**
 
-C. relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
+**Option-by-option explanation**
+- **A:** A Attaches to Legal sovereignty vs actual power, not Liberalization / privatization.
+- **B:** B States the source-recorded proposition for Liberalization / privatization.
+- **C:** C Attaches to Formal independence vs effective autonomy, not Liberalization / privatization.
+- **D:** D Attaches to Globalization as process vs globalization as policy, not Liberalization / privatization.
 
-D. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Liberalization / privatization** with **relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-A government deliberately relaxes economic controls and transfers state enterprises to private ownership. Which policy pair is involved?
-
-A. State
-
-B. Neo-colonialism
-
-C. IMF and World Bank
-
-D. Liberalization / privatization
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).** with **Liberalization / privatization**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Liberalization / privatization by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Pooled and delegated sovereignty (analytical addition, not in Gauba)**? Other options belong to different named entries.
+Which proposition is correctly associated with **Pooled and delegated sovereignty (analytical addition, not in Gauba)**?
 
-A. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- A. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- B. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+- C. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+- D. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
 
-B. helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+**Answer: C**
 
-C. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+**Option-by-option explanation**
+- **A:** A Attaches to Neo-colonialism, not Pooled and delegated sovereignty (analytical addition, not in Gauba).
+- **B:** B Attaches to Power blocs, not Pooled and delegated sovereignty (analytical addition, not in Gauba).
+- **C:** C States the source-recorded proposition for Pooled and delegated sovereignty (analytical addition, not in Gauba).
+- **D:** D Attaches to Imperialism vs neo-colonialism, not Pooled and delegated sovereignty (analytical addition, not in Gauba).
 
-D. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Pooled and delegated sovereignty (analytical addition, not in Gauba)** with **two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which analytical distinction separates joint institutional decision-making from authorising a body to perform a defined adjudicative or administrative function?
-
-A. Market
-
-B. Pooled and delegated sovereignty (analytical addition, not in Gauba)
-
-C. Power blocs
-
-D. Multinational Corporations (MNCs)
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.** with **Pooled and delegated sovereignty (analytical addition, not in Gauba)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Pooled and delegated sovereignty (analytical addition, not in Gauba) by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **IMF and World Bank**? Other options belong to different named entries.
+Which proposition is correctly associated with **IMF and World Bank**?
 
-A. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+- A. Multinational Corporations (MNCs): already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212)
+- B. World Trade Organization (WTO) ( contemporary institutional illustration, not named in Gauba's 2009-edition text): treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation
+- C. Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism.
+- D. IMF and World Bank: Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf
 
-B. interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).
+**Answer: D**
 
-C. Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.
+**Option-by-option explanation**
+- **A:** A Attaches to Multinational Corporations (MNCs), not IMF and World Bank.
+- **B:** B Attaches to World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text), not IMF and World Bank.
+- **C:** C Attaches to Kwame Nkrumah, not IMF and World Bank.
+- **D:** D States the source-recorded proposition for IMF and World Bank.
 
-D. Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **IMF and World Bank** with **Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which institutions are the relevant example when a state accepts financing conditions that constrain policy but do not delegate a sovereign function?
-
-A. Citizenship
-
-B. Globalization
-
-C. World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)
-
-D. IMF and World Bank
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.** with **IMF and World Bank**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify IMF and World Bank by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Multinational Corporations (MNCs)**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).
+- A. Multinational Corporations (MNCs) — Multinational Corporations (MNCs): already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212)
+- B. State — worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization.
+- C. Citizenship — relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment.
+- D. Gauba's balanced appraisal — international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's.
 
-B. one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
+**Answer: A**
 
-C. sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+**Option-by-option explanation**
+- **A:** A Faithful pairing: Multinational Corporations (MNCs) is associated with this proposition.
+- **B:** B Source disagrees: State is recorded with Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
+- **C:** C Wrong attachment: Citizenship is recorded with Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).
+- **D:** D Belongs elsewhere: Gauba's balanced appraisal is recorded with globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
 
-D. Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Multinational Corporations (MNCs)** with **already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which actors can narrow practical autonomy through investment control, labour-location choices and profit repatriation without becoming states?
-
-A. Imperialism
-
-B. Multinational Corporations (MNCs)
-
-C. Liberalization / privatization
-
-D. Formal independence vs effective autonomy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).** with **Multinational Corporations (MNCs)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Multinational Corporations (MNCs); nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- A. IMF and World Bank — Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank)
+- B. World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text) — World Trade Organization (WTO) ( contemporary institutional illustration, not named in Gauba's 2009-edition text): treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation
+- C. Kwame Nkrumah — Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation)
+- D. Multinational Corporations (MNCs) — globalization is presented with both promises and dangers; it may spread knowledge.
 
-B. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
+**Answer: B**
 
-C. treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.
+**Option-by-option explanation**
+- **A:** A Source disagrees: IMF and World Bank is recorded with Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.
+- **B:** B Faithful pairing: World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text) is associated with this proposition.
+- **C:** C Belongs elsewhere: Kwame Nkrumah is recorded with Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).
+- **D:** D Cross-attached: Multinational Corporations (MNCs) is recorded with already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).
 
-D. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)** with **treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which institution illustrates pooled treaty rule-making together with delegated application of agreed trade rules?
-
-A. Colonialism
-
-B. Pooled and delegated sovereignty (analytical addition, not in Gauba)
-
-C. Legal sovereignty vs actual power
-
-D. World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.** with **World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text); nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Formal independence vs effective autonomy**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- A. Legal sovereignty vs actual power — domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism.
+- B. Globalization as process vs globalization as policy — worldwide interdependence in production, markets, communication and culture; Gauba also describes it as.
+- C. Formal independence vs effective autonomy — a country may become legally sovereign after decolonization yet remain materially constrained by capital.
+- D. Liberalization / privatization — globalization is presented with both promises and dangers; it may spread knowledge.
 
-B. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
+**Answer: C**
 
-C. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+**Option-by-option explanation**
+- **A:** A Misplaced: Legal sovereignty vs actual power is recorded with international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).
+- **B:** B Belongs elsewhere: Globalization as process vs globalization as policy is recorded with Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).
+- **C:** C Exact pair: Formal independence vs effective autonomy is associated with this proposition.
+- **D:** D Cross-attached: Liberalization / privatization is recorded with relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
 
-D. implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Formal independence vs effective autonomy** with **a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which distinction explains why recognised statehood can coexist with severe material dependence?
-
-A. Neo-colonialism
-
-B. Formal independence vs effective autonomy
-
-C. IMF and World Bank
-
-D. Imperialism vs neo-colonialism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).** with **Formal independence vs effective autonomy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Formal independence vs effective autonomy; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Legal sovereignty vs actual power**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- A. Liberalization / privatization — worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy.
+- B. Globalization as process vs globalization as policy — domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction.
+- C. Formal independence vs effective autonomy — globalization is presented with both promises and dangers; it may spread knowledge.
+- D. Legal sovereignty vs actual power — international law may still recognize sovereign equality, but real capacity varies sharply across states (read with.
 
-B. Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
+**Answer: D**
 
-C. international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Liberalization / privatization is recorded with relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
+- **B:** B Not this pair: Globalization as process vs globalization as policy is recorded with Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).
+- **C:** C Mismatched: Formal independence vs effective autonomy is recorded with a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- **D:** D Kept where the source puts it: Legal sovereignty vs actual power is associated with this proposition.
 
-D. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Legal sovereignty vs actual power** with **international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which distinction contrasts juridical equality with unequal administrative, economic and strategic capability?
-
-A. Power blocs
-
-B. Multinational Corporations (MNCs)
-
-C. Power-bloc pressure vs global interdependence
-
-D. Legal sovereignty vs actual power
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).** with **Legal sovereignty vs actual power**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Legal sovereignty vs actual power; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Imperialism vs neo-colonialism**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+- A. Imperialism vs neo-colonialism — the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF.
+- B. Power-bloc pressure vs global interdependence — two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without.
+- C. Neo-colonialism — helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- D. Power blocs — sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
 
-B. Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+**Answer: A**
 
-C. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+**Option-by-option explanation**
+- **A:** A Correct attachment: Imperialism vs neo-colonialism is associated with this proposition.
+- **B:** B Mismatched: Power-bloc pressure vs global interdependence is recorded with one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
+- **C:** C Cross-attached: Neo-colonialism is recorded with formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- **D:** D Wrong attachment: Power blocs is recorded with Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
 
-D. one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Imperialism vs neo-colonialism** with **the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which comparison separates direct or overarching domination from post-independence control through indirect dependency?
-
-A. Globalization
-
-B. Imperialism vs neo-colonialism
-
-C. World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)
-
-D. Globalization as process vs globalization as policy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).** with **Imperialism vs neo-colonialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Imperialism vs neo-colonialism; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Power-bloc pressure vs global interdependence**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+- A. Imperialism vs neo-colonialism — two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal.
+- B. Power-bloc pressure vs global interdependence — one is bipolar strategic compulsion; the other is wider economic, technological.
+- C. Neo-colonialism — helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- D. Power blocs — sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
 
-B. treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.
+**Answer: B**
 
-C. one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
+**Option-by-option explanation**
+- **A:** A Mismatched: Imperialism vs neo-colonialism is recorded with the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+- **B:** B Correct attachment: Power-bloc pressure vs global interdependence is associated with this proposition.
+- **C:** C Wrong attachment: Neo-colonialism is recorded with formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- **D:** D Source disagrees: Power blocs is recorded with Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
 
-D. Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Power-bloc pressure vs global interdependence** with **one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which comparison separates bipolar strategic compulsion from broader economic, technological and ecological linkage?
-
-A. Liberalization / privatization
-
-B. Formal independence vs effective autonomy
-
-C. Constraint vs disappearance
-
-D. Power-bloc pressure vs global interdependence
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).** with **Power-bloc pressure vs global interdependence**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Power-bloc pressure vs global interdependence; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Globalization as process vs globalization as policy**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).
+- A. Liberalization / privatization — domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and.
+- B. Formal independence vs effective autonomy — worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a.
+- C. Globalization as process vs globalization as policy — Gauba treats interdependence as an emerging reality and also describes policy globalization as a.
+- D. Legal sovereignty vs actual power — globalization is presented with both promises and dangers; it may spread knowledge.
 
-B. Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).
+**Answer: C**
 
-C. domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+**Option-by-option explanation**
+- **A:** A Not this pair: Liberalization / privatization is recorded with relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
+- **B:** B Wrong attachment: Formal independence vs effective autonomy is recorded with a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
+- **C:** C Records the association: Globalization as process vs globalization as policy is associated with this proposition.
+- **D:** D Misplaced: Legal sovereignty vs actual power is recorded with international law may still recognize sovereign equality, but real capacity varies sharply across states (read with Gauba's external challenge framing in PDF pp.209, 212-218).
 
-D. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Globalization as process vs globalization as policy** with **Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which distinction separates cross-border structural change from deliberate liberalising choices by governments?
-
-A. Pooled and delegated sovereignty (analytical addition, not in Gauba)
-
-B. Globalization as process vs globalization as policy
-
-C. Legal sovereignty vs actual power
-
-D. Edward Said
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).** with **Globalization as process vs globalization as policy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Globalization as process vs globalization as policy; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Constraint vs disappearance**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+- A. Lenin — the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+- B. Colonialism — interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).
+- C. Edward Said — one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
+- D. Constraint vs disappearance — pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
 
-B. implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+**Answer: D**
 
-C. pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Lenin is recorded with sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+- **B:** B Source disagrees: Colonialism is recorded with implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- **C:** C Misplaced: Edward Said is recorded with helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- **D:** D Source-exact: Constraint vs disappearance is associated with this proposition.
 
-D. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Constraint vs disappearance** with **pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which distinction prevents reduced policy space from being mistaken for the extinction of the state as a legal actor?
-
-A. IMF and World Bank
-
-B. Imperialism vs neo-colonialism
-
-C. J.A. Hobson
-
-D. Constraint vs disappearance
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **pressure on sovereignty changes how it operates; it does not automatically dissolve the state as a legal actor.** with **Constraint vs disappearance**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Constraint vs disappearance; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Edward Said**? Other options belong to different named entries.
+Consider the following statements:
+1. **Edward Said** is associated with: helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+2. **Kwame Nkrumah** is associated with: Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).
+Which option is correct?
 
-A. helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
+**Answer: A**
 
-C. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Edward Said** with **helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which thinker is used here to distinguish broad imperial domination from settlement-based colonialism?
-
-A. Multinational Corporations (MNCs)
-
-B. Edward Said
-
-C. Power-bloc pressure vs global interdependence
-
-D. Lenin
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).** with **Edward Said**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Edward Said does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **J.A. Hobson**? Other options belong to different named entries.
+Consider the following statements:
+1. **J.A. Hobson** is associated with: globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+2. **Gauba's balanced appraisal** is associated with: globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+Which option is correct?
 
-A. Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+**Answer: B**
 
-C. interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **J.A. Hobson** with **interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which thinker explains imperialism through captive markets and condemns it as exploitation?
-
-A. World Trade Organization (WTO) (📰 contemporary institutional illustration, not named in Gauba's 2009-edition text)
-
-B. Globalization as process vs globalization as policy
-
-C. Kwame Nkrumah
-
-D. J.A. Hobson
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).** with **J.A. Hobson**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with J.A. Hobson does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Lenin**? Other options belong to different named entries.
+Consider the following statements:
+1. **Lenin** is associated with: sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+2. **State** is associated with: Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
+Which option is correct?
 
-A. sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).
+**Answer: C**
 
-C. worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and privatization (PDF pp.214-217).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Lenin** with **sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which thinker links imperialism to capitalist expansion for markets, investment outlets and raw materials?
-
-A. Formal independence vs effective autonomy
-
-B. Lenin
-
-C. Constraint vs disappearance
-
-D. Gauba's balanced appraisal
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **sees imperialism as linked to capitalist expansion in search of markets, investment outlets and raw materials (PDF p.210).** with **Lenin**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Lenin does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Kwame Nkrumah**? Other options belong to different named entries.
+Consider the following statements:
+1. **Kwame Nkrumah** is associated with: Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+2. **Market** is associated with: formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+Which option is correct?
 
-A. domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).
+**Answer: D**
 
-C. Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. a country may become legally sovereign after decolonization yet remain materially constrained by capital, technology, price-setting or institutions abroad (PDF pp.210-212).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Kwame Nkrumah** with **Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Who popularised and systematised the canonical 1965 account of neo-colonialism without safely being called the term's originator?
-
-A. Legal sovereignty vs actual power
-
-B. Edward Said
-
-C. State
-
-D. Kwame Nkrumah
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Nkrumah popularised and systematised neo-colonialism for an international audience in his 1965 book Neo-colonialism: The Last Stage of Imperialism, explaining how formal independence may coexist with continued external control through international monetary bodies, world-market price-fixing, multinational corporations/cartels, and educational-cultural institutions (PDF pp.211-212).** with **Kwame Nkrumah**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Kwame Nkrumah does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Gauba's balanced appraisal**? Other options belong to different named entries.
+Consider the following statements:
+1. **Gauba's balanced appraisal** is associated with: globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+2. **Citizenship** is associated with: Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+Which option is correct?
 
-A. globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+**Answer: A**
 
-C. two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. helps distinguish imperialism from colonialism by separating broader domination from settlement-based control (PDF p.209).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Gauba's balanced appraisal** with **globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which position recognises both globalisation's communicative opportunities and its risks of domination and inequality?
-
-A. Imperialism vs neo-colonialism
-
-B. Gauba's balanced appraisal
-
-C. J.A. Hobson
-
-D. Market
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **globalization is presented with both promises and dangers; it may spread knowledge, communication and environmental awareness, but may also deepen domination and inequality (PDF pp.217-218).** with **Gauba's balanced appraisal**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Gauba's balanced appraisal does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **State**? Other options belong to different named entries.
+Consider the following statements:
+1. **State** is associated with: domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+2. **Imperialism** is associated with: domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+Which option is correct?
 
-A. formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the first often uses direct domination; the second uses indirect economic leverage and dependency after independence (PDF pp.209-212).
+**Answer: B**
 
-C. Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. interprets imperialism as a search for captive markets and attacks it as exploitation (PDF p.210).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **State** with **Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which actor still authorises treaties, implements obligations and supplies territorial legal status under interdependence?
-
-A. Power-bloc pressure vs global interdependence
-
-B. Lenin
-
-C. Citizenship
-
-D. State
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Policy autonomy narrows under IMF/World Bank conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank).** with **State**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with State does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Market**? Other options belong to different named entries.
+Consider the following statements:
+1. **Market** is associated with: Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+2. **Colonialism** is associated with: implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+Which option is correct?
 
-A. Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Cold War-era superpower-led military-ideological camps that pressured weaker states and constrained independent action (PDF pp.212-214).
+**Answer: C**
 
-C. already named in Gauba's neo-colonialism discussion as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a developing state's practical economic autonomy even after formal independence (PDF pp.210-212).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. one is bipolar strategic compulsion; the other is wider economic, technological, environmental and cultural linkage (PDF pp.212-218).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Market** with **Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which domain is transformed by cross-border production, capital and labour flows while remaining open to political regulation?
-
-A. Globalization as process vs globalization as policy
-
-B. Market
-
-C. Kwame Nkrumah
-
-D. Imperialism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Production, capital and labour cross borders through MNCs, eroding a state's exclusive control over its own economic space (PDF pp.210-212, 214-217).** with **Market**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Market does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Citizenship**? Other options belong to different named entries.
+Consider the following statements:
+1. **Citizenship** is associated with: formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+2. **Neo-colonialism** is associated with: two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.
+Which option is correct?
 
-A. worldwide interdependence in production, markets, communication and culture; Gauba also describes it as a conscious policy linked to liberalization and privatization (PDF pp.214-217).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. treaty negotiation and collective rule-making contain a pooled element, while authorising panels or adjudicators to apply agreed rules is a delegated element. Both rest on consented treaty commitments rather than unilateral external command. Verify the current operational status of particular dispute-settlement stages from an official WTO source before making a dated claim; do not present this illustration as a Gauba citation.
+**Answer: D**
 
-C. Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Gauba treats interdependence as an emerging reality and also describes policy globalization as a deliberate extension of liberalization and privatization (PDF pp.214-217).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Citizenship** with **Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Citizenship does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which status remains mainly guaranteed territorially even as communication and migration widen rights-claims beyond borders?
+Which correction is most defensible for the claim: **"Globalisation means sovereignty has disappeared."**?
 
-A. Constraint vs disappearance
+- A. Gauba presents challenge, constraint and revision, not automatic extinction of the state (PDF pp.214-218).
+- B. Gauba also links it to communication, culture and environmental spillovers (PDF pp.214-217).
+- C. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+- D. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
 
-B. Gauba's balanced appraisal
+**Answer: A**
 
-C. Colonialism
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba presents challenge, constraint and revision, not automatic extinction of the state (PDF pp.214-218).
+- **B:** B Repairs a different misconception, '"Globalisation is only economic."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Political independence solved the sovereignty problem."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"This topic belongs entirely to IR."', so it does not answer the claim in the stem.
 
-D. Citizenship
+> **Examiner trap:** Repair the exact overstatement about "Globalisation means sovereignty has disappeared.", not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **Global communication, migration and transnational civil-society networks widen a citizen's frame of reference and rights-claims beyond the territorial state (synthesis, not a direct Gauba citation).** with **Citizenship**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Political independence solved the sovereignty problem."**?
+
+- A. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- B. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+- C. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
+- D. Gauba presents challenge, constraint and revision, not automatic extinction of the state (PDF pp.214-218).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+- **C:** C Repairs a different misconception, '"This topic belongs entirely to IR."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Globalisation means sovereignty has disappeared."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Political independence solved the sovereignty, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Cold War examples in the chapter describe today's world as such."**?
+
+- A. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
+- B. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- C. NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+- D. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"This topic belongs entirely to IR."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+- **D:** D Repairs a different misconception, '"Political independence solved the sovereignty problem."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Cold War examples in the chapter describe today's, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Globalisation is only economic."**?
+
+- A. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of.
+- B. Gauba presents challenge, constraint and revision, not automatic extinction of the state (PDF pp.214-218).
+- C. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+- D. Gauba also links it to communication, culture and environmental spillovers (PDF pp.214-217).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"This topic belongs entirely to IR."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Globalisation means sovereignty has disappeared."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Political independence solved the sovereignty problem."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Gauba also links it to communication, culture and environmental spillovers (PDF pp.214-217).
+
+> **Examiner trap:** Repair the exact overstatement about "Globalisation is only economic.", not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **"This topic belongs entirely to IR."**?
+
+- A. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
+- B. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- C. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+- D. NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
+- **B:** B Repairs a different misconception, 'Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Political independence solved the sovereignty problem."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Cold War examples in the chapter describe today's world as such."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "This topic belongs entirely to IR.", not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Imperialism means relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).**?
+
+- A. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- B. Imperialism means domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism.
+- C. NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+- D. Neo-colonialism means formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Imperialism means domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism (PDF pp.209-210).
+- **C:** C Repairs a different misconception, '"Cold War examples in the chapter describe today's world as such."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Neo-colonialism means Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Imperialism means relaxation of state economic, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.**?
+
+- A. NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+- B. IR handles institutions and current order; this Political Theory file studies what those forces do to the concept of sovereignty.
+- C. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- D. Gauba's whole neo-colonialism discussion shows that formal independence may coexist with deep dependency (PDF pp.210-212).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Cold War examples in the chapter describe today's world as such."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"This topic belongs entirely to IR."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- **D:** D Repairs a different misconception, '"Political independence solved the sovereignty problem."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Colonialism means two distinct mechanisms by which, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Neo-colonialism means Gauba's own text names these as the "Western-dominated agencies" whose loan/structural-adjustment terms and conditions developing countries are said to accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). This is a consented but often unequal external constraint, not delegation: the borrowing state accepts conditions attached to finance, but the lender does not thereby exercise a defined sovereign function on the state's behalf.**?
+
+- A. NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical illustrations from a 2009 text (PDF pp.212-214).
+- B. Imperialism means domination by a metropolitan centre over distant territories; Gauba cites Edward Said's distinction between imperialism and colonialism.
+- C. Colonialism means implantation of settlements and direct rule in distant territory; a specific expression of imperialism (PDF p.209).
+- D. Neo-colonialism means formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Cold War examples in the chapter describe today's world as such."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Imperialism means relaxation of state economic controls and transfer of state ownership to private hands, presented by Gauba as part of the policy environment feeding globalization (PDF p.217).', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Colonialism means two distinct mechanisms by which formally sovereign states reorganise the exercise of authority without losing legal sovereignty outright.', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Neo-colonialism means formal political independence combined with continuing economic exploitation and dependency through subtler mechanisms (PDF pp.210-212).
+
+> **Examiner trap:** Repair the exact overstatement about Neo-colonialism means Gauba's own text names these, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ STATUS
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No directly owned verified UPSC PYQ is assigned to this Political Theory topic. Political Theory is a conceptual-support repository, and the source mapping expressly prohibits proxy, alias or synthetic PYQ routing. The questions below are therefore labelled as original practice, not PYQs.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Globalisation and Challenges to Sovereignty** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
----
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 1 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Distinguish formal legal sovereignty from effective autonomy under globalisation. Answer in 150 words.
 
-**Question:** Distinguish formal legal sovereignty from effective autonomy under globalisation. Answer in about 150 words.
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of formal legal sovereignty from effective autonomy under globalisation in the opening line, carry the argument on Introduction, Formal, Core and Legal, and reserve the closing sentences for the qualification that conclusion: Globalisation leaves juridical statehood intact while making effective autonomy a variable achievement shaped by material capacity, bargaining power and the terms of interdependence.
 
+**Model answer (140 words):**
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Formal legal sovereignty and effective autonomy answer different questions about a state's external position. Core analysis: Legal sovereignty means recognised independence and equality: no foreign state possesses lawful title to govern the territory. Effective autonomy concerns whether the state has the material, technological, financial and strategic capacity to make meaningful choices. Gauba's sequence from colonialism to neo-colonialism shows why the two can diverge. A post-colonial state may possess a flag, constitution and international personality while dependence on capital, markets, technology or security guarantees narrows its policy space. Critical evaluation: External constraint is not automatically the same as legal subordination. Analysis must therefore ask who sets the terms, whether alternatives exist and how costs are distributed. Conclusion: Globalisation leaves juridical statehood intact while making effective autonomy a variable achievement shaped by material capacity, bargaining power and the terms of interdependence.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Formal legal sovereignty and effective autonomy answer different questions about a state's external position.
-
-**Core analysis:** Legal sovereignty means recognised independence and equality: no foreign state possesses lawful title to govern the territory. Effective autonomy concerns whether the state has the material, technological, financial and strategic capacity to make meaningful choices. Gauba's sequence from colonialism to neo-colonialism shows why the two can diverge. A post-colonial state may possess a flag, constitution and international personality while dependence on capital, markets, technology or security guarantees narrows its policy space.
-
-**Critical evaluation:** External constraint is not automatically the same as legal subordination. Voluntary cooperation can enlarge capacity, whereas coercive dependence can hollow out nominal freedom. Analysis must therefore ask who sets the terms, whether alternatives exist and how costs are distributed.
-
-**Conclusion:** Globalisation leaves juridical statehood intact while making effective autonomy a variable achievement shaped by material capacity, bargaining power and the terms of interdependence.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish formal legal sovereignty from effective autonomy under globalisation.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Formal, Core and Legal), converts that evidence into analysis of formal legal sovereignty from effective autonomy under globalisation, and keeps the examiner-facing qualification that conclusion: Globalisation leaves juridical statehood intact while making effective autonomy a variable achievement shaped by material capacity, bargaining power and the terms of interdependence. At 140 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** Distinguish imperialism, colonialism and neo-colonialism as challenges to sovereignty. Answer in about 150 words.
+**Question:** Distinguish imperialism, colonialism and neo-colonialism as challenges to sovereignty. Answer in 150 words.
 
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of imperialism, colonialism and neo-colonialism as challenges to sovereignty in the opening line, carry the argument on Introduction, Imperialism, Core and Following Edward Said's, and reserve the closing sentences for the qualification that legal decolonisation therefore does not guarantee substantive autonomy.
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (146 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Imperialism, colonialism and neo-colonialism describe related but distinct mechanisms through which one political economy dominates another. Core analysis: Following Edward Said's distinction, imperialism is the wider project of metropolitan domination, while colonialism is its settlement-based and directly territorial form. Colonial rule openly suppresses sovereignty through administration and extraction. Neo-colonialism persists after formal independence: external control works through trade structures, finance, technology, multinational corporations, pricing power and cultural institutions. Hobson interprets imperialism as exploitation in search of captive markets, Lenin links it structurally to capitalist expansion, and Nkrumah gives neo-colonial dependence its canonical modern formulation. Critical evaluation: The concepts should not be collapsed into a slogan. The decisive test is whether formally sovereign choice is systematically subordinated by unequal structures. Conclusion: The sequence moves from broad domination, through direct territorial rule, to formally independent but materially dependent statehood; legal decolonisation therefore does not guarantee substantive autonomy.
 
-**Introduction:** Imperialism, colonialism and neo-colonialism describe related but distinct mechanisms through which one political economy dominates another.
-
-**Core analysis:** Following Edward Said's distinction, imperialism is the wider project of metropolitan domination, while colonialism is its settlement-based and directly territorial form. Colonial rule openly suppresses sovereignty through administration and extraction. Neo-colonialism persists after formal independence: external control works through trade structures, finance, technology, multinational corporations, pricing power and cultural institutions. Hobson interprets imperialism as exploitation in search of captive markets, Lenin links it structurally to capitalist expansion, and Nkrumah gives neo-colonial dependence its canonical modern formulation.
-
-**Critical evaluation:** The concepts should not be collapsed into a slogan. Indirect influence varies in coerciveness, and every cross-border investment is not neo-colonial. The decisive test is whether formally sovereign choice is systematically subordinated by unequal structures.
-
-**Conclusion:** The sequence moves from broad domination, through direct territorial rule, to formally independent but materially dependent statehood; legal decolonisation therefore does not guarantee substantive autonomy.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish imperialism, colonialism and neo-colonialism as challenges to sovereignty.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Imperialism, Core and Following Edward Said's), converts that evidence into analysis of imperialism, colonialism and neo-colonialism as challenges to sovereignty, and keeps the examiner-facing qualification that legal decolonisation therefore does not guarantee substantive autonomy. At 146 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** How did power blocs constrain sovereignty, and what was the political significance of non-alignment? Answer in about 200 words.
+**Question:** How did power blocs constrain sovereignty, and what was the political significance of non-alignment? Answer in 150 words.
 
+**Demand decode:** the directive `how` requires the answer to state the mechanism step by step and show what each step produces. Fix the boundary of did power blocs constrain sovereignty, and what was the political significance of non-alignment in the opening line, carry the argument on Introduction, Cold War, Core and Military, and reserve the closing sentences for the qualification that alignment could supply protection but also create pressure over bases, diplomacy, armament and development priorities.
 
-**Demand decoding:** The operative directive is **How**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (140 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Cold War power blocs constrained sovereignty by making the security of weaker states dependent on rival superpower camps. Core analysis: Military alliances, ideological rivalry and external guarantees narrowed foreign-policy choice even where territorial independence remained legally intact. Alignment could supply protection but also create pressure over bases, diplomacy, armament and development priorities. Non-alignment under leaders such as Nehru, Nasser and Tito was therefore not passive neutrality. It attempted to preserve sovereign judgment, resist automatic camp discipline and create collective bargaining space for newly independent states. Its significance was normative and strategic: it asserted that juridically equal states should possess practical room to judge issues on their merits rather than inherit another power's enemies. Conclusion: Bloc politics narrowed strategic choice without abolishing statehood, while non-alignment asserted that weaker states could preserve decision-space through organised autonomy rather than compulsory camp membership.
 
-**Introduction:** Cold War power blocs constrained sovereignty by making the security of weaker states dependent on rival superpower camps.
-
-**Core analysis:** Military alliances, ideological rivalry and external guarantees narrowed foreign-policy choice even where territorial independence remained legally intact. Alignment could supply protection but also create pressure over bases, diplomacy, armament and development priorities. Non-alignment under leaders such as Nehru, Nasser and Tito was therefore not passive neutrality. It attempted to preserve sovereign judgment, resist automatic camp discipline and create collective bargaining space for newly independent states.
-
-**Further development:** The mechanism ran from security vulnerability to alliance dependence and then to expectations of diplomatic or military conformity. Non-alignment tried to interrupt that chain through issue-based judgment and post-colonial collective action. It was not equal distance on every dispute, and its success varied with capacity and regional conflict.
-
-**Critical evaluation:** Non-alignment did not eliminate material asymmetry, and states often had to cooperate selectively with both blocs. Its significance was normative and strategic: it asserted that juridically equal states should possess practical room to judge issues on their merits rather than inherit another power's enemies.
-
-**Conclusion:** Bloc politics narrowed strategic choice without abolishing statehood, while non-alignment asserted that weaker states could preserve decision-space through organised autonomy rather than compulsory camp membership.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “How did power blocs constrain sovereignty, and what was the political significance of non-alignment?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `how` instead of drifting into description, attaches each claim to named evidence (Introduction, Cold War, Core and Military), converts that evidence into analysis of did power blocs constrain sovereignty, and what was the political significance of non-alignment, and keeps the examiner-facing qualification that alignment could supply protection but also create pressure over bases, diplomacy, armament and development priorities. At 140 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Explain globalisation as both a process and a policy, with reference to pooled and delegated sovereignty. Answer in about 200 words.
+**Question:** Explain globalisation as both a process and a policy, with reference to pooled and delegated sovereignty. Answer in 250 words.
 
+**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of globalisation as both a process and a policy, with reference to pooled and delegated sovereignty in the opening line, carry the argument on Introduction, Globalisation, Core and As, and reserve the closing sentences for the qualification that conclusion: Globalisation transforms sovereignty through consented but unequal institutional constraints;.
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (215 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Globalisation is both an objective intensification of cross-border interdependence and a policy project that deliberately liberalises markets and reallocates regulatory authority. Core analysis: As process, it connects production, finance, communication, culture and environmental consequences across borders. As policy, liberalisation and privatisation encourage cross-border movement of capital, technology, labour and goods. States pool authority through joint institutional decisions and delegate defined adjudicative, administrative or monitoring functions to treaty bodies. Loan conditionality is different: it is consented external constraint, not performance of a sovereign function on the borrower's behalf. Legal title persists, although practical discretion becomes shared or narrowed. Further development: The distinction clarifies responsibility. Technological or ecological interdependence is not fully chosen, whereas liberalisation, treaty accession and conditional borrowing are open to democratic scrutiny. Pooling can add collective leverage and delegation can add expertise; conditional lending remains a separate bargaining constraint. Each becomes problematic when accountability is bypassed or exit is only formal. Critical evaluation: Formal consent may conceal unequal bargaining power where finance or market access leaves few alternatives. Pooling, delegation and conditional constraint therefore describe different transformations whose legitimacy depends on reciprocity, accountability and meaningful review or exit. Conclusion: Globalisation transforms sovereignty through consented but unequal institutional constraints; pooling and delegation describe altered exercises of authority, not the automatic extinction of legal title.
 
-**Introduction:** Globalisation is both an objective intensification of cross-border interdependence and a policy project that deliberately liberalises markets and reallocates regulatory authority.
-
-**Core analysis:** As process, it connects production, finance, communication, culture and environmental consequences across borders. As policy, liberalisation and privatisation encourage cross-border movement of capital, technology, labour and goods. States pool authority through joint institutional decisions and delegate defined adjudicative, administrative or monitoring functions to treaty bodies. Loan conditionality is different: it is consented external constraint, not performance of a sovereign function on the borrower's behalf. Legal title persists, although practical discretion becomes shared or narrowed.
-
-**Further development:** The distinction clarifies responsibility. Technological or ecological interdependence is not fully chosen, whereas liberalisation, treaty accession and conditional borrowing are open to democratic scrutiny. Pooling can add collective leverage and delegation can add expertise; conditional lending remains a separate bargaining constraint. Each becomes problematic when accountability is bypassed or exit is only formal.
-
-**Critical evaluation:** Formal consent may conceal unequal bargaining power where finance or market access leaves few alternatives. Pooling, delegation and conditional constraint therefore describe different transformations whose legitimacy depends on reciprocity, accountability and meaningful review or exit.
-
-**Conclusion:** Globalisation transforms sovereignty through consented but unequal institutional constraints; pooling and delegation describe altered exercises of authority, not the automatic extinction of legal title.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain globalisation as both a process and a policy, with reference to pooled and delegated sovereignty.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, Globalisation, Core and As), converts that evidence into analysis of globalisation as both a process and a policy, with reference to pooled and delegated sovereignty, and keeps the examiner-facing qualification that conclusion: Globalisation transforms sovereignty through consented but unequal institutional constraints;. At 215 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Has globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and transformationalist positions. Answer in about 250 words.
+**Question:** Has globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and transformationalist positions. Answer in 250 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and transformationalist positions in the opening line, carry the argument on Introduction, Core, Hyperglobalists and Sceptics, and reserve the closing sentences for the qualification that conclusion: The transformationalist judgment is strongest: states remain indispensable legal and political actors, but their capacities, functions and decision-sites are reconstituted through uneven transnational interdependence.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (239 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: The claim that globalisation has ended sovereignty confuses the erosion of insulation with the disappearance of legally and politically organised state authority. Core analysis: Hyperglobalists emphasise global markets, mobile capital, communication networks and transnational governance that displace national control. Sceptics answer that international trade and regional concentration are not wholly new, that states create the rules and that national institutions remain decisive. Transformationalists reject both extremes: globalisation reconstitutes functions, capacities and sites of decision through multilevel authority, pooled institutions and uneven networks. Gauba's balanced account is closest to this view because he calls for revision of external sovereignty rather than announcing its death. Further development: The 15 July 2026 entry into force of the India-UK Comprehensive Economic and Trade Agreement offers a current conceptual anchor. The agreement creates new market-access and regulatory commitments because two sovereign governments negotiated and accepted common rules. It therefore illustrates both persistence and transformation: state consent remains constitutive, but future policy choices operate inside a denser framework. The example cannot establish that every trade agreement is equal or beneficial; distributional effects, safeguards, domestic implementation and parliamentary scrutiny, and the practical costs of withdrawal remain separate empirical questions. The relevant question is therefore which powers are retained, shared or effectively lost, and whether the new arrangements remain democratically answerable. Conclusion: The transformationalist judgment is strongest: states remain indispensable legal and political actors, but their capacities, functions and decision-sites are reconstituted through uneven transnational interdependence.
 
-**Introduction:** The claim that globalisation has ended sovereignty confuses the erosion of insulation with the disappearance of legally and politically organised state authority.
-
-**Core analysis:** Hyperglobalists emphasise global markets, mobile capital, communication networks and transnational governance that displace national control. Sceptics answer that international trade and regional concentration are not wholly new, that states create the rules and that national institutions remain decisive. Transformationalists reject both extremes: globalisation reconstitutes functions, capacities and sites of decision through multilevel authority, pooled institutions and uneven networks. Gauba's balanced account is closest to this view because he calls for revision of external sovereignty rather than announcing its death.
-
-**Further development:** The 15 July 2026 entry into force of the India-UK Comprehensive Economic and Trade Agreement offers a current conceptual anchor. The agreement creates new market-access and regulatory commitments because two sovereign governments negotiated and accepted common rules. It therefore illustrates both persistence and transformation: state consent remains constitutive, but future policy choices operate inside a denser framework. The example cannot establish that every trade agreement is equal or beneficial; distributional effects, safeguards, domestic implementation and parliamentary scrutiny, and the practical costs of withdrawal remain separate empirical questions.
-
-**Critical evaluation:** States still tax, legislate, enforce rights, represent populations and authorise treaties, but they do so under unequal interdependence. The relevant question is therefore which powers are retained, shared or effectively lost, and whether the new arrangements remain democratically answerable.
-
-**Conclusion:** The transformationalist judgment is strongest: states remain indispensable legal and political actors, but their capacities, functions and decision-sites are reconstituted through uneven transnational interdependence.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Has globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and transformationalist positions.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Hyperglobalists and Sceptics), converts that evidence into analysis of globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and transformationalist positions, and keeps the examiner-facing qualification that conclusion: The transformationalist judgment is strongest: states remain indispensable legal and political actors, but their capacities, functions and decision-sites are reconstituted through uneven transnational interdependence. At 239 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 6 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Is globalisation merely a new form of neo-colonialism? Critically discuss. Answer in about 250 words.
+**Question:** Is globalisation merely a new form of neo-colonialism? Critically discuss. Answer in 250 words.
 
+**Demand decode:** the directive `is` requires the answer to take a side, defend it and concede the strongest point against it. Fix the boundary of globalisation merely a new form of neo-colonialism? Critically discuss in the opening line, carry the argument on Introduction, Globalisation, Core and OPEC, and reserve the closing sentences for the qualification that conclusion: Globalisation can reproduce neo-colonial asymmetry, yet it also creates reciprocal institutions, new coalitions and shared capacities;.
 
-**Demand decoding:** The operative directive is **Is**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (248 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Globalisation can operate through neo-colonial structures, but the two concepts are not identical. Core analysis: The neo-colonial thesis explains how formally independent states remain dependent through finance, adverse trade terms, multinational corporations, technology and cultural power. Globalisation can deepen these mechanisms when powerful states and firms write rules, externalise risks and capture gains. Yet global interdependence also permits knowledge diffusion, new markets, transnational advocacy and coalitions among developing countries. OPEC and non-alignment illustrate the possibility of collective resistance, while treaty institutions can constrain powerful states as well as weaker ones when rules are reciprocal. Further development: Three tests sharpen the verdict. First, authorship: did weaker parties participate meaningfully in framing the rule? Second, distribution: are gains, risks and adjustment costs shared or extracted asymmetrically? Third, agency: can affected states build capacity, form coalitions and revise commitments? Where these fail, globalisation reproduces neo-colonial dependence behind formal consent. Where they are present, interdependence may be negotiated cooperation. The neo-colonial lens is therefore indispensable for exposing power, but insufficient if it treats every institution and flow as unilateral domination. Critical evaluation: The correct judgment is institutional and distributive rather than semantic. Globalisation becomes neo-colonial where consent is nominal, alternatives absent and benefits systematically extracted. It is cooperative where rule-making is inclusive, obligations reciprocal and weaker participants gain real capacity. Conclusion: Globalisation can reproduce neo-colonial asymmetry, yet it also creates reciprocal institutions, new coalitions and shared capacities; the answer depends on who authors the rules, distributes gains and retains meaningful exit.
 
-**Introduction:** Globalisation can operate through neo-colonial structures, but the two concepts are not identical.
+**Why this earns marks:** it obeys `is` instead of drifting into description, attaches each claim to named evidence (Introduction, Globalisation, Core and OPEC), converts that evidence into analysis of globalisation merely a new form of neo-colonialism? Critically discuss, and keeps the examiner-facing qualification that conclusion: Globalisation can reproduce neo-colonial asymmetry, yet it also creates reciprocal institutions, new coalitions and shared capacities;. At 248 words it stays inside the 250-word GS ceiling for 15 marks.
 
-**Core analysis:** The neo-colonial thesis explains how formally independent states remain dependent through finance, adverse trade terms, multinational corporations, technology and cultural power. Globalisation can deepen these mechanisms when powerful states and firms write rules, externalise risks and capture gains. Yet global interdependence also permits knowledge diffusion, new markets, transnational advocacy and coalitions among developing countries. OPEC and non-alignment illustrate the possibility of collective resistance, while treaty institutions can constrain powerful states as well as weaker ones when rules are reciprocal.
-
-**Further development:** Three tests sharpen the verdict. First, authorship: did weaker parties participate meaningfully in framing the rule? Second, distribution: are gains, risks and adjustment costs shared or extracted asymmetrically? Third, agency: can affected states build capacity, form coalitions and revise commitments? Where these fail, globalisation reproduces neo-colonial dependence behind formal consent. Where they are present, interdependence may be negotiated cooperation. The neo-colonial lens is therefore indispensable for exposing power, but insufficient if it treats every institution and flow as unilateral domination.
-
-**Critical evaluation:** The correct judgment is institutional and distributive rather than semantic. Globalisation becomes neo-colonial where consent is nominal, alternatives absent and benefits systematically extracted. It is cooperative where rule-making is inclusive, obligations reciprocal and weaker participants gain real capacity.
-
-**Conclusion:** Globalisation can reproduce neo-colonial asymmetry, yet it also creates reciprocal institutions, new coalitions and shared capacities; the answer depends on who authors the rules, distributes gains and retains meaningful exit.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Is globalisation merely a new form of neo-colonialism? Critically discuss.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+---

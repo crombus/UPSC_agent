@@ -1,357 +1,342 @@
-ASCII MASTER FLOW — PANEL 1/12: Method, Approach and the Methodological Turn
-CENTRAL FOCUS
-Method, Approach and the Methodological Turn
-  [1] Method means procedure of inquiry; approach means procedure plus criteria for
-      selecting problems and data. (PDF pp.108-109)
-        |
-        v
-  [2] Gauba shows that disputes in political theory are often methodological before they
-      become ideological. (PDF pp.108-122)
-        |
-        v
-  [3] It introduces the major traditional approaches—philosophical, historical, legal and
-      institutional—and the later behavioural turn. (PDF pp.112-122)
-        |
-        v
-  [4] In Optional answers, clean method language often separates average answers from
-      high-scoring answers.
-        |
-        v
-  [5] Traditional and contemporary are historical labels; they do not exactly coincide
-      with normative and empirical. (PDF pp.109-110)
-        |
-        v
-  [6] Empirical inquiry studies what can be observed and tested; normative inquiry judges
-      what ought to be preferred or prescribed. (PDF pp.110-112)
-        |
-        v
-SYNTHESIS -> Method, Approach and the Methodological Turn is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 1/17: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Approaches, Behaviouralism and Post-Behaviouralism.                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Sections 13-19 of this file already reconstruct the eight behavioural tenets and all     |
+| five analytical models (Easton, Almond, Deutsch, decision-making, Marxian) with claim        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Empirical and Normative Inquiry by Content
-CENTRAL FOCUS
-Empirical and Normative Inquiry by Content
-  [1] He clarifies that empirical vs normative turns on the content of the claim, not just
-      the grammatical presence of "is" or "ought". (PDF pp.110-112)
-        |
-        v
-  [2] He then warns that traditional/contemporary and normative/empirical are not
-      identical pairs. (PDF pp.109-110)
-        |
-        v
-  [3] Gauba begins by separating method from approach so that students do not confuse
-      tools of inquiry with frames of inquiry. (PDF pp.108-109)
-        |
-        v
-  [4] The traditional approaches are then outlined: philosophical, historical, legal and
-      institutional. (PDF pp.112-117)
-        |
-        v
-  [5] The contemporary shift is marked by behaviouralism, post-behaviouralism and several
-      models of political analysis. (PDF pp.117-134)
-        |
-        v
-  [6] The chapter's deeper message is integrative: political science is weakened both by
-      value-blind technique and by unsupported moral assertion.
-        |
-        v
-SYNTHESIS -> Empirical and Normative Inquiry by Content is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 2/17: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1859 -> Preface to A Contribution to the Critique of Political Economy                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1921 -> Study of Politics' published in American Political Science Review                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1925 -> New Aspects of Politics                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1925 -> American Political Science Association                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1927 -> Catlin, in his Science and Method of Politics                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Traditional Approaches and Their Thinkers
-CENTRAL FOCUS
-Traditional Approaches and Their Thinkers
-  [1] Method vs approach: methods obtain and use data; approaches decide which questions
-      and data count as relevant. (PDF pp.108-109)
-        |
-        v
-  [2] Traditional vs contemporary: the first cluster is associated with philosophy,
-      history, law and institutions, while the second focuses more on process, behaviour
-      and analysis models. (PDF pp.109-110, 117-118)
-        |
-        v
-  [3] Empirical vs normative: empirical asks what is observable and testable; normative
-      asks what is right, just or preferable. (PDF pp.110-112)
-        |
-        v
-  [4] Form vs content: a sentence using "ought" may still be empirical if it states an
-      instrumentally testable condition, while a sentence using "is" may still be
-      normative if it defines a value like justice. (PDF pp.110-111)
-        |
-        v
-  [5] Pure science vs relevance: behaviouralism stressed reliable inquiry;
-      post-behaviouralism added action and public responsibility. (PDF pp.121-122)
-        |
-        v
-SYNTHESIS -> Traditional Approaches and Their Thinkers is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 3/17: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 06. 1936 -> Who Gets What, When, How                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. 1953 -> Weldon, in his Vocabulary of Politics                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1962 -> Thomas Kuhn's The Structure of Scientific Revolutions                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1966 -> A Developmental Approach                                                         |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Illustrations, Comparison and Trap Repair
-CENTRAL FOCUS
-Illustrations, Comparison and Trap Repair
-  [1] "Everybody ought to vote if democracy is to work" is empirical in content because
-      its claim can be checked against political functioning. (PDF pp.110-111)
-        |
-        v
-  [2] "Justice is treating equals equally..." is normative in content even though it
-      appears in the form of an "is" statement. (PDF p.110)
-        |
-        v
-  [3] Legal analysis of Indian politics would ask what constitutional provisions authorize
-      institutions and actions. (PDF pp.115-116)
-        |
-        v
-  [4] Institutional analysis would map legislature, executive, judiciary, parties and
-      their formal relations. (PDF pp.116-117)
-        |
-        v
-  [5] Behavioural analysis of the same political scene would ask how voters, leaders,
-      parties and interest groups actually behave.
-        |
-        v
-SYNTHESIS -> Illustrations, Comparison and Trap Repair is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 4/17: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. METHOD: The procedure of inquiry by which reliable knowledge and conclusions are         |
+| obtained. (PDF p.108)                                                                        |
+| 02. APPROACH: A wider frame that includes method plus criteria for selecting problems,       |
+| questions and relevant data. (PDF pp.108-109)                                                |
+| 03. EMPIRICAL STATEMENT: A claim about an observable situation that can be tested or         |
+| verified by repeated observation. (PDF pp.110-111)                                           |
+| 04. NORMATIVE STATEMENT: A claim expressing a preference, duty or moral principle about what |
+| ought to be valued or prescribed. (PDF pp.110-112)                                           |
+| 05. BEHAVIOURALISM: A scientific orientation focusing on actual political behaviour,         |
+| especially of actors such as voters, leaders and groups. (PDF pp.118-121)                    |
+| 06. POST-BEHAVIOURALISM: A corrective within behavioural political science stressing         |
+| relevance, action and concern for values. (PDF pp.121-122)                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Boundaries, Revision and Source Discipline
-CENTRAL FOCUS
-Boundaries, Revision and Source Discipline
-  [1] Primary source used directly: Gauba, Ch.4, especially PDF pp.108-122 for basic
-      distinctions and the behavioural/post-behavioural debate.
-        |
-        v
-  [2] Behaviouralism: scientific study of actual behaviour, eight key tenets, micro-level
-      reliability. (PDF pp.118-121)
-        |
-        v
-  [3] Post-behaviouralism: relevance, action and responsible value concern without
-      discarding scientific gains. (PDF pp.121-122)
-        |
-        v
-  [4] Best answer line: political inquiry needs both disciplined evidence and defensible
-      value judgment.
-        |
-        v
-  [5] This basic file reconstructs behaviouralism's eight tenets and all five analytical
-      models (systems, structural-functional, communications/cybernetic, decision-making,
-      Marxian) directly, so it is independently sufficient for full-mark answers; the
-      advanced companion adds further comparative depth and answer-engine prompts.
-        |
-        v
-SYNTHESIS -> Boundaries, Revision and Source Discipline is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 5/17: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins by separating method from approach so that students do not confuse tools of |
+| inquiry with frames of inquiry. (PDF pp.108-109)                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then warns that traditional/contemporary and normative/empirical are not identical    |
+| pairs. (PDF pp.109-110)                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. He clarifies that empirical vs normative turns on the content of the claim, not just the |
+| grammatical presence of "is" or "ought". (PDF pp.110-112)                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Behaviouralism's Eight Tenets
-CENTRAL FOCUS
-Behaviouralism's Eight Tenets
-  [1] Exam use: naming these eight in order and pairing two or three with a one-line
-      illustration (e.g. quantification → voting-behaviour surveys; integration →
-      borrowing psychology for leadership studies) earns more marks than a vague
-      "behaviouralism is scientific" line.
-        |
-        v
-  [2] Techniques — rigorous tools and methods (surveys, statistics, sampling) are used to
-      acquire and interpret data.
-        |
-        v
-  [3] Quantification — precision through measurement and quantification wherever the data
-      meaningfully allow it.
-        |
-        v
-  [4] Values — an analytic separation is drawn between empirical explanation and ethical
-      evaluation (value-neutrality as method, not indifference).
-        |
-        v
-  [5] Systematization — research and theory are interdependent; data collection is guided
-      by, and in turn refines, theory.
-        |
-        v
-SYNTHESIS -> Behaviouralism's Eight Tenets is best presented through its central claim, causal
-             logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 6/17: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 04. The traditional approaches are then outlined: philosophical, historical, legal and       |
+| institutional. (PDF pp.112-117)                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. The contemporary shift is marked by behaviouralism, post-behaviouralism and several      |
+| models of political analysis. (PDF pp.117-134)                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. The chapter's deeper message is integrative: political science is weakened both by       |
+| value-blind technique and by unsupported moral assertion                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Post-Behavioural Relevance and Action
-CENTRAL FOCUS
-Post-Behavioural Relevance and Action
-  [1] Post-behaviouralism: A corrective within behavioural political science stressing
-      relevance, action and concern for values.
-        |
-        v
-  [2] David Easton: Gives both the behavioural framework and the later post-behavioural
-      call for relevance and action.
-        |
-        v
-  [3] Post-behaviouralism, associated with Easton's own self-correction, retains the
-      scientific gains of behaviouralism (rigour, verification, technique) but adds two
-      demands: relevance — political science must address urgent public problems (war,
-      poverty, discrimination, injustice) rather than only tractable micro-questions — and
-      action — intellectuals bear responsibility to apply knowledge for social betterment,
-      not merely to accumulate value-neutral findings. (PDF pp.121-122)
-        |
-        v
-  [4] Post-behavioural: Science should remain rigorous but also relevant, action-oriented
-      and attentive to value-construction.
-        |
-        v
-SYNTHESIS -> Post-Behavioural Relevance and Action is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 7/17: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. VERNON VAN DYKE: Clarifies the distinction between approach and method and explains      |
+| philosophical analysis as conceptual clarification plus evaluation. (PDF pp.108-109, 113)    |
+| 02. LEO STRAUSS: Defends political philosophy as inseparable from facts and values and       |
+| criticizes behavioural value-neutrality. (PDF pp.112, 114, 121)                              |
+| 03. GRAHAM WALLAS AND ARTHUR BENTLEY: Early forerunners of behaviouralism who shift          |
+| attention toward actual behaviour and informal processes. (PDF p.118)                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Easton and Almond: Systems and Structural Functions
-CENTRAL FOCUS
-Easton and Almond: Systems and Structural Functions
-  [1] Gabriel Almond — structural-functional approach: every political system, regardless
-      of its formal constitution, must perform certain universal functions (political
-      socialization and recruitment, interest articulation, interest aggregation,
-      rule-making, rule-application, rule-adjudication, and communication); these
-      functions can be performed by different structures in different systems (e.g.
-      interest articulation via parties in one system, via kinship or patron-client
-      networks in another).
-        |
-        v
-  [2] Reconstruct at least two analytical models (e.g. Easton's systems model and Almond's
-      structural-functional approach, or Deutsch's cybernetic model and the Marxian
-      approach) with claim→evidence→significance→limit each, plus the comparison table's
-      logic.
-        |
-        v
-  [3] Structural-functional (Almond): Functions performed by variable structures
-        |
-        v
-  [4] Limit: functionalism's assumption that systems tend toward equilibrium risks a
-      conservative bias (downplaying conflict and structural change), and in practice
-      often measured non-Western systems against a Western liberal-democratic benchmark
-      despite the framework's own claim to be structure-neutral.
-        |
-        v
-SYNTHESIS -> Easton and Almond: Systems and Structural Functions is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 8/17: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. CHARLES MERRIAM: Calls for scientific rigour, interdisciplinarity and behavioural        |
+| inquiry. (PDF pp.118-119)                                                                    |
+| 02. HAROLD LASSWELL: Develops politics as the analysis of power and policy. (PDF p.119)      |
+| 03. DAVID EASTON: Gives both the behavioural framework and the later post-behavioural call   |
+| for relevance and action. (PDF pp.120-122)                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Deutsch, Decision-Making, Marxian Analysis and Model Comparison
-CENTRAL FOCUS
-Deutsch, Decision-Making, Marxian Analysis and Model Comparison
-  [1] Reconstruct at least two analytical models (e.g. Easton's systems model and Almond's
-      structural-functional approach, or Deutsch's cybernetic model and the Marxian
-      approach) with claim→evidence→significance→limit each, plus the comparison table's
-      logic.
-        |
-        v
-  [2] Evidence/mechanism: decision-making frameworks (e.g. those used in foreign-policy
-      analysis) break a decision into stages — problem recognition, search for
-      alternatives, evaluation, choice, and implementation — and examine the internal
-      organisational context of the deciding body.
-        |
-        v
-  [3] Karl Deutsch — communication/cybernetic approach: government functions like a
-      steering mechanism, and politics can be modelled on cybernetics (the science of
-      communication and control) — decision-making depends on the flow of information
-      through communication channels, with feedback loops correcting the system's course
-      toward its goals.
-        |
-        v
-  [4] Evidence/mechanism: analysis of who owns and controls the means of production is
-      used to explain apparently neutral political institutions (law, bureaucracy, even
-      ideology) as expressions of underlying class interest.
-        |
-        v
-SYNTHESIS -> Deutsch, Decision-Making, Marxian Analysis and Model Comparison is best presented
-             through its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 9/17: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. "Everybody ought to vote if democracy is to work" is empirical in content because its    |
+| claim can be checked against political functioning. (PDF pp.110-111)                         |
+| 02. "Justice is treating equals equally..." is normative in content even though it appears   |
+| in the form of an "is" statement. (PDF p.110)                                                |
+| 03. Legal analysis of Indian politics would ask what constitutional provisions authorize     |
+| institutions and actions. (PDF pp.115-116)                                                   |
+| 04. Institutional analysis would map legislature, executive, judiciary, parties and their    |
+| formal relations. (PDF pp.116-117)                                                           |
+| 05. Behavioural analysis of the same political scene would ask how voters, leaders, parties  |
+| and interest groups actually behave                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Objections, Indian Application and Mark-Scaled Answers
-CENTRAL FOCUS
-Objections, Indian Application and Mark-Scaled Answers
-  [1] The decision-making approach can be used to analyse how an Indian policy choice
-      (e.g. a Cabinet or Cabinet Committee decision) moves from problem recognition to
-      implementation, without asserting unverified specifics of any particular real
-      decision unless independently confirmed.
-        |
-        v
-  [2] Objection: behavioural political science's value-neutrality claim makes it complicit
-      in ignoring urgent injustice, since choosing what to study/ignore is itself a
-      value-laden act. Reply: post-behaviouralism (Easton) does not abandon science in
-      response; it insists that knowledge must be made relevant and put to responsible use
-      while retaining verification and rigour — "action" is added to, not substituted for,
-      evidence standards. (PDF pp.121-122)
-        |
-        v
-  [3] The structural-functional approach can compare India's formal parliamentary
-      structures with informal interest-articulation channels (caste associations, kinship
-      networks, local patron-client ties) performing the same function in different areas
-      — cite this as a type of comparison, not with unverified statistics.
-        |
-        v
-  [4] Thesis: political inquiry has moved from traditional/normative approaches to a
-      scientific, and then a value-conscious, contemporary approach.
-        |
-        v
-SYNTHESIS -> Objections, Indian Application and Mark-Scaled Answers is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 10/17: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. TRADITIONAL | Core claim = Politics is illuminated through philosophy, history, law and  |
+| institutions. (PDF pp.109-117) | Main focus = Concepts, thought, legal framework,            |
+| institutions. (PDF pp.113-117) | Limitation flagged by Gauba = Often descriptive or          |
+| normative without enough behavioural/process analysis. (PDF pp.117-118)                      |
+| 02. BEHAVIOURAL | Core claim = Political science should study actual political behaviour     |
+| scientifically through regularities, verification, techniques and quantification. (PDF       |
+| pp.118-121) | Main focus = Individuals, attitudes, participation, communication, decision-   |
+| processes. (PDF pp.119-121) | Limitation flagged by Gauba = Risk of excessive micro-focus,   |
+| method-fetish and value-neutral distance from urgent public issues. (PDF pp.121-122)         |
+| 03. POST-BEHAVIOURAL | Core claim = Science should remain rigorous but also relevant,        |
+| action-oriented and attentive to value-construction. (PDF pp.121-122) | Main focus = Social  |
+| problems, public responsibility, applied knowledge. (PDF pp.121-122) | Limitation flagged by |
+| Gauba = It must not become a licence for untested moralism; relevance still needs            |
+| disciplined inquiry                                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Method: The procedure of inquiry by which reliable knowledge and conclusions are
-      obtained.
-        |
-        v
-  [2] Approach: A wider frame that includes method plus criteria for selecting problems,
-      questions and relevant data.
-        |
-        v
-  [3] Empirical statement: A claim about an observable situation that can be tested or
-      verified by repeated observation.
-        |
-        v
-  [4] Normative statement: A claim expressing a preference, duty or moral principle about
-      what ought to be valued or prescribed.
-        |
-        v
-SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 11/17: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Method and approach are synonyms => REPAIR: Approach is wider because it includes  |
+| selection-criteria for problems and data. (PDF pp.108-109)                                   |
+| 02. TRAP: Traditional always means normative, and contemporary always means empirical =>     |
+| REPAIR: Gauba explicitly rejects that mechanical equation. (PDF pp.109-110)                  |
+| 03. TRAP: Any sentence with "ought" is normative => REPAIR: Its content may still be         |
+| empirical if it states an instrumentally testable condition. (PDF pp.110-111)                |
+| 04. TRAP: Value-free means politically consequence-free => REPAIR: Behavioural inquiry can   |
+| shape what gets studied and ignored, which is why post-behaviouralism raised the issue of    |
+| relevance. (PDF pp.121-122)                                                                  |
+| 05. TRAP: Post-behaviouralism means abandoning science for activism => REPAIR: Easton        |
+| presents it as retaining behavioural gains while reconnecting them to problem-solving. (PDF  |
+| pp.121-122)                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Best answer line: political inquiry needs both disciplined evidence and defensible
-      value judgment.
-        |
-        v
-  [2] This basic file reconstructs behaviouralism's eight tenets and all five analytical
-      models (systems, structural-functional, communications/cybernetic, decision-making,
-      Marxian) directly, so it is independently sufficient for full-mark answers; the
-      advanced companion adds further comparative depth and answer-engine prompts.
-        |
-        v
-  [3] Limit: functionalism's assumption that systems tend toward equilibrium risks a
-      conservative bias (downplaying conflict and structural change), and in practice
-      often measured non-Western systems against a Western liberal-democratic benchmark
-      despite the framework's own claim to be structure-neutral.
-        |
-        v
-  [4] Method: The procedure of inquiry by which reliable knowledge and conclusions are
-      obtained.
-        |
-        v
-SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 12/17: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Sections 13-19 of this file already reconstruct the eight behavioural tenets and all     |
+| five analytical models (Easton, Almond, Deutsch, decision-making, Marxian) with              |
+| claim->evidence->significance->limit; use Political-Theory/advanced/08_Approaches-           |
+| Behaviouralism-and-Post-Behaviouralism.md only for further comparative depth and extra       |
+| answer-engine prompts, not as a requirement for full marks                                   |
+| 02. Read Political-Theory/basic/07_Nature-of-Politics-and-Communitarianism.md first if the   |
+| nature of politics itself is unclear                                                         |
+| 03. Use Political-Theory/00_Master-Framework.md for the module-wide theory/science decode    |
+| engine                                                                                       |
+| 04. Use Political-Theory/README.md for the topic map and tag policy                          |
+| 05. Boundary: this file explains ways of studying politics; it does not duplicate detailed   |
+| constitutional or public-administration content                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/17: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Method = procedure; approach = procedure plus problem/data selection. (PDF pp.108-109)   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Empirical vs normative depends on content, not grammar alone. (PDF pp.110-112)           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Traditional approaches: philosophical, historical, legal, institutional. (PDF            |
+| pp.112-117)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Behaviouralism: scientific study of actual behaviour, eight key tenets, micro-level      |
+| reliability. (PDF pp.118-121)                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Post-behaviouralism: relevance, action and responsible value concern without discarding  |
+| scientific gains. (PDF pp.121-122)                                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Best answer line: political inquiry needs both disciplined evidence and defensible value |
+| judgment                                                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/17: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Method means procedure of inquiry; approach means procedure plus criteria for selecting  |
+| problems and data. (PDF pp.108-109)                                                          |
+| 02. Term - Exam-ready meaning                                                                |
+| 03. Method vs approach: methods obtain and use data; approaches decide which questions and   |
+| data count as relevant. (PDF pp.108-109)                                                     |
+| 04. "Everybody ought to vote if democracy is to work" is empirical in content because its    |
+| claim can be checked against political functioning. (PDF pp.110-111)                         |
+| 05. Method and approach are synonyms. -> Approach is wider because it includes selection-    |
+| criteria for problems and data. (PDF pp.108-109)                                             |
+| 06. These eight "tenets"/"intellectual foundation stones" are commonly attributed, via       |
+| Gauba's exposition, to David Easton's account of behaviouralism (echoing Easton's own 1969   |
+| listing). Treat                                                                              |
+| 07. Post-behaviouralism is a corrective within science, not a licence for unexamined         |
+| activism; relevance still requires disciplined evidence, or it collapses back into the       |
+| untested moralism                                                                            |
+| 08. Claim: the political system is best understood as an open system embedded in a wider     |
+| social environment, processing inputs (demands and supports from citizens/groups) through a  |
+| conversion                                                                                   |
+| 09. Model - Core unit of analysis - Main strength - Main limitation                          |
+| 10. 1. Objection: behavioural political science's value-neutrality claim makes it complicit  |
+| in ignoring urgent injustice, since choosing what to study/ignore is itself a value-laden    |
+| act                                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/17: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Method                                                                                       |
+| 02. Empirical; Normative Inquiry; Content; SESSION; Essential; Term; Exam-ready              |
+| 03. Traditional Approaches; Their Thinkers; SESSION; Essential; Method; Traditional;         |
+| Empirical                                                                                    |
+| 04. Illustrations; Comparison; Trap Repair; SESSION; Illustrative; Everybody; Justice        |
+| 05. Boundaries; Revision; Source Discipline; SESSION; UPSC; Method; Approach                 |
+| 06. David Easton; Regularities; Verification; Techniques; Quantification; Values;            |
+| Systematization                                                                              |
+| 07. relevance; action; Post-Behavioural Relevance; Action; SESSION; Post-behaviouralism;     |
+| Easton                                                                                       |
+| 08. David Easton - systems analysis; Claim:; inputs; conversion process; outputs; feedback;  |
+| Evidence/mechanism:                                                                          |
+| 09. Karl Deutsch - communication/cybernetic approach; Claim:; steering mechanism;            |
+| Evidence/mechanism:; Significance:; Limit:; Decision-making approach                         |
+| 10. Objection:; Reply:; Objections; Indian Application; Mark-Scaled Answers; SESSION;        |
+| Objection                                                                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/17: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish method from approach in political inquiry and explain why the      |
+| distinction matters. Answer in 150 words                                                     |
+| 02. 10 MARKS: Why must empirical and normative statements be classified by content rather    |
+| than grammatical form? Answer in 150 words                                                   |
+| 03. 10 MARKS: Examine behaviouralism's eight tenets and its contribution to political        |
+| science. Answer in 150 words                                                                 |
+| 04. 15 MARKS: Evaluate post-behaviouralism as a correction of, rather than a rejection of,   |
+| behaviouralism. Answer in 250 words                                                          |
+| 05. 15 MARKS: Compare the systems, structural-functional, communications, decision-making    |
+| and Marxian models of political analysis. Answer in 250 words                                |
+| 06. 15 MARKS: Can political science be value-free? Discuss with reference to behaviouralism, |
+| Strauss and post-behaviouralism. Answer in 250 words                                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/17: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: These eight "tenets"/"intellectual foundation stones" are commonly attributed,    |
+| via Gauba's exposition, to David Easton's account of behaviouralism (echoing Easton's own    |
+| 1969 listing). Treat. Claim: the political system is best understood as an open system       |
+| embedded in a wider social environment, processing inputs (demands and supports from         |
+| citizens/groups) through a conversion. The mark therefore comes from the qualification:      |
+| state the strongest case, then the limit at which it stops being defensible                  |
++----------------------------------------------------------------------------------------------+

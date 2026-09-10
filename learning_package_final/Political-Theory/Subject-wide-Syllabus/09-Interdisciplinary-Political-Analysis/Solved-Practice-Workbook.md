@@ -1,1035 +1,820 @@
 ---
 topic_key: political-theory-09
 title: Interdisciplinary Political Analysis — Solved Practice Workbook
-generation_identity: political-theory-09:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-09:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Interdisciplinary Political Analysis — Solved Practice Workbook
 
-**Generation:** learner-v2:g3  
-**PYQ ownership:** No directly owned verified PYQ is assigned to this topic; all questions below are original practice.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 09 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Discipline**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. A branch or field of learning.
+### MCQ 1
 
-B. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
+Which proposition is correctly associated with **Discipline**?
 
-C. Group life, institutions, status, attitudes, participation and political culture.
+- A. A branch or field of learning.
+- B. political order does not require a Weberian state.
+- C. Focus on values, prescriptions and what ought to be done.
+- D. Motives, attitudes, personality, propaganda and leadership appeal. (PDF pp.144-145)
 
-D. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Discipline.
+- **B:** B Attaches to Political anthropology, not Discipline.
+- **C:** C Attaches to Normative approach, not Discipline.
+- **D:** D Attaches to Psychology, not Discipline.
 
-**Explanation:** The canonical Basic owner pairs **Discipline** with **A branch or field of learning**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A branch or field of learning.**
-
-A. Aristotle
-
-B. Discipline
-
-C. David Easton's political-system framework
-
-D. Empirical approach
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A branch or field of learning.** with **Discipline**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Discipline by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Interdisciplinary approach**? Other options belong to different named entries.
+Which proposition is correctly associated with **Interdisciplinary approach**?
 
-A. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+- A. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
+- B. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- C. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+- D. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
 
-B. Motives, attitudes, personality, propaganda and leadership appeal.
+**Answer: B**
 
-C. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+**Option-by-option explanation**
+- **A:** A Attaches to Political sociology, not Interdisciplinary approach.
+- **B:** B States the source-recorded proposition for Interdisciplinary approach.
+- **C:** C Attaches to Auguste Comte, not Interdisciplinary approach.
+- **D:** D Attaches to Political economy, not Interdisciplinary approach.
 
-D. is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Interdisciplinary approach** with **Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.**
-
-A. Marx and Engels
-
-B. Harold Lasswell's problem-solving model
-
-C. Normative approach
-
-D. Interdisciplinary approach
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.** with **Interdisciplinary approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Interdisciplinary approach by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Empirical approach**? Other options belong to different named entries.
+Which proposition is correctly associated with **Empirical approach**?
 
-A. Focus on observable facts, explanation, correlation, generalization and prediction.
+- A. Conceptual clarification, values, moral foundations and ends of public life.
+- B. Group life, institutions, status, attitudes, participation and political culture.
+- C. Focus on observable facts, explanation, correlation, generalization and prediction.
+- D. Insight into production, distribution, exchange, scarcity and economic conflict.
 
-B. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
+**Answer: C**
 
-C. Conceptual clarification, values, moral foundations and ends of public life.
+**Option-by-option explanation**
+- **A:** A Attaches to Philosophy, not Empirical approach.
+- **B:** B Attaches to Sociology, not Empirical approach.
+- **C:** C States the source-recorded proposition for Empirical approach.
+- **D:** D Attaches to Economics, not Empirical approach.
 
-D. is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Empirical approach** with **Focus on observable facts, explanation, correlation, generalization and prediction**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Focus on observable facts, explanation, correlation, generalization and prediction.**
-
-A. Heinz Eulau
-
-B. Empirical approach
-
-C. Economic reductionism
-
-D. Political economy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Focus on observable facts, explanation, correlation, generalization and prediction.** with **Empirical approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Empirical approach by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Normative approach**? Other options belong to different named entries.
+Which proposition is correctly associated with **Normative approach**?
 
-A. Verification through past events, sequences and long-term causation.
+- A. Motives, attitudes, personality, propaganda and leadership appeal.
+- B. political order does not require a Weberian state.
+- C. Verification through past events, sequences and long-term causation.
+- D. Focus on values, prescriptions and what ought to be done.
 
-B. political order does not require a Weberian state.
+**Answer: D**
 
-C. Focus on values, prescriptions and what ought to be done.
+**Option-by-option explanation**
+- **A:** A Attaches to Psychology, not Normative approach.
+- **B:** B Attaches to Political anthropology, not Normative approach.
+- **C:** C Attaches to History, not Normative approach.
+- **D:** D States the source-recorded proposition for Normative approach.
 
-D. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Normative approach** with **Focus on values, prescriptions and what ought to be done**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Focus on values, prescriptions and what ought to be done.**
-
-A. Seymour Martin Lipset
-
-B. Discipline
-
-C. Political sociology
-
-D. Normative approach
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Focus on values, prescriptions and what ought to be done.** with **Normative approach**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Normative approach by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Political economy**? Other options belong to different named entries.
+Which proposition is correctly associated with **Political economy**?
 
-A. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
+- A. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
+- B. the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+- C. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+- D. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
 
-B. Insight into production, distribution, exchange, scarcity and economic conflict.
+**Answer: A**
 
-C. distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Political economy.
+- **B:** B Attaches to Aristotle, not Political economy.
+- **C:** C Attaches to Seymour Martin Lipset, not Political economy.
+- **D:** D Attaches to Auguste Comte, not Political economy.
 
-D. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Political economy** with **Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.**
-
-A. Auguste Comte
-
-B. Political economy
-
-C. Interdisciplinary approach
-
-D. Political psychology
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.** with **Political economy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Political economy by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Political sociology**? Other options belong to different named entries.
+Which proposition is correctly associated with **Political sociology**?
 
-A. Group life, institutions, status, attitudes, participation and political culture.
+- A. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- B. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
+- C. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+- D. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
 
-B. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+**Answer: B**
 
-C. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
+**Option-by-option explanation**
+- **A:** A Attaches to Interdisciplinary approach, not Political sociology.
+- **B:** B States the source-recorded proposition for Political sociology.
+- **C:** C Attaches to Auguste Comte, not Political sociology.
+- **D:** D Attaches to Political economy, not Political sociology.
 
-D. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political sociology** with **Study of political institutions, processes and ideologies in relation to social structures and modes of thought**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Study of political institutions, processes and ideologies in relation to social structures and modes of thought.**
-
-A. David Easton's political-system framework
-
-B. Empirical approach
-
-C. Political philosophy
-
-D. Political sociology
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Study of political institutions, processes and ideologies in relation to social structures and modes of thought.** with **Political sociology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Political sociology by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Political psychology**? Other options belong to different named entries.
+Which proposition is correctly associated with **Political psychology**?
 
-A. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+- A. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+- B. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
+- C. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+- D. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
 
-B. Motives, attitudes, personality, propaganda and leadership appeal.
+**Answer: C**
 
-C. the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+**Option-by-option explanation**
+- **A:** A Attaches to Heinz Eulau, not Political psychology.
+- **B:** B Attaches to Political philosophy, not Political psychology.
+- **C:** C States the source-recorded proposition for Political psychology.
+- **D:** D Attaches to Political geography, not Political psychology.
 
-D. is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Political psychology** with **Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.**
-
-A. Harold Lasswell's problem-solving model
-
-B. Political psychology
-
-C. Normative approach
-
-D. History
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.** with **Political psychology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Political psychology by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Political philosophy**? Other options belong to different named entries.
+Which proposition is correctly associated with **Political philosophy**?
 
-A. Conceptual clarification, values, moral foundations and ends of public life.
+- A. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+- B. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+- C. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+- D. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
 
-B. Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.
+**Answer: D**
 
-C. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
+**Option-by-option explanation**
+- **A:** A Attaches to Political psychology, not Political philosophy.
+- **B:** B Attaches to Political geography, not Political philosophy.
+- **C:** C Attaches to Heinz Eulau, not Political philosophy.
+- **D:** D States the source-recorded proposition for Political philosophy.
 
-D. is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political philosophy** with **Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.**
-
-A. Economic reductionism
-
-B. Political economy
-
-C. Economics
-
-D. Political philosophy
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.** with **Political philosophy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Political philosophy by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **History**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. Verification through past events, sequences and long-term causation.
+- A. History — Verification through past events, sequences and long-term causation.
+- B. Psychology — Insight into production, distribution, exchange, scarcity and economic conflict.
+- C. Philosophy — Group life, institutions, status, attitudes, participation and political culture.
+- D. Normative approach — Focus on observable facts, explanation, correlation, generalization and prediction.
 
-B. political order does not require a Weberian state.
+**Answer: A**
 
-C. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+**Option-by-option explanation**
+- **A:** A Faithful pairing: History is associated with this proposition.
+- **B:** B Source disagrees: Psychology is recorded with Motives, attitudes, personality, propaganda and leadership appeal.
+- **C:** C Wrong attachment: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
+- **D:** D Belongs elsewhere: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
 
-D. (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **History** with **Verification through past events, sequences and long-term causation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Verification through past events, sequences and long-term causation.**
-
-A. Discipline
-
-B. History
-
-C. Political sociology
-
-D. Sociology
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Verification through past events, sequences and long-term causation.** with **History**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to History; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Economics**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.
+- A. Philosophy — Focus on values, prescriptions and what ought to be done.
+- B. Economics — Insight into production, distribution, exchange, scarcity and economic conflict.
+- C. Empirical approach — Motives, attitudes, personality, propaganda and leadership appeal.
+- D. Sociology — Verification through past events, sequences and long-term causation.
 
-B. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+**Answer: B**
 
-C. Insight into production, distribution, exchange, scarcity and economic conflict.
+**Option-by-option explanation**
+- **A:** A Source disagrees: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
+- **B:** B Kept where the source puts it: Economics is associated with this proposition.
+- **C:** C Belongs elsewhere: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
+- **D:** D Misplaced: Sociology is recorded with Group life, institutions, status, attitudes, participation and political culture.
 
-D. A branch or field of learning.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Economics** with **Insight into production, distribution, exchange, scarcity and economic conflict**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Insight into production, distribution, exchange, scarcity and economic conflict.**
-
-A. Interdisciplinary approach
-
-B. Political psychology
-
-C. Psychology
-
-D. Economics
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Insight into production, distribution, exchange, scarcity and economic conflict.** with **Economics**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Economics; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Sociology**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. Group life, institutions, status, attitudes, participation and political culture.
+- A. Empirical approach — Motives, attitudes, personality, propaganda and leadership appeal.
+- B. Economics — Verification through past events, sequences and long-term causation.
+- C. Sociology — Group life, institutions, status, attitudes, participation and political culture.
+- D. Philosophy — Focus on values, prescriptions and what ought to be done.
 
-B. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+**Answer: C**
 
-C. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+**Option-by-option explanation**
+- **A:** A Misplaced: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
+- **B:** B Belongs elsewhere: Economics is recorded with Insight into production, distribution, exchange, scarcity and economic conflict.
+- **C:** C Kept where the source puts it: Sociology is associated with this proposition.
+- **D:** D Mismatched: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
 
-D. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Sociology** with **Group life, institutions, status, attitudes, participation and political culture**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Group life, institutions, status, attitudes, participation and political culture.**
-
-A. Empirical approach
-
-B. Sociology
-
-C. Political philosophy
-
-D. Philosophy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Group life, institutions, status, attitudes, participation and political culture.** with **Sociology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Sociology; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Psychology**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+- A. Philosophy — political order does not require a Weberian state.
+- B. History — Insight into production, distribution, exchange, scarcity and economic conflict.
+- C. Normative approach — Group life, institutions, status, attitudes, participation and political culture.
+- D. Psychology — Motives, attitudes, personality, propaganda and leadership appeal.
 
-B. is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
+**Answer: D**
 
-C. Motives, attitudes, personality, propaganda and leadership appeal.
+**Option-by-option explanation**
+- **A:** A Not this pair: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
+- **B:** B Cross-attached: History is recorded with Verification through past events, sequences and long-term causation.
+- **C:** C Mismatched: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
+- **D:** D Matches the record: Psychology is associated with this proposition.
 
-D. Focus on observable facts, explanation, correlation, generalization and prediction.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Psychology** with **Motives, attitudes, personality, propaganda and leadership appeal**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Motives, attitudes, personality, propaganda and leadership appeal.**
-
-A. Normative approach
-
-B. History
-
-C. Political anthropology
-
-D. Psychology
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Motives, attitudes, personality, propaganda and leadership appeal.** with **Psychology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Psychology; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Philosophy**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. Conceptual clarification, values, moral foundations and ends of public life.
+- A. Philosophy — Conceptual clarification, values, moral foundations and ends of public life.
+- B. Economics — Verification through past events, sequences and long-term causation.
+- C. Sociology — Motives, attitudes, personality, propaganda and leadership appeal.
+- D. Empirical approach — Focus on values, prescriptions and what ought to be done.
 
-B. Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.
+**Answer: A**
 
-C. is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+**Option-by-option explanation**
+- **A:** A Correct attachment: Philosophy is associated with this proposition.
+- **B:** B Mismatched: Economics is recorded with Insight into production, distribution, exchange, scarcity and economic conflict.
+- **C:** C Cross-attached: Sociology is recorded with Group life, institutions, status, attitudes, participation and political culture.
+- **D:** D Wrong attachment: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
 
-D. Focus on values, prescriptions and what ought to be done.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Philosophy** with **Conceptual clarification, values, moral foundations and ends of public life**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Conceptual clarification, values, moral foundations and ends of public life.**
-
-A. Political economy
-
-B. Philosophy
-
-C. Economics
-
-D. Law/jurisprudence as a data source
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Conceptual clarification, values, moral foundations and ends of public life.** with **Philosophy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Philosophy; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Political anthropology**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+- A. Normative approach — A branch or field of learning.
+- B. Political anthropology — political order does not require a Weberian state.
+- C. Psychology — Conceptual clarification, values, moral foundations and ends of public life.
+- D. History — Insight into production, distribution, exchange, scarcity and economic conflict.
 
-B. (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
+**Answer: B**
 
-C. political order does not require a Weberian state.
+**Option-by-option explanation**
+- **A:** A Not this pair: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
+- **B:** B Exact pair: Political anthropology is associated with this proposition.
+- **C:** C Wrong attachment: Psychology is recorded with Motives, attitudes, personality, propaganda and leadership appeal.
+- **D:** D Source disagrees: History is recorded with Verification through past events, sequences and long-term causation.
 
-D. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political anthropology** with **political order does not require a Weberian state**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political order does not require a Weberian state.**
-
-A. Political sociology
-
-B. Sociology
-
-C. Political geography
-
-D. Political anthropology
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **political order does not require a Weberian state.** with **Political anthropology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Political anthropology; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Law/jurisprudence as a data source**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.
+- A. Harold Lasswell's problem-solving model — (treating all politics as market bargaining or class interest) misses legitimacy.
+- B. David Easton's political-system framework — Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda. (PDF p.145)
+- C. Law/jurisprudence as a data source — distinct from the legal approach to studying politics (already covered under §8's traditional approaches).
+- D. Marx and Engels — political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
 
-B. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+**Answer: C**
 
-C. A branch or field of learning.
+**Option-by-option explanation**
+- **A:** A Not this pair: Harold Lasswell's problem-solving model is recorded with is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+- **B:** B Source disagrees: David Easton's political-system framework is recorded with is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback.
+- **C:** C Source-exact: Law/jurisprudence as a data source is associated with this proposition.
+- **D:** D Misplaced: Marx and Engels is recorded with Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.
 
-D. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Law/jurisprudence as a data source** with **distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.**
-
-A. Political psychology
-
-B. Law/jurisprudence as a data source
-
-C. Psychology
-
-D. Aristotle
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.** with **Law/jurisprudence as a data source**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Law/jurisprudence as a data source; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Political geography**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+- A. Heinz Eulau — political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+- B. Political philosophy — the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+- C. Political psychology — Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
+- D. Political geography — studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
 
-B. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+**Answer: D**
 
-C. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Heinz Eulau is recorded with political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+- **B:** B Source disagrees: Political philosophy is recorded with Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
+- **C:** C Belongs elsewhere: Political psychology is recorded with Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+- **D:** D Faithful pairing: Political geography is associated with this proposition.
 
-D. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political geography** with **studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.**
-
-A. Political philosophy
-
-B. Philosophy
-
-C. Marx and Engels
-
-D. Political geography
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.** with **Political geography**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Political geography; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Aristotle**? Other options belong to different named entries.
+Consider the following statements:
+1. **Aristotle** is associated with: the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+2. **Seymour Martin Lipset** is associated with: (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
+Which option is correct?
 
-A. the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
+**Answer: A**
 
-C. Focus on observable facts, explanation, correlation, generalization and prediction.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Aristotle** with **the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.**
-
-A. History
-
-B. Aristotle
-
-C. Political anthropology
-
-D. Heinz Eulau
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.** with **Aristotle**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Aristotle does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **Marx and Engels**? Other options belong to different named entries.
+Consider the following statements:
+1. **Marx and Engels** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+2. **Auguste Comte** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+Which option is correct?
 
-A. is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Focus on values, prescriptions and what ought to be done.
+**Answer: B**
 
-C. Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Verification through past events, sequences and long-term causation.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Marx and Engels** with **Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.**
-
-A. Economics
-
-B. Law/jurisprudence as a data source
-
-C. Seymour Martin Lipset
-
-D. Marx and Engels
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.** with **Marx and Engels**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Marx and Engels does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Heinz Eulau**? Other options belong to different named entries.
+Consider the following statements:
+1. **Heinz Eulau** is associated with: political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+2. **David Easton's political-system framework** is associated with: is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
+Which option is correct?
 
-A. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
+**Answer: C**
 
-C. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Insight into production, distribution, exchange, scarcity and economic conflict.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Heinz Eulau** with **political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.**
-
-A. Sociology
-
-B. Heinz Eulau
-
-C. Political geography
-
-D. Auguste Comte
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.** with **Heinz Eulau**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Heinz Eulau does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Seymour Martin Lipset**? Other options belong to different named entries.
+Consider the following statements:
+1. **Seymour Martin Lipset** is associated with: is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+2. **Harold Lasswell's problem-solving model** is associated with: Focus on observable facts, explanation, correlation, generalization and prediction.
+Which option is correct?
 
-A. A branch or field of learning.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
+**Answer: D**
 
-C. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Group life, institutions, status, attitudes, participation and political culture.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Seymour Martin Lipset** with **political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.**
-
-A. Psychology
-
-B. Aristotle
-
-C. David Easton's political-system framework
-
-D. Seymour Martin Lipset
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.** with **Seymour Martin Lipset**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Seymour Martin Lipset does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Auguste Comte**? Other options belong to different named entries.
+Consider the following statements:
+1. **Auguste Comte** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+2. **Economic reductionism** is associated with: Focus on values, prescriptions and what ought to be done.
+Which option is correct?
 
-A. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+**Answer: A**
 
-C. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Motives, attitudes, personality, propaganda and leadership appeal.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Auguste Comte** with **science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.**
-
-A. Philosophy
-
-B. Auguste Comte
-
-C. Marx and Engels
-
-D. Harold Lasswell's problem-solving model
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.** with **Auguste Comte**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Auguste Comte does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **David Easton's political-system framework**? Other options belong to different named entries.
+Consider the following statements:
+1. **David Easton's political-system framework** is associated with: A branch or field of learning.
+2. **Discipline** is associated with: A branch or field of learning.
+Which option is correct?
 
-A. Focus on observable facts, explanation, correlation, generalization and prediction.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
+**Answer: B**
 
-C. is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Conceptual clarification, values, moral foundations and ends of public life.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **David Easton's political-system framework** with **is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback **. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .**
-
-A. Political anthropology
-
-B. Heinz Eulau
-
-C. Economic reductionism
-
-D. David Easton's political-system framework
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .** with **David Easton's political-system framework**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with David Easton's political-system framework does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Harold Lasswell's problem-solving model**? Other options belong to different named entries.
+Consider the following statements:
+1. **Harold Lasswell's problem-solving model** is associated with: is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+2. **Interdisciplinary approach** is associated with: Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+Which option is correct?
 
-A. is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Focus on values, prescriptions and what ought to be done.
+**Answer: C**
 
-C. Verification through past events, sequences and long-term causation.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. political order does not require a Weberian state.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Harold Lasswell's problem-solving model** with **is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.**
-
-A. Law/jurisprudence as a data source
-
-B. Harold Lasswell's problem-solving model
-
-C. Seymour Martin Lipset
-
-D. Discipline
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.** with **Harold Lasswell's problem-solving model**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Harold Lasswell's problem-solving model does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Economic reductionism**? Other options belong to different named entries.
+Consider the following statements:
+1. **Economic reductionism** is associated with: Focus on observable facts, explanation, correlation, generalization and prediction.
+2. **Empirical approach** is associated with: Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
+Which option is correct?
 
-A. distinct from the legal approach to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
+**Answer: D**
 
-C. (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. A branch or field of learning.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Economic reductionism** with **(treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Economic reductionism does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **(treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.**
+Which correction is most defensible for the claim: **"Interdisciplinary study means political science has lost its identity."**?
 
-A. Political geography
+- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
+- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- C. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
+- D. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
 
-B. Auguste Comte
+**Answer: A**
 
-C. Interdisciplinary approach
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146).
+- **B:** B Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"One discipline can fully explain politics."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
 
-D. Economic reductionism
+> **Examiner trap:** Repair the exact overstatement about "Interdisciplinary study means political science has, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **(treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.** with **Economic reductionism**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Empirical political science made philosophy irrelevant."**?
+
+- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
+- B. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
+- C. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- D. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146).
+- **C:** C Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Empirical political science made philosophy, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **"History and political science are the same thing."**?
+
+- A. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
+- B. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
+- C. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
+- D. Normative approach means Focus on values, prescriptions and what ought to be done; this option treats that proposition as the decisive account.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141).
+- **D:** D Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "History and political science are the same thing.", not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **"One discipline can fully explain politics."**?
+
+- A. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
+- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- C. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
+- D. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146).
+
+> **Examiner trap:** Repair the exact overstatement about "One discipline can fully explain politics.", not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **Discipline means Study of political institutions, processes and ideologies in relation to social structures and modes of thought.**?
+
+- A. Discipline means A branch or field of learning.
+- B. Normative approach means Focus on values.
+- C. Empirical approach means Focus on observable facts, explanation.
+- D. Gauba treats this older formula as an oversimplification; history is used.
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Discipline means A branch or field of learning.
+- **B:** B Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Discipline means Study of political institutions,, not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.**?
+
+- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
+- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- C. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
+- D. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
+- **C:** C Repairs a different misconception, '"One discipline can fully explain politics."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Interdisciplinary approach means Use of, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.**?
+
+- A. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
+- B. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
+- C. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
+- D. Normative approach means Focus on values, prescriptions and what ought to be done.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
+- **D:** D Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Empirical approach means Inquiry into moral and, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Normative approach means Verification through past events, sequences and long-term causation.**?
+
+- A. Discipline means A branch or field of learning; this formulation is presented as sufficient for the classification.
+- B. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
+- C. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF.
+- D. Normative approach means Focus on values, prescriptions and what ought to be done.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Discipline means Study of political institutions, processes and ideologies in relation to social structures and modes of thought.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Normative approach means Focus on values, prescriptions and what ought to be done.
+
+> **Examiner trap:** Repair the exact overstatement about Normative approach means Verification through past, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ STATUS
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No directly owned verified UPSC PYQ is assigned to this Political Theory topic. Political Theory is a conceptual-support repository, and the source mapping expressly prohibits proxy, alias or synthetic PYQ routing. The questions below are therefore labelled as original practice, not PYQs.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Interdisciplinary Political Analysis** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
----
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 1 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Define interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred. Answer in 150 words.
 
-**Question:** Define interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred. Answer in about 150 words.
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred in the opening line, carry the argument on Introduction, Interdisciplinary, Core and Politics, and reserve the closing sentences for the qualification that random accumulation of neighbouring knowledge produces diffusion rather than integration.
 
+**Model answer (144 words):**
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Interdisciplinary political analysis uses evidence, concepts or models from more than one discipline to investigate overlapping social phenomena. Core analysis: Politics is embedded in economic, social, historical, psychological, legal and spatial environments. Political science therefore borrows when another discipline supplies evidence needed to explain a political question. History tests sequences, economics identifies material interests, sociology maps groups, psychology examines attitudes, and philosophy evaluates ends. Gauba's qualification is essential: labour relations, kinship or crowd behaviour enter political analysis only insofar as they illuminate power, authority, conflict, legitimacy or policy. Borrowing is purposeful when the political problem determines what is selected and how it is interpreted. Interdisciplinarity should widen verification and causal depth while keeping political judgment as the organising task. Conclusion: Interdisciplinarity deepens political explanation only when borrowed evidence answers a clearly political question; random accumulation of neighbouring knowledge produces diffusion rather than integration.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Interdisciplinary political analysis uses evidence, concepts or models from more than one discipline to investigate overlapping social phenomena.
-
-**Core analysis:** Politics is embedded in economic, social, historical, psychological, legal and spatial environments. Political science therefore borrows when another discipline supplies evidence needed to explain a political question. History tests sequences, economics identifies material interests, sociology maps groups, psychology examines attitudes, and philosophy evaluates ends. Gauba's qualification is essential: labour relations, kinship or crowd behaviour enter political analysis only insofar as they illuminate power, authority, conflict, legitimacy or policy. Borrowing is purposeful when the political problem determines what is selected and how it is interpreted.
-
-**Critical evaluation:** Random borrowing can produce an impressive list without explanation, while merger into a master science erases distinct questions and standards. Interdisciplinarity should widen verification and causal depth while keeping political judgment as the organising task.
-
-**Conclusion:** Interdisciplinarity deepens political explanation only when borrowed evidence answers a clearly political question; random accumulation of neighbouring knowledge produces diffusion rather than integration.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Define interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinary, Core and Politics), converts that evidence into analysis of interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred, and keeps the examiner-facing qualification that random accumulation of neighbouring knowledge produces diffusion rather than integration. At 144 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** Explain how history and economics contribute differently to political analysis. Answer in about 150 words.
+**Question:** Explain how history and economics contribute differently to political analysis. Answer in 150 words.
 
+**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of how history and economics contribute differently to political analysis in the opening line, carry the argument on Introduction, History, Core and Economics, and reserve the closing sentences for the qualification that neither can independently settle legitimacy or justice.
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (135 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: History and economics enrich political inquiry through different types of evidence and explanation. Core analysis: History supplies sequences, antecedents, comparisons and long-term patterns. It tests whether claims about democracy, state formation or conflict survive variation across time and cases, but becomes mere chronicle if events are not politically interpreted. Economics examines production, distribution, exchange, scarcity and incentives. Political economy uses these mechanisms to explain class conflict, welfare choices, public control and how economic demands shape state decisions. It exposes material constraints that formal institutional analysis may overlook. Critical evaluation: Neither discipline is sufficient alone. Political analysis must interpret historical evidence and economic mechanisms through institutions, power relations and normative standards. Conclusion: History tests political claims across time and sequence, while economics explains material incentives and distributional conflict; neither can independently settle legitimacy or justice.
 
-**Introduction:** History and economics enrich political inquiry through different types of evidence and explanation.
-
-**Core analysis:** History supplies sequences, antecedents, comparisons and long-term patterns. It tests whether claims about democracy, state formation or conflict survive variation across time and cases, but becomes mere chronicle if events are not politically interpreted. Economics examines production, distribution, exchange, scarcity and incentives. Political economy uses these mechanisms to explain class conflict, welfare choices, public control and how economic demands shape state decisions. It exposes material constraints that formal institutional analysis may overlook.
-
-**Critical evaluation:** Neither discipline is sufficient alone. Historical recurrence does not establish present moral worth, and economic interest does not exhaust identity, legitimacy or obligation. Political analysis must interpret historical evidence and economic mechanisms through institutions, power relations and normative standards.
-
-**Conclusion:** History tests political claims across time and sequence, while economics explains material incentives and distributional conflict; neither can independently settle legitimacy or justice.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain how history and economics contribute differently to political analysis.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, History, Core and Economics), converts that evidence into analysis of how history and economics contribute differently to political analysis, and keeps the examiner-facing qualification that neither can independently settle legitimacy or justice. At 135 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** Can political science be studied independently of the other social sciences? Discuss. Answer in about 200 words.
+**Question:** Can political science be studied independently of the other social sciences? Discuss. Answer in 150 words.
 
+**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of political science be studied independently of the other social sciences? Discuss in the opening line, carry the argument on Introduction, Core, History and Behavioural, and reserve the closing sentences for the qualification that conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences.
 
-**Demand decoding:** The operative directive is **Can**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (141 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Political science has a distinct organising concern with power, authority, conflict and binding collective decisions, but its subject matter cannot be isolated from wider social life. Core analysis: Gauba identifies three interdisciplinary functions: political science uses findings from related disciplines, verifies its theories through their evidence and contributes political insight back to them. History supplies temporal testing; economics explains resources and incentives; sociology identifies groups and institutions; psychology studies attitudes and leadership; philosophy clarifies values and ends. Behavioural and systems approaches intensified this exchange by shifting attention from formal government to actors and to the political system's environment. The defensible position is autonomy through integration: a distinct political focus supported by multiple bodies of evidence. Conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences.
 
-**Introduction:** Political science has a distinct organising concern with power, authority, conflict and binding collective decisions, but its subject matter cannot be isolated from wider social life.
-
-**Core analysis:** Gauba identifies three interdisciplinary functions: political science uses findings from related disciplines, verifies its theories through their evidence and contributes political insight back to them. History supplies temporal testing; economics explains resources and incentives; sociology identifies groups and institutions; psychology studies attitudes and leadership; philosophy clarifies values and ends. Behavioural and systems approaches intensified this exchange by shifting attention from formal government to actors and to the political system's environment. Yet borrowing does not abolish disciplinary identity, because the political question determines relevance.
-
-**Further development:** The claim of autonomy must therefore be specified. Political science is autonomous in selecting and organising questions about collective power, but dependent in the evidential sense that those questions unfold through economies, social structures, personalities, histories and moral vocabularies. Interdisciplinary exchange is reciprocal rather than one-way: political institutions and decisions also reshape markets, identities and behaviour. This avoids both disciplinary isolation and the opposite error of treating politics as merely an effect generated elsewhere.
-
-**Critical evaluation:** A completely independent political science would become formally narrow or normatively abstract. Complete merger would be equally mistaken. The defensible position is autonomy through integration: a distinct political focus supported by multiple bodies of evidence.
-
-**Conclusion:** Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Can political science be studied independently of the other social sciences? Discuss.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, History and Behavioural), converts that evidence into analysis of political science be studied independently of the other social sciences? Discuss, and keeps the examiner-facing qualification that conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences. At 141 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Examine the contributions and limits of sociology and psychology in political analysis. Answer in about 200 words.
+**Question:** Examine the contributions and limits of sociology and psychology in political analysis. Answer in 250 words.
 
+**Demand decode:** the directive `examine` requires the answer to test the proposition rather than describe it, weighing what supports and what weakens it. Fix the boundary of the contributions and limits of sociology and psychology in political analysis in the opening line, carry the argument on Introduction, Sociology, Core and Eulau's, and reserve the closing sentences for the qualification that conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment.
 
-**Demand decoding:** The operative directive is **Examine**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (243 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Sociology and psychology correct institutional accounts by explaining the social structures and individual processes through which politics is lived. Core analysis: Political sociology studies groups, status, norms, participation, leadership, political culture and the relation between social structures and political institutions. It explains why similar constitutional forms may operate differently across societies. Political psychology studies attitudes, learning, personality, propaganda, public opinion and charismatic or extremist appeal. It helps reconstruct how citizens and leaders perceive choices and acquire political orientations. Eulau's contextual account and Lipset's emphasis on mobilisation, values, kinship and class illustrate why behaviour cannot be detached from its environment. Further development: Their explanatory levels can be connected through mechanisms. Social structures influence the identities, incentives and information available to actors; psychological processes shape how those conditions are perceived and acted upon; institutions then aggregate or constrain the resulting conduct. This sequence avoids simply listing variables. It also shows why neither approach can establish the legitimacy of an outcome: evaluation of domination, justice or responsibility requires political philosophy in addition to causal explanation. Critical evaluation: Sociological reductionism may turn politics into passive maintenance of social structure, underplaying agency and deliberate institutional change. Psychological reductionism may individualise outcomes produced by class, law or organisation. The two disciplines contribute most when linked to each other and to political institutions. Conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment.
 
-**Introduction:** Sociology and psychology correct institutional accounts by explaining the social structures and individual processes through which politics is lived.
-
-**Core analysis:** Political sociology studies groups, status, norms, participation, leadership, political culture and the relation between social structures and political institutions. It explains why similar constitutional forms may operate differently across societies. Political psychology studies attitudes, learning, personality, propaganda, public opinion and charismatic or extremist appeal. It helps reconstruct how citizens and leaders perceive choices and acquire political orientations. Eulau's contextual account and Lipset's emphasis on mobilisation, values, kinship and class illustrate why behaviour cannot be detached from its environment.
-
-**Further development:** Their explanatory levels can be connected through mechanisms. Social structures influence the identities, incentives and information available to actors; psychological processes shape how those conditions are perceived and acted upon; institutions then aggregate or constrain the resulting conduct. This sequence avoids simply listing variables. It also shows why neither approach can establish the legitimacy of an outcome: evaluation of domination, justice or responsibility requires political philosophy in addition to causal explanation.
-
-**Critical evaluation:** Sociological reductionism may turn politics into passive maintenance of social structure, underplaying agency and deliberate institutional change. Psychological reductionism may individualise outcomes produced by class, law or organisation. The two disciplines contribute most when linked to each other and to political institutions.
-
-**Conclusion:** Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Examine the contributions and limits of sociology and psychology in political analysis.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Sociology, Core and Eulau's), converts that evidence into analysis of the contributions and limits of sociology and psychology in political analysis, and keeps the examiner-facing qualification that conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment. At 243 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Evaluate the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models. Answer in about 250 words.
+**Question:** Evaluate the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models. Answer in 250 words.
 
+**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models in the opening line, carry the argument on Introduction, Interdisciplinary, Core and History, and reserve the closing sentences for the qualification that conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre.
 
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (223 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Interdisciplinary political analysis responds to the fact that political action occurs within overlapping historical, economic, social, psychological and normative environments. Core analysis: History verifies claims through sequences and cases; economics reveals scarcity, production and distribution; sociology explains groups, norms and participation; psychology studies attitudes, learning and leadership; philosophy clarifies obligation, justice and policy ends. Anthropology tests state-centred assumptions through non-state authority, law supplies formal texts and judicial reasoning, and geography reveals the territorial distribution of power and resources. Political science also borrows models: Easton's system comes from general systems thinking, structural-functionalism from sociology and anthropology, Lasswell's problem-solving orientation from psychology and decision theory, and base-superstructure analysis from political economy. Further development: A full evaluation must distinguish data from models and explanation from evaluation. Literacy, income, kinship, attitudes, legal rules and regional distribution are data drawn from different disciplines; systems, structural-functional, market, elite and problem-solving frameworks organise causal interpretation. Philosophy then asks whether the resulting institutions and policies are justified. The approach is not automatically superior merely because it contains more variables. Explanations become incoherent when causal levels are mixed or evidence is imported without relevance. Gauba's remedy is integrated verification without merger and purposeful retention of the political question. Conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre.
 
-**Introduction:** Interdisciplinary political analysis responds to the fact that political action occurs within overlapping historical, economic, social, psychological and normative environments.
-
-**Core analysis:** History verifies claims through sequences and cases; economics reveals scarcity, production and distribution; sociology explains groups, norms and participation; psychology studies attitudes, learning and leadership; philosophy clarifies obligation, justice and policy ends. Anthropology tests state-centred assumptions through non-state authority, law supplies formal texts and judicial reasoning, and geography reveals the territorial distribution of power and resources. Political science also borrows models: Easton's system comes from general systems thinking, structural-functionalism from sociology and anthropology, Lasswell's problem-solving orientation from psychology and decision theory, and base-superstructure analysis from political economy.
-
-**Further development:** A full evaluation must distinguish data from models and explanation from evaluation. Literacy, income, kinship, attitudes, legal rules and regional distribution are data drawn from different disciplines; systems, structural-functional, market, elite and problem-solving frameworks organise causal interpretation. Philosophy then asks whether the resulting institutions and policies are justified. The approach is not automatically superior merely because it contains more variables. Explanations become incoherent when causal levels are mixed or evidence is imported without relevance. A strong interdisciplinary design therefore begins with a political question, identifies the missing evidence, specifies how each discipline changes the hypothesis and ends with an integrated rather than additive judgment.
-
-**Critical evaluation:** Every borrowing carries reductionist risk. Material, social, psychological, legal or spatial variables can be mistaken for complete explanations. Gauba's remedy is integrated verification without merger and purposeful retention of the political question.
-
-**Conclusion:** Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinary, Core and History), converts that evidence into analysis of the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models, and keeps the examiner-facing qualification that conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre. At 223 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 6 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Does interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss. Answer in about 250 words.
+**Question:** Does interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss. Answer in 250 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss in the opening line, carry the argument on Introduction, Interdisciplinarity, Core and History, and reserve the closing sentences for the qualification that yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged.
 
-**Demand decoding:** The operative directive is **Does**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (250 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Interdisciplinarity appears to threaten autonomy because political science borrows much of its evidence and many models from neighbouring disciplines. Core analysis: The threat is real when economics reduces politics to bargaining or class, psychology to personality, sociology to system maintenance, law to formal rules, or geography to spatial destiny. A discipline that merely aggregates these accounts loses a distinct explanatory task. Yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. History, economics, sociology, psychology, philosophy, anthropology, law and geography then become evidence routes organised around that problem. Borrowed models such as Easton's system or Lasswell's problem-solving framework remain political when adapted to political actors, institutions and consequences. Further development: The Indian application can remain conceptual. Analysis of democratic durability may combine historical institution-building, economic inequality, caste or community structures, mass attitudes, constitutional law and territorial diversity. The 29 June 2026 release of MoSPI's SDG National Indicator Framework Progress Report offers a current evidence anchor because it organises time-series indicators across all seventeen SDGs for monitoring and policy. Such a framework illustrates interdisciplinary evidence, not a self-interpreting political conclusion. Indicator selection, distributional priorities, accountability and the meaning of development still require political and philosophical judgment. Purposeful integration deepens political science; uncritical merger or single-discipline reduction threatens it. Conclusion: Interdisciplinarity deepens rather than dissolves political science when borrowing is selective, reductionism is resisted and the discipline retains responsibility for political explanation and evaluation.
 
-**Introduction:** Interdisciplinarity appears to threaten autonomy because political science borrows much of its evidence and many models from neighbouring disciplines.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinarity, Core and History), converts that evidence into analysis of interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss, and keeps the examiner-facing qualification that yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. At 250 words it stays inside the 250-word GS ceiling for 15 marks.
 
-**Core analysis:** The threat is real when economics reduces politics to bargaining or class, psychology to personality, sociology to system maintenance, law to formal rules, or geography to spatial destiny. A discipline that merely aggregates these accounts loses a distinct explanatory task. Yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. History, economics, sociology, psychology, philosophy, anthropology, law and geography then become evidence routes organised around that problem. Borrowed models such as Easton's system or Lasswell's problem-solving framework remain political when adapted to political actors, institutions and consequences.
-
-**Further development:** The Indian application can remain conceptual. Analysis of democratic durability may combine historical institution-building, economic inequality, caste or community structures, mass attitudes, constitutional law and territorial diversity. The 29 June 2026 release of MoSPI's SDG National Indicator Framework Progress Report offers a current evidence anchor because it organises time-series indicators across all seventeen SDGs for monitoring and policy. Such a framework illustrates interdisciplinary evidence, not a self-interpreting political conclusion. Indicator selection, distributional priorities, accountability and the meaning of development still require political and philosophical judgment. The example therefore supports autonomy through integration rather than government by data alone.
-
-**Critical evaluation:** Autonomy therefore means control of the organising question, not insulation from evidence. Purposeful integration deepens political science; uncritical merger or single-discipline reduction threatens it.
-
-**Conclusion:** Interdisciplinarity deepens rather than dissolves political science when borrowing is selective, reductionism is resisted and the discipline retains responsibility for political explanation and evaluation.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Does interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+---

@@ -1,334 +1,341 @@
-ASCII MASTER FLOW — PANEL 1/12: The Integrated Political Question
-CENTRAL FOCUS
-The Integrated Political Question
-  [1] The chapter argues that single-discipline approaches are partial, whereas an
-      interdisciplinary approach seeks an integrated view of politics. (PDF p.146)
-        |
-        v
-  [2] Political science studies politics as a social process, so it must use findings,
-      theories and models from other social sciences where they illuminate political
-      phenomena. (PDF pp.136-137)
-        |
-        v
-  [3] Interdisciplinary inquiry widens perspective, helps verify political claims through
-      other social sciences, and also enables political science to contribute back to
-      them. (PDF p.137)
-        |
-        v
-  [4] For UPSC, this topic prevents shallow answers that explain democracy, state action
-      or mass behaviour through only law, only morality or only economics.
-        |
-        v
-SYNTHESIS -> The Integrated Political Question is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 1/14: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Interdisciplinary Political Analysis.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/09_Interdisciplinary-Political-Analysis.md for the         |
+| evidence-routing matrix and direct-book reconstruction of the chapter                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Definitions, Argument Spine and Purposeful Borrowing
-CENTRAL FOCUS
-Definitions, Argument Spine and Purposeful Borrowing
-  [1] Gauba begins by treating social sciences as related disciplines dealing with common
-      human problems, which makes interdisciplinarity especially suitable to politics.
-      (PDF p.136)
-        |
-        v
-  [2] He insists that political inquiry should borrow from other disciplines purposefully,
-      always to understand political problems, not randomly for their own sake. (PDF
-      p.137)
-        |
-        v
-  [3] Empirical orientation, behavioural analysis and systems analysis pushed political
-      science toward other social sciences because real politics cannot be grasped by
-      ideal-state speculation or formal institutions alone. (PDF pp.138-139)
-        |
-        v
-  [4] Political science therefore uses data, theories and models from history, economics,
-      sociology, psychology and philosophy. (PDF pp.139-146)
-        |
-        v
-  [5] Yet the conclusion is not merger into one master science; the integrated approach
-      keeps politics central while using all relevant disciplines for verification and
-      understanding. (PDF p.146)
-        |
-        v
-SYNTHESIS -> Definitions, Argument Spine and Purposeful Borrowing is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 2/14: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1798-1857 -> Auguste Comte                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1823-92 -> Edward Augustus Freeman                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1834-95 -> John Seeley                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1855-1931 -> Franklin Giddings                                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1858-1917 -> Emile Durkheim                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1864-1920 -> Max Weber                                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Boundaries, Thinkers and Disciplinary Autonomy
-CENTRAL FOCUS
-Boundaries, Thinkers and Disciplinary Autonomy
-  [1] Interdisciplinary vs random borrowing: Gauba warns that expansion across disciplines
-      must be purposeful and well-conceived. (PDF p.137)
-        |
-        v
-  [2] Empirical vs normative: empirical inquiry asks what is; normative inquiry asks what
-      ought to be. (PDF p.138)
-        |
-        v
-  [3] Political science vs political philosophy: scientific-behavioural studies help find
-      facts and tools, while political philosophy helps determine goals of public policy.
-      (PDF pp.145-146)
-        |
-        v
-  [4] Governance boundary: governance explains delivery mechanisms; this topic uses
-      governance-like evidence only when it sharpens a political concept.
-        |
-        v
-  [5] Economy boundary: economics explains market and production mechanisms; political
-      theory uses it to understand conflict, welfare, class and policy choice, not to
-      replace economics as a discipline.
-        |
-        v
-SYNTHESIS -> Boundaries, Thinkers and Disciplinary Autonomy is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 3/14: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1870-1957 -> Arther Bentley                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1876-1936 -> Robert Michels                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1891-1937 -> Antonio Gramsci                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1902-78 -> Harold Lasswell                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1968 -> Behaviour' in the International Encyclopaedia of the Social Sciences             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1969 -> Martin Lipset, in his Introduction to Politics and the Social Sciences           |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Illustrations and the Five-Discipline Matrix
-CENTRAL FOCUS
-Illustrations and the Five-Discipline Matrix
-  [1] Discipline: A branch or field of learning.
-        |
-        v
-  [2] Interdisciplinary approach: Use of more than one discipline to study a problem,
-      especially where common or overlapping phenomena are involved.
-        |
-        v
-  [3] Economy boundary: economics explains market and production mechanisms; political
-      theory uses it to understand conflict, welfare, class and policy choice, not to
-      replace economics as a discipline.
-        |
-        v
-  [4] "One discipline can fully explain politics.": The chapter concludes that
-      philosophical, historical, legal, economic, sociological and psychological
-      approaches are partial when used alone.
-        |
-        v
-  [5] Gauba says a political scientist assessing whether democracy will be sustained may
-      need data on literacy, income distribution, ownership patterns, religious attitudes,
-      family structure and rural-urban composition. (PDF p.139)
-        |
-        v
-SYNTHESIS -> Illustrations and the Five-Discipline Matrix is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 4/14: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. DISCIPLINE: A branch or field of learning. (PDF p.136)                                   |
+| 02. INTERDISCIPLINARY APPROACH: Use of more than one discipline to study a problem,          |
+| especially where common or overlapping phenomena are involved. (PDF p.136)                   |
+| 03. EMPIRICAL APPROACH: Focus on observable facts, explanation, correlation, generalization  |
+| and prediction. (PDF p.138)                                                                  |
+| 04. NORMATIVE APPROACH: Focus on values, prescriptions and what ought to be done. (PDF       |
+| p.138)                                                                                       |
+| 05. POLITICAL ECONOMY: Analysis of political aspects of economic policy-making and of the    |
+| mutual impact of economic forces and political decisions. (PDF p.143)                        |
+| 06. POLITICAL SOCIOLOGY: Study of political institutions, processes and ideologies in        |
+| relation to social structures and modes of thought. (PDF p.144)                              |
+| 07. POLITICAL PSYCHOLOGY: Use of psychological models and techniques to analyse political    |
+| behaviour, attitudes, learning, socialization, leadership and propaganda. (PDF p.145)        |
+| 08. POLITICAL PHILOSOPHY: Inquiry into moral and substantive dimensions of politics,         |
+| including values, obligation, good life and the worth of political systems. (PDF p.146)      |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Trap Repair, Cross-Links, Revision and Sources
-CENTRAL FOCUS
-Trap Repair, Cross-Links, Revision and Sources
-  [1] For economic mechanisms, refer outward to the Economy module in prose rather than
-      reproducing technical economics here.
-        |
-        v
-  [2] For delivery and institutional performance, refer outward to the Governance module
-      in prose rather than turning this topic into an administrative note.
-        |
-        v
-  [3] Define interdisciplinarity as purposeful use of more than one discipline. (PDF
-      p.136)
-        |
-        v
-  [4] Show why empirical orientation, behaviouralism and systems analysis pushed political
-      science outward. (PDF pp.138-139)
-        |
-        v
-  [5] Explain the contribution of each major discipline in one line. (PDF pp.141-146)
-        |
-        v
-  [6] End with Gauba's conclusion: single-discipline approaches are partial; integration
-      is necessary, but merger is not. (PDF p.146)
-        |
-        v
-SYNTHESIS -> Trap Repair, Cross-Links, Revision and Sources is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 5/14: Chapter Spine
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE                                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins by treating social sciences as related disciplines dealing with common      |
+| human problems, which makes interdisciplinarity especially suitable to politics. (PDF p.136) |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He insists that political inquiry should borrow from other disciplines purposefully,     |
+| always to understand political problems, not randomly for their own sake. (PDF p.137)        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Empirical orientation, behavioural analysis and systems analysis pushed political        |
+| science toward other social sciences because real politics cannot be grasped by ideal-state  |
+| speculation or formal institutions alone. (PDF pp.138-139)                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Political science therefore uses data, theories and models from history, economics,      |
+| sociology, psychology and philosophy. (PDF pp.139-146)                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Yet the conclusion is not merger into one master science; the integrated approach keeps  |
+| politics central while using all relevant disciplines for verification and understanding.    |
+| (PDF p.146)                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Anthropology, Law and Geography
-CENTRAL FOCUS
-Anthropology, Law and Geography
-  [1] Exam use: if the question specifically asks for an "interdisciplinary" answer
-      without naming disciplines, a strong 15/20-mark response should be able to name at
-      least six to seven disciplines (history, economics, sociology, psychology,
-      philosophy, anthropology, law, geography) and give one distinct contribution for
-      each, rather than repeating the same five from Gauba's chapter alone.
-        |
-        v
-  [2] Law/jurisprudence as a data source: distinct from the legal approach to studying
-      politics (already covered under §8's traditional approaches), the interdisciplinary
-      use of law supplies political analysis with constitutional text, statutes and
-      judicial reasoning as primary evidence of how authority is formally allocated and
-      constrained.
-        |
-        v
-  [3] Claim → evidence → significance → limit: Claim: legal materials are indispensable
-      evidence for political analysis of institutions and rights. Evidence: constitutional
-      provisions and case law define formal powers, limits and remedies. Significance:
-      grounds political claims about institutional design in verifiable text rather than
-      impression. Limit: legal text alone cannot explain informal power, bargaining or
-      non-compliance — hence the need for sociology/psychology alongside it.
-        |
-        v
-SYNTHESIS -> Anthropology, Law and Geography is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 6/14: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba says a political scientist assessing whether democracy will be sustained may need  |
+| data on literacy, income distribution, ownership patterns, religious attitudes, family       |
+| structure and rural-urban composition. (PDF p.139)                                           |
+| 02. Labour-management relations or crowd psychology should be studied politically only when  |
+| they illuminate their impact on politics. (PDF p.137)                                        |
+| 03. Political development requires understanding social mobilization and value change, not   |
+| merely constitutions or legal forms. (PDF p.140)                                             |
+| 04. Political communication, propaganda, charismatic leadership and public opinion formation |
+| draw directly on political psychology. (PDF pp.144-145)                                      |
+| 05. A good UPSC answer on welfare politics can therefore move from economic scarcity, to     |
+| class/group conflict, to mass attitudes, and finally to philosophical evaluation of justice  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Borrowed Models and Named Reductionisms
-CENTRAL FOCUS
-Borrowed Models and Named Reductionisms
-  [1] Gauba names specific borrowed models political science has drawn from other
-      disciplines: elite theory, base-superstructure analysis (from Marxian political
-      economy), structural-functionalism (from sociology/anthropology),
-      problem-solving/decision models (from psychology and organisational theory), and
-      market/bargaining analogies (from economics). (PDF pp.139-140)
-        |
-        v
-  [2] Gauba's own corrective applies to each: borrowing must remain purposeful and
-      politics-centred; a borrowed model sharpens political analysis only so long as the
-      political question, not the donor discipline's own priorities, stays in view. (PDF
-      pp.137, 146)
-        |
-        v
-  [3] Harold Lasswell's problem-solving model is cited by Gauba as an example of
-      psychology and decision-theory feeding directly into political analysis, reframing
-      political inquiry around identifying problems, generating alternatives and
-      evaluating outcomes. (PDF p.140)
-        |
-        v
-  [4] Economic reductionism (treating all politics as market bargaining or class interest)
-      misses legitimacy, identity and normative claims that are not reducible to material
-      interest.
-        |
-        v
-SYNTHESIS -> Borrowed Models and Named Reductionisms is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 7/14: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. HISTORY | What it mainly contributes = Verification through past events, sequences and   |
+| long-term causation. (PDF p.141) | Typical political-theory use = Testing a theory about     |
+| state formation or democracy against historical cases | Limit if used alone = May become     |
+| mere chronicle if not politically interpreted                                                |
+| 02. ECONOMICS | What it mainly contributes = Insight into production, distribution,          |
+| exchange, scarcity and economic conflict. (PDF pp.142-143) | Typical political-theory use =  |
+| Understanding welfare state claims, class conflict, policy choice and political economy |    |
+| Limit if used alone = Cannot by itself settle legitimacy or justice                          |
+| 03. SOCIOLOGY | What it mainly contributes = Group life, institutions, status, attitudes,    |
+| participation and political culture. (PDF pp.143-144) | Typical political-theory use =       |
+| Explaining political socialization, cleavage, leadership and legitimacy | Limit if used      |
+| alone = Risks reducing politics to social structure alone                                    |
+| 04. PSYCHOLOGY | What it mainly contributes = Motives, attitudes, personality, propaganda    |
+| and leadership appeal. (PDF pp.144-145) | Typical political-theory use = Explaining          |
+| extremist appeal, public opinion and charismatic authority | Limit if used alone = Cannot    |
+| alone explain institutions or economic conflict                                              |
+| 05. PHILOSOPHY | What it mainly contributes = Conceptual clarification, values, moral        |
+| foundations and ends of public life. (PDF pp.145-146) | Typical political-theory use =       |
+| Clarifying liberty, equality, obligation, justice and the goals of policy | Limit if used    |
+| alone = Without empirical grounding, it can become purely speculative                        |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Objections and Integration Without Merger
-CENTRAL FOCUS
-Objections and Integration Without Merger
-  [1] Objection: if political science borrows core models from economics, sociology and
-      psychology, it risks losing any distinct subject-matter of its own and dissolving
-      into "social science in general." Reply: Gauba's own conclusion answers this
-      directly — interdisciplinary borrowing integrates evidence and models from other
-      disciplines but does not merge political science into any one of them; the political
-      question (who gets valued things, through what authoritative process) remains the
-      organising centre even when the evidence used to answer it is economic, sociological
-      or psychological. (PDF p.146)
-        |
-        v
-SYNTHESIS -> Objections and Integration Without Merger is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 8/14: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Interdisciplinary study means political science has lost its identity." =>        |
+| REPAIR: Gauba says political science remains focused on politics while using other           |
+| disciplines for broader and better-grounded analysis. (PDF pp.137, 146)                      |
+| 02. TRAP: "Empirical political science made philosophy irrelevant." => REPAIR: Gauba says    |
+| political philosophy regained prominence after post-behaviouralism and still helps define    |
+| policy goals. (PDF pp.145-146)                                                               |
+| 03. TRAP: "History and political science are the same thing." => REPAIR: Gauba treats this   |
+| older formula as an oversimplification; history is used selectively and critically. (PDF     |
+| p.141)                                                                                       |
+| 04. TRAP: "One discipline can fully explain politics." => REPAIR: The chapter concludes that |
+| philosophical, historical, legal, economic, sociological and psychological approaches are    |
+| partial when used alone. (PDF p.146)                                                         |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Cautious Indian Application
-CENTRAL FOCUS
-Cautious Indian Application
-  [1] Political-economy lens: debates on economic liberalisation, welfare-scheme design or
-      federal fiscal transfers illustrate how political theory uses economic evidence to
-      analyse policy conflict — cite as a type of application, without asserting specific
-      unverified figures, scheme names or years unless independently confirmed.
-        |
-        v
-  [2] Political-sociology lens: caste, community and regional identity's role in Indian
-      party mobilisation and political culture is a standard illustrative anchor for the
-      sociology-politics link — use only as a general, well-known pattern, not with
-      specific unverified electoral statistics.
-        |
-        v
-  [3] Political-geography lens: India's federal reorganisation of states and continuing
-      regional/resource-sharing disputes (river-water disputes, hill-state demands)
-      illustrate how territory and resource distribution shape political conflict — cite
-      as a type of illustration; route exact dates, tribunal names or case detail to the
-      Polity/Geography modules rather than asserting them here.
-        |
-        v
-SYNTHESIS -> Cautious Indian Application is best presented through its central claim, causal
-             logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 9/14: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/09_Interdisciplinary-Political-Analysis.md for the         |
+| evidence-routing matrix and direct-book reconstruction of the chapter                        |
+| 02. Use Political-Theory/00_Master-Framework.md to place this topic beside 01, 08 and later  |
+| state, power and justice topics in the wider module architecture                             |
+| 03. Use Political-Theory/README.md for the numbered topic map and dated-source discipline    |
+| for the whole folder                                                                         |
+| 04. For economic mechanisms, refer outward to the Economy module in prose rather than        |
+| reproducing technical economics here                                                         |
+| 05. For delivery and institutional performance, refer outward to the Governance module in    |
+| prose rather than turning this topic into an administrative note                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Directive Decoding and Mark-Scaled Answer Architecture
-CENTRAL FOCUS
-Directive Decoding and Mark-Scaled Answer Architecture
-  [1] "Examine the contribution of [a named discipline] to political analysis" →
-      single-discipline directive: give that discipline's specific contribution, one
-      borrowed model or example, and its limit if used alone.
-        |
-        v
-  [2] "Discuss the interdisciplinary character of political science" → requires the
-      definition of interdisciplinarity, at least three disciplines with one contribution
-      each, and the integration-without-merger conclusion — not just a list of subject
-      names.
-        |
-        v
-  [3] "Can political science be studied independently of other social sciences?" →
-      requires the objection/reply on subject-matter dissolution (§15.1) explicitly.
-        |
-        v
-  [4] Thesis: political science needs other disciplines' evidence and models but keeps the
-      political question central.
-        |
-        v
-  [5] Full doctrine reconstruction across history, economics, sociology, psychology,
-      philosophy, plus anthropology, law and geography, each with
-      claim→evidence→significance→limit.
-        |
-        v
-SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 10/14: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Define interdisciplinarity as purposeful use of more than one discipline. (PDF p.136)    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Show why empirical orientation, behaviouralism and systems analysis pushed political     |
+| science outward. (PDF pp.138-139)                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Explain the contribution of each major discipline in one line. (PDF pp.141-146)          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. End with Gauba's conclusion: single-discipline approaches are partial; integration is    |
+| necessary, but merger is not. (PDF p.146)                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. In Mains, move from evidence -> explanation -> normative evaluation                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. In Prelims, remember the paired terms: political economy, political sociology, political |
+| psychology, political philosophy                                                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Discipline: A branch or field of learning.
-        |
-        v
-  [2] Interdisciplinary approach: Use of more than one discipline to study a problem,
-      especially where common or overlapping phenomena are involved.
-        |
-        v
-  [3] Empirical approach: Focus on observable facts, explanation, correlation,
-      generalization and prediction.
-        |
-        v
-  [4] Normative approach: Focus on values, prescriptions and what ought to be done.
-        |
-        v
-SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 11/14: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Political science studies politics as a social process, so it must use findings,         |
+| theories and models from other social sciences where they illuminate political phenomena.    |
+| (PDF pp.136-137)                                                                             |
+| 02. Term - Exam-ready meaning                                                                |
+| 03. Interdisciplinary vs random borrowing: Gauba warns that expansion across disciplines     |
+| must be purposeful and well-conceived. (PDF p.137)                                           |
+| 04. Gauba says a political scientist assessing whether democracy will be sustained may need  |
+| data on literacy, income distribution, ownership patterns, religious attitudes, family       |
+| structure and                                                                                |
+| 05. "Interdisciplinary study means political science has lost its identity." -> Gauba says   |
+| political science remains focused on politics while using other disciplines for broader and  |
+| better                                                                                       |
+| 06. Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology, psychology   |
+| and philosophy. A complete interdisciplinary answer should also be able to place             |
+| anthropology, law and                                                                        |
+| 07. Reductionism, named precisely: each borrowed model risks a specific reductionism if used |
+| alone                                                                                        |
+| 08. 1. Objection: if political science borrows core models from economics, sociology and     |
+| psychology, it risks losing any distinct subject-matter of its own and dissolving into       |
+| "social science                                                                              |
+| 09. Political-economy lens: debates on economic liberalisation, welfare-scheme design or     |
+| federal fiscal transfers illustrate how political theory uses economic evidence to analyse   |
+| policy                                                                                       |
+| 10. "Discuss the interdisciplinary character of political science" -> requires the           |
+| definition of interdisciplinarity, at least three disciplines with one contribution each,    |
+| and the integration                                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Gauba says a political scientist assessing whether democracy will be sustained may
-      need data on literacy, income distribution, ownership patterns, religious attitudes,
-      family structure and rural-urban composition. (PDF p.139)
-        |
-        v
-  [2] A good UPSC answer on welfare politics can therefore move from economic scarcity, to
-      class/group conflict, to mass attitudes, and finally to philosophical evaluation of
-      justice.
-        |
-        v
-  [3] Exam use: if the question specifically asks for an "interdisciplinary" answer
-      without naming disciplines, a strong 15/20-mark response should be able to name at
-      least six to seven disciplines (history, economics, sociology, psychology,
-      philosophy, anthropology, law, geography) and give one distinct contribution for
-      each, rather than repeating the same five from Gauba's chapter alone.
-        |
-        v
-SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 12/14: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Integrated Political                                                                         |
+| 02. Discipline; Interdisciplinary approach; Empirical approach; Normative approach;          |
+| Political economy; Political sociology; Political psychology                                 |
+| 03. Interdisciplinary vs random borrowing:; Empirical vs normative:; Political science vs    |
+| political philosophy:; Interdisciplinary = dissolving political theory into economics or     |
+| sociology.; Governance boundary:; Economy boundary:; Aristotle:                              |
+| 04. History; Economics; Sociology; Psychology; Philosophy; Illustrations; Five-Discipline    |
+| Matrix                                                                                       |
+| 05. "Interdisciplinary study means political science has lost its identity."; "Empirical     |
+| political science made philosophy irrelevant."; "History and political science are the same  |
+| thing."; "One discipline can fully explain politics."; Answer spine:; evidence; explanation  |
+| 06. Political anthropology:; Claim -> evidence -> significance -> limit:; Law/jurisprudence  |
+| as a data source:; Political geography:; Anthropology; Geography; SESSION                    |
+| 07. elite theory; base-superstructure analysis; structural-functionalism; problem-           |
+| solving/decision models; David Easton's political-system framework; Harold Lasswell's        |
+| problem-solving model; Reductionism, named precisely:                                        |
+| 08. Objection:; Reply:; Objections; Integration Without; Merger; SESSION; Objection          |
+| 09. Cautious Indian; Application; SESSION; Political-economy; Political-sociology; Indian;   |
+| Political-geography                                                                          |
+| 10. Directive Decoding; Mark-Scaled Answer; Architecture; SESSION; Executable; Directive;    |
+| Discuss                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/14: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Define interdisciplinary political analysis and explain why borrowing must     |
+| remain purposeful and politics-centred. Answer in 150 words                                  |
+| 02. 10 MARKS: Explain how history and economics contribute differently to political          |
+| analysis. Answer in 150 words                                                                |
+| 03. 10 MARKS: Can political science be studied independently of the other social sciences?   |
+| Discuss. Answer in 150 words                                                                 |
+| 04. 15 MARKS: Examine the contributions and limits of sociology and psychology in political  |
+| analysis. Answer in 250 words                                                                |
+| 05. 15 MARKS: Evaluate the interdisciplinary approach to political analysis with reference   |
+| to major disciplines and borrowed models. Answer in 250 words                                |
+| 06. 15 MARKS: Does interdisciplinarity deepen or threaten the autonomy of political science? |
+| Critically discuss. Answer in 250 words                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/14: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Gauba says a political scientist assessing whether democracy will be sustained    |
+| may need data on literacy, income distribution, ownership patterns, religious attitudes,     |
+| family structure and. 1. Objection: if political science borrows core models from economics, |
+| sociology and psychology, it risks losing any distinct subject-matter of its own and         |
+| dissolving into "social science. Write it as a graded finding - boundary, named evidence,    |
+| objection, and the residue that survives the objection - rather than as a summary            |
++----------------------------------------------------------------------------------------------+

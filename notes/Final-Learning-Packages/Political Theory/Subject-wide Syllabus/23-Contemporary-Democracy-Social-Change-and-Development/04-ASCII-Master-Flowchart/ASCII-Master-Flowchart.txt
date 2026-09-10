@@ -1,215 +1,428 @@
-ASCII MASTER FLOW — PANEL 1/12: The Contemporary-Democracy Map and Stakes
-CENTRAL FOCUS
-The Contemporary-Democracy Map and Stakes
-  [1] Contemporary democracy asks who competes, participates, reasons and benefits.
-        |
-        v
-  [2] Social change differs by pace, agency, structure and moral direction.
-        |
-        v
-  [3] Development is wider than output because institutions and capabilities matter.
-        |
-        v
-  [4] The master test is whether public agency and human welfare actually improve.
-        |
-        v
-VERDICT -> Democracy in mass society needs realism and justification.
-ANSWER USE -> Define each model, then name its central democratic deficit.
+ASCII MASTER FLOW — PANEL 1/18: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Contemporary Democracy, Social Change and Development.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Companion file: Political-Theory/advanced/23_Contemporary-Democracy-Social-Change-and-   |
+| Development.md                                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Core Definitions and the Chapter Spine
-CENTRAL FOCUS
-Core Definitions and the Chapter Spine
-  [1] Elitist democracy centres competitive leadership choice.
-        |
-        v
-  [2] Pluralist democracy centres bargaining among organised groups.
-        |
-        v
-  [3] Participation widens citizen action; deliberation adds public justification.
-        |
-        v
-  [4] Revolution, evolution, development and progress are distinct change concepts.
-        |
-        v
-VERDICT -> Definitions are useful only when their threshold differences stay clear.
-ANSWER USE -> Separate democracy models and change concepts before comparison.
+ASCII MASTER FLOW — PANEL 2/18: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1712-78 -> Jean-Jaques Rousseau                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1762 -> In his classic work The Social Contract                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1789 -> French Revolution                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1789 -> Europe before the French Revolution                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1798-1857 -> Auguste Comte                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Democracy Models, Thinkers and Comparative Tests
-CENTRAL FOCUS
-Democracy Models, Thinkers and Comparative Tests
-  [1] Schumpeter treats democracy as competition among leadership teams.
-        |
-        v
-  [2] Dahl's pluralism disperses influence without proving equal political voice.
-        |
-        v
-  [3] Macpherson criticises market-style democracy as too thin and possessive.
-        |
-        v
-  [4] Marxist and deliberative tests add class power and public justification.
-        |
-        v
-VERDICT -> No single democracy model captures leadership, power and legitimacy.
-ANSWER USE -> Compare the models through one strength and one democratic deficit.
+ASCII MASTER FLOW — PANEL 3/18: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1809-92 -> Lord Alfred Tennyson                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1815-98 -> Prince Bismarck                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1818-83 -> Karl Marx                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1820-1903 -> Herbert Spencer                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1820-95 -> Friedrich Engels                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1822-88 -> Henry Sumner Maine                                                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Revolution, Evolution, Development and Progress
-CENTRAL FOCUS
-Revolution, Evolution, Development and Progress
-  [1] Revolution is abrupt structural rupture; evolution is cumulative gradual change.
-        |
-        v
-  [2] Development concerns stronger and more effective organisation.
-        |
-        v
-  [3] Progress adds a moral judgment that change is better.
-        |
-        v
-  [4] Popper rejects historicist inevitability and prefers piecemeal reform.
-        |
-        v
-VERDICT -> Change concepts differ by pace, structure and moral content.
-ANSWER USE -> Separate revolution, evolution, development and progress first.
+ASCII MASTER FLOW — PANEL 4/18: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1847-1922 -> Georges Sorel                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1848-1923 -> Vilfredo Pareto                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1848 -> Engels made it clear in the concluding part of The Communist Manifesto           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1852-1928 -> Herbert Henry Asquith                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1855-1936 -> Then Ferdinand Tonnies                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1858-1917 -> Emile Durkheim                                                              |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Development Models Beyond GDP
-CENTRAL FOCUS
-Development Models Beyond GDP
-  [1] Development is wider than GDP because rights, welfare and capability matter.
-        |
-        v
-  [2] Market, welfare, socialist, Gandhian and sustainable paths differ normatively.
-        |
-        v
-  [3] Growth may coexist with exclusion, inequality or ecological harm.
-        |
-        v
-  [4] Model comparison must test ownership, welfare, freedom and sustainability.
-        |
-        v
-VERDICT -> Development is broader than output and disputed across rival models.
-ANSWER USE -> Compare ownership, welfare, freedom and ecology before the verdict.
+ASCII MASTER FLOW — PANEL 5/18: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1864-1920 -> Then Max Weber                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1867 -> Benjamin Disraeli                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1869-1948 -> GANDHIAN MODEL Mahatma Gandhi                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1871-90 -> German Chancellor                                                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Applications, Boundaries and Revision Control
-CENTRAL FOCUS
-Applications, Boundaries and Revision Control
-  [1] GDP growth, institutional development and moral progress must stay separate.
-        |
-        v
-  [2] India-specific illustrations require diversity and institutional-capacity caution.
-        |
-        v
-  [3] Current examples illustrate concepts but do not prove a whole theory.
-        |
-        v
-  [4] Revision should move from definition to distinction, objection and verdict.
-        |
-        v
-VERDICT -> Application is sound only when boundaries and source limits stay visible.
-ANSWER USE -> Use India as illustration, then state the conceptual caveat.
+ASCII MASTER FLOW — PANEL 6/18: Chapter Spine
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE                                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba first reconstructs modern democracy through elite theory, pluralism,               |
+| participation, Marxist critique and deliberative democracy (PDF pp.513-539)                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then explains that theories of social change use different concepts - revolution,     |
+| evolution, development and progress - and that these are not interchangeable (PDF            |
+| pp.540-542)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Marxist theory interprets major social transformation through class struggle,            |
+| dialectical materialism and revolution, while Popper's liberal alternative favours piecemeal |
+| reform or incremental change (PDF pp.542-554)                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. The final chapter defines development, explains underdevelopment and presents rival      |
+| development paths: market, welfare, socialist and Gandhian, before adding sustainable and    |
+| political development and the linked tasks of nation-building and state-building (PDF        |
+| pp.555-576)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. The deeper unity of the three chapters is that democracy, change and development are all |
+| debates about who participates, who benefits and what counts as improvement                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Elite Theory, Gramsci and Competitive Leadership
-CENTRAL FOCUS
-Elite Theory, Gramsci and Competitive Leadership
-  [1] Elite theory explains leadership concentration in large organisations.
-        |
-        v
-  [2] Michels identifies oligarchic tendencies within organised movements.
-        |
-        v
-  [3] Gramsci adds hegemony: rule also works through consent and common sense.
-        |
-        v
-  [4] Competitive recruitment may circulate elites without equalising public power.
-        |
-        v
-VERDICT -> Elite realism needs a power-and-hegemony correction.
-ANSWER USE -> Pair organisational concentration with consent and accountability.
+ASCII MASTER FLOW — PANEL 7/18: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. If two large parties ask citizens mainly to choose between leadership teams, the case    |
+| fits elitist democracy                                                                       |
+| 02. If farmers' unions, teachers' groups, traders and women's associations all pressure      |
+| government over a policy, the case fits pluralist democracy                                  |
+| 03. If citizens attend ward meetings, sign petitions, join peaceful marches and monitor      |
+| projects, the case illustrates participatory democracy                                       |
+| 04. If a public forum requires arguments to be justified in terms others can answer rather   |
+| than merely shouted as preferences, the case illustrates deliberative democracy              |
+| 05. If a society replaces one land system overnight through violent upheaval, the change is  |
+| revolutionary; if it reforms land law step by step, the change is incremental                |
+| 06. If output rises but inequality, ecological harm and exclusion deepen, growth has         |
+| occurred but development remains questionable                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Political Development, Modernisation and Kothari
-CENTRAL FOCUS
-Political Development, Modernisation and Kothari
-  [1] Coleman, Pye, Almond and Powell stress differentiation and political capacity.
-        |
-        v
-  [2] Pye's crises include identity, legitimacy and participation.
-        |
-        v
-  [3] Modernisation becomes unsafe when one Western endpoint is assumed.
-        |
-        v
-  [4] Kothari is a flagged Indian bridge, not a silent Gauba-page attribution.
-        |
-        v
-VERDICT -> Political development theory is useful only when teleology is checked.
-ANSWER USE -> Pair one capacity insight with one ethnocentric danger.
+ASCII MASTER FLOW — PANEL 8/18: Comparison Matrix (1/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. ELITIST | Core claim = Leaders rule; citizens choose among competing elites (PDF         |
+| pp.514-516) | Best insight = Realistically notes leadership concentration | Main caution =   |
+| Risks shrinking democracy to periodic choice only                                            |
+| 02. PLURALIST | Core claim = Policy is bargaining among groups (PDF pp.516-517) | Best       |
+| insight = Highlights dispersed influence | Main caution = Organized groups may outweigh      |
+| weaker citizens                                                                              |
+| 03. PARTICIPATORY | Core claim = Citizens should act beyond voting (PDF pp.518-522) | Best   |
+| insight = Builds accountability and civic learning | Main caution = Gauba notes over-        |
+| mobilization may become disruptive if unchecked (PDF p.522)                                  |
+| 04. MARXIST | Core claim = Liberal democracy masks bourgeois domination; real democracy      |
+| needs class transformation (PDF pp.523-535) | Best insight = Exposes the social basis of     |
+| power | Main caution = Civil liberties and opposition can be sharply curtailed in the        |
+| socialist transition                                                                         |
+| 05. DELIBERATIVE | Core claim = Legitimate decisions require public reasoning plus freedom   |
+| (PDF pp.537-539) | Best insight = Distinguishes argument from mere aggregation | Main        |
+| caution = Participation alone is not enough; reason-giving is essential                      |
+| 06. MODEL | Core claim = Core aim | Best insight = Positive promise | Main caution = Main    |
+| warning                                                                                      |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Dependency, Indian Application and Objection-Reply Chains
-CENTRAL FOCUS
-Dependency, Indian Application and Objection-Reply Chains
-  [1] Dependency treats underdevelopment as historically produced, not merely delayed.
-        |
-        v
-  [2] World-systems analysis makes unequal core-periphery relations central.
-        |
-        v
-  [3] Indian development cannot be reduced to imitation of a single Western path.
-        |
-        v
-  [4] Objections must test teleology, class structure, diversity and institutional reach.
-        |
-        v
-VERDICT -> Underdevelopment may be historically structured, not simply delayed.
-ANSWER USE -> Compare modernisation with dependency, then add Indian caution.
+ASCII MASTER FLOW — PANEL 9/18: Comparison Matrix (2/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 07. MARKET | Core claim = Modernization through growth, competition and open economy (PDF    |
+| pp.562-563) | Best insight = Encourages productivity and mobility | Main caution = May       |
+| weaken solidarity and subordinate life to profit (PDF p.563)                                 |
+| 08. WELFARE | Core claim = Social security and redistribution within a market society (PDF   |
+| pp.563-565) | Best insight = Softens market exclusion and provides basic services | Main     |
+| caution = Resource shortage, inefficiency and corruption can blunt outcomes in poorer states |
+| (PDF p.565)                                                                                  |
+| 09. SOCIALIST | Core claim = Social ownership, worker welfare and planned development (PDF   |
+| pp.565-566) | Best insight = Strong focus on employment and socio-economic rights | Main     |
+| caution = Civil-political liberties may receive lower priority (PDF p.565)                   |
+| 10. GANDHIAN | Core claim = Moral self-restraint, labour dignity and need-based living (PDF  |
+| pp.566-568) | Best insight = Checks consumerism and concentration of wealth | Main caution = |
+| Large modern economies may not simply replicate Gandhi's anti-industrial preference          |
+| 11. SUSTAINABLE | Core claim = Meet present needs without destroying future capacity (PDF    |
+| pp.568-572) | Best insight = Brings ecology into development theory | Main caution =         |
+| Development cannot mean limitless extraction and consumption                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Directive Control, Quotation Safety and Source Discipline
-CENTRAL FOCUS
-Directive Control, Quotation Safety and Source Discipline
-  [1] Directive words determine whether an answer defines, compares or evaluates.
-        |
-        v
-  [2] Quotations and named additions require explicit source certainty.
-        |
-        v
-  [3] India examples should illustrate a mechanism without becoming proof-texts.
-        |
-        v
-  [4] Answers should move from thesis to distinction, mechanism and graded verdict.
-        |
-        v
-VERDICT -> Source discipline and directive control turn knowledge into marks.
-ANSWER USE -> State ownership, mechanism, objection and graded conclusion.
+ASCII MASTER FLOW — PANEL 10/18: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Participation and deliberation mean the same thing." => REPAIR: Participation is  |
+| involvement; deliberation adds reasoned justification and mutual persuasion (PDF pp.518-522, |
+| 537-539)                                                                                     |
+| 02. TRAP: "Development is just GDP or growth." => REPAIR: Gauba's development chapter        |
+| includes social structure, welfare, rights, environment and political capability (PDF        |
+| pp.555-576)                                                                                  |
+| 03. TRAP: "Progress is a neutral empirical term." => REPAIR: Progress involves a moral       |
+| judgment that a new condition is better (PDF p.541)                                          |
+| 04. TRAP: "Marxist democracy simply means one ruler's dictatorship." => REPAIR: Gauba        |
+| presents it as a theory of class rule and socialist transition, not as a synonym for         |
+| personal autocracy (PDF pp.525-528)                                                          |
+| 05. TRAP: "Third world" or Soviet-bloc references in the chapter are timeless present facts  |
+| => REPAIR: They are book-period/historical frames from a 2009 text and must be dated         |
+| accordingly (PDF pp.555-561)                                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Populism risks anti-plural claims to represent one authentic people.
-        |
-        v
-  [2] Ecological theory tests standing, productivism and environmental justice.
-        |
-        v
-  [3] Digital democracy changes consent, information and organisation.
-        |
-        v
-  [4] Democratisation, backsliding and movements name distinct political processes.
-        |
-        v
-VERDICT -> Contemporary extensions must remain distinct and explicitly supplemental.
-ANSWER USE -> Name the process and democratic function before applying it.
+ASCII MASTER FLOW — PANEL 11/18: Ownership Boundaries and Cross-Links (1/2)
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS (1/2)                                                   |
++----------------------------------------------------------------------------------------------+
+| 01. Companion file: Political-Theory/advanced/23_Contemporary-Democracy-Social-Change-and-   |
+| Development.md                                                                               |
+| 02. Revise Political-Theory/basic/03_Liberalism-and-Neoliberalism.md for the liberal         |
+| assumptions behind procedural democracy and market-centred development                       |
+| 03. Revise Political-Theory/basic/04_Marxism-and-Neo-Marxism.md for class analysis,          |
+| revolution and critique of capitalism                                                        |
+| 04. Revise Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md for         |
+| democratic socialism and Gandhian moral-political premises                                   |
+| 05. Revise Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md for how  |
+| global structures condition development paths                                                |
+| 06. Use Governance/advanced/14_Participatory-Governance.md when the answer shifts from       |
+| democratic theory to participatory administrative practice                                   |
+| 07. Use Polity/advanced/11_Parliamentary-System.md for representative institutions; this     |
+| file explains the democratic theories behind them                                            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Philosophy cross-applied PYQs stay secondarily routed here, not re-owned.
-        |
-        v
-  [2] Use them as tested bridges on democracy, development and social change.
-        |
-        v
-  [3] Topic 23 original practice must remain original while preserving ownership.
-        |
-        v
-  [4] Answers should move from thesis to distinction, mechanism and graded verdict.
-        |
-        v
-VERDICT -> Tested bridges may be used, but ownership discipline remains explicit.
-ANSWER USE -> Mark Philosophy PYQs as secondary and keep Topic 23 practice original.
+ASCII MASTER FLOW — PANEL 12/18: Ownership Boundaries and Cross-Links (2/2)
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS (2/2)                                                   |
++----------------------------------------------------------------------------------------------+
+| 08. Populism is reconstructed in full in ?21 of this file (thin-centred core, left/right     |
+| variants, leader mediation, the case for and against, populism vs popular democracy, three   |
+| objection->reply chains, Indian caution and answer architecture)                             |
+| 09. Ecological political theory - distinct from the sustainable/ecological development model |
+| in ?8B - is reconstructed in ?22 (orientations, productivism critique, intergenerational     |
+| justice, stewardship, environmental justice, eco-authoritarian risk and the democratic/just- |
+| transition reply). Environmental facts, policy and data belong to Environment-and-Ecology/   |
+| and Governance/, not here                                                                    |
+| 10. Digital democracy is in ?23, which covers only the democratic-theory layer (consent,     |
+| representation, public sphere). The power-theory apparatus - panopticism, algorithmic power, |
+| the three-dimensional ladder applied, surveillance asymmetry, public/private power and the   |
+| Puttaswamy conceptual anchor - is owned by Political-Theory/basic/15_Power-Authority-and-    |
+| Legitimacy.md ?14 and is deliberately not duplicated here                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/18: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Define the democracy model first: elitist, pluralist, participatory, Marxist or          |
+| deliberative                                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Add one sharp distinction: participation is action; deliberation is reasoned action      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. When asked about change, separate revolution, evolution, development and progress before |
+| comparing any thinker                                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. When asked about development, state clearly that growth is only one dimension            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Use rival paths as a spectrum: market -> welfare -> socialist -> Gandhian -> sustainable |
+| corrective                                                                                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/18: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 06. End by linking political development with nation-building and state-building in new or   |
+| diverse polities                                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. If a question mixes democracy and development, show that participation concerns voice    |
+| while development concerns the quality and direction of collective outcomes                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. If a question uses the word "modernization," qualify it carefully because Gauba treats   |
+| it as only one strand within a larger development debate                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/18: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba shifts from older ethical theories of democracy to contemporary theories shaped by |
+| sociology, class analysis, participation and deliberation (PDF pp.513-539)                   |
+| 02. Elitist democracy: democracy means competitive selection of rulers by the people, not    |
+| direct rule by the people themselves (PDF pp.514-516)                                        |
+| 03. Participation vs deliberation: participation means taking part in politics; deliberation |
+| adds the extra requirement of reason-giving, mutual persuasion and justified decision (PDF   |
+| 04. If two large parties ask citizens mainly to choose between leadership teams, the case    |
+| fits elitist democracy                                                                       |
+| 05. Model - Core claim - Best insight - Main caution                                         |
+| 06. "Participation and deliberation mean the same thing." -> Participation is involvement;   |
+| deliberation adds reasoned justification and mutual persuasion (PDF pp.518-522, 537-539)     |
+| 07. Gaetano Mosca - "ruling/political class" (The Ruling Class, Italian original Elementi di |
+| Scienza Politica, 1896): in every society an organised minority ("the political class")      |
+| rules an                                                                                     |
+| 08. James S. Coleman, co-editor with Gabriel Almond of The Politics of the Developing Areas  |
+| (1960): associates political development with the differentiation of specialised political   |
+| 09. Dependency and world-systems alternatives to modernisation theory (associated broadly    |
+| with Andre Gunder Frank's "development of underdevelopment" thesis and Immanuel              |
+| Wallerstein's world                                                                          |
+| 10. 10-mark architecture (~150 words): qualified thesis naming the democracy model or        |
+| development framework at stake -> one named-evidence unit -> one brief objection/limitation  |
+| -> qualified                                                                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/18: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Contemporary-Democracy                                                                       |
+| 02. Elitist democracy:; Pluralist democracy:; Participatory democracy:; Marxist democracy:;  |
+| Deliberative democracy:; Revolution:; Evolution:                                             |
+| 03. Participation vs deliberation:; Elitist vs pluralist democracy:; Liberal vs Marxist      |
+| democracy:; Revolution vs evolution:; Development vs progress:; Development vs GDP:;         |
+| Schumpeter:                                                                                  |
+| 04. Revolution; Evolution; Development; Progress; SESSION; Illustrative                      |
+| 05. Elitist; Pluralist; Participatory; Marxist; Deliberative; Market; Welfare                |
+| 06. "Participation and deliberation mean the same thing."; "Development is just GDP or       |
+| growth."; "Progress is a neutral empirical term."; "Marxist democracy simply means one       |
+| ruler's dictatorship."; Populism; Ecological political theory; Digital democracy             |
+| 07. Gaetano Mosca - "ruling/political class"; Robert Michels - the "iron law of oligarchy";  |
+| Vilfredo Pareto - "circulation of elites"; Giovanni Sartori - democratic/competitive         |
+| elitism; Raymond Aron - plural elites in industrial society; Antonio Gramsci - hegemony;     |
+| Elite Theory                                                                                 |
+| 08. James S. Coleman; Lucian Pye - "crises of political development"; Almond and Powell -    |
+| structural-functional developmental approach; Modernisation-teleology critique:; Provenance  |
+| and certainty note:; The "Congress System"; Nation-building through accommodative politics:  |
+| 09. Dependency and world-systems alternatives to modernisation theory; Cautious Indian       |
+| application:; Dependency; Indian Application; Objection-Reply Chains; SESSION; Social-change |
+| 10. Directive decoding:; plus; and; 10-mark architecture (~150 words):; 15-mark architecture |
+| (~200-250 words):; Extended to ??21-23:; paraphrased                                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/18: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish participatory democracy from deliberative democracy. Why is        |
+| participation alone insufficient for democratic legitimacy? Answer in 150 words              |
+| 02. 10 MARKS: Why must development be distinguished from both GDP growth and moral progress? |
+| Explain with reference to rights, welfare, ecology and political capability. Answer in 150   |
+| words                                                                                        |
+| 03. 10 MARKS: Examine whether elitist and pluralist theories explain democracy in mass       |
+| society more realistically than participatory and deliberative theories. Answer in 150 words |
+| 04. 15 MARKS: Compare political modernisation with dependency and world-systems critiques.   |
+| Why must development in India not be equated with Westernisation? Answer in 250 words        |
+| 05. 15 MARKS: Democracy may survive elections yet lose substance when participation, rights, |
+| accountability and ecological limits are neglected. Critically discuss with reference to     |
+| development models and India-specific change. Answer in 250 words                            |
+| 06. 15 MARKS: Distinguish democratisation, democratic backsliding and social movements, and  |
+| evaluate how populism and digital mediation can either widen or corrode democratic life.     |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/18: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Gaetano Mosca - "ruling/political class" (The Ruling Class, Italian original      |
+| Elementi di Scienza Politica, 1896): in every society an organised minority ("the political  |
+| class") rules an. Dependency and world-systems alternatives to modernisation theory          |
+| (associated broadly with Andre Gunder Frank's "development of underdevelopment" thesis and   |
+| Immanuel Wallerstein's world. The mark therefore comes from the qualification: state the     |
+| strongest case, then the limit at which it stops being defensible                            |
++----------------------------------------------------------------------------------------------+

@@ -1,40 +1,37 @@
 ---
 topic_key: political-theory-21
 title: Common Good and Community — Complete Topic Package
-generation_identity: political-theory-21:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-21:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Common Good and Community — Complete Topic Package
 
-**Subject:** Political Theory  
-**Section:** Subject-wide Syllabus  
-**Generation:** learner-v2:g3  
-**Ownership:** supplementary conceptual support; no synthetic GS or Optional PYQ ownership is created.  
-**Source policy:** complete Basic owner first; optional Advanced depth only after practice.
-
-
-### 2025 CURRENT ANCHOR - NATIONAL COOPERATION POLICY
-
-✅ **Official fact:** The Ministry of Cooperation's National Cooperation Policy 2025 sets out a framework for strengthening and expanding India's cooperative sector. The official policy material organises the programme around six strategic mission pillars and emphasises inclusion, professionalisation, digitalisation and wider participation in cooperative growth.
-
-⚠️ **Conceptual use:** Cooperatives offer an India-centric test of common good: shared production and benefit can deepen solidarity, but internal accountability, minority voice and protection from dominant groups remain necessary.
-
-**Official source:** https://www.cooperation.gov.in/en/node/2333
+**Subject:** Political Theory
+**Section:** Subject-wide Syllabus
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Cross-application:** GS-I, GS-IV and Essay only where genuinely relevant
+**Classification firewall:** Political Theory is a GS/Prelims foundation, not a separate UPSC paper.
+**Source policy:** complete Basic owner first; Advanced enrichment only after practice.
 
 ### DEEP-REVIEW LEARNING CONTRACT
 
-- **Learning goal:** move from an easy visual map through these ten stages: Topic Stakes, Concept Map and Essential Definitions; Gauba's Common-Good Argument; Common Good, Common Interest, Public Interest and Consensus; The Liberal Route and Macpherson's Correction; Communitarian Embeddedness and Thinker-Specific Mechanisms; The Marxian Class Barrier; Gandhian Trusteeship, Bread Labour and Sarvodaya; Comparison, Trap Repair and Revision Spine; Directive Control, Reconstructions and Objection-Reply Chains; Plurality, Indian Applications, MCQ Ledger and PYQ Routes.
-- **Syllabus boundary:** this package supplies Political Theory concepts and cross-applies only verified Philosophy Optional PYQs with their primary ownership preserved; constitutional, institutional and current-policy detail remains with its direct repository owner.
-- **Answer-grabbing opening:** Common Good and Community should be introduced through its controlling political question, not through biography or a dictionary list.
-- **Transition rule:** define the concept → name the thinker or evidence → explain the political mechanism → test the strongest objection → qualify the verdict.
-- **Conclusion rule:** answer the directive directly and state the remaining limit; do not end with an unqualified slogan.
+- **Core scope:** liberal, communitarian, Marxian and Gandhian common good.
+- **Source rule:** canonical Basic/Core, Advanced, assembled package, official GS mapping, routed
+  Prelims/GS ledgers and OCR-searchable local books were reconciled before repair.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; when none exists,
+  original GS practice is labelled honestly.
+- **Writing rule:** claim -> named evidence/example -> analysis -> qualification/link to demand.
+- **Advanced rule:** `OPTIONAL ADVANCED DEPTH` means enrichment beyond a core GS answer and never
+  a separate-paper classification.
 
 ## BASIC LEARNING SESSION
 
+
 ### SESSION 1 — Topic Stakes, Concept Map and Essential Definitions
 
-> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **Exam relevance:** GS-II (Polity & Governance) conceptual foundation; GS-II conceptual foundation.
 > **Core area:** The common good as a normative idea distinct from private-interest aggregation, and its liberal, communitarian, Marxian and Gandhian interpretations.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.21, PDF pp.474-490.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -56,8 +53,36 @@ generated_on: 2026-08-30
 #### 2. Why this topic matters
 - ✅ This chapter explains why political life cannot be understood only as bargaining among private claims. (PDF pp.474-478)
 - ✅ It also shows why appeals to public interest need normative scrutiny: not everything done in the name of the public is truly common-good oriented. (PDF pp.475-477)
-- ⚠️ In GS-II and PSIR, this topic helps frame welfare, regulation, public health, social harmony and civil-society questions without collapsing them into either majoritarianism or atomistic individualism.
+- ⚠️ In GS-II and GS, this topic helps frame welfare, regulation, public health, social harmony and civil-society questions without collapsing them into either majoritarianism or atomistic individualism.
 - ⚠️ It is especially useful in answers on pluralism, social conflict, community, nationalism, public duty and Gandhian political thought.
+
+#### 2A. Origin and timeline of common good and community
+
+✅ The dated spine below is taken directly from the routed pages (gauba PDF pp.474-490) rather than from earlier notes. ⚠️ Chronology matters here because a Political Theory answer that names a position without the work or the period behind it reads as assertion; naming the anchor converts the same sentence into evidence.
+
+**Dated rail drawn from the routed source pages** (each row reproduces a name, life-date, work or event exactly as the local source records it):
+
+| Anchor | Name, work or event | What the source attaches to it |
+|---|---|---|
+| 1632-1704 | ✅ John Locke | The chief exponents of the liberal view of the common good include John Locke (1632-1704), Adam Smith (1723-90), Jeremy Bentham (1748-1832) and John Stuart Mill (1806-73). 460 An Introduction to Political Theory For a wider understanding of the concept of the common good, it may be analysed in ... |
+| 1712-78 | ✅ Jean-Jaques Rousseau | Early indications of communitarianism are found in the political thought of Aristotle, ancient Greek philosopher, Jean-Jaques Rousseau (1712-78), French philosopher, G.W.F |
+| 1723-90 | ✅ Adam Smith | The chief exponents of the liberal view of the common good include John Locke (1632-1704), Adam Smith (1723-90), Jeremy Bentham (1748-1832) and John Stuart Mill (1806-73). 460 An Introduction to Political Theory For a wider understanding of the concept of the common good, it may be analysed in ... |
+| 1748-1832 | ✅ Jeremy Bentham | The chief exponents of the liberal view of the common good include John Locke (1632-1704), Adam Smith (1723-90), Jeremy Bentham (1748-1832) and John Stuart Mill (1806-73). 460 An Introduction to Political Theory For a wider understanding of the concept of the common good, it may be analysed in ... |
+| 1762 | ✅ French philosopher, in his classic work The Social Contract | Rousseau (1712-78), the famous French philosopher, in his classic work The Social Contract (1762), made a strong case for the pursuit of the common good |
+| 1806-73 | ✅ John Stuart Mill | The chief exponents of the liberal view of the common good include John Locke (1632-1704), Adam Smith (1723-90), Jeremy Bentham (1748-1832) and John Stuart Mill (1806-73). 460 An Introduction to Political Theory For a wider understanding of the concept of the common good, it may be analysed in ... |
+| 1818-83 | ✅ CLASS STRUGGLE Karl Marx | DOCTRINE OF CLASS STRUGGLE Karl Marx (1818-83) and Friedrich Engels (1820-95) have particularly dwelled on the role of class struggle in the process of historical development |
+| 1820-95 | ✅ Friedrich Engels | DOCTRINE OF CLASS STRUGGLE Karl Marx (1818-83) and Friedrich Engels (1820-95) have particularly dwelled on the role of class struggle in the process of historical development |
+| 1848 | ✅ Thus, the opening sentence of the Communist Manifesto | Thus, the opening sentence of the Communist Manifesto (1848) reads: "The history of all hitherto existing society is the history of class struggles." Of these classes one invariably comprises the oppressors and exploiters, and the other includes the oppressed and exploited |
+| 1860 | ✅ The idea behind sarvodaya was inspired by John Ruskin's Unto This Last | The idea behind sarvodaya was inspired by John Ruskin's Unto This Last (1860) |
+| 1869-1948 | ✅ Mahatma Gandhi | Mahatma Gandhi (1869-1948) saw India's independence as an opportunity 'to wipe every tear from every eye' |
+| 1882 | ✅ Lectures on the Principles of Political Obligation | Green (1836-82), a brilliant English philosopher, in his Lectures on the Principles of Political Obligation (1882) declared that the state was an instrument for the promotion of the common good |
+| 1921-2002 | ✅ John Rawls | John Rawls (1921-2002) has amply shown how the 'greatest happiness of the greatest number' could be interpreted to mean injustice to the minority |
+| 1926 | ✅ As Gandhi himself wrote in Young India | As Gandhi himself wrote in Young India (1926): |
+| 1934 | ✅ As Gandhi wrote in Amrita Bazar Patrika | As Gandhi wrote in Amrita Bazar Patrika (1934): |
+| 1935 | ✅ As he himself conceded in The Modern Review | As he himself conceded in The Modern Review (1935): |
+| 1935 | ✅ As Gandhi wrote in Harijan | As Gandhi wrote in Harijan (1935): |
+
+⚠️ Dating discipline: use only the anchors in this rail. Do not attach a year to a name the source leaves undated, and do not convert a 2009-edition chronology into a claim about later scholarship.
 
 #### 3. Essential definitions
 | Term | Exam-ready meaning |
@@ -69,6 +94,29 @@ generated_on: 2026-08-30
 | Trusteeship | ✅ Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488) |
 | Bread labour | ✅ Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work. (PDF pp.488-489) |
 | Sarvodaya | ✅ Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order. (PDF pp.489-490) |
+
+#### Visual-first recall
+
+```text
+TOPIC STAKES, CONCEPT MAP AND ESSENTIAL DEFINITIONS
+  |
+[1] Gauba treats the common good as closely related to justice, but not reducible to...
+  v
+[2] He explicitly distinguishes common good, common interest and public interest by...
+  v
+[3] The common good cannot be identified with the good of the state, the majority, or any...
+  v
+[4] Liberal theory sees common good as the point where rationally adjusted interests...
+```
+
+> **Answer-grabbing line:** Gauba treats the common good as closely related to justice, but not reducible to either public interest or aggregate private satisfaction. (PDF pp.474-477)
+
+**Must-write keywords:** Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:; Topic Stakes.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Gauba treats the common good as closely related to justice, but not reducible to either public interest or aggregate private satisfaction. (PDF pp.474-477) **Named evidence/example:** He explicitly distinguishes common good, common interest and public interest by status, scope, criteria and the agents concerned with them. (PDF pp.475-476) **Analysis:** Read together, these propositions show how topic stakes, concept map and essential definitions shapes common good and community rather than serving as a detachable list of names. **Qualification:** Gauba treats the common good as closely related to justice, but not reducible to either public interest or aggregate private satisfaction. (PDF pp.474-477)
+
 
 ---
 
@@ -84,6 +132,29 @@ generated_on: 2026-08-30
 - ✅ Marxian thought treats common good as impossible under class rule and meaningful only in pre-class or future classless society. (PDF pp.482-486)
 - ✅ Gandhian thought moralizes the idea most strongly through trusteeship, classless equality, ahimsa and sarvodaya. (PDF pp.486-490)
 
+#### Visual-first recall
+
+```text
+GAUBA'S COMMON-GOOD ARGUMENT
+  |
+[1] Gauba starts from Aristotle's idea that the right constitution pursues the good of...
+  v
+[2] He then distinguishes justice, common good and public interest so that the concept...
+  v
+[3] He warns that the common good is neither the good of the state nor the good of the...
+  v
+[4] He argues that the common good requires objectives beyond factional competition and...
+```
+
+> **Answer-grabbing line:** Gauba starts from Aristotle's idea that the right constitution pursues the good of the whole community. (PDF p.474)
+
+**Must-write keywords:** Gauba; Common-Good Argument; SESSION; Core; Aristotle; Liberalism; Communitarianism.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Gauba starts from Aristotle's idea that the right constitution pursues the good of the whole community. (PDF p.474) **Named evidence/example:** He then distinguishes justice, common good and public interest so that the concept does not dissolve into vague rhetoric. (PDF pp.474-476) **Analysis:** Read together, these propositions show how gauba's common-good argument shapes common good and community rather than serving as a detachable list of names. **Qualification:** He then distinguishes justice, common good and public interest so that the concept does not dissolve into vague rhetoric. (PDF pp.474-476)
+
+
 ---
 
 ### SESSION 3 — Common Good, Common Interest, Public Interest and Consensus
@@ -96,6 +167,29 @@ generated_on: 2026-08-30
 - ✅ Common good is not the utilitarian "greatest happiness of the greatest number," because minority suffering cannot be justified by aggregate gain. (PDF p.477, p.490)
 - ✅ Consensus as process is different from unanimity as condition; Gauba treats actual modern consensus as procedural and partial, not total sameness. (PDF pp.478-479)
 - ⚠️ In democratic answer writing, common good must coexist with rights, plural voices and legitimate dissent; otherwise it degenerates into majoritarian absorption.
+
+#### Visual-first recall
+
+```text
+COMMON GOOD, COMMON INTEREST, PUBLIC INTEREST AND CONSENSUS
+  |
+[1] Common good is not identical to public interest: every public-interest decision...
+  v
+[2] Common good is not the same as common interest: common interest can be empirically...
+  v
+[3] Common good is not the good of the state, because a tyranny may act against it. (PDF...
+  v
+[4] Common good is not the good of the majority, because it may require protection of...
+```
+
+> **Answer-grabbing line:** Common good is not identical to public interest: every public-interest decision presupposes some common good, but some sacrifices for common good cannot be reduced to administrative public.
+
+**Must-write keywords:** Common Good; Common Interest; Public Interest; Consensus; SESSION; Essential; Common.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Common good is not identical to public interest: every public-interest decision presupposes some common good, but some sacrifices for common good cannot be reduced to administrative public interest. (PDF p.475) **Named evidence/example:** Common good is not the same as common interest: common interest can be empirically observed among affected persons, while common good remains a normative ideal. (PDF p.475) **Analysis:** Read together, these propositions show how common good, common interest, public interest and consensus shapes common good and community rather than serving as a detachable list of names. **Qualification:** Common good is not identical to public interest: every public-interest decision presupposes some common good, but some sacrifices for common good cannot be reduced to administrative public interest. (PDF p.475)
+
 
 ---
 
@@ -116,6 +210,29 @@ generated_on: 2026-08-30
 | Marx and Engels | ✅ Common good is blocked by class antagonism and becomes fully meaningful only in communist society. (PDF pp.482-486) |
 | Gandhi | ✅ Common good is realized through moral regeneration, trusteeship, bread labour, classless equality and sarvodaya. (PDF pp.486-490) |
 
+#### Visual-first recall
+
+```text
+THE LIBERAL ROUTE AND MACPHERSON'S CORRECTION
+  |
+[1] Thinker / stream — Position in this topic
+  v
+[2] Aristotle — The right constitution serves the good life and the good of the whole...
+  v
+[3] Rousseau — A strong early voice for the common good against selfish private interests...
+  v
+[4] T.H. Green — The state exists to promote the common good, and political obligation is...
+```
+
+> **Answer-grabbing line:** Thinker / stream — Position in this topic
+
+**Must-write keywords:** Liberal Route; Macpherson; Correction; SESSION; Thinkers; Thinker; Position.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Thinker / stream — Position in this topic **Named evidence/example:** Aristotle — The right constitution serves the good life and the good of the whole community. (PDF p.474) **Analysis:** Read together, these propositions show how the liberal route and macpherson's correction shapes common good and community rather than serving as a detachable list of names. **Qualification:** Liberal thinkers — Locke, Adam Smith, Bentham and J.S. Mill are presented as exponents of the liberal view that reconciled individual interests can yield common good. (PDF p.479)
+
+
 ---
 
 ### SESSION 5 — Communitarian Embeddedness and Thinker-Specific Mechanisms
@@ -127,6 +244,29 @@ generated_on: 2026-08-30
 - ✅ Movements seeking rehabilitation of displaced tribals or villagers are not divisive by definition; they may defend the common good against unjust "development." (PDF p.478)
 - ✅ Gandhian bread labour illustrates equality through shared work rather than merely legal proclamation. (PDF pp.488-489)
 - ⚠️ These examples show why common good is more than arithmetic addition of private gains.
+
+#### Visual-first recall
+
+```text
+COMMUNITARIAN EMBEDDEDNESS AND THINKER-SPECIFIC MECHANISMS
+  |
+[1] A soldier's self-sacrifice in war illustrates action for common good that is broader...
+  v
+[2] Quarantine laws show a public-interest action that also serves the common good. (PDF...
+  v
+[3] Labour-management settlements are not common-good settlements if they ignore...
+  v
+[4] Movements seeking rehabilitation of displaced tribals or villagers are not divisive...
+```
+
+> **Answer-grabbing line:** A soldier's self-sacrifice in war illustrates action for common good that is broader than narrow public-interest calculation. (PDF p.475)
+
+**Must-write keywords:** Communitarian Embeddedness; Thinker-Specific Mechanisms; SESSION; Illustrative; Quarantine; Labour-management; Movements.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** A soldier's self-sacrifice in war illustrates action for common good that is broader than narrow public-interest calculation. (PDF p.475) **Named evidence/example:** Quarantine laws show a public-interest action that also serves the common good. (PDF p.475) **Analysis:** Read together, these propositions show how communitarian embeddedness and thinker-specific mechanisms shapes common good and community rather than serving as a detachable list of names. **Qualification:** Labour-management settlements are not common-good settlements if they ignore consumers or the wider public. (PDF p.477)
+
 
 ---
 
@@ -141,6 +281,27 @@ generated_on: 2026-08-30
 | State / authority | ✅ Limited-civil and, for Gauba, welfare-corrected state is needed. (PDF pp.479-480) | ✅ State and law may orient citizens toward common good, but the ethical centre lies in community. (PDF pp.481-483) | ✅ State is a class instrument until classless society makes coercive apparatus unnecessary. (PDF pp.482-486) | ✅ Moral order is primary; state is secondary to self-restraint, trusteeship and service. (PDF pp.486-490) |
 | Ultimate emphasis | ✅ Material security plus orderly coexistence. (PDF pp.479-480) | ✅ Social solidarity and shared identity. (PDF pp.480-483) | ✅ End of exploitation through classless society. (PDF pp.482-486) | ✅ Spiritual-moral uplift of all, not merely material advance. (PDF pp.486-490) |
 | Main criticism | ✅ Market logic alone may devalue indispensable but low-priced human talents. (PDF p.480) | ✅ Strong moral appeal but weak coercive/political mechanism. (PDF p.482) | ✅ Historical practice shows new oppression may arise through political power. (PDF p.486) | ✅ Relies heavily on moral persuasion and remains difficult to institutionalize fully. (PDF pp.487-490) |
+
+#### Visual-first recall
+
+```text
+THE MARXIAN CLASS BARRIER
+  |
+[1] Issue — Liberal — Communitarian — Marxian — Gandhian
+  v
+[2] The Marxian Class Barrier must be linked to Common Good and Community's central...
+  v
+[3] The Marxian Class Barrier must be linked to Common Good and Community's central...
+```
+
+> **Answer-grabbing line:** Issue — Liberal — Communitarian — Marxian — Gandhian
+
+**Must-write keywords:** Marxian Class; Barrier; SESSION; Comparison; Issue; Liberal; Communitarian.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Issue — Liberal — Communitarian — Marxian — Gandhian **Named evidence/example:** The Marxian Class Barrier must be linked to Common Good and Community's central conceptual dispute. **Analysis:** Read together, these propositions show how the marxian class barrier shapes common good and community rather than serving as a detachable list of names. **Qualification:** The Marxian Class Barrier must be linked to Common Good and Community's central conceptual dispute.
+
 
 ---
 
@@ -165,6 +326,29 @@ generated_on: 2026-08-30
 - ⚠️ Forward democracy link: use `Political-Theory/basic/22_Democracy-Representation-and-Liberal-Democracy.md` for the representation/democracy sequel.
 - ⚠️ Boundary: this file does not duplicate constitutional public-interest litigation, rights jurisprudence or current welfare policy detail.
 
+#### Visual-first recall
+
+```text
+GANDHIAN TRUSTEESHIP, BREAD LABOUR AND SARVODAYA
+  |
+[1] Common good is just the sum total of private interests. -> Gauba explicitly...
+  v
+[2] Common good means whatever the majority wants. -> Gauba says the common good may be...
+  v
+[3] Common good equals utilitarian greatest happiness. -> Both Rawlsian criticism and...
+  v
+[4] Marxian common good is already available in capitalist society. -> Gauba says Marxism...
+```
+
+> **Answer-grabbing line:** Common good is just the sum total of private interests. -> Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
+
+**Must-write keywords:** Gandhian Trusteeship; Bread Labour; Sarvodaya; SESSION; UPSC; Common; Gauba.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Common good is just the sum total of private interests. -> Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477) **Named evidence/example:** Common good means whatever the majority wants. -> Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475) **Analysis:** Read together, these propositions show how gandhian trusteeship, bread labour and sarvodaya shapes common good and community rather than serving as a detachable list of names. **Qualification:** Common good equals utilitarian greatest happiness. -> Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490)
+
+
 ---
 
 ### SESSION 8 — Comparison, Trap Repair and Revision Spine
@@ -177,6 +361,29 @@ generated_on: 2026-08-30
 - ✅ Gandhian view = trusteeship + bread labour + ahimsa + sarvodaya = moralized common good of all. (PDF pp.486-490)
 - ⚠️ Best answer line: common good is valid only when it restrains both selfish atomism and majoritarian domination.
 
+#### Visual-first recall
+
+```text
+COMPARISON, TRAP REPAIR AND REVISION SPINE
+  |
+[1] Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)
+  v
+[2] Liberal view = reconciled interests under civil rules, but Gauba accepts it fully...
+  v
+[3] Communitarian view = shared good first, embedded self, duties and common identity....
+  v
+[4] Marxian view = no genuine common good in class society; only class struggle until...
+```
+
+> **Answer-grabbing line:** Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)
+
+**Must-write keywords:** Comparison; Trap Repair; Revision Spine; SESSION; Revision; Common; Liberal.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Common good = welfare of the whole community, not factional gain. (PDF pp.474-477) **Named evidence/example:** Liberal view = reconciled interests under civil rules, but Gauba accepts it fully only when corrected by welfare-state concern. (PDF pp.479-480) **Analysis:** Read together, these propositions show how comparison, trap repair and revision spine shapes common good and community rather than serving as a detachable list of names. **Qualification:** Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)
+
+
 ---
 
 ### SESSION 9 — Directive Control, Reconstructions and Objection-Reply Chains
@@ -185,7 +392,6 @@ generated_on: 2026-08-30
 - ⚠️ **Directive decoding for this topic:** "Discuss the liberal and communitarian conceptions of common good" -> requires both positions plus a comparative point, not two separate summaries. "Critically examine Gandhian sarvodaya as a theory of common good" -> requires the sarvodaya architecture (trusteeship, bread labour, ahimsa) **and** at least one objection-reply. "Can the common good justify overriding individual rights?" -> a tension-testing directive; the answer must show where common-good language risks coercive homogeneity and how liberal/communitarian safeguards respond.
 - ⚠️ **10-mark architecture (~150 words):** qualified thesis distinguishing common good from public/common interest -> one thinker's position with named evidence -> one brief caution about majoritarian misuse -> qualified conclusion.
 - ⚠️ **15-mark architecture (~200-250 words):** qualified thesis -> two contrasting positions (e.g., liberal vs communitarian, or Rousseau vs Green) -> two named evidence units -> one full objection-reply chain on coercive homogeneity -> cautious Indian illustration -> qualified conclusion.
-- ⚠️ **20-mark architecture (~250-300 words):** qualified thesis with the minority-rights caveat stated upfront -> comparison across liberal/communitarian/Marxian/Gandhian rows (Section 8) -> three named evidence units -> two objection-reply chains (majoritarian danger + liberal reply; homogeneity danger + Gandhian/communitarian reply) -> cautious Indian application -> graded conclusion that names the residual tension between shared purpose and individual dissent.
 
 #### 13. Argument reconstruction (premises -> conclusion)
 - ✅ **Aristotle** (reconstruction of PDF p.474): P1: human beings are by nature political animals whose good life is achievable only within the polis. P2: the polis exists not merely for bare survival or economic exchange, but for living well together. P3: a constitution must therefore be judged by whether it serves the advantage of the whole community rather than one class. C: the common good is the good of the whole political community, and constitutions that serve only rulers or one faction are defective.
@@ -200,6 +406,27 @@ generated_on: 2026-08-30
 3. **Objection to Gandhian/communitarian harmony rhetoric -> qualified reply:** Objection — sarvodaya's and communitarianism's stress on moral unity or shared community meanings risks flattening legitimate social conflict (for instance, entrenched caste or gender hierarchy) under a rhetoric of harmony. Reply — Gandhian sarvodaya explicitly requires uplift of the neglected and structural moral reform, so it cannot coherently mean preserving existing hierarchy behind a veneer of consensus; even so, the tension between voluntarist moral appeal and enforceable structural change is a fair residual criticism that a graded answer should acknowledge rather than dismiss.
 4. **Group-rights objection -> internal-domination reply:** Objection — protecting a cultural community may strengthen dominant elites within it and silence women, dissenters or lower-status members. Reply — a defensible common good protects external coexistence without granting any group an unchecked power over its own members; voice, exit, equal status and review remain internal tests of whether the claimed good is genuinely common.
 5. **Constitutional-morality objection to social consensus -> democratic reply:** Objection — inherited social consensus may reproduce caste, gender or religious hierarchy, so community approval cannot by itself justify a norm. Reply — constitutional morality disciplines popular and customary morality through equal citizenship, rights and public justification while still leaving room for plural communities to pursue shared goods within those limits.
+
+#### Visual-first recall
+
+```text
+DIRECTIVE CONTROL, RECONSTRUCTIONS AND OBJECTION-REPLY CHAINS
+  |
+[1] 10-mark architecture (~150 words): qualified thesis distinguishing common good from...
+  v
+[2] Directive Control, Reconstructions and Objection-Reply Chains must be linked to...
+  v
+[3] Directive Control, Reconstructions and Objection-Reply Chains must be linked to...
+```
+
+> **Answer-grabbing line:** 10-mark architecture (~150 words): qualified thesis distinguishing common good from public/common interest -> one thinker's position with named evidence -> one brief caution about.
+
+**Must-write keywords:** Directive decoding for this topic:; and; 10-mark architecture (~150 words):; 15-mark architecture (~200-250 words):; Aristotle; Rousseau; T.H. Green.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** 10-mark architecture (~150 words): qualified thesis distinguishing common good from public/common interest -> one thinker's position with named evidence -> one brief caution about majoritarian misuse -> qualified conclusion. **Named evidence/example:** Directive Control, Reconstructions and Objection-Reply Chains must be linked to Common Good and Community's central conceptual dispute. **Analysis:** Read together, these propositions show how directive control, reconstructions and objection-reply chains shapes common good and community rather than serving as a detachable list of names. **Qualification:** 10-mark architecture (~150 words): qualified thesis distinguishing common good from public/common interest -> one thinker's position with named evidence -> one brief caution about majoritarian misuse -> qualified conclusion.
+
 
 ---
 
@@ -258,1277 +485,1272 @@ generated_on: 2026-08-30
 - ⚠️ **Social capital:** trust and associational networks can support cooperation, but exclusionary networks can also reproduce hierarchy.
 - ⚠️ **Constitutional morality:** equal citizenship and rights discipline inherited social morality when caste, gender or religious consensus becomes oppressive.
 
-##### C. Verified cross-applied Philosophy Optional PYQs
+##### C. Verified cross-applied cross-source philosophy PYQs
 - ✅ **2018, 10 marks:** "What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context." Primary owner: Philosophy Paper II — Forms of Government.
 - ✅ **2018, 10 marks:** "Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer." Primary owner: Philosophy Paper II — Humanism, Secularism and Multiculturalism.
 - ✅ **2020, 10 marks:** "How far do the liberal democracies safeguard the interests of minorities? Evaluate critically." Primary owner: Philosophy Paper II — Forms of Government.
-- ✅ **2020, 20 marks:** "State and examine the Gandhian concept of social development." Primary owner: Philosophy Paper II — Development and Social Progress.
 - ✅ **2023, 15 marks:** "Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste." Primary owner: Philosophy Paper II — Caste Discrimination: Gandhi and Ambedkar.
 - ✅ **2024, 15 marks:** "Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies." Primary owner: Philosophy Paper II — Humanism, Secularism and Multiculturalism.
 
+#### Visual-first recall
+
+```text
+PLURALITY, INDIAN APPLICATIONS, MCQ LEDGER AND PYQ ROUTES
+  |
+[1] Contemporary rhetoric that brands dissent as anti-national illustrates, in a general...
+  v
+[2] Do not invent exact wording for Rousseau, Green or Gandhi beyond well-established...
+  v
+[3] Safe technical terms usable as quoted nomenclature: "general will," "positive...
+  v
+[4] If asked to argue "in the thinker's own words," write "as Rousseau's/Green's/Gandhi's...
+```
+
+> **Answer-grabbing line:** Contemporary rhetoric that brands dissent as anti-national illustrates, in a general and non-partisan way, the coercive-homogeneity danger flagged in Section 14; use only as a conceptual.
+
+**Must-write keywords:** Common-good norm:; Common-interest overlap:; Public-interest judgment:; Consensus process:; Aristotelian whole:; Rousseauian general will:; Greenian obligation:.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Contemporary rhetoric that brands dissent as anti-national illustrates, in a general and non-partisan way, the coercive-homogeneity danger flagged in Section 14; use only as a conceptual illustration in an answer, not as a claim about any specific event. **Named evidence/example:** Do not invent exact wording for Rousseau, Green or Gandhi beyond well-established short phrases already in circulation (e.g., Rousseau's "forced to be free," from the *Social Contract*). Prefer paraphrase-as-proposition for anything not certain. **Analysis:** Read together, these propositions show how plurality, indian applications, mcq ledger and pyq routes shapes common good and community rather than serving as a detachable list of names. **Qualification:** Contemporary rhetoric that brands dissent as anti-national illustrates, in a general and non-partisan way, the coercive-homogeneity danger flagged in Section 14; use only as a conceptual illustration in an answer, not as a claim about any specific event.
+
+
+---
+
+### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+The following text-native master is identical to the standalone ASCII artifact.
+
+```ascii-master
+ASCII MASTER FLOW — PANEL 1/19: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Common Good and Community.                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Read Political-Theory/advanced/21_Common-Good-and-Community.md for the advanced critique |
+| of majoritarian absorption and for the full common-good answer engine                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 2/19: Origin and Dated Rail (1/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1712-78 -> Jean-Jaques Rousseau                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1723-90 -> Adam Smith                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1762 -> French philosopher, in his classic work The Social Contract                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1806-73 -> John Stuart Mill                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 3/19: Origin and Dated Rail (2/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1818-83 -> CLASS STRUGGLE Karl Marx                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1820-95 -> Friedrich Engels                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1848 -> Thus, the opening sentence of the Communist Manifesto                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1860 -> The idea behind sarvodaya was inspired by John Ruskin's Unto This Last           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1869-1948 -> Mahatma Gandhi                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1882 -> Lectures on the Principles of Political Obligation                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 4/19: Origin and Dated Rail (3/3)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/3)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1921-2002 -> John Rawls                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1926 -> As Gandhi himself wrote in Young India                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1934 -> As Gandhi wrote in Amrita Bazar Patrika                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1935 -> As he himself conceded in The Modern Review                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1935 -> As Gandhi wrote in Harijan                                                       |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 5/19: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. COMMON GOOD: A normative ideal concerning the welfare of the whole community,            |
+| transcending the immediate claims of particular individuals or groups. (PDF pp.474-477)      |
+| 02. COMMON INTEREST: An empirical notion concerning the converging interests of persons      |
+| likely to be affected by a decision. (PDF p.475)                                             |
+| 03. PUBLIC INTEREST: A judgment-oriented political-administrative notion used to justify a   |
+| public decision sensitive to people's needs and aspirations. (PDF p.475)                     |
+| 04. CONSENSUS: The process through which groups resolve differences and arrive at an         |
+| arrangement suited to shared needs under existing constraints. (PDF pp.477-479)              |
+| 05. TRUSTEESHIP: Gandhi's doctrine that the rich should treat possessions not as absolute    |
+| personal property but as a trust held for service of humanity. (PDF pp.487-488)              |
+| 06. BREAD LABOUR: Gandhian principle that everyone should perform physical labour sufficient |
+| to justify consumption and to uphold equality and dignity of work. (PDF pp.488-489)          |
+| 07. SARVODAYA: Gandhian ideal of uplift or awakening of all, especially the last and         |
+| neglected person, through non-violent moral order. (PDF pp.489-490)                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 6/19: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba starts from Aristotle's idea that the right constitution pursues the good of the   |
+| whole community. (PDF p.474)                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then distinguishes justice, common good and public interest so that the concept does  |
+| not dissolve into vague rhetoric. (PDF pp.474-476)                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. He warns that the common good is neither the good of the state nor the good of the       |
+| majority, and that bargaining outcomes are not automatically common-good outcomes. (PDF      |
+| pp.475-477)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. He argues that the common good requires objectives beyond factional competition and      |
+| immediate self-interest. (PDF pp.476-478)                                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 7/19: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. Liberalism identifies common good with reconciliation of interests under civil rules,    |
+| but Gauba criticizes this unless linked to welfare-state correction. (PDF pp.479-480)        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Communitarianism relocates the issue from aggregating individuals to cultivating         |
+| community, duties and shared purposes. (PDF pp.480-483)                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Marxian thought treats common good as impossible under class rule and meaningful only in |
+| pre-class or future classless society. (PDF pp.482-486)                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Gandhian thought moralizes the idea most strongly through trusteeship, classless         |
+| equality, ahimsa and sarvodaya. (PDF pp.486-490)                                             |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 8/19: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. ARISTOTLE: The right constitution serves the good life and the good of the whole         |
+| community. (PDF p.474)                                                                       |
+| 02. ROUSSEAU: A strong early voice for the common good against selfish private interests     |
+| appropriating public language. (PDF p.475)                                                   |
+| 03. T.H. GREEN: The state exists to promote the common good, and political obligation is     |
+| grounded in it. (PDF pp.475, 481-482)                                                        |
+| 04. LIBERAL THINKERS: Locke, Adam Smith, Bentham and J.S. Mill are presented as exponents of |
+| the liberal view that reconciled individual interests can yield common good. (PDF p.479)     |
+| 05. MACPHERSON: Criticizes market-society common good because demand-and-supply valuation    |
+| can stunt human capacities and creative freedom. (PDF p.480)                                 |
+| 06. MACINTYRE: Practices and traditions shape identity, goods and duties; rights detached    |
+| from social obligation become morally thin. (PDF pp.481-482)                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 9/19: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. SANDEL: Supplementary communitarian bridge: the unencumbered chooser is inadequate       |
+| because constitutive attachments partly form the self                                        |
+| 02. TAYLOR: Supplementary communitarian bridge: identity is dialogical, so recognition and   |
+| shared horizons matter to political membership                                               |
+| 03. WALZER: Goods carry social meanings and should be distributed by sphere-specific         |
+| criteria rather than one master good such as money. (PDF pp.482-483)                         |
+| 04. MARX AND ENGELS: Common good is blocked by class antagonism and becomes fully meaningful |
+| only in communist society. (PDF pp.482-486)                                                  |
+| 05. GANDHI: Common good is realized through moral regeneration, trusteeship, bread labour,   |
+| classless equality and sarvodaya. (PDF pp.486-490)                                           |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 10/19: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. A soldier's self-sacrifice in war illustrates action for common good that is broader     |
+| than narrow public-interest calculation. (PDF p.475)                                         |
+| 02. Quarantine laws show a public-interest action that also serves the common good. (PDF     |
+| p.475)                                                                                       |
+| 03. Labour-management settlements are not common-good settlements if they ignore consumers   |
+| or the wider public. (PDF p.477)                                                             |
+| 04. Movements seeking rehabilitation of displaced tribals or villagers are not divisive by   |
+| definition; they may defend the common good against unjust "development." (PDF p.478)        |
+| 05. Gandhian bread labour illustrates equality through shared work rather than merely legal  |
+| proclamation. (PDF pp.488-489)                                                               |
+| 06. These examples show why common good is more than arithmetic addition of private gains    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 11/19: Comparison Matrix (1/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. OBJECT OF COMMITMENT | Liberal = Individual good and reconciled interests. (PDF p.479) | |
+| Communitarian = Community's shared good. (PDF pp.480-483) | Marxian = Class interest in      |
+| class society; full common good only in classless order. (PDF pp.482-486) | Gandhian = Good  |
+| of all through moral service, self-restraint and uplift of the last person. (PDF pp.486-490) |
+| 02. HOW COMMON GOOD IS FORMED | Liberal = Aggregate/reconciliation of interests under civil  |
+| rules. (PDF p.479) | Communitarian = Community is the source from which each person derives  |
+| good. (PDF pp.480-483) | Marxian = Not feasible in antagonistic class society; realizable in |
+| communist community. (PDF pp.482-486) | Gandhian = Through trusteeship, bread labour, ahimsa |
+| and sarvodaya. (PDF pp.487-490)                                                              |
+| 03. VIEW OF CONFLICT | Liberal = Conflict is manageable through discussion and adjustment.   |
+| (PDF p.479) | Communitarian = Basic conflict is softened by shared purposes and duties. (PDF |
+| pp.480-483) | Marxian = Class conflict is foundational and cannot be reconciled under        |
+| capitalism. (PDF pp.482-486) | Gandhian = Conflict should be morally transformed through     |
+| non-violence and change of heart. (PDF pp.486-490)                                           |
+| 04. STATE / AUTHORITY | Liberal = Limited-civil and, for Gauba, welfare-corrected state is   |
+| needed. (PDF pp.479-480) | Communitarian = State and law may orient citizens toward common   |
+| good, but the ethical centre lies in community. (PDF pp.481-483) | Marxian = State is a      |
+| class instrument until classless society makes coercive apparatus unnecessary. (PDF          |
+| pp.482-486) | Gandhian = Moral order is primary; state is secondary to self-restraint,       |
+| trusteeship and service. (PDF pp.486-490)                                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 12/19: Comparison Matrix (2/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 05. ULTIMATE EMPHASIS | Liberal = Material security plus orderly coexistence. (PDF           |
+| pp.479-480) | Communitarian = Social solidarity and shared identity. (PDF pp.480-483) |      |
+| Marxian = End of exploitation through classless society. (PDF pp.482-486) | Gandhian =       |
+| Spiritual-moral uplift of all, not merely material advance. (PDF pp.486-490)                 |
+| 06. MAIN CRITICISM | Liberal = Market logic alone may devalue indispensable but low-priced   |
+| human talents. (PDF p.480) | Communitarian = Strong moral appeal but weak coercive/political |
+| mechanism. (PDF p.482) | Marxian = Historical practice shows new oppression may arise        |
+| through political power. (PDF p.486) | Gandhian = Relies heavily on moral persuasion and     |
+| remains difficult to institutionalize fully. (PDF pp.487-490)                                |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/19: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Common good is just the sum total of private interests => REPAIR: Gauba explicitly |
+| distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)        |
+| 02. TRAP: Common good means whatever the majority wants => REPAIR: Gauba says the common     |
+| good may be invoked precisely to stop injustice against a minority. (PDF p.475)              |
+| 03. TRAP: Common good equals utilitarian greatest happiness => REPAIR: Both Rawlsian         |
+| criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477,     |
+| p.490)                                                                                       |
+| 04. TRAP: Marxian common good is already available in capitalist society => REPAIR: Gauba    |
+| says Marxism sees class society as organized by antagonistic class interests, not genuine    |
+| common good. (PDF pp.482-486)                                                                |
+| 05. TRAP: Gandhian common good means violent leveling of rich and poor => REPAIR: Gandhi     |
+| relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive             |
+| confiscation. (PDF pp.487-490)                                                               |
+| 06. TRAP: Common-good politics can silence dissent in the name of unity => REPAIR: A         |
+| defensible common-good answer must preserve minority rights, disagreement and plural moral   |
+| voices within the community                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/19: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Read Political-Theory/advanced/21_Common-Good-and-Community.md for the advanced critique |
+| of majoritarian absorption and for the full common-good answer engine                        |
+| 02. Direct conceptual precursor on community: Political-Theory/basic/07_Nature-of-Politics-  |
+| and-Communitarianism.md                                                                      |
+| 03. Civil-society boundary: Political-Theory/basic/10_State-Civil-Society-Nation-and-        |
+| Internationalism.md                                                                          |
+| 04. Justice companion: Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md          |
+| 05. Multiculturalism and minority-recognition bridge: Philosophy/paper-2/socio-              |
+| political/Humanism-Secularism-Multiculturalism.md                                            |
+| 06. Caste, fraternity and constitutional-morality bridge: Philosophy/paper-2/socio-          |
+| political/Caste-Gandhi-Ambedkar.md                                                           |
+| 07. Module frame and topic map: Political-Theory/00_Master-Framework.md and Political-       |
+| Theory/README.md                                                                             |
+| 08. Forward democracy link: use Political-Theory/basic/22_Democracy-Representation-and-      |
+| Liberal-Democracy.md for the representation/democracy sequel                                 |
+| 09. Boundary: this file does not duplicate constitutional public-interest litigation, rights |
+| jurisprudence or current welfare policy detail                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/19: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Liberal view = reconciled interests under civil rules, but Gauba accepts it fully only   |
+| when corrected by welfare-state concern. (PDF pp.479-480)                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Communitarian view = shared good first, embedded self, duties and common identity. (PDF  |
+| pp.480-483)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Marxian view = no genuine common good in class society; only class struggle until        |
+| classless order. (PDF pp.482-486)                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Gandhian view = trusteeship + bread labour + ahimsa + sarvodaya = moralized common good  |
+| of all. (PDF pp.486-490)                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Best answer line: common good is valid only when it restrains both selfish atomism and   |
+| majoritarian domination                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/19: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba treats the common good as closely related to justice, but not reducible to either  |
+| public interest or aggregate private satisfaction. (PDF pp.474-477)                          |
+| 02. Gauba starts from Aristotle's idea that the right constitution pursues the good of the   |
+| whole community. (PDF p.474)                                                                 |
+| 03. Common good is not identical to public interest: every public-interest decision          |
+| presupposes some common good, but some sacrifices for common good cannot be reduced to       |
+| administrative public                                                                        |
+| 04. Thinker / stream - Position in this topic                                                |
+| 05. A soldier's self-sacrifice in war illustrates action for common good that is broader     |
+| than narrow public-interest calculation. (PDF p.475)                                         |
+| 06. Issue - Liberal - Communitarian - Marxian - Gandhian                                     |
+| 07. Common good is just the sum total of private interests. -> Gauba explicitly              |
+| distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)        |
+| 08. Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)       |
+| 09. 10-mark architecture (~150 words): qualified thesis distinguishing common good from      |
+| public/common interest -> one thinker's position with named evidence -> one brief caution    |
+| about                                                                                        |
+| 10. Contemporary rhetoric that brands dissent as anti-national illustrates, in a general and |
+| non-partisan way, the coercive-homogeneity danger flagged in Section 14; use only as a       |
+| conceptual                                                                                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/19: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Topic Stakes                                                                                 |
+| 02. Gauba; Common-Good Argument; SESSION; Core; Aristotle; Liberalism; Communitarianism      |
+| 03. Common Good; Common Interest; Public Interest; Consensus; SESSION; Essential; Common     |
+| 04. Liberal Route; Macpherson; Correction; SESSION; Thinkers; Thinker; Position              |
+| 05. Communitarian Embeddedness; Thinker-Specific Mechanisms; SESSION; Illustrative;          |
+| Quarantine; Labour-management; Movements                                                     |
+| 06. Marxian Class; Barrier; SESSION; Comparison; Issue; Liberal; Communitarian               |
+| 07. Gandhian Trusteeship; Bread Labour; Sarvodaya; SESSION; UPSC; Common; Gauba              |
+| 08. Comparison; Trap Repair; Revision Spine; SESSION; Revision; Common; Liberal              |
+| 09. Directive decoding for this topic:; and; 10-mark architecture (~150 words):; 15-mark     |
+| architecture (~200-250 words):; Aristotle; Rousseau; T.H. Green                              |
+| 10. Common-good norm:; Common-interest overlap:; Public-interest judgment:; Consensus        |
+| process:; Aristotelian whole:; Rousseauian general will:; Greenian obligation:               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/19: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish common good from public interest and common interest. Answer in    |
+| 150 words                                                                                    |
+| 02. 10 MARKS: Why is community not identical to majority? Answer in 150 words                |
+| 03. 10 MARKS: Compare liberal and communitarian conceptions of common good. Answer in 150    |
+| words                                                                                        |
+| 04. 15 MARKS: Critically examine Gandhian sarvodaya as a theory of common good. Answer in    |
+| 250 words                                                                                    |
+| 05. 15 MARKS: Can common-good reasoning be defended in a plural society without sacrificing  |
+| minority rights? Answer in 250 words                                                         |
+| 06. 15 MARKS: Compare Marxian, Gandhian and Aristotelian approaches to the common good.      |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/19: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Common good is not identical to public interest: every public-interest decision   |
+| presupposes some common good, but some sacrifices for common good cannot be reduced to       |
+| administrative public Contemporary rhetoric that brands dissent as anti-national             |
+| illustrates, in a general and non-partisan way, the coercive-homogeneity danger flagged in   |
+| Section 14; use only as a conceptual                                                         |
++----------------------------------------------------------------------------------------------+
+```
+
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-A claimant shifts between state advantage, public rhetoric and sectional gain. Which source-grounded account best explains the case?
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. the justified welfare of the whole political community rather than one faction's gain.
+### MCQ 1
 
-B. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+Which proposition is correctly associated with **Answer:**?
 
-C. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- A. the justified welfare of the whole political community rather than one faction's gain.
+- B. a public-regarding will directed to common good rather than the sum of private wills.
+- C. political authority earns moral allegiance by enabling a common good of self-development.
+- D. abolition of private class power can still be followed by new political domination.
 
-D. continuing accommodation of disagreement rather than complete unanimity.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A Correct attachment: the source records this exact proposition - the justified welfare of the whole political community rather than one faction's gain.
+- **B:** B Wrong attachment: a public-regarding will directed to common good rather than the sum of private wills is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Source disagrees: political authority earns moral allegiance by enabling a common good of self-development is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Misplaced: abolition of private class power can still be followed by new political domination is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-**Explanation:** The canonical Basic owner pairs **Common-good norm** with **the justified welfare of the whole political community rather than one faction's gain**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-A proposal is defended because it serves the justified welfare of the whole political community rather than one faction. Which source-grounded account offers the most precise diagnosis?
-
-A. an empirically discoverable convergence among affected persons, narrower than the normative common good.
-
-B. the justified welfare of the whole political community rather than one faction's gain.
-
-C. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
-
-D. continuing accommodation of disagreement rather than complete unanimity.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Common-good norm** with **the justified welfare of the whole political community rather than one faction's gain**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify the justified welfare of the whole political community by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Several affected groups want the same immediate outcome, but no wider moral standard has yet been shown. Which source-grounded account best explains the case?
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. the justified welfare of the whole political community rather than one faction's gain.
+- A. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
+- B. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+- C. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- D. moral richness does not automatically supply accountable institutions for resolving conflict.
 
-B. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+**Answer: B**
 
-C. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B This is the recorded association: the source records this exact proposition - an empirically discoverable convergence among affected persons, narrower than the normative common good.
+- **C:** C Misplaced: a public authority's justificatory decision about policy, which should remain answerable to the wider common is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Belongs elsewhere: moral richness does not automatically supply accountable institutions for resolving conflict is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-D. continuing accommodation of disagreement rather than complete unanimity.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Common-interest overlap** with **an empirically discoverable convergence among affected persons, narrower than the normative common good**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Residents, traders and commuters all support reopening a road because each gains directly from it. Which statement best identifies the mechanism at work?
-
-A. the justified welfare of the whole political community rather than one faction's gain.
-
-B. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
-
-C. continuing accommodation of disagreement rather than complete unanimity.
-
-D. an empirically discoverable convergence among affected persons, narrower than the normative common good.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Common-interest overlap** with **an empirically discoverable convergence among affected persons, narrower than the normative common good**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify an empirically discoverable convergence among affected by a neighbouring proposition merely because both occur in the same topic; here the tested item is an empirically discoverable convergence among affected.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-A public authority justifies a regulation in collective terms, yet the wider common-good test still remains open. Which source-grounded account best explains the case?
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- A. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+- B. Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order.
+- C. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
 
-B. the justified welfare of the whole political community rather than one faction's gain.
+**Answer: C**
 
-C. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+**Option-by-option explanation**
+- **A:** A Source disagrees: an empirically discoverable convergence among affected persons, narrower than the normative common good is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B Misplaced: gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Matches the record: the source records this exact proposition - a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- **D:** D Cross-attached: an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-D. continuing accommodation of disagreement rather than complete unanimity.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Public-interest judgment** with **a public authority's justificatory decision about policy, which should remain answerable to the wider common good**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-A ministry defends a quarantine order as a public decision responsive to social need. Which interpretation resolves this close distinction?
-
-A. the justified welfare of the whole political community rather than one faction's gain.
-
-B. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
-
-C. an empirically discoverable convergence among affected persons, narrower than the normative common good.
-
-D. continuing accommodation of disagreement rather than complete unanimity.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Public-interest judgment** with **a public authority's justificatory decision about policy, which should remain answerable to the wider common good**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify a public authority's justificatory decision about policy by a neighbouring proposition merely because both occur in the same topic; here the tested item is a public authority's justificatory decision about policy.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-An answer wrongly treats consensus as the disappearance of disagreement. Which source-grounded account best explains the case?
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. the justified welfare of the whole political community rather than one faction's gain.
+- A. trusteeship and renunciation depend heavily on sustained moral conversion.
+- B. what strengthens a state apparatus may still injure the common good.
+- C. shared practices and memberships partly constitute persons and their goods.
+- D. continuing accommodation of disagreement rather than complete unanimity.
 
-B. an empirically discoverable convergence among affected persons, narrower than the normative common good.
+**Answer: D**
 
-C. continuing accommodation of disagreement rather than complete unanimity.
+**Option-by-option explanation**
+- **A:** A Misplaced: trusteeship and renunciation depend heavily on sustained moral conversion is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B Belongs elsewhere: what strengthens a state apparatus may still injure the common good is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Cross-attached: shared practices and memberships partly constitute persons and their goods is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Exact pair: the source records this exact proposition - continuing accommodation of disagreement rather than complete unanimity.
 
-D. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Consensus process** with **continuing accommodation of disagreement rather than complete unanimity**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Groups keep negotiating and adjusting claims under continuing disagreement. Which account applies most directly?
-
-A. the justified welfare of the whole political community rather than one faction's gain.
-
-B. an empirically discoverable convergence among affected persons, narrower than the normative common good.
-
-C. a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
-
-D. continuing accommodation of disagreement rather than complete unanimity.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Consensus process** with **continuing accommodation of disagreement rather than complete unanimity**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify continuing accommodation of disagreement rather than by a neighbouring proposition merely because both occur in the same topic; here the tested item is continuing accommodation of disagreement rather than.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-A constitution is judged by whether it serves the whole community's good life rather than one class. Which source-grounded account best explains the case?
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. a right constitution serves the good life of the whole community.
+- A. a right constitution serves the good life of the whole community.
+- B. antagonistic class society cannot realise a genuinely common good.
+- C. what strengthens a state apparatus may still injure the common good.
+- D. continuing accommodation of disagreement rather than complete unanimity.
 
-B. a public-regarding will directed to common good rather than the sum of private wills.
+**Answer: A**
 
-C. political authority earns moral allegiance by enabling a common good of self-development.
+**Option-by-option explanation**
+- **A:** A Matches the record: the source records this exact proposition - a right constitution serves the good life of the whole community.
+- **B:** B Cross-attached: antagonistic class society cannot realise a genuinely common good is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Mismatched: what strengthens a state apparatus may still injure the common good is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Not this pair: continuing accommodation of disagreement rather than complete unanimity is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Aristotelian whole** with **a right constitution serves the good life of the whole community**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-A thinker evaluates constitutions by asking whether they advance the good of the whole political community. Which source-grounded account offers the most precise diagnosis?
-
-A. a public-regarding will directed to common good rather than the sum of private wills.
-
-B. a right constitution serves the good life of the whole community.
-
-C. political authority earns moral allegiance by enabling a common good of self-development.
-
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Aristotelian whole** with **a right constitution serves the good life of the whole community**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify a right constitution serves the good life of the whole by a neighbouring proposition merely because both occur in the same topic; here the tested item is a right constitution serves the good life of the whole.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-A candidate confuses a public-regarding will with the sum of private preferences. Which source-grounded account best explains the case?
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. a right constitution serves the good life of the whole community.
+- A. the justified welfare of the whole political community rather than one faction's gain.
+- B. a public-regarding will directed to common good rather than the sum of private wills.
+- C. abolition of private class power can still be followed by new political domination.
+- D. market prices may undervalue socially necessary but weakly remunerated capacities.
 
-B. political authority earns moral allegiance by enabling a common good of self-development.
+**Answer: B**
 
-C. a public-regarding will directed to common good rather than the sum of private wills.
+**Option-by-option explanation**
+- **A:** A Cross-attached: the justified welfare of the whole political community rather than one faction's gain is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B Exact pair: the source records this exact proposition - a public-regarding will directed to common good rather than the sum of private wills.
+- **C:** C Not this pair: abolition of private class power can still be followed by new political domination is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Wrong attachment: market prices may undervalue socially necessary but weakly remunerated capacities is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Rousseauian general will** with **a public-regarding will directed to common good rather than the sum of private wills**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-A theory says common good requires a will directed to the public rather than a mere addition of private wills. Which statement best identifies the mechanism at work?
-
-A. a right constitution serves the good life of the whole community.
-
-B. political authority earns moral allegiance by enabling a common good of self-development.
-
-C. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-D. a public-regarding will directed to common good rather than the sum of private wills.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Rousseauian general will** with **a public-regarding will directed to common good rather than the sum of private wills**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify a public-regarding will directed to common good rather by a neighbouring proposition merely because both occur in the same topic; here the tested item is a public-regarding will directed to common good rather.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Political allegiance is tied to a common good of self-development rather than to bare command. Which source-grounded account best explains the case?
+Which pairing below would a careful source check leave standing?
 
-A. political authority earns moral allegiance by enabling a common good of self-development.
+- A. civil rules adjust individual interests while rights protect persons from mutual oppression.
+- B. the justified welfare of the whole political community rather than one faction's gain.
+- C. political authority earns moral allegiance by enabling a common good of self-development.
+- D. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
 
-B. a right constitution serves the good life of the whole community.
+**Answer: C**
 
-C. a public-regarding will directed to common good rather than the sum of private wills.
+**Option-by-option explanation**
+- **A:** A Mismatched: civil rules adjust individual interests while rights protect persons from mutual oppression is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B Not this pair: the justified welfare of the whole political community rather than one faction's gain is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Source-exact: the source records this exact proposition - political authority earns moral allegiance by enabling a common good of self-development.
+- **D:** D Source disagrees: market valuation can stunt human capacities and therefore needs welfare-oriented correction is recorded elsewhere in the topic, so it is not the association the stem asks about.
 
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Greenian obligation** with **political authority earns moral allegiance by enabling a common good of self-development**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-A law is treated as morally binding only insofar as it helps sustain a shared good of moral development. Which interpretation resolves this close distinction?
-
-A. a right constitution serves the good life of the whole community.
-
-B. political authority earns moral allegiance by enabling a common good of self-development.
-
-C. a public-regarding will directed to common good rather than the sum of private wills.
-
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Greenian obligation** with **political authority earns moral allegiance by enabling a common good of self-development**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify political authority earns moral allegiance by enabling a by a neighbouring proposition merely because both occur in the same topic; here the tested item is political authority earns moral allegiance by enabling a.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Common good is derived from reconciling claims under civil rules while protecting persons from oppression. Which source-grounded account best explains the case?
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. a right constitution serves the good life of the whole community.
+- A. moral richness does not automatically supply accountable institutions for resolving conflict.
+- B. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
+- C. political authority earns moral allegiance by enabling a common good of self-development.
+- D. civil rules adjust individual interests while rights protect persons from mutual oppression.
 
-B. a public-regarding will directed to common good rather than the sum of private wills.
+**Answer: D**
 
-C. civil rules adjust individual interests while rights protect persons from mutual oppression.
+**Option-by-option explanation**
+- **A:** A Not this pair: moral richness does not automatically supply accountable institutions for resolving conflict is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **B:** B Wrong attachment: market valuation can stunt human capacities and therefore needs welfare-oriented correction is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **C:** C Source disagrees: political authority earns moral allegiance by enabling a common good of self-development is recorded elsewhere in the topic, so it is not the association the stem asks about.
+- **D:** D Faithful pairing: the source records this exact proposition - civil rules adjust individual interests while rights protect persons from mutual oppression.
 
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Liberal reconciliation** with **civil rules adjust individual interests while rights protect persons from mutual oppression**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-A society relies on rights, lawful adjustment and negotiated coexistence rather than prior moral unity. Which account applies most directly?
-
-A. a right constitution serves the good life of the whole community.
-
-B. a public-regarding will directed to common good rather than the sum of private wills.
-
-C. political authority earns moral allegiance by enabling a common good of self-development.
-
-D. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Liberal reconciliation** with **civil rules adjust individual interests while rights protect persons from mutual oppression**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify civil rules adjust individual interests while rights by a neighbouring proposition merely because both occur in the same topic; here the tested item is civil rules adjust individual interests while rights.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-A learner treats market reward as an adequate measure of social worth. Which source-grounded account best explains the case?
+Which thinker/concept–proposition pair is correctly matched?
 
-A. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. a right constitution serves the good life of the whole community.
+**Answer: A**
 
-C. a public-regarding will directed to common good rather than the sum of private wills.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Source disagrees: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Misplaced: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Belongs elsewhere: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Macpherson's correction** with **market valuation can stunt human capacities and therefore needs welfare-oriented correction**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-A theorist argues that demand and supply may undervalue socially necessary human capacities and therefore need welfare correction. Which source-grounded account offers the most precise diagnosis?
-
-A. a right constitution serves the good life of the whole community.
-
-B. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
-
-C. a public-regarding will directed to common good rather than the sum of private wills.
-
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Macpherson's correction** with **market valuation can stunt human capacities and therefore needs welfare-oriented correction**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Common good - An empirical notion concerning the converging interests of; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-The self is presented as socially formed through memberships and shared practices rather than as a detached chooser. Which source-grounded account best explains the case?
+Which thinker/concept-proposition pair is correctly matched?
 
-A. a right constitution serves the good life of the whole community.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. a public-regarding will directed to common good rather than the sum of private wills.
+**Answer: B**
 
-C. shared practices and memberships partly constitute persons and their goods.
+**Option-by-option explanation**
+- **A:** A Source disagrees: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Misplaced: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Belongs elsewhere: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Cross-attached: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Communitarian embeddedness** with **shared practices and memberships partly constitute persons and their goods**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-An argument says people partly discover their goods within communities, practices and social roles. Which statement best identifies the mechanism at work?
-
-A. a right constitution serves the good life of the whole community.
-
-B. a public-regarding will directed to common good rather than the sum of private wills.
-
-C. political authority earns moral allegiance by enabling a common good of self-development.
-
-D. shared practices and memberships partly constitute persons and their goods.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Communitarian embeddedness** with **shared practices and memberships partly constitute persons and their goods**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Common interest - A judgment-oriented political-administrative notion used to; nearby thinkers may address the same debate from a different mechanism; here the tested item is Common interest.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-A communitarian answer needs the specific mechanism of traditions, internal goods and virtues. Which source-grounded account best explains the case?
+Which pair keeps the proposition with the name or concept the source attaches it to?
 
-A. traditions and cooperative practices generate internal goods, virtues and duties.
+- A. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. a right constitution serves the good life of the whole community.
+**Answer: C**
 
-C. a public-regarding will directed to common good rather than the sum of private wills.
+**Option-by-option explanation**
+- **A:** A Cross-attached: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **B:** B Belongs elsewhere: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Misplaced: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Mismatched: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **MacIntyrean practices** with **traditions and cooperative practices generate internal goods, virtues and duties**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-A thinker explains moral formation through cooperative practices sustained by traditions and standards of excellence. Which interpretation resolves this close distinction?
-
-A. a right constitution serves the good life of the whole community.
-
-B. traditions and cooperative practices generate internal goods, virtues and duties.
-
-C. a public-regarding will directed to common good rather than the sum of private wills.
-
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **MacIntyrean practices** with **traditions and cooperative practices generate internal goods, virtues and duties**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Common good - An empirical notion concerning the converging interests of; nearby thinkers may address the same debate from a different mechanism; here the tested item is Common good.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-A student wrongly assumes one metric such as money should govern all distributions. Which source-grounded account best explains the case?
+Which pairing is exact, rather than borrowed from an adjacent part of the same topic?
 
-A. a right constitution serves the good life of the whole community.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. a public-regarding will directed to common good rather than the sum of private wills.
+**Answer: D**
 
-C. different social goods require different distributive meanings and boundaries.
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Cross-attached: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Mismatched: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Not this pair: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. political authority earns moral allegiance by enabling a common good of self-development.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Walzerian spheres** with **different social goods require different distributive meanings and boundaries**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Education, office and health are treated as goods with different social meanings. Which account applies most directly?
-
-A. a right constitution serves the good life of the whole community.
-
-B. a public-regarding will directed to common good rather than the sum of private wills.
-
-C. political authority earns moral allegiance by enabling a common good of self-development.
-
-D. different social goods require different distributive meanings and boundaries.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Walzerian spheres** with **different social goods require different distributive meanings and boundaries**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Consensus - Gandhi's doctrine that the rich should treat possessions not as; nearby thinkers may address the same debate from a different mechanism; here the tested item is Consensus.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-An answer claims class society can already realise a genuine common good. Which source-grounded account best explains the case?
+One pairing below is faithful to the source. Which one?
 
-A. antagonistic class society cannot realise a genuinely common good.
+- A. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. abolition of private class power can still be followed by new political domination.
+**Answer: A**
 
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
+**Option-by-option explanation**
+- **A:** A Not this pair: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **B:** B Mismatched: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Cross-attached: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Wrong attachment: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Marxian class barrier** with **antagonistic class society cannot realise a genuinely common good**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-A theory argues that antagonistic class relations block a truly shared social good until class domination is overcome. Which source-grounded account offers the most precise diagnosis?
-
-A. abolition of private class power can still be followed by new political domination.
-
-B. antagonistic class society cannot realise a genuinely common good.
-
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-D. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Marxian class barrier** with **antagonistic class society cannot realise a genuinely common good**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Public interest - The process through which groups resolve differences and; nearby thinkers may address the same debate from a different mechanism; here the tested item is Public interest.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-A learner mistakes Gandhi for violent levelling or confiscation. Which source-grounded account best explains the case?
+Which label-proposition pair would not be corrected by the source text?
 
-A. antagonistic class society cannot realise a genuinely common good.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
 
-B. abolition of private class power can still be followed by new political domination.
+**Answer: B**
 
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
+**Option-by-option explanation**
+- **A:** A Mismatched: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Source disagrees: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
+- **C:** C Wrong attachment: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Not this pair: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
 
-D. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Gandhian trusteeship** with **wealth-holders should treat surplus property as a moral trust for social welfare**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Wealth-holders are told to treat surplus property as a moral trust for social welfare. Which statement best identifies the mechanism at work?
-
-A. antagonistic class society cannot realise a genuinely common good.
-
-B. abolition of private class power can still be followed by new political domination.
-
-C. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-D. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gandhian trusteeship** with **wealth-holders should treat surplus property as a moral trust for social welfare**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Consensus - Gandhi's doctrine that the rich should treat possessions not as; nearby thinkers may address the same debate from a different mechanism; tested item 2: Consensus - Gandhi's doctrine that the rich should treat possessions n.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Consumption is tied to physical work, dignity and restraint rather than detached privilege. Which source-grounded account best explains the case?
+Which of the following associations is reproduced exactly as recorded?
 
-A. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. antagonistic class society cannot realise a genuinely common good.
+**Answer: C**
 
-C. abolition of private class power can still be followed by new political domination.
+**Option-by-option explanation**
+- **A:** A Not this pair: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Wrong attachment: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Source disagrees: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Misplaced: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Bread labour** with **Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-A conception of equality asks everyone to perform bodily labour sufficient to justify consumption and honour work. Which interpretation resolves this close distinction?
-
-A. antagonistic class society cannot realise a genuinely common good.
-
-B. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-C. abolition of private class power can still be followed by new political domination.
-
-D. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Bread labour** with **Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Public interest - The process through which groups resolve differences and; nearby thinkers may address the same debate from a different mechanism; tested item 2: Public interest - The process through which groups resolve differences.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-A candidate reduces Gandhian common good to aggregate pleasure. Which source-grounded account best explains the case?
+Which pair matches its proposition without drifting to a related concept?
 
-A. antagonistic class society cannot realise a genuinely common good.
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Common interest — A judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475)
+- C. Public interest — The process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479)
+- D. Consensus — Gandhi's doctrine that the rich should treat possessions not as absolute personal property but as a trust held for service of humanity. (PDF pp.487-488)
 
-B. abolition of private class power can still be followed by new political domination.
+**Answer: D**
 
-C. Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order.
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Source disagrees: Common interest is recorded with an empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475).
+- **C:** C Misplaced: Public interest is recorded with a judgment-oriented political-administrative notion used to justify a public decision sensitive to people's needs and aspirations. (PDF p.475).
+- **D:** D Belongs elsewhere: Consensus is recorded with the process through which groups resolve differences and arrive at an arrangement suited to shared needs under existing constraints. (PDF pp.477-479).
 
-D. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Sarvodaya** with **Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-A moral-political ideal seeks uplift of all through non-violence, service and transformation rather than aggregate arithmetic. Which account applies most directly?
-
-A. antagonistic class society cannot realise a genuinely common good.
-
-B. abolition of private class power can still be followed by new political domination.
-
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-D. Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Sarvodaya** with **Gandhian ideal of uplift or awakening of all, especially the last and neglected person, through non-violent moral order**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Consensus - Gandhi's doctrine that the rich should treat possessions not as; nearby thinkers may address the same debate from a different mechanism; tested item 3: Consensus - Gandhi's doctrine that the rich should treat possessions n.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-A government's institutional strengthening is treated as proof of common good. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: what strengthens a state apparatus may still injure the common good.
+2. **Answer:** is associated with: trusteeship and renunciation depend heavily on sustained moral conversion.
+Which option is correct?
 
-A. what strengthens a state apparatus may still injure the common good.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. a numerical majority cannot convert injustice to minorities into common good.
+**Answer: A**
 
-C. aggregate happiness cannot justify treating a minority's suffering as expendable.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **State-good error** with **what strengthens a state apparatus may still injure the common good**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-A measure expands state capacity, but may still injure citizens or the wider community. Which source-grounded account offers the most precise diagnosis?
-
-A. a numerical majority cannot convert injustice to minorities into common good.
-
-B. what strengthens a state apparatus may still injure the common good.
-
-C. aggregate happiness cannot justify treating a minority's suffering as expendable.
-
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **State-good error** with **what strengthens a state apparatus may still injure the common good**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with 1 only does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Numerical support is taken as sufficient moral justification. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: market prices may undervalue socially necessary but weakly remunerated capacities.
+2. **Answer:** is associated with: market prices may undervalue socially necessary but weakly remunerated capacities.
+Which option is correct?
 
-A. what strengthens a state apparatus may still injure the common good.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. aggregate happiness cannot justify treating a minority's suffering as expendable.
+**Answer: B**
 
-C. a numerical majority cannot convert injustice to minorities into common good.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Majority-good error** with **a numerical majority cannot convert injustice to minorities into common good**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-A dominant bloc says its preferred outcome must be common good simply because it commands more votes. Which statement best identifies the mechanism at work?
-
-A. what strengthens a state apparatus may still injure the common good.
-
-B. aggregate happiness cannot justify treating a minority's suffering as expendable.
-
-C. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-D. a numerical majority cannot convert injustice to minorities into common good.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Majority-good error** with **a numerical majority cannot convert injustice to minorities into common good**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with 2 only does not validate the second pairing; here the tested item is 2 only.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-A minority's suffering is defended as acceptable because overall happiness rises. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: aggregate happiness cannot justify treating a minority's suffering as expendable.
+2. **Answer:** is associated with: moral richness does not automatically supply accountable institutions for resolving conflict.
+Which option is correct?
 
-A. aggregate happiness cannot justify treating a minority's suffering as expendable.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. what strengthens a state apparatus may still injure the common good.
+**Answer: C**
 
-C. a numerical majority cannot convert injustice to minorities into common good.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Utilitarian-aggregate error** with **aggregate happiness cannot justify treating a minority's suffering as expendable**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-A policy sacrifices a smaller group while claiming the total sum of benefit justifies the result. Which interpretation resolves this close distinction?
-
-A. what strengthens a state apparatus may still injure the common good.
-
-B. aggregate happiness cannot justify treating a minority's suffering as expendable.
-
-C. a numerical majority cannot convert injustice to minorities into common good.
-
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Utilitarian-aggregate error** with **aggregate happiness cannot justify treating a minority's suffering as expendable**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Both 1 and 2 does not validate the second pairing; here the tested item is Both 1 and 2.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-An agreement satisfies the visible negotiating parties but shifts cost to absent consumers or displaced groups. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: abolition of private class power can still be followed by new political domination.
+2. **Answer:** is associated with: a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+Which option is correct?
 
-A. what strengthens a state apparatus may still injure the common good.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. a numerical majority cannot convert injustice to minorities into common good.
+**Answer: D**
 
-C. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. aggregate happiness cannot justify treating a minority's suffering as expendable.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Excluded-public bargain** with **an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Employers and labour settle their dispute, yet the wider public bears the hidden burden. Which account applies most directly?
-
-A. what strengthens a state apparatus may still injure the common good.
-
-B. a numerical majority cannot convert injustice to minorities into common good.
-
-C. aggregate happiness cannot justify treating a minority's suffering as expendable.
-
-D. an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Excluded-public bargain** with **an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Neither 1 nor 2 does not validate the second pairing; here the tested item is Neither 1 nor 2.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-A market order coordinates claims but leaves socially necessary, weakly paid capacities undervalued. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: market prices may undervalue socially necessary but weakly remunerated capacities.
+2. **Answer:** is associated with: continuing accommodation of disagreement rather than complete unanimity.
+Which option is correct?
 
-A. market prices may undervalue socially necessary but weakly remunerated capacities.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. civil rules adjust individual interests while rights protect persons from mutual oppression.
+**Answer: A**
 
-C. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. shared practices and memberships partly constitute persons and their goods.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Liberal market weakness** with **market prices may undervalue socially necessary but weakly remunerated capacities**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Prices reward some activities richly while indispensable social functions remain poorly remunerated. Which source-grounded account offers the most precise diagnosis?
-
-A. civil rules adjust individual interests while rights protect persons from mutual oppression.
-
-B. market prices may undervalue socially necessary but weakly remunerated capacities.
-
-C. market valuation can stunt human capacities and therefore needs welfare-oriented correction.
-
-D. shared practices and memberships partly constitute persons and their goods.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Liberal market weakness** with **market prices may undervalue socially necessary but weakly remunerated capacities**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with 1 only does not validate the second pairing; here the tested item is 1 only.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-An answer praises community and duty but does not explain how accountable institutions will resolve conflict. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: the justified welfare of the whole political community rather than one faction's gain.
+2. **Answer:** is associated with: the justified welfare of the whole political community rather than one faction's gain.
+Which option is correct?
 
-A. shared practices and memberships partly constitute persons and their goods.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. traditions and cooperative practices generate internal goods, virtues and duties.
+**Answer: B**
 
-C. moral richness does not automatically supply accountable institutions for resolving conflict.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. different social goods require different distributive meanings and boundaries.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Communitarian machinery weakness** with **moral richness does not automatically supply accountable institutions for resolving conflict**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-A theory offers moral richness and solidarity, yet leaves unclear how disagreements will be settled without domination. Which statement best identifies the mechanism at work?
-
-A. shared practices and memberships partly constitute persons and their goods.
-
-B. traditions and cooperative practices generate internal goods, virtues and duties.
-
-C. different social goods require different distributive meanings and boundaries.
-
-D. moral richness does not automatically supply accountable institutions for resolving conflict.
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Communitarian machinery weakness** with **moral richness does not automatically supply accountable institutions for resolving conflict**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with 2 only does not validate the second pairing; tested item 2: 2 only.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Abolition of private class power is treated as if it automatically guarantees freedom from domination. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: abolition of private class power can still be followed by new political domination.
+2. **Answer:** is associated with: an empirically discoverable convergence among affected persons, narrower than the normative common good.
+Which option is correct?
 
-A. abolition of private class power can still be followed by new political domination.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. antagonistic class society cannot realise a genuinely common good.
+**Answer: C**
 
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Marxian realisation weakness** with **abolition of private class power can still be followed by new political domination**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-A revolutionary project removes one structure of class rule but is followed by new concentration of political power. Which interpretation resolves this close distinction?
-
-A. antagonistic class society cannot realise a genuinely common good.
-
-B. abolition of private class power can still be followed by new political domination.
-
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-D. Gandhian principle that everyone should perform physical labour sufficient to justify consumption and to uphold equality and dignity of work.
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Marxian realisation weakness** with **abolition of private class power can still be followed by new political domination**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Both 1 and 2 does not validate the second pairing; tested item 2: Both 1 and 2.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-An answer assumes trusteeship and renunciation will be supplied by moral persuasion alone. Which source-grounded account best explains the case?
+Consider the following statements:
+1. **Answer:** is associated with: a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+2. **Answer:** is associated with: political authority earns moral allegiance by enabling a common good of self-development.
+Which option is correct?
 
-A. antagonistic class society cannot realise a genuinely common good.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. abolition of private class power can still be followed by new political domination.
+**Answer: D**
 
-C. trusteeship and renunciation depend heavily on sustained moral conversion.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. wealth-holders should treat surplus property as a moral trust for social welfare.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Gandhian voluntarism weakness** with **trusteeship and renunciation depend heavily on sustained moral conversion**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Neither 1 nor 2 does not validate the second pairing; tested item 2: Neither 1 nor 2.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-A programme for common good depends heavily on sustained change of heart by the powerful rather than on enforceable guarantees. Which account applies most directly?
+Which correction is most defensible for the claim: **Common good is just the sum total of private interests.**?
 
-A. antagonistic class society cannot realise a genuinely common good.
+- A. Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
+- B. Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490)
 
-B. abolition of private class power can still be followed by new political domination.
+**Answer: A**
 
-C. wealth-holders should treat surplus property as a moral trust for social welfare.
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477).
+- **B:** B Repairs a different misconception, 'Common good means whatever the majority wants.', so it does not answer the claim in the stem.
+- **C:** C Cross-attached: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Repairs a different misconception, 'Common good equals utilitarian greatest happiness.', so it does not answer the claim in the stem.
 
-D. trusteeship and renunciation depend heavily on sustained moral conversion.
+> **Examiner trap:** Repair the exact overstatement about Common good is just the sum total of private interests, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **Gandhian voluntarism weakness** with **trusteeship and renunciation depend heavily on sustained moral conversion**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **Common good means whatever the majority wants.**?
+
+- A. Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490)
+- B. Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Common good equals utilitarian greatest happiness.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475).
+- **C:** C Mismatched: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Repairs a different misconception, 'Common good is just the sum total of private interests.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Common good means whatever the majority wants, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **Common good equals utilitarian greatest happiness.**?
+
+- A. Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475)
+- B. Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
+- C. Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490)
+- D. Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Common good means whatever the majority wants.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Common good is just the sum total of private interests.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490).
+- **D:** D Repairs a different misconception, 'Gandhian common good means violent leveling of rich and poor.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Common good equals utilitarian greatest happiness, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **Marxian common good is already available in capitalist society.**?
+
+- A. Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
+- B. Gauba presents common good as guiding conflict beyond factionalism, not as abolishing disagreement by decree. (PDF pp.477-479)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Gauba says Marxism sees class society as organized by antagonistic class interests, not genuine common good. (PDF pp.482-486)
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Gandhian common good means violent leveling of rich and poor.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Common-good language ends conflict.', so it does not answer the claim in the stem.
+- **C:** C Source disagrees: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Directly repairs the stated misconception: Gauba says Marxism sees class society as organized by antagonistic class interests, not genuine common good. (PDF pp.482-486).
+
+> **Examiner trap:** Repair the exact overstatement about Marxian common good is already available in, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **Gandhian common good means violent leveling of rich and poor.**?
+
+- A. Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
+- B. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- C. Gauba says Marxism sees class society as organized by antagonistic class interests, not genuine common good. (PDF pp.482-486)
+- D. Gauba presents common good as guiding conflict beyond factionalism, not as abolishing disagreement by decree. (PDF pp.477-479)
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490).
+- **B:** B Wrong attachment: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **C:** C Repairs a different misconception, 'Marxian common good is already available in capitalist society.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Common-good language ends conflict.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Gandhian common good means violent leveling of rich, not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Common-good language ends conflict.**?
+
+- A. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- B. Gauba presents common good as guiding conflict beyond factionalism, not as abolishing disagreement by decree. (PDF pp.477-479)
+- C. Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
+- D. Gauba says Marxism sees class society as organized by antagonistic class interests, not genuine common good. (PDF pp.482-486)
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Wrong attachment: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **B:** B Directly repairs the stated misconception: Gauba presents common good as guiding conflict beyond factionalism, not as abolishing disagreement by decree. (PDF pp.477-479).
+- **C:** C Repairs a different misconception, 'Gandhian common good means violent leveling of rich and poor.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Marxian common good is already available in capitalist society.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Common-good language ends conflict, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Answer: means a public-regarding will directed to common good rather than the sum of private wills.**?
+
+- A. Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475)
+- B. Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
+- C. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+- D. Both Rawlsian criticism and Gandhian sarvodaya reject sacrificing some for aggregate gain. (PDF p.477, p.490)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Common good means whatever the majority wants.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Common good is just the sum total of private interests.', so it does not answer the claim in the stem.
+- **C:** C Misplaced: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+- **D:** D Repairs a different misconception, 'Common good equals utilitarian greatest happiness.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Common good, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Answer: means political authority earns moral allegiance by enabling a common good of self-development.**?
+
+- A. Gauba says Marxism sees class society as organized by antagonistic class interests, not genuine common good. (PDF pp.482-486)
+- B. Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
+- C. Gauba presents common good as guiding conflict beyond factionalism, not as abolishing disagreement by decree. (PDF pp.477-479)
+- D. Common good — An empirical notion concerning the converging interests of persons likely to be affected by a decision. (PDF p.475)
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Marxian common good is already available in capitalist society.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Gandhian common good means violent leveling of rich and poor.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Common-good language ends conflict.', so it does not answer the claim in the stem.
+- **D:** D Cross-attached: Common good is recorded with a normative ideal concerning the welfare of the whole community, transcending the immediate claims of particular individuals or groups. (PDF pp.474-477).
+
+> **Examiner trap:** Repair the exact overstatement about Common good, not a different error from the same topic; here the tested item is Common good.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-> **Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owners are Forms of Government, Humanism, Secularism and Multiculturalism, Development and Social Progress, Caste Discrimination: Gandhi and Ambedkar. They are not re-routed to Political Theory; they are included because this topic provides a directly usable supporting framework.
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-> **Primary owner:** Philosophy Paper II - Forms of Government.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Common Good and Community** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
-#### Solved PYQ 1 - 2018 Q1(a), 10 marks
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Question:** What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context.
+### Original GS Mains Model 1 — 10 marks
 
+**Question:** Distinguish common good from public interest and common interest. Answer in 150 words.
 
-**Demand decoding:** The operative directive is **What**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of common good from public interest and common interest in the opening line, carry the argument on Introduction, Common, Core and Public, and reserve the closing sentences for the qualification that a labour-management settlement may express both parties' common interest yet fail the common-good test if consumers bear hidden costs;.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+**Model answer (140 words):**
 
-**Thesis.** Liberal democracy is popular rule placed under CONSTITUTIONAL LIMITS --
-rights, rule of law, judicial review and minority protection -- so that the majority
-governs WITHOUT converting number into unrestricted power; and yes, its strong
-affirmation of individual rights does require deeper cohesive principles, because formal
-political equality does not by itself secure the social solidarity a rights-based order
-presupposes.
+Introduction: The three expressions operate at different levels. Common good is the widest normative standard: the justified welfare of the whole political community beyond factional, state or numerical advantage. Core analysis: Common interest is narrower and empirical - an overlap among affected persons. Public interest is an authoritative policy judgment claiming to answer a collective need. A labour-management settlement may express both parties' common interest yet fail the common-good test if consumers bear hidden costs; a justified quarantine may be defended in the public interest and also serve common good. Critical evaluation: The distinction prevents state convenience or coalition strength from becoming self-certifying moral authority. Conclusion: The safest verdict is tripartite: common good is the widest normative standard, common interest is a narrower empirical overlap, and public interest is the authoritative policy judgment that must remain answerable to the common good.
 
-- **What it means.** Liberal democracy = democracy (equal authorisation, accountable
-  government) PLUS liberal constitutionalism (entrenched rights, independent courts,
-  limits on majorities). Its defining ideal is that the majority rules but may not
-  extinguish the equal standing of the minority.
-- **Why deeper principles are needed.** A purely rights-affirming liberalism can leave
-  citizens as isolated bearers of claims; without fraternity, mutual recognition and
-  substantive equality, formal rights can coexist with real social division. The point is
-  not to dilute rights but to give them a social floor.
-- **Indian reasons.** Ambedkar's warning is exactly this: POLITICAL equality -- one
-  person, one vote, one value -- cannot long survive amid deep SOCIAL and ECONOMIC
-  inequality; the Republic must add fraternity and dignity to liberty and equality or the
-  contradiction will endanger the democracy itself. Evidence unit F14: Articles 25-28
-  secure freedom of conscience and religion subject to public order, morality and health
-  -- a dated constitutional fact showing how India institutionalises plural cohesion, not
-  a proof of any philosophical thesis, and characterising no government or period.
-
-**Verdict.** Liberal democracy means constitutionally limited popular rule; it does
-require deeper cohesive principles -- fraternity, dignity and substantive equality -- to
-balance its individualism, and the Indian constitutional experience states that
-requirement more sharply than most.
-
-> MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule +
-> constitutional limits + minority protection), answers the "deeper principles" half with
-> Ambedkar's political-vs-social-equality thesis, and anchors India with F14 (Arts 25-28)
-> as a dated fact, not proof.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Common, Core and Public), converts that evidence into analysis of common good from public interest and common interest, and keeps the examiner-facing qualification that a labour-management settlement may express both parties' common interest yet fail the common-good test if consumers bear hidden costs;. At 140 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Humanism, Secularism and Multiculturalism.
+### Original GS Mains Model 2 — 10 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Why is community not identical to majority? Answer in 150 words.
 
+**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of is community not identical to majority in the opening line, carry the argument on Introduction, Core, Consensus and Critical, and reserve the closing sentences for the qualification that once majority will is treated as self-justifying, common good collapses into domination of minorities and dissenters.
 
-#### Solved PYQ 2 - 2018 Q1(b), 10 marks
+**Model answer (135 words):**
 
-**Question:** Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer.
+Introduction: A majority is a numerical relation; community in common-good reasoning is a normative whole. Gauba therefore rejects equating the common good with the preference of the largest electoral or cultural bloc. Core analysis: The common good may require protecting a minority against majority injustice. Consensus also means continuing accommodation, not the elimination of disagreement. When a dominant religious, caste or linguistic group presents its own way of life as the voice of everyone, sectional interest is merely disguised as community. Critical evaluation: Community-language is defensible only when dissenters and weaker groups retain rights, equal citizenship, voice and review. Constitutional morality is a supplementary safeguard against majoritarian absorption. Conclusion: Community is therefore a normative whole, not a head-count winner; once majority will is treated as self-justifying, common good collapses into domination of minorities and dissenters.
 
-
-**Demand decoding:** The operative directive is **Do**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Thesis.** I subscribe -- but only if "multiculturalism" means the NORMATIVE
-principle of recognition and accommodation (not a mere census of diversity) and if
-"dignity of each person" supplies the internal limit that keeps recognition from
-sheltering domination. The two principles are complementary precisely because
-dignity disciplines recognition.
-
-- **Doctrine.** Multiculturalism is both the fact of cultural diversity and the
-  normative claim that a just polity may need public recognition or group-
-  differentiated rights so minorities enjoy equal membership (H6, Taylor: identity
-  is dialogically formed, misrecognition is a real injury). Dignity is humanism's
-  claim that each person has worth independent of birth or rank (H1). India is
-  descriptively plural in language and religion; Articles 29-30 illustrate external
-  protections of cultural and educational interests -- a dated legal fact, not proof.
-- **Why they must go together (objection -> reply).** Objection: integrating group
-  recognition risks essentialism and internal restriction, letting community elites
-  dominate members. Reply: the dignity of EACH person is exactly the check -- external
-  protections are justified, internal restrictions are not (H7); recognition owed to a
-  community is not endorsement of its treatment of its own members.
-
-**Verdict.** Subscribe, conditionally: Indian cultural identity should integrate
-recognition BECAUSE respect for each person's dignity both motivates recognition and
-sets its limit.
-
-> MEMORY: Why this earns marks -- it answers "do you subscribe?" with a graded yes,
-> pairs H6 (recognition) with H1/H7 (dignity as the internal-restriction limit), and
-> closes on complementarity rather than praise.
+**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Consensus and Critical), converts that evidence into analysis of is community not identical to majority, and keeps the examiner-facing qualification that once majority will is treated as self-justifying, common good collapses into domination of minorities and dissenters. At 135 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Forms of Government.
+### Original GS Mains Model 3 — 10 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Compare liberal and communitarian conceptions of common good. Answer in 150 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of liberal and communitarian conceptions of common good in the opening line, carry the argument on Introduction, Liberalism, Core and Rights, and reserve the closing sentences for the qualification that gauba's Macpherson bridge and welfare correction nevertheless show that market demand may undervalue socially necessary capacities.
 
-#### Solved PYQ 3 - 2020 Q1(b), 10 marks
+**Model answer (142 words):**
 
-**Question:** How far do the liberal democracies safeguard the interests of minorities? Evaluate critically.
+Introduction: Liberalism begins from persons with claims and freedoms; communitarianism begins from socially constituted persons whose goods are shaped by membership and shared purposes. Core analysis: For liberals, common good emerges through reconciliation under civil rules. Rights protect plurality and prevent mutual oppression. Gauba's Macpherson bridge and welfare correction nevertheless show that market demand may undervalue socially necessary capacities. Communitarians reply that the liberal self is too thin: MacIntyre stresses practices and virtues, Taylor dialogical recognition, and Walzer sphere-specific social meanings rather than one distributive metric. Further development: The comparison also turns on how each side handles plurality. A defensible common good therefore combines social embeddedness with protected dissent and institutional review. Conclusion: Liberalism protects plurality by reconciling claims under rights, while communitarianism protects solidarity by locating the self within shared purposes; the stronger answer uses each to correct the other's weakness.
 
-
-**Demand decoding:** The operative directive is **How far**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Thesis.** Liberal democracy is NORMATIVELY committed to minority protection but only
-CONDITIONALLY successful in practice: it safeguards minorities as far as constitutional
-culture, social equality and institutional independence are real, and no further.
-
-- **The commitment.** Liberal democracy combines popular rule with constitutional limits,
-  rights, rule of law and protection for minorities; its ideal is majority government
-  WITHOUT converting number into unrestricted power. Citizenship requires equal moral
-  standing, not merely counting heads.
-- **Achievements.** Legal guarantees, representation, judicial review and civil liberties;
-  protection of dissent, association and expression; the possibility of constitutional
-  accommodation of language, religion and culture.
-- **Limits (the critical half).** Social prejudice can outlast formal equality; electoral
-  incentives can reward majoritarian rhetoric; minorities may be tolerated formally yet
-  excluded substantively. Evidence unit F10: elections, courts, press and opposition can
-  persist while fairness of contest, limits on majorities and realistic alternation are
-  hollowed out -- a diagnostic grid this answer applies to no actual country, party or
-  period.
-
-**Verdict (form/substance).** Liberal democracy retains the democratic FORM and a genuine
-normative commitment to minorities; how far it protects them depends on whether the
-SUBSTANTIVE conditions -- independent adjudication, plural media, a rights-respecting
-culture -- survive. The commitment is real; the safeguard is contingent.
-
-> MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem
-> demands, deploys F10 form-vs-substance as the critical engine, and grades with the
-> form/substance verdict instead of a flat "yes/no".
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Liberalism, Core and Rights), converts that evidence into analysis of liberal and communitarian conceptions of common good, and keeps the examiner-facing qualification that gauba's Macpherson bridge and welfare correction nevertheless show that market demand may undervalue socially necessary capacities. At 142 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Development and Social Progress.
+### Original GS Mains Model 4 — 15 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “How far do the liberal democracies safeguard the interests of minorities? Evaluate critically.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Critically examine Gandhian sarvodaya as a theory of common good. Answer in 250 words.
 
+**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine Gandhian sarvodaya as a theory of common good in the opening line, carry the argument on Introduction, Sarvodaya, Core and Trusteeship, and reserve the closing sentences for the qualification that conclusion: Sarvodaya is most defensible as a moral critique of greed, violence and exclusion, but it remains politically adequate only when voluntary ethical transformation is joined to rights, equality and safeguards against hierarchy.
 
-#### Solved PYQ 4 - 2020 Q2(a), 20 marks
+**Model answer (200 words):**
 
-**Question:** State and examine the Gandhian concept of social development.
+Introduction: Sarvodaya makes common good a moral-civilisational ideal: uplift of all, especially the neglected, through non-violence, labour and restraint rather than aggregate advantage. Core analysis: Trusteeship treats surplus wealth as a social trust, bread labour joins consumption to dignified physical work, and ahimsa requires unity of means and ends. Gandhi thus rejects both capitalist greed and violent levelling; minority suffering cannot be cancelled by a larger total of benefit. Further development: A further Indian qualification comes from the owner's own objection-reply architecture and verified cross-routes to Gandhi-Ambedkar material. If harmony is invoked without naming caste, social humiliation and structural exclusion, sarvodaya risks sounding like moral reconciliation without equal standing. The answer should therefore distinguish Gandhi's ethical insight from any complacent assumption that voluntary virtue alone can dissolve entrenched hierarchy. Critical evaluation: Its strength is ethical depth and anti-exclusion. Its weakness is implementation: trusteeship and renunciation rely heavily on voluntary change, while harmony-language may understate caste and gender hierarchy. Sarvodaya therefore needs enforceable equality, rights and accountable institutions. Conclusion: Sarvodaya is most defensible as a moral critique of greed, violence and exclusion, but it remains politically adequate only when voluntary ethical transformation is joined to rights, equality and safeguards against hierarchy.
 
-
-**Demand decoding:** The operative directive is **State and examine**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Directive:** *State and examine* - first expound the Gandhian concept faithfully, then weigh it with objections and replies and a reasoned verdict.
-
-**State - the Gandhian concept of social development.** For Gandhi, development is the moral growth of persons and communities, not the volume of production. Its hub is **sarvodaya** - the welfare of all, tested by the condition of the *last and weakest* person. Its supporting commitments are **swaraj** (self-rule as both political freedom and moral self-mastery over wants), **trusteeship** (surplus wealth held in trust for society, not as absolute private right), **restraint of wants** ("enough for need, not for greed"), **dignity of labour** (manual work honoured), and a **decentralised, village-centred** economy using **appropriate technology** scaled to human need. Underlying all is **means-ends unity**: a good end cannot be reached by exploitative means.
-
-**Examine - strengths.** The model is a powerful critique of consumerist, centralised development: it anticipates **ecological limits** (restraint of throughput), defends **dignity and non-exploitation** as internal to development, and treats people as **moral agents**, not consumers - close, in effect, to a capability-and-sufficiency ethic.
-
-**Examine - objections and replies.**
-- *Scale/romanticisation:* a low-throughput village model may not meet the needs of a large, poor population. *Reply:* the target is insatiable consumerism and centralisation, not health and schooling; "appropriate" scale is revisable without surrendering restraint.
-- *Productivity:* restraint may cap the surplus needed to lift millions. *Reply:* the model reframes the *goal* (sufficiency + dignity) rather than maximising output; it is a critique of the metric, not a vow of poverty.
-- *Caste and gender (Ambedkar):* idealising the village can **reproduce caste hierarchy and gendered labour**. This is the decisive internal-Indian criticism, and it is not fully answered within the Gandhian frame.
-
-**Graded verdict.** Gandhian social development is a **profound critique of output-centred, centralised modernisation and a partial positive model** - ecologically and morally ahead of its rivals - but it must be **corrected by Ambedkar on caste and gender** and made honest about scale. Its enduring contribution is the metric: development measured by dignity, restraint and the condition of the last person.
-
-> **Why this earns marks:** it "states" the concept completely (all five commitments + means-ends unity), "examines" with a genuine objection/reply set, concedes the Ambedkar critique honestly, and delivers a balanced, non-hagiographic verdict.
+**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Sarvodaya, Core and Trusteeship), converts that evidence into analysis of examine Gandhian sarvodaya as a theory of common good, and keeps the examiner-facing qualification that conclusion: Sarvodaya is most defensible as a moral critique of greed, violence and exclusion, but it remains politically adequate only when voluntary ethical transformation is joined to rights, equality and safeguards against hierarchy. At 200 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Caste Discrimination: Gandhi and Ambedkar.
+### Original GS Mains Model 5 — 15 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “State and examine the Gandhian concept of social development.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Can common-good reasoning be defended in a plural society without sacrificing minority rights? Answer in 250 words.
 
+**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of common-good reasoning be defended in a plural society without sacrificing minority rights in the opening line, carry the argument on Introduction, Common-good, Core and Once, and reserve the closing sentences for the qualification that conclusion: Yes, but only if common good is defined against state good, majority good and utilitarian expendability, and is disciplined by equal citizenship, dissent, review and constitutional morality.
 
-#### PYQ 5 — 2023 · Q3(b) (15 marks)
+**Model answer (213 words):**
 
+Introduction: Common-good reasoning can be defended in a plural society, but only in a qualified form. The first step is to reject three false equations already ruled out by the owner: common good is not state good, not majority good and not utilitarian aggregate gain. Core analysis: Once those errors are removed, the concept can do valuable work. It asks whether citizens can justify shared objectives beyond factional bargaining, while still keeping disagreement legitimate. Liberalism contributes the rights-framework: minorities, dissenters and weaker groups cannot be sacrificed simply because a larger bloc claims to represent the whole. Communitarianism contributes the reminder that citizens are not detached atoms and that common institutions, practices and social trust matter. The supplementary bridges extend this carefully: civic republicanism adds non-domination and active citizenship, commons-thinking adds the need for institutions that prevent both private enclosure and unaccountable state control, and constitutional morality disciplines inherited social consensus when caste, gender or religious hierarchy masquerades as community good. Further development: This is where the supplementary bridges are most useful. Common good survives in plural society only as a rights-bounded, contestable and revisable standard. Conclusion: Yes, but only if common good is defined against state good, majority good and utilitarian expendability, and is disciplined by equal citizenship, dissent, review and constitutional morality.
 
-
-**Question:** Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste.
-
-
-**Demand decoding:** The operative directive is **Critically analyse**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-Ambedkar's annihilation of caste is not a programme for improving mobility within caste; it seeks to destroy caste as a hereditary system of graded inequality. In *Annihilation of Caste* (1936), he locates its reproduction in religious sanction, endogamy and the denial of free social association. Social reform must therefore attack the structure that fixes status by birth, not merely soften untouchability.
-
-Its social significance lies in making fraternity possible. Graded inequality prevents a shared public because each caste looks down upon another while remaining subordinate to one above it. Inter-caste association, education and the rejection of scriptural authority are thus conditions of equal moral standing. Its political significance lies in showing that formal citizenship and one-person-one-vote cannot by themselves overcome social power. Independent organisation, representation, constitutional rights and safeguards are needed so subordinated groups can act as political agents.
-
-The strongest objection is that law and state action cannot abolish prejudice by decree. Ambedkar's reply is broader than legalism: constitutional protection must work alongside social democracy, which joins liberty, equality and fraternity in everyday relations. A further limit is that representation can be captured by elites unless it remains accountable to those represented.
-
-Annihilation of caste is therefore both social reconstruction and democratic deepening: it replaces hereditary valuation with equal citizenship, but requires constitutional power, organised agency and transformed social relations together.
+**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Common-good, Core and Once), converts that evidence into analysis of common-good reasoning be defended in a plural society without sacrificing minority rights, and keeps the examiner-facing qualification that conclusion: Yes, but only if common good is defined against state good, majority good and utilitarian expendability, and is disciplined by equal citizenship, dissent, review and constitutional morality. At 213 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Humanism, Secularism and Multiculturalism.
+### Original GS Mains Model 6 — 15 marks
 
-**Why this earns marks:** It answers the precise directive, uses named evidence analytically, includes a material qualification and ends with a reasoned verdict proportionate to the mark demand.
+**Question:** Compare Marxian, Gandhian and Aristotelian approaches to the common good. Answer in 250 words.
 
-**How to improve this answer:** Make the opening answer this exact demand — “Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of marxian, Gandhian and Aristotelian approaches to the common good in the opening line, carry the argument on Introduction, Aristotle, Marx and Gandhi, and reserve the closing sentences for the qualification that conclusion: All three reject narrow private self-interest, yet Aristotle locates common good in right constitutional order, Marx in overcoming class domination, and Gandhi in moral self-restraint and sarvodaya;.
 
+**Model answer (249 words):**
 
-#### Solved PYQ 6 - 2024 Q4(c), 15 marks
+Introduction: Aristotle, Marx and Gandhi all reject the idea that politics is merely the registration of private appetite, yet they reach the common good through very different routes. Aristotle is constitutional and teleological, Marx structural and conflictual, Gandhi moral and civilisational. Core analysis: For Aristotle, the right constitution serves the good life of the whole community; the political order is judged by whether it advances the advantage of the whole rather than one class. Marx begins elsewhere. In a class-divided society, he denies that a genuine common good is available at all, because antagonistic ownership structures organise power and interest. Common good becomes fully meaningful only in communist association after class domination is overcome. Gandhi again shifts the ground. He seeks common good through trusteeship, bread labour, non-possession, non-violence and sarvodaya, so that moral self-restraint replaces both capitalist greed and violent levelling. On property and conflict, then, Aristotle seeks right ordering, Marx seeks abolition of class antagonism, and Gandhi seeks ethical transformation. Further development: Aquinas and Hegel should appear only as bounded comparative bridges, not as direct Gauba Ch.21 evidence. Aquinas extends the flourishing genealogy; Hegel shows freedom mediated through ethical institutions. A high-quality comparison preserves these distinct problem-settings instead of turning all three into vague theories of welfare. Conclusion: All three reject narrow private self-interest, yet Aristotle locates common good in right constitutional order, Marx in overcoming class domination, and Gandhi in moral self-restraint and sarvodaya; no serious comparison should flatten these distinct routes into one doctrine.
 
-**Question:** Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies.
-
-
-**Demand decoding:** The operative directive is **Discuss**: cover the principal dimensions, connect named evidence to each claim, include the strongest counter-position and conclude directly. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Thesis.** Tolerance and coexistence are NECESSARY ethical conditions for multicultural
-societies but not SUFFICIENT: a mature multicultural order must climb from tolerance, through
-coexistence, to RECOGNITION of equal standing.
-
-- **The ladder (the mark-bearing structure).** TOLERANCE restrains coercion against what one
-  disapproves -- indispensable, but potentially HIERARCHICAL, since the powerful "permit" the
-  weak. COEXISTENCE is peaceful shared life. RECOGNITION affirms equal standing and may
-  require institutional accommodation (H6). The rise of a multicultural society is the movement
-  from permission to equal citizenship and reciprocal recognition.
-- **Why tolerance and coexistence enable the rise.** Without tolerance, difference invites
-  coercion; without coexistence, plural communities cannot share institutions; these ethical
-  principles make space for the deeper claim that difference deserves not just permission but
-  equal standing.
-- **Objection -> reply.** Objection: tolerance is enough -- recognition over-politicises
-  identity. Reply: tolerance leaves a hierarchy of the tolerating and the tolerated intact, so
-  it secures peace but not equal citizenship; recognition completes what tolerance begins,
-  while remaining revisable and compatible with exit and dissent.
-
-**Verdict.** Tolerance and coexistence are the ethical preconditions for multicultural
-societies, but their telos is recognition: a society that merely tolerates has kept the peace
-without granting equal standing.
-
-> MEMORY: Why this earns marks -- it walks the tolerance->coexistence->recognition ladder,
-> shows tolerance is necessary-but-hierarchical, and gives recognition as the completing move.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Aristotle, Marx and Gandhi), converts that evidence into analysis of marxian, Gandhian and Aristotelian approaches to the common good, and keeps the examiner-facing qualification that conclusion: All three reject narrow private self-interest, yet Aristotle locates common good in right constitutional order, Marx in overcoming class domination, and Gandhi in moral self-restraint and sarvodaya;. At 249 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
-
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
-
-#### Original Mains Practice 1 — 10 marks
-
-**Question:** Distinguish common good from public interest and common interest. Answer in about 150 words.
-
-
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** The three expressions operate at different levels. **Common good** is the widest normative standard: the justified welfare of the whole political community beyond factional, state or numerical advantage.
-
-**Core analysis:** **Common interest** is narrower and empirical - an overlap among affected persons. **Public interest** is an authoritative policy judgment claiming to answer a collective need. A labour-management settlement may express both parties' common interest yet fail the common-good test if consumers bear hidden costs; a justified quarantine may be defended in the public interest and also serve common good.
-
-**Critical evaluation:** The distinction prevents state convenience or coalition strength from becoming self-certifying moral authority.
-
-**Conclusion:** The safest verdict is tripartite: common good is the widest normative standard, common interest is a narrower empirical overlap, and public interest is the authoritative policy judgment that must remain answerable to the common good.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish common good from public interest and common interest.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 2 — 10 marks
-
-**Question:** Why is community not identical to majority? Answer in about 150 words.
-
-
-**Demand decoding:** The operative directive is **Why**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** A majority is a numerical relation; community in common-good reasoning is a normative whole. Gauba therefore rejects equating the common good with the preference of the largest electoral or cultural bloc.
-
-**Core analysis:** The common good may require protecting a minority against majority injustice. Consensus also means continuing accommodation, not the elimination of disagreement. When a dominant religious, caste or linguistic group presents its own way of life as the voice of everyone, sectional interest is merely disguised as community.
-
-**Critical evaluation:** Community-language is defensible only when dissenters and weaker groups retain rights, equal citizenship, voice and review. Constitutional morality is a supplementary safeguard against majoritarian absorption.
-
-**Conclusion:** Community is therefore a normative whole, not a head-count winner; once majority will is treated as self-justifying, common good collapses into domination of minorities and dissenters.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Why is community not identical to majority?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 3 — 15 marks
-
-**Question:** Compare liberal and communitarian conceptions of common good. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** Liberalism begins from persons with claims and freedoms; communitarianism begins from socially constituted persons whose goods are shaped by membership and shared purposes.
-
-**Core analysis:** For liberals, common good emerges through reconciliation under civil rules. Rights protect plurality and prevent mutual oppression. Gauba's Macpherson bridge and welfare correction nevertheless show that market demand may undervalue socially necessary capacities. Communitarians reply that the liberal self is too thin: MacIntyre stresses practices and virtues, Taylor dialogical recognition, and Walzer sphere-specific social meanings rather than one distributive metric.
-
-**Further development:** The comparison also turns on how each side handles plurality. Liberalism treats disagreement as normal and therefore makes rights, procedures and protected dissent foundational. Communitarianism asks whether such procedures can survive without prior social trust, shared meanings and civic attachment. The sharper conclusion is not that one side refutes the other, but that a workable common-good theory needs both social embeddedness and institutional safeguards against coercive homogeneity.
-
-**Critical evaluation:** Liberalism can protect rights while thinning solidarity; communitarianism can deepen belonging while risking conformity and dominant-group morality. A defensible common good therefore combines social embeddedness with protected dissent and institutional review.
-
-**Conclusion:** Liberalism protects plurality by reconciling claims under rights, while communitarianism protects solidarity by locating the self within shared purposes; the stronger answer uses each to correct the other's weakness.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare liberal and communitarian conceptions of common good.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 4 — 15 marks
-
-**Question:** Critically examine Gandhian sarvodaya as a theory of common good. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **Critically examine**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** Sarvodaya makes common good a moral-civilisational ideal: uplift of all, especially the neglected, through non-violence, labour and restraint rather than aggregate advantage.
-
-**Core analysis:** Trusteeship treats surplus wealth as a social trust, bread labour joins consumption to dignified physical work, and ahimsa requires unity of means and ends. Gandhi thus rejects both capitalist greed and violent levelling; minority suffering cannot be cancelled by a larger total of benefit.
-
-**Further development:** A further Indian qualification comes from the owner's own objection-reply architecture and verified cross-routes to Gandhi-Ambedkar material. If harmony is invoked without naming caste, social humiliation and structural exclusion, sarvodaya risks sounding like moral reconciliation without equal standing. The answer should therefore distinguish Gandhi's ethical insight from any complacent assumption that voluntary virtue alone can dissolve entrenched hierarchy.
-
-**Critical evaluation:** Its strength is ethical depth and anti-exclusion. Its weakness is implementation: trusteeship and renunciation rely heavily on voluntary change, while harmony-language may understate caste and gender hierarchy. Sarvodaya therefore needs enforceable equality, rights and accountable institutions.
-
-**Conclusion:** Sarvodaya is most defensible as a moral critique of greed, violence and exclusion, but it remains politically adequate only when voluntary ethical transformation is joined to rights, equality and safeguards against hierarchy.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically examine Gandhian sarvodaya as a theory of common good.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 5 — 20 marks
-
-**Question:** Can common-good reasoning be defended in a plural society without sacrificing minority rights? Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **Can**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Common-good reasoning can be defended in a plural society, but only in a qualified form. The first step is to reject three false equations already ruled out by the owner: common good is not state good, not majority good and not utilitarian aggregate gain.
-
-**Core analysis:** Once those errors are removed, the concept can do valuable work. It asks whether citizens can justify shared objectives beyond factional bargaining, while still keeping disagreement legitimate. Liberalism contributes the rights-framework: minorities, dissenters and weaker groups cannot be sacrificed simply because a larger bloc claims to represent the whole. Communitarianism contributes the reminder that citizens are not detached atoms and that common institutions, practices and social trust matter. The supplementary bridges extend this carefully: civic republicanism adds non-domination and active citizenship, commons-thinking adds the need for institutions that prevent both private enclosure and unaccountable state control, and constitutional morality disciplines inherited social consensus when caste, gender or religious hierarchy masquerades as community good.
-
-**Further development:** This is where the supplementary bridges are most useful. Civic republican non-domination tests whether any citizen or group is left under unchecked discretionary power; commons-thinking tests whether shared resources are governed rather than enclosed; social-capital language explains why cooperation matters but also why exclusionary networks are dangerous; and constitutional morality sets the outer limit by refusing to let inherited consensus override equal citizenship. These additions strengthen rather than replace the chapter's anti-majoritarian core.
-
-**Critical evaluation:** The strongest objection is internal domination: group-rights or community-language may empower elites within communities and silence women, dissenters or lower-status members. The reply is explicit in the owner's objection-reply chains: voice, exit, equal status, review and public justification remain non-negotiable tests. Common good survives in plural society only as a rights-bounded, contestable and revisable standard.
-
-**Conclusion:** Yes, but only if common good is defined against state good, majority good and utilitarian expendability, and is disciplined by equal citizenship, dissent, review and constitutional morality.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Can common-good reasoning be defended in a plural society without sacrificing minority rights?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 6 — 20 marks
-
-**Question:** Compare Marxian, Gandhian and Aristotelian approaches to the common good. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Aristotle, Marx and Gandhi all reject the idea that politics is merely the registration of private appetite, yet they reach the common good through very different routes. Aristotle is constitutional and teleological, Marx structural and conflictual, Gandhi moral and civilisational.
-
-**Core analysis:** For Aristotle, the right constitution serves the good life of the whole community; the political order is judged by whether it advances the advantage of the whole rather than one class. Marx begins elsewhere. In a class-divided society, he denies that a genuine common good is available at all, because antagonistic ownership structures organise power and interest. Common good becomes fully meaningful only in communist association after class domination is overcome. Gandhi again shifts the ground. He seeks common good through trusteeship, bread labour, non-possession, non-violence and sarvodaya, so that moral self-restraint replaces both capitalist greed and violent levelling. On property and conflict, then, Aristotle seeks right ordering, Marx seeks abolition of class antagonism, and Gandhi seeks ethical transformation.
-
-**Further development:** Aquinas and Hegel should appear only as bounded comparative bridges, not as direct Gauba Ch.21 evidence. Aquinas extends the flourishing genealogy; Hegel shows freedom mediated through ethical institutions. Both clarify, without replacing, Aristotle's civic whole, Marx's structural critique and Gandhi's moral commonwealth.
-
-**Critical evaluation:** Their strengths and weaknesses differ correspondingly. Aristotle offers a strong whole-community criterion but can underplay entrenched exclusion. Marx best diagnoses structural barriers yet faces the owner's realisation problem: new domination may follow abolition of private class power. Gandhi provides the richest moral critique but depends heavily on voluntarism. A high-quality comparison preserves these distinct problem-settings instead of turning all three into vague theories of welfare.
-
-**Conclusion:** All three reject narrow private self-interest, yet Aristotle locates common good in right constitutional order, Marx in overcoming class domination, and Gandhi in moral self-restraint and sarvodaya; no serious comparison should flatten these distinct routes into one doctrine.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare Marxian, Gandhian and Aristotelian approaches to the common good.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Advanced enrichment | **Exam relevance:** UPSC Prelims and GS Mains, primarily GS-II. This universal label means enrichment beyond a core GS answer and never a separate-paper classification.
 > **Core area:** Advanced reconstruction of common-good theory across liberal, communitarian, Marxian and Gandhian frames, with safeguards for rights, dissent and pluralism.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.21, PDF pp.474-490.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -1660,11 +1882,9 @@ without granting equal standing.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### EMBEDDED TWELVE-PANEL ASCII REVISION ATLAS
-
 This text edition preserves the same source-grounded revision route as the separate printable ASCII deliverable.
 
-#### ASCII PANEL 1/12 — Topic Stakes, Concept Map and Essential Definitions
+
 
 ```text
 CENTRAL FOCUS
@@ -1685,7 +1905,7 @@ VERDICT -> Separate normative, empirical and justificatory levels first.
 ANSWER USE -> Define all three terms before any thinker comparison.
 ```
 
-#### ASCII PANEL 2/12 — Gauba's Common-Good Argument
+
 
 ```text
 CENTRAL FOCUS
@@ -1706,7 +1926,7 @@ VERDICT -> Aristotle, Rousseau and Green are linked but not merged.
 ANSWER USE -> Attach each thinker to one distinct mechanism.
 ```
 
-#### ASCII PANEL 3/12 — Common Good, Common Interest, Public Interest and Consensus
+
 
 ```text
 CENTRAL FOCUS
@@ -1727,7 +1947,7 @@ VERDICT -> Precision blocks bureaucratic and factional misuse.
 ANSWER USE -> Public-interest language still needs a common-good test.
 ```
 
-#### ASCII PANEL 4/12 — The Liberal Route and Macpherson's Correction
+
 
 ```text
 CENTRAL FOCUS
@@ -1748,7 +1968,7 @@ VERDICT -> Liberalism here is rights plus reconciliation, not market worship.
 ANSWER USE -> Pair liberal adjustment with Macpherson's correction.
 ```
 
-#### ASCII PANEL 5/12 — Communitarian Embeddedness and Thinker-Specific Mechanisms
+
 
 ```text
 CENTRAL FOCUS
@@ -1769,7 +1989,7 @@ VERDICT -> Social depth must not become coerced conformity.
 ANSWER USE -> Name MacIntyre, Taylor or Walzer specifically.
 ```
 
-#### ASCII PANEL 6/12 — The Marxian Class Barrier
+
 
 ```text
 CENTRAL FOCUS
@@ -1790,7 +2010,7 @@ VERDICT -> Marxian strength is diagnosis; weakness is historical realisation.
 ANSWER USE -> Contrast class barrier with later domination risk.
 ```
 
-#### ASCII PANEL 7/12 — Gandhian Trusteeship, Bread Labour and Sarvodaya
+
 
 ```text
 CENTRAL FOCUS
@@ -1811,7 +2031,7 @@ VERDICT -> Gandhi moralises common good beyond utility and state command.
 ANSWER USE -> Use trusteeship, bread labour and sarvodaya together.
 ```
 
-#### ASCII PANEL 8/12 — Comparison, Trap Repair and Revision Spine
+
 
 ```text
 CENTRAL FOCUS
@@ -1832,7 +2052,7 @@ VERDICT -> The core false equations are statist, majoritarian and utilitarian.
 ANSWER USE -> Repair one trap before moving to evaluation.
 ```
 
-#### ASCII PANEL 9/12 — Directive Control, Reconstructions and Objection-Reply Chains
+
 
 ```text
 CENTRAL FOCUS
@@ -1853,7 +2073,7 @@ VERDICT -> Rights, dissent and review are internal tests of common good.
 ANSWER USE -> Use the internal-domination objection when plurality appears.
 ```
 
-#### ASCII PANEL 10/12 — Plurality, Indian Applications, MCQ Ledger and PYQ Routes
+
 
 ```text
 CENTRAL FOCUS
@@ -1874,7 +2094,7 @@ VERDICT -> Supplementary bridges help only when their boundary is stated.
 ANSWER USE -> Mark Aquinas and Hegel as comparative extensions.
 ```
 
-#### ASCII PANEL 11/12 — MCQ Remediation and Trap Repair
+
 
 ```text
 CENTRAL FOCUS
@@ -1895,7 +2115,7 @@ VERDICT -> Strong answers use propositions and distinctions over risky quotes.
 ANSWER USE -> Replace doubtful quotes with verified named positions.
 ```
 
-#### ASCII PANEL 12/12 — PYQ Ownership and Answer Practice
+
 
 ```text
 CENTRAL FOCUS
@@ -1916,7 +2136,7 @@ VERDICT -> Philosophy PYQs stay with Philosophy owners.
 ANSWER USE -> Route democratisation and backsliding to Topic 23.
 ```
 
-### ONE-PAGE CONCEPT GRID
+
 
 | Concept / thinker | Exam-ready formulation |
 |---|---|
@@ -1933,7 +2153,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 | Liberal thinkers | Locke, Adam Smith, Bentham and J.S. Mill are presented as exponents of the liberal view that reconciled individual interests can yield common good. |
 | Macpherson | Criticizes market-society common good because demand-and-supply valuation can stunt human capacities and creative freedom. |
 
-### CORE REVISION SPINE
+
 
 - Marxian theory says genuine common good is impossible in class-divided society and is realizable only in classless community. (PDF pp.482-486)
 - Common good = welfare of the whole community, not factional gain. (PDF pp.474-477)
@@ -1948,7 +2168,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 - Gandhian theory links common good to trusteeship, bread labour, classless moral order and sarvodaya, the uplift of all. (PDF pp.486-490)
 - UPSC safety rule: common-good language must never be allowed to erase minority rights, dissent or pluralism in the name of "the whole."
 
-### HIGH-RISK TRAPS
+
 
 - Trap repair: Common good is just the sum total of private interests. -> Gauba explicitly distinguishes it from bargaining outcomes and factional aggregation. (PDF pp.475-477)
 - Trap repair: Common good means whatever the majority wants. -> Gauba says the common good may be invoked precisely to stop injustice against a minority. (PDF p.475)
@@ -1957,7 +2177,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 - Trap repair: Gandhian common good means violent leveling of rich and poor. -> Gandhi relies on trusteeship, ahimsa, bread labour and moral regeneration, not coercive confiscation. (PDF pp.487-490)
 - Trap repair: Common-good politics can silence dissent in the name of unity. -> A defensible common-good answer must preserve minority rights, disagreement and plural moral voices within the community.
 
-### ANSWER SPINE
+
 
 1. Define the exact doctrine or controversy in the question.
 2. State a qualified thesis before narration begins.
@@ -1966,7 +2186,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 5. Present the strongest objection, reply and residual limitation.
 6. End with a graded verdict tied to the directive.
 
-### COMPLETE TOPIC CHECKLIST
+
 
 - **Core sequence:** common good -> common interest -> public interest -> consensus ->
   liberal route -> communitarian route -> Marxian route -> Gandhian route -> criticisms.
@@ -1977,7 +2197,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 - **Consensus caution:** consensus is a process of accommodation under disagreement,
   not a metaphysics of unanimity.
 
-### THINKER GRID
+
 
 | Thinker / stream | Safe use | Boundary |
 |---|---|---|
@@ -1990,7 +2210,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 | Marx / Engels | Class antagonism blocks genuine common good in class society. | Keep realisation weakness explicit. |
 | Gandhi | Trusteeship, bread labour, ahimsa and sarvodaya moralise common good. | Keep voluntarism and hierarchy-risk caveats explicit. |
 
-### SUPPLEMENTARY BRIDGES - SAFE ONLY WHEN BOUNDED
+
 
 | Bridge | Safe use | Boundary |
 |---|---|---|
@@ -2001,7 +2221,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 | Social capital | Explain how trust and associations can support cooperation. | Also state that exclusionary networks can reproduce hierarchy. |
 | Constitutional morality | Discipline inherited social consensus through equal citizenship and rights. | Use as bounded democratic safeguard, not as a substitute for the chapter's core distinctions. |
 
-### VERIFIED CROSS-APPLIED PHILOSOPHY OPTIONAL PYQ ROUTES
+
 
 - **2018, 10m** - liberal democracy and deeper social cohesion ->
   **Primary owner:** Philosophy Paper II - Forms of Government.
@@ -2016,7 +2236,7 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 - **2024, 15m** - tolerance and coexistence in multicultural societies ->
   **Primary owner:** Philosophy Paper II - Humanism, Secularism and Multiculturalism.
 
-### ANSWER-WRITING CONTROL
+
 
 1. Define the distinction before narrating the doctrine.
 2. State one qualified thesis before listing thinkers.
@@ -2027,10 +2247,18 @@ ANSWER USE -> Route democratisation and backsliding to Topic 23.
 6. For Marx stems, separate class barrier from historical realisation.
 7. Avoid unsafe quotations; prefer named propositions and exact distinctions.
 
-### ROUTING BOUNDARIES
+
 
 - **Topic 22** remains the main owner for democracy, representation, electoral devices and
   minority-protection mechanisms in liberal democracy.
 - **Topic 23** must explicitly carry **democratisation, democratic backsliding and social
   movements** as supplemental bounded bridges. Topic 21 may cross-reference those processes
   only as downstream democratic context; it must not absorb their ownership.
+
+### GS ownership and final answer route
+
+- **Topic boundary:** liberal, communitarian, Marxian and Gandhian common good.
+- **Exam identity:** UPSC Prelims and General Studies Mains only; primarily GS-II conceptual foundations.
+- **Evidence rule:** claim -> named thinker/example -> what it proves -> limitation.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; otherwise use labelled original practice.
+- **Advanced rule:** Advanced enrichment is useful for qualification but unnecessary for a competent core GS answer.

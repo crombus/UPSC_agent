@@ -1,31 +1,37 @@
 ---
 topic_key: political-theory-03
 title: Liberalism and Neoliberalism — Complete Topic Package
-generation_identity: political-theory-03:learner-v2:g5
-generated_on: 2026-08-30
+generation_identity: political-theory-03:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Liberalism and Neoliberalism — Complete Topic Package
 
-**Subject:** Political Theory  
-**Section:** Subject-wide Syllabus  
-**Generation:** learner-v2:g5  
-**Ownership:** supplementary conceptual support; no synthetic GS or Optional PYQ ownership is created.  
-**Source policy:** complete Basic owner first; optional Advanced depth only after practice.
+**Subject:** Political Theory
+**Section:** Subject-wide Syllabus
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Cross-application:** GS-I, GS-IV and Essay only where genuinely relevant
+**Classification firewall:** Political Theory is a GS/Prelims foundation, not a separate UPSC paper.
+**Source policy:** complete Basic owner first; Advanced enrichment only after practice.
 
 ### DEEP-REVIEW LEARNING CONTRACT
 
-- **Learning goal:** move from an easy visual map through these ten stages: The Liberal Family and Its Core Vocabulary; Historical Spine and Essential Distinctions; Thinkers, Illustrations and the Comparison Matrix; Ownership Boundaries and UPSC Trap Repair; Classical, New, Welfare-State and Neoliberal Strands; Hayek and Nozick: Different Routes to the Minimal State; The Rawlsian Reply and the Indian Mixed-Economy Lens; Qualified Thesis and Directive-Specific Architecture; Evidence Units, Objection-Reply Chains and Answer Design; Proposition Discipline, Sources and Final Integration.
-- **Syllabus boundary:** this package supplies Political Theory concepts and cross-applies only verified Philosophy Optional PYQs with their primary ownership preserved; constitutional, institutional and current-policy detail remains with its direct repository owner.
-- **Answer-grabbing opening:** Liberalism and Neoliberalism should be introduced through its controlling political question, not through biography or a dictionary list.
-- **Transition rule:** define the concept → name the thinker or evidence → explain the political mechanism → test the strongest objection → qualify the verdict.
-- **Conclusion rule:** answer the directive directly and state the remaining limit; do not end with an unqualified slogan.
+- **Core scope:** classical, welfare and neoliberal liberalism.
+- **Source rule:** canonical Basic/Core, Advanced, assembled package, official GS mapping, routed
+  Prelims/GS ledgers and OCR-searchable local books were reconciled before repair.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; when none exists,
+  original GS practice is labelled honestly.
+- **Writing rule:** claim -> named evidence/example -> analysis -> qualification/link to demand.
+- **Advanced rule:** `OPTIONAL ADVANCED DEPTH` means enrichment beyond a core GS answer and never
+  a separate-paper classification.
 
 ## BASIC LEARNING SESSION
 
+
 ### SESSION 1 — The Liberal Family and Its Core Vocabulary
 
-> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **Exam relevance:** GS-II (Polity & Governance) conceptual foundation; GS-II conceptual foundation.
 > **Core area:** Classical vs welfare liberalism; Hayek/Friedman/Nozick neoliberalism.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.2, PDF pp.40-45.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -59,6 +65,51 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 - ✅ The chapter also explains why neoliberalism cannot simply be equated with all liberalism; it is a contemporary restoration of the classical laissez-faire impulse (Gauba, PDF pp.42-43).
 - ⚠️ UPSC often rewards answers that keep together liberalism's durable constitutional core and its debated economic program.
 
+#### 2A. Origin and timeline of the liberal family
+
+**Historical origin.** ✅ Liberalism began as a demand for liberation from restraints, particularly the restraints imposed by an authoritarian state. Gauba dates the principle precisely: it was evolved in the West in the **late seventeenth century** in order to liquidate the **feudal privileges of the land-owning class** and to create favourable conditions for the **new entrepreneurial class** so that it could contribute to social progress (Gauba, PDF p.40).
+
+⚠️ The examinable consequence: liberalism is a *historically situated* class project before it is a timeless philosophy. That is exactly why Gauba's later criticism — that liberalism "retains its bourgeois character" — is internal to the concept and not an external Marxist add-on.
+
+✅ **Why the movement cannot be frozen.** Gauba states that liberalism is **not a fixed mode of thought** but an intellectual movement that seeks to accommodate new ideas in order to face new situations and new challenges (Gauba, PDF p.40). Any answer that treats "liberalism" as one static position has already lost the argument.
+
+**Dated rail of the liberal family** (every name with the life-dates the chapter gives):
+
+| Stage / date | Name and standing in the chapter | What it fixed |
+|---|---|---|
+| Late 17th century | ✅ The principle of liberation from an authoritarian state (Gauba, PDF p.40). | Liberalism's founding purpose: dissolve feudal privilege, open space for the entrepreneurial class. |
+| ✅ John Locke (1632-1704) | English philosopher; **father of liberalism** (Gauba, PDF p.41). | Rights, consent and limited government; an early exponent of individualism. |
+| ✅ Adam Smith (1723-90) | English-listed philosopher; **father of economics** (Gauba, PDF p.41). | *Laissez-faire*: least state interference in individuals' economic activity; early exponent of individualism. |
+| ✅ Jeremy Bentham (1748-1832) | **Founder of utilitarianism** (Gauba, PDF pp.41-42). | 'Greatest happiness of the greatest number'; nature places mankind under two sovereign masters, pleasure and pain; quantity of pleasure, not quality. |
+| 1789 | ✅ The French Revolution (Gauba, PDF p.44). | The turning point after which the bourgeoisie itself held power, and liberalism began widening state functions and regulation. |
+| ✅ John Stuart Mill (1806-73) | English philosopher (Gauba, PDF pp.41-42). | Modifies utilitarianism by admitting **qualitative** differences of pleasure, projects individual liberty as the highest value and pleads for taxation of the rich for the benefit of the poor — paving the way for the welfare state. |
+| ✅ Herbert Spencer (1820-1903) | English philosopher (Gauba, PDF p.41). | In the twentieth century sought to **reaffirm negative liberalism** by applying the principles of natural science to social organisation. |
+| ✅ T. H. Green (1836-82) | English philosopher (Gauba, PDF p.41). | Adds a **moral dimension** to liberalism and advances a full-fledged theory of the welfare state. |
+| ✅ L. T. Hobhouse (1864-1929), Harold J. Laski (1893-1950), R. H. Tawney (1880-1962) | English philosophers (Gauba, PDF p.41). | Develop the welfare-state tradition; theory and practice of the welfare state flourish in England in the **first half of the twentieth century**. |
+| 1920 | ✅ R. H. Tawney, *The Acquisitive Society* (Gauba, PDF p.44). | The quoted indictment: property rights were invoked against factory legislation, housing reform, action on adulteration of goods, even compulsory sanitation of private houses. |
+| Second half of the 20th century | ✅ F. A. Hayek (1899-1992), Austrian thinker; Milton Friedman (1912-2006), American economist; Robert Nozick (1938-2002), American philosopher (Gauba, PDF pp.42-43). | Neo-liberalism / neo-classical liberalism / libertarianism: the welfare state is inimical to liberty because it involves the **forced transfer of resources from the more competent to the less competent**; 'roll back' the state. |
+
+> 🔑 **Mnemonic for the rail:** *Locke opens it, Smith economises it, Bentham counts it, Mill qualifies it, Green moralises it, Hobhouse-Laski-Tawney institutionalise it, Spencer resists it, and Hayek-Friedman-Nozick try to reverse it.*
+
+⚠️ Dating discipline: use only these life-dates and the 1789 and 1920 anchors. Do not attach a publication year to Locke, Smith, Bentham, Mill, Green, Hobhouse, Laski, Hayek, Friedman or Nozick, because the chapter does not supply one.
+
+#### 2B. The eight basic tenets, reproduced as the chapter lists them
+
+⚠️ Prelims multi-statement items on liberalism are assembled from exactly this list, so learn it as a list and not as a paraphrase.
+
+| # | Tenet as stated | Answer-relevant edge |
+|---|---|---|
+| (a) | ✅ Man is a rational creature with immense potential to contribute to social progress as well as to his own good (Gauba, PDF p.40). | Rationality is the premise that licenses consent, contract and market allocation. |
+| (b) | ✅ There is **no basic contradiction** between an individual's self-interest and the common interest; the common interest denotes a point of reconciliation between the interests of different individuals (Gauba, PDF p.40). | This is the exact liberal claim Marxists and communitarians deny. |
+| (c) | ✅ Man is endowed with certain **natural rights** which cannot be transgressed by any authority (Gauba, PDF p.40). | Natural rights, not state grant, is why liberalism can judge the state. |
+| (d) | ✅ Civil society and the state are **artificial institutions** created by individuals to serve the common interest, entitled to obedience only on condition of fulfilling that function (Gauba, PDF p.40). | Conditional obedience is the liberal theory of political obligation in one line. |
+| (e) | ✅ **Primacy of procedure over the end-product**: if the procedure for arriving at a decision is right, the decision may be accepted to be right; the liberal view of freedom, equality, justice and democracy is a search for the right procedure (Gauba, PDF p.40). | This is the single most testable liberal distinctive - and the exact target of substantive-justice critics. |
+| (f) | ✅ Civil liberties: freedom of thought and expression, association and movement, personal freedom ruling out search or arrest without a warrant, and strict compliance with legal and judicial procedure; any restriction must secure **equal freedom for others** (Gauba, PDF p.40). | The 'equal freedom' proviso, not an absolute freedom claim, is what the source records. |
+| (g) | ✅ **Freedom of contract**: no obligation without one's own consent and consideration of mutual benefit, with the state as umpire; a contract concluded under pressure, or one compromising the dignity of the individual, is **void** (Gauba, PDF p.40). | The void-contract proviso blocks the common trap that liberalism sanctifies every bargain. |
+| (h) | ✅ Public policy should be the product of **free bargaining between groups** of individuals formed to pursue their common interests (Gauba, PDF pp.40-41). | This is the pluralist bridge - and the assumption the chapter later attacks through unequal group organisation. |
+
+✅ **The summary the chapter itself gives:** liberalism treats **market society as the model of social organisation**, confines the state to protection of life and property, enforcement of contracts and maintenance of minimum common services that private entrepreneurs would not undertake; the state is a **necessary evil**; the state is the means and the individual the end; absolute authority of the state is ruled out (Gauba, PDF p.41).
+
 #### 3. Essential definitions
 | Term | Exam-ready meaning |
 |---|---|
@@ -69,6 +120,29 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | Welfare state | ✅ A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41). |
 | Neoliberalism / neo-classical liberalism / libertarianism | ✅ Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). ⚠️ For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical. |
 | Constitutionalism | ✅ Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45). |
+
+#### Visual-first recall
+
+```text
+THE LIBERAL FAMILY AND ITS CORE VOCABULARY
+  |
+[1] Liberalism is the starting point for understanding rights, constitutionalism, limited...
+  v
+[2] Gauba shows that liberalism has at least two major internal turns before neoliberal...
+  v
+[3] The chapter also explains why neoliberalism cannot simply be equated with all...
+  v
+[4] UPSC often rewards answers that keep together liberalism's durable constitutional...
+```
+
+> **Answer-grabbing line:** Liberalism is the starting point for understanding rights, constitutionalism, limited government, consent and the rule of law in modern politics (Gauba, PDF pp.40-41, 45).
+
+**Must-write keywords:** Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:; Liberal Family.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Liberalism is the starting point for understanding rights, constitutionalism, limited government, consent and the rule of law in modern politics (Gauba, PDF pp.40-41, 45). **Named evidence/example:** Gauba shows that liberalism has at least two major internal turns before neoliberal revival: classical laissez-faire and welfare/positive liberalism (Gauba, PDF pp.41-42). **Analysis:** Read together, these propositions show how the liberal family and its core vocabulary shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Liberalism is the starting point for understanding rights, constitutionalism, limited government, consent and the rule of law in modern politics (Gauba, PDF pp.40-41, 45).
+
 
 ---
 
@@ -92,6 +166,29 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | Capitalism vs constitutionalism | ✅ Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45). |
 | Neoliberalism vs libertarianism | ⚠️ Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable. |
 
+#### Visual-first recall
+
+```text
+HISTORICAL SPINE AND ESSENTIAL DISTINCTIONS
+  |
+[1] Liberalism emerged historically in the West to attack feudal privilege and create...
+  v
+[2] Its core tenets include rational individuality, natural rights, consent, civil...
+  v
+[3] In its early classical phase, Locke, Smith and Bentham defend laissez-faire and the...
+  v
+[4] Mill and then Green, Hobhouse, Laski and Tawney move liberalism toward welfare and...
+```
+
+> **Answer-grabbing line:** Liberalism emerged historically in the West to attack feudal privilege and create space for the entrepreneurial class against authoritarian rule (Gauba, PDF p.40).
+
+**Must-write keywords:** Historical Spine; Essential Distinctions; SESSION; Core; Liberalism; West; Gauba.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Liberalism emerged historically in the West to attack feudal privilege and create space for the entrepreneurial class against authoritarian rule (Gauba, PDF p.40). **Named evidence/example:** Its core tenets include rational individuality, natural rights, consent, civil society and state as artificial institutions, primacy of fair procedure, civil liberties, contract and group bargaining (Gauba, PDF pp.40-41). **Analysis:** Read together, these propositions show how historical spine and essential distinctions shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Gauba then identifies neoliberalism as a twentieth-century effort, associated with Hayek, Friedman and Nozick, to roll back welfare-state expansion and restore market-led liberty (Gauba, PDF pp.42-43).
+
+
 ---
 
 ### SESSION 3 — Thinkers, Illustrations and the Comparison Matrix
@@ -106,6 +203,18 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | T.H. Green | ✅ Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41). |
 | Hobhouse / Laski / Tawney | ✅ Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41). |
 | Hayek / Friedman / Nozick | ✅ Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42). |
+
+#### 6A. Two streams, the neoliberal turn and the recorded criticism
+
+- ✅ **Stream 1 - individualism.** Focused on the individual as a rational creature whose dignity, independent existence and judgment must be fully recognised in public policy: **no individual shall be made to suffer in order to benefit any larger unit of society**; only an individual can have rights, so family, trade union, corporation or state have no rights distinguishable from those of their individual members, and no social unit has interests distinguishable from those of its members. It supports a social and legal system based on **voluntary transactions**, upholds the market-society model, and holds that even taxation should be confined to providing and maintaining common services. Locke and Smith are its early exponents (Gauba, PDF p.42).
+- ✅ **Stream 2 - utilitarianism.** Stands for the 'greatest happiness of the greatest number', **where the interest of the few may be sacrificed in the interest of the collectivity**. Happiness is the balance of pleasure over pain derived from goods, services, acts and policies. Bentham observed that nature has placed mankind under **two sovereign masters, pleasure and pain**, and insisted on maximising the *quantity* of pleasure without distinguishing qualities (Gauba, PDF p.42).
+- ✅ **Mill's transformation.** Mill pointed to **qualitative** differences between types of pleasure, thereby recognising the variety of individual tastes, and projected the liberty of the individual as the highest value. These modifications tilted utilitarianism toward individualism and **transformed its basic character**; his plea for taxing the rich for the benefit of the poor paved the way for the welfare state (Gauba, PDF p.42).
+- ⚠️ Answer use: the individualism/utilitarianism split explains why liberalism can generate both a rights-based objection to redistribution and a welfare-based case for it. Naming the split is what separates a graded answer from a list.
+- ✅ **Neoliberalism's own reasoning.** Neo-liberalism, neo-classical liberalism or libertarianism is the contemporary version of classical liberalism seeking to **restore laissez-faire individualism**; it denounces the welfare state and opposes state intervention and control of economic activity. In the second half of the twentieth century Hayek, Friedman and Nozick judged the welfare state inimical to individual liberty because it involved the **forced transfer of resources from the more competent to the less competent**, and sought to revive laissez-faire not only in the economic sphere but in the social and political spheres too (Gauba, PDF pp.42-43).
+- ✅ **How far the neoliberal claim reaches.** It upholds full autonomy of the individual and seeks liberation from **all** institutions that restrict his vision of the world - including religion, family and customs of social conformity, not only political institutions; it repudiates a deterministic outlook and treats man as the maker of his destiny (Gauba, PDF p.43).
+- ✅ **Spontaneous order.** All neo-liberals believe in the primacy of the **'spontaneous order'** of human relationships as exemplified in free markets. They deplore any politics - notably socialism - that pretends to definitive knowledge of human needs, because no government can have such knowledge: needs manifest themselves through myriad unpredictable transactions between individuals in a free or open society, so regulation curtails freedom without meeting genuine needs (Gauba, PDF p.43).
+- ✅ **Gauba's recorded criticisms, in his own order.** (i) *Liberalism retains its bourgeois character*: it arose to protect bourgeois interests against feudal power, insisted so heavily on the freedom of the property-owning class that it set aside all human considerations, and is illustrated by Tawney's 1920 catalogue of property-based opposition to factory legislation, housing reform, action against adulteration of goods and even compulsory sanitation. (ii) After **1789**, with the bourgeoisie in power, liberalism widened state functions and regulation; the welfare state was evolved **not out of sympathy** for peasants, workers and ordinary people but to enlist their support and maintain the *status quo*, so the policy of **incremental change** - small, continual concessions - is devised to contain unrest and hold revolutionary forces in check, and the welfare state "seems to create an illusion of welfare, rather than securing real welfare". (iii) *Actual imbalance of group interests*: contemporary liberalism assumes the state reconciles all group interests, but groups are not equally conscious, organised or vocal, and developing nations are dominated by **'vested interests'** - Gauba's own example is that in India a handful of business interests are well organised, active and vocal while the very large body of consumers is not adequately organised (Gauba, PDF pp.44-45).
+- ⚠️ Answer use: quote the *mechanism* of each criticism, not the label. "Illusion of welfare" and "imbalance of group interests" are the two phrases that convert a descriptive liberalism answer into an evaluative one.
 
 #### 7. Illustrative examples
 - ✅ A classical liberal state protects life, property and contract and avoids broad interference in production and exchange (Gauba, PDF p.41).
@@ -123,6 +232,29 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | Liberty | ✅ Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41). | ✅ Liberty plus conditions for a dignified life and self-development (Gauba, PDF p.41). | ✅ Strong negative liberty, especially economic freedom from regulation (Gauba, PDF pp.42-43). |
 | Welfare | ✅ Not a central state obligation beyond minimal services (Gauba, PDF p.41). | ✅ Central responsibility of the welfare state (Gauba, PDF p.41). | ✅ Often seen as overreach when financed through forced transfers (Gauba, PDF pp.42-43). |
 
+#### Visual-first recall
+
+```text
+THINKERS, ILLUSTRATIONS AND THE COMPARISON MATRIX
+  |
+[1] Thinker — Position in brief
+  v
+[2] John Locke — Father of liberalism; early defender of rights, consent and limited...
+  v
+[3] Adam Smith — Early liberal defender of laissez-faire and market society (Gauba, PDF...
+  v
+[4] Jeremy Bentham — Founder of utilitarianism, focused on greatest happiness, but still...
+```
+
+> **Answer-grabbing line:** Thinker — Position in brief
+
+**Must-write keywords:** Thinkers; Illustrations; Comparison Matrix; SESSION; Thinker; Position; John Locke.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Thinker — Position in brief **Named evidence/example:** John Locke — Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41). **Analysis:** Read together, these propositions show how thinkers, illustrations and the comparison matrix shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** John Locke — Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+
+
 ---
 
 ### SESSION 4 — Ownership Boundaries and UPSC Trap Repair
@@ -136,12 +268,35 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 - ❌ Gauba's criticism means liberalism has no contribution. -> ✅ He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
 
 #### 10. Cross-links and boundaries
-- ✅ Companion depth file (optional further depth, not required for marks-adequacy): `Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md`.
+- ✅ Companion depth file (Advanced enrichment beyond a core GS answer, not required for marks-adequacy): `Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md`.
 - ✅ For the ideology backdrop, read `Political-Theory/basic/02_Ideology-and-End-of-Ideology.md` first.
 - ✅ For the later concept-level unpacking of liberty, equality and property, use `Political-Theory/basic/18_Liberty-Equality-and-Property.md`.
 - ✅ For Indian constitutional applications of liberal values, cross-link to `Polity/basic/Fundamental-Rights.md`, `Polity/basic/Directive-Principles.md` and `Polity/advanced/10_Amendment-and-Basic-Structure.md`.
 - ✅ For thinker-specific optional depth, link to `Philosophy/paper-2/socio-political/Political-Ideologies.md`, `Philosophy/paper-2/socio-political/Social-Political-Ideals.md` and `Philosophy/paper-2/socio-political/Individual-and-State.md`.
 - ❌ Do not collapse liberalism into a single market slogan. -> ✅ Keep classical, welfare and neoliberal strands distinct.
+
+#### Visual-first recall
+
+```text
+OWNERSHIP BOUNDARIES AND UPSC TRAP REPAIR
+  |
+[1] Liberalism always means anti-state politics. -> Gauba explicitly distinguishes...
+  v
+[2] Neoliberalism and liberalism are identical. -> Neoliberalism is a contemporary...
+  v
+[3] Hayek, Friedman and Nozick defend one identical doctrine. -> Gauba groups them for...
+  v
+[4] Liberalism only protects property and has nothing to do with constitutionalism. ->...
+```
+
+> **Answer-grabbing line:** Liberalism always means anti-state politics. -> Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+
+**Must-write keywords:** Ownership Boundaries; UPSC Trap; Repair; SESSION; UPSC; Liberalism; Gauba.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Liberalism always means anti-state politics. -> Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42). **Named evidence/example:** Neoliberalism and liberalism are identical. -> Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43). **Analysis:** Read together, these propositions show how ownership boundaries and upsc trap repair shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Liberalism only protects property and has nothing to do with constitutionalism. -> Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
+
 
 ---
 
@@ -168,6 +323,29 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 ##### 12.3 Neoliberal/libertarian rollback
 - ✅ Hayek, Friedman and Nozick are named together as chief exponents of a twentieth-century restoration of laissez-faire against the welfare state's interventionist expansion (Gauba, PDF p.42) — reconstructed in full in §13-14 below.
 
+#### Visual-first recall
+
+```text
+CLASSICAL, NEW, WELFARE-STATE AND NEOLIBERAL STRANDS
+  |
+[1] Liberalism puts individual liberty at the centre of public policy and opposes...
+  v
+[2] Its core vocabulary includes rights, consent, procedure, civil liberties, contract...
+  v
+[3] Classical liberalism is laissez-faire and negative-state; welfare liberalism is...
+  v
+[4] Gauba's critique focuses on bourgeois bias, unequal group power and the gap between...
+```
+
+> **Answer-grabbing line:** Liberalism puts individual liberty at the centre of public policy and opposes arbitrary authority (Gauba, PDF p.40).
+
+**Must-write keywords:** Classical; Welfare-State; Neoliberal Strands; SESSION; Revision; Liberalism; Gauba.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Liberalism puts individual liberty at the centre of public policy and opposes arbitrary authority (Gauba, PDF p.40). **Named evidence/example:** Its core vocabulary includes rights, consent, procedure, civil liberties, contract and rule-limited government (Gauba, PDF pp.40-41, 45). **Analysis:** Read together, these propositions show how classical, new, welfare-state and neoliberal strands shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Its core vocabulary includes rights, consent, procedure, civil liberties, contract and rule-limited government (Gauba, PDF pp.40-41, 45).
+
+
 ---
 
 ### SESSION 6 — Hayek and Nozick: Different Routes to the Minimal State
@@ -183,6 +361,27 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 - ⚠️ **Analytical clarification of Nozick's entitlement-theory architecture** (a well-known philosophical framework, presented here as clarification beyond Gauba's own compressed treatment, not as an additional page-anchored Gauba claim): a distribution of holdings is just only if it satisfies three principles — (a) **justice in acquisition** (how previously unowned things may be first appropriated without worsening others' position), (b) **justice in transfer** (holdings validly acquired may be voluntarily exchanged or gifted), and (c) **rectification** (past injustices in acquisition or transfer must be corrected, approximating what the holding pattern would have been without the injustice). On this view the state's only legitimate role is a minimal, protective one — securing persons and property and enforcing contracts — and any more extensive redistributive state itself violates individuals' entitlements.
 - ❌ **Trap:** treating Nozick's minimal state as indifferent to injustice. His own framework requires rectification of unjust historical acquisitions/transfers, so a Nozickian answer is not automatically a defence of every existing distribution of property — only of distributions that can actually be traced to just acquisition and transfer. See `Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md` for the practical difficulty of establishing the historical facts that would trigger rectification.
 
+#### Visual-first recall
+
+```text
+HAYEK AND NOZICK: DIFFERENT ROUTES TO THE MINIMAL STATE
+  |
+[1] Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian...
+  v
+[2] Hayek and Nozick: Different Routes to the Minimal State must be linked to Liberalism...
+  v
+[3] Hayek and Nozick: Different Routes to the Minimal State must be linked to Liberalism...
+```
+
+> **Answer-grabbing line:** Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian exponent of rollback liberalism, grounded in rights and entitlement rather than only in market-efficiency.
+
+**Must-write keywords:** Knowledge argument:; Price/market-coordination argument:; Coercion argument:; Limitation:; Analytical clarification of Nozick's entitlement-theory architecture; justice in acquisition; justice in transfer.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian exponent of rollback liberalism, grounded in rights and entitlement rather than only in market-efficiency argument (Gauba, PDF p.42). **Named evidence/example:** Hayek and Nozick: Different Routes to the Minimal State must be linked to Liberalism and Neoliberalism's central conceptual dispute. **Analysis:** Read together, these propositions show how hayek and nozick: different routes to the minimal state shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Hayek and Nozick: Different Routes to the Minimal State must be linked to Liberalism and Neoliberalism's central conceptual dispute.
+
+
 ---
 
 ### SESSION 7 — The Rawlsian Reply and the Indian Mixed-Economy Lens
@@ -190,12 +389,33 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 #### 15. The Rawlsian/welfare-liberal reply
 - ✅ Rawls is noted (in the justice-chapter grounding already used elsewhere in this knowledge base) as a critic of utilitarianism who tries to accommodate substantive concerns within a procedural framework (Gauba, PDF pp.434-435, 443) — the standard reply-anchor against neoliberal/libertarian proceduralism.
 - ⚠️ **The standard welfare-liberal/Rawlsian reply to Nozick** (analytical synthesis, cross-referencing the justice files rather than duplicating them): even a procedurally clean history of acquisition and transfer can leave persons born into unchosen disadvantage without a defensible share of social cooperation's benefits. A fair procedure, on this reply, should be judged partly by whether the resulting inequalities work to the benefit of the least advantaged (Rawls's difference principle), not solely by whether each step in a holding's history was itself voluntary.
-- ✅ For the full answer-complete original-position/veil-of-ignorance/difference-principle architecture, use `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md`; its Advanced companion is optional enrichment. This file states the reply only as it bears on liberalism's classical/welfare/neoliberal divide, without duplicating Topic 20.
+- ✅ For the full answer-complete original-position/veil-of-ignorance/difference-principle architecture, use `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md`; its Advanced companion is Advanced enrichment. This file states the reply only as it bears on liberalism's classical/welfare/neoliberal divide, without duplicating Topic 20.
 
 #### 16. Indian mixed-economy and reform application (cautious)
 - ⚠️ This file does not hold specific Indian economic-history facts (reform dates, GDP or budget figures, named schemes); for verified facts use the dedicated Economy knowledge files. As a conceptual application only: India's post-Independence planned, mixed economy is commonly read as institutionalizing a welfare-liberal/social-democratic balance (state-led planning alongside a private sector) broadly analogous to the Laski/Tawney-era welfare liberalism of §12.2, while later market-oriented economic reform is commonly read as a partial move toward the neoliberal/rollback liberalism of §12.3-§13.
 - ⚠️ Candidates should pair this conceptual mapping with their own independently verified Economy-file dates, policy names and outcomes; this file supplies only the political-theory lens, not the factual content.
 - ❌ Do not cite a specific reform year, GDP figure or scheme name from this file — none is asserted here.
+
+#### Visual-first recall
+
+```text
+THE RAWLSIAN REPLY AND THE INDIAN MIXED-ECONOMY LENS
+  |
+[1] Candidates should pair this conceptual mapping with their own independently verified...
+  v
+[2] Do not cite a specific reform year, GDP figure or scheme name from this file — none...
+  v
+[3] The Rawlsian Reply and the Indian Mixed-Economy Lens must be linked to Liberalism and...
+```
+
+> **Answer-grabbing line:** Candidates should pair this conceptual mapping with their own independently verified Economy-file dates, policy names and outcomes; this file supplies only the political-theory lens, not.
+
+**Must-write keywords:** The standard welfare-liberal/Rawlsian reply to Nozick; Rawlsian Reply; Indian Mixed-Economy; Lens; SESSION; Rawlsian; Rawls.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Candidates should pair this conceptual mapping with their own independently verified Economy-file dates, policy names and outcomes; this file supplies only the political-theory lens, not the factual content. **Named evidence/example:** Do not cite a specific reform year, GDP figure or scheme name from this file — none is asserted here. **Analysis:** Read together, these propositions show how the rawlsian reply and the indian mixed-economy lens shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Candidates should pair this conceptual mapping with their own independently verified Economy-file dates, policy names and outcomes; this file supplies only the political-theory lens, not the factual content.
+
 
 ---
 
@@ -211,12 +431,34 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | "Examine"/"Critically examine" | Test Hayek's knowledge/price/coercion arguments (§13) and Nozick's entitlement theory (§14) against the Rawlsian/welfare reply (§15). | Presenting neoliberalism without its reply, or vice versa. |
 | "Critically evaluate" | Give a reasoned verdict on whether liberalism's economic program (classical vs welfare vs neoliberal) or its constitutional core (§9, §19 Unit 6) is its more defensible contribution. | Refusing to conclude, or treating the economic program as liberalism's only content. |
 | "Compare" | Use the comparison table (§8) plus at least one named-evidence unit (§19) from each side being compared. | Comparing without naming a thinker or argument on each side. |
-| Mark-weight cue (10/15/20) | Scale the number of thinkers and depth of objection-reply chain (§21). | Writing a 20-mark-depth answer in 10-mark space or vice versa. |
 
 #### 18. Doctrine architecture: premises, mechanism, conclusion
 - ✅ **Premises:** (a) liberalism places individual liberty at the centre of politics and opposes arbitrary/authoritarian rule (Gauba, PDF p.40); (b) liberty can be read negatively (freedom from restraint) or positively (conditions for self-development) (Gauba, PDF pp.40-41); (c) neoliberalism argues that state-provided welfare itself becomes a new coercive restraint on liberty (Gauba, PDF pp.42-43).
 - ✅ **Mechanism:** because "liberty" is not self-defining, each strand supplies a different account of what threatens it most — the state (classical), unmet welfare needs (new/welfare, §12.2), or the redistributive state itself (neoliberal, §13) — and Nozick's entitlement theory converts the neoliberal claim into a rights-based test of acquisition/transfer/rectification (§14), while Rawls's reply converts the welfare claim into a procedural-cum-substantive test, the difference principle (§15).
 - ✅ **Conclusion:** liberalism's durable, cross-strand contribution is constitutionalism — limits on arbitrary power — while its economic program remains genuinely contested between these strands (Gauba, PDF p.45).
+
+#### Visual-first recall
+
+```text
+QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE
+  |
+[1] Directive decoding table:
+  v
+[2] Directive — What it demands here — Trap to avoid
+  v
+[3] "Distinguish" — Separate classical, new/welfare (Green/Hobhouse), welfare-state...
+  v
+[4] "Examine"/"Critically examine" — Test Hayek's knowledge/price/coercion arguments...
+```
+
+> **Answer-grabbing line:** Directive decoding table:
+
+**Must-write keywords:** Qualified thesis formula for this topic:; Directive decoding table:; Premises:; Mechanism:; Conclusion:; Qualified Thesis; Directive-Specific Architecture.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Directive decoding table: **Named evidence/example:** Directive — What it demands here — Trap to avoid **Analysis:** Read together, these propositions show how qualified thesis and directive-specific architecture shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** "Examine"/"Critically examine" — Test Hayek's knowledge/price/coercion arguments (§13) and Nozick's entitlement theory (§14) against the Rawlsian/welfare reply (§15). — Presenting neoliberalism without its reply, or vice versa.
+
 
 ---
 
@@ -235,12 +477,34 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 - ⚠️ **Chain 2 — Objection:** "Because Nozick's entitlement theory only requires a clean procedural history, any existing distribution of wealth is automatically just." **Reply:** the rectification principle itself requires correcting holdings traceable to unjust acquisition or transfer, and Rawls's reply further shows that a clean procedural history does not guarantee the resulting inequality benefits the least advantaged — so Nozick's own framework does not endorse every existing distribution (§14-15).
 - ⚠️ **Chain 3 — Objection:** "Welfare liberalism abandoned liberty for equality." **Reply:** welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be meaningful (Gauba, PDF p.41; §9 trap already in this file).
 
-#### 21. 10/15/20-mark executable answer architecture
-**10-mark (~150 words):** (1) one-line qualified thesis (§17); (2) name two strands being contrasted (e.g. welfare vs neoliberal, §12); (3) one named-evidence unit for each side (§19); (4) one-line verdict on constitutionalism as the shared core (§19 Unit 6).
+#### GS Mains executable answer architecture
 
-**15-mark (~200-250 words):** (1) qualified thesis; (2) compressed premises → mechanism → conclusion spine (§18); (3) two to three named-evidence units (§19) spanning classical/welfare/neoliberal; (4) one objection → reply chain (§20); (5) verdict distinguishing liberalism's contested economic program from its durable constitutional core.
+**10-mark / 150 words:** direct thesis; precise definition; two named evidence units; one
+qualification; demand-linked conclusion.
 
-**20-mark (~250-300 words):** (1) qualified thesis with directive fidelity; (2) full premises → mechanism → conclusion spine; (3) four to five named-evidence units (§19) spanning Locke, Green, Hayek, Nozick and Gauba's own verdict; (4) both objection → reply chains (§20), including the Rawls/Nozick chain; (5) the Indian conceptual application (§16) as clearly-tagged ⚠️ value-addition; (6) a reasoned verdict on classical/welfare/neoliberal contestation versus constitutional continuity.
+**15-mark / 250 words:** qualified thesis; complete mechanism; three to five named evidence units;
+objection/reply; bounded Indian application; graded verdict.
+
+#### Visual-first recall
+
+```text
+EVIDENCE UNITS, OBJECTION-REPLY CHAINS AND ANSWER DESIGN
+  |
+[1] Chain 3 — Objection: "Welfare liberalism abandoned liberty for equality." Reply:...
+  v
+[2] Evidence Units, Objection-Reply Chains and Answer Design must be linked to Liberalism...
+  v
+[3] Evidence Units, Objection-Reply Chains and Answer Design must be linked to Liberalism...
+```
+
+> **Answer-grabbing line:** Chain 3 — Objection: "Welfare liberalism abandoned liberty for equality." Reply: welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be.
+
+**Must-write keywords:** Unit 1 — Claim:; Named:; Significance:; Limitation:; Unit 2 — Claim:; Unit 3 — Claim:; Unit 4 — Claim:.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Chain 3 — Objection: "Welfare liberalism abandoned liberty for equality." Reply: welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be meaningful (Gauba, PDF p.41; §9 trap already in this file). **Named evidence/example:** Evidence Units, Objection-Reply Chains and Answer Design must be linked to Liberalism and Neoliberalism's central conceptual dispute. **Analysis:** Read together, these propositions show how evidence units, objection-reply chains and answer design shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Evidence Units, Objection-Reply Chains and Answer Design must be linked to Liberalism and Neoliberalism's central conceptual dispute.
+
 
 ---
 
@@ -254,1123 +518,1249 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 
 #### 23. Sources, metadata and tags
 - ✅ Direct-book anchors used here: PDF pp.40-42 for liberal core and internal streams; PDF pp.42-43 for neoliberalism; PDF pp.43-45 for critique and contribution; PDF pp.434-435, 443 (justice chapter, reused) for the Rawls reply-anchor.
-- ✅ Companion file (optional further depth, not required for marks-adequacy): `Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md`.
+- ✅ Companion file (Advanced enrichment beyond a core GS answer, not required for marks-adequacy): `Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md`.
 - ✅ Module anchors: `Political-Theory/README.md` and `Political-Theory/00_Master-Framework.md`.
 - ⚠️ Tag discipline in this file: book-grounded definitions and attributions are marked ✅; comparison shorthand, terminology clarifications (New Liberalism, entitlement triad, Rawlsian reply) and answer-synthesis are marked ⚠️; misconceptions are marked ❌.
 - ⚠️ Terminology caution: Gauba places neo-liberalism, neo-classical liberalism and libertarianism close together; §13-15 extend this compressed treatment with standard, well-established political-theory clarifications that are explicitly flagged as analytical rather than page-anchored to Gauba's own text.
 
+#### Visual-first recall
+
+```text
+PROPOSITION DISCIPLINE, SOURCES AND FINAL INTEGRATION
+  |
+[1] Do not present any sentence in this file as a verbatim quotation from Locke, Green,...
+  v
+[2] Never invent a publication year, edition number or page number for a thinker's work...
+  v
+[3] Direct-book anchors used here: PDF pp.40-42 for liberal core and internal streams;...
+  v
+[4] Companion file (Advanced enrichment beyond a core GS answer, not required for marks-...
+```
+
+> **Answer-grabbing line:** Do not present any sentence in this file as a verbatim quotation from Locke, Green, Hayek, Friedman, Nozick or Rawls unless it is already inside quotation marks in the source text used to.
+
+**Must-write keywords:** Proposition Discipline; Sources; Final Integration; SESSION; Quotation; Locke; Green.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Do not present any sentence in this file as a verbatim quotation from Locke, Green, Hayek, Friedman, Nozick or Rawls unless it is already inside quotation marks in the source text used to build this file; treat all unquoted reconstructions as paraphrase. **Named evidence/example:** Never invent a publication year, edition number or page number for a thinker's work that is not already anchored in this file or its advanced companion. **Analysis:** Read together, these propositions show how proposition discipline, sources and final integration shapes liberalism and neoliberalism rather than serving as a detachable list of names. **Qualification:** Do not present any sentence in this file as a verbatim quotation from Locke, Green, Hayek, Friedman, Nozick or Rawls unless it is already inside quotation marks in the source text used to build this file; treat all unquoted reconstructions as paraphrase.
+
+
+---
+
+### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+The following text-native master is identical to the standalone ASCII artifact.
+
+```ascii-master
+ASCII MASTER FLOW — PANEL 1/19: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Liberalism and Neoliberalism.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Companion depth file (Advanced enrichment beyond a core GS answer, not required for      |
+| marks-adequacy): Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 2/19: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. Late 17th century -> The principle of liberation from an authoritarian state             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. John Locke (1632-1704) -> English philosopher; father of liberalism                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Adam Smith (1723-90) -> English-listed philosopher; father of economics                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Jeremy Bentham (1748-1832) -> Founder of utilitarianism                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1789 -> The French Revolution                                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. John Stuart Mill (1806-73) -> English philosopher                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 3/19: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. Herbert Spencer (1820-1903) -> English philosopher                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. T. H. Green (1836-82) -> English philosopher                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. L. T. Hobhouse (1864-1929), Harold J. Laski (1893-1950), R. H. Tawney (1880-1962) ->     |
+| English philosophers                                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1920 -> R. H. Tawney, The Acquisitive Society                                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. Second half of the 20th century -> F. A. Hayek (1899-1992), Austrian thinker; Milton     |
+| Friedman (1912-2006), American economist; Robert Nozick (1938-2002), American philosopher    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 4/19: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. LIBERALISM: A political principle that places liberty of the individual at the centre of |
+| public policy, especially freedom from authoritarian restraint                               |
+| 02. AUTHORITARIAN STATE: A state in which authority is treated as unquestionable and its     |
+| directives must be obeyed without challenge                                                  |
+| 03. CLASSICAL / NEGATIVE LIBERALISM: The laissez-faire strand that confines the state to     |
+| protection of life, property, contract and minimal common services                           |
+| 04. WELFARE / POSITIVE LIBERALISM: The strand that gives the state a positive role in        |
+| securing a dignified life, welfare and self-development                                      |
+| 05. WELFARE STATE: A state that provides social security, education, health and other public |
+| services to secure social well-being                                                         |
+| 06. NEOLIBERALISM / NEO-CLASSICAL LIBERALISM / LIBERTARIANISM: Gauba groups these closely as |
+| a restoration of laissez-faire and welfare-state rollback. For conceptual precision, market  |
+| neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not  |
+| identical                                                                                    |
+| 07. CONSTITUTIONALISM: Organization of the state according to a constitution so that power   |
+| is structured and limited rather than arbitrary                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 5/19: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism emerged historically in the West to attack feudal privilege and create space  |
+| for the entrepreneurial class against authoritarian rule                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Its core tenets include rational individuality, natural rights, consent, civil society   |
+| and state as artificial institutions, primacy of fair procedure, civil liberties, contract   |
+| and group bargaining                                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. In its early classical phase, Locke, Smith and Bentham defend laissez-faire and the      |
+| negative role of the state; the state is treated as a necessary evil and the individual as   |
+| the end                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 6/19: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 04. Mill and then Green, Hobhouse, Laski and Tawney move liberalism toward welfare and       |
+| positive state action to secure a dignified life                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Gauba then identifies neoliberalism as a twentieth-century effort, associated with       |
+| Hayek, Friedman and Nozick, to roll back welfare-state expansion and restore market-led      |
+| liberty                                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. The chapter closes with criticism of liberalism's bourgeois character, unequal group     |
+| power and welfare-state limits, but also credits liberalism with rationalism,                |
+| constitutionalism and an expandable language of freedom, equality and justice                |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 7/19: Essential Distinctions
++----------------------------------------------------------------------------------------------+
+| ESSENTIAL DISTINCTIONS                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism vs authoritarianism => Liberalism opposes unquestioned and arbitrary          |
+| authority and demands limits on power plus rights for individuals                            |
+| 02. Classical vs welfare liberalism => Classical liberalism wants minimal state              |
+| interference; welfare liberalism wants positive state action for dignity and welfare         |
+| 03. Welfare liberalism vs neoliberalism => Welfare liberalism expands state responsibility;  |
+| neoliberalism wants to roll back intervention and restore laissez-faire individualism        |
+| 04. Individualism vs utilitarianism => Early liberal thought develops both through rights-   |
+| bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls     |
+| utilitarianism toward liberty and welfare reform                                             |
+| 05. Capitalism vs constitutionalism => Gauba says liberalism today is invoked both as a      |
+| theory of capitalism and as a theory of constitutionalism; the second has more lasting       |
+| political value                                                                              |
+| 06. Neoliberalism vs libertarianism => Hayek and Friedman chiefly defend market coordination |
+| and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and     |
+| entitlement. The labels may overlap in Gauba, but the arguments should not be treated as     |
+| interchangeable                                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 8/19: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. JOHN LOCKE: Father of liberalism; early defender of rights, consent and limited          |
+| government within classical liberalism                                                       |
+| 02. ADAM SMITH: Early liberal defender of laissez-faire and market society                   |
+| 03. JEREMY BENTHAM: Founder of utilitarianism, focused on greatest happiness, but still part |
+| of early liberal development                                                                 |
+| 04. J.S. MILL: Modifies utilitarianism, elevates liberty, and opens the road toward taxation |
+| for welfare and a positive state role                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 9/19: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. T.H. GREEN: Adds a moral dimension and advances a fuller theory of welfare liberalism    |
+| 02. HOBHOUSE / LASKI / TAWNEY: Develop the welfare-state tradition in the first half of the  |
+| twentieth century                                                                            |
+| 03. HAYEK / FRIEDMAN / NOZICK: Chief exponents of neoliberal or libertarian rollback against |
+| the welfare state                                                                            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 10/19: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. A classical liberal state protects life, property and contract and avoids broad          |
+| interference in production and exchange                                                      |
+| 02. A welfare liberal state taxes and regulates in order to provide education, health and    |
+| social security, because dignity requires more than non-interference alone                   |
+| 03. A neoliberal response says forced transfer of resources harms liberty and that markets   |
+| coordinate needs better than governments can                                                 |
+| 04. Gauba's own criticism notes that representative institutions may still reflect unequal   |
+| group organization and vocal power, as in his India example of concentrated business         |
+| interests versus diffuse consumers                                                           |
+| 05. A compact exam contrast is this: liberalism asks how to protect liberty; welfare         |
+| liberalism asks what background conditions liberty needs; neoliberalism asks whether those   |
+| conditions themselves have become coercive through the state                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 11/19: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. STATE | Classical liberalism = Minimal or "necessary evil"; protect life, property,      |
+| contract and minimum services | Welfare liberalism = Positive and enabling; secure dignified |
+| life through social services | Neoliberalism = Roll back expanded state intervention and     |
+| control                                                                                      |
+| 02. PROPERTY | Classical liberalism = Strong protection of private property and market       |
+| exchange | Welfare liberalism = Property remains but may be taxed or regulated for welfare   |
+| ends | Neoliberalism = Strong defence of market choice and resistance to redistributive      |
+| compulsion                                                                                   |
+| 03. EQUALITY | Classical liberalism = Leans toward formal legal equality and fair procedure  |
+| | Welfare liberalism = Gives more room to substantive equality through welfare measures |    |
+| Neoliberalism = Suspicious of equality projects that require coercive redistribution         |
+| 04. LIBERTY | Classical liberalism = Mainly negative liberty or freedom from restraint |     |
+| Welfare liberalism = Liberty plus conditions for a dignified life and self-development |     |
+| Neoliberalism = Strong negative liberty, especially economic freedom from regulation         |
+| 05. WELFARE | Classical liberalism = Not a central state obligation beyond minimal services  |
+| | Welfare liberalism = Central responsibility of the welfare state | Neoliberalism = Often   |
+| seen as overreach when financed through forced transfers                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 12/19: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Liberalism always means anti-state politics => REPAIR: Gauba explicitly            |
+| distinguishes classical negative liberalism from welfare positive liberalism                 |
+| 02. TRAP: Neoliberalism and liberalism are identical => REPAIR: Neoliberalism is a           |
+| contemporary restoration of laissez-faire within the wider liberal family                    |
+| 03. TRAP: Hayek, Friedman and Nozick defend one identical doctrine => REPAIR: Gauba groups   |
+| them for rollback purposes, but Hayekian spontaneous order, Friedmanite market freedom and   |
+| Nozickian entitlement/minimal-state reasoning remain distinct arguments                      |
+| 04. TRAP: Liberalism only protects property and has nothing to do with constitutionalism =>  |
+| REPAIR: Gauba says liberalism's lasting value survives strongly as constitutionalism and     |
+| limits on arbitrary power                                                                    |
+| 05. TRAP: Welfare liberalism abandoned liberty => REPAIR: Its claim is that liberty needs    |
+| supportive conditions, not merely absence of restraint                                       |
+| 06. TRAP: Gauba's criticism means liberalism has no contribution => REPAIR: He also credits  |
+| it with rationalism, critique of feudalism and durable constitutional values                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/19: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Companion depth file (Advanced enrichment beyond a core GS answer, not required for      |
+| marks-adequacy): Political-Theory/advanced/03_Liberalism-and-Neoliberalism.md                |
+| 02. For the ideology backdrop, read Political-Theory/basic/02_Ideology-and-End-of-           |
+| Ideology.md first                                                                            |
+| 03. For the later concept-level unpacking of liberty, equality and property, use Political-  |
+| Theory/basic/18_Liberty-Equality-and-Property.md                                             |
+| 04. For Indian constitutional applications of liberal values, cross-link to                  |
+| Polity/basic/Fundamental-Rights.md, Polity/basic/Directive-Principles.md and                 |
+| Polity/advanced/10_Amendment-and-Basic-Structure.md                                          |
+| 05. For thinker-specific optional depth, link to Philosophy/paper-2/socio-                   |
+| political/Political-Ideologies.md, Philosophy/paper-2/socio-political/Social-Political-      |
+| Ideals.md and Philosophy/paper-2/socio-political/Individual-and-State.md                     |
+| 06. Do not collapse liberalism into a single market slogan. -> Keep classical, welfare and   |
+| neoliberal strands distinct                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/19: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism puts individual liberty at the centre of public policy and opposes arbitrary  |
+| authority                                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Its core vocabulary includes rights, consent, procedure, civil liberties, contract and   |
+| rule-limited government                                                                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Classical liberalism is laissez-faire and negative-state; welfare liberalism is          |
+| positive-state; neoliberalism is rollback liberalism                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Gauba's critique focuses on bourgeois bias, unequal group power and the gap between      |
+| market liberty and actual social welfare                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/19: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 05. Gauba's contribution claim is that liberalism replaced tradition with rationalism and    |
+| survives most durably as constitutionalism                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. One-line answer spine: liberalism is a family doctrine of individual liberty under       |
+| limited government, internally divided over how much state action liberty requires           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Two-line enrichment: classical liberals fear state coercion, welfare liberals fear       |
+| market-generated deprivation, and neoliberals fear the coercive growth of welfare-state      |
+| control                                                                                      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/19: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Liberalism is the starting point for understanding rights, constitutionalism, limited    |
+| government, consent and the rule of law in modern politics                                   |
+| 02. Liberalism emerged historically in the West to attack feudal privilege and create space  |
+| for the entrepreneurial class against authoritarian rule                                     |
+| 03. Thinker - Position in brief                                                              |
+| 04. Liberalism always means anti-state politics. -> Gauba explicitly distinguishes classical |
+| negative liberalism from welfare positive liberalism                                         |
+| 05. Liberalism puts individual liberty at the centre of public policy and opposes arbitrary  |
+| authority                                                                                    |
+| 06. Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian      |
+| exponent of rollback liberalism, grounded in rights and entitlement rather than only in      |
+| market-efficiency                                                                            |
+| 07. Candidates should pair this conceptual mapping with their own independently verified     |
+| Economy-file dates, policy names and outcomes; this file supplies only the political-theory  |
+| lens, not                                                                                    |
+| 08. Directive decoding table:                                                                |
+| 09. Chain 3 - Objection: "Welfare liberalism abandoned liberty for equality." Reply: welfare |
+| liberalism's own claim is that liberty without supportive social conditions is too thin to   |
+| be                                                                                           |
+| 10. Do not present any sentence in this file as a verbatim quotation from Locke, Green,      |
+| Hayek, Friedman, Nozick or Rawls unless it is already inside quotation marks in the source   |
+| text used to                                                                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/19: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Liberal Family                                                                               |
+| 02. Historical Spine; Essential Distinctions; SESSION; Core; Liberalism; West; Gauba         |
+| 03. Thinkers; Illustrations; Comparison Matrix; SESSION; Thinker; Position; John Locke       |
+| 04. Ownership Boundaries; UPSC Trap; Repair; SESSION; UPSC; Liberalism; Gauba                |
+| 05. Classical; Welfare-State; Neoliberal Strands; SESSION; Revision; Liberalism; Gauba       |
+| 06. Knowledge argument:; Price/market-coordination argument:; Coercion argument:;            |
+| Limitation:; Analytical clarification of Nozick's entitlement-theory architecture; justice   |
+| in acquisition; justice in transfer                                                          |
+| 07. The standard welfare-liberal/Rawlsian reply to Nozick; Rawlsian Reply; Indian Mixed-     |
+| Economy; Lens; SESSION; Rawlsian; Rawls                                                      |
+| 08. Qualified thesis formula for this topic:; Directive decoding table:; Premises:;          |
+| Mechanism:; Conclusion:; Qualified Thesis; Directive-Specific Architecture                   |
+| 09. Unit 1 - Claim:; Named:; Significance:; Limitation:; Unit 2 - Claim:; Unit 3 - Claim:;   |
+| Unit 4 - Claim:                                                                              |
+| 10. Proposition Discipline; Sources; Final Integration; SESSION; Quotation; Locke; Green     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/19: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish classical liberalism, welfare liberalism and neoliberalism. Answer |
+| in 150 words                                                                                 |
+| 02. 10 MARKS: Explain Hayek's knowledge argument against comprehensive economic planning.    |
+| Answer in 150 words                                                                          |
+| 03. 10 MARKS: Critically examine Nozick's entitlement theory and minimal state. Answer in    |
+| 150 words                                                                                    |
+| 04. 15 MARKS: How does welfare liberalism answer the classical liberal conception of         |
+| freedom? Answer in 250 words                                                                 |
+| 05. 15 MARKS: Evaluate neoliberalism as both a revival of classical liberalism and a         |
+| response to the welfare state. Answer in 250 words                                           |
+| 06. 15 MARKS: Compare the Hayekian, Nozickian and Rawlsian approaches to liberty, property   |
+| and distributive justice. Answer in 250 words                                                |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/19: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Liberalism is not one doctrine but a moving intellectual movement:                |
+| classical/negative liberalism liquidated feudal privilege and confined the state to life,    |
+| property, contract and minimum common services; positive/welfare liberalism from Mill and    |
+| Green to Hobhouse, Laski and Tawney gave the state a duty to secure a dignified life; and    |
+| neoliberalism from Hayek, Friedman and Nozick tries to roll that state back in the name of   |
+| spontaneous order. The examinable judgment is therefore never 'is liberalism pro- or anti-   |
+| state? ' but 'which liberal strand, on which criterion of liberty, and with what recorded    |
+| criticism' - including Gauba's own charge that liberalism has clung to capitalism and that   |
+| welfare may create an illusion of welfare rather than securing real welfare                  |
++----------------------------------------------------------------------------------------------+
+```
+
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Liberalism**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).
+### MCQ 1
 
-B. Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.
+Which proposition is correctly associated with **Authoritarian state**?
 
-C. Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).
+- A. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+- B. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+- C. Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+- D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
 
-D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Authoritarian state.
+- **B:** B Attaches to Welfare / positive liberalism, not Authoritarian state.
+- **C:** C Attaches to John Locke, not Authoritarian state.
+- **D:** D Attaches to Jeremy Bentham, not Authoritarian state.
 
-**Explanation:** The canonical Basic owner pairs **Liberalism** with **A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).**
-
-A. J.S. Mill
-
-B. Liberalism
-
-C. Property
-
-D. Classical / negative liberalism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).** with **Liberalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Authoritarian state by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Authoritarian state**? Other options belong to different named entries.
+Which proposition is correctly associated with **Classical / negative liberalism**?
 
-A. Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).
+- A. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+- B. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+- C. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- D. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint
 
-B. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Answer: B**
 
-C. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+**Option-by-option explanation**
+- **A:** A Attaches to Liberalism vs authoritarianism, not Classical / negative liberalism.
+- **B:** B States the source-recorded proposition for Classical / negative liberalism.
+- **C:** C Attaches to J.S. Mill, not Classical / negative liberalism.
+- **D:** D Belongs elsewhere: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
 
-D. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Authoritarian state** with **A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).**
-
-A. T.H. Green
-
-B. Equality
-
-C. Welfare / positive liberalism
-
-D. Authoritarian state
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).** with **Authoritarian state**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Classical / negative liberalism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Classical / negative liberalism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Welfare / positive liberalism**?
 
-A. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+- A. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+- B. Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+- C. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+- D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
 
-B. Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.
+**Answer: C**
 
-C. Leans toward formal legal equality and fair procedure.
+**Option-by-option explanation**
+- **A:** A Attaches to Authoritarian state, not Welfare / positive liberalism.
+- **B:** B Attaches to John Locke, not Welfare / positive liberalism.
+- **C:** C States the source-recorded proposition for Welfare / positive liberalism.
+- **D:** D Attaches to Jeremy Bentham, not Welfare / positive liberalism.
 
-D. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Classical / negative liberalism** with **The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).**
-
-A. Hobhouse / Laski / Tawney
-
-B. Classical / negative liberalism
-
-C. Liberty
-
-D. Welfare state
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).** with **Classical / negative liberalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Welfare / positive liberalism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Welfare / positive liberalism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Welfare state**?
 
-A. Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).
+- A. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+- B. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+- C. Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+- D. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
 
-B. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+**Answer: D**
 
-C. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A Attaches to Welfare / positive liberalism, not Welfare state.
+- **B:** B Attaches to Authoritarian state, not Welfare state.
+- **C:** C Attaches to John Locke, not Welfare state.
+- **D:** D States the source-recorded proposition for Welfare state.
 
-D. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Welfare / positive liberalism** with **The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).**
-
-A. Hayek / Friedman / Nozick
-
-B. Liberalism
-
-C. Neoliberalism / neo-classical liberalism / libertarianism
-
-D. Welfare / positive liberalism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).** with **Welfare / positive liberalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Welfare state by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Welfare state**? Other options belong to different named entries.
+Which proposition is correctly associated with **Neoliberalism / neo-classical liberalism / libertarianism**?
 
-A. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+- A. Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback. For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical
+- B. Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable
+- C. on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion that curtails freedom without.
+- D. Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform
 
-B. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
+**Answer: A**
 
-C. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Neoliberalism / neo-classical liberalism / libertarianism.
+- **B:** B Attaches to Neoliberalism vs libertarianism, not Neoliberalism / neo-classical liberalism / libertarianism.
+- **C:** C Attaches to Coercion argument, not Neoliberalism / neo-classical liberalism / libertarianism.
+- **D:** D Attaches to Individualism vs utilitarianism, not Neoliberalism / neo-classical liberalism / libertarianism.
 
-D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Welfare state** with **A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).**
-
-A. State
-
-B. Welfare state
-
-C. Authoritarian state
-
-D. Constitutionalism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).** with **Welfare state**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Neoliberalism / neo-classical liberalism / libertarianism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Neoliberalism / neo-classical liberalism / libertarianism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Liberalism vs authoritarianism**?
 
-A. Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).
+- A. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- B. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+- C. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+- D. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge
 
-B. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
+**Answer: B**
 
-C. Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.
+**Option-by-option explanation**
+- **A:** A Attaches to J.S. Mill, not Liberalism vs authoritarianism.
+- **B:** B States the source-recorded proposition for Liberalism vs authoritarianism.
+- **C:** C Attaches to Classical / negative liberalism, not Liberalism vs authoritarianism.
+- **D:** D Wrong attachment: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
 
-D. Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Neoliberalism / neo-classical liberalism / libertarianism** with **Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.**
-
-A. Property
-
-B. Classical / negative liberalism
-
-C. Liberalism vs authoritarianism
-
-D. Neoliberalism / neo-classical liberalism / libertarianism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.** with **Neoliberalism / neo-classical liberalism / libertarianism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Liberalism vs authoritarianism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Constitutionalism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Classical vs welfare liberalism**?
 
-A. Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45).
+- A. Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
+- B. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- C. Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
+- D. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
 
-B. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+**Answer: C**
 
-C. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A Attaches to Welfare liberalism vs neoliberalism, not Classical vs welfare liberalism.
+- **B:** B Attaches to J.S. Mill, not Classical vs welfare liberalism.
+- **C:** C States the source-recorded proposition for Classical vs welfare liberalism.
+- **D:** D Attaches to Classical / negative liberalism, not Classical vs welfare liberalism.
 
-D. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Constitutionalism** with **Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45).**
-
-A. Equality
-
-B. Constitutionalism
-
-C. Welfare / positive liberalism
-
-D. Classical vs welfare liberalism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45).** with **Constitutionalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Classical vs welfare liberalism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Liberalism vs authoritarianism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Welfare liberalism vs neoliberalism**?
 
-A. Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.
+- A. Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value
+- B. Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
+- C. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- D. Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
 
-B. Leans toward formal legal equality and fair procedure.
+**Answer: D**
 
-C. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+**Option-by-option explanation**
+- **A:** A Attaches to Capitalism vs constitutionalism, not Welfare liberalism vs neoliberalism.
+- **B:** B Attaches to Classical vs welfare liberalism, not Welfare liberalism vs neoliberalism.
+- **C:** C Attaches to J.S. Mill, not Welfare liberalism vs neoliberalism.
+- **D:** D States the source-recorded proposition for Welfare liberalism vs neoliberalism.
 
-D. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Liberalism vs authoritarianism** with **Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).**
-
-A. Liberty
-
-B. Welfare state
-
-C. Welfare liberalism vs neoliberalism
-
-D. Liberalism vs authoritarianism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).** with **Liberalism vs authoritarianism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Welfare liberalism vs neoliberalism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Classical vs welfare liberalism**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
+- A. Individualism vs utilitarianism — Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform
+- B. "Critically evaluate" — Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable
+- C. Capitalism vs constitutionalism — on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion.
+- D. Neoliberalism / neo-classical liberalism / libertarianism — Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism
 
-B. Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).
+**Answer: A**
 
-C. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A Exact pair: Individualism vs utilitarianism is associated with this proposition.
+- **B:** B Source disagrees: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **C:** C Mismatched: Capitalism vs constitutionalism is recorded with Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).
+- **D:** D Mismatched: Neoliberalism / neo-classical liberalism / libertarianism is recorded with Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.
 
-D. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Classical vs welfare liberalism** with **Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).**
-
-A. Liberalism
-
-B. Classical vs welfare liberalism
-
-C. Neoliberalism / neo-classical liberalism / libertarianism
-
-D. Individualism vs utilitarianism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).** with **Classical vs welfare liberalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Individualism vs utilitarianism; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Welfare liberalism vs neoliberalism**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
+- A. The strand that gives the state a positive role in securing a dignified life, welfare and self-development
+- B. Capitalism vs constitutionalism — Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value
+- C. Welfare liberalism vs neoliberalism — The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+- D. Classical vs welfare liberalism — Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
 
-B. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).
+**Answer: B**
 
-C. Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
+**Option-by-option explanation**
+- **A:** A Source disagrees: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **B:** B Exact pair: Capitalism vs constitutionalism is associated with this proposition.
+- **C:** C Mismatched: Welfare liberalism vs neoliberalism is recorded with Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
+- **D:** D Mismatched: Classical vs welfare liberalism is recorded with Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
 
-D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Welfare liberalism vs neoliberalism** with **Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).**
-
-A. Authoritarian state
-
-B. Constitutionalism
-
-C. Capitalism vs constitutionalism
-
-D. Welfare liberalism vs neoliberalism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).** with **Welfare liberalism vs neoliberalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Capitalism vs constitutionalism; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Individualism vs utilitarianism**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).
+- A. Individualism vs utilitarianism — Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value
+- B. Neoliberalism / neo-classical liberalism / libertarianism — the neoliberal claim is that decentralized market exchange coordinates dispersed knowledge and.
+- C. Neoliberalism vs libertarianism — Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable
+- D. Coercion argument — Give a reasoned verdict on whether liberalism's economic program (classical vs welfare vs neoliberal) or its constitutional core (§9.
 
-B. Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).
+**Answer: C**
 
-C. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+**Option-by-option explanation**
+- **A:** A Mismatched: Individualism vs utilitarianism is recorded with Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).
+- **B:** B Mismatched: Neoliberalism / neo-classical liberalism / libertarianism is recorded with Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.
+- **C:** C Exact pair: Neoliberalism vs libertarianism is associated with this proposition.
+- **D:** D Mismatched: Coercion argument is recorded with on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion that curtails freedom without reliably satisfying genuine wants, even when it is intended to enlarge welfare (Gauba, PDF pp.42-43).
 
-D. Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Individualism vs utilitarianism** with **Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).**
-
-A. Classical / negative liberalism
-
-B. Individualism vs utilitarianism
-
-C. Liberalism vs authoritarianism
-
-D. Neoliberalism vs libertarianism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).** with **Individualism vs utilitarianism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Neoliberalism vs libertarianism; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Capitalism vs constitutionalism**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- A. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services
+- B. Welfare / positive liberalism — A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+- C. Jeremy Bentham — Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+- D. John Locke — Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
 
-B. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Answer: D**
 
-C. Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).
+**Option-by-option explanation**
+- **A:** A Mismatched: Authoritarian state is recorded with A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+- **B:** B Mismatched: Welfare / positive liberalism is recorded with The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+- **C:** C Mismatched: Jeremy Bentham is recorded with Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
+- **D:** D Exact pair: John Locke is associated with this proposition.
 
-D. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Capitalism vs constitutionalism** with **Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).**
-
-A. Welfare / positive liberalism
-
-B. Classical vs welfare liberalism
-
-C. John Locke
-
-D. Capitalism vs constitutionalism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).** with **Capitalism vs constitutionalism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to John Locke; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Neoliberalism vs libertarianism**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.
+- A. Adam Smith — Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
+- B. T.H. Green — Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).
+- C. Liberalism — A state in which authority is treated as unquestionable and its directives must be obeyed without challenge
+- D. Hobhouse / Laski / Tawney — The strand that gives the state a positive role in securing a dignified life, welfare and self-development
 
-B. Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).
+**Answer: A**
 
-C. Leans toward formal legal equality and fair procedure.
+**Option-by-option explanation**
+- **A:** A Exact pair: Adam Smith is associated with this proposition.
+- **B:** B Mismatched: T.H. Green is recorded with Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).
+- **C:** C Not this pair: Liberalism is recorded with a political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint.
+- **D:** D Mismatched: Hobhouse / Laski / Tawney is recorded with Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).
 
-D. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Neoliberalism vs libertarianism** with **Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.**
-
-A. Welfare state
-
-B. Neoliberalism vs libertarianism
-
-C. Welfare liberalism vs neoliberalism
-
-D. Adam Smith
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.** with **Neoliberalism vs libertarianism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Adam Smith; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **John Locke**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).
+- A. Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback. For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical
+- B. Jeremy Bentham — Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
+- C. Welfare / positive liberalism — A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+- D. Authoritarian state — Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
 
-B. Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).
+**Answer: B**
 
-C. Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A Mismatched: John Locke is recorded with Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
+- **B:** B Exact pair: Jeremy Bentham is associated with this proposition.
+- **C:** C Mismatched: Welfare / positive liberalism is recorded with The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+- **D:** D Mismatched: Authoritarian state is recorded with A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
 
-D. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **John Locke** with **Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).**
-
-A. Neoliberalism / neo-classical liberalism / libertarianism
-
-B. Individualism vs utilitarianism
-
-C. Jeremy Bentham
-
-D. John Locke
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).** with **John Locke**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Jeremy Bentham; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Adam Smith**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
+- A. Classical / negative liberalism — A state that provides social security, education, health and other public services to secure social well-being
+- B. Liberalism vs authoritarianism — Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare
+- C. J.S. Mill — Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- D. Organization of the state according to a constitution so that power is structured and limited rather than arbitrary
 
-B. Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).
+**Answer: C**
 
-C. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).
+**Option-by-option explanation**
+- **A:** A Mismatched: Classical / negative liberalism is recorded with The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+- **B:** B Mismatched: Liberalism vs authoritarianism is recorded with Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+- **C:** C Exact pair: J.S. Mill is associated with this proposition.
+- **D:** D Misplaced: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
 
-D. Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Adam Smith** with **Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).**
-
-A. Constitutionalism
-
-B. Adam Smith
-
-C. Capitalism vs constitutionalism
-
-D. J.S. Mill
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).** with **Adam Smith**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to J.S. Mill; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Jeremy Bentham**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).
+- A. Adam Smith — The strand that gives the state a positive role in securing a dignified life, welfare and self-development
+- B. A state that provides social security, education, health and other public services to secure social well-being
+- C. Hayek / Friedman / Nozick — Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development
+- D. T.H. Green — Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).
 
-B. A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+**Answer: D**
 
-C. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
+**Option-by-option explanation**
+- **A:** A Mismatched: Adam Smith is recorded with Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
+- **B:** B Mismatched: Hobhouse / Laski / Tawney is recorded with Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).
+- **C:** C Mismatched: Hayek / Friedman / Nozick is recorded with Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).
+- **D:** D Exact pair: T.H. Green is associated with this proposition.
 
-D. Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Jeremy Bentham** with **Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).**
-
-A. Liberalism vs authoritarianism
-
-B. Neoliberalism vs libertarianism
-
-C. T.H. Green
-
-D. Jeremy Bentham
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).** with **Jeremy Bentham**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to T.H. Green; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **J.S. Mill**? Other options belong to different named entries.
+Consider the following statements:
+1. **Hobhouse / Laski / Tawney** is associated with: Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).
+2. **Price/market-coordination argument** is associated with: Scale the number of thinkers and depth of objection-reply chain (§21).
+Which option is correct?
 
-A. Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Answer: A**
 
-C. The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **J.S. Mill** with **Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).**
-
-A. Classical vs welfare liberalism
-
-B. J.S. Mill
-
-C. John Locke
-
-D. Hobhouse / Laski / Tawney
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Modifies utilitarianism, elevates liberty, and opens the road toward taxation for welfare and a positive state role (Gauba, PDF pp.41-42).** with **J.S. Mill**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Hobhouse / Laski / Tawney does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **T.H. Green**? Other options belong to different named entries.
+Consider the following statements:
+1. **Hayek / Friedman / Nozick** is associated with: on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion that curtails freedom without reliably satisfying genuine wants, even when it is intended to enlarge welfare (Gauba, PDF pp.42-43).
+2. **Coercion argument** is associated with: on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion that curtails freedom without reliably satisfying genuine wants, even when it is intended to enlarge welfare (Gauba, PDF pp.42-43).
+Which option is correct?
 
-A. Leans toward formal legal equality and fair procedure.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+**Answer: B**
 
-C. Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **T.H. Green** with **Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).**
-
-A. Welfare liberalism vs neoliberalism
-
-B. Adam Smith
-
-C. Hayek / Friedman / Nozick
-
-D. T.H. Green
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).** with **T.H. Green**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Hayek / Friedman / Nozick does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Hobhouse / Laski / Tawney**? Other options belong to different named entries.
+Consider the following statements:
+1. **Knowledge argument** is associated with: neoliberalism holds that governments cannot possess sufficient knowledge of dispersed individual needs and circumstances to plan an economy successfully; needs and coordination emerge instead through unpredictable transactions in a free market ("spontaneous order"), not through centralized state knowledge (Gauba, PDF pp.42-43).
+2. **"Examine"/"Critically examine"** is associated with: Test Hayek's knowledge/price/coercion arguments (§13) and Nozick's entitlement theory (§14) against the Rawlsian/welfare reply (§15).
+Which option is correct?
 
-A. Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).
+**Answer: C**
 
-C. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Hobhouse / Laski / Tawney** with **Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).**
-
-A. Individualism vs utilitarianism
-
-B. Hobhouse / Laski / Tawney
-
-C. Jeremy Bentham
-
-D. State
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Develop the welfare-state tradition in the first half of the twentieth century (Gauba, PDF p.41).** with **Hobhouse / Laski / Tawney**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Knowledge argument does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Hayek / Friedman / Nozick**? Other options belong to different named entries.
+Consider the following statements:
+1. **Price/market-coordination argument** is associated with: Give a reasoned verdict on whether liberalism's economic program (classical vs welfare vs neoliberal) or its constitutional core (§9, §19 Unit 6) is its more defensible contribution.
+2. **"Critically evaluate"** is associated with: The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+Which option is correct?
 
-A. A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42).
+**Answer: D**
 
-C. Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).
+**Option-by-option explanation**
+- **A:** A statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Founder of utilitarianism, focused on greatest happiness, but still part of early liberal development (Gauba, PDF pp.41-42).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Hayek / Friedman / Nozick** with **Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).**
-
-A. Capitalism vs constitutionalism
-
-B. J.S. Mill
-
-C. Property
-
-D. Hayek / Friedman / Nozick
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Chief exponents of neoliberal or libertarian rollback against the welfare state (Gauba, PDF p.42).** with **Hayek / Friedman / Nozick**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Price/market-coordination argument does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **State**? Other options belong to different named entries.
+Consider the following statements:
+1. **Coercion argument** is associated with: on this view, forced or compulsory redistribution (tax-financed welfare, state intervention) is itself a form of coercion that curtails freedom without reliably satisfying genuine wants, even when it is intended to enlarge welfare (Gauba, PDF pp.42-43).
+2. **Mark-weight cue (10/15)** is associated with: A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+Which option is correct?
 
-A. Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45).
+**Answer: A**
 
-C. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **State** with **Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).**
-
-A. Neoliberalism vs libertarianism
-
-B. State
-
-C. T.H. Green
-
-D. Equality
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Minimal or "necessary evil"; protect life, property, contract and minimum services (Gauba, PDF p.41).** with **State**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Coercion argument does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Property**? Other options belong to different named entries.
+Consider the following statements:
+1. **"Examine"/"Critically examine"** is associated with: A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+2. **Authoritarian state** is associated with: A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40).
+Which option is correct?
 
-A. Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable.
+**Answer: B**
 
-C. Strong protection of private property and market exchange (Gauba, PDF p.41).
+**Option-by-option explanation**
+- **A:** A statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Adds a moral dimension and advances a fuller theory of welfare liberalism (Gauba, PDF p.41).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Property** with **Strong protection of private property and market exchange (Gauba, PDF p.41)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Strong protection of private property and market exchange (Gauba, PDF p.41).**
-
-A. John Locke
-
-B. Hobhouse / Laski / Tawney
-
-C. Liberty
-
-D. Property
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Strong protection of private property and market exchange (Gauba, PDF p.41).** with **Property**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with "Examine"/"Critically examine" does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Equality**? Other options belong to different named entries.
+Consider the following statements:
+1. **"Critically evaluate"** is associated with: Give a reasoned verdict on whether liberalism's economic program (classical vs welfare vs neoliberal) or its constitutional core (§9, §19 Unit 6) is its more defensible contribution.
+2. **Classical / negative liberalism** is associated with: The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41).
+Which option is correct?
 
-A. Leans toward formal legal equality and fair procedure.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+**Answer: C**
 
-C. Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
+**Option-by-option explanation**
+- **A:** A statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Equality** with **Leans toward formal legal equality and fair procedure**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Leans toward formal legal equality and fair procedure.**
-
-A. Adam Smith
-
-B. Equality
-
-C. Hayek / Friedman / Nozick
-
-D. Liberalism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Leans toward formal legal equality and fair procedure.** with **Equality**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with "Critically evaluate" does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Liberty**? Other options belong to different named entries.
+Consider the following statements:
+1. **Mark-weight cue (10/15)** is associated with: The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41).
+2. **Welfare / positive liberalism** is associated with: Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42).
+Which option is correct?
 
-A. A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43).
+**Answer: D**
 
-C. Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).
+**Option-by-option explanation**
+- **A:** A statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Early liberal defender of laissez-faire and market society (Gauba, PDF pp.41-42).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Liberty** with **Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Mark-weight cue (10/15) does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).**
+Which correction is most defensible for the claim: **Liberalism always means anti-state politics.**?
 
-A. Jeremy Bentham
+- A. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+- B. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- C. He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- D. Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
 
-B. State
+**Answer: A**
 
-C. Authoritarian state
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+- **B:** B Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception: 'Gauba's criticism means liberalism has no contribution.'; it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception: 'Liberalism only protects property and has nothing to do with constitutionalism.'; it does not answer the claim in the stem.
 
-D. Liberty
+> **Examiner trap:** Repair the exact overstatement about Liberalism always means anti-state politics, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **Mainly negative liberty or freedom from restraint (Gauba, PDF pp.40-41).** with **Liberty**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **Neoliberalism and liberalism are identical.**?
+
+- A. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+- B. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- C. He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- D. Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Liberalism always means anti-state politics.'; it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- **C:** C Repairs a different misconception: 'Gauba's criticism means liberalism has no contribution.'; it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception: 'Liberalism only protects property and has nothing to do with constitutionalism.'; it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Neoliberalism and liberalism are identical, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **Hayek, Friedman and Nozick defend one identical doctrine.**?
+
+- A. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43); no additional distinction is made within this interpretation.
+- B. Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45); this option applies the proposition as a complete explanation.
+- C. Hayek, Friedman and Nozick defend one identical doctrine. -> Gauba groups them for rollback purposes, but Hayekian spontaneous order, Friedmanite market freedom and Nozickian entitlement/minimal-state reasoning remain distinct arguments
+- D. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42); the rival mechanism is treated as non-decisive in this account.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception: 'Liberalism only protects property and has nothing to do with constitutionalism.'; it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Gauba groups them for rollback purposes, but Hayekian spontaneous order, Friedmanite market freedom and Nozickian entitlement/minimal-state reasoning remain distinct arguments.
+- **D:** D Repairs a different misconception: 'Liberalism always means anti-state politics.'; it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Hayek, Friedman and Nozick defend one identical, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **Liberalism only protects property and has nothing to do with constitutionalism.**?
+
+- A. He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- B. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+- C. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- D. Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Gauba's criticism means liberalism has no contribution.'; it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception: 'Liberalism always means anti-state politics.'; it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
+
+> **Examiner trap:** Repair the exact overstatement about Liberalism only protects property and has nothing to, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **Welfare liberalism abandoned liberty.**?
+
+- A. Its claim is that liberty needs supportive conditions, not merely absence of restraint (Gauba, PDF p.41).
+- B. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- C. He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- D. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Its claim is that liberty needs supportive conditions, not merely absence of restraint (Gauba, PDF p.41).
+- **B:** B Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception: 'Gauba's criticism means liberalism has no contribution.'; it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception: 'Liberalism always means anti-state politics.'; it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Welfare liberalism abandoned liberty, not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Gauba's criticism means liberalism has no contribution.**?
+
+- A. Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- B. He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- C. Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
+- D. Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
+- **C:** C Repairs a different misconception: 'Liberalism always means anti-state politics.'; it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception: 'Liberalism only protects property and has nothing to do with constitutionalism.'; it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Gauba's criticism means liberalism has no contribution, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Do not collapse liberalism into a single market slogan.**?
+
+- A. Neoliberalism and liberalism are identical. -> Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family
+- B. The chapter's whole point is that liberalism is internally divided on that question.
+- C. Keep classical, welfare and neoliberal strands distinct.
+- D. Welfare liberalism abandoned liberty. -> Its claim is that liberty needs supportive conditions, not merely absence of restraint
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception: 'Do not portray all liberalism as anti-state or all state action as anti-liberal.'; it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Keep classical, welfare and neoliberal strands distinct.
+- **D:** D Repairs a different misconception: 'Welfare liberalism abandoned liberty.'; it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Do not collapse liberalism into a single market slogan, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Do not portray all liberalism as anti-state or all state action as anti-liberal.**?
+
+- A. Its claim is that liberty needs supportive conditions, not merely absence of restraint (Gauba, PDF p.41).
+- B. Neoliberalism and liberalism are identical. -> Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family
+- C. Keep classical, welfare and neoliberal strands distinct.
+- D. The chapter's whole point is that liberalism is internally divided on that question.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception: 'Welfare liberalism abandoned liberty.'; it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception: 'Neoliberalism and liberalism are identical.'; it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception: 'Do not collapse liberalism into a single market slogan.'; it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: The chapter's whole point is that liberalism is internally divided on that question.
+
+> **Examiner trap:** Repair the exact overstatement about Do not portray all liberalism as anti-state or all, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-> **Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Social and Political Ideals. They are not re-routed to Political Theory; they are included because this topic provides a directly usable supporting framework.
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-> **Primary owner:** Philosophy Paper II - Social and Political Ideals.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Liberalism and Neoliberalism** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
-#### Solved PYQ 1 - 2021 Q1(a), 10 marks
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Question:** Discuss critically the distributive theory of justice as propounded by R. Nozick.
+### Original GS Mains Model 1 — 10 marks
 
+**Question:** Distinguish classical liberalism, welfare liberalism and neoliberalism. Answer in 150 words.
 
-**Demand decoding:** The operative directive is **Discuss**: cover the principal dimensions, connect named evidence to each claim, include the strongest counter-position and conclude directly. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of classical liberalism, welfare liberalism and neoliberalism in the opening line, carry the argument on Introduction, Core, Classical and Welfare, and reserve the closing sentences for the qualification that conclusion: The liberal family is united by individual freedom and constitutional restraint, but divided over whether markets alone secure freedom or an enabling state must create its social conditions.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+**Model answer (140 words):**
 
-**Thesis.** Nozick's is a HISTORICAL (entitlement) theory, not a distributive one
-in the patterned sense: a distribution is just if it arose through just steps,
-whatever its final shape. Powerful as a warning, it is incomplete on its own
-premises.
+Introduction: The three strands share commitment to the individual, rights and constitutional restraint, but differ over the conditions required for effective freedom. Core analysis: Classical liberalism stresses negative liberty, private property, contract and a limited state that protects rights and market exchange. Welfare or positive liberalism argues that formal non-interference is insufficient where poverty, ill-health or unequal education prevent real agency; the state must create enabling social conditions. Neoliberalism reasserts market coordination against an established welfare state, using arguments about dispersed knowledge, incentives, coercion and excessive public power. Critical evaluation: The divisions are not absolute: all three retain constitutionalism, but they disagree sharply about whether public action secures or threatens liberty. Conclusion: The liberal family is united by individual freedom and constitutional restraint, but divided over whether markets alone secure freedom or an enabling state must create its social conditions.
 
-- **Doctrine.** Justice in holdings has three principles -- justice in ACQUISITION
-  (how unowned things are first justly held), justice in TRANSFER (voluntary
-  exchange and gift) and justice in RECTIFICATION (correcting past injustice).
-  There is no required end-state pattern.
-- **Historical vs patterned.** Patterned principles (equality, need, merit) judge
-  the shape of the distribution; historical principles judge the PROCESS. The Wilt
-  Chamberlain argument shows that if people freely pay to watch him, the resulting
-  inequality is just, and maintaining any fixed pattern would require continuous
-  interference with voluntary transfers.
-- **Critique.** The acquisition and rectification principles are the weakest
-  links: both need an independent criterion, and real starting distributions are
-  tainted by conquest, coercion and background injustice, so "voluntariness" is
-  rarely clean.
-
-**Verdict.** Nozick's side-constraint, self-ownership warning against overreaching
-redistribution is a permanent contribution; but because his own foundational
-principles are under-specified, entitlement theory cannot bypass the problem of
-unjust starting points.
-
-> MEMORY: Why this earns marks -- it fixes the historical/patterned distinction,
-> uses Wilt Chamberlain as argument (not decoration), and lands the critique on
-> acquisition/rectification.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Classical and Welfare), converts that evidence into analysis of classical liberalism, welfare liberalism and neoliberalism, and keeps the examiner-facing qualification that conclusion: The liberal family is united by individual freedom and constitutional restraint, but divided over whether markets alone secure freedom or an enabling state must create its social conditions. At 140 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-> **Primary owner:** Philosophy Paper II - Social and Political Ideals.
+### Original GS Mains Model 2 — 10 marks
 
-**How to improve this answer:** Make the opening answer this exact demand — “Discuss critically the distributive theory of justice as propounded by R. Nozick.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Question:** Explain Hayek's knowledge argument against comprehensive economic planning. Answer in 150 words.
 
+**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of hayek's knowledge argument against comprehensive economic planning in the opening line, carry the argument on Introduction, Hayek's, Core and No, and reserve the closing sentences for the qualification that conclusion: Hayek's strongest case is epistemic rather than merely anti-state: dispersed knowledge limits comprehensive planning, though it does not establish that every public intervention is coercive or irrational.
 
-#### Solved PYQ 2 - 2025 Q1(e), 10 marks
+**Model answer (148 words):**
 
-**Question:** Discuss the salient features of equality according to J.S. Mill.
+Introduction: Hayek's central objection to comprehensive planning is that the knowledge needed for social coordination is dispersed, local and often tacit. Core analysis: No central authority can continuously possess all information about changing preferences, scarcities and opportunities. Competitive prices condense these scattered signals and permit individuals to adjust without a single commanding mind. Planning that suppresses this process must substitute administrative allocation and increasingly coercive decisions because agreement on one comprehensive hierarchy of ends is absent. Hayek therefore links epistemic limits to spontaneous order and political liberty. Critical evaluation: The argument establishes a presumption against total planning, not against every public rule or welfare measure. Markets also depend on legal institutions, and externalities or unequal power may require collective correction. Conclusion: Hayek's strongest case is epistemic rather than merely anti-state: dispersed knowledge limits comprehensive planning, though it does not establish that every public intervention is coercive or irrational.
 
-
-**Demand decoding:** The operative directive is **Discuss**: cover the principal dimensions, connect named evidence to each claim, include the strongest counter-position and conclude directly. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Thesis.** Mill is a QUALIFIED liberal egalitarian: he affirms equal moral and
-civic standing -- above all women's equality -- while resisting a crude levelling
-that would suppress individuality.
-
-- **Salient features.** (1) Equal moral worth -- each person counts, none
-  discounted by birth. (2) Equality before law and citizenship -- privilege by
-  status is indefensible. (3) WOMEN'S equality -- in The Subjection of Women the
-  legal and social subordination of women is a relic of domination, not nature.
-  (4) Equality compatible with INDIVIDUALITY -- sameness is not the goal, free
-  self-development is. (5) Hostility to custom-made hierarchy. (6) A qualified
-  economic concern -- open to reforming property and labour relations, not to
-  coercive levelling.
-- **The core argument.** A society that excludes half its members or attaches
-  rights to status wastes human capacities and violates utility properly
-  understood; the "nature" invoked to justify subordination is itself socially
-  manufactured through subjection.
-- **Limit.** Mill remains too individualist to reach structural economic
-  inequality -- but within liberalism he radicalises equality by extending it from
-  formal rights to social relations, especially gender.
-
-**Verdict.** Mill's equality is equality of STATUS, RIGHTS and CHANCE compatible
-with liberty and individuality -- egalitarian in worth and gender, restrained in
-economics.
-
-> MEMORY: Why this earns marks -- it lists Mill's features precisely, foregrounds
-> the feminist argument and the individuality proviso, and states the structural
-> limit rather than over-claiming.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Discuss the salient features of equality according to J.S. Mill.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, Hayek's, Core and No), converts that evidence into analysis of hayek's knowledge argument against comprehensive economic planning, and keeps the examiner-facing qualification that conclusion: Hayek's strongest case is epistemic rather than merely anti-state: dispersed knowledge limits comprehensive planning, though it does not establish that every public intervention is coercive or irrational. At 148 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 3 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Critically examine Nozick's entitlement theory and minimal state. Answer in 150 words.
 
-**Question:** Distinguish classical liberalism, welfare liberalism and neoliberalism. Answer in about 150 words.
+**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine Nozick's entitlement theory and minimal state in the opening line, carry the argument on Introduction, Nozick, Core and Nozick's, and reserve the closing sentences for the qualification that conclusion: Nozick powerfully protects historical entitlement and individual rights, but rectification and unequal starting conditions prevent the theory from validating every existing distribution.
 
+**Model answer (138 words):**
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Nozick judges holdings by their history rather than by whether the final distribution fits a preferred pattern. Core analysis: A holding is entitled when it arises through just acquisition, voluntary transfer and, where injustice occurred, rectification. Since persons possess rights over themselves and legitimately acquired resources, patterned redistribution requires continuous interference with voluntary choices. The legitimate state is therefore minimal, limited to protection against force, theft and fraud and to enforcement of contracts. Nozick's position powerfully exposes the tension between distributive patterns and individual choice. Further development: The contrast with Rawls clarifies the dispute. The rectification principle is indispensable but underdeveloped, and existing holdings cannot be presumed just merely because current transfers appear voluntary. Conclusion: Nozick powerfully protects historical entitlement and individual rights, but rectification and unequal starting conditions prevent the theory from validating every existing distribution.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** The three strands share commitment to the individual, rights and constitutional restraint, but differ over the conditions required for effective freedom.
-
-**Core analysis:** Classical liberalism stresses negative liberty, private property, contract and a limited state that protects rights and market exchange. Welfare or positive liberalism argues that formal non-interference is insufficient where poverty, ill-health or unequal education prevent real agency; the state must create enabling social conditions. Neoliberalism reasserts market coordination against an established welfare state, using arguments about dispersed knowledge, incentives, coercion and excessive public power. It is therefore a twentieth-century rollback project rather than simply the original classical doctrine.
-
-**Critical evaluation:** The divisions are not absolute: all three retain constitutionalism, but they disagree sharply about whether public action secures or threatens liberty.
-
-**Conclusion:** The liberal family is united by individual freedom and constitutional restraint, but divided over whether markets alone secure freedom or an enabling state must create its social conditions.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish classical liberalism, welfare liberalism and neoliberalism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Nozick, Core and Nozick's), converts that evidence into analysis of examine Nozick's entitlement theory and minimal state, and keeps the examiner-facing qualification that conclusion: Nozick powerfully protects historical entitlement and individual rights, but rectification and unequal starting conditions prevent the theory from validating every existing distribution. At 138 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Explain Hayek's knowledge argument against comprehensive economic planning. Answer in about 150 words.
+**Question:** How does welfare liberalism answer the classical liberal conception of freedom? Answer in 250 words.
 
+**Demand decode:** the directive `how` requires the answer to state the mechanism step by step and show what each step produces. Fix the boundary of does welfare liberalism answer the classical liberal conception of freedom in the opening line, carry the argument on Introduction, Welfare, Core and Thinkers, and reserve the closing sentences for the qualification that the answer remains liberal only if welfare measures protect equal citizenship, legal rights and plural choice rather than allowing an unlimited administrative state.
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (222 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Welfare liberalism accepts the liberal priority of freedom but rejects the assumption that freedom is exhausted by absence of legal restraint. Core analysis: Thinkers such as Green and Hobhouse argue that liberty requires the capacity to pursue worthwhile purposes. Laski and Tawney translate this moral insight into institutional claims: education, health, social security and regulation may be needed to prevent dependence and make citizenship effective. The enabling state is therefore justified not as a substitute for individual agency but as a condition of it. This distinguishes positive or substantive freedom from the thinner classical focus on contract and non-interference. Further development: The internal liberal debate is therefore about the source of unfreedom. Classical liberalism fears coercive law and concentrated public authority; welfare liberalism adds dependence produced by social and economic deprivation. Green and Hobhouse supply the moral account of enabling freedom, while Laski and Tawney support its institutional expression. The answer remains liberal only if welfare measures protect equal citizenship, legal rights and plural choice rather than allowing an unlimited administrative state. Critical evaluation: The welfare answer must still confront paternalism, fiscal burden and bureaucratic domination. Public action advances liberty only when it enlarges capabilities while remaining constitutionally accountable. Conclusion: Welfare liberalism preserves liberty while arguing that formal non-interference is inadequate where poverty, dependence and unequal capability make choice merely nominal.
 
-**Introduction:** Hayek's central objection to comprehensive planning is that the knowledge needed for social coordination is dispersed, local and often tacit.
-
-**Core analysis:** No central authority can continuously possess all information about changing preferences, scarcities and opportunities. Competitive prices condense these scattered signals and permit individuals to adjust without a single commanding mind. Planning that suppresses this process must substitute administrative allocation and increasingly coercive decisions because agreement on one comprehensive hierarchy of ends is absent. Hayek therefore links epistemic limits to spontaneous order and political liberty.
-
-**Critical evaluation:** The argument establishes a presumption against total planning, not against every public rule or welfare measure. Markets also depend on legal institutions, and externalities or unequal power may require collective correction.
-
-**Conclusion:** Hayek's strongest case is epistemic rather than merely anti-state: dispersed knowledge limits comprehensive planning, though it does not establish that every public intervention is coercive or irrational.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain Hayek's knowledge argument against comprehensive economic planning.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `how` instead of drifting into description, attaches each claim to named evidence (Introduction, Welfare, Core and Thinkers), converts that evidence into analysis of does welfare liberalism answer the classical liberal conception of freedom, and keeps the examiner-facing qualification that the answer remains liberal only if welfare measures protect equal citizenship, legal rights and plural choice rather than allowing an unlimited administrative state. At 222 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Critically examine Nozick's entitlement theory and minimal state. Answer in about 200 words.
+**Question:** Evaluate neoliberalism as both a revival of classical liberalism and a response to the welfare state. Answer in 250 words.
 
+**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of neoliberalism as both a revival of classical liberalism and a response to the welfare state in the opening line, carry the argument on Introduction, Neoliberalism, Core and Like, and reserve the closing sentences for the qualification that conclusion: Neoliberalism revives market liberty, but its distinctive historical target is an already developed welfare state;.
 
-**Demand decoding:** The operative directive is **Critically examine**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (236 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Neoliberalism revives classical concerns about state power and market freedom, but it emerges in a different institutional setting. Core analysis: Like classical liberalism, it values private choice, competition, property and limited government. Unlike the original doctrine, it confronts a mature welfare and regulatory state and therefore seeks rollback, privatisation, deregulation and renewed market discipline. Hayek supplies the knowledge and coercion arguments, Friedman emphasises market coordination, and Nozick offers a rights-based case for the minimal state. These arguments are related but not identical. Further development: Its three major arguments must remain distinct. Hayek stresses dispersed knowledge and spontaneous order; Friedman stresses market coordination and limits on discretionary government; Nozick stresses self-ownership and historical entitlement. Their convergence supports rollback, but their premises are not interchangeable. Critics respond that market outcomes reflect inherited power and that health, education and social security may enlarge rather than diminish freedom. Constitutional safeguards, competitive institutions and transparent regulation remain necessary even within a market-centred order. The resulting verdict should distinguish a justified presumption for decentralised choice from a dogmatic presumption that every public intervention fails. Critical evaluation: Neoliberalism correctly identifies information failures and the danger of concentrated public power, yet it can underestimate unequal market power, historical disadvantage and the public institutions on which markets depend. Conclusion: Neoliberalism revives market liberty, but its distinctive historical target is an already developed welfare state; it is therefore restoration under new conditions, not simple repetition.
 
-**Introduction:** Nozick judges holdings by their history rather than by whether the final distribution fits a preferred pattern.
-
-**Core analysis:** A holding is entitled when it arises through just acquisition, voluntary transfer and, where injustice occurred, rectification. Since persons possess rights over themselves and legitimately acquired resources, patterned redistribution requires continuous interference with voluntary choices. The legitimate state is therefore minimal, limited to protection against force, theft and fraud and to enforcement of contracts. Nozick's position powerfully exposes the tension between distributive patterns and individual choice.
-
-**Further development:** The contrast with Rawls clarifies the dispute. Rawls evaluates the basic structure through principles chosen under fair conditions, whereas Nozick rejects end-state patterns that override historical transactions. Nozick protects choice more strongly, but Rawls better explains why institutions must address arbitrary starting positions. A complete assessment should therefore preserve Nozick's warning against continuous interference while rejecting the assumption that actual histories are clean enough for entitlement to operate without substantial rectification.
-
-**Critical evaluation:** Its difficulty lies in historical injustice and unequal bargaining power. The rectification principle is indispensable but underdeveloped, and existing holdings cannot be presumed just merely because current transfers appear voluntary.
-
-**Conclusion:** Nozick powerfully protects historical entitlement and individual rights, but rectification and unequal starting conditions prevent the theory from validating every existing distribution.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically examine Nozick's entitlement theory and minimal state.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Neoliberalism, Core and Like), converts that evidence into analysis of neoliberalism as both a revival of classical liberalism and a response to the welfare state, and keeps the examiner-facing qualification that conclusion: Neoliberalism revives market liberty, but its distinctive historical target is an already developed welfare state;. At 236 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** How does welfare liberalism answer the classical liberal conception of freedom? Answer in about 200 words.
+**Question:** Compare the Hayekian, Nozickian and Rawlsian approaches to liberty, property and distributive justice. Answer in 250 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of the Hayekian, Nozickian and Rawlsian approaches to liberty, property and distributive justice in the opening line, carry the argument on Introduction, Hayek, Nozick and Rawls, and reserve the closing sentences for the qualification that each remains vulnerable where its preferred mechanism overlooks the others' concern.
 
-**Demand decoding:** The operative directive is **How**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (243 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Hayek, Nozick and Rawls belong to the liberal family, but they justify institutions through different moral and analytical routes. Core analysis: Hayek defends spontaneous market order because dispersed knowledge cannot be comprehensively planned; he distrusts distributive designs that treat society as if one agent controlled all outcomes. Nozick begins with self-ownership and historical entitlement, limiting the state to protection and rectification. Rawls asks what principles free and equal persons would choose under fair conditions; equal basic liberties are combined with fair opportunity and the difference principle. Property is therefore constrained by justice as fairness rather than treated as presumptively inviolable. Further development: The comparison also yields different conceptions of coercion. Hayek fears purposive control of a spontaneous order; Nozick treats compulsory redistribution as a rights violation; Rawls asks whether the coercive basic structure could be justified to citizens as free and equal. Rawls therefore permits redistribution under public principles, Nozick permits only protection and rectification, and Hayek resists distributive language where no single agent designed the outcome. A balanced answer should preserve Hayek's knowledge problem, Nozick's historical test and Rawls's concern with fair background institutions. Critical evaluation: Hayek's epistemic caution and Nozick's rights protect liberty, while Rawls more directly addresses structural starting points. Each remains vulnerable where its preferred mechanism overlooks the others' concern. Conclusion: Hayek, Nozick and Rawls defend different moral routes from liberty to institutions, so no serious comparison can collapse spontaneous order, entitlement and fairness into one liberal position.
 
-**Introduction:** Welfare liberalism accepts the liberal priority of freedom but rejects the assumption that freedom is exhausted by absence of legal restraint.
-
-**Core analysis:** Thinkers such as Green and Hobhouse argue that liberty requires the capacity to pursue worthwhile purposes. Laski and Tawney translate this moral insight into institutional claims: education, health, social security and regulation may be needed to prevent dependence and make citizenship effective. The enabling state is therefore justified not as a substitute for individual agency but as a condition of it. This distinguishes positive or substantive freedom from the thinner classical focus on contract and non-interference.
-
-**Further development:** The internal liberal debate is therefore about the source of unfreedom. Classical liberalism fears coercive law and concentrated public authority; welfare liberalism adds dependence produced by social and economic deprivation. Green and Hobhouse supply the moral account of enabling freedom, while Laski and Tawney support its institutional expression. The answer remains liberal only if welfare measures protect equal citizenship, legal rights and plural choice rather than allowing an unlimited administrative state.
-
-**Critical evaluation:** The welfare answer must still confront paternalism, fiscal burden and bureaucratic domination. Public action advances liberty only when it enlarges capabilities while remaining constitutionally accountable.
-
-**Conclusion:** Welfare liberalism preserves liberty while arguing that formal non-interference is inadequate where poverty, dependence and unequal capability make choice merely nominal.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “How does welfare liberalism answer the classical liberal conception of freedom?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Hayek, Nozick and Rawls), converts that evidence into analysis of the Hayekian, Nozickian and Rawlsian approaches to liberty, property and distributive justice, and keeps the examiner-facing qualification that each remains vulnerable where its preferred mechanism overlooks the others' concern. At 243 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
-
-#### Original Mains Practice 5 — 20 marks
-
-**Question:** Evaluate neoliberalism as both a revival of classical liberalism and a response to the welfare state. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Neoliberalism revives classical concerns about state power and market freedom, but it emerges in a different institutional setting.
-
-**Core analysis:** Like classical liberalism, it values private choice, competition, property and limited government. Unlike the original doctrine, it confronts a mature welfare and regulatory state and therefore seeks rollback, privatisation, deregulation and renewed market discipline. Hayek supplies the knowledge and coercion arguments, Friedman emphasises market coordination, and Nozick offers a rights-based case for the minimal state. These arguments are related but not identical.
-
-**Further development:** Its three major arguments must remain distinct. Hayek stresses dispersed knowledge and spontaneous order; Friedman stresses market coordination and limits on discretionary government; Nozick stresses self-ownership and historical entitlement. Their convergence supports rollback, but their premises are not interchangeable. Critics respond that market outcomes reflect inherited power and that health, education and social security may enlarge rather than diminish freedom. Constitutional safeguards, competitive institutions and transparent regulation remain necessary even within a market-centred order. The resulting verdict should distinguish a justified presumption for decentralised choice from a dogmatic presumption that every public intervention fails.
-
-**Critical evaluation:** Neoliberalism correctly identifies information failures and the danger of concentrated public power, yet it can underestimate unequal market power, historical disadvantage and the public institutions on which markets depend.
-
-**Conclusion:** Neoliberalism revives market liberty, but its distinctive historical target is an already developed welfare state; it is therefore restoration under new conditions, not simple repetition.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate neoliberalism as both a revival of classical liberalism and a response to the welfare state.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 6 — 20 marks
-
-**Question:** Compare the Hayekian, Nozickian and Rawlsian approaches to liberty, property and distributive justice. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Hayek, Nozick and Rawls belong to the liberal family, but they justify institutions through different moral and analytical routes.
-
-**Core analysis:** Hayek defends spontaneous market order because dispersed knowledge cannot be comprehensively planned; he distrusts distributive designs that treat society as if one agent controlled all outcomes. Nozick begins with self-ownership and historical entitlement, limiting the state to protection and rectification. Rawls asks what principles free and equal persons would choose under fair conditions; equal basic liberties are combined with fair opportunity and the difference principle. Property is therefore constrained by justice as fairness rather than treated as presumptively inviolable.
-
-**Further development:** The comparison also yields different conceptions of coercion. Hayek fears purposive control of a spontaneous order; Nozick treats compulsory redistribution as a rights violation; Rawls asks whether the coercive basic structure could be justified to citizens as free and equal. Rawls therefore permits redistribution under public principles, Nozick permits only protection and rectification, and Hayek resists distributive language where no single agent designed the outcome. A balanced answer should preserve Hayek's knowledge problem, Nozick's historical test and Rawls's concern with fair background institutions.
-
-**Critical evaluation:** Hayek's epistemic caution and Nozick's rights protect liberty, while Rawls more directly addresses structural starting points. Each remains vulnerable where its preferred mechanism overlooks the others' concern.
-
-**Conclusion:** Hayek, Nozick and Rawls defend different moral routes from liberty to institutions, so no serious comparison can collapse spontaneous order, entitlement and fairness into one liberal position.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare the Hayekian, Nozickian and Rawlsian approaches to liberty, property and distributive justice.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Advanced enrichment | **Exam relevance:** UPSC Prelims and GS Mains, primarily GS-II. This universal label means enrichment beyond a core GS answer and never a separate-paper classification.
 > **Core area:** Classical vs welfare liberalism; Hayek/Friedman/Nozick neoliberalism.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.2, PDF pp.40-45.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -1508,24 +1898,22 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 
 ## CONSOLIDATED REGISTER NOTES
 
-### ONE-PAGE CONCEPT GRID
-
 | Concept / thinker | Exam-ready formulation |
 |---|---|
-| Liberalism | A political principle that places liberty of the individual at the centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40). |
 | Authoritarian state | A state in which authority is treated as unquestionable and its directives must be obeyed without challenge (Gauba, PDF p.40). |
 | Classical / negative liberalism | The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41). |
 | Welfare / positive liberalism | The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41). |
 | Welfare state | A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41). |
 | Neoliberalism / neo-classical liberalism / libertarianism | Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical. |
-| Constitutionalism | Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45). |
 | Liberalism vs authoritarianism | Liberalism opposes unquestioned and arbitrary authority and demands limits on power plus rights for individuals (Gauba, PDF pp.40-41). |
 | Classical vs welfare liberalism | Classical liberalism wants minimal state interference; welfare liberalism wants positive state action for dignity and welfare (Gauba, PDF pp.41-42). |
 | Welfare liberalism vs neoliberalism | Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43). |
 | Individualism vs utilitarianism | Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42). |
 | Capitalism vs constitutionalism | Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45). |
+| Neoliberalism vs libertarianism | Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable. |
+| John Locke | Father of liberalism; early defender of rights, consent and limited government within classical liberalism (Gauba, PDF p.41). |
 
-### CORE REVISION SPINE
+
 
 - The chapter also explains why neoliberalism cannot simply be equated with all liberalism; it is a contemporary restoration of the classical laissez-faire impulse (Gauba, PDF pp.42-43).
 - A compact exam contrast is this: liberalism asks how to protect liberty; welfare liberalism asks what background conditions liberty needs; neoliberalism asks whether those conditions themselves have become coercive through the state.
@@ -1540,7 +1928,7 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 - The chapter closes with criticism of liberalism's bourgeois character, unequal group power and welfare-state limits, but also credits liberalism with rationalism, constitutionalism and an expandable language of freedom, equality and justice (Gauba, PDF pp.43-45).
 - Liberalism puts individual liberty at the centre of public policy and opposes arbitrary authority (Gauba, PDF p.40).
 
-### HIGH-RISK TRAPS
+
 
 - Trap repair: Liberalism always means anti-state politics. -> Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
 - Trap repair: Neoliberalism and liberalism are identical. -> Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
@@ -1549,7 +1937,7 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 - Trap repair: Welfare liberalism abandoned liberty. -> Its claim is that liberty needs supportive conditions, not merely absence of restraint (Gauba, PDF p.41).
 - Trap repair: Gauba's criticism means liberalism has no contribution. -> He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).
 
-### ANSWER SPINE
+
 
 1. Define the exact doctrine or controversy in the question.
 2. State a qualified thesis before narration begins.
@@ -1557,3 +1945,11 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 4. Add named thinkers and one precise distinction.
 5. Present the strongest objection, reply and residual limitation.
 6. End with a graded verdict tied to the directive.
+
+### GS ownership and final answer route
+
+- **Topic boundary:** classical, welfare and neoliberal liberalism.
+- **Exam identity:** UPSC Prelims and General Studies Mains only; primarily GS-II conceptual foundations.
+- **Evidence rule:** claim -> named thinker/example -> what it proves -> limitation.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; otherwise use labelled original practice.
+- **Advanced rule:** Advanced enrichment is useful for qualification but unnecessary for a competent core GS answer.

@@ -1,305 +1,303 @@
-ASCII MASTER FLOW — PANEL 1/12: Patriarchy, Feminism and the Central Political Question
-CENTRAL FOCUS
-Patriarchy, Feminism and the Central Political Question
-  [1] Gauba treats feminism as a protest against the inferior status assigned to women by
-      patriarchy, not as a denial that biological differences exist. (PDF pp.84-86)
-        |
-        v
-  [2] The sex-gender distinction is central for answering why inequality can be socially
-      constructed even when biological difference is real. (PDF pp.84-86)
-        |
-        v
-  [3] The three streams of feminism provide a compact framework for PSIR and GS-II answers
-      on equality, citizenship and justice. (PDF pp.88-90)
-        |
-        v
-  [4] The topic teaches how power can operate through family roles, labour division,
-      culture and political exclusion, not only through law or property. (PDF pp.85-87)
-        |
-        v
-SYNTHESIS -> Patriarchy, Feminism and the Central Political Question is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 1/13: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Feminism, Sex and Gender.                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Read the deeper companion at Political-Theory/advanced/06_Feminism-Sex-and-Gender.md     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Sex, Gender and the Social Construction of Hierarchy
-CENTRAL FOCUS
-Sex, Gender and the Social Construction of Hierarchy
-  [1] Gender roles such as aggressiveness/dominance for men and
-      submissiveness/expressiveness for women are treated as cultural instruments of
-      social control. (PDF p.85)
-        |
-        v
-  [2] Patriarchy: literally rule of the father, now used for wider male domination in
-      household, labour market and social life. (PDF p.84)
-        |
-        v
-  [3] Gender: culturally constructed images, expectations and status-distinctions attached
-      to women and men. (PDF pp.84-85)
-        |
-        v
-  [4] Gender inequality: a conventional or cultural inequality, hence open to criticism
-      and change. (PDF p.86)
-        |
-        v
-  [5] He then distinguishes sex from gender so that biological difference is separated
-      from socially assigned inferiority. (PDF pp.84-86)
-        |
-        v
-SYNTHESIS -> Sex, Gender and the Social Construction of Hierarchy is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 2/13: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1755 -> A Discourse on the Origin of Inequality                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1759-97 -> Mary Wollstonecraft                                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1759-97 -> Theory When Mary Wollstonecraft                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1792 -> Vindication of the Rights of Woman                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1807-59 -> Harriet Taylor                                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Core Distinctions, Thinkers and Feminist Streams
-CENTRAL FOCUS
-Core Distinctions, Thinkers and Feminist Streams
-  [1] Shulamith Firestone: radical feminist who ties women's subordination to reproductive
-      biology and seeks release from that dependence through technological change. (PDF
-      p.89)
-        |
-        v
-  [2] Kate Millett: radical feminist who interprets the relation between sexes as a power
-      relation sustained by ideology. (PDF p.89)
-        |
-        v
-  [3] Sheila Rowbotham: socialist feminist linking women's liberation with struggle
-      against capitalism and other oppressions. (PDF pp.89-90)
-        |
-        v
-  [4] Natural inequality vs conventional inequality: Gauba uses Rousseau's distinction to
-      show that gender inequality belongs to the alterable second category. (PDF p.86)
-        |
-        v
-  [5] Legal equality vs substantive equality: early feminism attacked barriers to
-      education, property and vote; later feminism asks whether equal law alone changes
-      social power. (PDF pp.88-91)
-        |
-        v
-SYNTHESIS -> Core Distinctions, Thinkers and Feminist Streams is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 3/13: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1869 -> The Subjection of Women                                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1970 -> The Dialectic of Sex                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1971 -> Sexual Politics                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1972 -> Women, Resistance and Revolution                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1973 -> Hidden from History                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1989 -> She continued this approach in The Past is before Us                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Illustrations, Comparative Matrix and Trap Repair
-CENTRAL FOCUS
-Illustrations, Comparative Matrix and Trap Repair
-  [1] Gauba's examples of girls being socialized toward obedience and boys toward
-      assertiveness show how gender roles are culturally produced. (PDF p.87)
-        |
-        v
-  [2] The early rights agenda focused on education, property, divorce and suffrage because
-      these exclusions had no necessary connection with female biology. (PDF pp.87-88)
-        |
-        v
-  [3] A safe classroom example is to contrast biological maternity with culturally
-      assigned ideas that women must therefore remain outside public life.
-        |
-        v
-SYNTHESIS -> Illustrations, Comparative Matrix and Trap Repair is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 4/13: Chapter Spine
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE                                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba starts by defining feminism as resistance to unjust female subordination produced  |
+| by patriarchy. (PDF p.84)                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. He then distinguishes sex from gender so that biological difference is separated from    |
+| socially assigned inferiority. (PDF pp.84-86)                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Gender roles such as aggressiveness/dominance for men and submissiveness/expressiveness  |
+| for women are treated as cultural instruments of social control. (PDF p.85)                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Gauba argues that biological differences do not justify inferior status for women; the   |
+| main causes lie in social arrangements and cultural conditioning. (PDF pp.86-87)             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. He ends by classifying feminism into liberal, radical and socialist streams. (PDF        |
+| pp.88-90)                                                                                    |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Ownership Boundaries, Revision Spine and Source Discipline
-CENTRAL FOCUS
-Ownership Boundaries, Revision Spine and Source Discipline
-  [1] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,
-      Fifth Edition (2009), Ch.2, PDF pp.84-93.
-        |
-        v
-  [2] Use Rousseau's natural/conventional inequality distinction to show why gender
-      hierarchy is alterable. (PDF p.86)
-        |
-        v
-  [3] Classify feminism into liberal, radical and socialist streams with one thinker each.
-      (PDF pp.88-90)
-        |
-        v
-  [4] End by warning against using Gauba's dated numerical claims as present-day evidence.
-      (PDF pp.86, 91-93)
-        |
-        v
-  [5] Key anchors: feminism, patriarchy, sex-gender distinction (PDF pp.84-86);
-      socialization and inequality (PDF pp.86-87); Wollstonecraft, Mill and three streams
-      of feminism (PDF pp.88-90).
-        |
-        v
-SYNTHESIS -> Ownership Boundaries, Revision Spine and Source Discipline is best presented
-             through its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 5/13: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba's examples of girls being socialized toward obedience and boys toward              |
+| assertiveness show how gender roles are culturally produced. (PDF p.87)                      |
+| 02. The early rights agenda focused on education, property, divorce and suffrage because     |
+| these exclusions had no necessary connection with female biology. (PDF pp.87-88)             |
+| 03. A safe classroom example is to contrast biological maternity with culturally assigned    |
+| ideas that women must therefore remain outside public life                                   |
+| 04. Gauba's cited 1980 UN numerical claim and the follow-up line saying the condition        |
+| remained unchanged should never be repeated as current fact; at most they are dated book-    |
+| period illustrations. (PDF p.86)                                                             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Later Provenance and Marxist Feminism
-CENTRAL FOCUS
-Later Provenance and Marxist Feminism
-  [1] Exam use: if a question specifically says "Marxist feminism," lead with the
-      domestic-labour/social-reproduction claim; if it says "socialist feminism," lead
-      with Rowbotham's dual-systems synthesis; the two labels overlap but are not simple
-      synonyms.
-        |
-        v
-  [2] Gauba's chapter grounds the sex/gender distinction and the liberal/radical/socialist
-      typology; it does not itself discuss Simone de Beauvoir, Gayle Rubin, Ann Oakley,
-      Carole Pateman, Susan Moller Okin, Judith Butler or Kimberlé Crenshaw. Everything
-      below is a standard PSIR/political-theory extension used by examiners beyond this
-      specific book, flagged throughout, and is not tied to a page number in the primary
-      source.
-        |
-        v
-  [3] Ann Oakley (Sex, Gender and Society, 1972) is usually credited with popularising the
-      working sex/gender terminology in sociology — sex as biological, gender as the
-      culturally learned, historically variable content attached to that biology.
-        |
-        v
-  [4] Claim: women's oppression is generated principally by the capitalist mode of
-      production, especially unpaid domestic/reproductive labour that reproduces the
-      workforce free of charge.
-        |
-        v
-SYNTHESIS -> Later Provenance and Marxist Feminism is best presented through its central
-             claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 6/13: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. LIBERAL FEMINISM | Core claim = Women deserve equal opportunity and equal rights in all  |
+| walks of life. (PDF p.88) | Main obstacle identified = Formal legal, educational and         |
+| professional barriers. (PDF pp.88-89) | Remedy emphasized = Equal pay, representation,       |
+| reform of discriminatory laws. (PDF p.88)                                                    |
+| 02. RADICAL FEMINISM | Core claim = Women's oppression is primary and cannot be reduced to   |
+| some deeper system alone. (PDF p.89) | Main obstacle identified = Patriarchal sexual power   |
+| and reproductive dependence. (PDF p.89) | Remedy emphasized = Transform sex-power relations  |
+| and dismantle domination. (PDF p.89)                                                         |
+| 03. SOCIALIST FEMINISM | Core claim = Women's oppression is linked both to patriarchy and    |
+| capitalism. (PDF pp.89-90) | Main obstacle identified = Wage labour, domestic labour and     |
+| class exploitation together. (PDF pp.89-90) | Remedy emphasized = Link women's liberation    |
+| with broader anti-capitalist and anti-oppression struggles. (PDF p.90)                       |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Pateman and Okin: Contract, Justice and the Family
-CENTRAL FOCUS
-Pateman and Okin: Contract, Justice and the Family
-  [1] Susan Moller Okin (Justice, Gender, and the Family, 1989): Claim — theories of
-      justice (she targets Rawls) wrongly treat the family as a pre-political given rather
-      than a site justice must examine. Evidence — unequal domestic burden restricts
-      women's access to the "primary goods" (time, income, position) public justice is
-      meant to distribute. Significance — extends justice from state/market into the
-      household. Limit — risks over-extending justice into every private relationship,
-      which is why most syntheses still preserve some sphere of family autonomy alongside
-      gender-just background conditions.
-        |
-        v
-SYNTHESIS -> Pateman and Okin: Contract, Justice and the Family is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 7/13: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Sex and gender mean the same thing => REPAIR: Gauba makes the distinction          |
+| foundational: sex is biological, gender is cultural. (PDF pp.84-86)                          |
+| 02. TRAP: All feminism says women are biologically determined => REPAIR: Firestone's         |
+| reproductive-biology argument is one radical-feminist position, not feminism's consensus.    |
+| (PDF p.89)                                                                                   |
+| 03. TRAP: If women receive equal legal rights, feminism has no further issue => REPAIR:      |
+| Gauba shows later feminism asking about representation, social status and unequal            |
+| participation in public power. (PDF pp.91-93)                                                |
+| 04. TRAP: Old statistics in the book can be quoted as present reality => REPAIR: The 1980 UN |
+| figure and book-era representation data are historical and must not be presented as current  |
+| fact. (PDF pp.86, 91-93)                                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Butler, Performativity and Intersectionality
-CENTRAL FOCUS
-Butler, Performativity and Intersectionality
-  [1] Judith Butler (Gender Trouble, 1990): gender is not a cultural coating on a stable
-      biological sex but performative — produced through repeated, stylised acts (speech,
-      gesture, dress, behaviour) that create the appearance of a natural gendered self; on
-      this account even "sex" is partly constituted through gendered discourse, not a
-      wholly pre-discursive bedrock.
-        |
-        v
-SYNTHESIS -> Butler, Performativity and Intersectionality is best presented through its
-             central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 8/13: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Read the deeper companion at Political-Theory/advanced/06_Feminism-Sex-and-Gender.md     |
+| 02. Use Political-Theory/00_Master-Framework.md for the ideology matrix and anti-caricature  |
+| guidance on feminism                                                                         |
+| 03. Use Political-Theory/README.md for the module map linking feminism to state, power,      |
+| citizenship and justice                                                                      |
+| 04. For cross-syllabus support, use Philosophy/paper-2/socio-political/Gender-               |
+| Discrimination.md                                                                            |
+| 05. For constitutional-equality application, move outward to Polity/advanced/07_Fundamental- |
+| Rights.md                                                                                    |
+| 06. Topic-map continuities especially matter with Political-Theory/basic/13_Diverse-         |
+| Perspectives-on-the-State.md (feminist state), Political-Theory/basic/15_Power-Authority-    |
+| and-Legitimacy.md (gendered power), Political-Theory/basic/16_Citizenship-and-Its-           |
+| Critiques.md (feminist citizenship) and Political-Theory/basic/20_Diverse-Perspectives-on-   |
+| Justice.md (feminist justice)                                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Objection-Reply Chains and Cautious Indian Application
-CENTRAL FOCUS
-Objection-Reply Chains and Cautious Indian Application
-  [1] Objection: if gender is entirely performative/socially constructed (Butler),
-      feminism loses a stable category of "woman" around which to organise and to claim
-      rights. Reply: many feminist theorists respond that political claims can be built on
-      provisionally, strategically stabilised categories even while accepting the category
-      is historically constructed ("strategic essentialism"); legal sex-discrimination
-      categories function pragmatically regardless of deeper philosophical instability.
-      Present as a live, contested debate — not a settled result.
-        |
-        v
-  [2] Objection: radical feminism's emphasis on patriarchy as the primary, near-universal
-      structure of oppression risks treating "women" as one undifferentiated class,
-      erasing differences of race, class and caste among women. Reply: Crenshaw's
-      intersectionality and Marxist/socialist feminism's attention to class supply the
-      corrective — oppression is compounded and differently configured across axes,
-      producing a more accurate map of whose subordination is being explained. This reply
-      strengthens rather than replaces the original radical-feminist insight that
-      sexual/reproductive domination is analytically distinct from class or race
-      domination.
-        |
-        v
-SYNTHESIS -> Objection-Reply Chains and Cautious Indian Application is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 9/13: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Begin with feminism as protest against patriarchy. (PDF p.84)                            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Define sex and gender separately and sharply. (PDF pp.84-86)                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Use Rousseau's natural/conventional inequality distinction to show why gender hierarchy  |
+| is alterable. (PDF p.86)                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Note that biological differences do not justify inferior status. (PDF pp.86-87)          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Classify feminism into liberal, radical and socialist streams with one thinker each.     |
+| (PDF pp.88-90)                                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. End by warning against using Gauba's dated numerical claims as present-day evidence.     |
+| (PDF pp.86, 91-93)                                                                           |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Directive Decoding and Mark-Scaled Answer Architecture
-CENTRAL FOCUS
-Directive Decoding and Mark-Scaled Answer Architecture
-  [1] "Distinguish sex and gender" → definitional/analytical directive: give the
-      distinction plus why it matters, not two one-line definitions.
-        |
-        v
-  [2] "Discuss/Examine feminism as a critique of patriarchy" → needs both diagnosis (what
-      patriarchy is, how gender is produced) and the feminist reply; do not describe
-      patriarchy without the feminist response.
-        |
-        v
-  [3] "Critically examine feminist perspectives on X" → requires thesis + at least two
-      schools compared + at least one objection/reply, ending in a reasoned verdict, not a
-      neutral list.
-        |
-        v
-  [4] Thesis (1-2 lines): feminism protests patriarchal subordination via the sex/gender
-      distinction; formal legal equality alone is insufficient.
-        |
-        v
-  [5] Body: sex vs gender (claim→evidence→significance) + one stream
-      (liberal/radical/socialist/Marxist) with its core mechanism.
-        |
-        v
-SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through
-             its central claim, causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 10/13: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba treats feminism as a protest against the inferior status assigned to women by      |
+| patriarchy, not as a denial that biological differences exist. (PDF pp.84-86)                |
+| 02. Feminism: concern with the status and role of women in relation to men, combined with    |
+| protest against injustice suffered because of sex. (PDF p.84)                                |
+| 03. Sex vs gender: sex is natural/biological; gender is cultural/social. (PDF pp.84-86)      |
+| 04. Gauba's examples of girls being socialized toward obedience and boys toward              |
+| assertiveness show how gender roles are culturally produced. (PDF p.87)                      |
+| 05. Read the deeper companion at Political-Theory/advanced/06_Feminism-Sex-and-Gender.md     |
+| 06. Ann Oakley (Sex, Gender and Society, 1972) is usually credited with popularising the     |
+| working sex/gender terminology in sociology - sex as biological, gender as the culturally    |
+| learned                                                                                      |
+| 07. Carole Pateman (The Sexual Contract, 1988): Claim - classical social-contract theory     |
+| (Hobbes, Locke, Rousseau) silently assumes a prior "sexual contract" securing men's access   |
+| to women's                                                                                   |
+| 08. Judith Butler (Gender Trouble, 1990): gender is not a cultural coating on a stable       |
+| biological sex but performative - produced through repeated, stylised acts (speech, gesture, |
+| dress                                                                                        |
+| 09. 1. Objection: if gender is entirely performative/socially constructed (Butler), feminism |
+| loses a stable category of "woman" around which to organise and to claim rights              |
+| 10. "Discuss/Examine feminism as a critique of patriarchy" -> needs both diagnosis (what     |
+| patriarchy is, how gender is produced) and the feminist reply; do not describe patriarchy    |
+| without the                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Feminism: concern with the status and role of women in relation to men, combined
-      with protest against injustice suffered because of sex.
-        |
-        v
-  [2] Patriarchy: literally rule of the father, now used for wider male domination in
-      household, labour market and social life.
-        |
-        v
-  [3] Sex: biological difference, such as reproductive function and secondary
-      characteristics.
-        |
-        v
-  [4] Gender: culturally constructed images, expectations and status-distinctions attached
-      to women and men.
-        |
-        v
-SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 11/13: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Patriarchy                                                                                   |
+| 02. Feminism:; Patriarchy:; Sex:; Gender:; Gender inequality:; Feminist theory:; Gender      |
+| 03. Sex vs gender:; Natural inequality vs conventional inequality:; Legal equality vs        |
+| substantive equality:; Equal treatment vs compensatory support:; Biology justifies           |
+| hierarchy:; Mary Wollstonecraft:; J.S. Mill:                                                 |
+| 04. Sex and gender mean the same thing.; All feminism says women are biologically            |
+| determined.; If women receive equal legal rights, feminism has no further issue.; Old        |
+| statistics in the book can be quoted as present reality.; Illustrations; Comparative Matrix; |
+| Trap Repair                                                                                  |
+| 05. Ownership Boundaries; Revision Spine; Source Discipline; SESSION; Cross-links; Read;     |
+| Political-Theory                                                                             |
+| 06. not; Simone de Beauvoir; Ann Oakley; Gayle Rubin; Claim:; Evidence:; Significance:       |
+| 07. Carole Pateman; Claim; Evidence; Significance; Limit; Susan Moller Okin; Pateman         |
+| 08. Judith Butler; Kimberle Crenshaw; Claim; Evidence; Significance; Limit; Butler           |
+| 09. Objection:; Reply:; Savitribai Phule; B. R. Ambedkar; Objection-Reply Chains; Cautious   |
+| Indian; Application                                                                          |
+| 10. Thesis (1-2 lines):; Body:; One qualifier/limit.; One-line conclusion; Directive         |
+| Decoding; Mark-Scaled Answer; Architecture                                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] Butler's Gender Trouble argues gender is constituted through performative repetition
-      of stylised acts within a regulatory, discursive frame -- there is no gendered
-      substance prior to or behind the repeated acts. This treats gender as thoroughly
-      cultural: produced, disciplined, and reproduced through social practice, in contrast
-      to sex, which denotes a biological given. The cultural-category reading explains
-      variation across societies and time in what counts as masculine or feminine, which a
-      purely biological account cannot.
-        |
-        v
-  [2] Formal equality demands the removal of explicit differential rules; substantive
-      equality goes further, licensing affirmative measures to correct unequal starting
-      points; relational equality asks whether social relationships remain hierarchical
-      regardless of formal rules. Empowerment, on Kabeer's tripartite model, requires
-      resources, agency, and achievements -- it is the process by which formal or
-      substantive equality is actually converted into lived capacity. On this reading,
-      equality supplies the normative target and empowerment supplies the causal mechanism
-      by which that target is reached.
-        |
-        v
-SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,
-             causal logic, strongest limit and qualified verdict.
-EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->
-              conclude with a qualified political judgment.
+ASCII MASTER FLOW — PANEL 12/13: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish sex from gender and explain why the distinction matters            |
+| politically. Answer in 150 words                                                             |
+| 02. 10 MARKS: Why is patriarchy a political category rather than merely a description of     |
+| family authority? Answer in 150 words                                                        |
+| 03. 10 MARKS: Compare liberal, radical, Marxist and socialist feminism as explanations of    |
+| women's subordination. Answer in 150 words                                                   |
+| 04. 15 MARKS: Critically examine Judith Butler's account of gender performativity and the    |
+| category problem it creates for feminism. Answer in 250 words                                |
+| 05. 15 MARKS: Evaluate the feminist critique of the public-private divide with reference to  |
+| Carole Pateman and Susan Moller Okin. Answer in 250 words                                    |
+| 06. 15 MARKS: Is feminism best understood as a project of equality, empowerment or social    |
+| transformation? Discuss. Answer in 250 words                                                 |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/13: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Carole Pateman (The Sexual Contract, 1988): Claim - classical social-contract     |
+| theory (Hobbes, Locke, Rousseau) silently assumes a prior "sexual contract" securing men's   |
+| access to women's. Ann Oakley (Sex, Gender and Society, 1972) is usually credited with       |
+| popularising the working sex/gender terminology in sociology - sex as biological, gender as  |
+| the culturally learned. A high-band answer therefore names the position, names the           |
+| mechanism, names the objection and then says exactly how far the claim still holds           |
++----------------------------------------------------------------------------------------------+

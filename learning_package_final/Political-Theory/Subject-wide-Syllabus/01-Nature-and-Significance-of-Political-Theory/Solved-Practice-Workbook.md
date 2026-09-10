@@ -1,1035 +1,795 @@
 ---
 topic_key: political-theory-01
 title: Nature and Significance of Political Theory — Solved Practice Workbook
-generation_identity: political-theory-01:learner-v2:g6
-generated_on: 2026-08-30
+generation_identity: political-theory-01:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Nature and Significance of Political Theory — Solved Practice Workbook
 
-**Generation:** learner-v2:g6  
-**PYQ ownership:** No directly owned verified PYQ is assigned to this topic; all questions below are original practice.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before checking the solution.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Prelims/GS Mains PYQ is verified for Topic 01; no question owned by another UPSC paper is imported or relabelled.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Political**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation, it carries no diagnostic value: correct and distractor options are matched for length and register, so an answer can only be found by reasoning about content.
+- Each of the 128 options carries its own explanation and each question closes with a distinct examiner trap.
 
-A. The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).
+### MCQ 1
 
-B. The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).
+Which statement most accurately defines political theory in Gauba's opening formulation?
 
-C. Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20).
+- A. Systematic knowledge of political phenomena, including factual and evaluative inquiry.
+- B. A specialised study of constitutional offices and their legal powers.
+- C. A normative blueprint for an ideal state independent of political facts.
+- D. A strategy by which political groups justify an existing distribution of power.
 
-D. Political theory is divided into political science and political philosophy; science studies control and facts, philosophy studies ends and values (Gauba, PDF p.17).
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A is the source-grounded definition and preserves the empirical-logical-evaluative range.
+- **B:** B narrows the field to formal institutions, while the chapter includes behaviour, concepts and values.
+- **C:** C reduces theory to ideal construction, ignoring science, criticism and concept clarification.
+- **D:** D describes ideology's interested justificatory role rather than political theory as a whole.
 
-**Explanation:** The canonical Basic owner pairs **Political** with **The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).**
-
-A. Andrew Hacker
-
-B. Political
-
-C. Main method
-
-D. Empirical statement
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).** with **Political**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Treating the word 'theory' as either an institutional manual or a utopian plan.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Political theory**? Other options belong to different named entries.
+Consider the following statements: 1. An empirical statement rests on observation. 2. A logical statement rests on reasoning. 3. An evaluative statement judges what is right or desirable. Which are correct?
 
-A. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
+- A. 1 and 2 only
+- B. 1, 2 and 3
+- C. 2 and 3 only
+- D. 1 and 3 only
 
-B. Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19).
+**Answer: B**
 
-C. Systematic knowledge of political phenomena (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A wrongly excludes evaluative judgment from the scope of political theory.
+- **B:** B correctly reproduces all three statement-types in the chapter.
+- **C:** C wrongly omits the observation-based empirical category.
+- **D:** D wrongly omits logical or inferential statements.
 
-D. Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political theory** with **Systematic knowledge of political phenomena (Gauba, PDF p.16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Systematic knowledge of political phenomena (Gauba, PDF p.16).**
-
-A. D.D. Raphael
-
-B. Typical question
-
-C. Logical statement
-
-D. Political theory
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Systematic knowledge of political phenomena (Gauba, PDF p.16).** with **Political theory**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Assuming that because evaluative claims are not experimentally verified, they are absent from theory.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Empirical statement**? Other options belong to different named entries.
+The most useful distinction drawn by D. D. Raphael for Political Theory is that:
 
-A. A statement based on observation through sense-experience alone (Gauba, PDF p.16).
+- A. science studies public institutions whereas philosophy studies private morality.
+- B. science predicts the future whereas philosophy records the past.
+- C. science seeks explanation whereas philosophy seeks justification.
+- D. science is value-laden whereas philosophy is necessarily value-neutral.
 
-B. A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).
+**Answer: C**
 
-C. Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).
+**Option-by-option explanation**
+- **A:** A invents a public-private division between the disciplines that Raphael does not make.
+- **B:** B confuses method with temporal subject matter.
+- **C:** C states Raphael's explanation-versus-justification criterion.
+- **D:** D reverses the usual value-neutrality claim and misstates both fields.
 
-D. What happens, why, and with what regularities?
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Empirical statement** with **A statement based on observation through sense-experience alone (Gauba, PDF p.16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A statement based on observation through sense-experience alone (Gauba, PDF p.16).**
-
-A. David Held
-
-B. Empirical statement
-
-C. Key danger
-
-D. Evaluative statement
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A statement based on observation through sense-experience alone (Gauba, PDF p.16).** with **Empirical statement**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Choosing a broad science/philosophy contrast instead of Raphael's precise functional test.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Logical statement**? Other options belong to different named entries.
+Andrew Hacker, whom Gauba follows here, insists that political theory be kept distinct from ideology. Which feature marks that distinction most clearly?
 
-A. Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).
+- A. Theory examines only values and ultimate ends, whereas ideology confines itself to recording observed facts about political behaviour.
+- B. Theory belongs to democratic orders, whereas ideology appears only under authoritarian rule.
+- C. Theory avoids collective purposes, whereas ideology alone discusses goals for political action.
+- D. Theory tests claims through evidence and criticism; ideology justifies a preferred distribution of power.
 
-B. Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).
+**Answer: D**
 
-C. A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A inverts both sides: theory includes empirical, logical and evaluative inquiry, while ideology is an interested justification rather than a fact-recording exercise.
+- **B:** B is false because ideology may operate in any political order.
+- **C:** C is false because political theory explicitly examines collective ends.
+- **D:** D captures Hacker's test: a theorist without a personal stake reasons dispassionately, whereas the ideologue is an interested party defending or attacking a system of power.
 
-D. If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Logical statement** with **A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).**
-
-A. David Easton
-
-B. Political
-
-C. Political science
-
-D. Logical statement
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).** with **Logical statement**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Using subject matter to separate theory and ideology when the decisive issue is standpoint and testing.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Evaluative statement**? Other options belong to different named entries.
+Andrew Hacker's 'double role' of the political theorist implies that:
 
-A. A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).
+- A. factual understanding and reflection on political goals must inform one another.
+- B. political philosophy should absorb political science completely.
+- C. a theorist should alternate between academic and party-political employment.
+- D. scientific findings become valid only after ideological endorsement.
 
-B. Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).
+**Answer: A**
 
-C. The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).
+**Option-by-option explanation**
+- **A:** A correctly links the scientist's grasp of facts with the philosopher's concern for goals.
+- **B:** B destroys the complementarity Hacker defends.
+- **C:** C literalises 'double role' into an occupational claim.
+- **D:** D subordinates inquiry to ideology, the opposite of Hacker's warning.
 
-D. His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Evaluative statement** with **A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).**
-
-A. Basic concern
-
-B. Evaluative statement
-
-C. Political theory
-
-D. Political philosophy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).** with **Evaluative statement**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Reading 'part scientist and part philosopher' as two jobs rather than two intellectual tasks.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Political science**? Other options belong to different named entries.
+Which combination best states the principal functions of political theory in Gauba's conclusion?
 
-A. Facts of political life and actual behaviour (Gauba, PDF pp.17-18).
+- A. Observation, legislation and adjudication.
+- B. Description, criticism and reconstruction.
+- C. Prediction, propaganda and mobilisation.
+- D. Classification, administration and enforcement.
 
-B. Systematic knowledge of political phenomena (Gauba, PDF p.16).
+**Answer: B**
 
-C. The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).
+**Option-by-option explanation**
+- **A:** A mixes a method with functions of state organs.
+- **B:** B is the chapter's express three-function formulation: science specialises in description, philosophy in criticism and reconstruction.
+- **C:** C wrongly treats propaganda as a theoretical function.
+- **D:** D substitutes administrative activities for intellectual functions.
 
-D. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Political science** with **The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).**
-
-A. Main method
-
-B. Empirical statement
-
-C. Ideology
-
-D. Political science
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).** with **Political science**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Confusing the functions of political theory with functions of government.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Political philosophy**? Other options belong to different named entries.
+Which sequence most closely follows Gauba's account of scientific inquiry in politics?
 
-A. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
+- A. Prescription -> observation -> explanation -> generalisation -> verification.
+- B. Explanation -> evaluation -> observation -> reconstruction.
+- C. Observation -> generalisation -> explanation -> prediction and prescription.
+- D. Generalisation -> ideology -> prediction -> verification.
 
-B. Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).
+**Answer: C**
 
-C. Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18).
+**Option-by-option explanation**
+- **A:** A begins with prescription before any evidence, then appends verification to a rule that has not yet been formed, reversing the chapter's stated order.
+- **B:** B inserts evaluation and reconstruction into the scientific sequence.
+- **C:** C reproduces the stated order from observation to usable anticipation and advice.
+- **D:** D wrongly makes ideology a scientific stage.
 
-D. A statement based on observation through sense-experience alone (Gauba, PDF p.16).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Political philosophy** with **The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).**
-
-A. Typical question
-
-B. Political philosophy
-
-C. Logical statement
-
-D. Public vs private
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).** with **Political philosophy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Starting with policy prescription instead of grounding it in observation and explanation.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Ideology**? Other options belong to different named entries.
+Post-behaviouralism is best understood as:
 
-A. Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20).
+- A. a rejection of systematic observation in favour of a return to classical texts and the history of political ideas.
+- B. a claim that all evaluative judgments are scientifically verifiable.
+- C. a defence of political neutrality from every public crisis.
+- D. a demand for relevance and values while retaining scientific inquiry into facts.
 
-B. Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).
+**Answer: D**
 
-C. A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).
+**Option-by-option explanation**
+- **A:** A mistakes a correction of scientism for the very traditionalism Easton had attacked in 1953.
+- **B:** B collapses the distinction between empirical verification and normative reasoning.
+- **C:** C reverses the post-behavioural demand for engagement with urgent problems.
+- **D:** D captures Easton's 1969 move from pure to socially relevant applied inquiry.
 
-D. What happens, why, and with what regularities?
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Ideology** with **A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).**
-
-A. Key danger
-
-B. Evaluative statement
-
-C. Theory vs ideology
-
-D. Ideology
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).** with **Ideology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Equating the restoration of values with abandonment of scientific method.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Public vs private**? Other options belong to different named entries.
+Which statement correctly relates Easton's 1953 and 1969 positions?
 
-A. Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).
+- A. The 1953 critique prioritised causal theory; the 1969 turn restored values and relevance while retaining science.
+- B. Both positions rejected causal explanation and favoured traditional speculation as the proper method.
+- C. The 1953 position defended classical values and historical scholarship, while the 1969 position demanded strict methodological neutrality.
+- D. The 1969 position repeated the 1953 programme without restoring either values or public relevance.
 
-B. Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).
+**Answer: A**
 
-C. If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).
+**Option-by-option explanation**
+- **A:** A accurately separates The Political System (1953) from the 1969 American Political Science Association presidential address that converted political science from a pure to an applied science.
+- **B:** B contradicts Easton's early demand for causal theory.
+- **C:** C reverses both interventions: 1953 attacked classicism and 1969 abandoned strict neutrality.
+- **D:** D erases the value-and-relevance correction central to post-behaviouralism.
 
-D. If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Public vs private** with **Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).**
-
-A. Political
-
-B. Public vs private
-
-C. Political science
-
-D. Political science vs political philosophy
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).** with **Public vs private**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Merging Easton's two positions because the same thinker is involved.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Theory vs ideology**? Other options belong to different named entries.
+Which statement most accurately captures Alfred Cobban's 1953 decline thesis in 'The Decline of Political Theory'?
 
-A. The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).
+- A. He claimed that American liberal democracy had completed the search for the good society.
+- B. He diagnosed decline in both capitalist and communist systems but retained the need for criteria of judgment.
+- C. He argued that electoral statistics and survey data should replace every remaining form of normative political philosophy.
+- D. He identified revival with positivist social science and the exclusion of evaluative judgment.
 
-B. His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).
+**Answer: B**
 
-C. Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).
+**Option-by-option explanation**
+- **A:** A is Lipset's 1960 Political Man claim about the United States, not Cobban's cross-system diagnosis.
+- **B:** B states Cobban's two-sided position: libertarian democracy produced no theorist of democracy and communist rule rested on party oligarchy, yet political science must still evolve criteria of judgment.
+- **C:** C invents a statistical remedy; Cobban blamed logical positivism's facts-only focus and still asked for criteria of judgment.
+- **D:** D reverses him, since he treated positivist value-exclusion as a cause of decline, not a cure.
 
-D. The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Theory vs ideology** with **Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).**
-
-A. Political theory
-
-B. Political philosophy
-
-C. Explanation vs justification
-
-D. Theory vs ideology
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).** with **Theory vs ideology**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Swapping Cobban's cross-system diagnosis with Lipset's American good-society thesis.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Political science vs political philosophy**? Other options belong to different named entries.
+Seymour Martin Lipset's 'good society' claim should be treated as:
 
-A. Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20).
+- A. A universal proof that ideological conflict had ended wherever electoral democracy existed.
+- B. A defence of communist party organisation as the final and universally valid political form.
+- C. A bounded mid-century claim about United States liberal democracy, not a universal verdict.
+- D. A post-behavioural demand to restore values in direct response to an immediate political crisis.
 
-B. Facts of political life and actual behaviour (Gauba, PDF pp.17-18).
+**Answer: C**
 
-C. Systematic knowledge of political phenomena (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A turns a bounded argument into an indefensible universal law.
+- **B:** B has no relation to Lipset's stated position.
+- **C:** C preserves the historical and geographical qualification required by the source.
+- **D:** D describes Easton's later turn rather than Lipset's thesis.
 
-D. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Political science vs political philosophy** with **Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20).**
-
-A. Empirical statement
-
-B. Political science vs political philosophy
-
-C. Ideology
-
-D. Empirical/logical vs evaluative
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20).** with **Political science vs political philosophy**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Removing the United States and mid-century context from Lipset's claim.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Explanation vs justification**? Other options belong to different named entries.
+Leo Strauss's objection to positivist political science is most accurately expressed as:
 
-A. Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).
+- A. All empirical research is impossible because political facts are necessarily ideological.
+- B. Political philosophy should avoid judgments about justice, tyranny and the quality of regimes.
+- C. Scientific method belongs to economics and the natural sciences but has no valid political use.
+- D. Value-neutrality flattens normative distinctions and cannot adequately rank tyranny below justice.
 
-B. A statement based on observation through sense-experience alone (Gauba, PDF p.16).
+**Answer: D**
 
-C. Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19).
+**Option-by-option explanation**
+- **A:** A converts a critique of scientism into wholesale scepticism about facts.
+- **B:** B states the opposite of Strauss's recovery of normative judgment.
+- **C:** C invents a disciplinary boundary absent from the argument.
+- **D:** D captures the hierarchy-of-values objection.
 
-D. A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Explanation vs justification** with **Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19).**
-
-A. Logical statement
-
-B. Public vs private
-
-C. Behavioural vs post-behavioural
-
-D. Explanation vs justification
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19).** with **Explanation vs justification**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Reading Strauss as anti-evidence rather than anti-reductionist.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Empirical/logical vs evaluative**? Other options belong to different named entries.
+For Dante Germino, revival of political theory centrally required:
 
-A. Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20).
+- A. Reviving political philosophy as inquiry into right order, with detachment distinct from ethical neutrality.
+- B. Accepting inherited ideologies as valid expressions of social experience without testing their claims.
+- C. Restricting valid political inquiry to observable behaviour, measurement and sense-experience.
+- D. Closing debate over perennial political problems once a stable constitutional order is achieved.
 
-B. Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).
+**Answer: A**
 
-C. What happens, why, and with what regularities?
+**Option-by-option explanation**
+- **A:** A states Germino's conception of revival and critical engagement.
+- **B:** B confuses philosophy with untested ideology.
+- **C:** C describes the reductionism Germino opposes.
+- **D:** D reverses his insistence that perennial problems remain.
 
-D. A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Empirical/logical vs evaluative** with **Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20).**
-
-A. Evaluative statement
-
-B. Empirical/logical vs evaluative
-
-C. Theory vs ideology
-
-D. Sheldon S. Wolin
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20).** with **Empirical/logical vs evaluative**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Treating scholarly detachment as moral indifference.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Behavioural vs post-behavioural**? Other options belong to different named entries.
+Herbert Marcuse's warning about a natural-science style political inquiry is that it may:
 
-A. If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).
+- A. Make political concepts too precise for meaningful democratic disagreement and public debate.
+- B. Translate critique into measurable adjustment and thereby stabilise the existing political order.
+- C. Prevent every quantitative measurement of voting, participation and institutional performance.
+- D. Eliminate all legitimate administrative uses of evidence gathered by the social sciences.
 
-B. If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).
+**Answer: B**
 
-C. Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).
+**Option-by-option explanation**
+- **A:** A is not his objection; precision itself is not the problem.
+- **B:** B captures the risk that measurement becomes social control rather than critical inquiry.
+- **C:** C is false because his example assumes participation is being measured.
+- **D:** D is stronger than the argument and rejects legitimate empirical work.
 
-D. A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Behavioural vs post-behavioural** with **Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).**
-
-A. Political science
-
-B. Political science vs political philosophy
-
-C. George Catlin
-
-D. Behavioural vs post-behavioural
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).** with **Behavioural vs post-behavioural**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Mistaking a warning about reductionism for a ban on quantitative research.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Sheldon S. Wolin**? Other options belong to different named entries.
+Gauba narrows 'politics' from the comprehensive Greek polis, which covered every activity aimed at the good life, to the modern public sphere. Which application best respects the resulting public-private distinction?
 
-A. The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).
+- A. Every family choice is automatically political and should therefore be regulated by the state.
+- B. Only decisions formally enacted by Parliament can count as political decisions or processes.
+- C. A usually private relation may become political when power, rights or public regulation are involved.
+- D. Culture and education remain permanently outside political analysis, even when public order is involved.
 
-B. His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).
+**Answer: C**
 
-C. The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).
+**Option-by-option explanation**
+- **A:** A erases the analytical distinction and restores the undifferentiated polis Gauba says modern usage abandoned.
+- **B:** B narrows politics to one institution, excluding cabinet decisions, party activity and people's movements.
+- **C:** C matches Gauba's rule that faith, education, art and culture enter politics only when regulation is needed for public order and safety, while allowing a reasoned feminist qualification.
+- **D:** D ignores the explicit public-order and safety qualification attached to the modern narrowing.
 
-D. The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Sheldon S. Wolin** with **The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).**
-
-A. Political philosophy
-
-B. Sheldon S. Wolin
-
-C. Explanation vs justification
-
-D. Andrew Hacker
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).** with **Sheldon S. Wolin**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Treating public and private as fixed natural domains rather than an analytical boundary.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **George Catlin**? Other options belong to different named entries.
+Why does the strong claim that political theory 'should be value-free' face an internal difficulty?
 
-A. Facts of political life and actual behaviour (Gauba, PDF pp.17-18).
+- A. Every empirical political claim is necessarily false because observation is always incomplete.
+- B. Logical reasoning becomes possible only after a political ideology supplies its first premises.
+- C. Political philosophy can experimentally verify every contested value in the same manner as a fact.
+- D. Choosing to exclude evaluation is itself a normative decision about what should count as valid inquiry.
 
-B. Systematic knowledge of political phenomena (Gauba, PDF p.16).
+**Answer: D**
 
-C. Political theory is divided into political science and political philosophy; science studies control and facts, philosophy studies ends and values (Gauba, PDF p.17).
+**Option-by-option explanation**
+- **A:** A is an absurd overcorrection; empirical claims may be well supported.
+- **B:** B wrongly makes logic dependent on ideology.
+- **C:** C confuses reasoned justification with experimental verification.
+- **D:** D identifies the self-referential problem in the strong value-free thesis.
 
-D. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **George Catlin** with **Political theory is divided into political science and political philosophy; science studies control and facts, philosophy studies ends and values (Gauba, PDF p.17)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Political theory is divided into political science and political philosophy; science studies control and facts, philosophy studies ends and values (Gauba, PDF p.17).**
-
-A. Ideology
-
-B. Empirical/logical vs evaluative
-
-C. D.D. Raphael
-
-D. George Catlin
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Political theory is divided into political science and political philosophy; science studies control and facts, philosophy studies ends and values (Gauba, PDF p.17).** with **George Catlin**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Attacking value-neutrality by denying facts instead of exposing its hidden value premise.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Andrew Hacker**? Other options belong to different named entries.
+A welfare scheme shows high coverage but excludes a vulnerable group from consultation. Political theory would most appropriately:
 
-A. Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).
+- A. Combine the empirical result with questions about fairness, affected voice and legitimate justification.
+- B. Reject the coverage evidence because quantitative findings cannot contribute to political judgment.
+- C. Treat electoral approval as conclusive proof that every exclusion within the scheme is just.
+- D. Classify the allocation as private morality because public authority is not relevant to welfare delivery.
 
-B. Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18).
+**Answer: A**
 
-C. A statement based on observation through sense-experience alone (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A applies the facts-plus-values framework to a GS-II governance problem.
+- **B:** B discards useful empirical evidence and repeats the error of evidence-free normativity.
+- **C:** C confuses majority support with complete normative legitimacy.
+- **D:** D ignores the public allocation and authority involved.
 
-D. A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Andrew Hacker** with **Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).**
-
-A. Public vs private
-
-B. Andrew Hacker
-
-C. Behavioural vs post-behavioural
-
-D. David Held
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Every political scientist is part scientist and part philosopher; theory needs both factual understanding and a view of political goals (Gauba, PDF pp.17-18).** with **Andrew Hacker**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Believing that a favourable performance indicator settles the justice of a policy.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **D.D. Raphael**? Other options belong to different named entries.
+Which pair is correctly classified?
 
-A. What happens, why, and with what regularities?
+- A. 'The policy is fair' — empirical; 'turnout rose' — evaluative.
+- B. One claim observes a turnout change; the other judges whether the reform is just.
+- C. 'The conclusion follows from the premises' — empirical; 'inflation rose' — logical.
+- D. 'Justice requires equality' — empirical; 'two claims are inconsistent' — evaluative.
 
-B. A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).
+**Answer: B**
 
-C. Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).
+**Option-by-option explanation**
+- **A:** A reverses observation and value judgment.
+- **B:** B correctly distinguishes an observable claim from a judgment about justice.
+- **C:** C confuses logical validity with observed economic change.
+- **D:** D treats a normative proposition as observation and a logical relation as evaluation.
 
-D. Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **D.D. Raphael** with **Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).**
-
-A. Theory vs ideology
-
-B. Sheldon S. Wolin
-
-C. David Easton
-
-D. D.D. Raphael
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Political philosophy should be recognized by its critical and justificatory function, plus concept-clarification (Gauba, PDF pp.19-20).** with **D.D. Raphael**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Classifying a sentence by political importance rather than by the kind of claim it makes.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **David Held**? Other options belong to different named entries.
+The question 'What is a good society?' belongs primarily to political philosophy because it asks:
 
-A. If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).
+- A. how frequently citizens participate in elections.
+- B. which measurable variables correlate most strongly with observed political violence.
+- C. which ends and principles can be justified for collective life.
+- D. how accurately a survey predicts voting behaviour.
 
-B. If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).
+**Answer: C**
 
-C. A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A is an empirical measurement question.
+- **B:** B is a causal-explanatory question that political science answers by correlation, not justification.
+- **C:** C correctly identifies the justificatory inquiry into political ends.
+- **D:** D concerns empirical prediction and research design.
 
-D. Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **David Held** with **If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).**
-
-A. Political science vs political philosophy
-
-B. David Held
-
-C. George Catlin
-
-D. Basic concern
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **If political theory is not systematically pursued, politics may be left to ignorance, self-interest or mere will to power (Gauba, PDF p.23).** with **David Held**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Choosing any question about society rather than identifying the evaluative demand.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **David Easton**? Other options belong to different named entries.
+Concept clarification contributes to political theory chiefly by:
 
-A. The political concerns what is public or common to the whole community, especially authoritative rule, collective decision and regulation (Gauba, PDF pp.15-16).
+- A. fixing one ideological definition permanently so rival schools can no longer dispute the concept.
+- B. separating political language completely from every ordinary-language use of the same expression.
+- C. replacing argument about contested concepts with the shortest available dictionary definition.
+- D. analysing the elements of a concept, synthesising its relations and improving its use.
 
-B. The component of theory concerned with facts, observation, explanation and generalized propositions about political behaviour (Gauba, PDF pp.17-18).
+**Answer: D**
 
-C. His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).
+**Option-by-option explanation**
+- **A:** A turns clarification into ideological closure, which is the opposite of a dialogue between rival users.
+- **B:** B ignores Wolin's observation that 'authority of the father', 'of the church' and 'of Parliament' run in parallel, which is exactly why technical meaning must be fixed rather than severed.
+- **C:** C reduces philosophical work to lexical reporting and leaves demagogues free to exploit vague terms.
+- **D:** D captures Raphael's three purposes: analysis (sovereignty as supreme legal authority), synthesis (a right implies an obligation) and improvement (restricting sovereignty to legal authority).
 
-D. Science asks what the real situation is and which regularities govern behaviour; philosophy asks what is good, right or justified in political life (Gauba, PDF pp.17-20).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **David Easton** with **His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).**
-
-A. Explanation vs justification
-
-B. Andrew Hacker
-
-C. Main method
-
-D. David Easton
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **His 1953 behavioural critique and 1969 post-behavioural correction are reconstructed in full in §12 below; even at the founding-definition stage he matters because post-behaviouralism reopens the value-question rather than abolishing science (Gauba, PDF pp.24-25).** with **David Easton**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Assuming clarification eliminates disagreement instead of making its grounds visible.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Basic concern**? Other options belong to different named entries.
+Which statement best connects description, criticism and reconstruction?
 
-A. Facts of political life and actual behaviour (Gauba, PDF pp.17-18).
+- A. Theory describes political reality, criticises defects and reconstructs defensible alternatives.
+- B. Description alone determines which political order is just and therefore makes criticism unnecessary.
+- C. Criticism becomes valid only after a proposed reconstruction has already been implemented successfully.
+- D. Reconstruction should proceed without understanding existing institutions, behaviour or consequences.
 
-B. Systematic knowledge of political phenomena (Gauba, PDF p.16).
+**Answer: A**
 
-C. The component of theory concerned with justification, criticism, concept-clarification and the ends of political life (Gauba, PDF pp.17-20).
+**Option-by-option explanation**
+- **A:** A states the complementary three-function sequence.
+- **B:** B makes an evaluative conclusion follow mechanically from facts.
+- **C:** C reverses the logical order of assessment and proposed change.
+- **D:** D makes reform indifferent to actual conditions.
 
-D. Raphael's distinction, endorsed by Gauba, is that science seeks explanation whereas philosophy seeks justification (Gauba, PDF p.19).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Basic concern** with **Facts of political life and actual behaviour (Gauba, PDF pp.17-18)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Facts of political life and actual behaviour (Gauba, PDF pp.17-18).**
-
-A. Empirical/logical vs evaluative
-
-B. Basic concern
-
-C. D.D. Raphael
-
-D. Typical question
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Facts of political life and actual behaviour (Gauba, PDF pp.17-18).** with **Basic concern**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Treating the three functions as rival schools rather than connected tasks.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Main method**? Other options belong to different named entries.
+Which case most clearly illustrates ideology rather than political theory?
 
-A. A statement based on observation through sense-experience alone (Gauba, PDF p.16).
+- A. A researcher revises a political claim after serious evidence contradicts its original assumptions.
+- B. A movement treats its preferred power distribution as unquestionable and uses concepts to legitimise it.
+- C. A philosopher compares rival meanings of liberty and explains the implications of each meaning.
+- D. A scholar distinguishes causal explanation from normative justification within a public-policy dispute.
 
-B. A set of ideas used to defend an existing or proposed distribution of power, accepted by adherents without testing validity (Gauba, PDF p.20).
+**Answer: B**
 
-C. Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18).
+**Option-by-option explanation**
+- **A:** A displays revisability characteristic of inquiry.
+- **B:** B shows interested justification protected from validity-testing.
+- **C:** C is concept clarification within political philosophy.
+- **D:** D is analytical distinction-making, not ideological closure.
 
-D. Empirical and logical claims are presented as verifiable; evaluative claims concern value-judgment, but Gauba still treats them as rationally discussable rather than mere emotion (Gauba, PDF pp.16-17, 20).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Main method** with **Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18).**
-
-A. Behavioural vs post-behavioural
-
-B. David Held
-
-C. Key danger
-
-D. Main method
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Observation, generalization, explanation, prediction and prescription (Gauba, PDF p.18).** with **Main method**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Calling every politically committed argument ideological even when it remains open to criticism.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Typical question**? Other options belong to different named entries.
+Which thinker-position pair is incorrectly matched?
 
-A. What happens, why, and with what regularities?
+- A. Wolin — the political concerns what is common to the community.
+- B. Catlin — political theory includes political science and political philosophy.
+- C. Held — political science should suspend values permanently.
+- D. Hacker — factual knowledge and political goals must be related.
 
-B. A statement based on reasoning, such as formal or inferential relations (Gauba, PDF p.16).
+**Answer: C**
 
-C. Politics concerns the public sphere; not every social or cultural activity is political unless regulation for public order or safety becomes necessary (Gauba, PDF p.16).
+**Option-by-option explanation**
+- **A:** A is a correct source-grounded pairing.
+- **B:** B is a correct formulation of Catlin's division.
+- **C:** C is incorrect: Held warns against abandoning systematic theory to ignorance or will to power.
+- **D:** D accurately states Hacker's double-role thesis.
 
-D. Behaviouralism privileges scientific study of actual behaviour; post-behaviouralism restores concern for values without discarding scientific work on facts (Gauba, PDF pp.18-19, 23).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Typical question** with **What happens, why, and with what regularities?**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **What happens, why, and with what regularities?**
-
-A. Sheldon S. Wolin
-
-B. Typical question
-
-C. David Easton
-
-D. Political
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **What happens, why, and with what regularities?** with **Typical question**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Attaching Easton's early behavioural prescription to Held.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Key danger**? Other options belong to different named entries.
+Arrange the following contributions to the decline-and-revival debate in correct chronological order: 1. Alfred Cobban, 'The Decline of Political Theory'. 2. Seymour Martin Lipset, Political Man: The Social Bases of Politics. 3. Dante Germino, Beyond Ideology: The Revival of Political Theory. 4. David Easton's post-behavioural presidential address.
 
-A. A statement based on value-judgment about what is right, good or desirable (Gauba, PDF p.16).
+- A. 2-1-4-3
+- B. 1-3-2-4
+- C. 3-1-2-4
+- D. 1-2-3-4
 
-B. Theory is dispassionate and disinterested; ideology is interested and justificatory toward a particular distribution of power (Gauba, PDF p.20).
+**Answer: D**
 
-C. If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).
+**Option-by-option explanation**
+- **A:** A puts Lipset's 1960 book before Cobban's 1953 paper and Germino's 1967 book after 1969.
+- **B:** B places Germino's 1967 revival argument before Lipset's 1960 good-society claim.
+- **C:** C opens with Germino's 1967 book, fourteen years after Cobban's 1953 paper.
+- **D:** D is correct: Cobban 1953, Lipset 1960, Germino 1967 and Easton's 1969 address.
 
-D. The political is uniquely concerned with what is common to the whole community (Gauba, PDF p.15).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Key danger** with **If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Recalling the thinkers but not the publication years that fix the sequence of the debate.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).**
+Which is the most accurate statement about the scope of Political Theory in this repository?
 
-A. George Catlin
+- A. It supplies GS/Prelims concepts; direct constitutional and institutional facts remain with their GS owners.
+- B. It replaces detailed Polity preparation because conceptual language is sufficient for constitutional questions.
+- C. It owns questions from every UPSC paper whenever the same concepts or thinkers appear in the stem.
+- D. It converts questions owned by another UPSC paper into Political Theory questions for practice.
 
-B. Basic concern
+**Answer: A**
 
-C. Political theory
+**Option-by-option explanation**
+- **A:** A states the required GS-only ownership boundary.
+- **B:** B confuses conceptual foundations with direct constitutional coverage.
+- **C:** C wrongly turns conceptual overlap into ownership of every UPSC paper.
+- **D:** D violates verified PYQ ownership and classification.
 
-D. Key danger
+> **Examiner trap:** Mistaking conceptual usefulness across papers for ownership of those papers.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **If isolated, it may become value-blind or selectively descriptive (Gauba, PDF pp.20, 23).** with **Key danger**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+A learner says, 'Political theory is just ideology because both defend values.' What is the best repair?
+
+- A. Correct, because every evaluative claim is ideological whenever it concerns public values or power.
+- B. Incorrect: theory tests value claims through reasons and revision; ideology protects an interested power position.
+- C. Correct, provided the ideology supports democratic procedures, uses constitutional vocabulary and commands settled majority assent.
+- D. Incorrect only because ideology is empirical, whereas political theory is exclusively evaluative.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A collapses reasoned evaluation into partisan justification.
+- **B:** B states the analytical distinction while allowing that theory can itself become ideological.
+- **C:** C makes democratic content and popular support substitutes for critical testing, which is exactly the closure Gauba identifies as ideological.
+- **D:** D misclassifies ideology as merely empirical.
+
+> **Examiner trap:** Using the presence of values, rather than openness to criticism, as the deciding test.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+A learner says, 'Post-behaviouralism restored values, so it rejected scientific standards.' Which correction is strongest?
+
+- A. It rejected prediction alone but retained every other feature of strict behavioural value-neutrality.
+- B. It returned political theory exclusively to classical ideal-state construction and textual commentary.
+- C. It restored values and relevance while retaining scientific investigation of political facts.
+- D. It treated all disputed political values as experimentally proven by the methods of natural science.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A invents a selective rejection not stated in the source.
+- **B:** B reduces political philosophy to ideal blueprints.
+- **C:** C gives the exact correction required by Easton's 1969 turn.
+- **D:** D confuses normative reasoning with empirical verification.
+
+> **Examiner trap:** Reading 'post-' as total abandonment rather than critical revision.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+A learner writes, 'Political theory died in the 1950s and returned in the 1970s.' Which replacement is most defensible?
+
+- A. The decline was mainly a temporary shortage of publications by major political philosophers.
+- B. Political science disappeared as an academic discipline until John Rawls single-handedly recreated it through a theory of justice.
+- C. Capitalist and communist states legally prohibited every form of systematic political reflection.
+- D. A traditional mode lost authority; behavioural and normative corrections transformed rather than resurrected theory.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A trivialises a methodological and normative debate.
+- **B:** B fabricates a disappearance and gives Rawls a founding role the chapter never assigns him.
+- **C:** C overstates Cobban's diagnosis into a universal legal claim.
+- **D:** D preserves chronology, competing diagnoses and the mode-versus-enterprise distinction.
+
+> **Examiner trap:** Turning a contested intellectual shift into a literal disappearance-and-return event.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which GS answer move best demonstrates claim -> named evidence -> analysis -> qualification?
+
+- A. Political theory integrates explanation and justification; Raphael's distinction shows why policy data cannot alone settle legitimacy.
+- B. Political theory combines facts and values, so empirical and normative claims need no separate standards.
+- C. Raphael discussed philosophy and Easton discussed science, so citing both names in the introduction is by itself enough to prove the argument.
+- D. Political theory is important because major thinkers support it, which is sufficient evidence of usefulness.
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A contains the claim, named evidence, inference and limiting qualification.
+- **B:** B states a claim but supplies neither named evidence nor qualification.
+- **C:** C name-drops two thinkers without stating what their propositions establish or where they stop.
+- **D:** D offers assertion and vague authority without analytical linkage.
+
+> **Examiner trap:** Mistaking a list of thinkers for evidence-linked analysis.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which statement best captures the final means-ends synthesis?
+
+- A. Political philosophy selects efficient means, while political science defines the ultimate ends of politics.
+- B. Science clarifies political facts and means; political philosophy judges values and collective ends.
+- C. Science and philosophy use identical methods and should therefore be merged into one undifferentiated inquiry.
+- D. Political ends are private preferences and should remain outside public reasoning and justification.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A reverses the chapter's division of labour.
+- **B:** B states Gauba's concluding complementarity formula.
+- **C:** C ignores their distinct standards and methods.
+- **D:** D reproduces the value-exclusion position the chapter rejects.
+
+> **Examiner trap:** Remembering complementarity but reversing which branch handles means and ends.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+In a Prelims-style close-option question, which proposition should be eliminated first?
+
+- A. Evaluative claims require public reasons rather than sense-observation alone.
+- B. Political philosophy includes criticism and concept clarification.
+- C. Political Theory owns a separate UPSC paper in this repository.
+- D. Behaviouralism strengthened attention to actual political behaviour.
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A is consistent with the chapter's defence of evaluative reasoning.
+- **B:** B is Raphael's expanded account of philosophy.
+- **C:** C violates the repository's explicit GS/Prelims classification.
+- **D:** D identifies behaviouralism's genuine contribution.
+
+> **Examiner trap:** Allowing the philosophical character of some concepts to become a separate-paper ownership claim.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which conclusion is best suited to a GS-II answer using Political Theory?
+
+- A. The conceptual lens should replace constitutional provisions, institutional evidence and implementation facts.
+- B. Normative theory is sufficient even when its assumptions conflict with verified evidence and consequences.
+- C. Empirical success proves democratic legitimacy without any further argument about rights or public reason.
+- D. A sound GS judgment joins verified consequences with public reasons about rights, fairness and legitimacy.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A breaches the ownership boundary and weakens the answer.
+- **B:** B permits evidence-free prescription.
+- **C:** C treats an empirical indicator as a complete normative verdict.
+- **D:** D applies the integrated framework while preserving direct-owner evidence.
+
+> **Examiner trap:** Using conceptual enrichment as a substitute for the factual core of a GS answer.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ STATUS
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No directly owned verified UPSC PYQ is assigned to this Political Theory topic. Political Theory is a conceptual-support repository, and the source mapping expressly prohibits proxy, alias or synthetic PYQ routing. The questions below are therefore labelled as original practice, not PYQs.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for Topic 01 in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are therefore not imported as target PYQs. The six questions below are clearly labelled original GS Mains practice.
 
----
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 1 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Explain why political theory cannot be reduced either to empirical political science or to normative political philosophy. Answer in 150 words.
 
-**Question:** Explain why political theory cannot be reduced either to empirical political science or to normative political philosophy. Answer in about 150 words.
+**Demand decode:** 'Explain' asks for a reasoned account rather than a debate. Set out the two reductions separately, defeat each with a named proposition, and close on the integration that survives both objections. Listing thinkers without refuting both reductions under-answers the directive.
 
+**Model answer (136 words):**
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Political theory is systematic knowledge of political phenomena. It cannot be reduced to political science because public choices also require judgments about justice and legitimate ends; nor can it be reduced to philosophy because prescriptions must understand institutions, behaviour and consequences. D. D. Raphael clarifies the division: science seeks explanation, while philosophy seeks justification. Thus, observation may explain why riots occur, but it cannot by itself decide which restrictions are fair. Conversely, a moral ideal unsupported by facts may be infeasible or harmful. Andrew Hacker's claim that every political scientist is partly scientist and partly philosopher captures this interdependence. The synthesis does not erase standards: empirical claims remain answerable to evidence, while evaluative claims require coherent public reasons. Political theory is therefore a disciplined bridge—science clarifies facts and means; philosophy clarifies concepts and judges ends.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Political theory is systematic knowledge of political phenomena. Because political life contains empirical, logical and evaluative claims, the discipline cannot be confined to only one kind of inquiry.
-
-**Core analysis:** Political science contributes observation, comparison, causal explanation and tested generalisation. Political philosophy contributes concept-clarification, criticism and justification of ends. Raphael's distinction is useful: science primarily explains, while philosophy asks whether institutions and purposes are justified. Political theory joins these tasks because evidence cannot itself decide which ends deserve pursuit, while normative judgment without knowledge of institutions and consequences becomes abstract.
-
-**Critical evaluation:** The synthesis does not erase methodological differences. Empirical claims remain answerable to evidence and evaluative claims require reasons. The point is complementarity, not an undifferentiated mixture.
-
-**Conclusion:** Political theory is therefore strongest as a disciplined synthesis: political science explains facts and means, while political philosophy clarifies and justifies values and ends.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain why political theory cannot be reduced either to empirical political science or to normative political philosophy.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** It refuses both reductions in turn, anchors each refusal in a named proposition from Raphael and Hacker, and closes on the means-and-ends formula instead of a general tribute to the subject.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** Distinguish political theory from ideology and show why the distinction matters. Answer in about 150 words.
+**Question:** Distinguish political theory from ideology and explain why the distinction matters. Answer in 150 words.
 
+**Demand decode:** Two directives are joined. 'Distinguish' requires one decisive criterion rather than a list of differences, and 'explain why it matters' requires a stated consequence. The criterion is standpoint and openness to testing; the consequence is that identical vocabulary can illuminate or conceal power.
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (143 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Political theory and ideology both use concepts such as liberty, equality and order, but they differ in intellectual posture. In Gauba's account, theory submits claims to evidence, logic, criticism and revision; ideology defends or challenges a distribution of power from an interested standpoint and often treats its premises as settled. The distinction matters because identical vocabulary can either illuminate politics or conceal domination. For example, a theory of property must test its effects and justificatory principles, whereas an ideology may present one property regime as self-evidently just. Yet the contrast is not absolute: theorists have social locations and theory can become ideological when it hides assumptions or ignores counter-evidence. The practical safeguard is transparent premises, reasoned dialogue and revisability. Thus, political theory is not value-free, but it remains different from ideology because it treats even its own values as open to critical justification.
 
-**Introduction:** Political theory and ideology both organise political ideas, but they differ in their relation to criticism and power.
-
-**Core analysis:** Political theory examines concepts and claims through evidence, logic and normative argument. Ideology, in Gauba's account, is an interested body of ideas that justifies or seeks a particular distribution of power and is commonly accepted by adherents without equivalent testing. Theory therefore asks whether a claim is valid; ideology chiefly mobilises, legitimates and directs action. The distinction matters because the same language of liberty, equality or order may either open inquiry or close it around a prior commitment.
-
-**Critical evaluation:** No thinker is wholly detached from social location, so the contrast is an analytical ideal rather than a claim that theory is socially innocent. Its value lies in preserving the duty of self-criticism.
-
-**Conclusion:** The distinction matters because political judgment becomes answer-worthy only when inherited commitments are exposed to criticism rather than protected as unquestionable ideology.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish political theory from ideology and show why the distinction matters.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** It supplies a single decisive criterion, illustrates it with rival property regimes, and then concedes that theory itself can become ideological - the qualification that turns a definition into an argument.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** Examine the claim that the decline of political theory was the decline of one mode of inquiry rather than the disappearance of theory. Answer in about 200 words.
+**Question:** How do concept clarification and reasoned disagreement explain the significance of political theory? Answer in 150 words.
 
+**Demand decode:** 'How' demands a mechanism, not an assertion of importance. Show the three clarification operations, then show precisely what clarification achieves and what it cannot achieve. Significance must be derived from the mechanism rather than announced.
 
-**Demand decoding:** The operative directive is **Examine**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (137 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Political concepts are powerful precisely because they are general and contested. Gauba, drawing on D. D. Raphael, treats clarification as analysis of a concept's elements, synthesis of its relations and improvement of its use. This matters because words such as liberty, authority, equality and democracy can otherwise become slogans through which demagogues conceal weak arguments. Clarification does not compel agreement; it reveals what the disagreement is about. Andrew Hacker's image of political theory as a continuing conversation adds the democratic function: rival positions expose their premises, recognise strengths and weaknesses and remain open to persuasion. The limitation is that shared definitions do not remove conflicts of interest or values. Nevertheless, precise concepts make those conflicts more honest and peaceful. Political theory therefore contributes not only knowledge but also a public ethic of reason-giving, mutual respect and toleration.
 
-**Introduction:** The mid-twentieth-century decline thesis concerned the weakening of traditional normative and historical political theory, not the disappearance of all systematic reflection on politics.
-
-**Core analysis:** Behaviouralism criticised speculative reasoning, weak causal explanation and excessive dependence on the history of ideas. Easton's 1953 intervention demanded a more scientific discipline, while Lipset suggested that liberal democracy had resolved the major ideological questions of the good society. Yet these positions still contained theoretical assumptions about relevance, explanation and political value. The later revival, represented by Strauss, Germino and Marcuse, restored the need to judge tyranny, justice and domination. Easton's post-behavioural correction also reintroduced relevance and values without abandoning empirical work.
-
-**Further development:** The rival decline claims must also be separated. Cobban lamented the loss of criteria for judgment, Lipset treated liberal democracy as the achieved good society, and early Easton criticised speculative method. They diagnose different problems. The revival was therefore not one event but the recovery of normative judgment, perennial questions and critical social theory.
-
-**Critical evaluation:** The decline thesis is therefore credible only as a change in disciplinary style. Political inquiry could not avoid concepts, ends and judgments, even when it described itself as value-free.
-
-**Conclusion:** The defensible verdict is that mid-century behaviouralism displaced a traditional mode of theory, but the unavoidable need to judge ends ensured theory's revival in a revised form.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Examine the claim that the decline of political theory was the decline of one mode of inquiry rather than the disappearance of theory.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** It moves from Raphael's analysis-synthesis-improvement to the democratic function Hacker describes, and it states the limit: clarification makes disagreement precise without dissolving conflicts of interest.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Discuss the contribution of the behavioural and post-behavioural movements to the development of political theory. Answer in about 200 words.
+**Question:** Examine the claim that the decline of political theory was the decline of one mode of inquiry rather than the disappearance of theory. Answer in 250 words.
 
+**Demand decode:** 'Examine' requires testing a stated proposition. Separate the three decline claims, weigh the revival evidence against them, and deliver a verdict that accepts, rejects or reformulates the claim. Narrating the debate without adjudicating it under-answers the directive.
 
-**Demand decoding:** The operative directive is **Discuss**: cover the principal dimensions, connect named evidence to each claim, include the strongest counter-position and conclude directly. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (232 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+The mid-twentieth-century decline thesis is persuasive only if 'decline' refers to a traditional mode of political theorising, not to the disappearance of systematic reflection on politics. David Easton's 1953 critique targeted speculation, dependence on classic texts and weak causal tools; his behavioural remedy prioritised observable conduct and explanatory theory. Alfred Cobban diagnosed marginalisation under both capitalist and communist systems, yet still insisted that politics required criteria of judgment beyond narrow social-science method. Seymour Martin Lipset made a different, contextual claim: United States liberal democracy had approximated the good society, apparently narrowing the normative search. These arguments weakened classical, historical and openly evaluative theory, but they did not remove theoretical assumptions about relevance, evidence or desirable order. The strongest counter-evidence came from the revival. Strauss argued that value-neutral inquiry could not rank tyranny below justice. Germino recovered political philosophy as critical inquiry into right order, while Marcuse warned that measurement could normalise domination. Most decisively, Easton's 1969 post-behavioural turn restored relevance and values without abandoning scientific inquiry. The decline thesis therefore identifies a real methodological correction: theory had to become more empirical and contemporary. It fails, however, as a death certificate. Political inquiry continued to interpret concepts and choose ends even when it claimed neutrality. The better verdict is transformation: an insufficiently empirical mode declined, a facts-only remedy proved incomplete, and political theory revived as a more self-conscious integration of explanation and justification.
 
-**Introduction:** Behaviouralism and post-behaviouralism changed political theory by successively demanding scientific rigour and socially relevant judgment.
-
-**Core analysis:** Behaviouralism shifted attention from formal institutions and textual commentary to observable political behaviour, comparison, generalisation and causal explanation. It exposed vague speculation and strengthened the empirical component of theory. Its limitation was the tendency to equate valid knowledge with value-neutral fact, leaving no adequate basis for choosing political ends. Post-behaviouralism responded by insisting that relevance, values and urgent public problems must guide inquiry, while retaining the empirical achievements of behavioural research.
-
-**Further development:** The transition also changed the researcher's role. Behavioural detachment protected inquiry from partisan assertion, but Germino's distinction between detachment and ethical neutrality showed why method could not settle purpose. Post-behaviouralism retained verification and comparison while asking whether research addressed domination, injustice and urgent public problems.
-
-**Critical evaluation:** Post-behaviouralism is not a return to unsupported moralism. Its contribution is a division of labour in which science clarifies facts and means, while normative reasoning evaluates purposes and consequences.
-
-**Conclusion:** Behaviouralism strengthened empirical discipline, while post-behaviouralism restored relevance and values; their durable contribution lies in combining methodological rigour with public purpose.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Discuss the contribution of the behavioural and post-behavioural movements to the development of political theory.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** It separates Easton, Cobban and Lipset instead of merging them, uses Easton's own 1969 reversal as decisive internal counter-evidence, and reformulates the claim as transformation rather than death.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Critically analyse the nature, functions and continuing significance of political theory. Answer in about 250 words.
+**Question:** Discuss the contribution of behaviouralism and post-behaviouralism to the development of political theory. Answer in 250 words.
 
+**Demand decode:** 'Discuss' requires balanced coverage of both movements plus a linking judgment. Each movement needs a stated contribution and a stated limit; treating post-behaviouralism only as a rejection of behaviouralism misses the continuity being tested.
 
-**Demand decoding:** The operative directive is **Critically analyse**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (219 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Behaviouralism and post-behaviouralism contributed successive corrections to political theory. Behaviouralism redirected inquiry from formal institutions and inherited texts towards actual political behaviour. In Gauba's reconstruction, Easton's 1953 programme demanded observation, comparison, causal theory and closer engagement with other social sciences. Its durable contribution was methodological discipline: political claims had to be tested against evidence rather than protected by tradition. Its limitation followed from its strongest ambition. By suspending the quest for values, behaviouralism could explain conduct and consequences but could not decide which political ends deserved pursuit. Strauss's objection exposes the problem: a method that refuses qualitative judgment cannot adequately distinguish tyranny from justice. Marcuse adds that measurement may become administrative adjustment and stabilise the status quo. Post-behaviouralism, associated with Easton's 1969 turn, answered this failure by demanding relevance, action and responsiveness to social crisis while retaining scientific investigation of facts. Germino's distinction between scholarly detachment and ethical neutrality explains the new balance: inquiry need not become partisan merely because it acknowledges normative responsibility. The post-behavioural contribution is therefore not a return to unsupported moralism. It preserves behaviouralism's empirical gains and reconnects them with criticism, public purpose and justified ends. Together, the two movements transformed political theory from either textual speculation or narrow scientism into a plural discipline in which evidence constrains claims and normative argument evaluates their significance.
 
-**Introduction:** Political theory is the systematic, critical and evaluative study of political life, combining explanation of institutions with judgment about their purposes.
-
-**Core analysis:** Its descriptive function identifies political structures and behaviour; its explanatory function relates causes and consequences; its critical function tests prevailing distributions of power; its reconstructive function develops better institutional possibilities; and its clarificatory function distinguishes concepts such as liberty, authority and justice. Political theory also disciplines disagreement by requiring reasons and encouraging toleration. David Held's warning is relevant: without theory, political action is easily surrendered to ignorance, self-interest or will to power.
-
-**Further development:** Wolin identifies politics with concerns common to the community; Catlin divides inquiry into science and philosophy; Hacker treats every political scientist as partly both; and Raphael distinguishes explanation from justification. These positions show why the discipline must connect public power, causal knowledge and defensible ends. Strauss further demonstrates that a value-neutral vocabulary cannot rank tyranny below justice, while Marcuse warns that measurement can normalise domination. The strongest objection is ideological capture: theory may universalise a partisan order. Its reply is not withdrawal from judgment but transparent premises, counter-argument and revisability.
-
-**Critical evaluation:** Theory can become ideological when it hides its assumptions, and it can become empty when detached from evidence. Its continuing significance therefore depends on explicit premises, empirical responsiveness and openness to revision.
-
-**Conclusion:** Political theory remains indispensable because description without criticism legitimates the status quo, while prescription without evidence becomes abstraction.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically analyse the nature, functions and continuing significance of political theory.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** It credits behaviouralism with methodological discipline before naming its value-blindness, uses Strauss and Marcuse as the objections, and shows post-behaviouralism preserving the empirical gain.
 
 ---
 
-#### Original Mains Practice 6 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Evaluate the decline-and-revival debate with reference to Easton, Strauss, Germino and Marcuse. Answer in about 250 words.
+**Question:** Critically analyse the continuing significance of political theory for General Studies governance answers. Answer in 250 words.
 
+**Demand decode:** 'Critically analyse' requires the case for, the strongest case against, and a reasoned position. The counter-case is abstraction and ideological drift, and the answer must also respect the ownership boundary with Polity and Governance.
 
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (206 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Political theory strengthens General Studies answers by supplying the concepts and standards through which governance facts become political analysis. Its first contribution is clarification. Raphael's explanation-justification distinction prevents a candidate from treating administrative performance as proof of legitimacy. Coverage, speed or compliance are empirical achievements; fairness, dignity and voice require additional reasons. Second, theory exposes hidden power. Wolin's common-sphere idea identifies authoritative collective decisions, while feminist criticism qualifies any rigid public-private boundary by showing that informal domination may have public consequences. Third, theory enables criticism and reconstruction. Held's warning against leaving politics to ignorance, self-interest or will to power explains why institutions must be assessed against defensible ends, not described mechanically. The strongest objection is that theoretical language can become abstract or ideological. That risk is real when concepts replace constitutional provisions, current evidence or implementation detail. The answer is disciplined use, not exclusion: make a claim, attach a named proposition or verified Indian example, explain what it proves, and state the limit. Political Theory in this repository therefore remains a GS/Prelims foundation, primarily for GS-II; it does not own questions from other UPSC papers or substitute for Polity and Governance facts. Properly used, it converts data into judgment while keeping judgment accountable to evidence.
 
-**Introduction:** The decline-and-revival debate concerns whether scientific political inquiry can dispense with normative judgment.
+**Why this earns marks:** It gives three distinct contributions with named anchors, states the abstraction objection at full strength, and resolves it with a rule of disciplined use plus an explicit ownership boundary.
 
-**Core analysis:** Easton's 1953 critique attacked traditional theory for speculation and weak causal tools. Strauss replied that positivist science cannot explain why tyranny is inferior to justice if it refuses to rank values. Germino distinguished intellectual detachment from ethical neutrality and treated revival as recovery of enduring philosophical questions. Marcuse added a critical argument: apparently neutral social science may normalise existing domination by reducing political problems to measurable adjustment. Easton's later post-behavioural position acknowledged the need for relevance and values while retaining scientific method.
-
-**Further development:** A full evaluation must also recognise the different standards at stake. Easton seeks methodological reconstruction; Strauss restores the rational ranking of regimes; Germino recovers enduring philosophical problems; and Marcuse treats criticism of domination as inseparable from knowledge. The revival succeeds only if these normative claims remain answerable to evidence. Otherwise, opposition to positivism can lapse into another form of untested doctrine. The post-behavioural synthesis is therefore a settlement, not a victory of philosophy over science. It preserves methodological pluralism within one discipline.
-
-**Critical evaluation:** Strauss and Marcuse should not be collapsed: the former restores classical normative judgment, while the latter exposes social control and ideological conformity. Together they show why empirical sophistication alone is insufficient.
-
-**Conclusion:** Taken together, these thinkers show that political theory survives by retaining scientific discipline while recovering the normative and critical capacity to judge political order.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate the decline-and-revival debate with reference to Easton, Strauss, Germino and Marcuse.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+---

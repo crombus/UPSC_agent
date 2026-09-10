@@ -1,237 +1,369 @@
-ASCII MASTER FLOW — PANEL 1/12: External Sovereignty and the Central Problem
-CENTRAL FOCUS
-External Sovereignty and the Central Problem
-  [1] External sovereignty means legal independence from outside command.
-        |
-        v
-  [2] Imperialism, dependency, bloc pressure and interdependence can narrow effective
-      autonomy.
-        |
-        v
-  [3] The controlling verdict is transformation and constraint, not automatic abolition.
-        |
-        v
-  [4] Juridical equality must therefore be distinguished from unequal material capacity.
-        |
-        v
-VERDICT -> Legal sovereignty persists while effective autonomy varies.
-ANSWER USE -> Begin by separating juridical status from material capacity.
+ASCII MASTER FLOW — PANEL 1/16: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Globalisation and Challenges to Sovereignty.                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/12_Globalisation-and-Challenges-to-Sovereignty.md for the  |
+| full three-part reconstruction and critiques                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Definitions and the Chapter Sequence
-CENTRAL FOCUS
-Definitions and the Chapter Sequence
-  [1] Imperialism is broad metropolitan domination; colonialism is its settlement-and-rule
-      form.
-        |
-        v
-  [2] Neo-colonialism combines formal independence with continuing material dependency.
-        |
-        v
-  [3] Power blocs constrain strategic choice through security and ideological pressure.
-        |
-        v
-  [4] Globalisation is both worldwide interdependence and a policy linked to
-      liberalisation.
-        |
-        v
-VERDICT -> The chapter moves from direct domination to denser interdependence.
-ANSWER USE -> Define each stage before comparing its constraint mechanism.
+ASCII MASTER FLOW — PANEL 2/16: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1889-1974 -> Walter Lippman                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1898-1990 -> Alfred Sauvy                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1909-72 -> Kwame Nkrumah                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1916 -> The Highest Stage of Capitalism                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1917 -> Russian Revolution                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Core Distinctions and Thinkers
-CENTRAL FOCUS
-Core Distinctions and Thinkers
-  [1] Said distinguishes imperialism from colonialism; Hobson and Lenin explain expansion
-      differently.
-        |
-        v
-  [2] Nkrumah popularised and systematised neo-colonialism rather than originating the
-      term.
-        |
-        v
-  [3] Gauba balances globalisation's communicative opportunities against domination and
-      inequality.
-        |
-        v
-  [4] Formal independence can survive while effective autonomy is materially weak.
-        |
-        v
-VERDICT -> Thinker attribution and conceptual distinctions must remain separate.
-ANSWER USE -> Attach each thinker to one mechanism and one clear boundary.
+ASCII MASTER FLOW — PANEL 3/16: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 06. 1939-45 -> Second World War                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. 1965 -> The Last Stage of Imperialism                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1986 -> Nuclear accident at Chernobyl in the former USSR                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 2001 -> When terrorists destroyed World Trade Centre in America                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Historical Illustrations and Comparative Effects
-CENTRAL FOCUS
-Historical Illustrations and Comparative Effects
-  [1] India's 1947 independence marks decolonisation, while OPEC illustrates partial
-      resistance.
-        |
-        v
-  [2] NATO, Warsaw Pact and non-alignment show bipolar pressure; Sauvy and Lippmann date
-      its vocabulary.
-        |
-        v
-  [3] Iraq-Kuwait and Chernobyl illustrate cross-border security and environmental
-      effects.
-        |
-        v
-  [4] The 11 September 2001 attack is a dated illustration without a claimed Gauba page.
-        |
-        v
-VERDICT -> Historical cases illustrate mechanisms; they are not current descriptions.
-ANSWER USE -> Date the case and state exactly what it demonstrates.
+ASCII MASTER FLOW — PANEL 4/16: Chapter Spine (1/3)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/3)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba groups contemporary challenges to sovereignty under three broad headings: the      |
+| legacy of imperialism, the role of power blocs, and the rise of globalization (PDF           |
+| pp.209-218)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. The first heading shows that decolonization ended direct political rule but often not    |
+| economic dependence, thereby producing neo-colonial constraints on formally sovereign states |
+| (PDF pp.210-212)                                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. The second heading explains how Cold War military alliances and superpower rivalry       |
+| created pressure on newly independent states to compromise autonomy, even though many        |
+| pursued non-alignment (PDF pp.212-214)                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. The third heading argues that economic interdependence, communication networks,          |
+| environmental spillovers and multinational production chains make absolute external          |
+| sovereignty harder to sustain in practice (PDF pp.214-218)                                   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Trap Repair, Boundaries, Revision and Sources
-CENTRAL FOCUS
-Trap Repair, Boundaries, Revision and Sources
-  [1] Reject the claim that globalisation has made sovereignty disappear.
-        |
-        v
-  [2] Reject the claim that political independence automatically produced economic
-      autonomy.
-        |
-        v
-  [3] Reject the reduction of globalisation to economics alone.
-        |
-        v
-  [4] Credit Nkrumah with the canonical 1965 formulation, not an unqualified coinage
-      claim.
-        |
-        v
-VERDICT -> The strongest answers repair overstatement before adding evaluation.
-ANSWER USE -> Convert each trap into a qualified one-sentence correction.
+ASCII MASTER FLOW — PANEL 5/16: Chapter Spine (2/3)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/3)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. The conceptual takeaway is not "the state is over," but "legal sovereignty and effective |
+| autonomy no longer coincide neatly."                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Named institutional channels through which this transformation operates (analytical      |
+| addition, organising Gauba's own references plus the standard IR/globalisation vocabulary):  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. IMF and World Bank: Gauba's own text names these as the "Western-dominated agencies"     |
+| whose loan/structural-adjustment terms and conditions developing countries are said to       |
+| accept under globalisation (PDF pp.216-217, IMF concessional assistance discussed at p.217). |
+| This is a consented but often unequal external constraint, not delegation: the borrowing     |
+| state accepts conditions attached to finance, but the lender does not thereby exercise a     |
+| defined sovereign function on the state's behalf                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Multinational Corporations (MNCs): already named in Gauba's neo-colonialism discussion   |
+| as vehicles of capital investment, cheap-labour use and profit repatriation that narrow a    |
+| developing state's practical economic autonomy even after formal independence (PDF           |
+| pp.210-212)                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Theses and Directive Decoding
-CENTRAL FOCUS
-Theses and Directive Decoding
-  [1] A strong thesis separates surviving legal title from constrained policy capacity.
-        |
-        v
-  [2] Examine requires a mechanism sequence; to what extent requires a graded verdict.
-        |
-        v
-  [3] A neo-colonialism answer must state mechanisms, explanatory value and limits.
-        |
-        v
-  [4] Hyperglobalists predict erosion, sceptics stress continuity and transformationalists
-      reconstitution.
-        |
-        v
-VERDICT -> Directive control determines how much comparison and judgment is required.
-ANSWER USE -> State a graded thesis before reconstructing the mechanism.
+ASCII MASTER FLOW — PANEL 6/16: Chapter Spine (3/3)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (3/3)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 09. World Trade Organization (WTO) ( contemporary institutional illustration, not named in   |
+| Gauba's 2009-edition text): treaty negotiation and collective rule-making contain a pooled   |
+| element, while authorising panels or adjudicators to apply agreed rules is a delegated       |
+| element. Both rest on consented treaty commitments rather than unilateral external command.  |
+| Verify the current operational status of particular dispute-settlement stages from an        |
+| official WTO source before making a dated claim; do not present this illustration as a Gauba |
+| citation                                                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Constraint Mechanisms and the Objection-Reply Chain
-CENTRAL FOCUS
-Constraint Mechanisms and the Objection-Reply Chain
-  [1] Pooling means joint decision-making through common institutional rules.
-        |
-        v
-  [2] Delegation means authorising a body to perform a defined function such as
-      adjudication.
-        |
-        v
-  [3] IMF or World Bank loan conditionality is consented external constraint, not
-      delegation.
-        |
-        v
-  [4] The objection is that formally accepted commitments may still reflect unequal
-      bargaining.
-        |
-        v
-VERDICT -> Pooling, delegation and conditionality are distinct authority relations.
-ANSWER USE -> Name the mechanism before judging consent and unequal power.
+ASCII MASTER FLOW — PANEL 7/16: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. India's independence in 1947 is cited as an early landmark in post-Second World War      |
+| decolonization; use it as a historical marker, not as a "current affairs" claim (PDF p.210)  |
+| 02. OPEC, founded in 1960, appears in Gauba as an example of developing countries partially  |
+| organizing against adverse price structures; it is a book-period illustration (PDF p.211)    |
+| 03. NATO (1949), the Warsaw Pact (1955), non-alignment under Nehru, Nasser and Tito, and the |
+| Cold War are used as historical illustrations of bloc pressure on sovereignty (PDF           |
+| pp.212-214)                                                                                  |
+| 04. Gauba's interdependence illustrations include Iraq-Kuwait 1990, Chernobyl 1986, ozone    |
+| concerns and transnational media shock (PDF pp.214-216). The 11 September 2001 World Trade   |
+| Center attack is also a valid dated illustration of a border-crossing threat, but its exact  |
+| page placement in Gauba has not been independently re-verified here; cite the event by date, |
+| not by a Gauba page                                                                          |
+| 05. In exam writing, these examples work best as book-period illustrations of dependence and |
+| spillover, not as current-status descriptions                                                |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Named Evidence Units
-CENTRAL FOCUS
-Named Evidence Units
-  [1] Nkrumah 1965 identifies monetary, pricing, corporate and cultural dependency
-      channels.
-        |
-        v
-  [2] OPEC 1960 shows coalition-based resistance to adverse price structures.
-        |
-        v
-  [3] NATO 1949, the Warsaw Pact 1955 and non-alignment supply the bloc-politics evidence.
-        |
-        v
-  [4] IMF/World Bank, MNCs and WTO procedures illustrate distinct contemporary
-      constraints.
-        |
-        v
-VERDICT -> Named evidence earns marks only when its sovereignty relevance is explicit.
-ANSWER USE -> Pair every case with significance and a source-period limit.
+ASCII MASTER FLOW — PANEL 8/16: Comparison Matrix (1/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. IMPERIALISM / COLONIALISM | How sovereignty is challenged = Direct political control and |
+| resource extraction weaken self-rule (PDF pp.209-210) | What remains true = The struggle is  |
+| about restoring state independence                                                           |
+| 02. NEO-COLONIALISM | How sovereignty is challenged = Formal independence survives, but      |
+| external economic structures shape policy choices and development paths (PDF pp.210-212) |   |
+| What remains true = Legal sovereignty may remain intact on paper                             |
+| 03. POWER BLOCS | How sovereignty is challenged = Security dependence and superpower         |
+| pressure narrow foreign-policy autonomy (PDF pp.212-214) | What remains true = States still  |
+| try to preserve autonomy through non-alignment                                               |
+| 04. GLOBALIZATION | How sovereignty is challenged = Interlinked markets, technology,         |
+| environment and communication reduce the plausibility of absolute external autonomy (PDF     |
+| pp.214-218) | What remains true = States remain actors, but under denser constraints         |
+| 05. DIMENSION | How sovereignty is challenged = Effect of globalisation | What remains true  |
+| = Limit / counter-pressure                                                                   |
+| 06. STATE | How sovereignty is challenged = Policy autonomy narrows under IMF/World Bank     |
+| conditionality, WTO treaty commitments and delegated adjudicative procedures; regulatory     |
+| functions may also be pooled in common institutions (PDF pp.216-217 for IMF/World Bank) |    |
+| What remains true = The state remains the entity that authorises and implements these        |
+| arrangements and may withdraw under their governing rules; Gauba insists this is constraint, |
+| not abolition, of sovereignty (PDF pp.214-218)                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Worked Analysis and Mark-Scaled Architecture
-CENTRAL FOCUS
-Worked Analysis and Mark-Scaled Architecture
-  [1] Use claim, evidence, significance and limit rather than a list of institutions.
-        |
-        v
-  [2] A 10-marker needs one mechanism; a 15-marker needs comparison and objection.
-        |
-        v
-  [3] A 20-marker should integrate empire, blocs and globalisation before the verdict.
-        |
-        v
-  [4] The final judgment must distinguish legal persistence from practical constraint.
-        |
-        v
-VERDICT -> Mark-scaled structure prevents both thin narration and uncontrolled excess.
-ANSWER USE -> Expand from one mechanism to a full objection-reply architecture.
+ASCII MASTER FLOW — PANEL 9/16: Comparison Matrix (2/2)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/2)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 07. MARKET | How sovereignty is challenged = Production, capital and labour cross borders    |
+| through MNCs, eroding a state's exclusive control over its own economic space (PDF           |
+| pp.210-212, 214-217) | What remains true = Gauba's own critics'-view paragraph notes         |
+| globalisation can also be resisted or renegotiated by developing-country coalitions (his     |
+| OPEC illustration is a book-period example of exactly this) (PDF p.211)                      |
+| 08. CITIZENSHIP | How sovereignty is challenged = Global communication, migration and        |
+| transnational civil-society networks widen a citizen's frame of reference and rights-claims  |
+| beyond the territorial state (synthesis, not a direct Gauba citation) | What remains true =  |
+| Citizenship rights and welfare entitlements remain overwhelmingly delivered and enforced by  |
+| the territorial state; "global citizenship" is aspirational, not a substitute for national   |
+| legal status                                                                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Indian Application and Proposition Method
-CENTRAL FOCUS
-Indian Application and Proposition Method
-  [1] India's 1991 crisis is a cautious illustration of conditional policy constraint.
-        |
-        v
-  [2] The India-UK CETA entered into force on 15 July 2026 through sovereign consent.
-        |
-        v
-  [3] Its commitments illustrate transformed policy space, not equal bargaining or
-      universal gain.
-        |
-        v
-  [4] Use trade details only when independently verified in the appropriate IR or Economy
-      source.
-        |
-        v
-VERDICT -> Indian examples show negotiated constraint, not automatic loss of statehood.
-ANSWER USE -> Use only verified details and preserve distributional cautions.
+ASCII MASTER FLOW — PANEL 10/16: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Globalisation means sovereignty has disappeared." => REPAIR: Gauba presents       |
+| challenge, constraint and revision, not automatic extinction of the state (PDF pp.214-218)   |
+| 02. TRAP: "Political independence solved the sovereignty problem." => REPAIR: Gauba's whole  |
+| neo-colonialism discussion shows that formal independence may coexist with deep dependency   |
+| (PDF pp.210-212)                                                                             |
+| 03. TRAP: "Cold War examples in the chapter describe today's world as such." => REPAIR:      |
+| NATO, Warsaw Pact, third-world and non-alignment references are book-period or historical    |
+| illustrations from a 2009 text (PDF pp.212-214)                                              |
+| 04. TRAP: "Globalisation is only economic." => REPAIR: Gauba also links it to communication, |
+| culture and environmental spillovers (PDF pp.214-217)                                        |
+| 05. TRAP: "Nkrumah invented the word neo-colonialism." => REPAIR: He gave it its influential |
+| 1965 formulation and Gauba's text credits him with coining it, but the concept/term          |
+| circulated earlier in French anti-colonial writing; "popularised and systematised" is the    |
+| safer exam claim (see ?6)                                                                    |
+| 06. TRAP: "This topic belongs entirely to IR." => REPAIR: IR handles institutions and        |
+| current order; this Political Theory file studies what those forces do to the concept of     |
+| sovereignty                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close-option traps turn on direct rule versus indirect dependency.
-        |
-        v
-  [2] They also test bloc compulsion versus wider interdependence and process versus
-      policy.
-        |
-        v
-  [3] Pooling, delegation and conditionality must remain separate mechanisms.
-        |
-        v
-  [4] Thinker attribution is safest when Said, Hobson, Lenin and Nkrumah are not
-      conflated.
-        |
-        v
-VERDICT -> Close options are separated by mechanism, level and attribution.
-ANSWER USE -> Eliminate an option only after stating the decisive distinction.
+ASCII MASTER FLOW — PANEL 11/16: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/12_Globalisation-and-Challenges-to-Sovereignty.md for the  |
+| full three-part reconstruction and critiques                                                 |
+| 02. Use Political-Theory/basic/11_Sovereignty-and-Pluralism.md to revise internal/external   |
+| sovereignty before studying how external constraints operate                                 |
+| 03. Use International-Relations/advanced/11_Globalisation-Trade-Agreements-and-External-     |
+| Policy-Effects.md for institutional and policy detail on trade/globalisation                 |
+| 04. Use International-Relations/advanced/12_UN-and-International-Institutions-Global-        |
+| Governance.md for global governance institutions; this file does not reproduce those         |
+| structures                                                                                   |
+| 05. Use Philosophy/paper-2/socio-political/Sovereignty.md if you need a Philosophy-optional  |
+| conceptual parallel                                                                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic.
-        |
-        v
-  [2] The package therefore uses six original Mains questions at 10, 15 and 20 marks.
-        |
-        v
-  [3] Answers must combine a thesis, named mechanism, counterargument and graded verdict.
-        |
-        v
-  [4] Final recall: globalisation reconstitutes sovereignty without simply extinguishing
-      it.
-        |
-        v
-VERDICT -> Practice is original because no directly owned verified PYQ is assigned.
-ANSWER USE -> End every response on transformed exercise versus surviving legal title.
+ASCII MASTER FLOW — PANEL 12/16: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Begin with: external sovereignty means independence from outside control in principle    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Add the qualification: Gauba shows that legal sovereignty and real autonomy are often    |
+| separated by imperialism, neo-colonialism, bloc politics and globalization                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Organize the body under three headings only: legacy of imperialism, power blocs,         |
+| globalization                                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use one sharp sentence: decolonization ended direct rule more easily than dependence     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. Add a second sharp sentence: non-alignment was an attempt to preserve sovereign choice   |
+| under bipolar pressure                                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. End with the balanced conclusion: globalization constrains and transforms sovereignty;   |
+| it does not automatically abolish it                                                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/16: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba explicitly shifts here from internal pluralist challenges to external challenges   |
+| arising from the international environment and the process of globalization (PDF p.209)      |
+| 02. Imperialism: domination by a metropolitan centre over distant territories; Gauba cites   |
+| Edward Said's distinction between imperialism and colonialism (PDF pp.209-210)               |
+| 03. Formal independence vs effective autonomy: a country may become legally sovereign after  |
+| decolonization yet remain materially constrained by capital, technology, price-setting or    |
+| 04. India's independence in 1947 is cited as an early landmark in post-Second World War      |
+| decolonization; use it as a historical marker, not as a "current affairs" claim (PDF p.210)  |
+| 05. "Globalisation means sovereignty has disappeared." -> Gauba presents challenge,          |
+| constraint and revision, not automatic extinction of the state (PDF pp.214-218)              |
+| 06. Directive - What it demands - Trap to avoid                                              |
+| 07. Claim: external sovereignty is being "pooled" and "delegated," not abolished             |
+| 08. 1. Nkrumah's 1965 Neo-colonialism: The Last Stage of Imperialism - mechanisms of         |
+| monetary bodies, price-fixing, MNCs, cultural institutions                                   |
+| 09. Claim: neo-colonialism shows that formal independence can coexist with deep external     |
+| dependency                                                                                   |
+| 10. India's 1991 balance-of-payments crisis and subsequent IMF-linked liberalisation is a    |
+| commonly                                                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/16: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| legal equality of states                                                                     |
+| 02. Imperialism:; Colonialism:; Neo-colonialism:; Power blocs:; Globalization:;              |
+| Liberalization / privatization:; Pooled and delegated sovereignty (analytical addition, not  |
+| in Gauba):                                                                                   |
+| 03. Formal independence vs effective autonomy:; Legal sovereignty vs actual power:;          |
+| Imperialism vs neo-colonialism:; Power-bloc pressure vs global interdependence:;             |
+| Globalization as process vs globalization as policy:; Constraint vs disappearance:; Edward   |
+| Said:                                                                                        |
+| 04. book-period illustrations of dependence and spillover; Imperialism / colonialism; Neo-   |
+| colonialism; Power blocs; Globalization; State; Market                                       |
+| 05. "Globalisation means sovereignty has disappeared."; "Political independence solved the   |
+| sovereignty problem."; "Cold War examples in the chapter describe today's world as such.";   |
+| "Globalisation is only economic."; "Nkrumah invented the word neo-colonialism."; "This topic |
+| belongs entirely to IR."; not                                                                |
+| 06. "Has globalisation ended sovereignty?" question:; "Neo-colonialism" question:;           |
+| "Examine"; "To what extent"; "Critically evaluate the neo-colonialism thesis"; Theses;       |
+| Directive Decoding                                                                           |
+| 07. Claim:; Warrant:; Backing:; Objection:; Reply:; Constraint Mechanisms; Objection-Reply   |
+| Chain                                                                                        |
+| 08. Named Evidence; Units; SESSION; Five; Nkrumah; Neo-colonialism; Last Stage               |
+| 09. Claim:; Evidence:; Significance:; Limit:; 10-marker:; 15-marker:; Worked Analysis        |
+| 10. Identify the proposition and the concept; Reconstruct the strongest argument for it;     |
+| Apply named evidence; Give a graded verdict; Never treat an unverified quotation as          |
+| verbatim.; not; Three safe registers:                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/16: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Distinguish formal legal sovereignty from effective autonomy under             |
+| globalisation. Answer in 150 words                                                           |
+| 02. 10 MARKS: Distinguish imperialism, colonialism and neo-colonialism as challenges to      |
+| sovereignty. Answer in 150 words                                                             |
+| 03. 10 MARKS: How did power blocs constrain sovereignty, and what was the political          |
+| significance of non-alignment? Answer in 150 words                                           |
+| 04. 15 MARKS: Explain globalisation as both a process and a policy, with reference to pooled |
+| and delegated sovereignty. Answer in 250 words                                               |
+| 05. 15 MARKS: Has globalisation ended sovereignty? Evaluate the hyperglobalist, sceptic and  |
+| transformationalist positions. Answer in 250 words                                           |
+| 06. 15 MARKS: Is globalisation merely a new form of neo-colonialism? Critically discuss.     |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/16: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Formal independence vs effective autonomy: a country may become legally sovereign |
+| after decolonization yet remain materially constrained by capital, technology, price-setting |
+| or. Add the qualification: Gauba shows that legal sovereignty and real autonomy are often    |
+| separated by imperialism, neo-colonialism, bloc politics and globalization. So the answer    |
+| must move from definition to mechanism to counter-position, and end with a verdict that      |
+| concedes what the evidence cannot support                                                    |
++----------------------------------------------------------------------------------------------+

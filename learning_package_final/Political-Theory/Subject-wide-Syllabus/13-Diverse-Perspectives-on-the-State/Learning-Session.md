@@ -1,40 +1,37 @@
 ---
 topic_key: political-theory-13
 title: Diverse Perspectives on the State — Complete Topic Package
-generation_identity: political-theory-13:learner-v2:g3
-generated_on: 2026-08-30
+generation_identity: political-theory-13:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Diverse Perspectives on the State — Complete Topic Package
 
-**Subject:** Political Theory  
-**Section:** Subject-wide Syllabus  
-**Generation:** learner-v2:g3  
-**Ownership:** supplementary conceptual support; no synthetic GS or Optional PYQ ownership is created.  
-**Source policy:** complete Basic owner first; optional Advanced depth only after practice.
-
-
-### CURRENT-AFFAIRS ANCHOR — THE STATE AS DIGITAL SERVICE INSTITUTION
-
-✅ **Fact (PIB, 1-2 July 2026):** The 29th National Conference on e-Governance in Jaipur, organised by DARPG, MeitY and the Government of Rajasthan, used the theme *Viksit Bharat 2047: AI-Enabled, Data-Driven and Secure Digital Governance* and highlighted citizen-centric public service innovation.
-
-⚠️ **Political-theory use:** The conference illustrates the welfare and service-state image: public authority builds administrative capacity and enabling services rather than merely commanding. The same technologies also raise liberal, feminist, Marxist and pluralist questions about surveillance, unequal access, neutrality and accountability. The event does not establish that digital administration is automatically inclusive.
-
-**Official PIB source:** https://pib.gov.in/PressReleasePage.aspx?PRID=2280427&reg=3&lang=1
+**Subject:** Political Theory
+**Section:** Subject-wide Syllabus
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Cross-application:** GS-I, GS-IV and Essay only where genuinely relevant
+**Classification firewall:** Political Theory is a GS/Prelims foundation, not a separate UPSC paper.
+**Source policy:** complete Basic owner first; Advanced enrichment only after practice.
 
 ### DEEP-REVIEW LEARNING CONTRACT
 
-- **Learning goal:** move from an easy visual map through these ten stages: The State-Theory Problem and Its Stakes; Definitions and the Chapter Sequence; The Six-Test Comparison Grid; Organic, Contract and Liberal Thinkers; Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers; Ten-Perspective Comparative Matrix; Trap Repair, Boundaries, Revision and Sources; Theses, Directives and Marxist Argument Reconstruction; Named Evidence and Mark-Scaled Architecture; Indian Application and Proposition Method.
-- **Syllabus boundary:** this package supplies Political Theory concepts and cross-applies only verified Philosophy Optional PYQs with their primary ownership preserved; constitutional, institutional and current-policy detail remains with its direct repository owner.
-- **Answer-grabbing opening:** Diverse Perspectives on the State should be introduced through its controlling political question, not through biography or a dictionary list.
-- **Transition rule:** define the concept → name the thinker or evidence → explain the political mechanism → test the strongest objection → qualify the verdict.
-- **Conclusion rule:** answer the directive directly and state the remaining limit; do not end with an unqualified slogan.
+- **Core scope:** organic, liberal, welfare, Marxist, post-colonial and feminist state theories.
+- **Source rule:** canonical Basic/Core, Advanced, assembled package, official GS mapping, routed
+  Prelims/GS ledgers and OCR-searchable local books were reconciled before repair.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; when none exists,
+  original GS practice is labelled honestly.
+- **Writing rule:** claim -> named evidence/example -> analysis -> qualification/link to demand.
+- **Advanced rule:** `OPTIONAL ADVANCED DEPTH` means enrichment beyond a core GS answer and never
+  a separate-paper classification.
 
 ## BASIC LEARNING SESSION
 
+
 ### SESSION 1 — The State-Theory Problem and Its Stakes
 
-> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **Exam relevance:** GS-II (Polity & Governance) conceptual foundation; GS-II conceptual foundation.
 > **Core area:** Competing theories of the state's origin, purpose, liberty, inequality, civil society and legitimate change.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.10, PDF pp.220-279.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -68,9 +65,65 @@ STATE THEORY QUESTION
 
 #### 2. Why this topic matters
 - ✅ This chapter is Gauba's direct reminder that old and new state theories coexist, and none can claim final or absolute authority (PDF p.220).
-- ⚠️ UPSC and PSIR questions often sound abstract, but they usually test a hidden contrast: state as ethical whole, neutral protector, welfare enabler, class instrument, patriarchal structure, colonial legacy or pluralist coordinator.
+- ⚠️ UPSC Prelims and GS Mains questions often sound abstract, but they usually test a hidden contrast: state as ethical whole, neutral protector, welfare enabler, class instrument, patriarchal structure, colonial legacy or pluralist coordinator.
 - ⚠️ This file is the bridge between `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md`, `Political-Theory/basic/11_Sovereignty-and-Pluralism.md` and later themes of liberty, justice, democracy and resistance.
 - ❌ A common mistake is to say "the liberal state is neutral" as if that were a fact; at most, neutrality is a contested liberal aspiration, not an uncontested description.
+
+#### 2A. Origin and timeline of diverse perspectives on the state
+
+✅ The dated spine below is taken directly from the routed pages (gauba PDF pp.220-279) rather than from earlier notes. ⚠️ Chronology matters here because a Political Theory answer that names a position without the work or the period behind it reads as assertion; naming the anchor converts the same sentence into evidence.
+
+**Dated rail drawn from the routed source pages** (each row reproduces a name, life-date, work or event exactly as the local source records it):
+
+| Anchor | Name, work or event | What the source attaches to it |
+|---|---|---|
+| 1588-1679 | ✅ Theory Thomas Hobbes | Exponents of the Theory Thomas Hobbes (1588-1679), John Locke (1632-1704) and Jean Jacques Rousseau (1712-78) are regarded as the main exponents of the theory of the social contract |
+| 1632-1704 | ✅ John Locke | Exponents of the Theory Thomas Hobbes (1588-1679), John Locke (1632-1704) and Jean Jacques Rousseau (1712-78) are regarded as the main exponents of the theory of the social contract |
+| 1690 | ✅ In his Two Treatises of Civil Government | In his Two Treatises of Civil Government (1690), Locke argued that if the monarch ever behaved in a Diverse Perspectives on the State 209 despotic manner, the people had the right to remove him from authority |
+| 1711-76 | ✅ David Hume | David Hume (1711-76) argued that government was not created through a deliberate decision of the people |
+| 1712-78 | ✅ Jean Jacques Rousseau | Exponents of the Theory Thomas Hobbes (1588-1679), John Locke (1632-1704) and Jean Jacques Rousseau (1712-78) are regarded as the main exponents of the theory of the social contract |
+| 1723-90 | ✅ Adam Smith | Exponents of the Theory The exponents of laissez-faire individualism include Adam Smith (1723-90), Jeremy Bentham (1748-1832), James Mill (1773-1836) and Herbert Spencer Diverse Perspectives on the State 219 (1820-1903), British economists and political thinkers |
+| 1724-1804 | ✅ Immanuel Kant | Some later thinkers, such as Immanuel Kant (1724-1804), Herbert Spencer (1820-1903), John Rawls (1921-2002) and Robert Nozick (1938-2002) made use of this theory to elaborate their own systems of thought |
+| 1729-97 | ✅ Edmund Burke | Edmund Burke (1729-97), the chief exponent 204 An Introduction to Political Theory of conservatism, argued that the state was the product of a process of historical growth which he often likened to the growth of a living organism |
+| 1737-1809 | ✅ Tom Paine | Tom Paine (1737-1809) criticized the theory of the social contract from this viewpoint and declared it a dead weight on the wheel of progress |
+| 1748-1832 | ✅ Jeremy Bentham | Exponents of the Theory The exponents of laissez-faire individualism include Adam Smith (1723-90), Jeremy Bentham (1748-1832), James Mill (1773-1836) and Herbert Spencer Diverse Perspectives on the State 219 (1820-1903), British economists and political thinkers |
+| 1755 | ✅ Rousseau Rousseau, in his Discourse on Inequality | Rousseau Rousseau, in his Discourse on Inequality (1755), presents a fascinating picture of the state of nature |
+| 1762 | ✅ However, in his later work The Social Contract | However, in his later work The Social Contract (1762), Rousseau takes a modified view of the civil state |
+| 1773-1836 | ✅ James Mill | Exponents of the Theory The exponents of laissez-faire individualism include Adam Smith (1723-90), Jeremy Bentham (1748-1832), James Mill (1773-1836) and Herbert Spencer Diverse Perspectives on the State 219 (1820-1903), British economists and political thinkers |
+| 1776 | ✅ Inquiry into the Nature and Causes of the Wealth of Nations | His famous work Inquiry into the Nature and Causes of the Wealth of Nations (1776), became the great source of the ideas and policies concerning laissez-faire individualism |
+| 1789 | ✅ French Revolution | He is regarded as the source of inspiration of the great French Revolution (1789) |
+| 1806-73 | ✅ John Stuart Mill | Besides, John Stuart Mill (1806-73), the famous English economist and political thinker, made an important contribution to the theory of laissez-faire individualism, but he sought to transform it from negative liberalism into positive liberalism, and thereby made a unique contribution to liberal ... |
+| 1806-73 | ✅ LIBERALISM John Stuart Mill | EXPONENTS OF POSITIVE LIBERALISM John Stuart Mill (1806-73), was the first prominent liberal thinker who started with a defence of laissez-faire individualism, but on realizing its weaknesses in the light of new socio-economic realities, he proceeded to modify it |
+| 1814-76 | ✅ Mikhail Bakunin | Proudhon (1809-65), Mikhail Bakunin (1814-76) and Peter Kropotkin (1842-1921) who regarded religion as a hindrance to human development |
+| 1818-83 | ✅ Karl Marx | Marxism A set of political and economic principles founded by Karl Marx (1818-83) and Friedrich Engels (1820-95) in order to lay scientific foundations of socialism |
+| 1818-83 | ✅ Marx Like Marx | Gandhi and Marx Like Marx (1818-83), Gandhi also believed in classless and stateless society for the emancipation of mankind |
+| 1820-1903 | ✅ Herbert Spencer | Some later thinkers, such as Immanuel Kant (1724-1804), Herbert Spencer (1820-1903), John Rawls (1921-2002) and Robert Nozick (1938-2002) made use of this theory to elaborate their own systems of thought |
+| 1820-95 | ✅ Friedrich Engels | Marxism A set of political and economic principles founded by Karl Marx (1818-83) and Friedrich Engels (1820-95) in order to lay scientific foundations of socialism |
+
+⚠️ Dating discipline: use only the anchors in this rail. Do not attach a year to a name the source leaves undated, and do not convert a 2009-edition chronology into a claim about later scholarship.
+
+#### Visual-first recall
+
+```text
+THE STATE-THEORY PROBLEM AND ITS STAKES
+  |
+[1] natural growth / contract / class division / colonial history / associations
+  v
+[2] good life / rights protection / market order / welfare / class rule /
+  v
+[3] community / decolonization / self-rule / gender justice / coordination
+  v
+[4] obedience / civil liberty / negative liberty / positive liberty /
+```
+
+> **Answer-grabbing line:** natural growth / contract / class division / colonial history / associations
+
+**Must-write keywords:** Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:; social-contract.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** natural growth / contract / class division / colonial history / associations **Named evidence/example:** good life / rights protection / market order / welfare / class rule / **Analysis:** Read together, these propositions show how the state-theory problem and its stakes shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** emancipation / swaraj / freedom from patriarchy
+
 
 ---
 
@@ -98,6 +151,29 @@ STATE THEORY QUESTION
 - ✅ Gandhian thought morally distrusts the coercive state and shifts the ideal toward self-rule, trusteeship, bread labour and village-centred democracy (PDF pp.273-277).
 - ✅ Feminist and pluralist perspectives then challenge the state from two further sides: gendered power and dispersed associational power (PDF pp.277-279).
 
+#### Visual-first recall
+
+```text
+DEFINITIONS AND THE CHAPTER SEQUENCE
+  |
+[1] Organic theory: the state is like an organism; individuals are like its organs, and...
+  v
+[2] Social-contract theory: the state is an artificial device created by agreement to...
+  v
+[3] Laissez-faire individualism: the state is a necessary evil whose task is mainly...
+  v
+[4] Welfare / positive liberal state: the state should create conditions for moral...
+```
+
+> **Answer-grabbing line:** Organic theory: the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+**Must-write keywords:** Organic theory:; Social-contract theory:; Laissez-faire individualism:; Welfare / positive liberal state:; Class theory of the state:; Communitarian perspective:; Post-colonial perspective:.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Organic theory: the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223). **Named evidence/example:** Social-contract theory: the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236). **Analysis:** Read together, these propositions show how definitions and the chapter sequence shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** Laissez-faire individualism: the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+
+
 ---
 
 ### SESSION 3 — The Six-Test Comparison Grid
@@ -109,6 +185,29 @@ STATE THEORY QUESTION
 - ✅ **State above society vs state within society:** organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
 - ✅ **Inequality as natural vs inequality as produced:** organic theory often naturalizes hierarchy, while Marxist, feminist, post-colonial and welfare perspectives trace inequality to structures and institutions (PDF pp.222-225, 245-260, 261-278).
 - ❌ **Neutral umpire = real description of all liberal states.** -> ⚠️ Liberal theory often aspires to impartiality, but Gauba's welfare, Marxist, feminist and pluralist discussions all show that bias, privilege and structural inequality remain live issues (PDF pp.245-260, 261-279).
+
+#### Visual-first recall
+
+```text
+THE SIX-TEST COMPARISON GRID
+  |
+[1] Natural state vs artificial state: organic theory treats the state as a natural...
+  v
+[2] Ethical institution vs instrument: organic/idealist thought treats the state as...
+  v
+[3] Negative liberty vs positive liberty vs moral self-rule: laissez-faire liberalism...
+  v
+[4] State above society vs state within society: organic theory tends to blur state and...
+```
+
+> **Answer-grabbing line:** Natural state vs artificial state: organic theory treats the state as a natural condition of civilized life, whereas liberal and Marxist theories treat it as historically produced or.
+
+**Must-write keywords:** Natural state vs artificial state:; Ethical institution vs instrument:; Negative liberty vs positive liberty vs moral self-rule:; State above society vs state within society:; Inequality as natural vs inequality as produced:; Neutral umpire = real description of all liberal states.; Six-Test Comparison.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Natural state vs artificial state: organic theory treats the state as a natural condition of civilized life, whereas liberal and Marxist theories treat it as historically produced or consciously devised (PDF pp.221-223, 226-236, 261-263). **Named evidence/example:** Ethical institution vs instrument: organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279). **Analysis:** Read together, these propositions show how the six-test comparison grid shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** Inequality as natural vs inequality as produced: organic theory often naturalizes hierarchy, while Marxist, feminist, post-colonial and welfare perspectives trace inequality to structures and institutions (PDF pp.222-225, 245-260, 261-278).
+
 
 ---
 
@@ -124,6 +223,29 @@ STATE THEORY QUESTION
 - ✅ **Adam Smith, Bentham, James Mill, Spencer, Nozick:** they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
 
 - ✅ **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver:** they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
+
+#### Visual-first recall
+
+```text
+ORGANIC, CONTRACT AND LIBERAL THINKERS
+  |
+[1] Aristotle: the state exists for life and continues for the good life; man is...
+  v
+[2] Burke and Hegel: Burke stresses historical growth; Hegel heightens the state's...
+  v
+[3] Hobbes, Locke, Rousseau: all use contract, but Hobbes creates security through...
+  v
+[4] Adam Smith, Bentham, James Mill, Spencer, Nozick: they represent different forms of...
+```
+
+> **Answer-grabbing line:** Aristotle: the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+
+**Must-write keywords:** Aristotle:; Burke and Hegel:; Hobbes, Locke, Rousseau:; Adam Smith, Bentham, James Mill, Spencer, Nozick:; J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver:; Organic; Contract.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Aristotle: the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222). **Named evidence/example:** Burke and Hegel: Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222). **Analysis:** Read together, these propositions show how organic, contract and liberal thinkers shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** Adam Smith, Bentham, James Mill, Spencer, Nozick: they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+
 
 ---
 
@@ -149,6 +271,29 @@ STATE THEORY QUESTION
 - ⚠️ Gandhi's swaraj discussion here prepares the conceptual ground for the later civil-disobedience discussion in `Political-Theory/basic/14_Political-Obligation-Resistance-and-Law.md`.
 - ✅ Solidarity in Poland and environmental groups in Eastern Europe are book-period illustrations of associational pressure helping authoritarian systems give way to pluralist democracy (PDF p.278).
 
+#### Visual-first recall
+
+```text
+CRITICAL, COMMUNITARIAN, GANDHIAN, FEMINIST AND PLURALIST THINKERS
+  |
+[1] MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and...
+  v
+[2] Gandhi: he treats the state as coercive, upholds swaraj and trusteeship, and prefers...
+  v
+[3] Duguit, Laski, Maclver, Dahl and Lindblom: they build pluralist arguments around...
+  v
+[4] The Nazi and Fascist experiences are used by Gauba as historical warnings against...
+```
+
+> **Answer-grabbing line:** MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+
+**Must-write keywords:** Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas:; political society; civil society; instrumentalist theory; structuralist theory; relative autonomy; claim (Miliband) → objection (Poulantzas) → limit (Gauba's own caution).
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270). **Named evidence/example:** Gandhi: he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277). **Analysis:** Read together, these propositions show how critical, communitarian, gandhian, feminist and pluralist thinkers shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+
+
 ---
 
 ### SESSION 6 — Ten-Perspective Comparative Matrix
@@ -166,6 +311,27 @@ STATE THEORY QUESTION
 | ✅ **Gandhian** | ✅ State emerges from coercive and centralized political power; ideal life points beyond it (PDF pp.273-277). | ✅ At best a temporary means; ideal is self-regulated swaraj (PDF pp.274-277). | ✅ Freedom is self-rule, self-discipline and capacity to resist abused authority (PDF pp.275-277). | ⚠️ Inequality is moral as well as economic; Gandhi answers it through dignity of labour and trusteeship (PDF pp.274-275). | ✅ Village community and moral society are higher than centralized rule (PDF pp.275-277). | ✅ Non-violent reform, self-purification and decentralized reconstruction. |
 | ✅ **Feminist** | ✅ Existing states are shaped within gendered power relations, not gender-neutral social contracts (PDF pp.277-278). | ✅ Secure justice against male violence, unequal power and exclusion (PDF pp.277-278). | ✅ Freedom includes bodily autonomy, reproductive choice and freedom from domination in both public and private life (PDF pp.277-278). | ✅ Gender hierarchy is structural, not accidental (PDF pp.277-278). | ✅ Family and intimacy are political sites, not extra-political zones (PDF p.277). | ⚠️ Legal reform, welfare claims and deeper transformation of patriarchal structures. |
 | ✅ **Pluralist** | ✅ Modern democracy produces multiple centres of power and association (PDF pp.278-279). | ✅ Coordinate, arbitrate and justify authority through justice across groups (PDF pp.278-279). | ✅ Freedom of association is indispensable (PDF p.278). | ⚠️ Early pluralism underestimated unequal bargaining power; Dahl and Lindblom later qualify this (PDF p.279). | ✅ Civil society is the bulwark of democratic order (PDF p.278). | ⚠️ Redistribution of power, stronger associations and democratic correction. |
+
+#### Visual-first recall
+
+```text
+TEN-PERSPECTIVE COMPARATIVE MATRIX
+  |
+[1] Perspective — State origin — State purpose — Liberty — Inequality — Civil society —...
+  v
+[2] Ten-Perspective Comparative Matrix must be linked to Diverse Perspectives on the...
+  v
+[3] Ten-Perspective Comparative Matrix must be linked to Diverse Perspectives on the...
+```
+
+> **Answer-grabbing line:** Perspective — State origin — State purpose — Liberty — Inequality — Civil society — Route to change
+
+**Must-write keywords:** Organic / idealist; Social-contract; Laissez-faire liberal; Welfare / positive liberal; Marxist / class; Communitarian; Post-colonial.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Perspective — State origin — State purpose — Liberty — Inequality — Civil society — Route to change **Named evidence/example:** Ten-Perspective Comparative Matrix must be linked to Diverse Perspectives on the State's central conceptual dispute. **Analysis:** Read together, these propositions show how ten-perspective comparative matrix shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** Ten-Perspective Comparative Matrix must be linked to Diverse Perspectives on the State's central conceptual dispute.
+
 
 ---
 
@@ -208,6 +374,29 @@ STATE THEORY QUESTION
 
 ---
 
+#### Visual-first recall
+
+```text
+TRAP REPAIR, BOUNDARIES, REVISION AND SOURCES
+  |
+[1] "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the...
+  v
+[2] "All contract theorists defend limited government." -> Hobbes does not; Locke does;...
+  v
+[3] "Liberalism always means minimal state." -> Gauba clearly distinguishes laissez-faire...
+  v
+[4] "Pluralism proves the state is neutral." -> Even Gauba's pluralist discussion admits...
+```
+
+> **Answer-grabbing line:** "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+
+**Must-write keywords:** "Organic theory simply means patriotism."; "All contract theorists defend limited government."; "Liberalism always means minimal state."; "Pluralism proves the state is neutral."; "Gandhi was just another anarchist."; "Feminism studies only representation in parliament."; "Miliband and Poulantzas say the same thing about the capitalist state.".
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223). **Named evidence/example:** "All contract theorists defend limited government." -> Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234). **Analysis:** Read together, these propositions show how trap repair, boundaries, revision and sources shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** "All contract theorists defend limited government." -> Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+
+
 ---
 
 ### SESSION 8 — Theses, Directives and Marxist Argument Reconstruction
@@ -230,6 +419,27 @@ STATE THEORY QUESTION
 - **Warrant:** state officials share a class background with capital; capital wields direct economic leverage; officials have a vested interest in the status quo.
 - **Objection (Poulantzas):** class domination is not automatically translated into state power; the state needs relative autonomy from any single class to secure legitimacy ("the people") and to manage the economy competently on capital's behalf.
 - **Reply/limit (Gauba's own caution):** if autonomy is stretched too far, the analysis risks abandoning Marxism's foundational claim that the state ultimately serves class interests — so Poulantzas's move must be bounded, not unlimited (PDF pp.266-267).
+
+#### Visual-first recall
+
+```text
+THESES, DIRECTIVES AND MARXIST ARGUMENT RECONSTRUCTION
+  |
+[1] Directive — What it demands — Trap to avoid
+  v
+[2] "Discuss the feminist critique of the state" — Distinguish Millett (personal-is-...
+  v
+[3] Theses, Directives and Marxist Argument Reconstruction must be linked to Diverse...
+```
+
+> **Answer-grabbing line:** Directive — What it demands — Trap to avoid
+
+**Must-write keywords:** "Diverse perspectives" essay question:; Marxist-state-specific question:; "Compare/Contrast the liberal and Marxist views of the state"; "Critically examine the Marxist theory of the state"; "Discuss the feminist critique of the state"; "Evaluate the post-colonial state"; Claim (Miliband):.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** Directive — What it demands — Trap to avoid **Named evidence/example:** "Discuss the feminist critique of the state" — Distinguish Millett (personal-is-political) from Eisenstein (liberal-state-neutrality/socialist-feminist), then state what each implies for policy. — Do not merge the two thinkers into one identical claim. **Analysis:** Read together, these propositions show how theses, directives and marxist argument reconstruction shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** "Discuss the feminist critique of the state" — Distinguish Millett (personal-is-political) from Eisenstein (liberal-state-neutrality/socialist-feminist), then state what each implies for policy. — Do not merge the two thinkers into one identical claim.
+
 
 ---
 
@@ -254,7 +464,29 @@ STATE THEORY QUESTION
 ##### F. Mark-scaled architecture
 - **10-marker:** thesis → one perspective pair contrasted (e.g., liberal vs Marxist) via 2-3 of the six tests → one-line verdict.
 - **15-marker:** thesis → three perspectives via the full six-test grid → one internal-debate example (Miliband/Poulantzas or Millett/Eisenstein) → verdict.
-- **20-marker:** thesis → five-plus perspectives organised in the three clusters (ethical-natural / liberal-instrumental / critical-transformative) → the Marxist internal debate and the feminist internal distinction as depth markers → cautious Indian/post-colonial application → reasoned verdict on which lens best fits the question's actual demand.
+
+#### Visual-first recall
+
+```text
+NAMED EVIDENCE AND MARK-SCALED ARCHITECTURE
+  |
+[1] 1. Aristotle's polis argument — state exists for life, continues for the good life...
+  v
+[2] 2. Locke's *Two Treatises* (1689; composed c.1679-83) — trust-based limited...
+  v
+[3] 3. Macaulay's 1835 educational minute — colonial modernisation-and-domination...
+  v
+[4] 4. Miliband's *The State in Capitalist Society* (1969) — instrumentalist claim with...
+```
+
+> **Answer-grabbing line:** 1. Aristotle's polis argument — state exists for life, continues for the good life (organic/ethical cluster).
+
+**Must-write keywords:** Claim:; Evidence:; Significance:; Limit:; 10-marker:; 15-marker:; Named Evidence.
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** 1. Aristotle's polis argument — state exists for life, continues for the good life (organic/ethical cluster). **Named evidence/example:** 2. Locke's *Two Treatises* (1689; composed c.1679-83) — trust-based limited government, used cautiously on dating. **Analysis:** Read together, these propositions show how named evidence and mark-scaled architecture shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** 2. Locke's *Two Treatises* (1689; composed c.1679-83) — trust-based limited government, used cautiously on dating.
+
 
 ---
 
@@ -296,1037 +528,1353 @@ STATE THEORY QUESTION
   marks); attribution itself uncertain → "the line is popularly attributed to X; its provenance is
   not independently verified here — taken on its own terms it claims …", then argue the doctrine.
 - ⚠️ **Architecture link:** at 10 marks run moves 1 → 2 → 5 across one contrasted pair; at 15 marks
-  add move 3 as a full internal-debate objection–reply; at 20 marks run all five, with two evidence
   units drawn from different clusters and a verdict that names which lens the stem actually
   demands (§F).
 
+#### Visual-first recall
+
+```text
+INDIAN APPLICATION AND PROPOSITION METHOD
+  |
+[1] India's post-colonial state-building (Constituent Assembly's balancing of colonial...
+  v
+[2] Do not use the Gandhian perspective's swaraj argument to make unqualified claims...
+  v
+[3] # — Move — What to do here
+  v
+[4] 5 — Give a graded verdict — Land on "holds / holds only under stated conditions /...
+```
+
+> **Answer-grabbing line:** India's post-colonial state-building (Constituent Assembly's balancing of colonial administrative
+
+**Must-write keywords:** not; Identify the proposition and the concept; Reconstruct the strongest argument for it; Test the counterargument and the conditions; Apply named evidence; Give a graded verdict; Never treat an unverified quotation as verbatim..
+
+**Claim -> named evidence/example -> analysis -> qualification demonstration**
+
+**Claim:** India's post-colonial state-building (Constituent Assembly's balancing of colonial administrative **Named evidence/example:** Do not use the Gandhian perspective's swaraj argument to make unqualified claims about present-day **Analysis:** Read together, these propositions show how indian application and proposition method shapes diverse perspectives on the state rather than serving as a detachable list of names. **Qualification:** Do not use the Gandhian perspective's swaraj argument to make unqualified claims about present-day
+
+
+---
+
+### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+The following text-native master is identical to the standalone ASCII artifact.
+
+```ascii-master
+ASCII MASTER FLOW — PANEL 1/22: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Diverse Perspectives on the State.                                          |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Use Political-Theory/advanced/13_Diverse-Perspectives-on-the-State.md for the full       |
+| direct-book reconstruction and the larger comparative argument                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 2/22: Origin and Dated Rail (1/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1588-1679 -> Theory Thomas Hobbes                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1632-1704 -> John Locke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1690 -> In his Two Treatises of Civil Government                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1711-76 -> David Hume                                                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1712-78 -> Jean Jacques Rousseau                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1723-90 -> Adam Smith                                                                    |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 3/22: Origin and Dated Rail (2/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 07. 1724-1804 -> Immanuel Kant                                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. 1729-97 -> Edmund Burke                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1737-1809 -> Tom Paine                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1755 -> Rousseau Rousseau, in his Discourse on Inequality                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1762 -> However, in his later work The Social Contract                                   |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 4/22: Origin and Dated Rail (3/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (3/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 13. 1773-1836 -> James Mill                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1776 -> Inquiry into the Nature and Causes of the Wealth of Nations                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 15. 1789 -> French Revolution                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 16. 1806-73 -> John Stuart Mill                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 17. 1806-73 -> LIBERALISM John Stuart Mill                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 18. 1814-76 -> Mikhail Bakunin                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 5/22: Origin and Dated Rail (4/4)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (4/4)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 19. 1818-83 -> Karl Marx                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 20. 1818-83 -> Marx Like Marx                                                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 21. 1820-1903 -> Herbert Spencer                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 22. 1820-95 -> Friedrich Engels                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 6/22: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba begins by saying the aim is to bring out the complexity of the problem, not to     |
+| pronounce any final verdict on the state (PDF p.220)                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. The organic view treats the state as natural and ethical, with individual freedom        |
+| realized through obedience and functional differentiation (PDF pp.221-225)                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. The liberal-individualist stream treats the state as artificial, but it branches into    |
+| contractarian legitimacy, laissez-faire protection, and later welfare revision (PDF          |
+| pp.226-260)                                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Marxism rejects both organic and liberal harmony and sees the state as an instrument of  |
+| class domination and class exploitation (PDF pp.261-266)                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 7/22: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. Communitarianism attacks the liberal image of the detached self and wants the political  |
+| order to cultivate common goods and shared identities (PDF pp.267-270)                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Post-colonial analysis adds the historical burdens of colonial rule, inherited           |
+| bureaucracy, nation-building and neo-colonial continuities (PDF pp.270-273)                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Gandhian thought morally distrusts the coercive state and shifts the ideal toward self-  |
+| rule, trusteeship, bread labour and village-centred democracy (PDF pp.273-277)               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. Feminist and pluralist perspectives then challenge the state from two further sides:     |
+| gendered power and dispersed associational power (PDF pp.277-279)                            |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 8/22: Illustrations Attached to Claims (1/2)
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS (1/2)                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. The Nazi and Fascist experiences are used by Gauba as historical warnings against        |
+| treating state authority as absolute and beyond challenge (PDF p.224)                        |
+| 02. Locke's defence of the Glorious Revolution of 1688 is a historical example of limited    |
+| government and a right to replace rulers who betray the trust (PDF p.232). Dating/framing    |
+| caution: Locke's Two Treatises of Government was published in 1689 (title page dated 1690),  |
+| and is popularly taught as a direct, after-the-fact justification of 1688. Peter Laslett's   |
+| textual scholarship established that most of the work was actually composed earlier,         |
+| c.1679-1683, during the Exclusion Crisis, likely to justify resistance to Charles II/James   |
+| II's succession rather than to celebrate an event that had not yet occurred. The safer exam  |
+| framing is: Locke's argument for trust, limited government and a right to resist a           |
+| government that breaches that trust was available before 1688 and was then read publicly as  |
+| the philosophical defence of the Revolution Settlement once it was published - not that      |
+| Locke sat down in 1689 to write an apologia for a completed revolution. Use "associated      |
+| with," "came to justify," or "published shortly after and read as vindicating" rather than   |
+| an unqualified "written to defend."                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 9/22: Illustrations Attached to Claims (2/2)
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS (2/2)                                                       |
++----------------------------------------------------------------------------------------------+
+| 03. Gauba's account of nineteenth-century capitalism uses child labour, slum housing and     |
+| harmful commodities as historical illustrations of why laissez-faire had to be revised (PDF  |
+| pp.245-247)                                                                                  |
+| 04. Macaulay's 1835 educational minute and colonial infrastructure in India are cited as     |
+| historical illustrations of how colonial institutions could modernize and dominate at the    |
+| same time (PDF pp.271-272)                                                                   |
+| 05. Gandhi's swaraj discussion here prepares the conceptual ground for the later civil-      |
+| disobedience discussion in Political-Theory/basic/14_Political-Obligation-Resistance-and-    |
+| Law.md                                                                                       |
+| 06. Solidarity in Poland and environmental groups in Eastern Europe are book-period          |
+| illustrations of associational pressure helping authoritarian systems give way to pluralist  |
+| democracy (PDF p.278)                                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 10/22: Comparison Matrix (1/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (1/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. ORGANIC / IDEALIST | State origin = Natural or historical growth; state logically prior  |
+| to the individual (PDF pp.221-223) | State purpose = Secure good life and moral development  |
+| (PDF pp.221-223) | Liberty = Often equated with obedience to the state; critics reject this  |
+| reduction (PDF pp.223-225) | Inequality = Frequently treated as functional or natural        |
+| hierarchy (PDF pp.222-225) | Civil society = Tends to blur state and society (PDF p.224) |   |
+| Route to change = Organic growth and ethical cultivation, not contract or revolution         |
+| 02. SOCIAL-CONTRACT | State origin = Artificial agreement out of the state of nature (PDF    |
+| pp.226-236) | State purpose = Security, order, rights-protection or civil liberty, depending |
+| on thinker (PDF pp.227-234) | Liberty = Hobbes narrows liberty for security; Locke preserves |
+| rights; Rousseau transforms natural into civil liberty (PDF pp.228-234) | Inequality =       |
+| Formally begins from equality of contractors, but Gauba criticizes this simplification (PDF  |
+| pp.235-236) | Civil society = Often secondary to the constituted political order | Route to  |
+| change = Constitutional replacement or renewed consent, especially in Locke (PDF pp.231-232) |
+| 03. LAISSEZ-FAIRE LIBERAL | State origin = Artificial and limited state; may emerge from     |
+| contract or protection needs (PDF pp.236-244) | State purpose = Protect life, property,      |
+| contract and external order (PDF pp.236-244) | Liberty = Negative liberty, market freedom    |
+| and freedom from interference (PDF pp.236-244) | Inequality = Accepts inequality if produced |
+| by free acquisition and exchange; Spencer radicalizes this (PDF pp.242-244) | Civil society  |
+| = Voluntary association and market society are primary | Route to change = Reform by         |
+| limiting state action, not redistributive transformation                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 11/22: Comparison Matrix (2/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (2/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 04. WELFARE / POSITIVE LIBERAL | State origin = State still artificial/instrumental, but     |
+| rooted in moral community and social interdependence (PDF pp.245-260) | State purpose =      |
+| Remove obstacles to self-development and secure welfare, education and social justice (PDF   |
+| pp.250-260) | Liberty = Positive liberty: real capacity to develop and act well (PDF         |
+| pp.251-253) | Inequality = Inequality is tolerable only if socially functional and checked   |
+| by welfare and taxation; Gauba shows liberal debate here (PDF pp.250-257) | Civil society =  |
+| Society is morally prior to the state in Green and Maclver (PDF pp.252-260) | Route to       |
+| change = Incremental democratic reform, regulation and welfare expansion                     |
+| 05. MARXIST / CLASS | State origin = Arises with private property and class division (PDF    |
+| pp.261-263) | State purpose = In reality, preserve dominant-class rule and suppress class    |
+| conflict (PDF pp.262-266) | Liberty = Liberal freedom is formal; real freedom needs class    |
+| emancipation (PDF pp.262-266) | Inequality = Inequality is structurally produced by          |
+| ownership and exploitation (PDF pp.261-265) | Civil society = Civil society can reproduce    |
+| hegemony, especially in Gramsci (PDF pp.266-267) | Route to change = Revolution, proletarian |
+| rule in transition, then withering away of the state (PDF pp.263-266)                        |
+| 06. COMMUNITARIAN | State origin = Political order grows out of socially situated selves,    |
+| not isolated individuals (PDF pp.267-270) | State purpose = Sustain common good, shared      |
+| identity and moral responsibility (PDF pp.268-270) | Liberty = Liberty is meaningful only    |
+| within a well-functioning community (PDF pp.267-270) | Inequality = Worries less about       |
+| abstract equality than about disintegration and misdistribution across social spheres (PDF   |
+| pp.268-270) | Civil society = Community, not mere association, is central (PDF pp.267-270) | |
+| Route to change = Moral reconstruction of community and institutions                         |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 12/22: Comparison Matrix (3/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (3/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 07. POST-COLONIAL | State origin = Shaped by colonial conquest, inherited borders, elites    |
+| and institutions (PDF pp.270-273) | State purpose = Nation-building, state-building and      |
+| developmental fulfilment after empire (PDF pp.272-273) | Liberty = Freedom means more than   |
+| formal independence; it includes decolonizing values and institutions (PDF pp.271-273) |     |
+| Inequality = Inequality is tied to colonial domination, dependence and internal              |
+| fragmentation (PDF pp.270-273) | Civil society = Civil society can be awakened by colonial   |
+| education and national movement, but may also inherit elite bias (PDF pp.271-273) | Route to |
+| change = Decolonization, nation-building and welfare extension                               |
+| 08. GANDHIAN | State origin = State emerges from coercive and centralized political power;   |
+| ideal life points beyond it (PDF pp.273-277) | State purpose = At best a temporary means;    |
+| ideal is self-regulated swaraj (PDF pp.274-277) | Liberty = Freedom is self-rule, self-      |
+| discipline and capacity to resist abused authority (PDF pp.275-277) | Inequality =           |
+| Inequality is moral as well as economic; Gandhi answers it through dignity of labour and     |
+| trusteeship (PDF pp.274-275) | Civil society = Village community and moral society are       |
+| higher than centralized rule (PDF pp.275-277) | Route to change = Non-violent reform, self-  |
+| purification and decentralized reconstruction                                                |
+| 09. FEMINIST | State origin = Existing states are shaped within gendered power relations,    |
+| not gender-neutral social contracts (PDF pp.277-278) | State purpose = Secure justice        |
+| against male violence, unequal power and exclusion (PDF pp.277-278) | Liberty = Freedom      |
+| includes bodily autonomy, reproductive choice and freedom from domination in both public and |
+| private life (PDF pp.277-278) | Inequality = Gender hierarchy is structural, not accidental  |
+| (PDF pp.277-278) | Civil society = Family and intimacy are political sites, not extra-       |
+| political zones (PDF p.277) | Route to change = Legal reform, welfare claims and deeper      |
+| transformation of patriarchal structures                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/22: Comparison Matrix (4/4)
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX (4/4)                                                                      |
++----------------------------------------------------------------------------------------------+
+| 10. PLURALIST | State origin = Modern democracy produces multiple centres of power and       |
+| association (PDF pp.278-279) | State purpose = Coordinate, arbitrate and justify authority   |
+| through justice across groups (PDF pp.278-279) | Liberty = Freedom of association is         |
+| indispensable (PDF p.278) | Inequality = Early pluralism underestimated unequal bargaining   |
+| power; Dahl and Lindblom later qualify this (PDF p.279) | Civil society = Civil society is   |
+| the bulwark of democratic order (PDF p.278) | Route to change = Redistribution of power,     |
+| stronger associations and democratic correction                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/22: Examiner Trap Firewall (1/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (1/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: "Organic theory simply means patriotism." => REPAIR: In Gauba it is a strong claim |
+| that the state is natural, ethically prior and superior to the individual (PDF pp.221-223)   |
+| 02. TRAP: "All contract theorists defend limited government." => REPAIR: Hobbes does not;    |
+| Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF    |
+| pp.230-234)                                                                                  |
+| 03. TRAP: "Liberalism always means minimal state." => REPAIR: Gauba clearly distinguishes    |
+| laissez-faire from welfare or positive liberalism (PDF pp.243-260)                           |
+| 04. TRAP: "Pluralism proves the state is neutral." => REPAIR: Even Gauba's pluralist         |
+| discussion admits unequal groups and privileged interests; neutrality remains contested (PDF |
+| p.279)                                                                                       |
+| 05. TRAP: "Gandhi was just another anarchist." => REPAIR: Gandhi shares suspicion of         |
+| coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha, not |
+| in the same premises as Bakunin or Kropotkin (PDF pp.274-277)                                |
+| 06. TRAP: "Feminism studies only representation in parliament." => REPAIR: Gauba's feminist  |
+| section insists that domination extends into intimate relations and that the personal itself |
+| is political (PDF p.277)                                                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/22: Examiner Trap Firewall (2/2)
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL (2/2)                                                                 |
++----------------------------------------------------------------------------------------------+
+| 07. TRAP: "Miliband and Poulantzas say the same thing about the capitalist state." =>        |
+| REPAIR: Miliband's instrumentalism (state = direct tool of capitalist class via              |
+| personnel/economic power/vested interest) is explicitly rejected by Poulantzas's             |
+| structuralism (relative autonomy of the state, legitimacy through "the people," state as     |
+| arena of class struggle); Gauba himself flags the risk that Poulantzas's autonomy thesis can |
+| drift away from core Marxism (PDF p.266)                                                     |
+| 08. TRAP: "Locke wrote the Two Treatises after 1688 specifically to celebrate the Glorious   |
+| Revolution." => REPAIR: Laslett's scholarship shows most of the text was composed            |
+| c.1679-1683, before the Revolution; it was published in 1689 and then read as the            |
+| Revolution's philosophical defence - composition predates the event popularly said to have   |
+| inspired it                                                                                  |
+| 09. TRAP: "Millett and Eisenstein make the identical feminist argument about the state." =>  |
+| REPAIR: Millett's entry point is the personal/intimate sphere and "power-structured          |
+| relationships"; Eisenstein's is the liberal state's claimed neutrality and its socialist-    |
+| feminist critique of capitalist welfare policy - distinct emphases within one broader        |
+| feminist perspective (PDF pp.277-278)                                                        |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/22: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Use Political-Theory/advanced/13_Diverse-Perspectives-on-the-State.md for the full       |
+| direct-book reconstruction and the larger comparative argument                               |
+| 02. Use Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md before  |
+| this file if you need the basic distinction between state, government, society and civil     |
+| society                                                                                      |
+| 03. Use Political-Theory/basic/11_Sovereignty-and-Pluralism.md and Political-                |
+| Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md to connect state theory with  |
+| sovereignty and global pressures                                                             |
+| 04. Use Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md, Political-    |
+| Theory/basic/06_Feminism-Sex-and-Gender.md and Political-Theory/basic/07_Nature-of-Politics- |
+| and-Communitarianism.md for ideology-specific foundations already studied separately         |
+| 05. Use Philosophy/paper-2/socio-political/Individual-and-State.md,                          |
+| Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md and Philosophy/paper-2/socio-    |
+| political/Gender-Discrimination.md for Philosophy-optional parallels                         |
+| 06. Boundary: this file remains conceptual; it does not reproduce Indian constitutional      |
+| articles, statutes or case law                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/22: Revision Capsule
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. Start with Gauba's caution: there is no final verdict on the state; different theories   |
+| illuminate different aspects                                                                 |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Then classify the perspectives in three clusters: ethical-natural (organic), liberal-    |
+| instrumental (contract, laissez-faire, welfare, pluralist), and critical-transformative      |
+| (Marxist, communitarian, post-colonial, Gandhian, feminist)                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Use the mandatory six tests in any answer: origin, purpose, liberty, inequality, civil   |
+| society, route to change                                                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add one sentence that liberal neutrality is disputed by Marxist, feminist, post-colonial |
+| and pluralist critics                                                                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. End with a balanced conclusion: the state can be read as protector, welfare agent, class |
+| instrument, coercive machine or coordinator depending on what dimension of power one         |
+| foregrounds                                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/22: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. natural growth / contract / class division / colonial history / associations             |
+| 02. Organic theory: the state is like an organism; individuals are like its organs, and      |
+| their worth depends on the whole (PDF pp.221-223)                                            |
+| 03. Natural state vs artificial state: organic theory treats the state as a natural          |
+| condition of civilized life, whereas liberal and Marxist theories treat it as historically   |
+| produced or                                                                                  |
+| 04. Aristotle: the state exists for life and continues for the good life; man is             |
+| intelligible as a political being only within the polis (PDF pp.221-222)                     |
+| 05. MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and recover |
+| community, embeddedness and differentiated spheres of justice (PDF pp.267-270)               |
+| 06. Perspective - State origin - State purpose - Liberty - Inequality - Civil society -      |
+| Route to change                                                                              |
+| 07. "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the      |
+| state is natural, ethically prior and superior to the individual (PDF pp.221-223)            |
+| 08. Directive - What it demands - Trap to avoid                                              |
+| 09. 1. Aristotle's polis argument - state exists for life, continues for the good life       |
+| (organic/ethical cluster)                                                                    |
+| 10. India's post-colonial state-building (Constituent Assembly's balancing of colonial       |
+| administrative                                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/22: Must-Write Keyword Bank (1/2)
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK (1/2)                                                                |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| social-contract                                                                              |
+| 02. Organic theory:; Social-contract theory:; Laissez-faire individualism:; Welfare /        |
+| positive liberal state:; Class theory of the state:; Communitarian perspective:; Post-       |
+| colonial perspective:                                                                        |
+| 03. Natural state vs artificial state:; Ethical institution vs instrument:; Negative liberty |
+| vs positive liberty vs moral self-rule:; State above society vs state within society:;       |
+| Inequality as natural vs inequality as produced:; Neutral umpire = real description of all   |
+| liberal states.; Six-Test Comparison                                                         |
+| 04. Aristotle:; Burke and Hegel:; Hobbes, Locke, Rousseau:; Adam Smith, Bentham, James Mill, |
+| Spencer, Nozick:; J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver:; Organic; Contract        |
+| 05. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas:; political society; civil society;   |
+| instrumentalist theory; structuralist theory; relative autonomy; claim (Miliband) ->         |
+| objection (Poulantzas) -> limit                                                              |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 20/22: Must-Write Keyword Bank (2/2)
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK (2/2)                                                                |
++----------------------------------------------------------------------------------------------+
+| 06. Organic / idealist; Social-contract; Laissez-faire liberal; Welfare / positive liberal;  |
+| Marxist / class; Communitarian; Post-colonial                                                |
+| 07. "Organic theory simply means patriotism."; "All contract theorists defend limited        |
+| government."; "Liberalism always means minimal state."; "Pluralism proves the state is       |
+| neutral."; "Gandhi was just another anarchist."; "Feminism studies only representation in    |
+| parliament."; "Miliband and Poulantzas say the same thing about the capitalist state."       |
+| 08. "Diverse perspectives" essay question:; Marxist-state-specific question:;                |
+| "Compare/Contrast the liberal and Marxist views of the state"; "Critically examine the       |
+| Marxist theory of the state"; "Discuss the feminist critique of the state"; "Evaluate the    |
+| post-colonial state"; Claim (Miliband):                                                      |
+| 09. Claim:; Evidence:; Significance:; Limit:; 10-marker:; 15-marker:; Named Evidence         |
+| 10. not; Identify the proposition and the concept; Reconstruct the strongest argument for    |
+| it; Test the counterargument and the conditions; Apply named evidence; Give a graded         |
+| verdict; Never treat an unverified quotation as verbatim                                     |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 21/22: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Compare the organic and social-contract perspectives on the origin and purpose |
+| of the state. Answer in 150 words                                                            |
+| 02. 10 MARKS: Distinguish the laissez-faire state from the welfare or positive-liberal       |
+| state. Answer in 150 words                                                                   |
+| 03. 10 MARKS: Critically examine the Marxist theory of the state with reference to Miliband  |
+| and Poulantzas. Answer in 150 words                                                          |
+| 04. 15 MARKS: Compare Gandhian and pluralist criticisms of centralised state power. Answer   |
+| in 250 words                                                                                 |
+| 05. 15 MARKS: Evaluate diverse perspectives on the state through origin, purpose, liberty,   |
+| inequality, civil society and route to change. Answer in 250 words                           |
+| 06. 15 MARKS: How do feminist and post-colonial perspectives widen classical state theory?   |
+| Answer in 250 words                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 22/22: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Natural state vs artificial state: organic theory treats the state as a natural   |
+| condition of civilized life, whereas liberal and Marxist theories treat it as historically   |
+| produced or MacIntyre, Sandel, Walzer, Taylor: they criticize the atomistic liberal self and |
+| recover community, embeddedness and differentiated spheres of justice (PDF pp. 267-270)      |
++----------------------------------------------------------------------------------------------+
+```
+
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Organic theory**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+### MCQ 1
 
-B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+Which proposition is correctly associated with **Organic theory**?
 
-C. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+- A. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- B. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
+- C. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+- D. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
 
-D. they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Organic theory.
+- **B:** B Attaches to J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver, not Organic theory.
+- **C:** C Attaches to Duguit, Laski, Maclver, Dahl and Lindblom, not Organic theory.
+- **D:** D Attaches to Burke and Hegel, not Organic theory.
 
-**Explanation:** The canonical Basic owner pairs **Organic theory** with **the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which theory treats the state as a natural ethical whole and individuals as functionally related parts?
-
-A. Adam Smith, Bentham, James Mill, Spencer, Nozick
-
-B. Organic theory
-
-C. Gandhi
-
-D. Laissez-faire individualism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).** with **Organic theory**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Organic theory by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Social-contract theory**? Other options belong to different named entries.
+Which proposition is correctly associated with **Social-contract theory**?
 
-A. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+- A. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+- B. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+- C. the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- D. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
 
-B. laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
+**Answer: B**
 
-C. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+**Option-by-option explanation**
+- **A:** A Attaches to Aristotle, not Social-contract theory.
+- **B:** B States the source-recorded proposition for Social-contract theory.
+- **C:** C Attaches to Laissez-faire individualism, not Social-contract theory.
+- **D:** D Attaches to Communitarian perspective, not Social-contract theory.
 
-D. he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Social-contract theory** with **the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which theory justifies an artificial state through agreement designed to overcome the defects of a state of nature?
-
-A. J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver
-
-B. Kate Millett and Zillah Eisenstein — distinguished, not merged
-
-C. Welfare / positive liberal state
-
-D. Social-contract theory
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).** with **Social-contract theory**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Social-contract theory by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Laissez-faire individualism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Laissez-faire individualism**?
 
-A. the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- A. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+- B. they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+- C. the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- D. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
 
-B. the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
+**Answer: C**
 
-C. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+**Option-by-option explanation**
+- **A:** A Attaches to Social-contract theory, not Laissez-faire individualism.
+- **B:** B Attaches to Adam Smith, Bentham, James Mill, Spencer, Nozick, not Laissez-faire individualism.
+- **C:** C States the source-recorded proposition for Laissez-faire individualism.
+- **D:** D Attaches to Post-colonial perspective, not Laissez-faire individualism.
 
-D. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Laissez-faire individualism** with **the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which position confines government mainly to protection, justice, contract and external defence?
-
-A. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas
-
-B. Laissez-faire individualism
-
-C. Duguit, Laski, Maclver, Dahl and Lindblom
-
-D. Class theory of the state
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).** with **Laissez-faire individualism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Laissez-faire individualism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Welfare / positive liberal state**? Other options belong to different named entries.
+Which proposition is correctly associated with **Welfare / positive liberal state**?
 
-A. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+- A. he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
+- B. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
+- C. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- D. the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).
 
-B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Answer: D**
 
-C. the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).
+**Option-by-option explanation**
+- **A:** A Attaches to Gandhi, not Welfare / positive liberal state.
+- **B:** B Attaches to J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver, not Welfare / positive liberal state.
+- **C:** C Attaches to Organic theory, not Welfare / positive liberal state.
+- **D:** D States the source-recorded proposition for Welfare / positive liberal state.
 
-D. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Welfare / positive liberal state** with **the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which position argues that public action may be needed to create the real conditions of freedom and self-development?
-
-A. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed
-
-B. Organic theory
-
-C. Communitarian perspective
-
-D. Welfare / positive liberal state
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).** with **Welfare / positive liberal state**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Welfare / positive liberal state by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Class theory of the state**? Other options belong to different named entries.
+Which proposition is correctly associated with **Class theory of the state**?
 
-A. the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
+- A. the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
+- B. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
+- C. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+- D. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
 
-B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Answer: A**
 
-C. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Class theory of the state.
+- **B:** B Attaches to Burke and Hegel, not Class theory of the state.
+- **C:** C Attaches to Duguit, Laski, Maclver, Dahl and Lindblom, not Class theory of the state.
+- **D:** D Attaches to Organic theory, not Class theory of the state.
 
-D. they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Class theory of the state** with **the state arises with private property and class division and serves dominant-class power (PDF pp.261-266)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which theory explains the state through private property, class division and dominant-class power?
-
-A. MacIntyre, Sandel, Walzer, Taylor
-
-B. Class theory of the state
-
-C. Social-contract theory
-
-D. Post-colonial perspective
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).** with **Class theory of the state**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Class theory of the state by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Communitarian perspective**? Other options belong to different named entries.
+Which proposition is correctly associated with **Communitarian perspective**?
 
-A. organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
+- A. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+- B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+- C. the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).
+- D. the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
 
-B. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+**Answer: B**
 
-C. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Option-by-option explanation**
+- **A:** A Attaches to Aristotle, not Communitarian perspective.
+- **B:** B States the source-recorded proposition for Communitarian perspective.
+- **C:** C Attaches to Pluralist perspective, not Communitarian perspective.
+- **D:** D Attaches to Gandhian perspective, not Communitarian perspective.
 
-D. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Communitarian perspective** with **the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which perspective rejects the detached liberal self and starts from socially embedded identity and shared goods?
-
-A. Gandhi
-
-B. Laissez-faire individualism
-
-C. Gandhian perspective
-
-D. Communitarian perspective
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).** with **Communitarian perspective**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Communitarian perspective by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Post-colonial perspective**? Other options belong to different named entries.
+Which proposition is correctly associated with **Post-colonial perspective**?
 
-A. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+- A. they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+- B. the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- C. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+- D. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
 
-B. laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
+**Answer: C**
 
-C. they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+**Option-by-option explanation**
+- **A:** A Attaches to Adam Smith, Bentham, James Mill, Spencer, Nozick, not Post-colonial perspective.
+- **B:** B Attaches to Laissez-faire individualism, not Post-colonial perspective.
+- **C:** C States the source-recorded proposition for Post-colonial perspective.
+- **D:** D Attaches to Social-contract theory, not Post-colonial perspective.
 
-D. he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Post-colonial perspective** with **the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which perspective studies inherited borders, elites, institutions and dependencies after formal empire?
-
-A. Kate Millett and Zillah Eisenstein — distinguished, not merged
-
-B. Post-colonial perspective
-
-C. Welfare / positive liberal state
-
-D. Feminist perspective
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).** with **Post-colonial perspective**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Post-colonial perspective by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Gandhian perspective**? Other options belong to different named entries.
+Which proposition is correctly associated with **Gandhian perspective**?
 
-A. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+- A. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+- B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+- C. the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).
+- D. the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
 
-B. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
+**Answer: D**
 
-C. the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
+**Option-by-option explanation**
+- **A:** A Attaches to Aristotle, not Gandhian perspective.
+- **B:** B Attaches to Communitarian perspective, not Gandhian perspective.
+- **C:** C Attaches to Pluralist perspective, not Gandhian perspective.
+- **D:** D States the source-recorded proposition for Gandhian perspective.
 
-D. both expose how state power is gendered, but from different entry points.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Gandhian perspective** with **the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which perspective treats centralised authority as coercive and places swaraj and moral self-rule above state machinery?
-
-A. Duguit, Laski, Maclver, Dahl and Lindblom
-
-B. Class theory of the state
-
-C. Pluralist perspective
-
-D. Gandhian perspective
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).** with **Gandhian perspective**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Gandhian perspective by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Feminist perspective**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278).
+- A. Feminist perspective — the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and.
+- B. State above society vs state within society — they represent different forms of liberal-individualist or libertarian insistence on property.
+- C. Post-colonial perspective — organic/idealist thought treats the state as ethically exalted, while liberal, Marxist.
+- D. Laissez-faire individualism — the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty.
 
-B. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+**Answer: A**
 
-C. they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
+**Option-by-option explanation**
+- **A:** A Matches the record: Feminist perspective is associated with this proposition.
+- **B:** B Source disagrees: State above society vs state within society is recorded with organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+- **C:** C Misplaced: Post-colonial perspective is recorded with the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+- **D:** D Wrong attachment: Laissez-faire individualism is recorded with the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
 
-D. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Feminist perspective** with **the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which perspective makes family, sexuality, labour and welfare part of the analysis of political power?
-
-A. Organic theory
-
-B. Feminist perspective
-
-C. Communitarian perspective
-
-D. Ethical institution vs instrument
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278).** with **Feminist perspective**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Feminist perspective; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Pluralist perspective**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
+- A. Communitarian perspective — the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+- B. Pluralist perspective — the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF.
+- C. Gandhian perspective — they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+- D. Aristotle — he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
 
-B. Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
+**Answer: B**
 
-C. the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).
+**Option-by-option explanation**
+- **A:** A Source disagrees: Communitarian perspective is recorded with the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+- **B:** B Faithful pairing: Pluralist perspective is associated with this proposition.
+- **C:** C Belongs elsewhere: Gandhian perspective is recorded with the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
+- **D:** D Cross-attached: Aristotle is recorded with the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
 
-D. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Pluralist perspective** with **the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which perspective treats the state as coordinator among several associations rather than the sole centre of power?
-
-A. Social-contract theory
-
-B. Post-colonial perspective
-
-C. Negative liberty vs positive liberty vs moral self-rule
-
-D. Pluralist perspective
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).** with **Pluralist perspective**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Pluralist perspective; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Ethical institution vs instrument**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
+- A. Post-colonial perspective — the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF.
+- B. State above society vs state within society — the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order.
+- C. Ethical institution vs instrument — organic/idealist thought treats the state as ethically exalted, while liberal, Marxist.
+- D. Feminist perspective — they represent different forms of liberal-individualist or libertarian insistence on property.
 
-B. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+**Answer: C**
 
-C. they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+**Option-by-option explanation**
+- **A:** A Misplaced: Post-colonial perspective is recorded with the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+- **B:** B Belongs elsewhere: State above society vs state within society is recorded with organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+- **C:** C Exact pair: Ethical institution vs instrument is associated with this proposition.
+- **D:** D Cross-attached: Feminist perspective is recorded with the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278).
 
-D. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Ethical institution vs instrument** with **organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which distinction separates an exalted moral whole from a device used for security, welfare, class rule or coordination?
-
-A. Laissez-faire individualism
-
-B. Ethical institution vs instrument
-
-C. Gandhian perspective
-
-D. State above society vs state within society
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).** with **Ethical institution vs instrument**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Ethical institution vs instrument; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Negative liberty vs positive liberty vs moral self-rule**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+- A. Hobbes, Locke, Rousseau — the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and.
+- B. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed — organic theory tends to blur state and society, while Marxists.
+- C. Ethical institution vs instrument — the post-colonial state must be understood through colonial domination, neo-colonial dependence.
+- D. Negative liberty vs positive liberty vs moral self-rule — laissez-faire liberalism emphasizes non-interference.
 
-B. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+**Answer: D**
 
-C. laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Hobbes, Locke, Rousseau is recorded with all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+- **B:** B Cross-attached: Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed is recorded with Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
+- **C:** C Not this pair: Ethical institution vs instrument is recorded with organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
+- **D:** D Exact pair: Negative liberty vs positive liberty vs moral self-rule is associated with this proposition.
 
-D. both expose how state power is gendered, but from different entry points.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Negative liberty vs positive liberty vs moral self-rule** with **laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which distinction compares non-interference, enabling capacity and disciplined swaraj?
-
-A. Feminist perspective
-
-B. Aristotle
-
-C. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas
-
-D. Negative liberty vs positive liberty vs moral self-rule
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).** with **Negative liberty vs positive liberty vs moral self-rule**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Negative liberty vs positive liberty vs moral self-rule; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **State above society vs state within society**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+- A. State above society vs state within society — organic theory tends to blur state and society, while Marxists.
+- B. Feminist perspective — the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- C. Ethical institution vs instrument — they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+- D. Post-colonial perspective — the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
 
-B. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+**Answer: A**
 
-C. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Option-by-option explanation**
+- **A:** A Kept where the source puts it: State above society vs state within society is associated with this proposition.
+- **B:** B Mismatched: Feminist perspective is recorded with the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278).
+- **C:** C Not this pair: Ethical institution vs instrument is recorded with organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
+- **D:** D Wrong attachment: Post-colonial perspective is recorded with the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
 
-D. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **State above society vs state within society** with **organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which distinction tests whether political authority absorbs society or remains one institution among social forces?
-
-A. Class theory of the state
-
-B. State above society vs state within society
-
-C. Burke and Hegel
-
-D. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).** with **State above society vs state within society**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to State above society vs state within society; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Aristotle**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
+- A. Communitarian perspective — the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).
+- B. Aristotle — the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+- C. Gandhian perspective — the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- D. Social-contract theory — they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
 
-B. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+**Answer: B**
 
-C. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+**Option-by-option explanation**
+- **A:** A Mismatched: Communitarian perspective is recorded with the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+- **B:** B Correct attachment: Aristotle is associated with this proposition.
+- **C:** C Wrong attachment: Gandhian perspective is recorded with the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
+- **D:** D Source disagrees: Social-contract theory is recorded with the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
 
-D. the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Aristotle** with **the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Who argues that the state exists for life and continues for the good life?
-
-A. Communitarian perspective
-
-B. Ethical institution vs instrument
-
-C. Hobbes, Locke, Rousseau
-
-D. Aristotle
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).** with **Aristotle**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Aristotle; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Burke and Hegel**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
+- A. Organic theory — the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).
+- B. Duguit, Laski, Maclver, Dahl and Lindblom — the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
+- C. Burke and Hegel — Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
+- D. J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver — he treats the state as coercive, upholds swaraj and trusteeship.
 
-B. Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
+**Answer: C**
 
-C. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Option-by-option explanation**
+- **A:** A Not this pair: Organic theory is recorded with the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- **B:** B Wrong attachment: Duguit, Laski, Maclver, Dahl and Lindblom is recorded with they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+- **C:** C Records the association: Burke and Hegel is associated with this proposition.
+- **D:** D Misplaced: J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver is recorded with they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
 
-D. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Burke and Hegel** with **Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which pairing combines historical-organic growth with the modern idealist elevation of the ethical state?
-
-A. Post-colonial perspective
-
-B. Burke and Hegel
-
-C. Negative liberty vs positive liberty vs moral self-rule
-
-D. Adam Smith, Bentham, James Mill, Spencer, Nozick
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).** with **Burke and Hegel**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Burke and Hegel; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Hobbes, Locke, Rousseau**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+- A. Ethical institution vs instrument — the post-colonial state must be understood through colonial domination, neo-colonial dependence.
+- B. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed — organic theory tends to blur state and society, while Marxists.
+- C. Negative liberty vs positive liberty vs moral self-rule — the state regulates power in both public and intimate life; justice requires exposing how.
+- D. Hobbes, Locke, Rousseau — all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance.
 
-B. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+**Answer: D**
 
-C. all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Ethical institution vs instrument is recorded with organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
+- **B:** B Source disagrees: Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed is recorded with Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
+- **C:** C Misplaced: Negative liberty vs positive liberty vs moral self-rule is recorded with laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
+- **D:** D Source-exact: Hobbes, Locke, Rousseau is associated with this proposition.
 
-D. laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Hobbes, Locke, Rousseau** with **all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which group uses contract to defend security, limited rights-protection and popular sovereignty in different ways?
-
-A. Gandhian perspective
-
-B. State above society vs state within society
-
-C. J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver
-
-D. Hobbes, Locke, Rousseau
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).** with **Hobbes, Locke, Rousseau**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Hobbes, Locke, Rousseau; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Adam Smith, Bentham, James Mill, Spencer, Nozick**? Other options belong to different named entries.
+Consider the following statements:
+1. **Adam Smith, Bentham, James Mill, Spencer, Nozick** is associated with: they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+2. **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed** is associated with: they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+Which option is correct?
 
-A. they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
+**Answer: A**
 
-C. the state is a coercive and centralized machine, morally inferior to self-rule, self-discipline and decentralized swaraj (PDF pp.273-277).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Adam Smith, Bentham, James Mill, Spencer, Nozick** with **they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which group supplies distinct market, utilitarian, evolutionary and rights-based arguments for limited government?
-
-A. Feminist perspective
-
-B. Adam Smith, Bentham, James Mill, Spencer, Nozick
-
-C. Aristotle
-
-D. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).** with **Adam Smith, Bentham, James Mill, Spencer, Nozick**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Adam Smith, Bentham, James Mill, Spencer, Nozick does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver**? Other options belong to different named entries.
+Consider the following statements:
+1. **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver** is associated with: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+2. **MacIntyre, Sandel, Walzer, Taylor** is associated with: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+Which option is correct?
 
-A. both expose how state power is gendered, but from different entry points.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the state regulates power in both public and intimate life; justice requires exposing how patriarchy is embedded in policy and institutions (PDF pp.277-278).
+**Answer: B**
 
-C. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver** with **they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which group revises liberalism toward social responsibility, positive liberty, welfare and service?
-
-A. Pluralist perspective
-
-B. Burke and Hegel
-
-C. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed
-
-D. J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).** with **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas**? Other options belong to different named entries.
+Consider the following statements:
+1. **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas** is associated with: they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
+2. **Gandhi** is associated with: he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
+Which option is correct?
 
-A. they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+**Answer: C**
 
-C. the state is not the sole centre of power but should coordinate and arbitrate among multiple associations and interests (PDF pp.278-279).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas** with **they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which group develops class accounts from coercive rule through hegemony, instrumentalism and relative autonomy?
-
-A. Ethical institution vs instrument
-
-B. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas
-
-C. Hobbes, Locke, Rousseau
-
-D. MacIntyre, Sandel, Walzer, Taylor
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).** with **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed**? Other options belong to different named entries.
+Consider the following statements:
+1. **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed** is associated with: both expose how state power is gendered, but from different entry points.
+2. **Kate Millett and Zillah Eisenstein — distinguished, not merged** is associated with: the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+Which option is correct?
 
-A. the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).
+**Answer: D**
 
-C. Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed** with **Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which debate contrasts direct elite capture and leverage with structural service under relative autonomy?
-
-A. Negative liberty vs positive liberty vs moral self-rule
-
-B. Adam Smith, Bentham, James Mill, Spencer, Nozick
-
-C. Gandhi
-
-D. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.** with **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **MacIntyre, Sandel, Walzer, Taylor**? Other options belong to different named entries.
+Consider the following statements:
+1. **MacIntyre, Sandel, Walzer, Taylor** is associated with: they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+2. **Duguit, Laski, Maclver, Dahl and Lindblom** is associated with: the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).
+Which option is correct?
 
-A. they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+**Answer: A**
 
-C. the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. laissez-faire liberalism emphasizes non-interference, welfare liberalism emphasizes enabling conditions, and Gandhi ties freedom to self-discipline and resistance to domination (PDF pp.236-260, 275-277).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **MacIntyre, Sandel, Walzer, Taylor** with **they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which group criticises the unencumbered self through tradition, community, differentiated spheres and recognition?
-
-A. State above society vs state within society
-
-B. MacIntyre, Sandel, Walzer, Taylor
-
-C. J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver
-
-D. Kate Millett and Zillah Eisenstein — distinguished, not merged
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).** with **MacIntyre, Sandel, Walzer, Taylor**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with MacIntyre, Sandel, Walzer, Taylor does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Gandhi**? Other options belong to different named entries.
+Consider the following statements:
+1. **Gandhi** is associated with: the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+2. **Organic theory** is associated with: the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+Which option is correct?
 
-A. the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. organic theory tends to blur state and society, while Marxists, pluralists and Maclver-style liberals distinguish them sharply (PDF pp.224-225, 258-260, 261-266).
+**Answer: B**
 
-C. he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Gandhi** with **he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Who links criticism of the coercive state to ahimsa, trusteeship, bread labour and decentralised swaraj?
-
-A. Aristotle
-
-B. Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas
-
-C. Duguit, Laski, Maclver, Dahl and Lindblom
-
-D. Gandhi
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).** with **Gandhi**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Gandhi does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Kate Millett and Zillah Eisenstein — distinguished, not merged**? Other options belong to different named entries.
+Consider the following statements:
+1. **Kate Millett and Zillah Eisenstein — distinguished, not merged** is associated with: both expose how state power is gendered, but from different entry points.
+2. **Social-contract theory** is associated with: the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
+Which option is correct?
 
-A. both expose how state power is gendered, but from different entry points.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the state should create conditions for moral freedom and social welfare, especially for vulnerable sections (PDF pp.245-260).
+**Answer: C**
 
-C. the state exists for life and continues for the good life; man is intelligible as a political being only within the polis (PDF pp.221-222).
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing political society (which relies on force/direct domination through "juridical" government) from civil society (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Kate Millett and Zillah Eisenstein — distinguished, not merged** with **both expose how state power is gendered, but from different entry points**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which pairing must be separated into intimate power and personal politics on one side, and liberal-state neutrality plus political economy on the other?
-
-A. Burke and Hegel
-
-B. Kate Millett and Zillah Eisenstein — distinguished, not merged
-
-C. Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed
-
-D. Organic theory
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **both expose how state power is gendered, but from different entry points.** with **Kate Millett and Zillah Eisenstein — distinguished, not merged**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Kate Millett and Zillah Eisenstein — distinguished, not merged does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Duguit, Laski, Maclver, Dahl and Lindblom**? Other options belong to different named entries.
+Consider the following statements:
+1. **Duguit, Laski, Maclver, Dahl and Lindblom** is associated with: the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
+2. **Laissez-faire individualism** is associated with: the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
+Which option is correct?
 
-A. the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. Burke stresses historical growth; Hegel heightens the state's ethical image to an almost sacred level (PDF p.222).
+**Answer: D**
 
-C. they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Miliband explains capitalist state service through personnel, direct economic leverage and officials' vested interests; Poulantzas explains it through structural dependence combined with relative autonomy.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Duguit, Laski, Maclver, Dahl and Lindblom** with **they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Duguit, Laski, Maclver, Dahl and Lindblom does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which group develops associational and polyarchic accounts of dispersed power, while recognising unequal groups?
+Which correction is most defensible for the claim: **"Organic theory simply means patriotism."**?
 
-A. Hobbes, Locke, Rousseau
+- A. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+- B. Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+- C. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- D. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
 
-B. MacIntyre, Sandel, Walzer, Taylor
+**Answer: A**
 
-C. Social-contract theory
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+- **B:** B Repairs a different misconception, '"All contract theorists defend limited government."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Feminism studies only representation in parliament."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
 
-D. Duguit, Laski, Maclver, Dahl and Lindblom
+> **Examiner trap:** Repair the exact overstatement about "Organic theory simply means patriotism.", not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).** with **Duguit, Laski, Maclver, Dahl and Lindblom**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **"All contract theorists defend limited government."**?
+
+- A. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+- B. Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+- C. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- D. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Organic theory simply means patriotism."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+- **C:** C Repairs a different misconception, '"Feminism studies only representation in parliament."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "All contract theorists defend limited government.", not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Liberalism always means minimal state."**?
+
+- A. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political.
+- B. Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+- C. Gauba clearly distinguishes laissez-faire from welfare or positive liberalism (PDF pp.243-260).
+- D. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Feminism studies only representation in parliament."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"All contract theorists defend limited government."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Gauba clearly distinguishes laissez-faire from welfare or positive liberalism (PDF pp.243-260).
+- **D:** D Repairs a different misconception, '"Organic theory simply means patriotism."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Liberalism always means minimal state.", not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Gandhi was just another anarchist."**?
+
+- A. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223); the other dimensions would remain secondary under this reading.
+- B. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- C. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- D. Gandhi shares suspicion of coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Organic theory simply means patriotism."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Feminism studies only representation in parliament."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Gandhi shares suspicion of coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha, not in the same premises as Bakunin or Kropotkin (PDF pp.274-277).
+
+> **Examiner trap:** Repair the exact overstatement about "Gandhi was just another anarchist.", not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Feminism studies only representation in parliament."**?
+
+- A. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- B. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+- C. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+- D. Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- **B:** B Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"Organic theory simply means patriotism."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, '"All contract theorists defend limited government."', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Feminism studies only representation in parliament.", not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Miliband and Poulantzas say the same thing about the capitalist state."**?
+
+- A. Millett's entry point is the personal/intimate sphere and "power-structured relationships"; Eisenstein's is the liberal state's claimed neutrality and its.
+- B. Miliband's instrumentalism (state = direct tool of capitalist class via personnel/economic power/vested interest) is explicitly rejected by Poulantzas's.
+- C. Gandhi shares suspicion of coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha.
+- D. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Millett and Eisenstein make the identical feminist argument about the state."', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Miliband's instrumentalism (state = direct tool of capitalist class via personnel/economic power/vested interest) is explicitly rejected by Poulantzas's structuralism (relative autonomy of the state, legitimacy through "the people," state as arena of class struggle); Gauba himself flags the risk that Poulantzas's autonomy thesis can drift away from core Marxism (PDF p.266).
+- **C:** C Repairs a different misconception, '"Gandhi was just another anarchist."', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Miliband and Poulantzas say the same thing about, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **"Millett and Eisenstein make the identical feminist argument about the state."**?
+
+- A. Gandhi shares suspicion of coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha.
+- B. Miliband's instrumentalism (state = direct tool of capitalist class via personnel/economic power/vested interest) is explicitly rejected by Poulantzas's.
+- C. Millett's entry point is the personal/intimate sphere and "power-structured relationships"; Eisenstein's is the liberal state's claimed neutrality and its.
+- D. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Gandhi was just another anarchist."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Miliband and Poulantzas say the same thing about the capitalist state."', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Millett's entry point is the personal/intimate sphere and "power-structured relationships"; Eisenstein's is the liberal state's claimed neutrality and its socialist-feminist critique of capitalist welfare policy — distinct emphases within one broader feminist perspective (PDF pp.277-278).
+- **D:** D Repairs a different misconception, 'Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about "Millett and Eisenstein make the identical feminist, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Organic theory means the self is socially embedded, so political order must attend not only to rights but also to shared values and community (PDF pp.267-270).**?
+
+- A. In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
+- B. Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- C. Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
+- D. Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, '"Organic theory simply means patriotism."', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, '"Feminism studies only representation in parliament."', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, '"All contract theorists defend limited government."', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Organic theory means the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
+
+> **Examiner trap:** Repair the exact overstatement about Organic theory means the self is socially embedded,, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ STATUS
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No directly owned verified UPSC PYQ is assigned to this Political Theory topic. Political Theory is a conceptual-support repository, and the source mapping expressly prohibits proxy, alias or synthetic PYQ routing. The questions below are therefore labelled as original practice, not PYQs.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Diverse Perspectives on the State** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
----
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+### Original GS Mains Model 1 — 10 marks
 
-#### Original Mains Practice 1 — 10 marks
+**Question:** Compare the organic and social-contract perspectives on the origin and purpose of the state. Answer in 150 words.
 
-**Question:** Compare the organic and social-contract perspectives on the origin and purpose of the state. Answer in about 150 words.
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of the organic and social-contract perspectives on the origin and purpose of the state in the opening line, carry the argument on Introduction, Organic, Core and Aristotle, and reserve the closing sentences for the qualification that conclusion: Organic theory explains embedded political membership but risks absorption, while contract theory makes authority answerable to consent but relies on simplified origin stories and unequal imagined contractors.
 
+**Model answer (137 words):**
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+Introduction: Organic and social-contract theories differ fundamentally over whether the state is a natural ethical whole or an artificial institution created by individuals. Core analysis: Aristotle treats political association as the completion of human sociability and the condition of the good life; Burke stresses historical growth, while Hegel elevates the state's ethical significance. Contract thinkers begin from individuals outside political authority. Hobbes creates an absolute sovereign for security, Locke a limited trust for rights, and Rousseau a popular sovereign that converts natural into civil freedom. Contract thus makes legitimacy depend on an account of authorisation and purpose rather than organic priority. Neither origin story alone settles legitimate state action. Conclusion: Organic theory explains embedded political membership but risks absorption, while contract theory makes authority answerable to consent but relies on simplified origin stories and unequal imagined contractors.
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Organic and social-contract theories differ fundamentally over whether the state is a natural ethical whole or an artificial institution created by individuals.
-
-**Core analysis:** Aristotle treats political association as the completion of human sociability and the condition of the good life; Burke stresses historical growth, while Hegel elevates the state's ethical significance. Contract thinkers begin from individuals outside political authority. Hobbes creates an absolute sovereign for security, Locke a limited trust for rights, and Rousseau a popular sovereign that converts natural into civil freedom. Contract thus makes legitimacy depend on an account of authorisation and purpose rather than organic priority.
-
-**Critical evaluation:** Organic theory captures interdependence but can subordinate conscience and blur state with society. Contract theory disciplines authority through consent, yet its historical fiction and abstract equality can conceal inherited power. Neither origin story alone settles legitimate state action.
-
-**Conclusion:** Organic theory explains embedded political membership but risks absorption, while contract theory makes authority answerable to consent but relies on simplified origin stories and unequal imagined contractors.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare the organic and social-contract perspectives on the origin and purpose of the state.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Organic, Core and Aristotle), converts that evidence into analysis of the organic and social-contract perspectives on the origin and purpose of the state, and keeps the examiner-facing qualification that conclusion: Organic theory explains embedded political membership but risks absorption, while contract theory makes authority answerable to consent but relies on simplified origin stories and unequal imagined contractors. At 137 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 2 — 10 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** Distinguish the laissez-faire state from the welfare or positive-liberal state. Answer in about 150 words.
+**Question:** Distinguish the laissez-faire state from the welfare or positive-liberal state. Answer in 150 words.
 
+**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of the laissez-faire state from the welfare or positive-liberal state in the opening line, carry the argument on Introduction, Laissez-faire, Core and Smith, and reserve the closing sentences for the qualification that conclusion: The welfare state corrects minimal liberalism by treating enabling conditions as part of freedom, though it remains contested whether regulation reforms or stabilises deeper structures of inequality.
 
-**Demand decoding:** The operative directive is **Distinguish**: define both sides, compare them on common axes, identify the decisive difference and close with its significance. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (141 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Laissez-faire and welfare liberalism share individual freedom as an end but disagree about whether non-interference is sufficient to make freedom real. Core analysis: The laissez-faire state protects life, property, contract, justice and defence while treating wider intervention as a threat to liberty and spontaneous market order. Smith, Bentham, James Mill, Spencer and Nozick supply different rationales for limited government. Welfare or positive liberalism emerges from the harms of industrial capitalism. J.S. Mill, T.H. Green, Hobhouse, Laski and MacIver argue that education, health, labour protection and social security can remove obstacles to self-development. The defensible distinction is negative protection versus publicly secured enabling conditions, not liberty versus coercion in the abstract. Conclusion: The welfare state corrects minimal liberalism by treating enabling conditions as part of freedom, though it remains contested whether regulation reforms or stabilises deeper structures of inequality.
 
-**Introduction:** Laissez-faire and welfare liberalism share individual freedom as an end but disagree about whether non-interference is sufficient to make freedom real.
-
-**Core analysis:** The laissez-faire state protects life, property, contract, justice and defence while treating wider intervention as a threat to liberty and spontaneous market order. Smith, Bentham, James Mill, Spencer and Nozick supply different rationales for limited government. Welfare or positive liberalism emerges from the harms of industrial capitalism. J.S. Mill, T.H. Green, Hobhouse, Laski and MacIver argue that education, health, labour protection and social security can remove obstacles to self-development. Rights arise within social interdependence, so the state serves freedom by enabling capacity.
-
-**Critical evaluation:** Welfare action can become paternalistic or stabilise unequal property relations, while minimal government leaves private domination untouched. The defensible distinction is negative protection versus publicly secured enabling conditions, not liberty versus coercion in the abstract.
-
-**Conclusion:** The welfare state corrects minimal liberalism by treating enabling conditions as part of freedom, though it remains contested whether regulation reforms or stabilises deeper structures of inequality.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Distinguish the laissez-faire state from the welfare or positive-liberal state.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Laissez-faire, Core and Smith), converts that evidence into analysis of the laissez-faire state from the welfare or positive-liberal state, and keeps the examiner-facing qualification that conclusion: The welfare state corrects minimal liberalism by treating enabling conditions as part of freedom, though it remains contested whether regulation reforms or stabilises deeper structures of inequality. At 141 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 3 — 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** Critically examine the Marxist theory of the state with reference to Miliband and Poulantzas. Answer in about 200 words.
+**Question:** Critically examine the Marxist theory of the state with reference to Miliband and Poulantzas. Answer in 150 words.
 
+**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine the Marxist theory of the state with reference to Miliband and Poulantzas in the opening line, carry the argument on Introduction, Marxist, Marxism and Core, and reserve the closing sentences for the qualification that conclusion: Neo-Marxist debate replaces a crude instrument model with bounded relative autonomy: the state may mediate among interests while remaining structurally tied to the reproduction of capitalist power.
 
-**Demand decoding:** The operative directive is **Critically examine**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (147 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Marxist theory interprets the state through class power, while neo-Marxism disputes direct capture versus structural service. Core analysis: Classical Marxism links the state to private property, class division and coercive protection of dominant interests. Miliband's instrumentalism identifies shared elite backgrounds, capital's direct economic leverage and officials' stake in the existing system. Poulantzas replies that the capitalist state requires relative autonomy: it must organise competing fractions, claim to represent the people and secure long-term system stability rather than obey individual capitalists mechanically. The state is therefore an arena of class struggle as well as an institution functionally related to capitalism. The strongest position treats autonomy as real, institutionally variable and bounded by structural dependence on accumulation and social order. Conclusion: Neo-Marxist debate replaces a crude instrument model with bounded relative autonomy: the state may mediate among interests while remaining structurally tied to the reproduction of capitalist power.
 
-**Introduction:** Marxist theory interprets the state through class power, while neo-Marxism disputes direct capture versus structural service.
-
-**Core analysis:** Classical Marxism links the state to private property, class division and coercive protection of dominant interests. Miliband's instrumentalism identifies shared elite backgrounds, capital's direct economic leverage and officials' stake in the existing system. Poulantzas replies that the capitalist state requires relative autonomy: it must organise competing fractions, claim to represent the people and secure long-term system stability rather than obey individual capitalists mechanically. The state is therefore an arena of class struggle as well as an institution functionally related to capitalism.
-
-**Further development:** Gramsci bridges the positions by distinguishing coercive political society from consent-producing civil society. Relative autonomy can therefore organise hegemony and long-term capitalist stability rather than negate class power. Because hegemony must be renewed, counter-hegemonic struggle remains possible without treating every decision as a direct capitalist command.
-
-**Critical evaluation:** Relative autonomy prevents crude personnel sociology, but if expanded without limit it dissolves the Marxist claim being explained. The strongest position treats autonomy as real, institutionally variable and bounded by structural dependence on accumulation and social order.
-
-**Conclusion:** Neo-Marxist debate replaces a crude instrument model with bounded relative autonomy: the state may mediate among interests while remaining structurally tied to the reproduction of capitalist power.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically examine the Marxist theory of the state with reference to Miliband and Poulantzas.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Marxist, Marxism and Core), converts that evidence into analysis of examine the Marxist theory of the state with reference to Miliband and Poulantzas, and keeps the examiner-facing qualification that conclusion: Neo-Marxist debate replaces a crude instrument model with bounded relative autonomy: the state may mediate among interests while remaining structurally tied to the reproduction of capitalist power. At 147 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Original Mains Practice 4 — 15 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Compare Gandhian and pluralist criticisms of centralised state power. Answer in about 200 words.
+**Question:** Compare Gandhian and pluralist criticisms of centralised state power. Answer in 250 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of gandhian and pluralist criticisms of centralised state power in the opening line, carry the argument on Introduction, Gandhian, Core and Gandhi, and reserve the closing sentences for the qualification that conclusion: Both disperse authority, but Gandhi grounds decentralisation in moral self-rule and non-violence, whereas pluralism institutionalises competing associations under a residual coordinating public order.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (202 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Gandhian and pluralist theories both challenge the monopolistic state, but they rest on different moral anthropologies and institutional remedies. Core analysis: Gandhi treats the centralised state as a soulless coercive machine and locates freedom in swaraj, self-discipline, non-violence, trusteeship and village-centred moral reconstruction. Pluralists such as Duguit, Laski, MacIver, Dahl and Lindblom emphasise multiple associations and centres of power. They seek freedom of association, dispersed bargaining and a state that coordinates or arbitrates rather than absorbs society. Gandhi points beyond dependence on state machinery; pluralism redesigns authority within modern institutional democracy. Further development: Their accounts of obedience also differ. Gandhi forms an ethical subject capable of resisting unjust authority through disciplined non-violence; pluralism organises enduring interests through representation and checks. A defensible synthesis protects decentralised association while retaining safeguards against local oppression, unequal resources and violent conflict. Critical evaluation: Gandhian decentralisation may be difficult to scale and can romanticise community, while pluralism can overlook unequal resources and domination within groups. Both require rights and coordination if dispersal is to produce freedom rather than local hierarchy or stalemate. Conclusion: Both disperse authority, but Gandhi grounds decentralisation in moral self-rule and non-violence, whereas pluralism institutionalises competing associations under a residual coordinating public order.
 
-**Introduction:** Gandhian and pluralist theories both challenge the monopolistic state, but they rest on different moral anthropologies and institutional remedies.
-
-**Core analysis:** Gandhi treats the centralised state as a soulless coercive machine and locates freedom in swaraj, self-discipline, non-violence, trusteeship and village-centred moral reconstruction. Pluralists such as Duguit, Laski, MacIver, Dahl and Lindblom emphasise multiple associations and centres of power. They seek freedom of association, dispersed bargaining and a state that coordinates or arbitrates rather than absorbs society. Gandhi points beyond dependence on state machinery; pluralism redesigns authority within modern institutional democracy.
-
-**Further development:** Their accounts of obedience also differ. Gandhi forms an ethical subject capable of resisting unjust authority through disciplined non-violence; pluralism organises enduring interests through representation and checks. A defensible synthesis protects decentralised association while retaining safeguards against local oppression, unequal resources and violent conflict.
-
-**Critical evaluation:** Gandhian decentralisation may be difficult to scale and can romanticise community, while pluralism can overlook unequal resources and domination within groups. Both require rights and coordination if dispersal is to produce freedom rather than local hierarchy or stalemate.
-
-**Conclusion:** Both disperse authority, but Gandhi grounds decentralisation in moral self-rule and non-violence, whereas pluralism institutionalises competing associations under a residual coordinating public order.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare Gandhian and pluralist criticisms of centralised state power.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Gandhian, Core and Gandhi), converts that evidence into analysis of gandhian and pluralist criticisms of centralised state power, and keeps the examiner-facing qualification that conclusion: Both disperse authority, but Gandhi grounds decentralisation in moral self-rule and non-violence, whereas pluralism institutionalises competing associations under a residual coordinating public order. At 202 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 5 — 20 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Evaluate diverse perspectives on the state through origin, purpose, liberty, inequality, civil society and route to change. Answer in about 250 words.
+**Question:** Evaluate diverse perspectives on the state through origin, purpose, liberty, inequality, civil society and route to change. Answer in 250 words.
 
+**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of diverse perspectives on the state through origin, purpose, liberty, inequality, civil society and route to change in the opening line, carry the argument on Introduction, Diverse, Core and Organic, and reserve the closing sentences for the qualification that disciplined comparison reveals which dimension each theory illuminates and where its universalisation obscures coercion, dependence or legitimate common action.
 
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (236 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Diverse state theories become analytically comparable only when each is tested through the same dimensions rather than narrated as an unrelated list. Core analysis: Organic theory makes the state natural and ethical; contract theory makes it artificial and authorised; laissez-faire protects negative liberty, while welfare liberalism secures enabling conditions. Their purposes diverge across good life, security and rights, market order, welfare, class rule, post-colonial state-building, swaraj and pluralist coordination. On inequality, organic theory may naturalise hierarchy, laissez-faire accepts market outcomes, and welfare, Marxist, post-colonial and feminist views expose social structures that produce unequal power. On civil society, organic theory tends to absorb it, liberals protect it, Gramsci treats it as a site of hegemony, Gandhi privileges moral community and pluralists make associations a democratic restraint. Routes to change range from cultivation and constitutional reform to revolution, decolonisation, non-violence and associational redistribution. Further development: The 1-2 July 2026 National Conference on e-Governance provides a limited current illustration of competing state images. Its emphasis on AI-enabled, data-driven and secure digital governance presents the state as a service and capacity-building institution rather than only a sovereign commander. A reasoned verdict should identify the actual problem in the question—order, freedom, class, coloniality, gender or coordination—and combine insights without erasing doctrinal disagreement. Conclusion: No single image exhausts the state; disciplined comparison reveals which dimension each theory illuminates and where its universalisation obscures coercion, dependence or legitimate common action.
 
-**Introduction:** Diverse state theories become analytically comparable only when each is tested through the same dimensions rather than narrated as an unrelated list.
-
-**Core analysis:** Organic theory makes the state natural and ethical; contract theory makes it artificial and authorised; laissez-faire protects negative liberty, while welfare liberalism secures enabling conditions. Their purposes diverge across good life, security and rights, market order, welfare, class rule, post-colonial state-building, swaraj and pluralist coordination. On inequality, organic theory may naturalise hierarchy, laissez-faire accepts market outcomes, and welfare, Marxist, post-colonial and feminist views expose social structures that produce unequal power. On civil society, organic theory tends to absorb it, liberals protect it, Gramsci treats it as a site of hegemony, Gandhi privileges moral community and pluralists make associations a democratic restraint. Routes to change range from cultivation and constitutional reform to revolution, decolonisation, non-violence and associational redistribution.
-
-**Further development:** The 1-2 July 2026 National Conference on e-Governance provides a limited current illustration of competing state images. Its emphasis on AI-enabled, data-driven and secure digital governance presents the state as a service and capacity-building institution rather than only a sovereign commander. Yet the same technologies raise questions of surveillance, unequal access, administrative neutrality and accountability that liberal, welfare, Marxist, feminist and pluralist perspectives judge differently. A current programme is therefore evidence for applying the six-test grid, not proof that one theory has won.
-
-**Critical evaluation:** Each lens illuminates one dimension but becomes misleading when universalised. A reasoned verdict should identify the actual problem in the question—order, freedom, class, coloniality, gender or coordination—and combine insights without erasing doctrinal disagreement.
-
-**Conclusion:** No single image exhausts the state; disciplined comparison reveals which dimension each theory illuminates and where its universalisation obscures coercion, dependence or legitimate common action.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate diverse perspectives on the state through origin, purpose, liberty, inequality, civil society and route to change.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Diverse, Core and Organic), converts that evidence into analysis of diverse perspectives on the state through origin, purpose, liberty, inequality, civil society and route to change, and keeps the examiner-facing qualification that disciplined comparison reveals which dimension each theory illuminates and where its universalisation obscures coercion, dependence or legitimate common action. At 236 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Original Mains Practice 6 — 20 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** How do feminist and post-colonial perspectives widen classical state theory? Answer in about 250 words.
+**Question:** How do feminist and post-colonial perspectives widen classical state theory? Answer in 250 words.
 
+**Demand decode:** the directive `how` requires the answer to state the mechanism step by step and show what each step produces. Fix the boundary of do feminist and post-colonial perspectives widen classical state theory in the opening line, carry the argument on Introduction, Feminist, Core and Post-colonial, and reserve the closing sentences for the qualification that critical evaluation: Neither perspective simply adds another disadvantaged group.
 
-**Demand decoding:** The operative directive is **How**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (249 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Feminist and post-colonial perspectives widen state theory by challenging the supposedly universal subject and history presupposed by classical accounts. Core analysis: Post-colonial analysis shows that newly independent states inherit borders, bureaucracies, elites and economic dependencies formed under empire. Formal sovereignty must therefore be joined to nation-building, state-building and decolonisation of institutions and values. Feminist theory shows that the public state is constituted through power in family, sexuality, labour and welfare. Kate Millett expands politics into intimate domination, while Zillah Eisenstein attacks the liberal state's claimed neutrality and its dependence on gendered paid and unpaid labour. Further development: The perspectives intersect without becoming identical. Colonial rule often reorganised family law, labour, land and bureaucracy through gendered categories, while post-colonial development can rely on women's unpaid care and inherited administrative hierarchies. Feminist analysis prevents national liberation from being treated as sufficient emancipation; post-colonial analysis prevents gender theory from assuming a universal Western institutional history. Their combined lesson is intersectional and historical: state power is located in public institutions, intimate relations and transnational structures at once. Critical evaluation: Neither perspective simply adds another disadvantaged group. Each changes the concept of power and legitimacy: the state must answer for the histories and private structures through which citizens become unequal. Their internal diversity also prevents one post-colonial or feminist state model from becoming final. Conclusion: Feminist and post-colonial theories expose the hidden histories and social locations of supposedly universal state categories, extending legitimacy from formal public authority to gendered, colonial and institutional power.
 
-**Introduction:** Feminist and post-colonial perspectives widen state theory by challenging the supposedly universal subject and history presupposed by classical accounts.
+**Why this earns marks:** it obeys `how` instead of drifting into description, attaches each claim to named evidence (Introduction, Feminist, Core and Post-colonial), converts that evidence into analysis of do feminist and post-colonial perspectives widen classical state theory, and keeps the examiner-facing qualification that critical evaluation: Neither perspective simply adds another disadvantaged group. At 249 words it stays inside the 250-word GS ceiling for 15 marks.
 
-**Core analysis:** Post-colonial analysis shows that newly independent states inherit borders, bureaucracies, elites and economic dependencies formed under empire. Formal sovereignty must therefore be joined to nation-building, state-building and decolonisation of institutions and values. Feminist theory shows that the public state is constituted through power in family, sexuality, labour and welfare. Kate Millett expands politics into intimate domination, while Zillah Eisenstein attacks the liberal state's claimed neutrality and its dependence on gendered paid and unpaid labour.
-
-**Further development:** The perspectives intersect without becoming identical. Colonial rule often reorganised family law, labour, land and bureaucracy through gendered categories, while post-colonial development can rely on women's unpaid care and inherited administrative hierarchies. Feminist analysis prevents national liberation from being treated as sufficient emancipation; post-colonial analysis prevents gender theory from assuming a universal Western institutional history. Their combined lesson is intersectional and historical: state power is located in public institutions, intimate relations and transnational structures at once.
-
-**Critical evaluation:** Neither perspective simply adds another disadvantaged group. Each changes the concept of power and legitimacy: the state must answer for the histories and private structures through which citizens become unequal. Their internal diversity also prevents one post-colonial or feminist state model from becoming final.
-
-**Conclusion:** Feminist and post-colonial theories expose the hidden histories and social locations of supposedly universal state categories, extending legitimacy from formal public authority to gendered, colonial and institutional power.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “How do feminist and post-colonial perspectives widen classical state theory?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+---
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
+> **Subject:** Political Theory | **Tier:** Advanced enrichment | **Exam relevance:** UPSC Prelims and GS Mains, primarily GS-II. This universal label means enrichment beyond a core GS answer and never a separate-paper classification.
 > **Core area:** The state reconstructed as ethical organism, contractual umpire, night-watchman, welfare enabler, class instrument, community-expression, colonial legacy, coercive machine, patriarchal structure and pluralist coordinator.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.10, PDF pp.220-279.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
@@ -1460,7 +2008,7 @@ STATE AS...
 - ✅ Use `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md` for the base distinction between state and society.
 - ✅ Use `Political-Theory/basic/11_Sovereignty-and-Pluralism.md` for the earlier pluralist challenge to sovereign absolutism.
 - ✅ Use `Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md`, `Political-Theory/basic/06_Feminism-Sex-and-Gender.md` and `Political-Theory/basic/07_Nature-of-Politics-and-Communitarianism.md` for separate ideology files already in the module.
-- ✅ Use `Philosophy/paper-2/socio-political/Individual-and-State.md`, `Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md` and `Philosophy/paper-2/socio-political/Gender-Discrimination.md` for optional-paper extensions.
+- ✅ Use `Philosophy/paper-2/socio-political/Individual-and-State.md`, `Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md` and `Philosophy/paper-2/socio-political/Gender-Discrimination.md` for another-paper extensions.
 - ✅ Exclusion: this file does **not** move into Indian constitutional provisions, statute-specific policy design or case-law analysis.
 
 ### 12. Factual-risk checks
@@ -1479,11 +2027,9 @@ STATE AS...
 
 ## CONSOLIDATED REGISTER NOTES
 
-### EMBEDDED TWELVE-PANEL ASCII REVISION ATLAS
-
 This text edition preserves the same source-grounded revision route as the separate printable ASCII deliverable.
 
-#### ASCII PANEL 1/12 — The State-Theory Problem and Its Stakes
+
 
 ```text
 CENTRAL FOCUS
@@ -1505,7 +2051,7 @@ VERDICT -> State theory is plural because political power has several dimensions
 ANSWER USE -> Name the dimension before selecting or combining perspectives.
 ```
 
-#### ASCII PANEL 2/12 — Definitions and the Chapter Sequence
+
 
 ```text
 CENTRAL FOCUS
@@ -1527,7 +2073,7 @@ VERDICT -> Definitions locate each perspective before evaluation begins.
 ANSWER USE -> Contrast the image of the state, not only the thinker's name.
 ```
 
-#### ASCII PANEL 3/12 — The Six-Test Comparison Grid
+
 
 ```text
 CENTRAL FOCUS
@@ -1548,7 +2094,7 @@ VERDICT -> The six-test grid converts a list of theories into disciplined compar
 ANSWER USE -> Apply the same dimensions to every perspective in the answer.
 ```
 
-#### ASCII PANEL 4/12 — Organic, Contract and Liberal Thinkers
+
 
 ```text
 CENTRAL FOCUS
@@ -1571,7 +2117,7 @@ VERDICT -> Liberal traditions disagree internally about authority, rights and we
 ANSWER USE -> Separate contract, minimal-state and positive-liberal arguments.
 ```
 
-#### ASCII PANEL 5/12 — Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers
+
 
 ```text
 CENTRAL FOCUS
@@ -1595,7 +2141,7 @@ VERDICT -> Critical theories differ over class, community, empire, coercion and 
 ANSWER USE -> Use one internal debate before moving across traditions.
 ```
 
-#### ASCII PANEL 6/12 — Ten-Perspective Comparative Matrix
+
 
 ```text
 CENTRAL FOCUS
@@ -1620,7 +2166,7 @@ VERDICT -> Each perspective illuminates one state function and obscures another.
 ANSWER USE -> Compare attraction, mechanism and strongest limitation together.
 ```
 
-#### ASCII PANEL 7/12 — Trap Repair, Boundaries, Revision and Sources
+
 
 ```text
 CENTRAL FOCUS
@@ -1642,7 +2188,7 @@ VERDICT -> Precision depends on resisting false mergers and unsafe historical cl
 ANSWER USE -> Turn every common misconception into an explicit correction.
 ```
 
-#### ASCII PANEL 8/12 — Theses, Directives and Marxist Argument Reconstruction
+
 
 ```text
 CENTRAL FOCUS
@@ -1665,7 +2211,7 @@ VERDICT -> Relative autonomy explains mediation without making class power irrel
 ANSWER USE -> Present claim, objection and bounded reply in that order.
 ```
 
-#### ASCII PANEL 9/12 — Named Evidence and Mark-Scaled Architecture
+
 
 ```text
 CENTRAL FOCUS
@@ -1688,7 +2234,7 @@ VERDICT -> Named texts and cases must perform an analytical role, not decorate t
 ANSWER USE -> Link evidence to one comparison dimension and one limitation.
 ```
 
-#### ASCII PANEL 10/12 — Indian Application and Proposition Method
+
 
 ```text
 CENTRAL FOCUS
@@ -1712,7 +2258,7 @@ VERDICT -> Digital governance can express welfare capacity and intensify dominat
 ANSWER USE -> Apply several lenses without treating a current programme as proof.
 ```
 
-#### ASCII PANEL 11/12 — MCQ Remediation and Trap Repair
+
 
 ```text
 CENTRAL FOCUS
@@ -1735,7 +2281,7 @@ VERDICT -> Close options are separated by state image, freedom concept and power
 ANSWER USE -> State the decisive distinction before selecting an answer.
 ```
 
-#### ASCII PANEL 12/12 — PYQ Ownership and Answer Practice
+
 
 ```text
 CENTRAL FOCUS
@@ -1758,7 +2304,7 @@ VERDICT -> Original practice preserves ownership while testing the complete theo
 ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 ```
 
-### ONE-PAGE CONCEPT GRID
+
 
 | Concept / thinker | Exam-ready formulation |
 |---|---|
@@ -1775,14 +2321,14 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 | Natural state vs artificial state | organic theory treats the state as a natural condition of civilized life, whereas liberal and Marxist theories treat it as historically produced or consciously devised (PDF pp.221-223, 226-236, 261-263). |
 | Ethical institution vs instrument | organic/idealist thought treats the state as ethically exalted, while liberal, Marxist, Gandhian and pluralist views treat it more instrumentally (PDF pp.222-225, 236-279). |
 
-### CORE REVISION SPINE
+
 
 - Primary source used: Gauba, Ch.10 "Diverse Perspectives on the State" (PDF pp.220-279).
 - "Diverse perspectives" essay question: "The state admits no single true description: it is simultaneously an ethical community (organic), a rights-protecting or welfare-enabling artifice (liberal), a class instrument or arena of class struggle (Marxist), a gendered structure of power (feminist) and a coordinating body among associations (pluralist) — the six-test grid (origin, purpose, liberty, inequality, civil society, route to change) is what lets an answer compare them rigorously rather than merely list them."
 - Gauba explicitly says the concept of the state is central to political thought and lists organic, liberal-individualist, welfare, class, communitarian, post-colonial, Gandhian, feminist and pluralist perspectives without giving any final verdict (PDF p.220).
 - Feminist and pluralist perspectives then challenge the state from two further sides: gendered power and dispersed associational power (PDF pp.277-279).
 - This chapter is Gauba's direct reminder that old and new state theories coexist, and none can claim final or absolute authority (PDF p.220).
-- UPSC and PSIR questions often sound abstract, but they usually test a hidden contrast: state as ethical whole, neutral protector, welfare enabler, class instrument, patriarchal structure, colonial legacy or pluralist coordinator.
+- UPSC Prelims and GS Mains questions often sound abstract, but they usually test a hidden contrast: state as ethical whole, neutral protector, welfare enabler, class instrument, patriarchal structure, colonial legacy or pluralist coordinator.
 - Organic theory: the state is like an organism; individuals are like its organs, and their worth depends on the whole (PDF pp.221-223).
 - Social-contract theory: the state is an artificial device created by agreement to remedy defects of the state of nature and secure order or liberty (PDF pp.226-236).
 - Laissez-faire individualism: the state is a necessary evil whose task is mainly protection, contract-enforcement and law and order, not economic regulation (PDF pp.236-244).
@@ -1790,7 +2336,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 - Class theory of the state: the state arises with private property and class division and serves dominant-class power (PDF pp.261-266).
 - Post-colonial perspective: the post-colonial state must be understood through colonial domination, neo-colonial dependence, nation-building and state-building (PDF pp.270-273).
 
-### HIGH-RISK TRAPS
+
 
 - Trap repair: "Organic theory simply means patriotism." -> In Gauba it is a strong claim that the state is natural, ethically prior and superior to the individual (PDF pp.221-223).
 - Trap repair: "All contract theorists defend limited government." -> Hobbes does not; Locke does; Rousseau is popular-sovereign but still absolutist in an important sense (PDF pp.230-234).
@@ -1801,7 +2347,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 - Trap repair: "Miliband and Poulantzas say the same thing about the capitalist state." -> Miliband's instrumentalism (state = direct tool of capitalist class via personnel/economic power/vested interest) is explicitly rejected by Poulantzas's structuralism (relative autonomy of the state, legitimacy through "the people," state as arena of class struggle); Gauba himself flags the risk that Poulantzas's autonomy thesis can drift away from core Marxism (PDF p.266).
 - Trap repair: "Locke wrote the Two Treatises after 1688 specifically to celebrate the Glorious Revolution." -> Laslett's scholarship shows most of the text was composed c.1679-1683, before the Revolution; it was published in 1689 and then read as the Revolution's philosophical defence — composition predates the event popularly said to have inspired it.
 
-### ANSWER SPINE
+
 
 1. Define the exact doctrine or controversy in the question.
 2. State a qualified thesis before narration begins.
@@ -1810,7 +2356,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 5. Present the strongest objection, reply and residual limitation.
 6. End with a graded verdict tied to the directive.
 
-### COMPLETE TEN-PERSPECTIVE GRID
+
 
 | Perspective | State image | Liberty and inequality | Route to change |
 |---|---|---|---|
@@ -1825,7 +2371,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 | Feminist | Gendered structure spanning public and intimate power. | Freedom requires bodily, social and economic autonomy. | Legal reform plus transformation of patriarchal structures. |
 | Pluralist | Coordinator among multiple associations and power centres. | Associational liberty matters, but groups possess unequal resources. | Disperse power, widen participation and retain public coordination. |
 
-### SIX-TEST ANSWER GRID
+
 
 1. **Origin:** natural growth, agreement, class division, colonial history or associational development.
 2. **Purpose:** good life, security, rights, market order, welfare, class rule, common good, decolonisation, swaraj, gender justice or coordination.
@@ -1834,7 +2380,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 5. **Civil society:** merged with the state, protected from it, reproducing hegemony, morally prior to it or limiting it through associations.
 6. **Route to change:** cultivation, constitutional reform, rollback, welfare, revolution, decolonisation, non-violence or associational redistribution.
 
-### THINKER BOUNDARIES
+
 
 - **Aristotle / Burke / Hegel:** natural political life, historical growth and ethical elevation are related but not identical claims.
 - **Hobbes / Locke / Rousseau:** contract yields absolute security, limited trust and popular sovereignty respectively.
@@ -1846,7 +2392,7 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 - **Millett / Eisenstein:** intimate power and the personal-is-political differ from critique of liberal neutrality and capitalist welfare dependence.
 - **Duguit / Laski / MacIver / Dahl / Lindblom:** pluralism develops from associational limits on sovereignty to qualified polyarchy and unequal group power.
 
-### NAMED EVIDENCE AND CAUTIONS
+
 
 - Aristotle's polis exists for life and continues for the good life.
 - Locke's *Two Treatises* was published in 1689 but largely composed c.1679-1683; say it came to vindicate the Revolution settlement.
@@ -1856,15 +2402,23 @@ ANSWER USE -> Conclude by naming which lens best answers the question's demand.
 - Millett 1971 and Eisenstein 1981 anchor two distinct feminist critiques.
 - Solidarity and Eastern European environmental groups illustrate associational pressure in the book-period pluralist discussion.
 
-### INDIAN AND CURRENT APPLICATION
+
 
 - India's post-colonial state-building joins inherited administrative institutions to a new rights-based legitimating project; keep constitutional detail outside this conceptual file.
 - The 29th National Conference on e-Governance in Jaipur on 1-2 July 2026 used an AI-enabled, data-driven and secure governance theme.
 - Use it to compare service capacity, surveillance, access, administrative neutrality and accountability; do not assume digital administration is automatically inclusive.
 
-### OPTIONAL ADVANCED REFINEMENTS
+
 
 - Cluster perspectives as ethical-natural, liberal-instrumental and critical-transformative, but do not erase differences inside a cluster.
 - Treat liberal neutrality as a contested aspiration rather than an established description.
 - Compare Gandhi and Marxism through means, moral anthropology, property and the route beyond coercive state power.
 - A final verdict should identify which lens best explains the problem asked while retaining the strongest rival correction.
+
+### GS ownership and final answer route
+
+- **Topic boundary:** organic, liberal, welfare, Marxist, post-colonial and feminist state theories.
+- **Exam identity:** UPSC Prelims and General Studies Mains only; primarily GS-II conceptual foundations.
+- **Evidence rule:** claim -> named thinker/example -> what it proves -> limitation.
+- **PYQ rule:** only directly verified Prelims/GS Mains questions may be owned; otherwise use labelled original practice.
+- **Advanced rule:** Advanced enrichment is useful for qualification but unnecessary for a competent core GS answer.

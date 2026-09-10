@@ -1,1328 +1,820 @@
 ---
 topic_key: political-theory-04
 title: Marxism and Neo-Marxism — Solved Practice Workbook
-generation_identity: political-theory-04:learner-v2:g4
-generated_on: 2026-08-30
+generation_identity: political-theory-04:learner-v2:in-place-repair
+generated_on: 2026-09-10
 ---
 
 # Marxism and Neo-Marxism — Solved Practice Workbook
 
-**Generation:** learner-v2:g4  
-**PYQ ownership:** Every verified question below retains the primary owner recorded in the source ledger.
+**Subject:** Political Theory
+**Target stages:** UPSC Prelims and General Studies Mains only
+**Primary ownership:** GS-II conceptual foundations
+**Approval:** pending explicit user approval
+
+## WORKBOOK GUIDE
+
+- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
+- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
+- No direct owned Topic 04 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1
+### Practice design
 
-Which option is the exact canonical pairing recorded for **Marxism**? Other options belong to different named entries.
+- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
+- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
+- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
+- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
+- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
 
-A. a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.
+### MCQ 1
 
-B. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+Which proposition is correctly associated with **Classical Marxism**?
 
-C. Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- A. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- B. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- C. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+- D. forces include means of production plus labour power; relations concern ownership patterns and class relations.
 
-D. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+**Answer: A**
 
-**Answer:** A
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Classical Marxism.
+- **B:** B Attaches to Dialectical materialism, not Classical Marxism.
+- **C:** C Attaches to Base vs superstructure, not Classical Marxism.
+- **D:** D Attaches to Forces of production vs relations of production, not Classical Marxism.
 
-**Explanation:** The canonical Basic owner pairs **Marxism** with **a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 2
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.**
-
-A. Louis Althusser
-
-B. Marxism
-
-C. Historical materialism restated as a mechanism
-
-D. Neo-Marxism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.** with **Marxism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Classical Marxism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 3
+### MCQ 2
 
-Which option is the exact canonical pairing recorded for **Classical Marxism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Dialectical materialism**?
 
-A. the first is the philosophical basis; the second is the scientific-historical application to society.
+- A. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+- B. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- C. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- D. forces include means of production plus labour power; relations concern ownership patterns and class relations.
 
-B. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+**Answer: B**
 
-C. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+**Option-by-option explanation**
+- **A:** A Attaches to Base vs superstructure, not Dialectical materialism.
+- **B:** B States the source-recorded proposition for Dialectical materialism.
+- **C:** C Attaches to Classical Marxism, not Dialectical materialism.
+- **D:** D Attaches to Forces of production vs relations of production, not Dialectical materialism.
 
-D. later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Classical Marxism** with **the original scientific system centred on property, class division, contradiction and revolutionary transformation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 4
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the original scientific system centred on property, class division, contradiction and revolutionary transformation.**
-
-A. Core focus
-
-B. Mode of production
-
-C. Dialectical materialism
-
-D. Classical Marxism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the original scientific system centred on property, class division, contradiction and revolutionary transformation.** with **Classical Marxism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Dialectical materialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 5
+### MCQ 3
 
-Which option is the exact canonical pairing recorded for **Neo-Marxism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Historical materialism**?
 
-A. later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.
+- A. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
+- B. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+- C. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- D. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
 
-B. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+**Answer: C**
 
-C. Property, class division and revolutionary transformation of capitalism.
+**Option-by-option explanation**
+- **A:** A Attaches to Classical Marxism vs neo-Marxism, not Historical materialism.
+- **B:** B Attaches to Herbert Marcuse, not Historical materialism.
+- **C:** C States the source-recorded proposition for Historical materialism.
+- **D:** D Attaches to Historical materialism restated as a mechanism, not Historical materialism.
 
-D. forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Neo-Marxism** with **later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 6
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.**
-
-A. Human problem
-
-B. Neo-Marxism
-
-C. Fetter/rupture mechanism
-
-D. Historical materialism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.** with **Neo-Marxism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Historical materialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 7
+### MCQ 4
 
-Which option is the exact canonical pairing recorded for **Dialectical materialism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Surplus value**?
 
-A. forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- A. represents the scientific strain of neo-Marxism focused on structures and modes of production.
+- B. the first is the philosophical basis; the second is the scientific-historical application to society.
+- C. Property, class division and revolutionary transformation of capitalism.
+- D. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
 
-B. Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+**Answer: D**
 
-C. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+**Option-by-option explanation**
+- **A:** A Attaches to Louis Althusser, not Surplus value.
+- **B:** B Attaches to Dialectical materialism vs historical materialism, not Surplus value.
+- **C:** C Attaches to Core focus, not Surplus value.
+- **D:** D States the source-recorded proposition for Surplus value.
 
-D. Exploitation rooted in ownership of means of production.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Dialectical materialism** with **the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 8
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.**
-
-A. Method
-
-B. Marxism
-
-C. Surplus value
-
-D. Dialectical materialism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.** with **Dialectical materialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Surplus value by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 9
+### MCQ 5
 
-Which option is the exact canonical pairing recorded for **Historical materialism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Dialectical materialism vs historical materialism**?
 
-A. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- A. the first is the philosophical basis; the second is the scientific-historical application to society.
+- B. Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+- C. Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
+- D. Test the "economism" charge against Gramsci/Althusser's superstructural correctives (§15, Chains 1-2).
 
-B. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
+**Answer: A**
 
-C. Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
+**Option-by-option explanation**
+- **A:** A States the source-recorded proposition for Dialectical materialism vs historical materialism.
+- **B:** B Attaches to Young Marx, not Dialectical materialism vs historical materialism.
+- **C:** C Attaches to Frankfurt School, not Dialectical materialism vs historical materialism.
+- **D:** D Not this pair: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
 
-D. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Historical materialism** with **the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 10
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.**
-
-A. Key names
-
-B. Historical materialism
-
-C. Classical Marxism
-
-D. Dialectical materialism vs historical materialism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.** with **Historical materialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Dialectical materialism vs historical materialism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 11
+### MCQ 6
 
-Which option is the exact canonical pairing recorded for **Surplus value**? Other options belong to different named entries.
+Which proposition is correctly associated with **Base vs superstructure**?
 
-A. Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- A. founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+- B. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+- C. forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- D. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
 
-B. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+**Answer: B**
 
-C. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+**Option-by-option explanation**
+- **A:** A Attaches to Marx and Engels, not Base vs superstructure.
+- **B:** B States the source-recorded proposition for Base vs superstructure.
+- **C:** C Attaches to Forces of production vs relations of production, not Base vs superstructure.
+- **D:** D Attaches to Dialectical materialism, not Base vs superstructure.
 
-D. Marx, Engels, Lenin, Luxemburg, Mao.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Surplus value** with **the unpaid part of labour appropriated by the capitalist as profit, rent and interest**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 12
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the unpaid part of labour appropriated by the capitalist as profit, rent and interest.**
-
-A. Historical materialism restated as a mechanism
-
-B. Neo-Marxism
-
-C. Base vs superstructure
-
-D. Surplus value
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **the unpaid part of labour appropriated by the capitalist as profit, rent and interest.** with **Surplus value**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Base vs superstructure by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 13
+### MCQ 7
 
-Which option is the exact canonical pairing recorded for **Dialectical materialism vs historical materialism**? Other options belong to different named entries.
+Which proposition is correctly associated with **Forces of production vs relations of production**?
 
-A. the first is the philosophical basis; the second is the scientific-historical application to society.
+- A. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+- B. founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+- C. forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- D. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
 
-B. founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+**Answer: C**
 
-C. represents the scientific strain of neo-Marxism focused on structures and modes of production.
+**Option-by-option explanation**
+- **A:** A Attaches to Base vs superstructure, not Forces of production vs relations of production.
+- **B:** B Attaches to Marx and Engels, not Forces of production vs relations of production.
+- **C:** C States the source-recorded proposition for Forces of production vs relations of production.
+- **D:** D Attaches to Dialectical materialism, not Forces of production vs relations of production.
 
-D. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Dialectical materialism vs historical materialism** with **the first is the philosophical basis; the second is the scientific-historical application to society**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 14
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **the first is the philosophical basis; the second is the scientific-historical application to society.**
-
-A. Mode of production
-
-B. Dialectical materialism vs historical materialism
-
-C. Dialectical materialism
-
-D. Forces of production vs relations of production
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **the first is the philosophical basis; the second is the scientific-historical application to society.** with **Dialectical materialism vs historical materialism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Forces of production vs relations of production by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 15
+### MCQ 8
 
-Which option is the exact canonical pairing recorded for **Base vs superstructure**? Other options belong to different named entries.
+Which proposition is correctly associated with **Classical Marxism vs neo-Marxism**?
 
-A. Gauba lists them among chief exponents of classical Marxism.
+- A. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+- B. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+- C. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- D. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
 
-B. Property, class division and revolutionary transformation of capitalism.
+**Answer: D**
 
-C. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+**Option-by-option explanation**
+- **A:** A Attaches to Herbert Marcuse, not Classical Marxism vs neo-Marxism.
+- **B:** B Attaches to Historical materialism restated as a mechanism, not Classical Marxism vs neo-Marxism.
+- **C:** C Attaches to Historical materialism, not Classical Marxism vs neo-Marxism.
+- **D:** D States the source-recorded proposition for Classical Marxism vs neo-Marxism.
 
-D. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Base vs superstructure** with **base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 16
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.**
-
-A. Fetter/rupture mechanism
-
-B. Historical materialism
-
-C. Classical Marxism vs neo-Marxism
-
-D. Base vs superstructure
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.** with **Base vs superstructure**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Do not identify Classical Marxism vs neo-Marxism by a neighbouring proposition merely because both occur in the same topic.
 
 ---
 
-#### MCQ 17
+### MCQ 9
 
-Which option is the exact canonical pairing recorded for **Forces of production vs relations of production**? Other options belong to different named entries.
+Which thinker/concept–proposition pair is correctly matched?
 
-A. forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- A. Base determines superstructure mechanically — Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- B. Marx and Engels — the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- C. Forces of production vs relations of production — Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+- D. Base vs superstructure — Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
 
-B. Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+**Answer: A**
 
-C. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
+**Option-by-option explanation**
+- **A:** A Matches the record: Base determines superstructure mechanically is associated with this proposition.
+- **B:** B Source disagrees: Marx and Engels is recorded with founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+- **C:** C Misplaced: Forces of production vs relations of production is recorded with forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- **D:** D Wrong attachment: Base vs superstructure is recorded with base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
 
-D. Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Forces of production vs relations of production** with **forces include means of production plus labour power; relations concern ownership patterns and class relations**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 18
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **forces include means of production plus labour power; relations concern ownership patterns and class relations.**
-
-A. Marxism
-
-B. Forces of production vs relations of production
-
-C. Surplus value
-
-D. Base determines superstructure mechanically
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **forces include means of production plus labour power; relations concern ownership patterns and class relations.** with **Forces of production vs relations of production**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Base determines superstructure mechanically; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 19
+### MCQ 10
 
-Which option is the exact canonical pairing recorded for **Classical Marxism vs neo-Marxism**? Other options belong to different named entries.
+Which of the following pairs a name or concept with the proposition the source actually records for it?
 
-A. Historical materialism and class struggle.
+- A. Base vs superstructure — the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- B. Marx and Engels — founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+- C. Forces of production vs relations of production — the view that matter, not idea, is fundamental, and that contradictions in material conditions drive.
+- D. Base determines superstructure mechanically — Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
 
-B. a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.
+**Answer: B**
 
-C. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
+**Option-by-option explanation**
+- **A:** A Source disagrees: Base vs superstructure is recorded with base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+- **B:** B Matches the record: Marx and Engels is associated with this proposition.
+- **C:** C Misplaced: Forces of production vs relations of production is recorded with forces include means of production plus labour power; relations concern ownership patterns and class relations.
+- **D:** D Cross-attached: Base determines superstructure mechanically is recorded with Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
 
-D. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Classical Marxism vs neo-Marxism** with **classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 20
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.**
-
-A. Classical Marxism
-
-B. Dialectical materialism vs historical materialism
-
-C. Marx and Engels
-
-D. Classical Marxism vs neo-Marxism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.** with **Classical Marxism vs neo-Marxism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Marx and Engels; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 21
+### MCQ 11
 
-Which option is the exact canonical pairing recorded for **Base determines superstructure mechanically**? Other options belong to different named entries.
+In which pair does the proposition genuinely belong to the label placed against it?
 
-A. Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- A. Mark-weight cue (10/15) — the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+- B. Human problem — Marx, Engels, Lenin, Luxemburg, Mao; this option treats that proposition as the decisive account.
+- C. Lenin, Rosa Luxemburg and Mao Zedong — Gauba lists them among chief exponents of classical Marxism.
+- D. Core focus — represents the scientific strain of neo-Marxism focused on structures and modes of production.
 
-B. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+**Answer: C**
 
-C. Marx, Engels, Lenin, Luxemburg, Mao.
+**Option-by-option explanation**
+- **A:** A Cross-attached: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **B:** B Belongs elsewhere: Human problem is recorded with Exploitation rooted in ownership of means of production.
+- **C:** C Faithful pairing: Lenin, Rosa Luxemburg and Mao Zedong is associated with this proposition.
+- **D:** D Mismatched: Core focus is recorded with Property, class division and revolutionary transformation of capitalism.
 
-D. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Base determines superstructure mechanically** with **Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 22
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.**
-
-A. Neo-Marxism
-
-B. Base determines superstructure mechanically
-
-C. Base vs superstructure
-
-D. Lenin, Rosa Luxemburg and Mao Zedong
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.** with **Base determines superstructure mechanically**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Lenin, Rosa Luxemburg and Mao Zedong; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 23
+### MCQ 12
 
-Which option is the exact canonical pairing recorded for **Marx and Engels**? Other options belong to different named entries.
+Only one pairing below reproduces the source's own association. Which is it?
 
-A. represents the scientific strain of neo-Marxism focused on structures and modes of production.
+- A. "Critically examine"/"Critically analyse" — founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of...
+- B. Frankfurt School — Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- C. Dialectical materialism vs historical materialism — represents the scientific strain of neo-Marxism focused on structures and modes of.
+- D. Young Marx — Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
 
-B. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+**Answer: D**
 
-C. founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **B:** B Cross-attached: Frankfurt School is recorded with Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
+- **C:** C Not this pair: Dialectical materialism vs historical materialism is recorded with the first is the philosophical basis; the second is the scientific-historical application to society.
+- **D:** D Exact pair: Young Marx is associated with this proposition.
 
-D. later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Marx and Engels** with **founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 24
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.**
-
-A. Dialectical materialism
-
-B. Forces of production vs relations of production
-
-C. Young Marx
-
-D. Marx and Engels
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.** with **Marx and Engels**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Young Marx; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 25
+### MCQ 13
 
-Which option is the exact canonical pairing recorded for **Lenin, Rosa Luxemburg and Mao Zedong**? Other options belong to different named entries.
+Identify the pair in which the recorded proposition matches its label exactly.
 
-A. Gauba lists them among chief exponents of classical Marxism.
+- A. Frankfurt School — Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
+- B. Young Marx — Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- C. "Critically examine"/"Critically analyse" — founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of...
+- D. Dialectical materialism vs historical materialism — represents the scientific strain of neo-Marxism focused on structures and modes of production.
 
-B. Property, class division and revolutionary transformation of capitalism.
+**Answer: A**
 
-C. forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).
+**Option-by-option explanation**
+- **A:** A Source-exact: Frankfurt School is associated with this proposition.
+- **B:** B Mismatched: Young Marx is recorded with Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+- **C:** C Not this pair: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **D:** D Cross-attached: Dialectical materialism vs historical materialism is recorded with the first is the philosophical basis; the second is the scientific-historical application to society.
 
-D. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Lenin, Rosa Luxemburg and Mao Zedong** with **Gauba lists them among chief exponents of classical Marxism**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 26
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba lists them among chief exponents of classical Marxism.**
-
-A. Historical materialism
-
-B. Lenin, Rosa Luxemburg and Mao Zedong
-
-C. Classical Marxism vs neo-Marxism
-
-D. Frankfurt School
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Gauba lists them among chief exponents of classical Marxism.** with **Lenin, Rosa Luxemburg and Mao Zedong**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Frankfurt School; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 27
+### MCQ 14
 
-Which option is the exact canonical pairing recorded for **Young Marx**? Other options belong to different named entries.
+Which one of the following label-proposition pairings survives a strict source check?
 
-A. Exploitation rooted in ownership of means of production.
+- A. Historical materialism — the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- B. Herbert Marcuse — argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+- C. Historical materialism restated as a mechanism — the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- D. Classical Marxism vs neo-Marxism — base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
 
-B. when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+**Answer: B**
 
-C. Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+**Option-by-option explanation**
+- **A:** A Mismatched: Historical materialism is recorded with the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- **B:** B Correct attachment: Herbert Marcuse is associated with this proposition.
+- **C:** C Wrong attachment: Historical materialism restated as a mechanism is recorded with economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+- **D:** D Source disagrees: Classical Marxism vs neo-Marxism is recorded with classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
 
-D. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Young Marx** with **Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 28
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.**
-
-A. Surplus value
-
-B. Base determines superstructure mechanically
-
-C. Herbert Marcuse
-
-D. Young Marx
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.** with **Young Marx**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Herbert Marcuse; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 29
+### MCQ 15
 
-Which option is the exact canonical pairing recorded for **Frankfurt School**? Other options belong to different named entries.
+Which pairing below would a careful source check leave standing?
 
-A. Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
+- A. Young Marx — Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
+- B. Dialectical materialism vs historical materialism — Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and.
+- C. Louis Althusser — represents the scientific strain of neo-Marxism focused on structures and modes of production.
+- D. Surplus value — Test the "economism" charge against Gramsci/Althusser's superstructural correctives (§15, Chains 1-2).
 
-B. Historical materialism and class struggle.
+**Answer: C**
 
-C. a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.
+**Option-by-option explanation**
+- **A:** A Not this pair: Young Marx is recorded with Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+- **B:** B Wrong attachment: Dialectical materialism vs historical materialism is recorded with the first is the philosophical basis; the second is the scientific-historical application to society.
+- **C:** C Faithful pairing: Louis Althusser is associated with this proposition.
+- **D:** D Source disagrees: Surplus value is recorded with the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
 
-D. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Frankfurt School** with **Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 30
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.**
-
-A. Dialectical materialism vs historical materialism
-
-B. Frankfurt School
-
-C. Marx and Engels
-
-D. Louis Althusser
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.** with **Frankfurt School**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Louis Althusser; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 31
+### MCQ 16
 
-Which option is the exact canonical pairing recorded for **Herbert Marcuse**? Other options belong to different named entries.
+Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
 
-A. Marx, Engels, Lenin, Luxemburg, Mao.
+- A. Surplus value — the first is the philosophical basis; the second is the scientific-historical application to.
+- B. Mark-weight cue (10/15) — Exploitation rooted in ownership of means of production.
+- C. Lenin, Rosa Luxemburg and Mao Zedong — represents the scientific strain of neo-Marxism focused on structures and.
+- D. Core focus — Property, class division and revolutionary transformation of capitalism.
 
-B. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+**Answer: D**
 
-C. argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.
+**Option-by-option explanation**
+- **A:** A Belongs elsewhere: Surplus value is recorded with the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+- **B:** B Source disagrees: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
+- **C:** C Misplaced: Lenin, Rosa Luxemburg and Mao Zedong is recorded with Gauba lists them among chief exponents of classical Marxism.
+- **D:** D Source-exact: Core focus is associated with this proposition.
 
-D. the first is the philosophical basis; the second is the scientific-historical application to society.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Herbert Marcuse** with **argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 32
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.**
-
-A. Base vs superstructure
-
-B. Lenin, Rosa Luxemburg and Mao Zedong
-
-C. Core focus
-
-D. Herbert Marcuse
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated desires.** with **Herbert Marcuse**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Keep the exact proposition attached to Core focus; nearby thinkers may address the same debate from a different mechanism.
 
 ---
 
-#### MCQ 33
+### MCQ 17
 
-Which option is the exact canonical pairing recorded for **Louis Althusser**? Other options belong to different named entries.
+Consider the following statements:
+1. **Human problem** is associated with: Exploitation rooted in ownership of means of production.
+2. **Mode of production** is associated with: Scale the number of thinkers and depth of objection-reply chain (§20).
+Which option is correct?
 
-A. represents the scientific strain of neo-Marxism focused on structures and modes of production.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+**Answer: A**
 
-C. later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Louis Althusser** with **represents the scientific strain of neo-Marxism focused on structures and modes of production**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 34
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **represents the scientific strain of neo-Marxism focused on structures and modes of production.**
-
-A. Forces of production vs relations of production
-
-B. Louis Althusser
-
-C. Young Marx
-
-D. Human problem
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **represents the scientific strain of neo-Marxism focused on structures and modes of production.** with **Louis Althusser**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Human problem does not validate the second pairing.
 
 ---
 
-#### MCQ 35
+### MCQ 18
 
-Which option is the exact canonical pairing recorded for **Core focus**? Other options belong to different named entries.
+Consider the following statements:
+1. **Key names** is associated with: when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+2. **Fetter/rupture mechanism** is associated with: when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+Which option is correct?
 
-A. forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+**Answer: B**
 
-C. Property, class division and revolutionary transformation of capitalism.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. forces include means of production plus labour power; relations concern ownership patterns and class relations.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Core focus** with **Property, class division and revolutionary transformation of capitalism**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 36
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Property, class division and revolutionary transformation of capitalism.**
-
-A. Classical Marxism vs neo-Marxism
-
-B. Frankfurt School
-
-C. Method
-
-D. Core focus
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Property, class division and revolutionary transformation of capitalism.** with **Core focus**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Key names does not validate the second pairing.
 
 ---
 
-#### MCQ 37
+### MCQ 19
 
-Which option is the exact canonical pairing recorded for **Human problem**? Other options belong to different named entries.
+Consider the following statements:
+1. **Historical materialism restated as a mechanism** is associated with: economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+2. **Base-superstructure — non-mechanical** is associated with: the base is the mode of production; the superstructure is law, politics, religion, morals, art and culture. Gauba's own neo-Marxist section explicitly records growing recognition of interdependence between base and superstructure, rejecting a crude, one-way, mechanical determination of the superstructure by the base (Gauba, PDF pp.48, 53).
+Which option is correct?
 
-A. Exploitation rooted in ownership of means of production.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+**Answer: C**
 
-C. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Human problem** with **Exploitation rooted in ownership of means of production**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 38
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Exploitation rooted in ownership of means of production.**
-
-A. Base determines superstructure mechanically
-
-B. Human problem
-
-C. Herbert Marcuse
-
-D. Key names
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Exploitation rooted in ownership of means of production.** with **Human problem**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Historical materialism restated as a mechanism does not validate the second pairing.
 
 ---
 
-#### MCQ 39
+### MCQ 20
 
-Which option is the exact canonical pairing recorded for **Method**? Other options belong to different named entries.
+Consider the following statements:
+1. **Mode of production** is associated with: Test the "economism" charge against Gramsci/Althusser's superstructural correctives (§15, Chains 1-2).
+2. **"Critically examine"/"Critically analyse"** is associated with: the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+Which option is correct?
 
-A. a set of political and economic principles founded by Marx and Engels to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+**Answer: D**
 
-C. Historical materialism and class struggle.
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Method** with **Historical materialism and class struggle**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 40
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Historical materialism and class struggle.**
-
-A. Marx and Engels
-
-B. Louis Althusser
-
-C. Historical materialism restated as a mechanism
-
-D. Method
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **Historical materialism and class struggle.** with **Method**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Mode of production does not validate the second pairing.
 
 ---
 
-#### MCQ 41
+### MCQ 21
 
-Which option is the exact canonical pairing recorded for **Key names**? Other options belong to different named entries.
+Consider the following statements:
+1. **Fetter/rupture mechanism** is associated with: when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+2. **Mark-weight cue (10/15)** is associated with: the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+Which option is correct?
 
-A. Marx, Engels, Lenin, Luxemburg, Mao.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+**Answer: A**
 
-C. the first is the philosophical basis; the second is the scientific-historical application to society.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
+- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Key names** with **Marx, Engels, Lenin, Luxemburg, Mao**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 42
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **Marx, Engels, Lenin, Luxemburg, Mao.**
-
-A. Lenin, Rosa Luxemburg and Mao Zedong
-
-B. Key names
-
-C. Core focus
-
-D. Mode of production
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **Marx, Engels, Lenin, Luxemburg, Mao.** with **Key names**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Fetter/rupture mechanism does not validate the second pairing.
 
 ---
 
-#### MCQ 43
+### MCQ 22
 
-Which option is the exact canonical pairing recorded for **Historical materialism restated as a mechanism**? Other options belong to different named entries.
+Consider the following statements:
+1. **Base-superstructure — non-mechanical** is associated with: the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+2. **Classical Marxism** is associated with: the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+Which option is correct?
 
-A. later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.
+**Answer: B**
 
-C. economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
+- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. Gauba lists them among chief exponents of classical Marxism.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Historical materialism restated as a mechanism** with **economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 44
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).**
-
-A. Young Marx
-
-B. Human problem
-
-C. Fetter/rupture mechanism
-
-D. Historical materialism restated as a mechanism
-
-**Answer:** D
-
-**Explanation:** The canonical Basic owner pairs **economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life (Gauba, PDF p.48).** with **Historical materialism restated as a mechanism**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Base-superstructure — non-mechanical does not validate the second pairing.
 
 ---
 
-#### MCQ 45
+### MCQ 23
 
-Which option is the exact canonical pairing recorded for **Mode of production**? Other options belong to different named entries.
+Consider the following statements:
+1. **"Critically examine"/"Critically analyse"** is associated with: Test the "economism" charge against Gramsci/Althusser's superstructural correctives (§15, Chains 1-2).
+2. **Dialectical materialism** is associated with: the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+Which option is correct?
 
-A. forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+**Answer: C**
 
-C. Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects.
+**Option-by-option explanation**
+- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
+- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
 
-D. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
-
-**Answer:** A
-
-**Explanation:** The canonical Basic owner pairs **Mode of production** with **forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49)**. The other options are valid source terms or statements, but belong to different pairings.
-
----
-
-#### MCQ 46
-
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).**
-
-A. Frankfurt School
-
-B. Mode of production
-
-C. Method
-
-D. Marxism
-
-**Answer:** B
-
-**Explanation:** The canonical Basic owner pairs **forces of production (means of production plus labour power/technique) combine with relations of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).** with **Mode of production**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with "Critically examine"/"Critically analyse" does not validate the second pairing.
 
 ---
 
-#### MCQ 47
+### MCQ 24
 
-Which option is the exact canonical pairing recorded for **Fetter/rupture mechanism**? Other options belong to different named entries.
+Consider the following statements:
+1. **Mark-weight cue (10/15)** is associated with: the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+2. **Historical materialism** is associated with: forces include means of production plus labour power; relations concern ownership patterns and class relations.
+Which option is correct?
 
-A. the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-B. classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.
+**Answer: D**
 
-C. when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).
+**Option-by-option explanation**
+- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
+- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
+- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
+- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
 
-D. Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique.
-
-**Answer:** C
-
-**Explanation:** The canonical Basic owner pairs **Fetter/rupture mechanism** with **when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49)**. The other options are valid source terms or statements, but belong to different pairings.
+> **Examiner trap:** Test each statement independently; familiarity with Mark-weight cue (10/15) does not validate the second pairing.
 
 ---
 
-#### MCQ 48
+### MCQ 25 — REMEDIAL
 
-Which concept, thinker or distinction is correctly associated with this source-grounded statement: **when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).**
+Which correction is most defensible for the claim: **Historical materialism means economics alone explains everything.**?
 
-A. Herbert Marcuse
+- A. Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53)
+- B. Gauba presents it as a development within Marxism, especially around alienation, ideology and emancipation. (PDF pp.47, 53-54)
+- C. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+- D. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
 
-B. Key names
+**Answer: A**
 
-C. Classical Marxism
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53).
+- **B:** B Repairs a different misconception, 'Neo-Marxism abandons Marxism.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Surplus value means any profit whatsoever is automatically identical with market price movement.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
 
-D. Fetter/rupture mechanism
+> **Examiner trap:** Repair the exact overstatement about Historical materialism means economics alone, not a different error from the same topic.
 
-**Answer:** D
+---
 
-**Explanation:** The canonical Basic owner pairs **when the forces of production (technique, productive capacity) develop beyond what the existing relations of production (ownership patterns) can accommodate, the relations become a fetter on further development; revolution breaks that fetter and replaces one social formation with another across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba, PDF p.49).** with **Fetter/rupture mechanism**. The other options are valid source terms or statements, but belong to different pairings.
+### MCQ 26 — REMEDIAL
+
+Which correction is most defensible for the claim: **Neo-Marxism abandons Marxism.**?
+
+- A. Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53)
+- B. Gauba presents it as a development within Marxism, especially around alienation, ideology and emancipation. (PDF pp.47, 53-54)
+- C. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+- D. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Historical materialism means economics alone explains everything.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Gauba presents it as a development within Marxism, especially around alienation, ideology and emancipation. (PDF pp.47, 53-54).
+- **C:** C Repairs a different misconception, 'Surplus value means any profit whatsoever is automatically identical with market price movement.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Neo-Marxism abandons Marxism, not a different error from the same topic.
+
+---
+
+### MCQ 27 — REMEDIAL
+
+Which correction is most defensible for the claim: **Surplus value means any profit whatsoever is automatically identical with market price movement.**?
+
+- A. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- B. Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53)
+- C. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+- D. Gauba presents it as a development within Marxism, especially around alienation, ideology and emancipation. (PDF pp.47, 53-54)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Historical materialism means economics alone explains everything.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53).
+- **D:** D Repairs a different misconception, 'Neo-Marxism abandons Marxism.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Surplus value means any profit whatsoever is, not a different error from the same topic.
+
+---
+
+### MCQ 28 — REMEDIAL
+
+Which correction is most defensible for the claim: **Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.**?
+
+- A. Dialectical materialism means the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- B. Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53)
+- C. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+- D. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Dialectical materialism means forces include means of production plus labour power; relations concern ownership patterns and class relations.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Historical materialism means economics alone explains everything.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Surplus value means any profit whatsoever is automatically identical with market price movement.', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+
+> **Examiner trap:** Repair the exact overstatement about Classical Marxism means base refers to the mode of, not a different error from the same topic.
+
+---
+
+### MCQ 29 — REMEDIAL
+
+Which correction is most defensible for the claim: **Dialectical materialism means forces include means of production plus labour power; relations concern ownership patterns and class relations.**?
+
+- A. Dialectical materialism means the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- B. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- C. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+- D. Dialectical materialism vs historical materialism means the first is the philosophical basis; the second is the scientific-historical application to society.
+
+**Answer: A**
+
+**Option-by-option explanation**
+- **A:** A Directly repairs the stated misconception: Dialectical materialism means the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- **B:** B Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Surplus value means any profit whatsoever is automatically identical with market price movement.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Dialectical materialism vs historical materialism means founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Dialectical materialism means forces include means, not a different error from the same topic.
+
+---
+
+### MCQ 30 — REMEDIAL
+
+Which correction is most defensible for the claim: **Historical materialism means classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.**?
+
+- A. Dialectical materialism vs historical materialism means the first is the philosophical basis; the second is the scientific-historical application to society.
+- B. Historical materialism means the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and.
+- C. Dialectical materialism means the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- D. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+
+**Answer: B**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Dialectical materialism vs historical materialism means founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.', so it does not answer the claim in the stem.
+- **B:** B Directly repairs the stated misconception: Historical materialism means the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and political life.
+- **C:** C Repairs a different misconception, 'Dialectical materialism means forces include means of production plus labour power; relations concern ownership patterns and class relations.', so it does not answer the claim in the stem.
+- **D:** D Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Historical materialism means classical Marxism, not a different error from the same topic.
+
+---
+
+### MCQ 31 — REMEDIAL
+
+Which correction is most defensible for the claim: **Surplus value means Gauba explicitly notes that later Marxist debate recognizes interdependence between base and superstructure.**?
+
+- A. Gauba's neo-Marxist section explicitly notes growing recognition of interdependence between base and superstructure. (PDF p.53)
+- B. Gauba presents it as a development within Marxism, especially around alienation, ideology and emancipation. (PDF pp.47, 53-54)
+- C. Surplus value means the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+- D. Gauba defines it as the unpaid part of labour appropriated by the capitalist, not simply any change in sale price. (PDF pp.52-53)
+
+**Answer: C**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Historical materialism means economics alone explains everything.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Neo-Marxism abandons Marxism.', so it does not answer the claim in the stem.
+- **C:** C Directly repairs the stated misconception: Surplus value means the unpaid part of labour appropriated by the capitalist as profit, rent and interest.
+- **D:** D Repairs a different misconception, 'Surplus value means any profit whatsoever is automatically identical with market price movement.', so it does not answer the claim in the stem.
+
+> **Examiner trap:** Repair the exact overstatement about Surplus value means Gauba explicitly notes that, not a different error from the same topic.
+
+---
+
+### MCQ 32 — REMEDIAL
+
+Which correction is most defensible for the claim: **Dialectical materialism vs historical materialism means founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production.**?
+
+- A. Classical Marxism means the original scientific system centred on property, class division, contradiction and revolutionary transformation.
+- B. Historical materialism means the claim that economic relations of production, distribution and exchange play the decisive role in shaping wider social and.
+- C. Dialectical materialism means the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.
+- D. Dialectical materialism vs historical materialism means the first is the philosophical basis; the second is the scientific-historical application to society.
+
+**Answer: D**
+
+**Option-by-option explanation**
+- **A:** A Repairs a different misconception, 'Classical Marxism means base refers to the mode of production; superstructure includes law, politics, religion, morals, art and culture.', so it does not answer the claim in the stem.
+- **B:** B Repairs a different misconception, 'Historical materialism means classical Marxism emphasizes property, class contradiction and revolution; neo-Marxism widens the lens to ideology, culture and new forms of domination.', so it does not answer the claim in the stem.
+- **C:** C Repairs a different misconception, 'Dialectical materialism means forces include means of production plus labour power; relations concern ownership patterns and class relations.', so it does not answer the claim in the stem.
+- **D:** D Directly repairs the stated misconception: Dialectical materialism vs historical materialism means the first is the philosophical basis; the second is the scientific-historical application to society.
+
+> **Examiner trap:** Repair the exact overstatement about Dialectical materialism vs historical materialism, not a different error from the same topic.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-> **Ownership note:** These are verified Philosophy Optional Paper II questions. Their primary owner remains the Philosophy Political Ideologies corpus; they are reproduced here only where the Political Theory topic supplies the directly tested doctrine.
+### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-#### Solved PYQ 2 - 2018 Q3(b), 15 marks
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Marxism and Neo-Marxism** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
 
-**Question:** Are Marxian Socialism and individual freedom consistent ? Discuss critically.
+### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
+### Original GS Mains Model 1 — 10 marks
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Question:** Explain the relation between forces and relations of production in historical materialism. Answer in 150 words.
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of the relation between forces and relations of production in historical materialism in the opening line, carry the argument on Introduction, Historical, Core and Forces, and reserve the closing sentences for the qualification that conclusion: Historical change occurs when developing productive forces are constrained by existing relations of ownership and control, but the transition is mediated through social and political struggle rather than mechanical necessity.
 
-**Thesis.** Marxian socialism and individual freedom are consistent ONLY
-CONDITIONALLY: they are consistent where collective ownership genuinely ENLARGES
-each person's real self-development and democratic control, and they become
-inconsistent -- the emancipatory claim defeating itself -- where "collective" power
-hardens into bureaucratic command.
+**Model answer (149 words):**
 
-- **Reframe "freedom".** Marx rejects a purely negative liberty (non-interference)
-  that leaves formal rights operating over radically unequal social conditions.
-  His positive ideal is non-domination PLUS self-development: the capacity to
-  engage in conscious, social, creative activity, of which alienated labour
-  deprives the worker (evidence P3 -- estrangement from product, activity,
-  species-being and others).
-- **The consistency argument.** If the means of production are brought under
-  genuinely social, democratic control, then the structural coercion of the
-  wage-relation is removed and freedom is EXTENDED to those the market subordinated
-  -- collective ownership is the condition, not the enemy, of real freedom.
-- **The self-defeat condition (objection -> reply -> residual).** Objection
-  (bureaucratic domination): state ownership can become ownership by officials, and
-  a transitional "dictatorship of the proletariat" can entrench rather than wither
-  (the strongest historical objection at §2.9). Reply (M. N. Roy's radical
-  humanism): retain Marx's critique of exploitation but reject economic determinism
-  and party absolutism and restore individual reason and ethical autonomy, since
-  concentrated power cannot reliably serve emancipation. Residual: the historical
-  record of transitional states remains adverse, so accountability, plural
-  organisation and civil liberty must be built INTO the transition, not postponed.
+Introduction: Historical materialism explains social formations through the interaction of productive capacity and the social relations governing production. Core analysis: Forces of production include labour, skills, tools and technology. Relations of production organise ownership, control and the position of classes. Together they constitute a mode of production. As productive forces develop, inherited relations may become fetters that obstruct further development. The resulting contradiction is expressed through class struggle and may culminate in institutional rupture and a new social formation. The mechanism links material production to law, politics and ideology without reducing history to isolated ideas. Critical evaluation: The relation is not an automatic sequence. Political organisation, culture and contingent struggle influence whether contradiction produces reform, repression or revolution. Conclusion: Historical change occurs when developing productive forces are constrained by existing relations of ownership and control, but the transition is mediated through social and political struggle rather than mechanical necessity.
 
-**Verdict (conditional).** Marxian socialism and individual freedom are consistent
-as an IDEAL of collective self-development, and inconsistent in any form that
-subordinates the individual to class, party or historical necessity; the doctrine
-survives only if it constitutionalises the freedom it promises.
-
-> MEMORY: Why this earns marks -- it turns "consistent?" into the "only if...
-> otherwise self-defeats" conditional (P3 + §2.8), brings M. N. Roy as the internal
-> Indian reply, concedes the adverse record, and grades rather than answers yes/no.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Are Marxian Socialism and individual freedom consistent ? Discuss critically.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, Historical, Core and Forces), converts that evidence into analysis of the relation between forces and relations of production in historical materialism, and keeps the examiner-facing qualification that conclusion: Historical change occurs when developing productive forces are constrained by existing relations of ownership and control, but the transition is mediated through social and political struggle rather than mechanical necessity. At 149 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Solved PYQ 4 - 2019 Q3(c), 15 marks
+### Original GS Mains Model 2 — 10 marks
 
-**Question:** What do you consider to be the future of Marxism in the context of the prevalent free-market economy?
+**Question:** Present Marx's concept of alienation and distinguish it from economic inequality. Answer in 150 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of marx's concept of alienation and distinguish it from economic inequality in the opening line, carry the argument on Introduction, Alienation, Core and Inequality, and reserve the closing sentences for the qualification that critical evaluation: The concept depends on a contested account of human flourishing, but it remains powerful when reconstructed around agency, recognition and meaningful control over work.
 
-**Demand decoding:** The operative directive is **What**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (141 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Alienation describes the worker's estrangement within capitalist production and is broader than unequal income or wealth. Core analysis: The worker is alienated from the product, which confronts its producer as another's property; from the labour process, which is externally controlled; from species-being, because creative activity is reduced to a means of survival; and from other persons, whose relations are mediated by competition and exchange. Inequality concerns distribution, whereas alienation concerns control, purpose and self-realisation within the productive relation. A redistribution of income can therefore reduce inequality while leaving alienated labour intact. Critical evaluation: The concept depends on a contested account of human flourishing, but it remains powerful when reconstructed around agency, recognition and meaningful control over work. Conclusion: Alienation concerns loss of control, self-realisation and human relation within production; redistribution may reduce inequality without removing that deeper form of estrangement.
 
-**Thesis.** In a prevailing free-market economy the FUTURE of Marxism lies in its
-survival as a diagnostic and critical framework, not as an infallible prediction
-of collapse or a blueprint for a command economy: what persists is the analysis;
-what fails is the timetable and the party-state remedy.
-
-- **What the free market vindicates in Marx.** Concentration of capital,
-  commodification, precarity, recurrent crises and the ideological normalisation of
-  market relations remain live phenomena the analysis still explains (evidence P2 --
-  the contradiction between developing forces and existing relations; P4 --
-  structural exploitation through surplus value, argued as a relation, not via the
-  contested price theory).
-- **What the free market falsifies.** Revolution did not first triumph in the most
-  advanced economies; welfare compromise, universal franchise and political
-  organisation altered the trajectory. Marxism is an explanatory framework, not an
-  infallible schedule -- and the neo-Marxist turn already absorbed this: causal
-  weight was RELOCATED into ideology and the state (P6 Gramsci's hegemony; P8
-  Poulantzas's relatively autonomous state) rather than the doctrine abandoned.
-- **Objection -> reply -> residual.** Objection: the collapse of command economies
-  refutes Marxism. Reply: it refutes the unaccountable party-state, not the critique
-  of exploitation; the two must be separated. Residual: Marxism supplies no internal
-  safeguard against the transitional state entrenching itself -- that gap is why its
-  political future depends on democratic and constitutional reconstruction.
-
-**Verdict (relocation).** The future of Marxism under free markets is as a REFINED
-critical tradition: its diagnosis of concentration, precarity and ideological
-reproduction retains force; its predictive schedule and command-economy remedy do
-not; so it will endure as analysis and critique rather than as a governing
-programme -- with no verdict passed here on any particular country.
-
-> MEMORY: Why this earns marks -- it splits diagnosis (P2/P4, still explains) from
-> prediction and remedy (falsified), uses the neo-Marxist relocation (P6/P8) as the
-> survival mechanism, and grades without commenting on any actual regime.
-
-**How to improve this answer:** Make the opening answer this exact demand — “What do you consider to be the future of Marxism in the context of the prevalent free-market economy?” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Alienation, Core and Inequality), converts that evidence into analysis of marx's concept of alienation and distinguish it from economic inequality, and keeps the examiner-facing qualification that critical evaluation: The concept depends on a contested account of human flourishing, but it remains powerful when reconstructed around agency, recognition and meaningful control over work. At 141 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Solved PYQ 6 - 2020 Q2(b), 15 marks
+### Original GS Mains Model 3 — 10 marks
 
-**Question:** How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer.
+**Question:** Critically examine the base-superstructure relation in classical and neo-Marxist thought. Answer in 150 words.
 
+**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine the base-superstructure relation in classical and neo-Marxist thought in the opening line, carry the argument on Introduction, Core, Classical Marxism and Neo-Marxists, and reserve the closing sentences for the qualification that yet the relation should not be read as a one-way switch.
 
-**Demand decoding:** The operative directive is **How far**: answer the proposition immediately, specify the conditions or degree, test the counter-position and return to a qualified yes/no verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (139 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: The base-superstructure model relates the mode of production to legal, political and cultural institutions. Core analysis: Classical Marxism gives the economic structure decisive explanatory weight because ownership and production organise class power. Yet the relation should not be read as a one-way switch. Neo-Marxists develop its reciprocal character: Gramsci shows how civil society and hegemony organise consent; the Frankfurt School examines culture and manipulated needs; Althusser analyses ideological and repressive apparatuses that reproduce social relations. The superstructure therefore stabilises or contests the base rather than merely reflecting it. Further development: Gramsci and Althusser illustrate two different corrections. If culture becomes completely autonomous, the distinctively Marxist account of material power is lost. Conclusion: The relation is best read as structured interaction: the economic base sets powerful limits, while law, politics and culture also reproduce or transform the social order.
 
-**Thesis.** Marxism as a PHILOSOPHICAL doctrine remains substantially relevant --
-as a method, a critique and a theory of ideology -- even where its 19th-century
-predictions and 20th-century political implementations have failed; relevance must
-be judged by diagnostic power, not by the fate of any regime.
-
-- **The philosophical core that survives.** Historical materialism reads social
-  formations through productive forces, relations of production and class (evidence
-  P2); the theory of alienation diagnoses the estrangement of labour under
-  commodified production (P3); the critique of ideology explains how contingent,
-  class-bound relations come to appear natural and inevitable (and Gramsci's
-  hegemony, P6, and Althusser's interpellation, P7, extend this into culture and
-  subject-formation). These are analytical instruments, not dated slogans.
-- **Where it needs correction.** Economic reductionism is a real tendency: caste,
-  religion, gender and nationalism have relative autonomy and cannot be derived
-  from class alone -- so class analysis is NECESSARY BUT INSUFFICIENT, especially in
-  India (§2.9). The reply treats these as materially embedded powers rather than
-  mere epiphenomena, expanding the analysis through hegemony and social
-  reproduction.
-- **Objection -> reply -> residual.** Objection: authoritarian outcomes discredit
-  the doctrine. Reply: separate the critique of exploitation from the unaccountable
-  transitional state; the philosophy is not the regime. Residual: the doctrine
-  offers no internal safeguard against that state -- the strongest standing
-  objection.
-
-**Verdict (diagnosis/remedy split).** The philosophical analysis of concentration,
-exploitation and ideological reproduction retains force; the institutional remedy
--- an unaccountable transitional state -- does not, and the theory supplies no
-internal guard against it. Marxism is therefore relevant as critique and method,
-refined rather than refuted.
-
-> MEMORY: Why this earns marks -- it isolates the philosophical core (P2/P3/P6/P7),
-> concedes the necessary-not-sufficient limit and the authoritarian residual, and
-> closes on the diagnosis/remedy split rather than a yes/no on "relevance".
-
-**How to improve this answer:** Make the opening answer this exact demand — “How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Classical Marxism and Neo-Marxists), converts that evidence into analysis of examine the base-superstructure relation in classical and neo-Marxist thought, and keeps the examiner-facing qualification that yet the relation should not be read as a one-way switch. At 139 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
-#### Solved PYQ 10 - 2023 Q3(a), 20 marks
+### Original GS Mains Model 4 — 15 marks
 
-**Question:** Explain Historical Materialism and discuss its relevance in the context of social development and change.
+**Question:** Discuss Gramsci's concept of hegemony as a development within Marxism. Answer in 250 words.
 
+**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of gramsci's concept of hegemony as a development within Marxism in the opening line, carry the argument on Introduction, Gramsci, Marxism and Core, and reserve the closing sentences for the qualification that the risk is stretching hegemony so widely that every form of agreement appears manipulated.
 
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (232 words):**
 
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
+Introduction: Gramsci develops Marxism by explaining why class rule persists through consent as well as direct coercion. Core analysis: Hegemony is the capacity of a leading class to present its interests as a common social outlook through institutions of civil society, including education, religion, media and associations. Political society supplies law and coercion, while civil society secures active or passive consent. Organic intellectuals organise rival experience into a counter-hegemonic worldview. In advanced societies, transformation therefore requires a prolonged war of position within civil society rather than reliance only on a frontal seizure of state power. Further development: The distinction between war of manoeuvre and war of position follows from this analysis. A direct assault may be possible where civil society is weak, but dense associations in advanced societies require a long struggle over common sense and institutional leadership. This expands revolutionary strategy beyond the factory and the state. It also allows subordinate groups to build consent before taking governmental power, though it raises the question of whether counter-hegemony can avoid becoming another form of ideological closure. Critical evaluation: Gramsci gives culture and agency greater causal weight without abandoning class analysis. The risk is stretching hegemony so widely that every form of agreement appears manipulated. Conclusion: Gramsci extends Marxism by showing that durable rule depends on organised consent in civil society as well as coercion, thereby making culture a terrain of political struggle.
 
-**Thesis.** Historical materialism explains social formations through the
-interaction of productive forces, relations of production, class structure and
-political-ideological institutions; it remains highly relevant to social
-development and change AS A METHOD, provided its base-superstructure relation is
-read non-mechanically and supplemented where class alone is insufficient.
-
-- **The doctrine as a causal chain (evidence P2).** (1) Human beings must produce
-  the means of life; (2) production occurs through definite social relations; (3)
-  productive forces develop within those relations; (4) existing relations
-  eventually become FETTERS on further development; (5) the conflict between forces
-  and relations becomes social and political struggle; (6) a new mode of production
-  can emerge through that struggle. The elements: productive forces (capacity),
-  relations of production (ownership/control), mode of production (their unity),
-  base/superstructure (a relation, NOT a one-way switch) and class struggle (the
-  motor of transformation).
-- **Relevance to social development and change.** It supplies a materialist account
-  of WHY social orders change -- technological and productive development
-  destabilising inherited property relations -- and of how law, politics and ideology
-  are anchored in social labour and power. Extended by Gramsci's hegemony (P6) and
-  Althusser's reproduction (P7), it explains not only revolution but the STABILITY
-  of orders through consent and subject-formation.
-- **Objection -> reply -> residual.** Objection: economic determinism -- caste,
-  religion, gender and nationalism cannot be read off the base. Reply: historical
-  materialism can treat these as materially embedded powers with relative autonomy,
-  not epiphenomena. Residual: in India especially, class analysis is NECESSARY BUT
-  INSUFFICIENT -- caste operates through status, endogamy and social reproduction
-  that class alone cannot derive; say this before the objection is put.
-
-**Verdict (necessary-not-sufficient).** As a research programme, historical
-materialism remains a powerful explanation of social development and change; its
-limit is reductionism, repaired by reading the base-superstructure relation
-reciprocally and adding the independent mechanisms of caste, gender and culture --
-so it is refined, not refuted.
-
-> MEMORY: Why this earns marks -- it runs P2 as six numbered premises (not slogans),
-> states the base/superstructure caution pre-emptively, extends via P6/P7, and
-> grades with the necessary-not-sufficient verdict tuned to Indian social change.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain Historical Materialism and discuss its relevance in the context of social development and change.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Gramsci, Marxism and Core), converts that evidence into analysis of gramsci's concept of hegemony as a development within Marxism, and keeps the examiner-facing qualification that the risk is stretching hegemony so widely that every form of agreement appears manipulated. At 232 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Solved PYQ 11 - 2024 Q1(d), 10 marks
+### Original GS Mains Model 5 — 15 marks
 
-**Question:** Present an exposition of the concept of alienation as propounded by Marx.
+**Question:** Evaluate Marxism as a theory of capitalism, domination and social transformation. Answer in 250 words.
 
+**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of marxism as a theory of capitalism, domination and social transformation in the opening line, carry the argument on Introduction, Marxism, Core and Historical, and reserve the closing sentences for the qualification that conclusion: Marxism remains powerful where exploitation, accumulation and class power intersect, but its adequacy depends on resisting economic reductionism and authoritarian political closure.
 
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (246 words):**
 
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
+Introduction: Marxism combines a method of social analysis, a critique of capitalism, a theory of historical change and a political project. Core analysis: Its analysis links private control of production to surplus appropriation, class conflict and the structural dependence of labour. Historical materialism explains how productive forces and relations generate contradictions, while alienation identifies the human cost of externally controlled work. The state and dominant ideas help stabilise class relations. Neo-Marxism deepens the account through hegemony, culture, ideology and dependency, showing that domination is not maintained by economics alone. Further development: Its evidence architecture spans several levels: surplus value explains appropriation within production; alienation explains loss of agency; the state protects general conditions of class rule; ideology naturalises contingent relations; and historical materialism links contradiction to transformation. Gramsci and the Frankfurt School explain why crisis need not automatically produce revolution, while dependency theory extends domination to colonial and neo-colonial relations. The strongest reply to Marxism is that democratic welfare reform, plural identities and state autonomy exceed a simple two-class model. Its strongest defence is that these modifications do not remove the structural power attached to ownership and accumulation. That residual insight sustains its contemporary relevance. Critical evaluation: Marxism remains illuminating where accumulation and class power interact, but deterministic prediction, class reductionism and authoritarian outcomes weaken any claim to a complete philosophy of emancipation. Conclusion: Marxism remains powerful where exploitation, accumulation and class power intersect, but its adequacy depends on resisting economic reductionism and authoritarian political closure.
 
-**Thesis.** For Marx, ALIENATION is the estrangement of the worker from their own
-productive life under conditions of private property and the division of labour --
-a structural condition of capitalist production, broader than low pay, in which
-labour that should be self-realising becomes an external, compelled and
-dispossessed activity.
-
-- **The four dimensions (evidence P3, from the 1844 Manuscripts).** The worker is
-  estranged (1) FROM THE PRODUCT, which confronts them as another's property; (2)
-  FROM THE ACTIVITY of labour, which is externally compelled rather than
-  self-realising; (3) FROM SPECIES-BEING, as conscious creative activity is reduced
-  to a means of survival; and (4) FROM OTHER PERSONS, as workers compete and social
-  relations assume commodity form.
-- **The mark-bearing distinction.** Alienation is BROADER THAN LOW WAGES: a well-paid
-  worker can remain alienated where labour, product and purpose are controlled by
-  others. So the remedy is not merely higher pay but restored control over the
-  activity and ends of work -- which is why alienation, not just inequality, is
-  central to Marx's critique.
-- **Objection -> reply.** Objection: species-being assumes a controversial universal
-  human essence. Reply: it can be reconstructed MINIMALLY -- persons require
-  meaningful agency, social recognition and control over their central activities --
-  without positing a fixed metaphysical essence.
-
-**Verdict.** Alienation names a genuine and enduring feature of commodified,
-hierarchically controlled work; its diagnostic reach extends well beyond the
-19th-century factory to contemporary labour wherever activity, product and purpose
-are severed from the producer -- which is why it remains Marx's most portable
-concept.
-
-> MEMORY: Why this earns marks -- as an EXPOSITION it leads with the definition and
-> the four dimensions (P3), makes the "broader than low wages" distinction the
-> centrepiece, adds only one controlled objection/reply, and keeps exposition
-> dominant as the directive demands.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Present an exposition of the concept of alienation as propounded by Marx.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Marxism, Core and Historical), converts that evidence into analysis of marxism as a theory of capitalism, domination and social transformation, and keeps the examiner-facing qualification that conclusion: Marxism remains powerful where exploitation, accumulation and class power intersect, but its adequacy depends on resisting economic reductionism and authoritarian political closure. At 246 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
-#### Solved PYQ 13 - 2025 Q2(b), 15 marks
+### Original GS Mains Model 6 — 15 marks
 
-**Question:** Evaluate Marxism as a Political Ideology.
+**Question:** Compare the humanist, structural and dependency-oriented strands of neo-Marxism. Answer in 250 words.
 
+**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of the humanist, structural and dependency-oriented strands of neo-Marxism in the opening line, carry the argument on Introduction, Neo-Marxism, Marxism and Core, and reserve the closing sentences for the qualification that conclusion: These strands disagree over agency, structure and the scale of domination, yet each preserves Marxism by relocating causal weight beyond a mechanically conceived economic base.
 
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
+**Model answer (241 words):**
 
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
+Introduction: Neo-Marxism revises classical Marxism by widening the mechanisms and scales through which domination is explained. Core analysis: The humanist strand, associated with the Young Marx and critical theory, emphasises alienation, freedom, culture and manipulated consciousness. The structural strand, represented by Althusser, resists a philosophy centred on an essential human subject and analyses how economic, political and ideological structures reproduce a social formation. Dependency theorists shift the scale toward relations between developing societies and colonial or neo-colonial power. These strands therefore differ over agency, causal structure and the principal arena of conflict. Further development: The strands also prescribe different emancipatory strategies. Humanism seeks recovery of agency and non-alienated life; structural analysis seeks transformation of the apparatuses reproducing class relations; dependency analysis seeks altered domestic and international relations of production. Gramsci occupies an important bridge because he combines material class leadership with cultural struggle. Habermas should not be merged with first-generation critical theory, and dependency theory should not be renamed world-systems theory without independent justification. Their plurality strengthens Marxism's reach but weakens any claim to one settled neo-Marxist method. Comparison must therefore retain both continuity and internal disagreement. Critical evaluation: They should not be merged with world-systems theory or treated as abandoning Marxism. Each retains concern with material domination while correcting an overly mechanical base model. Conclusion: These strands disagree over agency, structure and the scale of domination, yet each preserves Marxism by relocating causal weight beyond a mechanically conceived economic base.
 
-**Thesis.** Evaluated as a political ideology, Marxism is exceptionally strong as a
-METHOD, a CRITIQUE and a theory of IDEOLOGY, and correspondingly weak as a
-PREDICTION and as an institutional programme; its enduring value is diagnostic, its
-recurring failure political -- and a fair evaluation must keep the two apart.
-
-- **What Marxism is.** Simultaneously a method (dialectical-historical analysis), a
-  critique (exploitation, alienation, commodity relations, ideology), a theory of
-  change (contradiction and class struggle) and a political project (collective
-  emancipation). As ideology in the DESCRIPTIVE sense it guides action; in the
-  PEJORATIVE sense it is itself the theory that UNMASKS ideology as the naturalising
-  of class-bound relations.
-- **Strengths (evidence).** Historical materialism explains structural change (P2);
-  surplus value shows exploitation as a RELATION, not unfair bargaining, so it
-  survives even where the labour theory of value is contested (P4); the critique of
-  ideology, extended by Gramsci's hegemony (P6) and Althusser's interpellation (P7),
-  explains how orders secure consent.
-- **Objections, each with reply and residual (§2.9).** (1) Economic determinism ->
-  treat caste/gender/culture as materially embedded, relatively autonomous powers ->
-  residual: class is necessary but insufficient, sharply so in India. (2) Failed
-  prediction (revolution not in advanced economies) -> Lenin's weakest-link and
-  vanguard revision (P5) -> residual: the vanguard has no mechanism subordinating
-  party to class (substitutionism). (3) Authoritarian outcome -> build liberty and
-  accountability into the transition -> residual: the historical record stays
-  adverse and the theory offers no internal safeguard. (4) Class reductionism ->
-  anti-caste and feminist analyses identify distinct mechanisms.
-- **The neo-Marxist relocation.** Later Marxism keeps the materialist mechanism but
-  relocates causal weight into party, culture and state form (P8 -- the relatively
-  autonomous state) -- refinement, not abandonment.
-
-**Verdict (diagnosis/remedy split).** Marxism's analysis of concentration,
-exploitation and ideological reproduction retains force; its institutional remedy --
-an unaccountable transitional state -- does not, and it supplies no internal guard
-against that outcome. As an ideology it is therefore best judged a powerful CRITIQUE
-in permanent search of a safe political form.
-
-> MEMORY: Why this earns marks -- it evaluates on BOTH senses of ideology, banks the
-> strengths (P2/P4/P6/P7), runs all four §2.9 objections to residuals with the P5
-> revision, adds the P8 relocation, and closes on the diagnosis/remedy split, not a
-> verdict on any regime.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate Marxism as a Political Ideology.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
+**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Neo-Marxism, Marxism and Core), converts that evidence into analysis of the humanist, structural and dependency-oriented strands of neo-Marxism, and keeps the examiner-facing qualification that conclusion: These strands disagree over agency, structure and the scale of domination, yet each preserves Marxism by relocating causal weight beyond a mechanically conceived economic base. At 241 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
-
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
-
-#### Original Mains Practice 1 — 10 marks
-
-**Question:** Explain the relation between forces and relations of production in historical materialism. Answer in about 150 words.
-
-
-**Demand decoding:** The operative directive is **Explain**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Historical materialism explains social formations through the interaction of productive capacity and the social relations governing production.
-
-**Core analysis:** Forces of production include labour, skills, tools and technology. Relations of production organise ownership, control and the position of classes. Together they constitute a mode of production. As productive forces develop, inherited relations may become fetters that obstruct further development. The resulting contradiction is expressed through class struggle and may culminate in institutional rupture and a new social formation. The mechanism links material production to law, politics and ideology without reducing history to isolated ideas.
-
-**Critical evaluation:** The relation is not an automatic sequence. Political organisation, culture and contingent struggle influence whether contradiction produces reform, repression or revolution.
-
-**Conclusion:** Historical change occurs when developing productive forces are constrained by existing relations of ownership and control, but the transition is mediated through social and political struggle rather than mechanical necessity.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Explain the relation between forces and relations of production in historical materialism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 2 — 10 marks
-
-**Question:** Present Marx's concept of alienation and distinguish it from economic inequality. Answer in about 150 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** 150 words: one-sentence thesis, three compact claim → named evidence → analysis moves, one qualification and a direct two-line conclusion.
-**Model solution**
-
-**Introduction:** Alienation describes the worker's estrangement within capitalist production and is broader than unequal income or wealth.
-
-**Core analysis:** The worker is alienated from the product, which confronts its producer as another's property; from the labour process, which is externally controlled; from species-being, because creative activity is reduced to a means of survival; and from other persons, whose relations are mediated by competition and exchange. Inequality concerns distribution, whereas alienation concerns control, purpose and self-realisation within the productive relation. A redistribution of income can therefore reduce inequality while leaving alienated labour intact.
-
-**Critical evaluation:** The concept depends on a contested account of human flourishing, but it remains powerful when reconstructed around agency, recognition and meaningful control over work.
-
-**Conclusion:** Alienation concerns loss of control, self-realisation and human relation within production; redistribution may reduce inequality without removing that deeper form of estrangement.
-
-**Why this earns marks:** It defines the issue, states the controlling distinction, adds one limitation and closes with a direct verdict suited to a 10-mark answer.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Present Marx's concept of alienation and distinguish it from economic inequality.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 10 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 3 — 15 marks
-
-**Question:** Critically examine the base-superstructure relation in classical and neo-Marxist thought. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **Critically examine**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** The base-superstructure model relates the mode of production to legal, political and cultural institutions.
-
-**Core analysis:** Classical Marxism gives the economic structure decisive explanatory weight because ownership and production organise class power. Yet the relation should not be read as a one-way switch. Neo-Marxists develop its reciprocal character: Gramsci shows how civil society and hegemony organise consent; the Frankfurt School examines culture and manipulated needs; Althusser analyses ideological and repressive apparatuses that reproduce social relations. The superstructure therefore stabilises or contests the base rather than merely reflecting it.
-
-**Further development:** Gramsci and Althusser illustrate two different corrections. Gramsci emphasises political agency, organic intellectuals and contest within civil society; Althusser emphasises structural reproduction through ideological and repressive apparatuses. The Frankfurt School adds culture and administered consciousness. These developments answer the objection that economics alone explains history, but they also make the theory harder to falsify because domination can be located across many mutually supporting institutions.
-
-**Critical evaluation:** If economic determination is made wholly mechanical, historical agency disappears. If culture becomes completely autonomous, the distinctively Marxist account of material power is lost.
-
-**Conclusion:** The relation is best read as structured interaction: the economic base sets powerful limits, while law, politics and culture also reproduce or transform the social order.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Critically examine the base-superstructure relation in classical and neo-Marxist thought.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 4 — 15 marks
-
-**Question:** Discuss Gramsci's concept of hegemony as a development within Marxism. Answer in about 200 words.
-
-
-**Demand decoding:** The operative directive is **Discuss**: cover the principal dimensions, connect named evidence to each claim, include the strongest counter-position and conclude directly. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 200 words: thesis, four or five developed claim → named evidence → analysis moves, one objection/reply and a qualified conclusion.
-**Model solution**
-
-**Introduction:** Gramsci develops Marxism by explaining why class rule persists through consent as well as direct coercion.
-
-**Core analysis:** Hegemony is the capacity of a leading class to present its interests as a common social outlook through institutions of civil society, including education, religion, media and associations. Political society supplies law and coercion, while civil society secures active or passive consent. Organic intellectuals organise rival experience into a counter-hegemonic worldview. In advanced societies, transformation therefore requires a prolonged war of position within civil society rather than reliance only on a frontal seizure of state power.
-
-**Further development:** The distinction between war of manoeuvre and war of position follows from this analysis. A direct assault may be possible where civil society is weak, but dense associations in advanced societies require a long struggle over common sense and institutional leadership. This expands revolutionary strategy beyond the factory and the state. It also allows subordinate groups to build consent before taking governmental power, though it raises the question of whether counter-hegemony can avoid becoming another form of ideological closure.
-
-**Critical evaluation:** Gramsci gives culture and agency greater causal weight without abandoning class analysis. The risk is stretching hegemony so widely that every form of agreement appears manipulated.
-
-**Conclusion:** Gramsci extends Marxism by showing that durable rule depends on organised consent in civil society as well as coercion, thereby making culture a terrain of political struggle.
-
-**Why this earns marks:** It combines definition, named doctrinal evidence, comparison and a counter-position before giving a qualified 15-mark verdict.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Discuss Gramsci's concept of hegemony as a development within Marxism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 15 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 5 — 20 marks
-
-**Question:** Evaluate Marxism as a theory of capitalism, domination and social transformation. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **Evaluate**: reconstruct the position accurately, test its strongest objection and reply, then give a graded verdict. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Marxism combines a method of social analysis, a critique of capitalism, a theory of historical change and a political project.
-
-**Core analysis:** Its analysis links private control of production to surplus appropriation, class conflict and the structural dependence of labour. Historical materialism explains how productive forces and relations generate contradictions, while alienation identifies the human cost of externally controlled work. The state and dominant ideas help stabilise class relations. Neo-Marxism deepens the account through hegemony, culture, ideology and dependency, showing that domination is not maintained by economics alone.
-
-**Further development:** Its evidence architecture spans several levels: surplus value explains appropriation within production; alienation explains loss of agency; the state protects general conditions of class rule; ideology naturalises contingent relations; and historical materialism links contradiction to transformation. Gramsci and the Frankfurt School explain why crisis need not automatically produce revolution, while dependency theory extends domination to colonial and neo-colonial relations. The strongest reply to Marxism is that democratic welfare reform, plural identities and state autonomy exceed a simple two-class model. Its strongest defence is that these modifications do not remove the structural power attached to ownership and accumulation. That residual insight sustains its contemporary relevance.
-
-**Critical evaluation:** Marxism remains illuminating where accumulation and class power interact, but deterministic prediction, class reductionism and authoritarian outcomes weaken any claim to a complete philosophy of emancipation.
-
-**Conclusion:** Marxism remains powerful where exploitation, accumulation and class power intersect, but its adequacy depends on resisting economic reductionism and authoritarian political closure.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Evaluate Marxism as a theory of capitalism, domination and social transformation.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.
-
----
-
-#### Original Mains Practice 6 — 20 marks
-
-**Question:** Compare the humanist, structural and dependency-oriented strands of neo-Marxism. Answer in about 250 words.
-
-
-**Demand decoding:** The operative directive is **the stated directive**: define the controlling concept, explain the mechanism in ordered steps, add one material qualification and answer every part of the stem. The scope is the exact proposition in the question; do not substitute an adjacent doctrine or a memorised general essay.
-
-**Executable exam-length plan:** about 250 words: thesis, five or six developed dimensions, a named comparison, the strongest objection/reply and a graded conclusion. Cut biography and repeated definitions before cutting evidence, qualification or verdict.
-**Model solution**
-
-**Introduction:** Neo-Marxism revises classical Marxism by widening the mechanisms and scales through which domination is explained.
-
-**Core analysis:** The humanist strand, associated with the Young Marx and critical theory, emphasises alienation, freedom, culture and manipulated consciousness. The structural strand, represented by Althusser, resists a philosophy centred on an essential human subject and analyses how economic, political and ideological structures reproduce a social formation. Dependency theorists shift the scale toward relations between developing societies and colonial or neo-colonial power. These strands therefore differ over agency, causal structure and the principal arena of conflict.
-
-**Further development:** The strands also prescribe different emancipatory strategies. Humanism seeks recovery of agency and non-alienated life; structural analysis seeks transformation of the apparatuses reproducing class relations; dependency analysis seeks altered domestic and international relations of production. Gramsci occupies an important bridge because he combines material class leadership with cultural struggle. Habermas should not be merged with first-generation critical theory, and dependency theory should not be renamed world-systems theory without independent justification. Their plurality strengthens Marxism's reach but weakens any claim to one settled neo-Marxist method. Comparison must therefore retain both continuity and internal disagreement.
-
-**Critical evaluation:** They should not be merged with world-systems theory or treated as abandoning Marxism. Each retains concern with material domination while correcting an overly mechanical base model.
-
-**Conclusion:** These strands disagree over agency, structure and the scale of domination, yet each preserves Marxism by relocating causal weight beyond a mechanically conceived economic base.
-
-**Why this earns marks:** It develops multiple dimensions and named evidence units, tests the strongest objection and reply, and reaches a balanced 20-mark judgment.
-
-**How to improve this answer:** Make the opening answer this exact demand — “Compare the humanist, structural and dependency-oriented strands of neo-Marxism.” — rather than introducing the topic generally. Convert every major paragraph into claim → named thinker, text or India-linked example → what it proves → limitation; preserve the model's decisive distinction and final qualification. For 20 marks, use the supplied compression plan and remove decorative biography or repeated definitions first.

@@ -1,222 +1,433 @@
-ASCII MASTER FLOW — PANEL 1/12: Gauba's Allocative Frame, Rightness and Dynamic Justice
-CENTRAL FOCUS
-Gauba's Allocative Frame, Rightness and Dynamic Justice
-  [1] Gauba frames justice through allocative contest under scarcity and openness.
-        |
-        v
-  [2] Rightness cannot be reduced to aggregate usefulness, though Mill complicates a
-      blanket anti-utilitarian claim.
-        |
-        v
-  [3] Dynamic social consciousness explains why accepted hierarchy can become recognised
-      injustice.
-        |
-        v
-  [4] The allocative frame is not an exhaustive definition of corrective or penal justice.
-        |
-        v
-VERDICT -> Gauba's scarcity-open society frame is allocative, not universal.
-ANSWER USE -> Define the frame and immediately state its boundary.
+ASCII MASTER FLOW — PANEL 1/19: GS/Prelims Boundary
++----------------------------------------------------------------------------------------------+
+| GS/PRELIMS BOUNDARY                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. TARGET: UPSC Prelims + General Studies Mains only.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. PRIMARY USE: GS-II conceptual foundations.                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. TOPIC SCOPE: Justice: Concepts and Dimensions.                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Conceptual precondition: Political-Theory/basic/18_Liberty-Equality-and-Property.md and  |
+| Political-Theory/advanced/18_Liberty-Equality-and-Property.md                                |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. ADVANCED label = enrichment beyond a core GS answer, not an exam-paper label.            |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Traditional Justice, Social Justice and Barker's Ordering
-CENTRAL FOCUS
-Traditional Justice, Social Justice and Barker's Ordering
-  [1] Traditional justice orders differentiated roles; modern social justice transforms
-      oppressive arrangements.
-        |
-        v
-  [2] Plato's functional harmony is hierarchical but should not be simplified into
-      completely closed hereditary caste.
-        |
-        v
-  [3] Barker orders liberty, equality and fraternity rather than listing them separately.
-        |
-        v
-  [4] Fraternity converts protection of weaker members from charity into a claim of common
-      life.
-        |
-        v
-VERDICT -> Justice orders liberty, equality and fraternity into one scheme.
-ANSWER USE -> Move from Plato's roles to modern structural transformation.
+ASCII MASTER FLOW — PANEL 2/19: Origin and Dated Rail (1/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (1/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 01. 1748-1832 -> Jeremy Bentham                                                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. 1789 -> French Declaration of the Rights of Man and of the Citizen'                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. 1793 -> For instance, William Godwin, in his Essay on Property                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. 1820-1903 -> Herbert Spencer                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. 1912-2006 -> Milton Friedman                                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. 1921-2002 -> John Rawls                                                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. 1938-2002 -> Robert Nozick                                                               |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Law, Legality and the Institutional Dimensions of Justice
-CENTRAL FOCUS
-Law, Legality and the Institutional Dimensions of Justice
-  [1] Ross asks whether existing law is impartially administered.
-        |
-        v
-  [2] Barker asks whether law itself possesses defensible moral value.
-        |
-        v
-  [3] Legal, political and socio-economic justice test different but connected
-      institutions.
-        |
-        v
-  [4] Validity, democratic voice and material access must remain analytically distinct.
-        |
-        v
-VERDICT -> Valid administration cannot settle the justice of legal content.
-ANSWER USE -> Compare Ross and Barker before adding political and material dimensions.
+ASCII MASTER FLOW — PANEL 3/19: Origin and Dated Rail (2/2)
++----------------------------------------------------------------------------------------------+
+| ORIGIN AND DATED RAIL (2/2)                                                                  |
++----------------------------------------------------------------------------------------------+
+| 08. 1951 -> Ernest Barker, in his Principles of Social and Political Theory                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 09. 1958 -> Alf Ross in his On Law and Justice                                               |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 10. 1961 -> The Use of Legal Procedure for Political Ends                                    |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 11. 1962 -> As Richard Lewis Nettleship, in his Lectures on the Republic of Plato            |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 12. 1965 -> As Morris Ginsberg in his On Justice in Society                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 13. 1976 -> Raphael in his Problems of Political Philosophy                                  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 14. 1976 -> Raphael, in his Problems of Political Philosophy                                 |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Aristotle, Distribution and Corrective Justice
-CENTRAL FOCUS
-Aristotle, Distribution and Corrective Justice
-  [1] Aristotle separates geometric distributive proportion from arithmetic corrective
-      equality.
-        |
-        v
-  [2] Modern need-based allocation is not Aristotle's own coordinate criterion.
-        |
-        v
-  [3] Corrective justice is bilateral and transactional.
-        |
-        v
-  [4] Retributive and restorative justice remain separate penal-philosophy owners.
-        |
-        v
-VERDICT -> Distribution, bilateral correction and punishment ask different questions.
-ANSWER USE -> State Aristotle's standard and the penal-justice boundary.
+ASCII MASTER FLOW — PANEL 4/19: Core Definitions
++----------------------------------------------------------------------------------------------+
+| CORE DEFINITIONS                                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. JUSTICE: Gauba introduces justice through the fair allocation of benefits and burdens,   |
+| especially where valued goods are scarce and criteria are open to contestation; this is his  |
+| chapter frame, not an exhaustive definition of every form of justice                         |
+| 02. OPEN SOCIETY: A society where existing arrangements may be criticized and revised        |
+| through public reasoning, making the search for justice meaningful                           |
+| 03. LEGAL JUSTICE: Justice in the legal sphere may mean either fair administration according |
+| to existing law or testing law itself against standards of justice                           |
+| 04. POLITICAL JUSTICE: Transformation of institutions, rights and procedures so that         |
+| political power reflects the people rather than privileged groups                            |
+| 05. SOCIO-ECONOMIC JUSTICE: Reordering social and economic relations so that exploitation is |
+| checked and the material and moral gains of social life reach weaker sections                |
+| 06. PROCEDURAL JUSTICE: Justice secured through fair rules, impartial application and non-   |
+| cheating, often modeled on market or competition rules                                       |
+| 07. SUBSTANTIVE / DISTRIBUTIVE JUSTICE: In this chapter Gauba treats substantive, social and |
+| distributive concerns together: justice is judged by whether actual arrangements improve the |
+| condition and life-chances of the poor and underprivileged, not by procedure alone. The      |
+| terms are not universally synonymous across political theory                                 |
+| 08. SOCIAL JUSTICE: In Gauba's modern usage, a progressive demand to transform oppressive    |
+| social conditions and secure what is due to the underprivileged from organized social life   |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Procedural Liberalism, Background Inequality and Macpherson
-CENTRAL FOCUS
-Procedural Liberalism, Background Inequality and Macpherson
-  [1] Hayek, Friedman and Nozick are grouped by Gauba but defend different procedural
-      arguments.
-        |
-        v
-  [2] Macpherson shows how background inequality can hollow out formally voluntary
-      competition.
-        |
-        v
-  [3] Due process remains necessary even when procedure is substantively incomplete.
-        |
-        v
-  [4] A fair-looking rule is not sufficient proof of a fair social order.
-        |
-        v
-VERDICT -> Procedure is necessary but background power can defeat its purpose.
-ANSWER USE -> Distinguish Hayek, Friedman and Nozick before using Macpherson.
+ASCII MASTER FLOW — PANEL 5/19: Chapter Spine (1/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (1/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba frames justice as a political allocation question where social advantages are      |
+| scarce and their distribution can be openly debated and revised; corrective, penal and other |
+| justice questions need not all take this allocative form                                     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Gauba distinguishes good/bad from right/wrong and treats justice as aligned with the     |
+| latter: a question of what is right and reasonable, not merely what is useful. This is his   |
+| anti-utilitarian contrast, not proof that every utilitarian theory is incapable of giving an |
+| account of justice                                                                           |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Justice is dynamic because social consciousness changes; arrangements once accepted as   |
+| just may later be condemned as unjust, as with slavery, serfdom or caste-based degradation   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Ernest Barker's key point is that justice orders liberty, equality and fraternity into   |
+| an integrated whole rather than leaving them as three isolated slogans                       |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Nozick, Merit, Need and Desert
-CENTRAL FOCUS
-Nozick, Merit, Need and Desert
-  [1] Nozick's theory is historical, entitlement-based and unpatterned.
-        |
-        v
-  [2] Acquisition is limited by a Lockean proviso; unjust history activates rectification.
-        |
-        v
-  [3] Merit, need and desert answer different distributive questions.
-        |
-        v
-  [4] Progressive taxation can finance a floor but does not itself reward merit.
-        |
-        v
-VERDICT -> Entitlement requires acquisition, transfer, proviso and rectification.
-ANSWER USE -> Separate merit, need and desert rather than calling all fairness.
+ASCII MASTER FLOW — PANEL 6/19: Chapter Spine (2/2)
++----------------------------------------------------------------------------------------------+
+| CHAPTER SPINE (2/2)                                                                          |
++----------------------------------------------------------------------------------------------+
+| 05. Modern social justice shifts emphasis from the virtuous individual in a fixed order to   |
+| the just society that must transform oppressive conditions themselves                        |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Justice then appears in legal, political and socio-economic dimensions, which are        |
+| distinct for analysis but continuous in practice                                             |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. The contemporary debate finally turns on whether fair procedure is enough, or whether    |
+| fair distribution and real improvement for weaker sections are the primary tests of justice  |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. The chapter's answer-ready core is: justice means fair rules plus fair social purpose,   |
+| with minimum needs secured before differential rewards are defended                          |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Rawls, Sen and the Information of Justice
-CENTRAL FOCUS
-Rawls, Sen and the Information of Justice
-  [1] Rawls states two lexically ordered principles, not three independent principles.
-        |
-        v
-  [2] Fair equality of opportunity precedes the difference principle within the second
-      principle.
-        |
-        v
-  [3] Sen separates capability as informational space from comparative,
-      realisation-focused method.
-        |
-        v
-  [4] Rawls, Nozick and Sen disagree over procedure, object and institutional requirement.
-        |
-        v
-VERDICT -> Rawls, Nozick and Sen evaluate different objects by different methods.
-ANSWER USE -> Preserve Rawls's priority rules and Sen's information-method distinction.
+ASCII MASTER FLOW — PANEL 7/19: Essential Distinctions
++----------------------------------------------------------------------------------------------+
+| ESSENTIAL DISTINCTIONS                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Justice according to law => This asks whether decisions are made by general rules,       |
+| applied impartially and efficiently under existing law; Alf Ross represents this line        |
+| 02. Law according to justice => This asks whether the law itself has moral value and         |
+| conforms to what is right-in-itself; Ernest Barker represents this line                      |
+| 03. Core warning => If law is valid, it is automatically just. -> Gauba prefers Barker's     |
+| view that validity and value are distinct, and that law is strongest when it has both        |
+| authority and justice                                                                        |
+| 04. Distinction => What to say precisely                                                     |
+| 05. Procedural justice => It stresses fair rules, impartiality and absence of force or       |
+| fraud, much like a fair race where cheating is disallowed                                    |
+| 06. Substantive / distributive justice => In Gauba's chapter usage, it stresses whether the  |
+| poor and underprivileged gain real opportunities to improve their lot, even if this requires |
+| altering background structures and not just policing rules; substantive and distributive     |
+| justice remain distinguishable in wider theory                                               |
+| 07. Core warning => A procedurally regular result is automatically substantively just. ->    |
+| Gauba rejects that simplification because open competition inside deep inequality can still  |
+| leave many trapped in sub-human conditions                                                   |
+| 08. Balance point => Due process still matters; substantive justice does not erase the need  |
+| for impartial procedures                                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Recognition, Representation and Indian Applications
-CENTRAL FOCUS
-Recognition, Representation and Indian Applications
-  [1] Fraser joins redistribution and recognition through parity of participation.
-        |
-        v
-  [2] Her mature framework adds representation without claiming ownership of every
-      recognition theory.
-        |
-        v
-  [3] Affirmative action is not ordinary need-based welfare.
-        |
-        v
-  [4] The 2026-27 National Overseas Scholarship illustrates group-sensitive opportunity,
-      not proof of one theory.
-        |
-        v
-VERDICT -> Distribution alone misses status and political representation.
-ANSWER USE -> Use the scholarship anchor only as an illustration of opportunity.
+ASCII MASTER FLOW — PANEL 8/19: Thinkers and Named Positions (1)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (1)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. PLATO: Justice in the traditional sense means each part of the soul and each class in    |
+| the state doing its proper function under rule of reason; Gauba treats this as a classic     |
+| conservative/functional view                                                                 |
+| 02. D.D. RAPHAEL: Justice should be read through modern consciousness; legal, political and  |
+| social change alter what counts as just                                                      |
+| 03. ERNEST BARKER: Justice is the integrating principle behind liberty, equality and         |
+| fraternity, and law gains true force when validity is joined with moral value                |
+| 04. ALF ROSS: Justice in law primarily means efficient, rule-bound and impartial             |
+| administration according to existing law, not appeal to external moral standards             |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Objection-Reply Chains and Directive Control
-CENTRAL FOCUS
-Objection-Reply Chains and Directive Control
-  [1] Objection-reply chains must test procedure, historical entitlement and substantive
-      life-chances.
-        |
-        v
-  [2] Directive words determine whether the answer distinguishes, evaluates or
-      reconstructs.
-        |
-        v
-  [3] Global and intergenerational bridges require specified duty-bearers.
-        |
-        v
-  [4] Current applications must remain illustrations rather than doctrinal proof.
-        |
-        v
-VERDICT -> Expanded justice needs named institutions and accountable duties.
-ANSWER USE -> Run one objection-reply chain before the global or future bridge.
+ASCII MASTER FLOW — PANEL 9/19: Thinkers and Named Positions (2)
++----------------------------------------------------------------------------------------------+
+| THINKERS AND NAMED POSITIONS (2)                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. JEREMY BENTHAM: Mainstream utilitarianism focuses on utility and felicific calculation,  |
+| which Gauba treats as insufficiently attentive to justice as rightness                       |
+| 02. J.S. MILL: Mill develops a utilitarian account of justice rather than abandoning         |
+| utility. His liberty principle and account of justice show why Gauba's criticism should be   |
+| directed at reduction of justice to aggregate advantage, not at every utilitarian treatment  |
+| of rights and justice                                                                        |
+| 03. JOHN RAWLS: Rawls is noted as a critic of utilitarianism and as a thinker who tries to   |
+| accommodate substantive concerns within a procedural framework                               |
+| 04. C.B. MACPHERSON: Macpherson is used against market-centered proceduralism because        |
+| capitalist conditions can destroy ordinary people's creative freedom and thus the background |
+| fairness of competition                                                                      |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Argument Architecture, Provenance and Final Recall
-CENTRAL FOCUS
-Argument Architecture, Provenance and Final Recall
-  [1] A justice answer moves from standard to institution, distribution, objection and
-      graded verdict.
-        |
-        v
-  [2] Quotation discipline separates verified wording from paraphrased positions.
-        |
-        v
-  [3] Thirteen cross-applied PYQs retain five distinct Philosophy owners.
-        |
-        v
-  [4] Final recall: justice joins fair procedure, defensible purpose, status and effective
-      participation.
-        |
-        v
-VERDICT -> Justice joins rule, purpose, history, capability and participation.
-ANSWER USE -> End with a graded institutional judgment, not a slogan.
+ASCII MASTER FLOW — PANEL 10/19: Illustrations Attached to Claims
++----------------------------------------------------------------------------------------------+
+| ILLUSTRATIONS ATTACHED TO CLAIMS                                                             |
++----------------------------------------------------------------------------------------------+
+| 01. A law that is impartially applied but bars the poor from real access to courts shows why |
+| legal regularity alone may fall short of justice                                             |
+| 02. Gauba's own contrast between open society and authoritarian order explains why           |
+| allocative criteria become publicly contestable where arrangements can be criticized and     |
+| revised; authoritarian institutions can still be judged unjust even when such contestation   |
+| is suppressed                                                                                |
+| 03. His use of liberty-equality-fraternity shows that equal formal treatment of worker and   |
+| employer may still be unjust if the weaker party faces systematic exploitation               |
+| 04. A fair exam rulebook does not settle justice if only a narrow class can realistically    |
+| prepare; this is a simple way to explain the gap between procedure and substance             |
+| 05. Gauba's concluding argument says minimum needs such as subsistence, health care,         |
+| education and work opportunities must be secured before desert-based differences are         |
+| defended                                                                                     |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
-CENTRAL FOCUS
-MCQ Remediation and Trap Repair
-  [1] Close options turn on allocation, transaction, punishment and recognition
-      boundaries.
-        |
-        v
-  [2] Original position differs from veil of ignorance; capability differs from
-      functioning.
-        |
-        v
-VERDICT -> Close options fail when adjacent justice categories are collapsed.
-ANSWER USE -> Identify object, standard and remedy before selecting an answer.
+ASCII MASTER FLOW — PANEL 11/19: Comparison Matrix
++----------------------------------------------------------------------------------------------+
+| COMPARISON MATRIX                                                                            |
++----------------------------------------------------------------------------------------------+
+| 01. LEGAL JUSTICE | What it focuses on = Fair administration of law and/or evaluation of     |
+| whether law itself is just | Why it matters = Without it, authority becomes arbitrary or     |
+| morally empty                                                                                |
+| 02. POLITICAL JUSTICE | What it focuses on = Democratic institutions, rule of law,           |
+| constitutional government, free criticism and free association | Why it matters = It ensures |
+| that power is not monopolized by privileged groups                                           |
+| 03. SOCIO-ECONOMIC JUSTICE | What it focuses on = Reordering economic and social relations   |
+| so the lower and weaker sections gain dignity, protection and material opportunity | Why it  |
+| matters = It prevents economic disparity from hollowing out legal and political justice      |
+| 04. VALUE | What it focuses on = Justice-related role                                        |
+| 05. LIBERTY | What it focuses on = Justice requires liberty, but only as equal and regulated |
+| liberty so one person's freedom does not destroy another's                                   |
+| 06. EQUALITY | What it focuses on = Justice requires equality, but not merely formal non-    |
+| discrimination where structural deprivation persists                                         |
+| 07. FRATERNITY | What it focuses on = Justice further qualifies equality by demanding        |
+| protection of weaker sections and fair sharing of social advantages as a matter of right,    |
+| not charity                                                                                  |
++----------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
-CENTRAL FOCUS
-PYQ Ownership and Answer Practice
-  [1] The master flow ends with ownership, current-anchor caution and answer architecture.
-        |
-        v
-  [2] No Political Theory topic acquires proxy ownership of Philosophy PYQs.
-        |
-        v
-VERDICT -> Cross-application preserves five Philosophy ownership routes.
-ANSWER USE -> Keep PYQ provenance and current-anchor caution explicit.
+ASCII MASTER FLOW — PANEL 12/19: Examiner Trap Firewall
++----------------------------------------------------------------------------------------------+
+| EXAMINER TRAP FIREWALL                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. TRAP: Justice is only whatever the law says => REPAIR: Gauba explicitly distinguishes    |
+| legal validity from moral value and prefers a richer view where law must also answer to      |
+| justice                                                                                      |
+| 02. TRAP: Social justice means only welfare charity => REPAIR: Gauba treats it as a          |
+| structural and rights-based transformation of social conditions, especially for the          |
+| oppressed and underprivileged                                                                |
+| 03. TRAP: Procedural fairness settles everything => REPAIR: A fair-looking procedure can     |
+| still operate inside severe inequality and leave outcomes unjust                             |
+| 04. TRAP: Substantive justice can ignore due process => REPAIR: Gauba does not reject        |
+| procedure; he rejects the claim that procedure alone is enough                               |
+| 05. TRAP: Liberty, equality and fraternity are separate slogans to be listed one after       |
+| another => REPAIR: Barker's central point is that justice orders and reconciles them into    |
+| one coherent scheme                                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/19: Ownership Boundaries and Cross-Links
++----------------------------------------------------------------------------------------------+
+| OWNERSHIP BOUNDARIES AND CROSS-LINKS                                                         |
++----------------------------------------------------------------------------------------------+
+| 01. Conceptual precondition: Political-Theory/basic/18_Liberty-Equality-and-Property.md and  |
+| Political-Theory/advanced/18_Liberty-Equality-and-Property.md                                |
+| 02. Companion depth: Political-Theory/advanced/19_Justice-Concepts-and-Dimensions.md         |
+| 03. The next justice topic in this module turns to rival theories of justice; this file      |
+| should be mastered first because it supplies the baseline vocabulary of legal, political,    |
+| socio-economic, procedural and substantive justice                                           |
+| 04. For applied implementation, affirmative-action outcomes and welfare delivery, move in    |
+| prose to the Social-Justice module rather than crowding this conceptual file with            |
+| institutional detail                                                                         |
+| 05. Do not reduce this file to constitutional provisions alone. -> It is about the logic of  |
+| justice that later informs constitutional and policy discussions                             |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 14/19: Revision Capsule (1/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (1/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 01. Gauba's chapter frames justice through fair allocation of benefits and burdens under     |
+| scarcity in an open society; this is not an exhaustive condition for every justice claim     |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Justice is a question of right/wrong, not merely useful/harmful calculation              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Justice is dynamic because social consciousness changes what counts as reasonable and    |
+| humane                                                                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Barker's synthesis: justice orders liberty, equality and fraternity into a coherent just |
+| arrangement                                                                                  |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/19: Revision Capsule (2/2)
++----------------------------------------------------------------------------------------------+
+| REVISION CAPSULE (2/2)                                                                       |
++----------------------------------------------------------------------------------------------+
+| 05. Legal justice, political justice and socio-economic justice are distinct but continuous  |
+| dimensions                                                                                   |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 06. Procedural justice stresses fair rules; substantive justice stresses fair life-chances   |
+| and outcomes for the underprivileged                                                         |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 07. Minimum needs must be secured before desert-based differences are justified              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 08. One-line answer spine: justice means fair rules plus fair social purpose, with liberty,  |
+| equality and fraternity arranged as a just order rather than recited as separate ideals      |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 16/19: Answer-Grabbing Line Bank
++----------------------------------------------------------------------------------------------+
+| ANSWER-GRABBING LINE BANK                                                                    |
++----------------------------------------------------------------------------------------------+
+| 01. Justice is the bridge-topic that takes liberty, equality and fraternity out of slogan    |
+| form and turns them into an ordering principle for public life                               |
+| 02. Distinction - What to say precisely                                                      |
+| 03. Justice is only whatever the law says. -> Gauba explicitly distinguishes legal validity  |
+| from moral value and prefers a richer view where law must also answer to justice             |
+| 04. Aristotelian category - Core claim - Significance - Limit to name alongside it           |
+| 05. Thinker - Procedural-justice position - Significance - Limit to name alongside it        |
+| 06. Criterion - What it rewards - Which theory leans on it - Caution                         |
+| 07. Gauba already notes Rawls as a critic of utilitarianism who tries to accommodate         |
+| substantive concerns within a procedural framework (PDF pp.434-435, 443)                     |
+| 08. Judicial compensation and restitution remedies illustrate Aristotle's corrective-justice |
+| category (Section 12) applied to a modern legal-institutional setting, without reproducing   |
+| case law                                                                                     |
+| 09. Directive word - What the examiner expects - How to open this topic's answer             |
+| 10. # - Move - What to do here                                                               |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 17/19: Must-Write Keyword Bank
++----------------------------------------------------------------------------------------------+
+| MUST-WRITE KEYWORD BANK                                                                      |
++----------------------------------------------------------------------------------------------+
+| 01. Subject:; Tier:; Exam relevance:; Core area:; Grounded in:; Source edition/cutoff:;      |
+| Gauba                                                                                        |
+| 02. Traditional Justice; Social Justice; Barker; Ordering; SESSION; Essential; Justice       |
+| 03. Legality; Institutional Dimensions; Justice; SESSION; UPSC; Gauba; Social                |
+| 04. geometric proportion; arithmetic equality; Aristotle; Distribution; Corrective Justice;  |
+| SESSION; Aristotelian                                                                        |
+| 05. justice in acquisition; justice in transfer; justice in rectification; Procedural        |
+| Liberalism; Background Inequality; Macpherson; SESSION                                       |
+| 06. Nozick; Merit; Need; Desert; SESSION; Distributive; Criterion                            |
+| 07. procedure; two principles; Feminist link:; Capability and method link:; informational    |
+| space; Recognition link:; Rawls                                                              |
+| 08. Objection 1:; Reply:; Objection 2:; Objection 3:; Recognition; Representation; Indian    |
+| Applications                                                                                 |
+| 09. 10-mark qualified-thesis template:; 15-mark qualified-thesis template:; Central debate   |
+| used as the model:; P1:; P2:; P3:; Mechanism:                                                |
+| 10. 10-mark/~150 words:; 15-mark/~200 words:; Identify the proposition and the concept;      |
+| Reconstruct the strongest argument for it; Test the counterargument and the conditions;      |
+| Apply named evidence; rectification                                                          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 18/19: GS Mains Question Routes
++----------------------------------------------------------------------------------------------+
+| GS MAINS QUESTION ROUTES                                                                     |
++----------------------------------------------------------------------------------------------+
+| 01. 10 MARKS: Justice concerns rightness rather than mere utility and orders liberty,        |
+| equality and fraternity. Explain. Answer in 150 words                                        |
+| 02. 10 MARKS: Distinguish Aristotle's distributive and corrective justice. Why should        |
+| neither be confused with retributive or restorative justice? Answer in 150 words             |
+| 03. 10 MARKS: Distinguish justice according to law from law according to justice. Show how   |
+| legal, political and socio-economic justice expose the limits of mere legality. Answer in    |
+| 150 words                                                                                    |
+| 04. 15 MARKS: Is fair procedure sufficient for justice? Discuss through procedural           |
+| liberalism, Macpherson's criticism and the substantive-justice response. Answer in 250 words |
+| 05. 15 MARKS: Compare Rawls, Nozick and Sen on the procedure, object and institutional       |
+| requirements of justice. Answer in 250 words                                                 |
+| 06. 15 MARKS: Modern social justice requires redistribution, recognition, representation and |
+| duties beyond present national citizens. Critically examine with reference to affirmative    |
+| action and global, intergenerational and environmental justice. Answer in 250 words          |
++----------------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 19/19: Qualified Verdict and Answer Spine
++----------------------------------------------------------------------------------------------+
+| QUALIFIED VERDICT AND ANSWER SPINE                                                           |
++----------------------------------------------------------------------------------------------+
+| 01. Open with the boundary line, not with a general definition.                              |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 02. Carry the argument on named evidence taken from the thinker panels.                      |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 03. Insert the trap-firewall distinction that the question is testing.                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 04. Add the objection or limitation before concluding.                                       |
+|                                                                                              |
+|                                              v                                               |
+|                                                                                              |
+| 05. CLOSE: Gauba distinguishes good/bad from right/wrong and treats justice as aligned with  |
+| the latter: a question of what is right and reasonable, not merely what is useful. This is   |
+| his anti-utilitarian contrast, not proof that every utilitarian theory is incapable of       |
+| giving an account of justice. Gauba frames justice as a political allocation question where  |
+| social advantages are scarce and their distribution can be openly debated and revised;       |
+| corrective, penal and other justice questions need not all take this allocative form. Write  |
+| it as a graded finding - boundary, named evidence, objection, and the residue that survives  |
+| the objection - rather than as a summary                                                     |
++----------------------------------------------------------------------------------------------+
