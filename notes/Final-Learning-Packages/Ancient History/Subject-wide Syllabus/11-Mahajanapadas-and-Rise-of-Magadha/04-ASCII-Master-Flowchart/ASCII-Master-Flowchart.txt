@@ -1,121 +1,156 @@
-ASCII MASTER FLOW — PANEL 1/12: Mahajanapadas: long state-formation transition
-JANA -> JANAPADA -> MAHAJANAPADA -> IMPERIAL THRESHOLD
-kin community  territorial base  large competing states  Magadhan/Mauryan platform
-     |               |                    |                      |
-     +---------------+--------------------+----------------------+
-                              v
-c. 1000-600 BCE changes -> c. 6th-4th centuries BCE competitive state system
-Sixteen is a conventional list; state formation was neither simultaneous nor linear.
+MAHAJANAPADAS AND RISE OF MAGADHA - ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: Sixteen Mahajanapadas: political text map
-NORTH-WEST: Gandhara, Kamboja | UPPER PLAIN: Kuru, Panchala, Matsya, Surasena
-CENTRAL/WEST: Chedi, Avanti, Vatsa | TRANS-VINDHYAN: Assaka
-MIDDLE/EAST GANGA: Kashi, Kosala, Anga, Magadha
-REPUBLICAN EAST: Vajji, Malla | textual lists and placements can vary
-                         |
-                         v
-FOUR LEADING MONARCHIES: Magadha, Kosala, Vatsa, Avanti
-Map polity to capital, route and rivalry; do not draw fixed modern borders.
++--------------------------------------------------------------------------------------------------+
+| PANEL 1/14 - 1. SOURCE AND CHRONOLOGY CONTROL                                                    |
++--------------------------------------------------------------------------------------------------+
+| -> Anguttara Nikaya, Mahavastu, Bhagavati Sutra and Puranas preserve divergent evidence.         |
+| -> Archaeology supplies dated settlements, walls, ceramics and contexts; coins supply            |
+|    circulation.                                                                                  |
+| -> List, ruler story, excavated layer and coin issuer are independent proof classes.             |
+| -> Verdict: correlate evidence at matching place, phase and scale; retain disagreement.          |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 3/12: Monarchy and gana-sangha compared
-MONARCHY                         GANA-SANGHA
-hereditary/dynastic rajan        assembly of chiefly lineages
-court, officials, organised force deliberation among oligarchic elites
-expanding taxation/territory     corporate sovereignty/confederacy
-village heads link centre/local  non-elite, women and dependants excluded
-       |                                  |
-       +----------------+-----------------+
-                        v
-Two state forms: gana was not modern democracy; monarchy was not automatic progress.
++--------------------------------------------------------------------------------------------------+
+| PANEL 2/14 - 2. JANA TO MAHAJANAPADA                                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Jana = people/kin collective; janapada = territorial domain plus inhabitants.                 |
+| -> Mahajanapada = large/powerful polity in transmitted classifications, not a legal rank.        |
+| -> Territory, extraction, defence and armed capacity grew while kinship persisted.               |
+| -> Monarchies, ganas, smaller states and forest communities followed no single ladder.           |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 4/12: Second urbanisation: city-system mechanism
-agricultural surplus + extraction + crafts + routes + merchant finance
-                         |
-                         v
-Rajagriha | Kaushambi | Vaishali | Champa | later Pataliputra
-                         |
-                         v
-NBPW horizon + craft quarters + markets + punch-marked coin circulation
-                         |
-                         v
-Urbanisation was networked and uneven; NBPW and coins are indicators, not sole causes.
++--------------------------------------------------------------------------------------------------+
+| PANEL 3/14 - 3. SIXTEEN AND MAP FIREWALL                                                         |
++--------------------------------------------------------------------------------------------------+
+| -> Anga, Magadha, Kashi, Kosala, Vajji, Malla, Chedi, Vatsa, Kuru, Panchala, Matsya,             |
+| -> Shurasena, Ashmaka, Avanti, Gandhara and Kamboja form the Anguttara list.                     |
+| -> Mahavastu substitutions and Bhagavati variation prevent a rigid fixed-border atlas.           |
+| -> Secure pairs: Ashmaka-Godavari and Kosala-Sarayu; Avanti is Malwa-Narmada linked.             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 5/12: Agrarian political economy and social change
-forest clearance/fields + iron in context + cattle/plough labour
-                         |
-                         v
-surplus -> tax/share -> army/officials/forts -> market and town demand
-                         |
-          +--------------+--------------+
-          |                             |
-gahapati household elites        setthi, merchants and craft groups
-          +--------------+--------------+
-                         v
-Varna claims, new wealth and shramana critiques intersect in urbanising society.
++--------------------------------------------------------------------------------------------------+
+| PANEL 4/14 - 4. MONARCHY AND GANA-SANGHA                                                         |
++--------------------------------------------------------------------------------------------------+
+| -> Monarchy: dynastic king/court, layered officials and potentially concentrated command.        |
+| -> Gana-sangha: restricted male clan body, assembly and chief; Vajji and Malla are key.          |
+| -> Shakyas show a smaller clan polity within Kosala's wider power field.                         |
+| -> Corporate rule is oligarchic, not universal citizenship or modern democracy.                  |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 6/12: Why Magadha? interacting causal matrix
-MAGADHAN ASCENDANCY
-       |
- +-----+---------+---------+---------+---------+
- |               |         |         |         |
-Ganga plain    rivers    resources capitals   political agency
-alluvium/rice transport  iron/     Rajagriha Bimbisara/Ajatashatru
-                         elephants ->Pataliputra diplomacy, war, rule
- +-----+---------+---------+---------+---------+
-                       |
-                       v
-Advantages became power through institutions; no geography or resource monopoly alone.
++--------------------------------------------------------------------------------------------------+
+| PANEL 5/14 - 5. VAJJI INSTITUTIONAL LOGIC                                                        |
++--------------------------------------------------------------------------------------------------+
+| -> Vaishali-centred Vajji tradition includes Licchhavi, Videha and Jnatrika connections.         |
+| -> Frequent assemblies, agreed norms and cohesion are remembered as sources of strength.         |
+| -> Santhagara = assembly hall; later salaka/quorum detail is only comparative evidence.          |
+| -> Ajatashatru-Vassakara story links prolonged war to fortification and dissension.              |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 7/12: Magadhan dynastic expansion sequence
-BIMBISARA -> AJATASHATRU -> UDAYIN -> SHISHUNAGA -> NANDAS -> MAURYAN THRESHOLD
-Anga, marriage  Kosala/Vajji wars Pataliputra    Avanti absorbed resources/army
-      |              |              |               |                 |
-      +--------------+--------------+---------------+-----------------+
-                                      v
-Expansion combined conquest, diplomacy, capital relocation and accumulation.
-Traditions disagree on exact succession; use the sequence without false precision.
++--------------------------------------------------------------------------------------------------+
+| PANEL 6/14 - 6. SECOND URBANISATION                                                              |
++--------------------------------------------------------------------------------------------------+
+| -> Urban growth joined settlement density, walls, crafts, exchange, functions and hinterland.    |
+| -> NBPW is a ceramic horizon, not proof of a city, ethnicity, ruler or political boundary.       |
+| -> Punch-marked coins show uneven monetised valuation; in-kind exchange continued.               |
+| -> Gahapati links property/production; setthi marks urban business or credit prominence.         |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 8/12: Archaeology and source limits of early Magadha
-SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports
-                         |
-      +------------------+------------------+
-      |                                     |
-Rajagriha walls: imposing, dating debated   Pataliputra/Kumrahar: separate early
-                                             settlement from Mauryan remains
-                         |
-                         v
-VERDICT: texts preserve political memory; archaeology tests place and phase, not episode.
++--------------------------------------------------------------------------------------------------+
+| PANEL 7/14 - 7. AGRICULTURE, IRON AND MEDIATION                                                  |
++--------------------------------------------------------------------------------------------------+
+| -> Alluvium, rice, rainfall, labour, draught power and knowledge supported production.           |
+| -> Iron could aid tools, crafts and weapons, but access and chronology varied by region.         |
+| -> Surplus became state capacity through assessment, collection, storage and transport.          |
+| -> Causal rule: resource -> access/skill/labour -> institution -> capacity; no iron monocause.   |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 9/12: From competitive states to empire
-MAHAJANAPADA COMPETITION
-          |
-          v
-larger armies + taxation + capitals + routes + diplomatic repertoires
-          |
-          v
-Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry
-          |
-          v
-Nanda-scale accumulation -> institutional and territorial platform for Mauryas
-Legacy is capacity-building, not destiny; rivals once had viable alternatives.
++--------------------------------------------------------------------------------------------------+
+| PANEL 8/14 - 8. FOUR MAJOR RIVALS                                                                |
++--------------------------------------------------------------------------------------------------+
+| -> Kosala: Shravasti, Sarayu and Kashi; Vatsa: Kaushambi on the Yamuna.                          |
+| -> Avanti: Ujjayini-Mahishmati and Malwa-Narmada routes; Magadha: Rajagriha core.                |
+| -> Every major rival possessed strategic assets, towns and routes.                               |
+| -> Magadhan victory requires a comparative, sequential explanation, not winner-centred myth.     |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 10/12: Mahajanapada-Magadha answer architecture
-ANSWER SPINE
-1. Define jana, janapada and mahajanapada with source-list caution.
-2. Map polity -> capital -> river/route, then compare monarchy and gana.
-3. Explain Magadha through factor -> evidence -> mechanism -> rival -> limit.
-VERDICT: Magadhan supremacy was conjunctural, cumulative and contingent.
++--------------------------------------------------------------------------------------------------+
+| PANEL 9/14 - 9. MAGADHA'S MEDIATED ADVANTAGES                                                    |
++--------------------------------------------------------------------------------------------------+
+| -> Rajagriha: hill defence and southern upland access; Pataliputra: riverine command.            |
+| -> Fertile zones, routes, forests, elephants and ore access created opportunities.               |
+| -> Boats, forts, labour, taxation, diplomacy and armies converted assets into power.             |
+| -> Kosala, Vatsa and Avanti supply the counterfactual: resources alone did not decide.           |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 11/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Texts preserve lists, rulers and conflicts through layered traditions.
-2. Archaeology dates settlements, NBPW and walls but rarely names rulers.
-3. Coins show circulation and valuation, not one issuer or universal money use.
-VERDICT: Correlate text, material and landscape evidence at matching scales.
++--------------------------------------------------------------------------------------------------+
+| PANEL 10/14 - 10. HARYANKA EXPANSION                                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Bimbisara: Anga annexation plus Kosalan, Licchhavi/Videha and Madra marriage traditions.      |
+| -> Ajatashatru: Kosala and Vajji wars, Pataligrama fort and coalition-breaking narrative.        |
+| -> Rathamusala and mahasilakantaka are textual weapon traditions, not excavated machines.        |
+| -> Udayin is linked to Pataliputra's capital role; exact founder sequence remains disputed.      |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 12/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Sixteen is a conventional list; republic means restricted clan oligarchy.
-2. NBPW is one urban marker; iron and rivers are enabling, not sufficient.
-3. Dynastic dates, Nanda origins and army figures remain tradition-dependent.
-VERDICT: Stop at the Mauryan threshold and reject inevitable single-factor rise.
++--------------------------------------------------------------------------------------------------+
+| PANEL 11/14 - 11. SHISHUNAGA AND NANDA SCALE                                                     |
++--------------------------------------------------------------------------------------------------+
+| -> Shishunaga is credited with absorbing Avanti; accession and capital stories diverge.          |
+| -> Kalashoka/Kakavarna identity and Second Buddhist Council chronology are source-sensitive.     |
+| -> Nandas are remembered through wealth and army traditions indicating fiscal-military           |
+|    concentration.                                                                                |
+| -> Founder origins, ruler count and exact troop figures are contested or rhetorical.             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 12/14 - 12. ADMINISTRATION WITHOUT ANACHRONISM                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Officials, local headmen, dues, tolls, stores, forts and armed force made gains durable.      |
+| -> One-sixth is a normative fraction in texts, not an audited uniform Magadhan tax rate.         |
+| -> Fragmentary pre-Mauryan offices cannot be expanded into a full departmental chart.            |
+| -> Later Arthashastra and Mauryan categories are comparisons, not Haryanka descriptions.         |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 13/14 - 13. GANA DECLINE, PERSISTENCE AND RELIGIOUS LINKS                                  |
++--------------------------------------------------------------------------------------------------+
+| -> Large monarchies could exploit greater fiscal scale, concentrated command and faction.        |
+| -> Vajji and Shakya cases show incorporation; later ganas disprove instant extinction.           |
+| -> Cities, routes and courts widened audiences and patronage for Buddhism and Jainism.           |
+| -> Political economy explains opportunity, not doctrines such as anatta or jiva.                 |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 14/14 - 14. ANSWER SPINE AND MAURYAN BRIDGE                                                |
++--------------------------------------------------------------------------------------------------+
+| -> Answer: define -> map -> political forms -> urban economy -> rivals -> ruler sequence.        |
+| -> Then rank geography, resources, capitals, institutions, strategy and cumulative victories.    |
+| -> Qualify lists, chronology, NBPW, coin issuers, gana democracy and Nanda army numbers.         |
+| -> Verdict: Magadha's contingent gains created the Nanda base inherited and contested by         |
+|    Mauryas.                                                                                      |
++--------------------------------------------------------------------------------------------------+

@@ -1,19 +1,29 @@
 FINAL LEARNING PACKAGE
 ======================
 
-Topic: The Satavahanas & the Deccan
+Topic: The Satavahanas and the Deccan
 Subject: Ancient History
 Section: Subject-wide Syllabus
 Catalogue number: 17
-Source record ID: ancient-indian-history-17:learner-v2:g5
-Source generation: 5
+Repair date: 2026-09-10
 Approval: Approval pending
 
 Deliverables
 ------------
 1. Complete Learning Session — PDF
 2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
+3. Graphical Flowchart — one-page poster PDF, native overlapping tiled PDF, 4800 px master PNG
 4. ASCII Master Flowchart — standalone PDF and authored text
 
-Navigation command: Open final package: Ancient History — Subject-wide Syllabus — The Satavahanas & the Deccan
+Practice controls
+-----------------
+32 original hard MCQs; key cycle ABCD repeated eight times; 128 unique option
+explanations; 32 unique examiner traps; 4 verified/routed PYQs with key-status
+discipline; six original Mains questions (2 x 10, 2 x 15, 2 x 20).
+
+Evidence controls
+-----------------
+Canonical Core first; Optional Advanced separately labelled; OCR-searchable R. S.
+Sharma and Upinder Singh; ASI/IGNCA epigraphic control; CSMVS overstrike object
+control. Puranic chronology, Andhra/Andhra-Bhritya labels, capital claims, territorial
+extent, matronymics, land grants, Roman contact and decline are explicitly qualified.

@@ -1,114 +1,173 @@
-ASCII MASTER FLOW — PANEL 1/12: The source universe: trace to reconstruction
-SOURCES OF ANCIENT INDIA
-          |
- +--------+---------+---------+---------+---------+
- |        |         |         |         |         |
-archaeology epigraphy coins  literature foreign  bio/environment
- context   public text object+ text+oral observer  bones, seeds, pollen
- +--------+---------+---------+---------+---------+
-                    |
-                    v
-AUTHENTICATE -> DATE -> LOCATE -> READ GENRE/FUNCTION -> CORROBORATE -> QUALIFY
+ASCII MASTER FLOW — SOURCES OF ANCIENT INDIAN HISTORY
+=======================================================
 
-ASCII MASTER FLOW — PANEL 2/12: Archaeology: context before object
-SURVEY -> SITE -> GRID/TRENCH -> STRATIGRAPHY -> ASSEMBLAGE -> INTERPRETATION
-                         |
-                         v
-Law of superposition: an undisturbed lower layer is relatively earlier.
-Artefact alone: weak provenance | artefact in sealed context: stronger association
-Industry = recurrent technique/tool set; culture = patterned material assemblage.
-Intrusion, redeposition and mixed layers can break a simple sequence.
+PANEL 1/14 — FROM TRACE TO DEFENSIBLE HISTORY
+---------------------------------------------
+SURVIVING TRACE
+   -> identity/authenticity
+   -> provenance or archaeological provenience
+   -> date and transmission
+   -> author/audience/purpose/genre
+   -> comparison and corroboration
+   -> silence and alternatives
+   -> QUALIFIED HISTORICAL CLAIM
 
-ASCII MASTER FLOW — PANEL 3/12: Dating ladder: precision with error bars
-RELATIVE DATE                         ABSOLUTE/CHRONOMETRIC DATE
-stratigraphy -> seriation -> typology | radiocarbon -> calibrated range
-cross-dating -> association           | TL/OSL -> last heating or light exposure
-                                      | dendrochronology where wood survives
-             +------------------------+------------------------+
-                                      v
-A date belongs to a sample and context, not automatically to an entire culture.
-Report range, calibration and contamination risk; probability is not certainty.
+RULE: texts are not transparent facts; archaeology is not self-interpreting.
 
-ASCII MASTER FLOW — PANEL 4/12: Inscriptions: public text under source criticism
-MATERIAL + SCRIPT + LANGUAGE + FORMULA + FIND-SPOT
-                         |
-                         v
-DECIPHER -> DATE -> TRANSLATE -> IDENTIFY ISSUER/AUDIENCE -> HISTORICAL USE
-                         |
-          +--------------+--------------+
-          |                             |
-titles, grants, donors          failure, dissent and routine life omitted
-                         |
-                         v
-Prashasti praises; land grant records a transaction; neither is transparent narrative.
+PANEL 2/14 — SOURCE UNIVERSE
+----------------------------
+ARCHAEOLOGY   settlement, technology, foodways     | context/sampling
+EPIGRAPHY     acts, rulers, donors, institutions   | formula/elite survival
+NUMISMATICS   authority, metrology, circulation    | hoard/movement bias
+LITERATURE    norm, memory, ideas, vocabulary      | genre/redaction
+FOREIGN       routes, comparison, synchronism      | standpoint/translation
+VISUAL/ORAL   patronage, iconography, memory       | convention/performance
+SCIENCE       ranges, diet, mobility, environment  | sample/baseline limits
 
-ASCII MASTER FLOW — PANEL 5/12: Coins: object, text and economic instrument
-COIN
- |-- metal, weight, fabric -> standard, mint practice, debasement
- |-- legend, script, title -> issuer and political idiom
- |-- iconography -> religious/royal representation
- |-- hoard/find context -> circulation, saving, frontier or crisis
- |-- overstrike/imitation -> succession, appropriation and contact
- |
- +-> LIMIT: coin abundance is not a direct graph of total prosperity.
+NO FIXED HIERARCHY: fit the source to the question.
 
-ASCII MASTER FLOW — PANEL 6/12: Texts: genre, layer and transmission
-BRAHMANICAL          BUDDHIST/JAINA        SANGAM              MANUSCRIPT STATE
-Veda, epic, Purana   canon, commentaries   poems, anthologies  copied much later
-ritual/norm/memory   doctrine/institution  genre-coded society variant readings
-       |                    |                 |                    |
-       +--------------------+-----------------+--------------------+
-                                v
-Ask composition layer, redaction, audience and norm/practice gap before extracting fact.
-Critical editions compare witnesses; they do not restore an uncontested original.
+PANEL 3/14 — ORIGIN AND CHRONOLOGY RAIL
+---------------------------------------
+PREHISTORY                archaeology dominates
+HARAPPAN PROTOHISTORY     c. 2600–1900 BCE; script undeciphered
+VEDIC/POST-VEDIC          layered oral-textual traditions + archaeology
+EARLY HISTORIC            readable inscriptions, coins, cities, many texts
+3rd c. BCE                Ashokan corpus gives firm epigraphic anchors
+1837                      Prinsep's decisive Brahmi decipherment step
+MODERN METHOD             archaeometry, bioarchaeology, digital corpora
 
-ASCII MASTER FLOW — PANEL 7/12: Foreign, linguistic, visual and biological witnesses
-FOREIGN ACCOUNT       LINGUISTIC EVIDENCE      MATERIAL/BIO ARCHIVE
-selective itinerary   family/contact/loanword  monument, bone, seed, pollen
-outsider categories   language is not race     context and preservation govern use
-Megasthenes/Faxian/   retroflexion/contact     diet, disease, crop and environment
-Xuanzang/Periplus             |                         |
-          +-------------------+-------------------------+
+PANEL 4/14 — ARCHAEOLOGICAL METHOD
+----------------------------------
+SURVEY -> SITE -> EXCAVATION -> STRATIGRAPHY -> ASSEMBLAGE -> INTERPRETATION
+vertical trench = sequence | horizontal exposure = selected phase layout
+lower undisturbed layer generally earlier
+BUT pits, intrusion, erosion and redeposition can disturb sequence
+artefact -> industry -> assemblage -> archaeological culture
+CAUTION: archaeological culture != race/language/tribe/dynasty/state
+
+PANEL 5/14 — DATING AND SCIENTIFIC EVIDENCE
+-------------------------------------------
+RELATIVE: stratigraphy | typology | seriation | cross-dating | palaeography
+CHRONOMETRIC:
+- radiocarbon -> calibrated range for organic death
+- TL -> last suitable heating
+- OSL -> last sufficient light exposure
+- isotopes -> diet/mobility with baselines
+- aDNA -> ancestry/relatedness with sample limits
+RULE: result dates a sample and association, not automatically a civilisation.
+
+PANEL 6/14 — INSCRIPTIONS AND DECIPHERMENT
+------------------------------------------
+EPIGRAPHY = inscriptions | PALAEOGRAPHY = old writing/scripts
+Brahmi: normally left to right; parent of many later scripts
+Kharoshthi: right to left; north-west/Gandhara
+Ashokan corpus: mainly Prakrit-Brahmi; north-west also Kharoshthi,
+Greek and Aramaic settings
+1837 Prinsep: cumulative comparative decipherment, not solitary intuition
+
+GENRES:
+edict -> policy claim, not automatic implementation
+prashasti -> genealogy/ideology, but eulogy and omission
+land grant -> legal-fiscal act, not uniform enforcement
+donation -> donor/institution, but selection and survival bias
+
+PANEL 7/14 — COINS AND NUMISMATICS
+----------------------------------
+COIN = metal + weight + manufacture + legend + icon + die + wear + context
+YIELD: issuer, title, relative sequence, standard, technology, circulation
+HOARD: selected deposit; latest issue supplies a post-issue boundary
+OVERSTRIKE: undertype earlier than or contemporary with overtype
+Jogalthembi: Nahapana undertypes counter-struck by Gautamiputra Satakarni
+LIMITS: distribution != sovereignty; abundance != total prosperity;
+debasement can reflect scarcity, demand or policy, not only collapse.
+
+PANEL 8/14 — LITERARY SOURCE FAMILIES
+-------------------------------------
+VEDIC            ritual, kinship, economy vocabulary | oral layers
+EPIC/PURANA      memory, values, genealogy            | recension/interpolation
+BUDDHIST/JAINA   monastery, merchant, town, doctrine  | sectarian/didactic frame
+SANGAM           chiefs, war, love, work, exchange    | bardic/dating issues
+DHARMASHASTRA    norm, property, family, gender       | prescription != practice
+ARTHASHASTRA     statecraft model                     | not one-reign transcript
+COURT/BIOGRAPHY  patronage, ideology, political memory| praise/aesthetic convention
+
+TEXTUAL TIME:
+composition -> performance -> addition/redaction -> recension
+-> surviving manuscript -> critical edition/translation -> interpretation
+
+PANEL 9/14 — FOREIGN, VISUAL, ORAL AND LINGUISTIC EVIDENCE
+----------------------------------------------------------
+FOREIGN ACCOUNT:
+route + duration + purpose + language + informants + audience
++ direct observation/hearsay + translation/survival
+Megasthenes | Periplus | Faxian | Xuanzang | Arab-Persian witnesses
+
+VISUAL/MATERIAL:
+architecture, sculpture, painting, pottery, seals -> patronage, technology,
+ritual and representation; image != photograph; style != exact date.
+
+LINGUISTIC/ORAL:
+loanwords, place names, genealogy, performed memory
+language != race/ancestry/polity; performance reshapes memory.
+
+PANEL 10/14 — TRIANGULATION
+---------------------------
+MATCH chronology -> geography -> scale -> independence -> source purpose
+
+TEXT CLAIM + INSCRIPTION/COIN + ARCHAEOLOGICAL CONTEXT + SCIENTIFIC RANGE
+                              |
                               v
-Use each as an angled witness; triangulate before converting observation into structure.
+             CONVERGENCE / CONFLICT / RESIDUAL SILENCE
+                              |
+                              v
+                    BOUNDED HISTORICAL INFERENCE
 
-ASCII MASTER FLOW — PANEL 8/12: Triangulation and productive contradiction
-QUESTION: urbanism / polity / trade / religion / social hierarchy
-     |
-     +-> text says X
-     +-> inscription records Y
-     +-> archaeology patterns Z
-     +-> scientific evidence dates the context
-     |
-     v
-AGREEMENT strengthens; contradiction prompts genre, region and chronology checks.
-VERDICT: independent convergence is stronger than repetition in one tradition.
+Pali money terms + punch-marked coins -> monetisation, regionally uneven
+Sangam ports + Tamil-Brahmi + imported wares -> connectivity, not total volume
+Ashokan edicts + Pataliputra + classical testimony -> complementary Mauryan views
 
-ASCII MASTER FLOW — PANEL 9/12: Source-based answer architecture: 10/15/20 marks
-10 MARKS: identify source -> what it reveals -> named example -> one limitation
-15 MARKS: classify sources -> compare powers -> triangulate a case -> qualify
-20 MARKS: problem -> source matrix -> method/dating -> case clinics -> conflicts
-          -> silences/preservation -> reasoned verdict on confidence
-EVIDENCE SENTENCE: X indicates Y because Z; however, genre/context limits W.
-Never end with all sources are important; state which source answers which question.
+PANEL 11/14 — ARCHIVE BIAS, FORGERY AND PRESERVATION
+----------------------------------------------------
+OVER-REPRESENTED: rulers, donors, literate elites, stone, metal, monuments
+UNDER-REPRESENTED: labour, women, perishable life, oral communities
+SILENCE TEST: expected production? survival? recognition? adequate search?
+UNPROVENANCED OBJECT: material/style may survive; contextual history is lost
+FORGERY CONTROL: material, script, custody, comparison and publication
+INSTITUTIONS: ASI, museums and archives preserve evidence; catalogues and
+digital records remain revisable source layers.
 
-ASCII MASTER FLOW — PANEL 10/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Archaeology gives context; inscriptions acts; coins circulation; texts intent.
-2. Date each layer, sample or record before comparing sources.
-3. Triangulate independent evidence only at matching time, place and scale.
-VERDICT: Fit the source to the question and state the residual uncertainty.
+PANEL 12/14 — WHAT SOURCES REVEAL
+---------------------------------
+POLITY      edicts, prashastis, grants, coins, court texts
+ECONOMY     settlements, workshops, coins, ports, merchant/donor records
+SOCIETY     houses, burials, normative texts, donations, literature
+RELIGION    ritual texts, monasteries, icons, donations, architecture
+GENDER      prescriptions + female donations + household/material evidence
+ENVIRONMENT pollen, seeds, fauna, soils, isotopes, palaeochannels
 
-ASCII MASTER FLOW — PANEL 11/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Texts are layered; inscriptions formulaic; coins travel beyond political borders.
-2. Scientific dates are sample ranges; material culture is not language or ethnicity.
-3. Absence matters only after survivability, search coverage and patterned silence.
-VERDICT: Source proximity improves evidence, not automatic neutrality.
+RULE: one source answers one dimension; cross-reading controls elite bias.
 
-ASCII MASTER FLOW — PANEL 12/12: Integrated answer spine and qualified conclusion
-ANSWER SPINE
-1. Decode the directive and select the source class that fits the claim.
-2. Write claim -> named evidence -> inference -> limitation -> corroboration.
-3. Use 2018 travellers, 2023 literary authors and 2024 site matching as anchors.
-VERDICT: Independent convergence strengthens history without erasing differences.
+PANEL 13/14 — PYQ AND PRELIMS TRAPS
+-----------------------------------
+2018 GS-I: Chinese and Arab travellers -> value + standpoint + corroboration
+2023 Q46: literary attribution; local official key unavailable -> do not invent
+2024 Q55: site/state/type cells; official key B (rows 2 and 3)
+
+TRAPS:
+manuscript date != composition | prashasti != neutral chronicle
+coin distribution != empire | radiocarbon != exact event year
+aDNA != language/caste/religion | absence != non-existence
+foreign != objective | archaeology != self-explaining
+
+PANEL 14/14 — EXECUTABLE ANSWER METHOD
+--------------------------------------
+1. Decode directive and historical dimension.
+2. Select source class fitted to that claim.
+3. Write CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION.
+4. Add independent corroboration at matching time/place/scale.
+5. State silence or residual uncertainty.
+6. End with a graded verdict, not "all sources are important".
+
+QUALIFIED CONCLUSION:
+Ancient Indian history is strongest when independent archives constrain one
+another without erasing genre, context, survival bias or uncertainty.

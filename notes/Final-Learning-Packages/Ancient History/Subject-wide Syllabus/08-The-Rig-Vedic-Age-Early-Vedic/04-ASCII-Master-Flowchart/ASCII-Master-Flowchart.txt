@@ -1,116 +1,167 @@
-ASCII MASTER FLOW — PANEL 1/12: Rig Veda as source and chronological spine
-FAMILY BOOKS (2-7) -> OTHER LAYERS (1, 8, 9, 10) -> REDACTION/ORAL PRESERVATION
-earlier core trends     varied/later material      disciplined transmission
-          |                         |                          |
-          +-------------------------+--------------------------+
-                                    v
-Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn.
-Text gives a poetic-ritual world; frequency and silence are not census data.
+THE RIG VEDIC AGE (EARLY VEDIC) — ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: Sapta-Sindhu textual geography
-                    NORTH-WESTERN MILIEU
-Kabul/Kubha ---- Indus/Sindhu ---- Punjab rivers ---- Sarasvati/Drishadvati zone
- mountain routes       trunk river       pastoral/farming      eastern attention
-                           |
-                           v
-Rivers organise praise, movement, pasture and conflict; geography is selective.
-Ganga is marginal in this horizon; later Vedic expansion shifts the centre east.
-Do not turn remembered rivers into precise political borders.
++----------------------------------------------------------------------------------------------+
+| PANEL 1/14 — 1. SOURCE AND CHRONOLOGY                                                        |
++----------------------------------------------------------------------------------------------+
+| Rig Veda = ten-mandala oral ritual-poetic corpus, not chronicle/census.                      |
+| Books 2-7 = conventional older family-book baseline; Book 10 generally later.                |
+| Working horizon = c.1500/1200-1000 BCE; no single date for every hymn.                       |
+| Composition -> performance -> oral preservation -> recension -> manuscripts.                 |
+| ANSWER LINE: read every claim through genre, layer and representativeness.                   |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 3/12: Kin polity: authority without territorial state
-KULA -> GRAMA -> VIS -> JANA
-                    |
-                    v
-RAJAN: war leadership, protection, distribution and ritual status; not absolute monarch
- |-- sabha: smaller/select assembly context | samiti: broader assembly
- |-- purohita: adviser | senani: martial role | gramani: group leader
- +-> bali: offering/tribute, not a regular land-revenue bureaucracy
-Power rested on kin support, cattle, gifts, assemblies and successful leadership.
++----------------------------------------------------------------------------------------------+
+| PANEL 2/14 — 2. SAPTA-SINDHU GEOGRAPHY                                                       |
++----------------------------------------------------------------------------------------------+
+| North-western river world centred on Sindhu/Indus and Punjab tributaries.                    |
+| Vitasta-Jhelum; Asikni-Chenab; Parushni-Ravi; Vipasha-Beas; Shutudri-Sutlej.                 |
+| Kubha-Kabul; Suvastu-Swat; Krumu-Kurram; Gomati-Gomal in this context.                       |
+| Sarasvati/Ghaggar-Hakra and Drishadvati/Chautang remain qualified.                           |
+| Nadi-stuti = poetic geography, not hydrological or territorial survey.                       |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 4/12: Cattle-agriculture economy loop
-PASTURE + WATER -> CATTLE WEALTH -> dairy, traction, gifts, status and conflict
-                         |
-                         v
-mixed farming: barley/yava + cultivation + crafts + exchange + household production
-                         |
-          +--------------+--------------+
-          |                             |
-mobility and raiding              settlement and seasonal cropping
-          +--------------+--------------+
-                         v
-Pastoral predominance does not mean absence of agriculture or exchange.
++----------------------------------------------------------------------------------------------+
+| PANEL 3/14 — 3. KIN-BASED POLITICAL SCALE                                                    |
++----------------------------------------------------------------------------------------------+
+| Kula -> grama -> vis -> jana is a heuristic social scale, not bureaucracy.                   |
+| Grama may mean moving/fighting group; vis and jana are people formations.                    |
+| Gotra's later exogamous system cannot be projected fully backward.                           |
+| People and kin organised authority before bounded territory did.                             |
+| TRAP: do not translate every term by its later dictionary meaning.                           |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 5/12: Society: kinship, difference and projection limits
-HOUSEHOLD/KIN ORDER
-       |
- +-----+---------+----------+----------+
- |               |          |          |
-patrilineal   marriage   patron-client dasa/dasyu  status groups
-tendency      alliances   gift ties    varied terms priests/warriors/commoners
- +-----+---------+----------+----------+
-                       |
-                       v
-Purusha Sukta is late in the corpus; later jati cannot be back-projected.
++----------------------------------------------------------------------------------------------+
+| PANEL 4/14 — 4. RAJAN AND FUNCTIONARIES                                                      |
++----------------------------------------------------------------------------------------------+
+| Rajan = protector + war leader + ritual patron + distributor of wealth.                      |
+| Purohita = priestly adviser; senani = war leader; gramani = group leader.                    |
+| Authority rested on kin support, success, generosity and ritual legitimacy.                  |
+| Bali = offering/tribute, not assessed regular land tax.                                      |
+| NO secure bureaucracy, standing army or mature territorial monarchy.                         |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 6/12: Deities, rita, yajna and soma
-RITA: ordered truth and cosmic-social regularity
-          |
-          v
-DEITIES: Indra-war/rain | Agni-fire/mediator | Varuna-order | Soma-plant/deity
-          |
-          v
-YAJNA: praise + offering + priestly speech -> protection, cattle and victory
-          |
-          v
-Religion links ecology, warfare, gift economy and order; temples are not central.
++----------------------------------------------------------------------------------------------+
+| PANEL 5/14 — 5. ASSEMBLIES AND PARTICIPATION                                                 |
++----------------------------------------------------------------------------------------------+
+| Sabha = deliberative/social/ritual/adjudicative possibilities.                               |
+| Samiti = broader tribal gathering/support; exact distinction remains debated.                |
+| Vidatha = ritual + military + distributive + social functions by context.                    |
+| Female visibility in some contexts != universal equality or representation.                  |
+| ASSEMBLIES show collective life; they are not modern democratic parliaments.                 |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 7/12: Conflict, technology and cultural interaction
-horse/chariot + bows/weapons + mobile war bands
-                         |
-                         v
-cattle raids + route/pasture contests + Dasharajna coalition conflict
-                         |
-          +--------------+--------------+
-          |                             |
-leadership and prestige           contact and incorporation
-          +--------------+--------------+
-                         v
-Textual chariot terms matter; archaeological correlation remains independent.
++----------------------------------------------------------------------------------------------+
+| PANEL 6/14 — 6. WARFARE AND BOUNDARY TERMS                                                   |
++----------------------------------------------------------------------------------------------+
+| Gavishti links cattle-search/raid with conflict and prestige.                                |
+| Book 7: Sudas of Bharatas defeats confederacy near Parushni/Ravi.                            |
+| Dasharajna may preserve history but remains patronage-shaped victory poetry.                 |
+| Dasa/dasyu = contextual enemy, outsider, subordinate or mythic adversary.                    |
+| TRAP: no fixed racial census, ethnic bloc or territorial empire follows.                     |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 8/12: Early to Later Vedic transformation
-EARLY VEDIC                         LATER VEDIC
-north-west/Sapta-Sindhu             upper Ganga-Yamuna and eastward movement
-jana and kin leadership             janapada, stronger monarchy and ratnins
-cattle-centred mixed economy        plough agriculture, surplus and crafts
-fluid differentiation               firmer varna/patriarchy and gotra
-deity praise and yajna              royal ritual and Upanishadic questioning
-VERDICT: cumulative transformation with regional variation, not abrupt rupture.
++----------------------------------------------------------------------------------------------+
+| PANEL 7/14 — 7. CATTLE-CENTRED MIXED ECONOMY                                                 |
++----------------------------------------------------------------------------------------------+
+| Gomat = cattle wealth/status; cattle = gift, traction, ritual and booty.                     |
+| Pastoral predominance describes relative value, not exclusive nomadism.                      |
+| Kshetra, ploughing, yava, harvest, wells and oxen show cultivation.                          |
+| Crafts: wood/chariot, leather, weaving, pottery, metal and household work.                   |
+| FORMULA: cattle + cultivation + craft + mobility + exchange.                                 |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 9/12: Rig Vedic answer architecture
-10 MARKS: source caution -> institution/economy -> hymn term -> qualification
-15 MARKS: geography -> polity -> economy -> society -> religion -> archaeology caution
-20 MARKS: corpus/layers -> Sapta-Sindhu -> kin system -> cattle-agriculture loop
-          -> differentiation -> ritual worldview -> conflict/contact -> transition
-AVOID: nomad-only, caste-complete, state/empire or homogeneous-date claims.
-CLOSE: a layered pastoral-agricultural kin society undergoing differentiation.
++----------------------------------------------------------------------------------------------+
+| PANEL 8/14 — 8. GIFTS, EXCHANGE AND FISCAL LIMIT                                             |
++----------------------------------------------------------------------------------------------+
+| Dana = chiefly gift; dakshina = sacrificial fee; bali = offering/tribute.                    |
+| Nishka = valuable metal object/ornament, not automatically a coin.                           |
+| Booty and barter moved cattle, horses, produce and crafted goods.                            |
+| Redistribution produced status and priest-chief alliance.                                    |
+| NO coin-tax bureaucracy or regular territorial fiscal state is demonstrated.                 |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 10/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Tie each claim to Rigvedic layer, genre, term cluster and oral transmission.
-2. Treat archaeology as a correlation for settlement and technology, not language.
-3. Use Later Vedic evidence only for explicit comparison, never backward projection.
-VERDICT: The corpus gives strong patterns but not a census or exact institutional code.
++----------------------------------------------------------------------------------------------+
+| PANEL 9/14 — 9. HOUSEHOLD, GENDER AND DIFFERENTIATION                                        |
++----------------------------------------------------------------------------------------------+
+| Household combined kinship, herding, farming, craft, ritual and alliance.                    |
+| Patriliny, son preference and unequal authority indicate patriarchy.                         |
+| Ghosha, Apala, Lopamudra, Vishvavara = female-seer traditions, layer-cautious.               |
+| Chiefs, priests, warriors, producers, artisans and dependants were unequal.                  |
+| Female visibility qualifies patriarchy; it does not establish equality.                      |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 11/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Pastoral predominance is not pure pastoralism; rajan is chief, not emperor.
-2. Sabha, samiti and vidatha are not modern democratic parliaments.
-3. Purusha Sukta is a later Book 10 articulation; ayas is not automatically iron.
-VERDICT: Translate Sanskrit terms by context and state uncertainty.
++----------------------------------------------------------------------------------------------+
+| PANEL 10/14 — 10. VARNA AND PURUSHA LAYER                                                    |
++----------------------------------------------------------------------------------------------+
+| Varna language expresses order/status/boundary and varies by context.                        |
+| Rig Veda 10.90: Brahmana + Rajanya + Vaishya + Shudra.                                       |
+| Book 10 is generally later within the corpus.                                                |
+| PROVES: emerging/finally articulated fourfold ideology.                                      |
+| DOES NOT PROVE: rigid hereditary jati/caste across all Early Vedic society.                  |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 12/12: Integrated answer spine and qualified conclusion
-ANSWER SPINE
-1. Route 2023 society/religion and 2026 wells, rivers and kshetra-patni.
-2. Write source -> geography -> economy -> kin polity -> society -> religion.
-3. End with gradual Early-to-Later change, continuity and regional variation.
-VERDICT: Early Vedic society was mixed, stratifying and kin-ordered, not monolithic.
++----------------------------------------------------------------------------------------------+
+| PANEL 11/14 — 11. RELIGIOUS WORLD                                                            |
++----------------------------------------------------------------------------------------------+
+| Indra = battle/storm/rain; Agni = mediation; Varuna = rta/order.                             |
+| Soma = drink/deity/inspiration; Ushas = dawn; Ashvins = healing/rescue.                      |
+| Rta = cosmic-ritual-moral regularity; yajna = patron-priest-deity reciprocity.               |
+| Henotheism is a bounded modern label for hymnic exaltation, not a creed.                     |
+| No monumental temple/idol institution defines the Rigvedic baseline.                         |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++----------------------------------------------------------------------------------------------+
+| PANEL 12/14 — 12. MATERIAL, FUNERARY AND ARCHAEOLOGY                                         |
++----------------------------------------------------------------------------------------------+
+| Ashva/ratha = elite mobility and martial symbolism; not a numerical census.                  |
+| Ayas = metal, generally copper/bronze range; not automatic iron.                             |
+| Cremation and burial vary; Nasadiya 10.129 questions cosmic origins.                         |
+| Late Harappan/Swat/OCP supply contexts; PGW mainly Later Vedic comparison.                   |
+| ARCHAEOLOGY identifies assemblages, not language or ethnicity by itself.                     |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++----------------------------------------------------------------------------------------------+
+| PANEL 13/14 — 13. EARLY TO LATER VEDIC DIRECTION                                             |
++----------------------------------------------------------------------------------------------+
+| Sapta-Sindhu -> Kuru-Panchala/upper Ganga.                                                   |
+| Cattle-valued mixed economy -> more stable agrarian surplus.                                 |
+| Kin chiefship/assemblies -> stronger territorial kingship and hierarchy.                     |
+| Emerging differentiation -> harder varna-patriarchal ideology.                               |
+| Transition was gradual, regional and uneven; continuities persisted.                         |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++----------------------------------------------------------------------------------------------+
+| PANEL 14/14 — 14. PYQ, TRAPS AND ANSWER SPINE                                                |
++----------------------------------------------------------------------------------------------+
+| 2023 GS-I: society + religion + transformed persistence.                                     |
+| 2024 GS-I: underline social/economic changes with change verbs.                              |
+| 2026: well evidence, exact river pairs and provisional key discipline.                       |
+| WRITE: source -> date/place -> economy -> polity -> society -> religion.                     |
+| VERDICT: neither pure nomadic equality nor mature caste-tax territorial state.               |
++----------------------------------------------------------------------------------------------+

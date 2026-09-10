@@ -1,119 +1,92 @@
-ASCII MASTER FLOW — PANEL 1/12: Harappan chronology: regional roots to localisation
-EARLY/REGIONALISATION -> MATURE/INTEGRATION -> LATE/LOCALISATION
-c. 3300-2600 BCE       c. 2600-1900 BCE       c. 1900-1300 BCE
-regional towns/crafts  shared weights, seals,  de-urbanisation, local ceramics,
-and exchange networks  script, urban systems   settlement shifts, continuities
-          |                     |                         |
-          +---------------------+-------------------------+
-                                v
-Civilisation = integrated urban-rural network; decline = regional transformation.
+THE HARAPPAN CIVILIZATION — ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: Harappan spatial system and site atlas
-WEST: Sutkagendor -> Makran edge | NORTH: Manda -> Jammu frontier
-CORE INDUS: Harappa -> urban/cemetery sequence | Mohenjo-daro -> Great Bath/drains
-GHAGGAR: Kalibangan -> ploughed field/fire installations | Banawali -> fortified town
-EAST: Rakhigarhi -> major Haryana complex | Alamgirpur -> eastern Late Harappan edge
-KUTCH: Dholavira -> three-part city, reservoirs, signboard | Surkotada -> fortification
-GUJARAT: Lothal -> basin/warehouse/craft debate | Rangpur -> regional sequence
-SINDH: Chanhudaro -> craft centre; no classic citadel-lower-town profile
+[1] NAME + TIME + METHOD
+    Harappan/Indus civilisation = Bronze Age archaeological civilisation
+    Early c. 3300-2600 BCE -> Mature c. 2600-1900 BCE -> Late c. 1900-1300 BCE
+    regionalisation            integration                 localisation
+    CAUTION: dates vary by site; phases are processes, not sealed peoples.
+        |
+        v
+[2] DISCOVERY + EVIDENCE CONTROL
+    Cunningham seal (1853) -> Sahni at Harappa (1921) -> Banerji at Mohenjo-daro
+    -> Marshall's announcement -> later household/landscape/scientific archaeology
+    script undeciphered -> strong claims: building/craft/diet/exchange
+                         -> weak claims: named rulers/language/doctrine/law
+        |
+        v
+[3] GEOGRAPHICAL SYSTEM
+    west Sutkagen-dor | north Manda | east Alamgirpur | south Malvan
+    Indus core + Ghaggar-Hakra/Haryana-Rajasthan + Kutch/Gujarat + Shortugai outpost
+    Ghaggar-Hakra palaeochannel != automatically the textual Sarasvati.
+        |
+        v
+[4] SETTLEMENT AND LABOUR HIERARCHY
+    farms/herds/resource zones -> villages -> craft/route centres -> towns -> cities
+    food + labour + copper/stone/shell/timber -> workshops/public works/consumption
+    urbanism depended on rural production; labour status is not directly known.
+        |
+        v
+[5] SITE-FEATURE PRECISION
+    Harappa: Ravi, R-37, working platforms, 12-unit 'granary' caution
+    Mohenjo-daro: Great Bath, wells/drains, bronze Dancing Girl, 'Priest-King' caution
+    Dholavira: Khadir, stone, multi-sector plan, reservoirs, signboard
+    Rakhigarhi: Haryana, large inland complex, craft/cemetery; one-genome limit
+    Kalibangan: ploughed field, fire installations; not automatic Vedic ritual
+    Lothal: bead/copper craft, brick basin; 'dockyard' qualified
+    Banawali: sequence, moat/fortification, plough model, seals/weights
+    Chanhudaro: unfortified craft town | Surkotada: disputed equid
+    Shortugai: Afghanistan procurement node, not automatic imperial province
+        |
+        v
+[6] BUILT FORM + WATER
+    shared brick/street/courtyard norms + regional materials/layouts
+    well/reservoir -> bathing floor -> house drain -> street drain/soak/inspection
+    Dholavira water storage != Mohenjo-daro well-drain emphasis
+    coordination and maintenance secure; political office unknown.
+        |
+        v
+[7] SUBSISTENCE + PRODUCTION
+    wheat/barley + regional millets/rice + pulses/oilseeds + cotton
+    cattle/sheep/goat/buffalo/pig + fish/wild resources; horse rare/disputed
+    beads + shell + faience + pottery + textiles + copper/bronze metallurgy
+    BRONZE AGE: no iron-centred technology, no minted coinage.
+        |
+        v
+[8] MEASUREMENT + INTERNAL/EXTERNAL EXCHANGE
+    graded weights + scales + seals + transport -> comparable production/exchange
+    internal: food, fibre, metals, stone, shell, timber and finished goods
+    external: Meluhha -> Indus-related eastern sphere; Dilmun/Magan -> Gulf links
+    contact secure; route, volume, colony and state control remain qualified.
+        |
+        v
+[9] SCRIPT + AUTHORITY
+    short inscriptions; many right-to-left; several hundred signs; undeciphered
+    standardisation/public works -> strong coordination
+    central state vs regional states vs corporate elites -> unresolved
+    no secure king-list, dynasty, palace, royal tomb or constitutional text.
+        |
+        v
+[10] SOCIETY + RELIGION
+    houses + rare goods + craft zones + burials -> differentiation/occupation
+    NOT automatic caste, slavery, matriarchy or complete class map
+    horned figure + female figurines + pipal/animals + fire features + Great Bath
+    -> possible rituals; NOT secure Shiva/Mother Goddess/Vedic/state religion.
+        |
+        v
+[11] DECLINE -> TRANSFORMATION
+    river/flood change + monsoon stress + exchange contraction + reorganisation
+    -> uneven post-1900 BCE city contraction, settlement shifts, reduced script/seals
+    -> Late Harappan regionalisation, agricultural diversification and continuity
+    NOT one invasion, one drought, one river or instant extinction.
+        |
+        v
+[12] PYQ + ANSWER SPINE
+    2019 non-Harappan site -> Sohgaura [inferred; key unavailable]
+    2021 reservoir town -> Dholavira [inferred; key unavailable]
+    2025 Dancing Girl -> bronze [official local Set-A key]
+    2026 household inference -> statements 1 and 2 [inferred; provisional key]
+    2025 Mains architecture -> plan + material + water + sites + variation + caution
 
-ASCII MASTER FLOW — PANEL 3/12: Urban-rural settlement hierarchy
-FARM/PASTORAL HAMLETS -> VILLAGES -> CRAFT/ROUTE CENTRES -> REGIONAL CITIES
- food and herds          storage       specialised output    coordination/consumption
-        |                   |                 |                      |
-        +-------------------+-----------------+----------------------+
-                                  v
-weights + seals + transport + shared styles connect unequal regional domains.
-Urbanism depended on rural surplus and raw-material corridors; cities were not isolated.
-
-ASCII MASTER FLOW — PANEL 4/12: Built order, water and civic maintenance
-PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES
-                         |
-                         v
-wells/reservoirs -> bathing areas -> covered drains -> soak pits/inspection access
-                         |
-          +--------------+--------------+
-          |                             |
-household investment              collective maintenance
-          +--------------+--------------+
-                         v
-Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains.
-
-ASCII MASTER FLOW — PANEL 5/12: The Harappan economy as a linked system
-AGRICULTURAL-PASTORAL BASE
-          |
- +--------+---------+---------+---------+
- |                  |         |         |
-wheat/barley     cattle    cotton    fishing/regional crops
- +--------+---------+---------+---------+
-          |
-          v
-SURPLUS -> craft workshops -> calibrated weights -> seals/transport -> exchange
-CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important.
-
-ASCII MASTER FLOW — PANEL 6/12: Internal and overseas exchange corridors
-RAW MATERIAL FLOW
-Baluchistan/Afghanistan -> metals/stones -> Indus cities
-Rajasthan/Khetri -> copper corridor -> production zones
-Gujarat/Kutch -> shell, carnelian, coastal routes -> crafts and ports
-Indus/Makran/Gulf -> Dilmun/Magan -> Mesopotamia; Meluhha in cuneiform texts
-                         |
-                         v
-Trade evidence = imports + texts + seals + production; it does not prove colonies.
-Lothal basin has dockyard/reservoir interpretations: state the debate.
-
-ASCII MASTER FLOW — PANEL 7/12: Society and polity: evidence without invented kings
-EVIDENCE: house variation + scarce goods + craft control + standards + public works
-                         |
-      +------------------+------------------+
-      |                  |                  |
-centralised state?   city/regional states? corporate or mercantile elites?
-      +------------------+------------------+
-                         v
-NO secure palace, royal tomb or deciphered king-list; hierarchy existed, form is open.
-VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven.
-
-ASCII MASTER FLOW — PANEL 8/12: Script, seals and religion: evidence ladder
-SECURE: short signs, seals/tablets, motifs, ritual installations, burials, figurines
-PROBABLE: identity/transaction marking and differentiated ritual practices
-DISPUTED: script language; proto-Shiva; mother-goddess system; universal fire altars
-REJECT: reading later Hindu doctrine directly into every Harappan image.
-                         |
-                         v
-Undeciphered script blocks direct access to office, belief and political vocabulary.
-Use object + context + distribution before analogy.
-
-ASCII MASTER FLOW — PANEL 9/12: De-urbanisation: interacting regional causes
-river shifts/floods + aridification + exchange contraction + maintenance stress
-                                  |
-                                  v
-weaker standards -> city contraction/abandonment -> settlement redistribution
-                                  |
-          +-----------------------+----------------------+
-          |                                              |
-loss: script, seals, large cities                continuity: crops, crafts, villages
-                                  |
-                                  v
-No invasion or single river explains all regions; timings and outcomes differ.
-
-ASCII MASTER FLOW — PANEL 10/12: Harappan answer architecture: 10/15/20 marks
-10 MARKS: phase -> site-feature triad -> mechanism -> interpretation caution
-15 MARKS: chronology -> spatial system -> urban form -> economy -> polity/religion limits
-20 MARKS: integration -> site map -> urban-rural economy -> water/standards/trade
-          -> society-polity evidence -> script/ritual limits -> transformation
-BENCHMARK: material uniformity indicates integration, not automatic political unity.
-CLOSE: a varied civilisation coordinated by standards, exchange and maintenance.
-
-ASCII MASTER FLOW — PANEL 11/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Separate excavated fact from function label and social interpretation.
-2. Anchor every claim in site, phase, context, comparison and regional variation.
-3. The undeciphered script limits named claims about language, rulers and doctrine.
-VERDICT: Harappan history is strongest on material systems, weakest on named ideas.
-
-ASCII MASTER FLOW — PANEL 12/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Citadel, granary, dockyard, Priest-King and Pashupati are modern labels.
-2. Horse evidence is rare and disputed; standardisation does not prove one empire.
-3. Deurbanisation was regional and multi-causal, not one invasion or drought.
-VERDICT: State the secure evidence first, then grade each interpretation.
+    FINAL FORMULA:
+    definition -> phase/map -> named evidence -> mechanism -> alternative/limit
+    -> regional qualification -> verdict: coordinated diversity and transformation.

@@ -1,108 +1,122 @@
-ASCII MASTER FLOW — PANEL 1/12: Deccan network polity and route frame
-SATAVAHANA POWER
-      |-- plateau agrarian zones + Godavari-Krishna corridors
-      |-- Naneghat and western passes -> Konkan ports
-      |-- aharas and royal officers -> local administration
-      |-- maharathis / mahabhojas -> negotiated regional authority
-      `-- merchants + Brahmanas + Buddhist institutions -> legitimacy
-VERDICT: a strong but uneven network polity, not uniform peninsular bureaucracy.
+ASCII MASTER FLOW — PANEL 1/13: BOUNDARY AND POST-MAURYAN DECCAN
+  ├─ After Mauryan contraction, megalithic/local chiefdoms, agrarian settlements and early towns
+  │  persisted.
+  ├─ Satavahanas formed a long-lived Deccan polity; they did not simply inherit a ready-made
+  │  Mauryan province.
+  ├─ CORE SPACE: western plateau + Godavari/Krishna corridors + shifting access to Malwa, Konkan
+  │  and Andhra.
+  ├─ BOUNDARY: Tamilakam's Chera-Chola-Pandya and Sangam corpus belong to Topic 18.
+  └─ ANSWER SPINE: region → ruler/source → mechanism → social-economic effect → qualification.
 
-ASCII MASTER FLOW — PANEL 2/12: Evidence hierarchy and chronology
-PURANIC LISTS -> genealogy and broad sequence -> redaction limits
-INSCRIPTIONS -> rulers, donors, offices and claims -> prashasti limits
-COINS -> names, metals, overstrikes and circulation -> borders remain uncertain
-ARCHAEOLOGY -> towns, caves, stupas and crafts -> attribution varies
-CLASSICAL TEXTS -> routes and commodities -> external perspective
-METHOD: converge sources; use ranges rather than one exact dynastic chronology.
+ASCII MASTER FLOW — PANEL 2/13: NAMES, IDENTITY AND CHRONOLOGY FIREWALL
+  ├─ Puranas: Andhra / Andhra-Bhritya; inscriptions and coins: Satavahana / Satakarni.
+  ├─ Conventional equation is useful, but does not settle ethnicity, language, homeland or one
+  │  unbroken line.
+  ├─ Simuka = conventional founder; absolute start date and first territorial core remain debated.
+  ├─ Broad order: Simuka → Satakarni I/Naganika → Gautamiputra → Pulumavi → Yajna Sri → later
+  │  regional end.
+  └─ Use broad ranges and confidence labels; never harmonize every Puranic ruler into false
+     precision.
 
-ASCII MASTER FLOW — PANEL 3/12: Early rulers, Satakarni and Naneghat
-SIMUKA -> conventional founder; date and first core debated
-KANHA -> early western Deccan inscriptional presence
-SATAKARNI I + NAGANIKA
-      |-- Naneghat genealogy and portrait memory
-      |-- Vedic sacrifices and royal status claims
-      `-- route-pass location converts mobility into political display
-CAUTION: ritual language and portraits prove claims, not complete territorial maps.
+ASCII MASTER FLOW — PANEL 3/13: SOURCE LADDER AND LIMITS
+  ├─ INSCRIPTIONS: Naneghat, Nashik, Karla/Karle, Kanheri → names, rites, grants, donors, claims.
+  ├─ COINS: rulers, metals, symbols, overstrikes and circulation; findspot ≠ capital or border.
+  ├─ ARCHAEOLOGY: settlements, irrigation, crafts, caves and Amaravati phases; material ≠
+  │  dynasty automatically.
+  ├─ PURANAS / GATHA SAPTASHATI / PERIPLUS / CLASSICAL NOTICES: layered memory and external
+  │  description.
+  └─ METHOD: claim → named evidence → analysis → source-specific qualification → corroboration.
 
-ASCII MASTER FLOW — PANEL 4/12: Multi-centred political geography
-PRATISHTHANA / PAITHAN -> western-central dynastic anchor
-NASHIK / JUNNAR / NANEghat -> passes, caves, donors and conflict zone
-TAGARA / TER -> inland market network
-KRISHNA-GODAVARI -> Dharanikota-Amaravati and eastern centres
-LOCAL CORES SHIFT ACROSS REIGNS AND RIVALRIES
-RULE: capitals and coin finds identify nodes; they do not prove equal direct control.
+ASCII MASTER FLOW — PANEL 4/13: EARLY RULERS, NANEGHAT AND ROYAL RITUAL
+  ├─ Simuka opens the conventional sequence; Kanha/Krishna is linked with early Nashik activity.
+  ├─ Satakarni I + Naganika: Naneghat genealogy, portraits, titles, sacrifices and major dakshina.
+  ├─ Pass joins plateau and Konkan: political display was placed on a route of movement and
+  │  exchange.
+  ├─ Queen's public agency is secure; matriarchy or female-line succession is not.
+  └─ Repeated Satakarni names require inscription-specific identification.
 
-ASCII MASTER FLOW — PANEL 5/12: Administration and local elites
-KING / MOBILE COURT
-      |-- ahara territorial units
-      |-- amatya, mahamatra and mahasenapati offices
-      |-- revenue, grants, warfare and route protection
-      |-- maharathi / mahabhoja / local ruling families
-      `-- village, guild, monastery and donor networks
-RESULT: royal capacity worked through layered authority and local intermediaries.
+ASCII MASTER FLOW — PANEL 5/13: GAUTAMIPUTRA, NAHAPANA AND JOGALTHEMBI
+  ├─ Nahapana/Kshaharata power held western routes, caves and coastal connections.
+  ├─ Gautami Balashri's Nashik prashasti praises Gautamiputra as Kshaharata destroyer and wide
+  │  conqueror.
+  ├─ Jogalthembi hoard: Nahapana silver coins overstruck with Gautamiputra devices and legends.
+  ├─ STRONG INFERENCE: takeover + currency revalidation/reuse; grant context adds fiscal
+  │  displacement.
+  └─ LIMIT: no exact battle date, total extermination, permanent frontier or all-reign map.
 
-ASCII MASTER FLOW — PANEL 6/12: Kshatrapa conflict and Gautamiputra
-WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES
-                 |
-SATAVAHANA <-> WESTERN KSHATRAPA RIVALRY
-                 |
-Nahapana expansion -> Gautamiputra counter-expansion
-                 |
-Nashik prashasti: royal victory and social-ideological claims
-LIMIT: Gautami Balashri's eulogy must be checked against coins and regional evidence.
+ASCII MASTER FLOW — PANEL 6/13: PULUMAVI, RUDRADAMAN AND SHIFTING GEOGRAPHY
+  ├─ Vashishthiputra Pulumavi: Nashik context plus strong eastern Deccan coin/inscription
+  │  presence.
+  ├─ Rudradaman's Junagadh prashasti claims two victories over a Satakarni spared because of
+  │  kinship.
+  ├─ Rivalry + marriage diplomacy coexisted; neither prashasti is a neutral campaign report.
+  ├─ Pratishthana/Paithan = major western centre; Amaravati-Dharanikota = major eastern zone.
+  └─ Capital, mint, religious centre and inscription findspot must not be collapsed into one
+     category.
 
-ASCII MASTER FLOW — PANEL 7/12: Nahapana overstrikes as evidence
-NAHAPANA SILVER COINS
-          |
-GAUTAMIPUTRA OVERSTRIKES
-          |
-secure sequence of displacement / metal reuse in a conflict context
-          |
-supports restoration of authority in selected western zones
-DOES NOT PROVE: one-day conquest, total destruction or unchanged borders afterward.
+ASCII MASTER FLOW — PANEL 7/13: ADMINISTRATION AND LAYERED SOVEREIGNTY
+  ├─ AHARA = territorial/revenue-administrative division; boundaries and functions could vary.
+  ├─ AMATYA / MAHAMATRA / MAHASENAPATI / GRAMIKA = officers and local intermediaries.
+  ├─ MAHARATHI / MAHABHOJA = powerful regional chiefs, donors and marriage partners.
+  ├─ Court + officers + chiefs + villages + guilds + religious institutions = network polity.
+  └─ “Feudatory” is cautious shorthand; evidence does not prove a fixed mature feudal
+     constitution.
 
-ASCII MASTER FLOW — PANEL 8/12: Agrarian expansion and land grants
-IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT
-                         |
-              expanding agrarian production
-                         |
-royal grants -> rights, exemptions and religious beneficiaries
-                         |
-new settlements + fiscal reallocation + local authority
-DEBATE: grants aided expansion and legitimation; effects differed by place and date.
+ASCII MASTER FLOW — PANEL 8/13: AGRARIAN CHANGE, GRANTS AND RURAL SETTLEMENT
+  ├─ Iron tools + paddy transplantation in suitable zones + cotton + wells/tanks → uneven
+  │  intensification.
+  ├─ Krishna-Godavari wet-rice potential cannot be projected over the entire plateau.
+  ├─ Grants and fiscal immunities transfer revenue/access rights to Brahmanas or religious
+  │  establishments.
+  ├─ Early grants illuminate institutional change; they do not automatically equal mature
+  │  feudalism.
+  └─ Rural surplus supported courts, towns, crafts and donations, but prosperity was socially
+     uneven.
 
-ASCII MASTER FLOW — PANEL 9/12: Crafts, guilds, towns and trade
-VILLAGE RAW MATERIALS -> CRAFT CLUSTERS -> INLAND TOWNS
-      |                    |                 |
- cotton / metal         guild bodies      Paithan / Tagara
-      |                    |                 |
-      `------------ passes and markets ----------->
-                         western/eastern ports
-EVIDENCE: cave donors, deposits, coins, Periplus and excavated settlements.
-LIMIT: connectivity was extensive but neither uniform nor wholly state-controlled.
+ASCII MASTER FLOW — PANEL 9/13: CRAFTS, SHRENIS, TOWNS AND TRADE ROUTES
+  ├─ Ironworking, beads, pottery and textiles appear at Deccan settlement and workshop sites.
+  ├─ SHRENI: occupational organization, identity and financial endowment; not a modern
+  │  corporation.
+  ├─ Pratishthana + Tagara linked through passes to Kalyana, Sopara and Bharukachchha under
+  │  shifting control.
+  ├─ Eastern corridors joined inland centres to Krishna-Godavari and Amaravati-Dharanikota.
+  └─ Routes show connectivity, not continuous Satavahana ownership of every port and segment.
 
-ASCII MASTER FLOW — PANEL 10/12: Society, matronymics and women
-VARNA IDEOLOGY -> royal claims and Brahmanical legitimation
-SOCIAL PRACTICE -> merchants, artisans, cultivators and local elites
-MATRONYMICS -> Gautamiputra, Vasisthiputra and lineage identification
-ROYAL WOMEN -> Naganika and Gautami Balashri as inscriptional actors
-DONOR WOMEN -> visible in cave and religious patronage
-VERDICT: female agency was real but operated within unequal patriarchal structures.
+ASCII MASTER FLOW — PANEL 10/13: COINAGE, ROMAN CONTACT AND MARITIME CAUTION
+  ├─ Satavahana issues: lead prominent; also potin, copper and some silver; regional
+  │  legends/symbols.
+  ├─ Overstrikes answer political-monetary questions; ordinary findspots answer circulation
+  │  questions.
+  ├─ Roman/Mediterranean objects and coins = one strand within wider inland and Indian Ocean
+  │  exchange.
+  ├─ Yajna Sri ship motifs = maritime symbolism/commercial orientation, not measured fleet or
+  │  thalassocracy.
+  └─ Reject both “Roman trade caused all prosperity” and “external trade was irrelevant.”
 
-ASCII MASTER FLOW — PANEL 11/12: Religion, language, caves and Amaravati
-BRAHMANICAL RITES + Prakrit royal inscriptions
-BUDDHIST CAVES -> Nashik, Karla and Junnar donor-route landscapes
-AMARAVATI -> long stupa, sculpture and patronage sequence
-MERCHANTS + ARTISANS + WOMEN + RULERS -> plural donor field
-GATHA SATTASAI tradition -> literary memory with attribution cautions
-RULE: plural patronage joined belief, legitimacy, routes and social visibility.
+ASCII MASTER FLOW — PANEL 11/13: SOCIETY, WOMEN, LANGUAGE AND PLURAL RELIGION
+  ├─ Varna-restoration claims = royal Brahmanical ideology, not a demographic census.
+  ├─ Matronymics = maternal gotra/lineage legitimacy within largely patrilineal succession; no
+  │  matriarchy.
+  ├─ Merchants, artisans, Yavanas, women, monks/nuns and chiefs appear in donor inscriptions.
+  ├─ Prakrit in Brahmi dominates; Gatha Saptashati/Gaha Sattasai is attributed to Hala but
+  │  layered.
+  └─ Vedic sacrifice + Brahmanical identity coexisted with Buddhist cave/stupa patronage.
 
-ASCII MASTER FLOW — PANEL 12/12: Decline, legacy and answer spine
-LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES
-                         |
-      contraction and fragmentation, not instant disappearance
-                         |
-LEGACIES: Deccan state forms, grants, Prakrit epigraphy, caves and trade nodes
-WRITE: thesis -> chronology/source -> polity -> economy -> society/culture
-      -> one debate -> graded verdict
-FINAL: integration was durable, but sovereignty and prosperity remained uneven.
+ASCII MASTER FLOW — PANEL 12/13: SITES, DONOR NETWORKS, ART AND CONTINUITY
+  ├─ Nashik: rival Kshatrapa/Satavahana records, grants, caves and Gautami Balashri's prashasti.
+  ├─ Karla/Karle + Kanheri: route-linked, multi-donor chaitya-vihara networks; patronage ≠
+  │  exclusive creed.
+  ├─ Amaravati: lower Krishna mahachaitya, long multi-phase sequence crossing dynastic boundaries.
+  ├─ Art cross-link: use Amaravati form and circulation, but route detailed style history to Art
+  │  & Culture.
+  └─ Decline produced Ikshvaku, Abhira, Chutu and other regional formations with institutional
+     continuity.
+
+ASCII MASTER FLOW — PANEL 13/13: UPSC TRAPS AND QUALIFIED VERDICT
+  ├─ TRAPS: Andhra ≠ ethnicity proof; coin ≠ border; prashasti ≠ neutral report; donor ≠
+  │  population census.
+  ├─ MATCH: Satakarni I—Naganika—Naneghat | Gautamiputra—Balashri—Nashik—Nahapana overstrikes.
+  ├─ MATCH: Pulumavi—eastern phase | Rudradaman—Junagadh rival claim | Yajna Sri—ship motif.
+  ├─ PARAGRAPH: claim → named inscription/coin/site/text → analysis → qualification.
+  └─ VERDICT: Satavahana power integrated a diverse Deccan through layered rule, production,
+     routes and plural patronage without uniform control or timeless prosperity.

@@ -1,119 +1,111 @@
-ASCII MASTER FLOW — PANEL 1/12: Mauryan source hierarchy
-CONTEMPORARY: Ashokan edicts -> royal voice, command and self-presentation
-MATERIAL: sites, pillars, caves, coins -> context, craft and circulation
-FRAGMENTARY: Megasthenes via later authors -> court and ethnographic reports
-NORMATIVE: Arthashastra -> statecraft possibilities, not a Mauryan manual
-TRADITION: Buddhist, Jaina, Puranic accounts -> dynastic and religious memory
-                         |
-                         v
-Strong claim = convergence across source classes + stated audience and limit.
+ASCII MASTER FLOW — PANEL 1/14: Source firewall
+ASHOKAN INSCRIPTIONS -> contemporary royal voice; command/self-presentation > implementation
+ARCHAEOLOGY -> Pataliputra, Taxila, Sanchi, Barabar, coins; context/date before attribution
+MEGASTHENES -> lost Indica through Strabo/Arrian/Diodorus/Pliny: double filter
+ARTHASHASTRA -> layered prescriptive statecraft; never a direct Mauryan manual
+PURANIC + BUDDHIST + JAIN -> dynastic/religious memory; name genre and time gap
+WRITE -> claim -> named source/site -> analysis -> qualification
 
-ASCII MASTER FLOW — PANEL 2/12: Dynastic chronology and ruler differentiation
-c. 324/321 BCE  Chandragupta: foundation after Nandas
-c. 305-301 BCE  Seleucus conflict and treaty tradition
-c. 300/297-273  Bindusara: continuity, limited direct evidence
-c. 268/273-232  Ashoka: inscriptions, Kalinga and dhamma
-232-c. 187/185  Later Mauryas; evidence becomes thin
-Accession and consecration dates can differ.
-Kalinga followed eight completed years after consecration.
-Do not convert alternative chronologies into one false exact sequence.
+ASCII MASTER FLOW — PANEL 2/14: Rise, rulers and chronology
+Magadha-Nanda fiscal/riverine/urban base + post-Alexander north-western fluidity
+        -> Chandragupta coalition, conquest, organisation and legitimacy
+c. 324/321 BCE Chandragupta -> c. 297 Bindusara -> c. 268/273-232 Ashoka
+accession != consecration; regnal years are firmer than one absolute chronology
+Kalinga follows eight completed years after abhisheka; c. 261 BCE is conventional
+post-232 rulers -> bounded bridge only; Topic 15 owns full decline
 
-ASCII MASTER FLOW — PANEL 3/12: Imperial geography: scale with differentiated control
-PATALIPUTRA / GANGA CORE
-       |-- Taxila / north-west
-       |-- Ujjain / western routes
-       |-- Tosali / Kalinga
-       `-- Suvarnagiri / southern zone
-EDICT DISTRIBUTION -> communication reach, not a cadastral frontier
-CORE + PROVINCES + FRONTIERS + ALLIED/PERIPHERAL ZONES
-Virtually subcontinental ambition coexisted with uneven administrative depth.
+ASCII MASTER FLOW — PANEL 3/14: Chandragupta, Seleucus and Bindusara
+Nanda overthrow/Chanakya -> later plural traditions; Mudrarakshasa is not contemporary
+Sandrokottos/Androkottos -> classical synchronism with post-Alexander world
+Seleucus c. 305-303/302 -> settlement + territorial recognition/transfer debate
+500 elephants -> classical treaty term; literary figure, not audited inventory
+epigamia -> marriage/intermarriage clause uncertain; do not invent a named bride
+Bindusara/Amitrochates -> Hellenistic contacts firmer than mapped Deccan conquest
 
-ASCII MASTER FLOW — PANEL 4/12: Administrative chain and local mediation
-KING AND CENTRAL COURT
-        |
-princes / provincial centres
-        |
-mahamattas -> pradeshikas -> rajukas -> yuktas
-        |
-local officials, householders, guilds and communities
-Hierarchy enabled scale; intermediaries created adaptation and information gaps.
+ASCII MASTER FLOW — PANEL 4/14: Imperial geography: rule, influence and absence
+PATALIPUTRA CORE -> middle Ganga metropolitan concentration
+NW -> Taxila, Shahbazgarhi, Mansehra, Kandahar: multilingual frontier/corridor
+WEST -> Ujjayini/Girnar; EAST -> Tosali, Dhauli, Jaugada; SOUTH -> Suvarnagiri/edict belt
+Chola + Pandya + Keralaputra + Satiyaputra + Tambapanni -> named neighbours/outreach, not provinces
+far south and much north-east lack proof of direct Mauryan rule; absence != empty land
+FIND-SPOT -> communication/contact; never draw a modern border around edicts
 
-ASCII MASTER FLOW — PANEL 5/12: Revenue, army and political economy
-AGRICULTURE + TRADE + MINES/FORESTS + DUES
-                     |
-                  REVENUE
-                     |
-army + officials + roads + reservoirs + royal establishments
-                     |
-security and integration can enlarge production and exchange
-CAUTION: Arthashastra detail is prescriptive; actual rates and control varied.
+ASCII MASTER FLOW — PANEL 5/14: Kingship, provinces and local mediation
+KING -> appointment + army + justice + patronage + command, dependent on information
+mantriparishad/ministers -> textual reconstruction; inscriptions reveal only parts
+kumara/aryaputra + provincial centres -> dynastic delegation, not one universal template
+province -> district/field -> town/village -> households, guilds, local elites
+Taxila/Ujjayini/Tosali/Suvarnagiri -> cautious node list, not exhaustive schedule
+central purpose + regional adaptation + intermediary information gaps
 
-ASCII MASTER FLOW — PANEL 6/12: Ashokan inscriptional communication
-ROYAL MESSAGE
-   |-- Major Rock Edicts: broad policy and dhamma
-   |-- Minor Rock Edicts: personal religious commitment
-   |-- Pillar Edicts: mature governance and dhamma
-   |-- Separate Kalinga Edicts: provincial justice and confidence
-   `-- Cave/dedication records: patronage
-Prakrit-Brahmi predominates; Kharosthi, Greek and Aramaic mark adaptation.
-An edict proves communication effort, not uniform reception or enforcement.
+ASCII MASTER FLOW — PANEL 6/14: Officers and inscriptional functions
+mahamatta -> broad high-official category; specialised portfolios, not one rank
+dhamma-mahamatta -> Major Rock Edict V: social/religious/welfare policy, not clergy
+pradeshika + rajuka + yukta -> Rock Edict III tours; official 2025 key = district level
+rajuka -> populations, justice/welfare; land-measurement link remains suggestive
+yukta -> executive/accounting/subordinate contexts; exact hierarchy debated
+Rock Edict VI pativedaka reporting -> accessibility ideal + imperial information strategy
 
-ASCII MASTER FLOW — PANEL 7/12: Dhamma: ethical governance and imperial mechanism
-DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM
-                         |
-respect for elders + non-injury + sectarian restraint + welfare + self-control
-                         |
-dhamma-mahamattas + tours + edicts + oral proclamation
-                         v
-ethical legitimation and social concord within continuing monarchy
-LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism.
+ASCII MASTER FLOW — PANEL 7/14: Army, espionage and justice
+fiscal base -> infantry + cavalry + chariots + elephants + forts/corridors
+Megasthenes military/city committees -> later fragments; useful, not audited universal chart
+Arthashastra spies/secret agents -> theory of surveillance; corroborate before application
+Pillar Edict IV -> rajuka responsibility + uniformity concern + three-day reprieve
+death penalty, punishment and forest warning continue after Kalinga
+VERDICT -> coercive state constrained by paternal justice, not abolished by dhamma
 
-ASCII MASTER FLOW — PANEL 8/12: Kalinga: remorse without disappearance of coercion
-KALINGA WAR -> deaths, deportation and suffering in Rock Edict XIII
-                  |
-remorse + preference for dhamma-vijaya
-                  |
-yet army, punishment, capital penalty and forest warning remain
-                  v
-VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.
-TRAP: Kalinga did not cause an instant first conversion to Buddhism.
+ASCII MASTER FLOW — PANEL 8/14: Revenue, land, irrigation and exchange
+agriculture/land/labour -> bhaga + bali + tolls + fines + obligations -> treasury/army/officials
+Rummindei -> local bali exemption + bhaga reduced to one-eighth; not empire-wide rate
+Sudarshana -> later Junagadh record: Pushyagupta/Chandragupta + Tushaspha/Ashoka
+roads/rivers/security/standards -> facilitate and tax trade
+punch-marked coins -> circulation; issuer/date/state monopoly uncertain; kind/barter persist
+Arthashastra mines/forests/workshops -> strategic regulation model, not command economy fact
 
-ASCII MASTER FLOW — PANEL 9/12: Mauryan art and monumental statecraft
-PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions
-STUPAS: Ashokan cores later enlarged and embellished
-CAVES: Barabar patronage and polished interiors
-PALACE/CITY: Pataliputra and Kumhrar evidence with dating/function cautions
-POPULAR ART: terracottas and large stone figures with disputed labels
-INFLUENCE: Achaemenid/Hellenistic comparisons + distinctive Mauryan transformation
-Monuments communicated power, patronage and dhamma across selected landscapes.
-Date every layer separately; visible monuments are often multi-period.
+ASCII MASTER FLOW — PANEL 9/14: Society, dependence and women
+Megasthenes seven groups -> Greek occupation/status scheme, not varna-jati census
+Brahmana/Kshatriya prestige + cultivators/merchants/artisans/soldiers/officials -> varied positions
+dasa/dasi + bhataka + debt/service -> dependence; translation and prevalence uncertain
+2022 Arthashastra PYQ -> answer textual provision first, then prescription/practice caution
+Queen Karuvaki -> named elite gift agency; cannot generalise equality
+urban-rural flows + patriarchal household + regional/forest difference remain
 
-ASCII MASTER FLOW — PANEL 10/12: External relations and frontier diplomacy
-CHANDRAGUPTA <-> SELEUCUS: conflict, treaty and diplomatic tradition
-MEGASTHENES -> Mauryan court observation through later quotations
-BINDUSARA -> Hellenistic diplomatic traditions with thin evidence
-ASHOKA -> named Hellenistic kings in edictal moral geography
-NORTH-WEST -> Greek and Aramaic inscriptions
-SOUTH/FRONTIERS -> Cholas, Pandyas and others named beyond direct core rule
-Diplomacy joined military security, trade routes and royal prestige.
-Do not turn named neighbours into proven annexed provinces.
+ASCII MASTER FLOW — PANEL 10/14: Ashoka, Kalinga and retained sovereignty
+later succession/fratricide stories -> moral biography, not contemporary fact
+Minor Rock Edict I -> gradual Buddhist commitment before simple Kalinga-conversion story
+Major Rock Edict XIII -> conquest + deportation/death/suffering claims + remorse
+Separate Kalinga Edicts -> fairer administration, restraint, confidence-building
+dhamma-vijaya preferred -> ethical reorientation of victorious kingship
+Kalinga retained + army/punishment/atavika warning -> no full pacifism
 
-ASCII MASTER FLOW — PANEL 11/12: Centralisation debate and Arthashastra trap
-STRONG CENTRAL MODEL             DIFFERENTIATED MODEL
-large army and officer lists     distance and slow communication
-revenue and royal commands       provinces and local intermediaries
-Arthashastra possibilities       archaeology and regional variation
-              \                  /
-               \-- SYNTHESIS ---/
-Selective high capacity at strategic nodes, uneven depth elsewhere.
-Arthashastra sharpens questions; it cannot be copied as an organisation chart.
+ASCII MASTER FLOW — PANEL 11/14: Dhamma, welfare and toleration
+CONTENT -> parents/elders + servants + Brahmanas/Shramanas + truth + restraint + non-injury
+Rock Edict XII -> restrain self-praise/denunciation; listen and grow essentials of all sects
+MACHINERY -> dhamma-mahamattas + tours + reports + oral recitation + inscriptions
+Rock Edict II -> medical/useful plants/wells horizon for humans and animals
+animal policy -> reduction/restriction with exceptions; not total meat/hunting ban
+dhamma = Buddhist-rooted public ethic + paternal integration; not state conversion/modern welfare state
 
-ASCII MASTER FLOW — PANEL 12/12: Examiner-ready Mauryan answer spine
-INTRO: define the empire through source plurality and differentiated scale.
-BODY 1: rulers, chronology and geography
-BODY 2: administration, revenue, army and local mediation
-BODY 3: Ashokan inscriptions, Kalinga and dhamma
-BODY 4: art, economy, external relations and regional variation
-COUNTER: source bias, Arthashastra limits and intention-versus-practice gap
-CONCLUSION: unprecedented scale and communication, but not uniform control.
-WRITE: claim -> edict/site/text -> mechanism -> qualification.
+ASCII MASTER FLOW — PANEL 12/14: Edict classes, scripts, languages and site traps
+MINOR ROCK -> personal zeal/name evidence; MAJOR ROCK -> broad policy; PILLAR -> mature governance
+SEPARATE KALINGA -> Dhauli/Jaugada; local sequence/omission matters
+most -> Prakrit-Brahmi; Shahbazgarhi/Mansehra -> Prakrit-Kharoshthi
+Kandahar/north-west -> Greek and Aramaic adaptation, not one literal master translation
+Maski/Gujarra -> Ashoka name; Rummindei/Nigali Sagar -> Terai pilgrimage records
+TRAP -> site + corpus + script + theme + audience; no site contains a complete universal set
+
+ASCII MASTER FLOW — PANEL 13/14: Buddhism, monuments and regional diversity
+Bhabru/Bairat + Lumbini + Nigali Sagar + schism edicts -> personal Buddhist patronage/discipline
+Third Council + Moggaliputta Tissa + Mahinda/Sanghamitta missions -> later chronicle tradition
+Barabar -> Ajivika dedications; Sanchi -> Ashokan core with later stone phases
+pillars/capitals -> quarry, transport, polish, royal communication; detailed style -> Art & Culture
+Kumrahar/Bulandibagh -> Mauryan-associated urban scale; palace/function labels debated
+imperial integration connected regions without erasing local economies, languages or institutions
+
+ASCII MASTER FLOW — PANEL 14/14: Historiography, answer route and decline bridge
+CENTRALISED MODEL -> court + revenue + army + officers + edicts + strategic works
+DIFFERENTIATED MODEL -> distance + ecology + local mediation + multilingual variants + uneven archaeology
+SYNTHESIS -> strong metropolitan/corridor capacity; graded direct rule, tribute and negotiated frontiers
+governance = information + mobility + extraction + legitimacy; communication also reveals limits
+post-Ashoka names vary; Dasharatha cave inscriptions are firmer than full succession lists
+ANSWER -> define/source matrix -> rulers/map -> institutions/economy -> Ashoka/dhamma -> debate -> qualified verdict

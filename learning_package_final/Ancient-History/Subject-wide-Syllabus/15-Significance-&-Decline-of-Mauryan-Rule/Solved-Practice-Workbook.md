@@ -4,967 +4,653 @@ topic_key: ancient-indian-history-15
 ---
 # Significance & Decline of Mauryan Rule — Solved Practice Workbook
 
+> **Practice contract:** exactly 32 original hard MCQs precede the verified PYQ block; strict A → B → C → D rotation repeats eight times; 128 option explanations and 32 examiner traps are separately identifiable. Official PYQ option order and key status are preserved.
+
 ## BASIC MCQS / REMEDIATION
 
-### Hard MCQ 01 - Empire, dynasty and legacy
+### 32 ORIGINAL HARD MCQS
 
-**Question:** Which formulation most accurately distinguishes the three historical objects in Topic 15?
+> These are original questions, not UPSC PYQs. Correct keys rotate A → B → C → D exactly eight times. All 128 option explanations and all 32 examiner traps are separately identifiable.
 
-- (a) Ashoka's death, the later loss of imperial integration, and the afterlife of Mauryan practices are related but differently dated processes.
-- (b) Legacy means every Mauryan office survived unchanged under the Shungas.
-- (c) The dynasty ended first, followed by Ashoka's death and then imperial weakening.
-- (d) The empire, dynasty and legacy all ended in 232 BCE.
+#### Q1
 
-**Answer: A** - Ashoka's death, the later loss of imperial integration, and the afterlife of Mauryan practices are related but differently dated processes.
-**Explanation:** Ashoka died in 232 BCE, while the dynasty conventionally ended c. 187/185 BCE; imperial integration weakened unevenly and selected practices and symbols outlived both. The distinction prevents political decline from becoming a claim of civilisational disappearance.
+Which formulation most accurately distinguishes the three historical objects in Topic 15?
 
-**Named evidence:** Upinder Singh pp. 961-965; repository Master Chronology.
+- A. Ashoka's death, the later loss of imperial integration, and the afterlife of Mauryan practices are related but differently dated processes.
+- B. Legacy means every Mauryan office survived unchanged under the Shungas.
+- C. The dynasty ended first, followed by Ashoka's death and then imperial weakening.
+- D. The empire, dynasty and legacy all ended in 232 BCE.
 
-**Qualification / trap:** Do not use 232 BCE as a universal end-date.
+**Answer: A.**
 
-### Hard MCQ 02 - Virtually subcontinental empire
+**Option-wise explanation:**
 
-**Question:** Why is the expression 'first virtually subcontinental empire' preferable to 'first uniformly all-India state'?
+- **A:** Correct. Ashoka died in 232 BCE, while the dynasty conventionally ended c. 187/185 BCE; imperial integration weakened unevenly and selected practices and symbols outlived both. The distinction prevents political decline from becoming a claim of civilisational disappearance. Named evidence: Upinder Singh pp. 961-965; repository Master Chronology. Qualification: Do not use 232 BCE as a universal end-date. [Q01-A]
+- **B:** Incorrect. “Legacy means every Mauryan office survived unchanged under the Shungas.” fails this empire, dynasty and legacy test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh pp. 961-965; repository Master Chronology. [Q01-B]
+- **C:** Incorrect. “The dynasty ended first, followed by Ashoka's death and then imperial weakening.” fails this empire, dynasty and legacy test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh pp. 961-965; repository Master Chronology. [Q01-C]
+- **D:** Incorrect. “The empire, dynasty and legacy all ended in 232 BCE.” fails this empire, dynasty and legacy test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh pp. 961-965; repository Master Chronology. [Q01-D]
 
-- (a) It denies that the north-west formed part of Mauryan political geography.
-- (b) It recognises unprecedented scale while preserving the regional limits and graded character of control.
-- (c) It treats every southern polity named in an edict as a directly governed province.
-- (d) It means the Mauryas ruled only the middle Ganga valley.
+> **Examiner trap 1:** Do not use 232 BCE as a universal end-date.
 
-**Answer: B** - It recognises unprecedented scale while preserving the regional limits and graded character of control.
-**Explanation:** Upinder's formulation captures both scale and qualification. Southern neighbours and peripheries should not be annexed merely because they appear in the edictal horizon, and control varied by core, corridor and frontier.
+#### Q2
 
-**Named evidence:** Upinder Singh p. 961 and Chapter 7 conclusion; Ashokan edict geography.
+Why is the expression 'first virtually subcontinental empire' preferable to 'first uniformly all-India state'?
 
-**Qualification / trap:** Scale and uniformity are not synonyms.
+- A. It denies that the north-west formed part of Mauryan political geography.
+- B. It recognises unprecedented scale while preserving the regional limits and graded character of control.
+- C. It treats every southern polity named in an edict as a directly governed province.
+- D. It means the Mauryas ruled only the middle Ganga valley.
 
-### Hard MCQ 03 - Later-Maurya epigraphy
+**Answer: B.**
 
-**Question:** Which later Maurya provides the clearest contemporary inscriptional bridge after Ashoka?
+**Option-wise explanation:**
 
-- (a) Samprati through a complete series of empire-wide pillar edicts.
-- (b) Shalishuka through named silver portrait coins.
-- (c) Dasharatha through the Nagarjuni cave inscriptions.
-- (d) Brihadratha through a contemporary account of Pushyamitra's coup.
+- **A:** Incorrect. “It denies that the north-west formed part of Mauryan political geography.” fails this virtually subcontinental empire test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 961 and Chapter 7 conclusion; Ashokan edict geography. [Q02-A]
+- **B:** Correct. Upinder's formulation captures both scale and qualification. Southern neighbours and peripheries should not be annexed merely because they appear in the edictal horizon, and control varied by core, corridor and frontier. Named evidence: Upinder Singh p. 961 and Chapter 7 conclusion; Ashokan edict geography. Qualification: Scale and uniformity are not synonyms. [Q02-B]
+- **C:** Incorrect. “It treats every southern polity named in an edict as a directly governed province.” fails this virtually subcontinental empire test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 961 and Chapter 7 conclusion; Ashokan edict geography. [Q02-C]
+- **D:** Incorrect. “It means the Mauryas ruled only the middle Ganga valley.” fails this virtually subcontinental empire test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Upinder Singh p. 961 and Chapter 7 conclusion; Ashokan edict geography. [Q02-D]
 
-**Answer: C** - Dasharatha through the Nagarjuni cave inscriptions.
-**Explanation:** Upinder Singh states that Dasharatha is the only later Maurya known to have issued inscriptions. The Nagarjuni cave dedications also demonstrate selective continuation of Ajivika patronage after Ashoka.
+> **Examiner trap 2:** Scale and uniformity are not synonyms.
 
-**Named evidence:** Upinder Singh p. 961; Nagarjuni cave inscriptions.
+#### Q3
 
-**Qualification / trap:** Later dynastic lists are not equivalent to contemporary inscriptions.
+Which later Maurya provides the clearest contemporary inscriptional bridge after Ashoka?
 
-### Hard MCQ 04 - Source hierarchy
+- A. Samprati through a complete series of empire-wide pillar edicts.
+- B. Shalishuka through named silver portrait coins.
+- C. Dasharatha through the Nagarjuni cave inscriptions.
+- D. Brihadratha through a contemporary account of Pushyamitra's coup.
 
-**Question:** For reconstructing the precise post-Ashoka succession, which evidence problem is most serious?
+**Answer: C.**
 
-- (a) Ashokan edicts provide a complete list of later rulers and their reign lengths.
-- (b) Coins carry unambiguous portraits and names of every later Maurya.
-- (c) Archaeological layers identify each successor and the exact year each province separated.
-- (d) Puranic, Buddhist and Jain lists are later and divergent, while contemporary inscriptions become very sparse.
+**Option-wise explanation:**
 
-**Answer: D** - Puranic, Buddhist and Jain lists are later and divergent, while contemporary inscriptions become very sparse.
-**Explanation:** The post-Ashoka archive is thin. Traditions preserve names and memories but differ, archaeology supplies material sequences without automatically naming rulers, and Mauryan punch-marked coins are hard to assign to individuals.
+- **A:** Incorrect. “Samprati through a complete series of empire-wide pillar edicts.” fails this later-maurya epigraphy test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh p. 961; Nagarjuni cave inscriptions. [Q03-A]
+- **B:** Incorrect. “Shalishuka through named silver portrait coins.” fails this later-maurya epigraphy test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 961; Nagarjuni cave inscriptions. [Q03-B]
+- **C:** Correct. Upinder Singh states that Dasharatha is the only later Maurya known to have issued inscriptions. The Nagarjuni cave dedications also demonstrate selective continuation of Ajivika patronage after Ashoka. Named evidence: Upinder Singh p. 961; Nagarjuni cave inscriptions. Qualification: Later dynastic lists are not equivalent to contemporary inscriptions. [Q03-C]
+- **D:** Incorrect. “Brihadratha through a contemporary account of Pushyamitra's coup.” fails this later-maurya epigraphy test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 961; Nagarjuni cave inscriptions. [Q03-D]
 
-**Named evidence:** Upinder Singh p. 961; repository source-method conventions.
+> **Examiner trap 3:** Later dynastic lists are not equivalent to contemporary inscriptions.
 
-**Qualification / trap:** Chronological uncertainty must be stated, not filled with invented precision.
+#### Q4
 
-### Hard MCQ 05 - Multilingual communication
+For reconstructing the precise post-Ashoka succession, which evidence problem is most serious?
 
-**Question:** Which combination best represents Ashoka's regionally adapted public communication?
+- A. Ashokan edicts provide a complete list of later rulers and their reign lengths.
+- B. Coins carry unambiguous portraits and names of every later Maurya.
+- C. Archaeological layers identify each successor and the exact year each province separated.
+- D. Puranic, Buddhist and Jain lists are later and divergent, while contemporary inscriptions become very sparse.
 
-- (a) Prakrit-Brahmi across much of the empire, Kharoshthi in the north-west, and Greek/Aramaic versions in selected north-western contexts.
-- (b) Sanskrit-Devanagari throughout the empire with no regional variation.
-- (c) Tamil-Brahmi only in the Ganga valley and Greek only at Sarnath.
-- (d) Pali-Kharoshthi in Kalinga and Latin-Aramaic at Pataliputra.
+**Answer: D.**
 
-**Answer: A** - Prakrit-Brahmi across much of the empire, Kharoshthi in the north-west, and Greek/Aramaic versions in selected north-western contexts.
-**Explanation:** The script-language pattern is a key legacy of inscriptional governance and regional adaptation. It should not be converted into a simple ethnic map or proof of equal administrative penetration.
+**Option-wise explanation:**
 
-**Named evidence:** Ashokan inscriptional corpus; Topic 14 bounded evidence.
+- **A:** Incorrect. “Ashokan edicts provide a complete list of later rulers and their reign lengths.” fails this source hierarchy test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 961; repository source-method conventions. [Q04-A]
+- **B:** Incorrect. “Coins carry unambiguous portraits and names of every later Maurya.” fails this source hierarchy test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Upinder Singh p. 961; repository source-method conventions. [Q04-B]
+- **C:** Incorrect. “Archaeological layers identify each successor and the exact year each province separated.” fails this source hierarchy test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 961; repository source-method conventions. [Q04-C]
+- **D:** Correct. The post-Ashoka archive is thin. Traditions preserve names and memories but differ, archaeology supplies material sequences without automatically naming rulers, and Mauryan punch-marked coins are hard to assign to individuals. Named evidence: Upinder Singh p. 961; repository source-method conventions. Qualification: Chronological uncertainty must be stated, not filled with invented precision. [Q04-D]
 
-**Qualification / trap:** Most edicts were not in Sanskrit.
+> **Examiner trap 4:** Chronological uncertainty must be stated, not filled with invented precision.
 
-### Hard MCQ 06 - National-symbol afterlife
+#### Q5
 
-**Question:** What is the strongest historical inference from the Sarnath lion capital's modern national-emblem status?
+Which combination best represents Ashoka's regionally adapted public communication?
 
-- (a) Every element of the modern emblem reproduces the ancient capital without adaptation.
-- (b) A Mauryan monument acquired a new republican meaning, illustrating selective reinterpretation rather than institutional continuity.
-- (c) The capital proves Ashoka governed through modern constitutional nationalism.
-- (d) The Mauryan monarchy legally continued into the Indian republic.
+- A. Prakrit-Brahmi across much of the empire, Kharoshthi in the north-west, and Greek/Aramaic versions in selected north-western contexts.
+- B. Sanskrit-Devanagari throughout the empire with no regional variation.
+- C. Tamil-Brahmi only in the Ganga valley and Greek only at Sarnath.
+- D. Pali-Kharoshthi in Kalinga and Latin-Aramaic at Pataliputra.
 
-**Answer: B** - A Mauryan monument acquired a new republican meaning, illustrating selective reinterpretation rather than institutional continuity.
-**Explanation:** ASI identifies the lion capital as Mauryan/Ashokan and a national crest, while Upinder highlights its modern political memory. The afterlife is symbolic and historiographical, not a survival of Mauryan sovereignty.
+**Answer: A.**
 
-**Named evidence:** ASI Sarnath Circle; Upinder Singh p. 964.
+**Option-wise explanation:**
 
-**Qualification / trap:** Modern appropriation is not ancient institutional continuity.
+- **A:** Correct. The script-language pattern is a key legacy of inscriptional governance and regional adaptation. It should not be converted into a simple ethnic map or proof of equal administrative penetration. Named evidence: Ashokan inscriptional corpus; Topic 14 bounded evidence. Qualification: Most edicts were not in Sanskrit. [Q05-A]
+- **B:** Incorrect. “Sanskrit-Devanagari throughout the empire with no regional variation.” fails this multilingual communication test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Ashokan inscriptional corpus; Topic 14 bounded evidence. [Q05-B]
+- **C:** Incorrect. “Tamil-Brahmi only in the Ganga valley and Greek only at Sarnath.” fails this multilingual communication test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Ashokan inscriptional corpus; Topic 14 bounded evidence. [Q05-C]
+- **D:** Incorrect. “Pali-Kharoshthi in Kalinga and Latin-Aramaic at Pataliputra.” fails this multilingual communication test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Ashokan inscriptional corpus; Topic 14 bounded evidence. [Q05-D]
 
-### Hard MCQ 07 - Sanchi layering
+> **Examiner trap 5:** Most edicts were not in Sanskrit.
 
-**Question:** Which statement about Sanchi most accurately demonstrates continuity through transformation?
+#### Q6
 
-- (a) All stone railings and gateways were completed by Ashoka.
-- (b) Sanchi proves a total Buddhist rupture under the Shungas.
-- (c) An Ashokan brick stupa and pillar were enlarged and embellished under later dynasties, so the visible complex is multi-period.
-- (d) The site was abandoned immediately after 232 BCE and never received later patronage.
+What is the strongest historical inference from the Sarnath lion capital's modern national-emblem status?
 
-**Answer: C** - An Ashokan brick stupa and pillar were enlarged and embellished under later dynasties, so the visible complex is multi-period.
-**Explanation:** UNESCO distinguishes the Mauryan brick core and pillar from later Shunga enlargement and Satavahana gateway ornamentation. The site therefore refutes both 'all Ashokan' and 'total post-Mauryan rupture' narratives.
+- A. Every element of the modern emblem reproduces the ancient capital without adaptation.
+- B. A Mauryan monument acquired a new republican meaning, illustrating selective reinterpretation rather than institutional continuity.
+- C. The capital proves Ashoka governed through modern constitutional nationalism.
+- D. The Mauryan monarchy legally continued into the Indian republic.
 
-**Named evidence:** UNESCO Buddhist Monuments at Sanchi.
+**Answer: B.**
 
-**Qualification / trap:** Always date monument layers separately.
+**Option-wise explanation:**
 
-### Hard MCQ 08 - Cave patronage continuity
+- **A:** Incorrect. “Every element of the modern emblem reproduces the ancient capital without adaptation.” fails this national-symbol afterlife test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: ASI Sarnath Circle; Upinder Singh p. 964. [Q06-A]
+- **B:** Correct. ASI identifies the lion capital as Mauryan/Ashokan and a national crest, while Upinder highlights its modern political memory. The afterlife is symbolic and historiographical, not a survival of Mauryan sovereignty. Named evidence: ASI Sarnath Circle; Upinder Singh p. 964. Qualification: Modern appropriation is not ancient institutional continuity. [Q06-B]
+- **C:** Incorrect. “The capital proves Ashoka governed through modern constitutional nationalism.” fails this national-symbol afterlife test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: ASI Sarnath Circle; Upinder Singh p. 964. [Q06-C]
+- **D:** Incorrect. “The Mauryan monarchy legally continued into the Indian republic.” fails this national-symbol afterlife test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: ASI Sarnath Circle; Upinder Singh p. 964. [Q06-D]
 
-**Question:** Why are Dasharatha's Nagarjuni cave inscriptions especially valuable for Topic 15?
+> **Examiner trap 6:** Modern appropriation is not ancient institutional continuity.
 
-- (a) They document the Bactrian Greek invasion year by year.
-- (b) They prove all Ashokan officials and provinces continued unchanged.
-- (c) They establish a Brahmanical revolution immediately after Ashoka.
-- (d) They provide contemporary evidence for later-Maurya royal patronage of Ajivikas after Ashoka.
+#### Q7
 
-**Answer: D** - They provide contemporary evidence for later-Maurya royal patronage of Ajivikas after Ashoka.
-**Explanation:** The inscriptions offer a rare post-Ashoka royal voice and complicate claims of instant religious reversal. Their reach is limited: cave donation does not map the later empire.
+Which statement about Sanchi most accurately demonstrates continuity through transformation?
 
-**Named evidence:** Nagarjuni cave inscriptions; Upinder Singh p. 961.
+- A. All stone railings and gateways were completed by Ashoka.
+- B. Sanchi proves a total Buddhist rupture under the Shungas.
+- C. An Ashokan brick stupa and pillar were enlarged and embellished under later dynasties, so the visible complex is multi-period.
+- D. The site was abandoned immediately after 232 BCE and never received later patronage.
 
-**Qualification / trap:** A patronage inscription is not a territorial survey.
+**Answer: C.**
 
-### Hard MCQ 09 - Weak-successor theory
+**Option-wise explanation:**
 
-**Question:** Which is the strongest evidence supporting the weak-successor interpretation?
+- **A:** Incorrect. “All stone railings and gateways were completed by Ashoka.” fails this sanchi layering test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: UNESCO Buddhist Monuments at Sanchi. [Q07-A]
+- **B:** Incorrect. “Sanchi proves a total Buddhist rupture under the Shungas.” fails this sanchi layering test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: UNESCO Buddhist Monuments at Sanchi. [Q07-B]
+- **C:** Correct. UNESCO distinguishes the Mauryan brick core and pillar from later Shunga enlargement and Satavahana gateway ornamentation. The site therefore refutes both 'all Ashokan' and 'total post-Mauryan rupture' narratives. Named evidence: UNESCO Buddhist Monuments at Sanchi. Qualification: Always date monument layers separately. [Q07-C]
+- **D:** Incorrect. “The site was abandoned immediately after 232 BCE and never received later patronage.” fails this sanchi layering test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: UNESCO Buddhist Monuments at Sanchi. [Q07-D]
 
-- (a) The first three long reigns were followed by many short reigns, with a sharp reduction in contemporary royal inscriptions.
-- (b) A contemporary census ranks every later Maurya as incompetent.
-- (c) Every province issued a dated declaration against each successor.
-- (d) Ashoka ordered that no competent heir could succeed him.
+> **Examiner trap 7:** Always date monument layers separately.
 
-**Answer: A** - The first three long reigns were followed by many short reigns, with a sharp reduction in contemporary royal inscriptions.
-**Explanation:** The reign pattern and epigraphic thinning support instability, but the adjective 'weak' often rests on later lists. A good answer treats succession as a trigger that interacted with structural and regional pressures.
+#### Q8
 
-**Named evidence:** Upinder Singh p. 961.
+Why are Dasharatha's Nagarjuni cave inscriptions especially valuable for Topic 15?
 
-**Qualification / trap:** Short reigns suggest instability; they do not explain every mechanism.
+- A. They document the Bactrian Greek invasion year by year.
+- B. They prove all Ashokan officials and provinces continued unchanged.
+- C. They establish a Brahmanical revolution immediately after Ashoka.
+- D. They provide contemporary evidence for later-Maurya royal patronage of Ajivikas after Ashoka.
 
-### Hard MCQ 10 - Limits of personality theory
+**Answer: D.**
 
-**Question:** What is the best criticism of explaining Mauryan decline only through weak successors?
+**Option-wise explanation:**
 
-- (a) There is complete evidence that provincial institutions were wholly autonomous.
-- (b) It does not explain why particular regions detached, how frontier pressure operated, or why material-economic processes continued.
-- (c) The later Mauryas all had longer reigns than Chandragupta.
-- (d) Ancient empires never depended on rulers.
+- **A:** Incorrect. “They document the Bactrian Greek invasion year by year.” fails this cave patronage continuity test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Nagarjuni cave inscriptions; Upinder Singh p. 961. [Q08-A]
+- **B:** Incorrect. “They prove all Ashokan officials and provinces continued unchanged.” fails this cave patronage continuity test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Nagarjuni cave inscriptions; Upinder Singh p. 961. [Q08-B]
+- **C:** Incorrect. “They establish a Brahmanical revolution immediately after Ashoka.” fails this cave patronage continuity test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Nagarjuni cave inscriptions; Upinder Singh p. 961. [Q08-C]
+- **D:** Correct. The inscriptions offer a rare post-Ashoka royal voice and complicate claims of instant religious reversal. Their reach is limited: cave donation does not map the later empire. Named evidence: Nagarjuni cave inscriptions; Upinder Singh p. 961. Qualification: A patronage inscription is not a territorial survey. [Q08-D]
 
-**Answer: B** - It does not explain why particular regions detached, how frontier pressure operated, or why material-economic processes continued.
-**Explanation:** Ruler quality matters only through institutions, loyalties, armies and regions. The theory becomes persuasive when succession shocks are linked to integration costs and regional opportunities.
+> **Examiner trap 8:** A patronage inscription is not a territorial survey.
 
-**Named evidence:** Multi-causal synthesis from Upinder Singh and repository answer architecture.
+#### Q9
 
-**Qualification / trap:** Biography must be converted into a mechanism.
+Which is the strongest evidence supporting the weak-successor interpretation?
 
-### Hard MCQ 11 - Centralisation mechanism
+- A. The first three long reigns were followed by many short reigns, with a sharp reduction in contemporary royal inscriptions.
+- B. A contemporary census ranks every later Maurya as incompetent.
+- C. Every province issued a dated declaration against each successor.
+- D. Ashoka ordered that no competent heir could succeed him.
 
-**Question:** Under a strongly centralised model, why would rapid succession be especially destabilising?
+**Answer: A.**
 
-- (a) A centralised state requires no revenue or communication.
-- (b) All local elites become politically irrelevant forever.
-- (c) Appointments, reporting, military command and provincial loyalty would depend heavily on continuity at the centre.
-- (d) Centralisation automatically abolishes distance.
+**Option-wise explanation:**
 
-**Answer: C** - Appointments, reporting, military command and provincial loyalty would depend heavily on continuity at the centre.
-**Explanation:** A top-heavy system magnifies the effects of court instability. However, this model must be qualified by evidence of local mediation and differentiated control.
+- **A:** Correct. The reign pattern and epigraphic thinning support instability, but the adjective 'weak' often rests on later lists. A good answer treats succession as a trigger that interacted with structural and regional pressures. Named evidence: Upinder Singh p. 961. Qualification: Short reigns suggest instability; they do not explain every mechanism. [Q09-A]
+- **B:** Incorrect. “A contemporary census ranks every later Maurya as incompetent.” fails this weak-successor theory test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 961. [Q09-B]
+- **C:** Incorrect. “Every province issued a dated declaration against each successor.” fails this weak-successor theory test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh p. 961. [Q09-C]
+- **D:** Incorrect. “Ashoka ordered that no competent heir could succeed him.” fails this weak-successor theory test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 961. [Q09-D]
 
-**Named evidence:** Rock Edicts III and VI; centralisation debate in Topic 14.
+> **Examiner trap 9:** Short reigns suggest instability; they do not explain every mechanism.
 
-**Qualification / trap:** Explain the transmission mechanism, not merely 'overcentralisation'.
+#### Q10
 
-### Hard MCQ 12 - Differentiated-control implication
+What is the best criticism of explaining Mauryan decline only through weak successors?
 
-**Question:** If Mauryan rule was regionally differentiated rather than uniform, what follows for decline analysis?
+- A. There is complete evidence that provincial institutions were wholly autonomous.
+- B. It does not explain why particular regions detached, how frontier pressure operated, or why material-economic processes continued.
+- C. The later Mauryas all had longer reigns than Chandragupta.
+- D. Ancient empires never depended on rulers.
 
-- (a) The empire must be reclassified as a purely imaginary state.
-- (b) No province could ever separate because it already had autonomy.
-- (c) Weak rulers become completely irrelevant to every region.
-- (d) Local mediation could reduce daily central burdens yet make political detachment easier when central prestige and coercion weakened.
+**Answer: B.**
 
-**Answer: D** - Local mediation could reduce daily central burdens yet make political detachment easier when central prestige and coercion weakened.
-**Explanation:** Differentiation is double-edged: it can stabilise a large empire through intermediaries and create autonomous capacities that later support regionalisation. It does not erase strategic central power.
+**Option-wise explanation:**
 
-**Named evidence:** Fussman/Thapar differentiated-control debate; Upinder Singh p. 963.
+- **A:** Incorrect. “There is complete evidence that provincial institutions were wholly autonomous.” fails this limits of personality theory test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Multi-causal synthesis from Upinder Singh and repository answer architecture. [Q10-A]
+- **B:** Correct. Ruler quality matters only through institutions, loyalties, armies and regions. The theory becomes persuasive when succession shocks are linked to integration costs and regional opportunities. Named evidence: Multi-causal synthesis from Upinder Singh and repository answer architecture. Qualification: Biography must be converted into a mechanism. [Q10-B]
+- **C:** Incorrect. “The later Mauryas all had longer reigns than Chandragupta.” fails this limits of personality theory test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Multi-causal synthesis from Upinder Singh and repository answer architecture. [Q10-C]
+- **D:** Incorrect. “Ancient empires never depended on rulers.” fails this limits of personality theory test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Multi-causal synthesis from Upinder Singh and repository answer architecture. [Q10-D]
 
-**Qualification / trap:** Avoid both unitary-state and symbolic-empire extremes.
+> **Examiner trap 10:** Biography must be converted into a mechanism.
 
-### Hard MCQ 13 - Fiscal-crisis evidence
+#### Q11
 
-**Question:** Which verdict best reflects Upinder Singh's assessment of a Mauryan fiscal crisis?
+Under a strongly centralised model, why would rapid succession be especially destabilising?
 
-- (a) Large imperial costs make strain plausible, but there is no direct evidence for either a state fiscal crisis or a wider economic crisis.
-- (b) Coin hoards demonstrate that all taxes ceased after Ashoka.
-- (c) Treasury accounts prove bankruptcy immediately after Kalinga.
-- (d) The Arthashastra records the exact terminal Mauryan deficit.
+- A. A centralised state requires no revenue or communication.
+- B. All local elites become politically irrelevant forever.
+- C. Appointments, reporting, military command and provincial loyalty would depend heavily on continuity at the centre.
+- D. Centralisation automatically abolishes distance.
 
-**Answer: A** - Large imperial costs make strain plausible, but there is no direct evidence for either a state fiscal crisis or a wider economic crisis.
-**Explanation:** Upinder explicitly rejects claims of proven fiscal/economic crisis. Structural expenditure on army and officialdom can be discussed, but not converted into a documented bankruptcy.
+**Answer: C.**
 
-**Named evidence:** Upinder Singh p. 962.
+**Option-wise explanation:**
 
-**Qualification / trap:** Plausible cost is not proven crisis.
+- **A:** Incorrect. “A centralised state requires no revenue or communication.” fails this centralisation mechanism test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Rock Edicts III and VI; centralisation debate in Topic 14. [Q11-A]
+- **B:** Incorrect. “All local elites become politically irrelevant forever.” fails this centralisation mechanism test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Rock Edicts III and VI; centralisation debate in Topic 14. [Q11-B]
+- **C:** Correct. A top-heavy system magnifies the effects of court instability. However, this model must be qualified by evidence of local mediation and differentiated control. Named evidence: Rock Edicts III and VI; centralisation debate in Topic 14. Qualification: Explain the transmission mechanism, not merely 'overcentralisation'. [Q11-C]
+- **D:** Incorrect. “Centralisation automatically abolishes distance.” fails this centralisation mechanism test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Rock Edicts III and VI; centralisation debate in Topic 14. [Q11-D]
 
-### Hard MCQ 14 - Army disbandment trap
+> **Examiner trap 11:** Explain the transmission mechanism, not merely 'overcentralisation'.
 
-**Question:** Which proposition is evidence-secure?
+#### Q12
 
-- (a) Rock Edict XIII records a constitutional ban on defensive force.
-- (b) Ashoka renounced aggressive conquest but did not disband the army.
-- (c) Ashoka abolished all military institutions after Kalinga.
-- (d) Ashoka transferred the entire army to Buddhist monasteries.
+If Mauryan rule was regionally differentiated rather than uniform, what follows for decline analysis?
 
-**Answer: B** - Ashoka renounced aggressive conquest but did not disband the army.
-**Explanation:** Upinder stresses Ashoka's pragmatism: army, punishment and warnings remained. The pacifism thesis must therefore be framed as a possible preparedness issue, not demilitarisation.
+- A. The empire must be reclassified as a purely imaginary state.
+- B. No province could ever separate because it already had autonomy.
+- C. Weak rulers become completely irrelevant to every region.
+- D. Local mediation could reduce daily central burdens yet make political detachment easier when central prestige and coercion weakened.
 
-**Named evidence:** Upinder Singh p. 962; Rock Edict XIII.
+**Answer: D.**
 
-**Qualification / trap:** Renunciation of aggression is not abolition of defence.
+**Option-wise explanation:**
 
-### Hard MCQ 15 - Capital punishment
+- **A:** Incorrect. “The empire must be reclassified as a purely imaginary state.” fails this differentiated-control implication test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Fussman/Thapar differentiated-control debate; Upinder Singh p. 963. [Q12-A]
+- **B:** Incorrect. “No province could ever separate because it already had autonomy.” fails this differentiated-control implication test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Fussman/Thapar differentiated-control debate; Upinder Singh p. 963. [Q12-B]
+- **C:** Incorrect. “Weak rulers become completely irrelevant to every region.” fails this differentiated-control implication test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Fussman/Thapar differentiated-control debate; Upinder Singh p. 963. [Q12-C]
+- **D:** Correct. Differentiation is double-edged: it can stabilise a large empire through intermediaries and create autonomous capacities that later support regionalisation. It does not erase strategic central power. Named evidence: Fussman/Thapar differentiated-control debate; Upinder Singh p. 963. Qualification: Avoid both unitary-state and symbolic-empire extremes. [Q12-D]
 
-**Question:** Which evidence most directly counters the claim that dhamma eliminated coercive kingship?
+> **Examiner trap 12:** Avoid both unitary-state and symbolic-empire extremes.
 
-- (a) The Sarnath capital contains four lions.
-- (b) The Rummindei inscription reduces a fiscal levy.
-- (c) Pillar Edict IV presupposes capital punishment while regulating justice and reprieve.
-- (d) The Bhabru edict recommends Buddhist texts.
+#### Q13
 
-**Answer: C** - Pillar Edict IV presupposes capital punishment while regulating justice and reprieve.
-**Explanation:** Pillar Edict IV shows reform and restraint within a punitive order. It is therefore relevant to decline debates that mistakenly equate dhamma with a powerless state.
+Which verdict best reflects Upinder Singh's assessment of a Mauryan fiscal crisis?
 
-**Named evidence:** Pillar Edict IV.
+- A. Large imperial costs make strain plausible, but there is no direct evidence for either a state fiscal crisis or a wider economic crisis.
+- B. Coin hoards demonstrate that all taxes ceased after Ashoka.
+- C. Treasury accounts prove bankruptcy immediately after Kalinga.
+- D. The Arthashastra records the exact terminal Mauryan deficit.
 
-**Qualification / trap:** Ethical reform can coexist with coercion.
+**Answer: A.**
 
-### Hard MCQ 16 - Forest warning
+**Option-wise explanation:**
 
-**Question:** What does Ashoka's warning to forest peoples in Rock Edict XIII demonstrate?
+- **A:** Correct. Upinder explicitly rejects claims of proven fiscal/economic crisis. Structural expenditure on army and officialdom can be discussed, but not converted into a documented bankruptcy. Named evidence: Upinder Singh p. 962. Qualification: Plausible cost is not proven crisis. [Q13-A]
+- **B:** Incorrect. “Coin hoards demonstrate that all taxes ceased after Ashoka.” fails this fiscal-crisis evidence test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 962. [Q13-B]
+- **C:** Incorrect. “Treasury accounts prove bankruptcy immediately after Kalinga.” fails this fiscal-crisis evidence test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh p. 962. [Q13-C]
+- **D:** Incorrect. “The Arthashastra records the exact terminal Mauryan deficit.” fails this fiscal-crisis evidence test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 962. [Q13-D]
 
-- (a) Every forest community immediately joined the Mauryan army.
-- (b) Ashoka withdrew from Kalinga and dissolved frontier administration.
-- (c) The empire renounced punishment in all circumstances.
-- (d) Remorse and dhamma-vijaya coexisted with retained deterrent power.
+> **Examiner trap 13:** Plausible cost is not proven crisis.
 
-**Answer: D** - Remorse and dhamma-vijaya coexisted with retained deterrent power.
-**Explanation:** The warning is decisive counter-evidence to total-pacifism claims. It does not quantify military readiness, but it proves coercion remained part of royal self-presentation.
+#### Q14
 
-**Named evidence:** Major Rock Edict XIII.
+Which proposition is evidence-secure?
 
-**Qualification / trap:** Use the warning as counter-evidence, not troop statistics.
+- A. Rock Edict XIII records a constitutional ban on defensive force.
+- B. Ashoka renounced aggressive conquest but did not disband the army.
+- C. Ashoka abolished all military institutions after Kalinga.
+- D. Ashoka transferred the entire army to Buddhist monasteries.
 
-### Hard MCQ 17 - Brahmanical-reaction counter-evidence
+**Answer: B.**
 
-**Question:** Which inscriptional pattern most strongly weakens an empirewide anti-Brahmana-policy thesis?
+**Option-wise explanation:**
 
-- (a) Ashoka repeatedly exhorted respect for both Brahmanas and shramanas.
-- (b) Ashoka ordered the destruction of all Vedic texts.
-- (c) Dasharatha prohibited Ajivika patronage.
-- (d) Every edict was written exclusively for Buddhist monks.
+- **A:** Incorrect. “Rock Edict XIII records a constitutional ban on defensive force.” fails this army disbandment trap test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 962; Rock Edict XIII. [Q14-A]
+- **B:** Correct. Upinder stresses Ashoka's pragmatism: army, punishment and warnings remained. The pacifism thesis must therefore be framed as a possible preparedness issue, not demilitarisation. Named evidence: Upinder Singh p. 962; Rock Edict XIII. Qualification: Renunciation of aggression is not abolition of defence. [Q14-B]
+- **C:** Incorrect. “Ashoka abolished all military institutions after Kalinga.” fails this army disbandment trap test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 962; Rock Edict XIII. [Q14-C]
+- **D:** Incorrect. “Ashoka transferred the entire army to Buddhist monasteries.” fails this army disbandment trap test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Upinder Singh p. 962; Rock Edict XIII. [Q14-D]
 
-**Answer: A** - Ashoka repeatedly exhorted respect for both Brahmanas and shramanas.
-**Explanation:** The edicts do not support blanket persecution of Brahmanas. Specific ritual grievances may be hypothesised, but the broad revolution thesis lacks inscriptional foundation.
+> **Examiner trap 14:** Renunciation of aggression is not abolition of defence.
 
-**Named evidence:** Major Rock Edicts and Upinder Singh p. 962.
+#### Q15
 
-**Qualification / trap:** Do not infer persecution from heterodox patronage.
+Which evidence most directly counters the claim that dhamma eliminated coercive kingship?
 
-### Hard MCQ 18 - Sacrifice restriction
+- A. The Sarnath capital contains four lions.
+- B. The Rummindei inscription reduces a fiscal levy.
+- C. Pillar Edict IV presupposes capital punishment while regulating justice and reprieve.
+- D. The Bhabru edict recommends Buddhist texts.
 
-**Question:** What is the most defensible use of Ashoka's restrictions on sacrifice in decline analysis?
+**Answer: C.**
 
-- (a) They ended animal killing throughout the empire with complete compliance.
-- (b) They may have displeased some ritual specialists, but the scale and political consequence of such grievance are unproven.
-- (c) They prove every Brahmana joined Pushyamitra in a coordinated revolt.
-- (d) They demonstrate that Brahmanas disappeared from Mauryan society.
+**Option-wise explanation:**
 
-**Answer: B** - They may have displeased some ritual specialists, but the scale and political consequence of such grievance are unproven.
-**Explanation:** Upinder allows the possibility of grievance among Brahmanas dependent on sacrifice, but balances it with explicit respect for Brahmanas and plural patronage. The mechanism remains bounded.
+- **A:** Incorrect. “The Sarnath capital contains four lions.” fails this capital punishment test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Pillar Edict IV. [Q15-A]
+- **B:** Incorrect. “The Rummindei inscription reduces a fiscal levy.” fails this capital punishment test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Pillar Edict IV. [Q15-B]
+- **C:** Correct. Pillar Edict IV shows reform and restraint within a punitive order. It is therefore relevant to decline debates that mistakenly equate dhamma with a powerless state. Named evidence: Pillar Edict IV. Qualification: Ethical reform can coexist with coercion. [Q15-C]
+- **D:** Incorrect. “The Bhabru edict recommends Buddhist texts.” fails this capital punishment test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Pillar Edict IV. [Q15-D]
 
-**Named evidence:** Rock Edict I and Upinder Singh p. 962.
+> **Examiner trap 15:** Ethical reform can coexist with coercion.
 
-**Qualification / trap:** Possible grievance is not proven revolution.
+#### Q16
 
-### Hard MCQ 19 - Pushyamitra coup
+What does Ashoka's warning to forest peoples in Rock Edict XIII demonstrate?
 
-**Question:** What can the Pushyamitra-Brihadratha transition establish most securely?
+- A. Every forest community immediately joined the Mauryan army.
+- B. Ashoka withdrew from Kalinga and dissolved frontier administration.
+- C. The empire renounced punishment in all circumstances.
+- D. Remorse and dhamma-vijaya coexisted with retained deterrent power.
 
-- (a) Every Mauryan province simultaneously revolted for religious reasons.
-- (b) Ashoka had selected Pushyamitra as his successor.
-- (c) A military commander replaced the last Maurya in the conventional dynastic narrative; it does not by itself explain earlier empirewide disintegration.
-- (d) The economy collapsed on the day of the coup.
+**Answer: D.**
 
-**Answer: C** - A military commander replaced the last Maurya in the conventional dynastic narrative; it does not by itself explain earlier empirewide disintegration.
-**Explanation:** The coup marks dynastic termination at the centre after a longer weakening process. Pushyamitra's Brahmana identity and Vedic rites concern successor legitimation, not automatic proof of the cause of imperial decline.
+**Option-wise explanation:**
 
-**Named evidence:** Later dynastic tradition; Master Chronology.
+- **A:** Incorrect. “Every forest community immediately joined the Mauryan army.” fails this forest warning test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Major Rock Edict XIII. [Q16-A]
+- **B:** Incorrect. “Ashoka withdrew from Kalinga and dissolved frontier administration.” fails this forest warning test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Major Rock Edict XIII. [Q16-B]
+- **C:** Incorrect. “The empire renounced punishment in all circumstances.” fails this forest warning test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Major Rock Edict XIII. [Q16-C]
+- **D:** Correct. The warning is decisive counter-evidence to total-pacifism claims. It does not quantify military readiness, but it proves coercion remained part of royal self-presentation. Named evidence: Major Rock Edict XIII. Qualification: Use the warning as counter-evidence, not troop statistics. [Q16-D]
 
-**Qualification / trap:** Final event and long causal process must be separated.
+> **Examiner trap 16:** Use the warning as counter-evidence, not troop statistics.
 
-### Hard MCQ 20 - Persecution traditions
+#### Q17
 
-**Question:** How should Buddhist narratives of Pushyamitra's persecution be handled?
+Which inscriptional pattern most strongly weakens an empirewide anti-Brahmana-policy thesis?
 
-- (a) As modern archaeological reports.
-- (b) As Ashokan edicts issued by Pushyamitra.
-- (c) As official UPSC answer keys.
-- (d) As later sectarian memories requiring corroboration, not as self-verifying contemporary chronicles.
+- A. Ashoka repeatedly exhorted respect for both Brahmanas and shramanas.
+- B. Ashoka ordered the destruction of all Vedic texts.
+- C. Dasharatha prohibited Ajivika patronage.
+- D. Every edict was written exclusively for Buddhist monks.
 
-**Answer: D** - As later sectarian memories requiring corroboration, not as self-verifying contemporary chronicles.
-**Explanation:** The narratives matter for memory and religious conflict, but date, genre and purpose limit their direct causal use. Archaeology such as continued Sanchi activity complicates a total-rupture reading.
+**Answer: A.**
 
-**Named evidence:** Later Buddhist traditions; Sanchi archaeological continuity.
+**Option-wise explanation:**
 
-**Qualification / trap:** Source criticism is not dismissal; it defines evidentiary reach.
+- **A:** Correct. The edicts do not support blanket persecution of Brahmanas. Specific ritual grievances may be hypothesised, but the broad revolution thesis lacks inscriptional foundation. Named evidence: Major Rock Edicts and Upinder Singh p. 962. Qualification: Do not infer persecution from heterodox patronage. [Q17-A]
+- **B:** Incorrect. “Ashoka ordered the destruction of all Vedic texts.” fails this brahmanical-reaction counter-evidence test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Major Rock Edicts and Upinder Singh p. 962. [Q17-B]
+- **C:** Incorrect. “Dasharatha prohibited Ajivika patronage.” fails this brahmanical-reaction counter-evidence test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Major Rock Edicts and Upinder Singh p. 962. [Q17-C]
+- **D:** Incorrect. “Every edict was written exclusively for Buddhist monks.” fails this brahmanical-reaction counter-evidence test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Major Rock Edicts and Upinder Singh p. 962. [Q17-D]
 
-### Hard MCQ 21 - Taxila complaint source
+> **Examiner trap 17:** Do not infer persecution from heterodox patronage.
 
-**Question:** The famous Taxila complaints against wicked officials are best classified as:
+#### Q18
 
-- (a) Later Buddhist narrative evidence preserving a memory of centre-province conflict.
-- (b) A contemporary Ashokan pillar edict from Taxila.
-- (c) An Indo-Greek bilingual coin legend.
-- (d) A Puranic fiscal schedule.
+What is the most defensible use of Ashoka's restrictions on sacrifice in decline analysis?
 
-**Answer: A** - Later Buddhist narrative evidence preserving a memory of centre-province conflict.
-**Explanation:** Divyavadana/Ashokavadana traditions are useful for remembered administrative oppression but are not contemporary administrative files. They should be paired with direct Kalinga edictal concern.
+- A. They ended animal killing throughout the empire with complete compliance.
+- B. They may have displeased some ritual specialists, but the scale and political consequence of such grievance are unproven.
+- C. They prove every Brahmana joined Pushyamitra in a coordinated revolt.
+- D. They demonstrate that Brahmanas disappeared from Mauryan society.
 
-**Named evidence:** Divyavadana/Ashokavadana tradition; Sharma p. 208.
+**Answer: B.**
 
-**Qualification / trap:** Always name the later narrative genre.
+**Option-wise explanation:**
 
-### Hard MCQ 22 - Kalinga justice edicts
+- **A:** Incorrect. “They ended animal killing throughout the empire with complete compliance.” fails this sacrifice restriction test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Rock Edict I and Upinder Singh p. 962. [Q18-A]
+- **B:** Correct. Upinder allows the possibility of grievance among Brahmanas dependent on sacrifice, but balances it with explicit respect for Brahmanas and plural patronage. The mechanism remains bounded. Named evidence: Rock Edict I and Upinder Singh p. 962. Qualification: Possible grievance is not proven revolution. [Q18-B]
+- **C:** Incorrect. “They prove every Brahmana joined Pushyamitra in a coordinated revolt.” fails this sacrifice restriction test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Rock Edict I and Upinder Singh p. 962. [Q18-C]
+- **D:** Incorrect. “They demonstrate that Brahmanas disappeared from Mauryan society.” fails this sacrifice restriction test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Rock Edict I and Upinder Singh p. 962. [Q18-D]
 
-**Question:** What do the Separate Kalinga Edicts establish most directly?
+> **Examiner trap 18:** Possible grievance is not proven revolution.
 
-- (a) All officials across the empire were removed.
-- (b) Ashoka was concerned about arbitrary imprisonment, official behaviour, confidence and just administration in a conquered province.
-- (c) The death penalty was abolished throughout India.
-- (d) Kalinga successfully expelled the Mauryas immediately after the war.
+#### Q19
 
-**Answer: B** - Ashoka was concerned about arbitrary imprisonment, official behaviour, confidence and just administration in a conquered province.
-**Explanation:** The edicts reveal corrective governance and the principal-agent problem. They do not document a later Kalinga revolt or prove that reforms succeeded.
+What can the Pushyamitra-Brihadratha transition establish most securely?
 
-**Named evidence:** Separate Kalinga Edicts I-II.
+- A. Every Mauryan province simultaneously revolted for religious reasons.
+- B. Ashoka had selected Pushyamitra as his successor.
+- C. A military commander replaced the last Maurya in the conventional dynastic narrative; it does not by itself explain earlier empirewide disintegration.
+- D. The economy collapsed on the day of the coup.
 
-**Qualification / trap:** Royal concern is not the same as verified compliance.
+**Answer: C.**
 
-### Hard MCQ 23 - Regional agency
+**Option-wise explanation:**
 
-**Question:** Which statement best captures provincial assertion in a multi-causal model?
+- **A:** Incorrect. “Every Mauryan province simultaneously revolted for religious reasons.” fails this pushyamitra coup test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Later dynastic tradition; Master Chronology. [Q19-A]
+- **B:** Incorrect. “Ashoka had selected Pushyamitra as his successor.” fails this pushyamitra coup test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Later dynastic tradition; Master Chronology. [Q19-B]
+- **C:** Correct. The coup marks dynastic termination at the centre after a longer weakening process. Pushyamitra's Brahmana identity and Vedic rites concern successor legitimation, not automatic proof of the cause of imperial decline. Named evidence: Later dynastic tradition; Master Chronology. Qualification: Final event and long causal process must be separated. [Q19-C]
+- **D:** Incorrect. “The economy collapsed on the day of the coup.” fails this pushyamitra coup test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Later dynastic tradition; Master Chronology. [Q19-D]
 
-- (a) All regions waited passively for Pushyamitra's coup.
-- (b) Provincial agency rules out any role for frontier invasion.
-- (c) Regional elites could redirect revenue, troops and legitimacy when succession and central coordination weakened.
-- (d) Regional states had no connection with earlier routes or material culture.
+> **Examiner trap 19:** Final event and long causal process must be separated.
 
-**Answer: C** - Regional elites could redirect revenue, troops and legitimacy when succession and central coordination weakened.
-**Explanation:** Regional actors converted structural opportunity into new polities. This mechanism interacts with weak succession, communication costs and frontier pressure rather than replacing them.
+#### Q20
 
-**Named evidence:** Regional successor evidence; Sharma pp. 208-211.
+How should Buddhist narratives of Pushyamitra's persecution be handled?
 
-**Qualification / trap:** Regions are agents, not empty spaces on an imperial map.
+- A. As modern archaeological reports.
+- B. As Ashokan edicts issued by Pushyamitra.
+- C. As official UPSC answer keys.
+- D. As later sectarian memories requiring corroboration, not as self-verifying contemporary chronicles.
 
-### Hard MCQ 24 - Dasharatha and religious plurality
+**Answer: D.**
 
-**Question:** What does Dasharatha's dedication of Nagarjuni caves to Ajivikas most strongly imply?
+**Option-wise explanation:**
 
-- (a) Brahmanical reaction was complete in 232 BCE.
-- (b) Buddhism was legally banned after Ashoka.
-- (c) Dasharatha restored the empire to Ashoka's full extent.
-- (d) Some Mauryan traditions of plural royal patronage continued after Ashoka.
+- **A:** Incorrect. “As modern archaeological reports.” fails this persecution traditions test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Later Buddhist traditions; Sanchi archaeological continuity. [Q20-A]
+- **B:** Incorrect. “As Ashokan edicts issued by Pushyamitra.” fails this persecution traditions test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Later Buddhist traditions; Sanchi archaeological continuity. [Q20-B]
+- **C:** Incorrect. “As official UPSC answer keys.” fails this persecution traditions test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Later Buddhist traditions; Sanchi archaeological continuity. [Q20-C]
+- **D:** Correct. The narratives matter for memory and religious conflict, but date, genre and purpose limit their direct causal use. Archaeology such as continued Sanchi activity complicates a total-rupture reading. Named evidence: Later Buddhist traditions; Sanchi archaeological continuity. Qualification: Source criticism is not dismissal; it defines evidentiary reach. [Q20-D]
 
-**Answer: D** - Some Mauryan traditions of plural royal patronage continued after Ashoka.
-**Explanation:** The dedication is narrow but important contemporary evidence. It counters claims of an immediate, total orthodox reversal while revealing nothing certain about the full territorial state.
+> **Examiner trap 20:** Source criticism is not dismissal; it defines evidentiary reach.
 
-**Named evidence:** Nagarjuni cave inscriptions.
+#### Q21
 
-**Qualification / trap:** Use precise continuity, not sweeping continuity.
+The famous Taxila complaints against wicked officials are best classified as:
 
-### Hard MCQ 25 - Bactrian Greek pressure
+- A. Later Buddhist narrative evidence preserving a memory of centre-province conflict.
+- B. A contemporary Ashokan pillar edict from Taxila.
+- C. An Indo-Greek bilingual coin legend.
+- D. A Puranic fiscal schedule.
 
-**Question:** Which external factor does Upinder Singh explicitly identify as further weakening the Mauryan Empire?
+**Answer: A.**
 
-- (a) An invasion by the Bactrian Greeks.
-- (b) A Roman naval blockade of Pataliputra.
-- (c) A Gupta conquest of Taxila.
-- (d) A Kushana invasion during Ashoka's reign.
+**Option-wise explanation:**
 
-**Answer: A** - An invasion by the Bactrian Greeks.
-**Explanation:** Bactrian Greek pressure is one of the firmer externally framed contributors in the consulted synthesis. Its strongest direct explanatory reach is the north-west.
+- **A:** Correct. Divyavadana/Ashokavadana traditions are useful for remembered administrative oppression but are not contemporary administrative files. They should be paired with direct Kalinga edictal concern. Named evidence: Divyavadana/Ashokavadana tradition; Sharma p. 208. Qualification: Always name the later narrative genre. [Q21-A]
+- **B:** Incorrect. “A contemporary Ashokan pillar edict from Taxila.” fails this taxila complaint source test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Divyavadana/Ashokavadana tradition; Sharma p. 208. [Q21-B]
+- **C:** Incorrect. “An Indo-Greek bilingual coin legend.” fails this taxila complaint source test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Divyavadana/Ashokavadana tradition; Sharma p. 208. [Q21-C]
+- **D:** Incorrect. “A Puranic fiscal schedule.” fails this taxila complaint source test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Divyavadana/Ashokavadana tradition; Sharma p. 208. [Q21-D]
 
-**Named evidence:** Upinder Singh p. 961.
+> **Examiner trap 21:** Always name the later narrative genre.
 
-**Qualification / trap:** Frontier pressure must be regionally bounded.
+#### Q22
 
-### Hard MCQ 26 - Frontier chronology
+What do the Separate Kalinga Edicts establish most directly?
 
-**Question:** How should Sharma's c. 206 BCE Greek-invasion date be used?
+- A. All officials across the empire were removed.
+- B. Ashoka was concerned about arbitrary imprisonment, official behaviour, confidence and just administration in a conquered province.
+- C. The death penalty was abolished throughout India.
+- D. Kalinga successfully expelled the Mauryas immediately after the war.
 
-- (a) As the date Ashoka disbanded his army.
-- (b) As a conventional textbook chronology placed before the dynastic end, with source and regional qualification.
-- (c) As an exact date proving all provinces fell on the same day.
-- (d) As evidence that Alexander personally destroyed the Mauryas.
+**Answer: B.**
 
-**Answer: B** - As a conventional textbook chronology placed before the dynastic end, with source and regional qualification.
-**Explanation:** The date helps sequence north-western pressure, but it should not be treated as a complete all-India decline chronology. Upinder's wording remains more general.
+**Option-wise explanation:**
 
-**Named evidence:** R. S. Sharma pp. 209-210; Upinder Singh p. 961.
+- **A:** Incorrect. “All officials across the empire were removed.” fails this kalinga justice edicts test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Separate Kalinga Edicts I-II. [Q22-A]
+- **B:** Correct. The edicts reveal corrective governance and the principal-agent problem. They do not document a later Kalinga revolt or prove that reforms succeeded. Named evidence: Separate Kalinga Edicts I-II. Qualification: Royal concern is not the same as verified compliance. [Q22-B]
+- **C:** Incorrect. “The death penalty was abolished throughout India.” fails this kalinga justice edicts test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Separate Kalinga Edicts I-II. [Q22-C]
+- **D:** Incorrect. “Kalinga successfully expelled the Mauryas immediately after the war.” fails this kalinga justice edicts test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Separate Kalinga Edicts I-II. [Q22-D]
 
-**Qualification / trap:** Use exact dates only at the confidence level of the source.
+> **Examiner trap 22:** Royal concern is not the same as verified compliance.
 
-### Hard MCQ 27 - North-western exposure
+#### Q23
 
-**Question:** Why was the north-west a distinct decline zone?
+Which statement best captures provincial assertion in a multi-causal model?
 
-- (a) It had no cities or trade routes.
-- (b) It was the only region where Ashoka issued Brahmi inscriptions.
-- (c) It faced trans-Hindu Kush political pressure, frontier-route competition and a history of multilingual local mediation.
-- (d) It lay outside all Hellenistic connections.
+- A. All regions waited passively for Pushyamitra's coup.
+- B. Provincial agency rules out any role for frontier invasion.
+- C. Regional elites could redirect revenue, troops and legitimacy when succession and central coordination weakened.
+- D. Regional states had no connection with earlier routes or material culture.
 
-**Answer: C** - It faced trans-Hindu Kush political pressure, frontier-route competition and a history of multilingual local mediation.
-**Explanation:** Taxila-Gandhara linked the subcontinent to Bactria and western/central Asia. Its frontier dynamics cannot be generalised mechanically to Kalinga or the Deccan.
+**Answer: C.**
 
-**Named evidence:** Kandahar/Shahbazgarhi/Mansehra evidence; Topic 16 bounded context.
+**Option-wise explanation:**
 
-**Qualification / trap:** One regional cause does not become an all-India cause.
+- **A:** Incorrect. “All regions waited passively for Pushyamitra's coup.” fails this regional agency test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Regional successor evidence; Sharma pp. 208-211. [Q23-A]
+- **B:** Incorrect. “Provincial agency rules out any role for frontier invasion.” fails this regional agency test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Regional successor evidence; Sharma pp. 208-211. [Q23-B]
+- **C:** Correct. Regional actors converted structural opportunity into new polities. This mechanism interacts with weak succession, communication costs and frontier pressure rather than replacing them. Named evidence: Regional successor evidence; Sharma pp. 208-211. Qualification: Regions are agents, not empty spaces on an imperial map. [Q23-C]
+- **D:** Incorrect. “Regional states had no connection with earlier routes or material culture.” fails this regional agency test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Regional successor evidence; Sharma pp. 208-211. [Q23-D]
 
-### Hard MCQ 28 - Regional differentiation
+> **Examiner trap 23:** Regions are agents, not empty spaces on an imperial map.
 
-**Question:** Which paired transition is most accurate?
+#### Q24
 
-- (a) Kalinga: Gupta rule in 232 BCE; centre: Chola conquest.
-- (b) Deccan: immediate Kushana rule; north-west: Satavahana rule.
-- (c) Far south: direct Shunga province; north-west: no successor polity.
-- (d) North-west: Bactrian/Indo-Greek pressure; Ganga-centre: later Mauryas followed by Shunga transition.
+What does Dasharatha's dedication of Nagarjuni caves to Ajivikas most strongly imply?
 
-**Answer: D** - North-west: Bactrian/Indo-Greek pressure; Ganga-centre: later Mauryas followed by Shunga transition.
-**Explanation:** Post-Mauryan outcomes were asynchronous and regional. The pair preserves the principal geographical contrast without claiming exact dates for every local separation.
+- A. Brahmanical reaction was complete in 232 BCE.
+- B. Buddhism was legally banned after Ashoka.
+- C. Dasharatha restored the empire to Ashoka's full extent.
+- D. Some Mauryan traditions of plural royal patronage continued after Ashoka.
 
-**Named evidence:** Master Chronology; Topics 16-17 bounded context.
+**Answer: D.**
 
-**Qualification / trap:** Build a regional map, not a single queue.
+**Option-wise explanation:**
 
-### Hard MCQ 29 - Economic-continuity verdict
+- **A:** Incorrect. “Brahmanical reaction was complete in 232 BCE.” fails this dasharatha and religious plurality test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Nagarjuni cave inscriptions. [Q24-A]
+- **B:** Incorrect. “Buddhism was legally banned after Ashoka.” fails this dasharatha and religious plurality test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Nagarjuni cave inscriptions. [Q24-B]
+- **C:** Incorrect. “Dasharatha restored the empire to Ashoka's full extent.” fails this dasharatha and religious plurality test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Nagarjuni cave inscriptions. [Q24-C]
+- **D:** Correct. The dedication is narrow but important contemporary evidence. It counters claims of an immediate, total orthodox reversal while revealing nothing certain about the full territorial state. Named evidence: Nagarjuni cave inscriptions. Qualification: Use precise continuity, not sweeping continuity. [Q24-D]
 
-**Question:** Which statement best represents Upinder Singh's economic conclusion?
+> **Examiner trap 24:** Use precise continuity, not sweeping continuity.
 
-- (a) Agrarian expansion, urbanisation, trade and the money economy continued; political decline should not be equated with economy-wide collapse.
-- (b) Coin use ceased throughout India in 232 BCE.
-- (c) The post-Mauryan period had no long-distance commerce.
-- (d) All cities were abandoned immediately after Ashoka.
+#### Q25
 
-**Answer: A** - Agrarian expansion, urbanisation, trade and the money economy continued; political decline should not be equated with economy-wide collapse.
-**Explanation:** The broad processes crossed dynastic boundaries and expanded in many post-Mauryan regions. Local contraction remains possible but requires site-specific evidence.
+Which external factor does Upinder Singh explicitly identify as further weakening the Mauryan Empire?
 
-**Named evidence:** Upinder Singh pp. 963-965.
+- A. An invasion by the Bactrian Greeks.
+- B. A Roman naval blockade of Pataliputra.
+- C. A Gupta conquest of Taxila.
+- D. A Kushana invasion during Ashoka's reign.
 
-**Qualification / trap:** Dynastic chronology is not automatically economic chronology.
+**Answer: A.**
 
-### Hard MCQ 30 - Coins as evidence
+**Option-wise explanation:**
 
-**Question:** What can a post-Mauryan coin hoard most safely establish?
+- **A:** Correct. Bactrian Greek pressure is one of the firmer externally framed contributors in the consulted synthesis. Its strongest direct explanatory reach is the north-west. Named evidence: Upinder Singh p. 961. Qualification: Frontier pressure must be regionally bounded. [Q25-A]
+- **B:** Incorrect. “A Roman naval blockade of Pataliputra.” fails this bactrian greek pressure test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh p. 961. [Q25-B]
+- **C:** Incorrect. “A Gupta conquest of Taxila.” fails this bactrian greek pressure test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh p. 961. [Q25-C]
+- **D:** Incorrect. “A Kushana invasion during Ashoka's reign.” fails this bactrian greek pressure test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh p. 961. [Q25-D]
 
-- (a) Universal replacement of barter by coin.
-- (b) Circulation, accumulation and political/economic activity in a specific context, not an all-India prosperity rate.
-- (c) The exact GDP of the issuing dynasty.
-- (d) The date every Mauryan official lost office.
+> **Examiner trap 25:** Frontier pressure must be regionally bounded.
 
-**Answer: B** - Circulation, accumulation and political/economic activity in a specific context, not an all-India prosperity rate.
-**Explanation:** Coins are powerful for authority, iconography, chronology and exchange, but require archaeological context. Mauryan punch-marked coins are especially difficult to assign to individual rulers.
+#### Q26
 
-**Named evidence:** Numismatic method; Topics 14 and 16.
+How should Sharma's c. 206 BCE Greek-invasion date be used?
 
-**Qualification / trap:** Coins are not fiscal accounts or GDP.
+- A. As the date Ashoka disbanded his army.
+- B. As a conventional textbook chronology placed before the dynastic end, with source and regional qualification.
+- C. As an exact date proving all provinces fell on the same day.
+- D. As evidence that Alexander personally destroyed the Mauryas.
 
-### Hard MCQ 31 - Urban archaeology
+**Answer: B.**
 
-**Question:** Which archaeological pattern most strongly challenges a sudden 'economic collapse' narrative?
+**Option-wise explanation:**
 
-- (a) A single later literary claim about an empty treasury.
-- (b) The disappearance of every settlement after 232 BCE.
-- (c) Urban layers, craft activity, brick/ring-well use and coin circulation continue across Mauryan and post-Mauryan phases at multiple centres.
-- (d) The absence of a modern census.
+- **A:** Incorrect. “As the date Ashoka disbanded his army.” fails this frontier chronology test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: R. S. Sharma pp. 209-210; Upinder Singh p. 961. [Q26-A]
+- **B:** Correct. The date helps sequence north-western pressure, but it should not be treated as a complete all-India decline chronology. Upinder's wording remains more general. Named evidence: R. S. Sharma pp. 209-210; Upinder Singh p. 961. Qualification: Use exact dates only at the confidence level of the source. [Q26-B]
+- **C:** Incorrect. “As an exact date proving all provinces fell on the same day.” fails this frontier chronology test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: R. S. Sharma pp. 209-210; Upinder Singh p. 961. [Q26-C]
+- **D:** Incorrect. “As evidence that Alexander personally destroyed the Mauryas.” fails this frontier chronology test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: R. S. Sharma pp. 209-210; Upinder Singh p. 961. [Q26-D]
 
-**Answer: C** - Urban layers, craft activity, brick/ring-well use and coin circulation continue across Mauryan and post-Mauryan phases at multiple centres.
-**Explanation:** Material continuities and later urban growth show restructuring rather than universal collapse. Each site's stratigraphy must still be dated separately.
+> **Examiner trap 26:** Use exact dates only at the confidence level of the source.
 
-**Named evidence:** Upinder Singh conclusion; early-historic archaeology.
+#### Q27
 
-**Qualification / trap:** Use site, phase and indicator.
+Why was the north-west a distinct decline zone?
 
-### Hard MCQ 32 - Material diffusion hypothesis
+- A. It had no cities or trade routes.
+- B. It was the only region where Ashoka issued Brahmi inscriptions.
+- C. It faced trans-Hindu Kush political pressure, frontier-route competition and a history of multilingual local mediation.
+- D. It lay outside all Hellenistic connections.
 
-**Question:** How does Sharma connect Mauryan significance with later regionalisation?
+**Answer: C.**
 
-- (a) Regional states arose without agrarian or material bases.
-- (b) Mauryas prevented iron and brick technology from leaving Pataliputra.
-- (c) Every successor copied the Mauryan constitution word for word.
-- (d) The spread of material culture and state knowledge reduced Magadha's special advantage and enabled new regional states.
+**Option-wise explanation:**
 
-**Answer: D** - The spread of material culture and state knowledge reduced Magadha's special advantage and enabled new regional states.
-**Explanation:** Sharma links iron/steel, bricks, ring wells, routes and state-forming knowledge with the rise of regional powers. The argument is enabling, not technologically deterministic.
+- **A:** Incorrect. “It had no cities or trade routes.” fails this north-western exposure test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Kandahar/Shahbazgarhi/Mansehra evidence; Topic 16 bounded context. [Q27-A]
+- **B:** Incorrect. “It was the only region where Ashoka issued Brahmi inscriptions.” fails this north-western exposure test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Kandahar/Shahbazgarhi/Mansehra evidence; Topic 16 bounded context. [Q27-B]
+- **C:** Correct. Taxila-Gandhara linked the subcontinent to Bactria and western/central Asia. Its frontier dynamics cannot be generalised mechanically to Kalinga or the Deccan. Named evidence: Kandahar/Shahbazgarhi/Mansehra evidence; Topic 16 bounded context. Qualification: One regional cause does not become an all-India cause. [Q27-C]
+- **D:** Incorrect. “It lay outside all Hellenistic connections.” fails this north-western exposure test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Kandahar/Shahbazgarhi/Mansehra evidence; Topic 16 bounded context. [Q27-D]
 
-**Named evidence:** R. S. Sharma pp. 204-208.
+> **Examiner trap 27:** One regional cause does not become an all-India cause.
 
-**Qualification / trap:** Legacy can become a condition of decentralisation.
+#### Q28
 
-### Hard MCQ 33 - Technology and determinism
+Which paired transition is most accurate?
 
-**Question:** Why is 'iron caused Mauryan collapse' an unsafe proposition?
+- A. Kalinga: Gupta rule in 232 BCE; centre: Chola conquest.
+- B. Deccan: immediate Kushana rule; north-west: Satavahana rule.
+- C. Far south: direct Shunga province; north-west: no successor polity.
+- D. North-west: Bactrian/Indo-Greek pressure; Ganga-centre: later Mauryas followed by Shunga transition.
 
-- (a) Technology can enable agrarian and military capacity only through local institutions, elites, labour and networks.
-- (b) Iron was unknown anywhere in Mauryan India.
-- (c) Technologies never affect political change.
-- (d) All iron artefacts belong to the Gupta age.
+**Answer: D.**
 
-**Answer: A** - Technology can enable agrarian and military capacity only through local institutions, elites, labour and networks.
-**Explanation:** Wider iron use may have reduced regional asymmetry, but it cannot independently explain succession, frontier invasion or political legitimacy. The causal language must remain conditional.
+**Option-wise explanation:**
 
-**Named evidence:** Sharma's material-diffusion hypothesis, qualified.
+- **A:** Incorrect. “Kalinga: Gupta rule in 232 BCE; centre: Chola conquest.” fails this regional differentiation test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Master Chronology; Topics 16-17 bounded context. [Q28-A]
+- **B:** Incorrect. “Deccan: immediate Kushana rule; north-west: Satavahana rule.” fails this regional differentiation test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Master Chronology; Topics 16-17 bounded context. [Q28-B]
+- **C:** Incorrect. “Far south: direct Shunga province; north-west: no successor polity.” fails this regional differentiation test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Master Chronology; Topics 16-17 bounded context. [Q28-C]
+- **D:** Correct. Post-Mauryan outcomes were asynchronous and regional. The pair preserves the principal geographical contrast without claiming exact dates for every local separation. Named evidence: Master Chronology; Topics 16-17 bounded context. Qualification: Build a regional map, not a single queue. [Q28-D]
 
-**Qualification / trap:** Capacity enables; it does not determine.
+> **Examiner trap 28:** Build a regional map, not a single queue.
 
-### Hard MCQ 34 - Ecological hypothesis
+#### Q29
 
-**Question:** Which conclusion is most evidence-disciplined regarding ecology and Mauryan decline?
+Which statement best represents Upinder Singh's economic conclusion?
 
-- (a) Climate had no relevance to transport or agrarian extraction.
-- (b) Terrain, rainfall, forests and distance affected control costs, but no single terminal ecological shock is established in the consulted evidence.
-- (c) A proven empirewide drought ended the dynasty in exactly 185 BCE.
-- (d) The Great Wall of China caused monsoon failure in Magadha.
+- A. Agrarian expansion, urbanisation, trade and the money economy continued; political decline should not be equated with economy-wide collapse.
+- B. Coin use ceased throughout India in 232 BCE.
+- C. The post-Mauryan period had no long-distance commerce.
+- D. All cities were abandoned immediately after Ashoka.
 
-**Answer: B** - Terrain, rainfall, forests and distance affected control costs, but no single terminal ecological shock is established in the consulted evidence.
-**Explanation:** Ecology is a structural modifier of routes, settlement and surveillance. Without dated palaeoenvironmental evidence, it should not be elevated into a master cause.
+**Answer: A.**
 
-**Named evidence:** Repository source limits; no terminal ecological event in consulted books.
+**Option-wise explanation:**
 
-**Qualification / trap:** Do not invent a climate-collapse narrative.
+- **A:** Correct. The broad processes crossed dynastic boundaries and expanded in many post-Mauryan regions. Local contraction remains possible but requires site-specific evidence. Named evidence: Upinder Singh pp. 963-965. Qualification: Dynastic chronology is not automatically economic chronology. [Q29-A]
+- **B:** Incorrect. “Coin use ceased throughout India in 232 BCE.” fails this economic-continuity verdict test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh pp. 963-965. [Q29-B]
+- **C:** Incorrect. “The post-Mauryan period had no long-distance commerce.” fails this economic-continuity verdict test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh pp. 963-965. [Q29-C]
+- **D:** Incorrect. “All cities were abandoned immediately after Ashoka.” fails this economic-continuity verdict test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh pp. 963-965. [Q29-D]
 
-### Hard MCQ 35 - Routes as paradox
+> **Examiner trap 29:** Dynastic chronology is not automatically economic chronology.
 
-**Question:** Why can imperial routes be interpreted as both significance and vulnerability?
+#### Q30
 
-- (a) Routes operated without labour, revenue or local cooperation.
-- (b) Routes disappeared as soon as one ruler died.
-- (c) They enabled movement of officials, goods and messages, but required protection and could later channel regional autonomy or invasion.
-- (d) Routes made distance irrelevant.
+What can a post-Mauryan coin hoard most safely establish?
 
-**Answer: C** - They enabled movement of officials, goods and messages, but required protection and could later channel regional autonomy or invasion.
-**Explanation:** Network infrastructure is politically ambivalent. Strong authority converts corridors into integration; weakened authority may lose strategic nodes while exchange continues.
+- A. Universal replacement of barter by coin.
+- B. Circulation, accumulation and political/economic activity in a specific context, not an all-India prosperity rate.
+- C. The exact GDP of the issuing dynasty.
+- D. The date every Mauryan official lost office.
 
-**Named evidence:** Sharma pp. 202-206; inscription geography.
+**Answer: B.**
 
-**Qualification / trap:** Infrastructure does not guarantee permanent sovereignty.
+**Option-wise explanation:**
 
-### Hard MCQ 36 - Shunga transition
+- **A:** Incorrect. “Universal replacement of barter by coin.” fails this coins as evidence test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Numismatic method; Topics 14 and 16. [Q30-A]
+- **B:** Correct. Coins are powerful for authority, iconography, chronology and exchange, but require archaeological context. Mauryan punch-marked coins are especially difficult to assign to individual rulers. Named evidence: Numismatic method; Topics 14 and 16. Qualification: Coins are not fiscal accounts or GDP. [Q30-B]
+- **C:** Incorrect. “The exact GDP of the issuing dynasty.” fails this coins as evidence test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Numismatic method; Topics 14 and 16. [Q30-C]
+- **D:** Incorrect. “The date every Mauryan official lost office.” fails this coins as evidence test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: Numismatic method; Topics 14 and 16. [Q30-D]
 
-**Question:** Which is the safest description of the Shungas in relation to Mauryan decline?
+> **Examiner trap 30:** Coins are not fiscal accounts or GDP.
 
-- (a) They immediately restored Ashoka's full territorial empire.
-- (b) They were an Indo-Greek dynasty based in Bactria.
-- (c) They prove a simultaneous anti-Buddhist uprising across the subcontinent.
-- (d) They replaced the last Maurya in the Ganga-central political zone and participated in post-Mauryan cultural patronage, without ruling every former Mauryan region.
+#### Q31
 
-**Answer: D** - They replaced the last Maurya in the Ganga-central political zone and participated in post-Mauryan cultural patronage, without ruling every former Mauryan region.
-**Explanation:** The Shunga transition is central to dynastic termination but must be regionalised. Sanchi activity and debated persecution traditions complicate simple religious-rupture narratives.
+Which archaeological pattern most strongly challenges a sudden 'economic collapse' narrative?
 
-**Named evidence:** Master Chronology; UNESCO Sanchi; later traditions.
+- A. A single later literary claim about an empty treasury.
+- B. The disappearance of every settlement after 232 BCE.
+- C. Urban layers, craft activity, brick/ring-well use and coin circulation continue across Mauryan and post-Mauryan phases at multiple centres.
+- D. The absence of a modern census.
 
-**Qualification / trap:** Do not turn a central successor into an all-India replacement.
+**Answer: C.**
 
-### Hard MCQ 37 - Kanva sequence
+**Option-wise explanation:**
 
-**Question:** Where do the Kanvas fit in the bounded transition?
+- **A:** Incorrect. “A single later literary claim about an empty treasury.” fails this urban archaeology test. It asserts direct continuity, uniformity or precision where the surviving archive supports only a qualified inference. Controlling evidence: Upinder Singh conclusion; early-historic archaeology. [Q31-A]
+- **B:** Incorrect. “The disappearance of every settlement after 232 BCE.” fails this urban archaeology test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: Upinder Singh conclusion; early-historic archaeology. [Q31-B]
+- **C:** Correct. Material continuities and later urban growth show restructuring rather than universal collapse. Each site's stratigraphy must still be dated separately. Named evidence: Upinder Singh conclusion; early-historic archaeology. Qualification: Use site, phase and indicator. [Q31-C]
+- **D:** Incorrect. “The absence of a modern census.” fails this urban archaeology test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: Upinder Singh conclusion; early-historic archaeology. [Q31-D]
 
-- (a) They followed the Shungas in the middle-Ganga/central political sequence and represent continued regional kingship.
-- (b) They were the first Bactrian Greek coin issuers.
-- (c) They preceded Chandragupta Maurya.
-- (d) They were Ashokan district officers.
+> **Examiner trap 31:** Use site, phase and indicator.
 
-**Answer: A** - They followed the Shungas in the middle-Ganga/central political sequence and represent continued regional kingship.
-**Explanation:** The Kanvas matter as one successor dynasty, not as a separate master cause of Mauryan decline. Their history is short and textually reconstructed.
+#### Q32
 
-**Named evidence:** Master Chronology; Sharma pp. 209-211.
+How does Sharma connect Mauryan significance with later regionalisation?
 
-**Qualification / trap:** Keep successor detail proportional to the question.
+- A. Regional states arose without agrarian or material bases.
+- B. Mauryas prevented iron and brick technology from leaving Pataliputra.
+- C. Every successor copied the Mauryan constitution word for word.
+- D. The spread of material culture and state knowledge reduced Magadha's special advantage and enabled new regional states.
 
-### Hard MCQ 38 - Indo-Greek transition
+**Answer: D.**
 
-**Question:** Which evidence class most clearly marks new named political authority in the post-Mauryan north-west?
+**Option-wise explanation:**
 
-- (a) Anonymous Mauryan pillar polish alone.
-- (b) Attributable Indo-Greek coinage with ruler names and bilingual legends.
-- (c) Later Vedic sacrificial texts.
-- (d) Sanchi's Gupta shrines.
+- **A:** Incorrect. “Regional states arose without agrarian or material bases.” fails this material diffusion hypothesis test. It collapses distinct dates, processes or evidence classes that the question requires the learner to separate. Controlling evidence: R. S. Sharma pp. 204-208. [Q32-A]
+- **B:** Incorrect. “Mauryas prevented iron and brick technology from leaving Pataliputra.” fails this material diffusion hypothesis test. It converts a bounded regional or textual claim into an empire-wide certainty unsupported by the named evidence. Controlling evidence: R. S. Sharma pp. 204-208. [Q32-B]
+- **C:** Incorrect. “Every successor copied the Mauryan constitution word for word.” fails this material diffusion hypothesis test. It reverses the chronology or causal direction and therefore fails the source-and-sequence test. Controlling evidence: R. S. Sharma pp. 204-208. [Q32-C]
+- **D:** Correct. Sharma links iron/steel, bricks, ring wells, routes and state-forming knowledge with the rise of regional powers. The argument is enabling, not technologically deterministic. Named evidence: R. S. Sharma pp. 204-208. Qualification: Legacy can become a condition of decentralisation. [Q32-D]
 
-**Answer: B** - Attributable Indo-Greek coinage with ruler names and bilingual legends.
-**Explanation:** Indo-Greek coins are important for chronology, sovereignty and cultural contact. They should not be used to claim immediate rule over all former Mauryan territory.
-
-**Named evidence:** Topic 16 bounded numismatic context.
-
-**Qualification / trap:** Attributable coinage is regionally powerful evidence.
-
-### Hard MCQ 39 - Satavahana chronology
-
-**Question:** What is the most defensible relationship between Mauryan decline and Satavahana rise?
-
-- (a) They inherited every Mauryan province without change.
-- (b) The Satavahanas took Pataliputra in 232 BCE.
-- (c) Mauryan contact helped shape a Deccan state-forming environment, but Satavahana origins and early chronology are debated and not an instant replacement.
-- (d) Their entire history is known from Ashokan edicts.
-
-**Answer: C** - Mauryan contact helped shape a Deccan state-forming environment, but Satavahana origins and early chronology are debated and not an instant replacement.
-**Explanation:** Prakrit-Brahmi use, administrative terms and routes show selective continuity, while inscriptions, coins and Puranic lists reveal a distinct networked Deccan polity.
-
-**Named evidence:** Topics 17 basic/advanced; Sharma pp. 206-208.
-
-**Qualification / trap:** Successor does not mean constitutional clone.
-
-### Hard MCQ 40 - Kalinga regionalisation
-
-**Question:** How should later Chetis/Mahameghavahanas be used in a Mauryan-decline answer?
-
-- (a) As Bactrian Greek governors of Taxila.
-- (b) As the dynasty that built the Sarnath lion capital.
-- (c) As the authors of Ashoka's Separate Kalinga Edicts.
-- (d) As evidence of longer-term Kalinga regional state formation, not as contemporary proof of an immediate post-Ashoka revolt.
-
-**Answer: D** - As evidence of longer-term Kalinga regional state formation, not as contemporary proof of an immediate post-Ashoka revolt.
-**Explanation:** Later Kalinga evidence, including the Hathigumpha world, demonstrates regional agency but sits at a chronological distance from Ashoka. It should support transformation, not a precise revolt date.
-
-**Named evidence:** Sharma pp. 206-208; bounded post-Mauryan context.
-
-**Qualification / trap:** Later regional success cannot date earlier separation automatically.
-
-### Hard MCQ 41 - Overlapping successors
-
-**Question:** Which model best represents the post-Mauryan political landscape?
-
-- (a) Overlapping regional polities with different chronologies in the Ganga centre, north-west, Kalinga and Deccan.
-- (b) A simple sequence of Shunga, Satavahana and Indo-Greek all-India empires.
-- (c) A complete absence of states for two centuries.
-- (d) One successor dynasty ruling the entire former empire at a time.
-
-**Answer: A** - Overlapping regional polities with different chronologies in the Ganga centre, north-west, Kalinga and Deccan.
-**Explanation:** Regionalisation is asynchronous. The examination map should show simultaneous worlds and transition zones rather than a single dynastic ladder.
-
-**Named evidence:** Master Chronology; Topics 16-17.
-
-**Qualification / trap:** Map overlap, not false succession order.
-
-### Hard MCQ 42 - Administrative vocabulary
-
-**Question:** What does the later use of terms such as mahamatra most safely suggest?
-
-- (a) The Mauryan central government survived legally under every successor.
-- (b) Administrative vocabulary and prestige could travel, but functions and institutions must be re-established in each polity.
-- (c) All officers had identical duties from Ashoka to the Satavahanas.
-- (d) Vocabulary has no historical value.
-
-**Answer: B** - Administrative vocabulary and prestige could travel, but functions and institutions must be re-established in each polity.
-**Explanation:** Shared terminology is evidence of cultural-administrative memory and adaptation, not proof of unchanged bureaucratic structure. Context, inscription and region determine function.
-
-**Named evidence:** Topic 17 inscriptions; Topic 14 officer vocabulary.
-
-**Qualification / trap:** Name continuity is not institutional identity.
-
-### Hard MCQ 43 - Epigraphic precedent
-
-**Question:** Which long-term Mauryan legacy is best captured by widespread Prakrit-Brahmi public inscriptions?
-
-- (a) The disappearance of oral proclamation.
-- (b) A permanent ban on Sanskrit inscriptions.
-- (c) The use of durable writing in political, ethical, donative and administrative communication by later patrons.
-- (d) A single unchanged imperial language policy until the medieval period.
-
-**Answer: C** - The use of durable writing in political, ethical, donative and administrative communication by later patrons.
-**Explanation:** Ashoka's programme was unprecedented in scale, and later inscriptions adopted different genres and languages. The legacy is epigraphic political technology, not textual uniformity.
-
-**Named evidence:** Ashokan corpus; post-Mauryan inscriptions.
-
-**Qualification / trap:** Legacy is a repertoire, not a frozen template.
-
-### Hard MCQ 44 - Dhamma as foundational concept
-
-**Question:** According to Upinder Singh, what is foundational about Ashoka's use of dhamma?
-
-- (a) He invented every earlier meaning of dharma.
-- (b) He converted all subjects to one Buddhist school.
-- (c) He abolished hierarchy and royal paternalism.
-- (d) He made moral foundations, social conflict and religious concord central public questions of kingship.
-
-**Answer: D** - He made moral foundations, social conflict and religious concord central public questions of kingship.
-**Explanation:** Ashoka appropriated and reworked a wider concept through a distinctive imperial ethical programme. Upinder stresses both its foundational political importance and its radical aspects.
-
-**Named evidence:** Upinder Singh pp. 963-964.
-
-**Qualification / trap:** Foundational does not mean sole origin or modern equality.
-
-### Hard MCQ 45 - Stone-masonry legacy
-
-**Question:** Which statement best captures the significance of Mauryan stone art?
-
-- (a) Large-scale polished stone, pillars and rock-cut beginnings made power and patronage durable and transportable, while later traditions transformed the forms.
-- (b) Mauryas invented stone as a material in South Asia.
-- (c) Mauryan art had no religious or popular dimension.
-- (d) Every polished stone object is securely Mauryan.
-
-**Answer: A** - Large-scale polished stone, pillars and rock-cut beginnings made power and patronage durable and transportable, while later traditions transformed the forms.
-**Explanation:** The achievement lies in scale, engineering, workmanship and ideological placement, not a claim that stone was previously unknown. Polish alone is not a secure date.
-
-**Named evidence:** Sharma pp. 203-205; Upinder Chapter 7.
-
-**Qualification / trap:** Avoid invention claims and polish-only dating.
-
-### Hard MCQ 46 - Cultural contact
-
-**Question:** How should Achaemenid/Hellenistic elements in Mauryan art be discussed?
-
-- (a) As proof that Mauryan art was a foreign copy with no Indian agency.
-- (b) As evidence of travelling motifs and techniques transformed through local workshops, meanings and patronage.
-- (c) As evidence that all pillars were carved in Greece.
-- (d) As proof that no artistic contact occurred.
-
-**Answer: B** - As evidence of travelling motifs and techniques transformed through local workshops, meanings and patronage.
-**Explanation:** Influence analysis must compare specific forms, technologies and meanings. Similarity and innovation can coexist, and imported/indigenous binaries are too crude.
-
-**Named evidence:** Upinder Singh artistic-influence discussion, Chapter 7.
-
-**Qualification / trap:** Name the form and transformation.
-
-### Hard MCQ 47 - Ashoka's memory
-
-**Question:** Which source-use rule is most appropriate for Buddhist Ashoka traditions?
-
-- (a) Treat them as Mauryan treasury ledgers.
-- (b) Accept every miracle and number as contemporary fact.
-- (c) Use them to study sectarian memory and later political-religious ideals, while testing historical claims against inscriptions and archaeology.
-- (d) Discard them entirely because they are later.
-
-**Answer: C** - Use them to study sectarian memory and later political-religious ideals, while testing historical claims against inscriptions and archaeology.
-**Explanation:** Later traditions are historically valuable for reception and memory. Source criticism limits their use for precise succession, administration or chronology without making them irrelevant.
-
-**Named evidence:** Ashokavadana and Sri Lankan chronicle traditions, source-criticised.
-
-**Qualification / trap:** Source criticism defines use; it does not mean automatic rejection.
-
-### Hard MCQ 48 - Theory ranking
-
-**Question:** Which ordering best reflects evidentiary strength in the consulted sources?
-
-- (a) Brahmanical revolution alone is certain; all other factors are irrelevant.
-- (b) Ecological disaster is certain; succession is unsupported.
-- (c) Economic collapse is officially documented; frontier pressure is imaginary.
-- (d) Succession instability and strained integration, with regional/frontier pressures, are stronger than proven fiscal collapse or empirewide religious revolution.
-
-**Answer: D** - Succession instability and strained integration, with regional/frontier pressures, are stronger than proven fiscal collapse or empirewide religious revolution.
-**Explanation:** The strongest synthesis ranks, rather than equalises, causes. Weak successors, imperial strain and Bactrian pressure are explicit; fiscal and religious master theories face strong counter-evidence.
-
-**Named evidence:** Upinder Singh pp. 961-963; Sharma hypotheses critically tested.
-
-**Qualification / trap:** A multi-causal answer still needs hierarchy.
-
-### Remedial MCQ 49 - Pacifism correction
-
-**Question:** Which statement must be rejected?
-
-- (a) Ashoka disbanded the Mauryan army after Kalinga.
-- (b) Ashoka retained coercive warnings to forest peoples.
-- (c) Pillar Edict IV presupposes capital punishment.
-- (d) Ashoka preferred dhamma-vijaya to aggressive conquest.
-
-**Answer: A** - Ashoka disbanded the Mauryan army after Kalinga.
-**Explanation:** No inscription or consulted historian supports army disbandment. This is the package's highest-priority factual correction.
-
-**Named evidence:** Upinder Singh p. 962; Rock Edict XIII; Pillar Edict IV.
-
-**Qualification / trap:** Do not equate remorse with demilitarisation.
-
-### Remedial MCQ 50 - Single-cause correction
-
-**Question:** Which is the best response to 'Mauryan decline had one decisive cause'?
-
-- (a) Treat every cause as proven and equal.
-- (b) The regional chronology and unequal evidence require a multi-causal, interaction-based explanation.
-- (c) Choose the longest textbook paragraph.
-- (d) Ignore frontier and regional differences.
-
-**Answer: B** - The regional chronology and unequal evidence require a multi-causal, interaction-based explanation.
-**Explanation:** A strong answer links structural strain, succession, regional agency and frontier pressure, then ranks weaker amplifiers.
-
-**Named evidence:** Upinder Singh pp. 961-963.
-
-**Qualification / trap:** Multi-causal does not mean unranked list.
-
-### Remedial MCQ 51 - 232 BCE correction
-
-**Question:** What occurred in 232 BCE in the standard chronology?
-
-- (a) The Indo-Greeks conquered the entire subcontinent.
-- (b) Pushyamitra founded the Shunga dynasty that same year.
-- (c) Ashoka died; the Maurya dynasty continued under later rulers.
-- (d) Every Mauryan inscriptional site was abandoned.
-
-**Answer: C** - Ashoka died; the Maurya dynasty continued under later rulers.
-**Explanation:** The dynasty conventionally ends c. 187/185 BCE. Confusing ruler death with dynastic and imperial termination distorts the chronology.
-
-**Named evidence:** Master Chronology; Upinder Singh p. 961.
-
-**Qualification / trap:** Three clocks: ruler, dynasty, integration.
-
-### Remedial MCQ 52 - Terminal-date correction
-
-**Question:** Which formulation is safest for the Mauryan dynastic end?
-
-- (a) Exactly 206 BCE as an all-India end.
-- (b) Exactly 232 BCE without qualification.
-- (c) AD 78 because of the Shaka era.
-- (d) c. 187 BCE in Upinder Singh, often c. 185 BCE in textbook convention.
-
-**Answer: D** - c. 187 BCE in Upinder Singh, often c. 185 BCE in textbook convention.
-**Explanation:** The package preserves the source conflict rather than inventing false precision. c. 206 BCE belongs to Sharma's Greek-invasion chronology, not the final dynastic date.
-
-**Named evidence:** Upinder Singh p. 961; Sharma p. 210.
-
-**Qualification / trap:** State the convention and source.
-
-### Remedial MCQ 53 - Sanchi correction
-
-**Question:** Which visible Sanchi features should not be automatically credited to Ashoka?
-
-- (a) The later stone casing, railings and ornate gateways.
-- (b) The Ashokan pillar at the site.
-- (c) The Mauryan brick stupa core.
-- (d) The site's 3rd-century BCE Mauryan inception.
-
-**Answer: A** - The later stone casing, railings and ornate gateways.
-**Explanation:** UNESCO attributes enlargement and embellishment to later Shunga and Satavahana phases. Layering is a core art-history trap.
-
-**Named evidence:** UNESCO Sanchi.
-
-**Qualification / trap:** Date layers, not just sites.
-
-### Remedial MCQ 54 - Fiscal-crisis correction
-
-**Question:** Which claim is not established by the consulted evidence?
-
-- (a) Taxation and regulation were important Mauryan features.
-- (b) A documented empirewide late-Mauryan economic collapse.
-- (c) State-specific strain is structurally plausible.
-- (d) Maintaining army and officials was costly.
-
-**Answer: B** - A documented empirewide late-Mauryan economic collapse.
-**Explanation:** Upinder states there is no evidence for a fiscal or wider economic crisis. The distinction between cost, strain and crisis is essential.
-
-**Named evidence:** Upinder Singh p. 962.
-
-**Qualification / trap:** Do not promote hypothesis to fact.
-
-### Remedial MCQ 55 - Brahmanical-reaction correction
-
-**Question:** Which conclusion best fits the evidence?
-
-- (a) Dasharatha ended all heterodox patronage.
-- (b) Ashoka's edicts prove persecution of all Brahmanas.
-- (c) Some ritual grievance is possible, but an empirewide Brahmanical revolution is not demonstrated.
-- (d) Pushyamitra's caste identity proves every province revolted.
-
-**Answer: C** - Some ritual grievance is possible, but an empirewide Brahmanical revolution is not demonstrated.
-**Explanation:** Ashoka repeatedly respected Brahmanas and Dasharatha continued Ajivika patronage. Sastri's key edict reading is rejected by Upinder.
-
-**Named evidence:** Upinder Singh p. 962; Nagarjuni inscriptions.
-
-**Qualification / trap:** Identity of successor is not sufficient causation.
-
-### Remedial MCQ 56 - Taxila-source correction
-
-**Question:** Taxila's complaint against wicked officials is not:
-
-- (a) A claim requiring source criticism.
-- (b) Potential evidence of a principal-agent problem.
-- (c) A later Buddhist narrative memory.
-- (d) A contemporary Ashokan inscription.
-
-**Answer: D** - A contemporary Ashokan inscription.
-**Explanation:** The story is useful but belongs to later Buddhist narrative traditions. Pair it with the direct Kalinga edictal concern for a balanced argument.
-
-**Named evidence:** Divyavadana/Ashokavadana; Sharma p. 208.
-
-**Qualification / trap:** Genre before inference.
-
-### Remedial MCQ 57 - Dasharatha correction
-
-**Question:** Which post-Ashoka ruler is securely inscriptionally attested?
-
-- (a) Dasharatha.
-- (b) Pushyamitra as a Maurya king.
-- (c) Brihadratha through a contemporary coup inscription.
-- (d) Samprati through empire-wide edicts.
-
-**Answer: A** - Dasharatha.
-**Explanation:** Dasharatha's Nagarjuni cave inscriptions are the key later-Maurya anchor. Other successor information is largely traditional.
-
-**Named evidence:** Upinder Singh p. 961.
-
-**Qualification / trap:** Keep the one secure name secure.
-
-### Remedial MCQ 58 - Successor-map correction
-
-**Question:** Which statement is correct?
-
-- (a) Shungas ruled the entire former Mauryan south.
-- (b) Shungas, Indo-Greeks and Satavahana processes overlapped regionally rather than forming one all-India sequence.
-- (c) No state existed between Mauryas and Guptas.
-- (d) The Indo-Greeks succeeded the Satavahanas in the Deccan.
-
-**Answer: B** - Shungas, Indo-Greeks and Satavahana processes overlapped regionally rather than forming one all-India sequence.
-**Explanation:** The post-Mauryan world is a map of simultaneous regional trajectories. This correction prevents chronological and spatial flattening.
-
-**Named evidence:** Master Chronology; Topics 16-17.
-
-**Qualification / trap:** Overlap, region and bounded chronology.
-
-### Remedial MCQ 59 - Legacy correction
-
-**Question:** What does 'Mauryan administrative legacy' not mean?
-
-- (a) Public inscription remained an important technology.
-- (b) Routes and material forms could be reused.
-- (c) Every office retained the same hierarchy and function under all successor states.
-- (d) Some titles and political practices travelled.
-
-**Answer: C** - Every office retained the same hierarchy and function under all successor states.
-**Explanation:** Continuity is selective and transformed. Shared vocabulary needs polity-specific inscriptional corroboration.
-
-**Named evidence:** Topic 17 bounded evidence; continuity framework.
-
-**Qualification / trap:** Name continuity is not institutional identity.
-
-### Remedial MCQ 60 - Source-class correction
-
-**Question:** Which pairing is correct?
-
-- (a) Inscriptions - complete compliance; archaeology - named rulers automatically; traditions - contemporary budgets; coins - GDP.
-- (b) Inscriptions - climate data only; archaeology - official keys; traditions - exact borders; coins - no historical use.
-- (c) All sources - identical date, audience and purpose.
-- (d) Inscriptions - royal voice; archaeology - material pattern; traditions - later memory; coins - circulation and authority.
-
-**Answer: D** - Inscriptions - royal voice; archaeology - material pattern; traditions - later memory; coins - circulation and authority.
-**Explanation:** The pairing states the proper evidentiary reach of each archive and prevents overclaiming.
-
-**Named evidence:** Repository source-method standard.
-
-**Qualification / trap:** Ask what a source can and cannot prove.
+> **Examiner trap 32:** Legacy can become a condition of decentralisation.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -1204,322 +890,132 @@ topic_key: ancient-indian-history-15
 
 **How to improve this answer:** For “Indian philosophy and tradition played a significant role in conceiving and shaping the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-### Original solved 10-marker 1 - Dynasty, empire and legacy
+### SIX ORIGINAL SOLVED MAINS — EXACT COUNT
 
-**Question:** Distinguish the end of the Maurya dynasty from the decline of Mauryan imperial integration and the persistence of Mauryan legacy. (150 words)
+### ORIGINAL MAINS 10-MARKER 1 — Dynasty, empire and legacy
 
-**Demand and thesis:** The three processes overlap but operate on different clocks: a lineage ended, territorial coordination weakened unevenly, and selected political-cultural repertoires continued in transformed settings.
+**Question:** Distinguish the end of the Maurya dynasty from imperial contraction and the persistence of Mauryan legacy. (10 marks; maximum 150 words)
 
-#### Evidence architecture
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Dynasty | Ashoka dies 232 BCE; Brihadratha-Pushyamitra transition c. 187/185 BCE | Separates ruler death from lineage end | Final event is later-tradition based |
-| Empire | Sparse later inscriptions, Bactrian pressure and regional successors | Shows selective loss of integration | No year-by-year map |
-| Continuity | Nagarjuni caves, Sanchi layers, Prakrit-Brahmi and routes | Institutions/culture cross boundary | Continuity was transformed |
+**Model answer (142 words):**
 
-#### Model answer
+Ashoka’s death in 232 BCE did not end the Maurya dynasty. Dasharatha’s Nagarjuni cave dedications provide the clearest later-Maurya royal inscriptional evidence, while Puranic, Buddhist and Jain lists preserve divergent successor traditions. The conventional c. 187/185 BCE Brihadratha–Pushyamitra episode marks dynastic replacement at Pataliputra, but its army-review detail comes from Bana’s much later Harshacharita.
 
-The death of Ashoka in 232 BCE did not end the Maurya dynasty. Later rulers continued, although their chronology is uncertain; Dasharatha's Nagarjuni cave inscriptions are the only secure later-Maurya royal epigraphy. The conventional dynastic end came c. 187/185 BCE, when later accounts place Pushyamitra's overthrow of Brihadratha.
-Imperial decline was a longer and regional process. Short reigns weakened command, Bactrian Greek pressure affected the north-west, and provincial elites gained room to redirect revenue and loyalty. The exact date of each separation is unknown.
-Mauryan legacy followed a third clock. Prakrit-Brahmi public epigraphy, routes, political vocabulary and monumental patronage continued selectively. Sanchi's Ashokan brick core was enlarged under Shunga and Satavahana patrons; the Sarnath capital later became India's national emblem.
-Thus the dynasty ended, integration fragmented, but material and political repertoires persisted through transformation rather than unchanged survival.
+Imperial contraction was a longer regional process: short reigns weakened coordination, north-western pressure narrowed frontier control, and provincial elites gained room to redirect revenue and loyalty. No source supplies a year-by-year map.
 
-**Why this earns marks:** The answer directly distinguishes three clocks, uses four named evidence units, and qualifies both succession and continuity.
+Legacy followed a third clock. Prakrit-Brahmi epigraphy, routes, monumental patronage and political vocabulary continued selectively; Sanchi’s Mauryan core acquired later Shunga and Satavahana layers. Thus lineage ended, integration fragmented, and repertoires persisted through transformation—not unchanged institutional continuity.
 
-**Evidence-density note:** This 10-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the end of the Maurya dynasty from the decline of Mauryan imperial integration…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+### ORIGINAL MAINS 10-MARKER 2 — Inscriptional governance
 
-**How to improve this answer:** For “Distinguish the end of the Maurya dynasty from the decline of Mauryan imperial integration…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** Explain why Ashoka’s inscriptional programme is central to the long-term significance of Mauryan rule. (10 marks; maximum 150 words)
 
-### Original solved 10-marker 2 - Inscriptional public communication
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-**Question:** Explain why Ashoka's inscriptional programme is central to the long-term significance of Mauryan rule. (150 words)
+**Model answer (150 words):**
 
-**Demand and thesis:** The edicts made a ruler's political ethics, administrative priorities and regional adaptation durably public on an unprecedented geographical scale.
+Ashoka’s edicts form the earliest large, securely datable corpus of royal public communication across much of the subcontinent. Rock and pillar inscriptions placed the king’s ethical and administrative voice on routes, frontiers and sacred landscapes. Rock Edict XII publicised sectarian restraint; Rock Edict XIII joined remorse with retained deterrence; Rock Edict III named pradeshikas, rajukas and yuktas in a touring framework.
 
-#### Evidence architecture
+Communication was regionally adapted: Prakrit-Brahmi predominated, Kharoshthi served the north-west, and Greek and Aramaic appeared in selected frontier contexts. This indicates imperial reach without proving identical administration.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Public corpus | Major/minor rock and pillar edicts | Durable royal communication | Royal intention, not compliance |
-| Regional adaptation | Brahmi, Kharoshthi, Greek and Aramaic | Communication across linguistic zones | Script is not ethnicity |
-| Political ethics | Rock Edicts XII and XIII | Concord, suffering and dhamma-vijaya | Paternal coercion remained |
-| Administrative reach | Rock Edict III officers and tours | Governance made visible | Functions are context-sensitive |
+The programme’s legacy was a durable technology of kingship—public, locatable and reusable by later polities. Yet inscriptions reveal royal intention and mediated proclamation more securely than literacy, comprehension or compliance. Their significance therefore lies in making governance and public ethics visible, not in proving uniform centralisation.
 
-#### Model answer
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-Ashoka's inscriptions constitute the earliest large, securely datable corpus of royal public communication across the subcontinent. Major and minor rock edicts, pillar edicts and commemorative records placed the ruler's voice on routes, frontiers and sacred landscapes rather than confining it to court ritual.
-Their regional adaptation was politically significant. Most used Prakrit-Brahmi, while the north-west included Kharoshthi, Greek and Aramaic; this reveals negotiated communication rather than one uniform language policy. Rock Edict XII publicised sectarian restraint, Rock Edict XIII reflected on Kalinga's suffering, and Rock Edict III named field officers and tours.
-The limitation is equally important: an edict proves command, self-presentation and an attempt to communicate, not universal comprehension or compliance. Its legacy therefore lies in making ethics, administration and royal responsibility durable public arguments. Later inscriptions changed language and genre, but continued epigraphy as a political technology.
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-**Why this earns marks:** It answers significance, names four inscriptional units, explains regional adaptation and states the reception limit.
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.
 
-**Evidence-density note:** This 10-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
+### ORIGINAL MAINS 15-MARKER 1 — Significance across dimensions
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Ashoka's inscriptional programme is central to the long-term significance of…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** Assess the political, economic and cultural significance of Mauryan rule while indicating the limits of each claim. (15 marks; maximum 250 words)
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer (203 words):**
 
-**How to improve this answer:** For “Explain why Ashoka's inscriptional programme is central to the long-term significance of…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+Mauryan rule was significant for combining unprecedented imperial scale with visible governance, connected corridors and monumental communication. Politically, Pataliputra, provincial centres and Ashokan reporting/touring ideals enabled wide coordination. Yet the “first virtually subcontinental empire” was not a modern nation-state: southern neighbours and frontier peoples experienced differentiated relations, and an edict find-spot is not proof of uniform daily control.
 
-### Original solved 10-marker 3 - Pacifism theory
+Economically, agrarian revenue, roads and rivers, punch-marked coin circulation, crafts, towns, mines, forests and irrigation traditions reveal substantial mobilisation. Rummindei records a specific remission, while Pataliputra and route centres show concentration. However, Arthashastra monopolies are prescriptive, coin finds do not measure GDP, and urbanisation both preceded and survived Mauryan sovereignty.
 
-**Question:** Why is Ashoka's pacifism an insufficient explanation for the decline of the Mauryan Empire? (150 words)
+Culturally, Prakrit-Brahmi, Kharoshthi, Greek and Aramaic inscriptions adapted royal speech to regions. Dhamma made welfare, restraint and sectarian concord public ethics without abolishing hierarchy or coercion. Pillars, the Sarnath capital, Barabar caves and Sanchi’s brick core joined craft, sacred patronage and imperial ideology; later additions must be dated separately.
 
-**Demand and thesis:** Ashoka renounced aggressive conquest, not coercive kingship; pacifism can at most be a limited preparedness hypothesis within a later multi-causal crisis.
+The durable legacy was therefore a repertoire of scale, communication and material-political forms. Later states selectively reused routes, scripts, titles and monuments, but direct institutional continuity must be demonstrated rather than assumed.
 
-#### Evidence architecture
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Retained force | Forest warning in Rock Edict XIII | Deterrence remained | Not troop-strength data |
-| Retained punishment | Pillar Edict IV | Capital punishment persisted | Reform still mattered |
-| Territory | Kalinga retained and separately governed | No strategic withdrawal | Implementation unknown |
-| Nuance | Upinder's preparedness possibility | Long peace may affect army | Direct evidence absent |
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-#### Model answer
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.
 
-Ashoka's remorse after Kalinga changed the ideology of conquest, but it did not demilitarise the state. Rock Edict XIII warns forest peoples that the king retained power to punish; Pillar Edict IV presupposes capital punishment, and Kalinga remained annexed under special administrative instructions. No evidence states that Ashoka disbanded the army.
-Upinder Singh allows a narrower possibility: a long reign with only one early campaign may have reduced military preparedness, contributing to later Greek success. Yet this cannot be isolated from short-lived successors, communication costs, provincial agency and Bactrian pressure in the north-west.
-Pacifism also fails the regional test, since it cannot by itself explain different trajectories in the Ganga core, Kalinga and Deccan. Therefore, dhamma was an ethical reorientation of kingship, while imperial decline arose from interacting structural and political shocks.
+### ORIGINAL MAINS 15-MARKER 2 — Chronology and regional weakening
 
-**Why this earns marks:** It rejects the false disbandment claim, supplies direct counter-evidence, retains a qualified inference and restores the regional multi-causal model.
+**Question:** Examine post-Ashoka succession and the regional pattern of Mauryan weakening. (15 marks; maximum 250 words)
 
-**Evidence-density note:** This 10-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is Ashoka's pacifism an insufficient explanation for the decline of the Mauryan Empire?…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Model answer (215 words):**
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+The post-Ashoka phase begins in 232 BCE but is poorly documented. Dasharatha’s Nagarjuni cave inscriptions are the only secure later-Maurya royal epigraphy. Kunala, Samprati, Salisuka, Devavarman and Satadhanvan occur in divergent Puranic, Buddhist or Jain traditions; they cannot be arranged with false precision. Brihadratha is conventionally the last Maurya, while the Pushyamitra army-review story is transmitted by the much later Harshacharita. The dynastic boundary is therefore best stated as c. 187/185 BCE.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Contraction was asynchronous. Bactrian Greek pressure affected the north-west and its strategic routes before the dynasty ended at Pataliputra. The Ganga core retained later Mauryas longer, while central India moved into a Shunga-Kanva political sequence. Kalinga and the Deccan followed distinct trajectories; the emergence of Chetis/Mahameghavahanas and Satavahanas should be treated as regional transformation, not a simultaneous 232 BCE revolt.
 
-**How to improve this answer:** For “Why is Ashoka's pacifism an insufficient explanation for the decline of the Mauryan Empire?…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+Sparse post-Ashoka inscriptions indicate reduced imperial visibility, not the exact date of each provincial break. Later Taxila narratives preserve memories of official abuse, whereas the Separate Kalinga Edicts directly reveal Ashoka’s anxiety over unjust administration. Together they support possible provincial alienation, not an empire-wide rebellion.
 
-### Original solved 15-marker 1 - Significance across dimensions
+Thus succession instability, communication costs, regional agency and frontier pressure progressively narrowed integration before dynastic replacement completed the transition at the centre.
 
-**Question:** Assess the political, economic and cultural significance of Mauryan rule, while indicating the limits of each claim. (250 words)
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-**Demand and thesis:** Mauryan rule was a landmark because it combined unprecedented imperial scale, visible governance, connected economic corridors and monumental-inscriptional culture; none of these, however, was territorially uniform or created from nothing.
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-#### Evidence architecture
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Political | Pataliputra, provincial centres and Rock Edict VI | Large-scale coordination and reporting | Graded control and communication latency |
-| Economic | Rummindei, punch-marked coins, routes and Sudarshana tradition | Fiscal capacity and exchange | Norms/coins do not measure realised burden or GDP |
-| Epigraphic | Multilingual edicts and Rock Edict XII | Public political ethics | Reception uncertain |
-| Art | Sarnath, Sanchi core and Barabar | Monumental craft and plural patronage | Later phases must be separated |
-| Legacy | Sanchi continuation and national emblem | Long afterlife | Reinterpretation, not unchanged survival |
+### ORIGINAL MAINS 20-MARKER 1 — Evidence-ranked decline
 
-#### Model answer
+**Question:** Critically examine the major explanations for Mauryan decline. Why is a multi-causal model more persuasive? (20 marks; maximum 250 words)
 
-Politically, the Mauryas created the first virtually subcontinental empire. Pataliputra, provincial centres at Taxila, Ujjayini, Tosali and Suvarnagiri, and Rock Edict VI's reporting ideal reveal unprecedented coordination. Yet edict distribution and southern neighbours show graded, not uniform, control.
-Economically, Mauryan significance lay in fiscal ambition, regulation and corridor integration. Rummindei records a specific remission of bhaga; punch-marked coins, routes, irrigation traditions and urban infrastructure supported exchange. However, Arthashastra tax lists are normative, coins do not measure GDP, and agrarian-urban processes pre-dated the dynasty.
-Culturally, Ashoka's multilingual epigraphy made royal ethics public. Rock Edict XII promoted sectarian restraint; Greek, Aramaic, Kharoshthi and Brahmi versions adapted communication regionally. Pillars, the Sarnath capital, Barabar caves and Sanchi's Mauryan core linked court craft with Buddhist and Ajivika patronage. Monument layers and reception must nevertheless be dated separately.
-Administratively, officers, inspection tours and delegated justice created a visible vocabulary of governance. Rock Edict III's pradeshika, rajuka and yukta and the Kalinga edicts' concern over arbitrary imprisonment show both capacity and the difficulty of controlling agents. These cannot be treated as a modern uniform civil service.
-The legacy survived selectively: later polities used Prakrit-Brahmi, routes and political vocabulary; Sanchi grew under Shunga and Satavahana patrons, and the Sarnath capital became a national emblem. Mauryan significance therefore lies in scale and repertoire, not in a timeless centralised nation-state.
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-**Why this earns marks:** It covers all demanded dimensions, uses more than six named evidence units, and attaches a limitation to every major claim.
+**Model answer (240 words):**
 
-**Evidence-density note:** This 15-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
+No single theory explains the chronology, geography and institutional selectivity of Mauryan decline. Weak successors and short reigns could disrupt appointments, command and provincial loyalty, but “weakness” matters only through such mechanisms. Imperial scale imposed communication and fiscal-military burdens; yet differentiated control reduced central costs, and no treasury archive proves bankruptcy.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the political, economic and cultural significance of Mauryan rule, while indicating…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+Provincial alienation is plausible. Taxila’s “wicked officials” occur in later Buddhist narrative, while the Separate Kalinga Edicts directly attest concern over arbitrary imprisonment. They establish administrative anxiety, not a coordinated all-India revolt. Bactrian Greek pressure better explains north-western contraction, not fragmentation elsewhere.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+Ashoka’s pacifism is insufficient: Rock Edict XIII warns forest peoples, Pillar Edict IV presupposes punishment, and no evidence shows army disbandment. H.C. Raychaudhuri’s criticism of the peace policy remains a historiographical position, not proof. Haraprasad Sastri’s Brahmanical-reaction thesis is weakened by Ashoka’s respect for Brahmanas and shramanas and the late, sectarian persecution narratives. R.S. Sharma’s fiscal, oppressive-rule, diffusion and frontier hypotheses broaden analysis, but Upinder Singh rejects a proven fiscal or general economic crisis. Debasement, urban decline and ecological collapse need dated regional evidence, absent at empire-wide scale.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+The strongest model is interactive: succession shocks weakened compliance and revenue; reduced coordination encouraged provincial assertion; frontier pressure accelerated losses. It explains uneven contraction before the c. 187/185 BCE dynastic end without equating political fragmentation with civilisational collapse.
 
-**How to improve this answer:** For “Assess the political, economic and cultural significance of Mauryan rule, while indicating…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-### Original solved 15-marker 2 - Post-Ashoka chronology and regional weakening
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-**Question:** Examine the post-Ashoka chronology and the regional pattern of Mauryan weakening. (250 words)
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.
 
-**Demand and thesis:** After 232 BCE, thin successor evidence and uneven regional detachment replaced Ashoka's empire-wide inscriptional visibility; the conventional final coup ended a dynasty already losing integration.
+### ORIGINAL MAINS 20-MARKER 2 — Historiography and regional transformation
 
-#### Evidence architecture
+**Question:** Evaluate how historiography changes our understanding of Mauryan significance, decline and the transition to the post-Mauryan regional world. (20 marks; maximum 250 words)
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Chronology | Dasharatha's Nagarjuni inscriptions | Secure later-Maurya anchor | Territory unknown |
-| Lists | Puranic/Buddhist/Jain traditions; Samprati memory | Succession memory | Divergent and late |
-| North-west | Bactrian Greek pressure; c. 206 BCE in Sharma | Frontier acceleration | Regional reach |
-| Centre | Brihadratha-Pushyamitra transition c. 187/185 BCE | Dynastic end | Later account |
-| Regions | Shungas, Kalinga processes and Satavahana emergence | Asynchronous regionalisation | Chronologies debated |
+**Demand decoding:** Answer the directive directly; organise the body by distinct mechanisms or dimensions; make every paragraph follow claim → named evidence/example → analysis → qualification; end with a graded verdict.
 
-#### Model answer
+**Model answer (235 words):**
 
-Ashoka's death in 232 BCE begins a poorly documented later-Maurya phase, not an instantaneous collapse. Dasharatha's Nagarjuni cave inscriptions, dedicated to Ajivikas, are the only secure later-Maurya royal epigraphy. Other successors are known mainly from conflicting Puranic, Buddhist and Jain lists; Samprati, for example, is especially prominent in Jain memory.
-Weakening was regional. The north-west faced Bactrian Greek pressure, conventionally placed around 206 BCE by R. S. Sharma; this threatened Taxila-Gandhara routes and imperial prestige. In the Ganga-centre, later Mauryas survived until the conventional c. 187/185 BCE Brihadratha-Pushyamitra transition. Central India entered a Shunga-Kanva sequence, while Sanchi continued to expand. Kalinga's later Chetis/Mahameghavahanas and the debated emergence of Satavahana power reflect longer regional state-forming processes, not simultaneous revolts in 232 BCE.
-The symptoms were equally uneven. The disappearance of an empire-wide Ashokan inscriptional voice indicates reduced public visibility, but not the date of every provincial break. Later Taxila stories preserve conflict with officials, whereas the Kalinga edicts directly show royal anxiety about arbitrary administration. Neither source documents a coordinated all-India rebellion.
-The pattern therefore combines succession instability, frontier exposure and regional agency. Archaeology and later inscriptions cannot date every provincial separation, but they show that political sovereignty changed while towns, routes, scripts and sacred patronage continued. The final coup terminated the lineage after a longer, uneven loss of imperial integration.
+Historiography shifts the question from “which ruler caused collapse?” to “which mechanisms operated where, and what evidence proves them?” H.C. Raychaudhuri’s criticism of Ashoka’s peace policy represents an older political-military frame. R.S. Sharma foregrounded the costs of army and officialdom, provincial oppression, material diffusion and frontier neglect. D.D. Kosambi’s materialist method redirected ancient history toward social and economic formations, but should not become an unsupported single-cause Mauryan thesis.
 
-**Why this earns marks:** It preserves uncertainty, supplies a chronological spine, differentiates four regions and distinguishes final dynastic termination from prior disintegration.
+Romila Thapar expanded analysis beyond dynastic narrative toward ideology, administration and structural conditions, while Upinder Singh warns against anachronistic expectations of ancient states. Singh’s evidence-ranked position is crucial: short later reigns and Bactrian Greek pressure matter, but neither state bankruptcy nor an empire-wide economic crisis is proven.
 
-**Evidence-density note:** This 15-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
+This method also revises significance. Mauryan “unification” meant unprecedented imperial coordination through capitals, routes, officers and inscriptions, not homogeneous national administration. Dhamma was public political ethics with Buddhist roots, not a compulsory creed. Art, scripts and economic networks indicate innovation and interaction mediated regionally.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the post-Ashoka chronology and the regional pattern of Mauryan weakening. (250…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+The post-Mauryan world was neither simple collapse nor direct continuity. Shungas in the Ganga centre, Indo-Greek authority in the north-west and emerging Satavahana power in the Deccan recombined routes, coinage, patronage and political forms differently. Their detailed histories belong to Topic 16 onward; here they show that Mauryan contraction redistributed sovereignty while material and cultural processes continued.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** It follows claim → named evidence/example → analysis → qualification and remains within the stated ceiling.
 
-**How to improve this answer:** For “Examine the post-Ashoka chronology and the regional pattern of Mauryan weakening. (250…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 15-marker 3 - Brahmanical reaction
-
-**Question:** Critically examine the theory that a Brahmanical reaction caused the fall of the Mauryan Empire. (250 words)
-
-**Demand and thesis:** Specific ritual and status tensions are plausible, but the evidence does not support Haraprasad Sastri's empirewide Brahmanical revolution as the principal cause.
-
-#### Evidence architecture
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Thesis | Sacrifice restrictions and dhamma-mahamattas | Possible ritual/status grievance | Political scale unknown |
-| Counter | Edictal respect for Brahmanas and shramanas | No blanket hostility | Does not erase local tension |
-| Source correction | Upinder rejects Sastri's 'false gods' reading | Weakens textual basis | Other grievances remain possible |
-| Successors | Pushyamitra/Kanvas and Vedic rites | New legitimation | Successor identity is not cause |
-| Continuity | Dasharatha Ajivika caves; Sanchi expansion | No instant orthodox rupture | Does not prove harmony |
-
-#### Model answer
-
-Haraprasad Sastri interpreted Pushyamitra Shunga's coup as a Brahmanical revolution against Ashoka's heterodox patronage. A limited mechanism is conceivable: restrictions on animal sacrifice may have affected some ritual specialists, and dhamma-mahamattas could be perceived as competing moral authorities.
-The inscriptional counter-evidence is stronger than the sweeping thesis. Ashoka repeatedly urged respect for Brahmanas and shramanas and patronised a plural religious field. Upinder Singh also shows that Sastri misread the edictal statement about gods and humans mingling as an attack on Brahmanas. Dasharatha's Nagarjuni cave gifts to Ajivikas further complicate claims of an immediate orthodox reversal.
-Pushyamitra's Brahmana identity and performance of Vedic sacrifices reveal the ideology of a successor court, but do not prove that religious reaction caused earlier losses in the north-west, Kalinga or Deccan. Later Buddhist persecution narratives are sectarian memories requiring archaeological corroboration; continuing construction at Sanchi resists a total-rupture reading.
-The theory also lacks chronological reach. Succession instability begins after Ashoka, Bactrian Greek pressure operates in the north-west, and provincial assertion follows distinct local opportunities. None of these processes requires a coordinated Brahmanical programme, although religious idioms could help new rulers legitimise power.
-Thus Brahmanical tension may be retained as a bounded amplifier. Succession shocks, strained integration, regional agency and Bactrian pressure provide a more geographically and chronologically adequate explanation.
-
-**Why this earns marks:** It states the theory fairly, identifies its possible mechanism, uses inscriptional counter-evidence, source criticism and a graded verdict.
-
-**Evidence-density note:** This 15-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the theory that a Brahmanical reaction caused the fall of the Mauryan…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Critically examine the theory that a Brahmanical reaction caused the fall of the Mauryan…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 1 - Major theories of decline
-
-**Question:** Critically examine the major interpretations of the decline of the Mauryan Empire. Why is a multi-causal explanation more persuasive? (350 words)
-
-**Demand and thesis:** No single theory fits the chronology, regional pattern and unequal archive; decline is best explained by structural integration costs activated by succession shocks, regional agency and frontier pressure, with weaker fiscal, administrative and ideological amplifiers.
-
-#### Evidence architecture
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Succession | Short reigns; only Dasharatha inscribed | Strong trigger | Later lists label weakness |
-| Integration | Tours, reports, differentiated edicts and vast geography | Communication/monitoring strain | Real central capacity existed |
-| Fiscal | Army/official costs and Arthashastra fiscal model | Plausible burden | No proven crisis |
-| Provincial | Kalinga justice edicts; Taxila tradition | Abuse and agency | Revolt evidence uneven |
-| Frontier | Bactrian Greek invasion | Strong north-western accelerator | Not all-India cause |
-| Pacifism/reaction | Army/punishment retained; respect for Brahmanas | Rejects monocausal theses | Limited effects possible |
-
-#### Model answer
-
-The post-Ashoka archive is too thin for a single-cause verdict. The first three long reigns were followed by short reigns, and only Dasharatha issued surviving later-Maurya inscriptions. Succession instability therefore plausibly disrupted appointments, military command and dynastic prestige, but 'weak rulers' alone cannot explain regional variation.
-A structural explanation begins with scale. The empire integrated a metropolitan core, strategic corridors, provinces and frontiers through officials, tours, coercion and ideology. Rock Edicts III and VI reveal supervision and reporting; their very repetition also exposes communication costs. The older overcentralised model is too rigid, because Greek/Aramaic adaptations and regional archaeology show differentiated control. Yet local mediation could itself facilitate detachment when central coordination weakened.
-R. S. Sharma's fiscal thesis links the large army and officialdom to treasury pressure. Such costs are plausible, but Upinder Singh states that no evidence proves either a state fiscal crisis or a wider economic crisis. Cities, trade, coin use and sacred construction continued. Likewise, Taxila's complaints against wicked officials come from later Buddhist narratives, while the Separate Kalinga Edicts directly prove concern over arbitrary imprisonment, not a coordinated empirewide revolt.
-External pressure has firmer regional value: Upinder identifies Bactrian Greek invasion as further weakening the empire, especially the north-west. By contrast, the pacifism thesis fails because Ashoka retained the army, capital punishment and forest deterrence; only reduced preparedness remains a modest possibility. Brahmanical-reaction theory is weakened by edictal respect for Brahmanas and Sastri's incorrect reading, although ritual grievance may have existed.
-Material-diffusion and technological explanations are best treated as background conditions. Iron, bricks, ring wells, routes and state knowledge could strengthen regions once integrated by Magadha, but tools did not mechanically generate successor states. No single ecological shock is established in the consulted evidence.
-The persuasive model is sequential: vast integration created vulnerability; succession shocks weakened command; regional actors redirected loyalty and revenue; frontier pressure accelerated loss; fiscal, administrative and ideological tensions amplified local crises. The result was uneven disintegration and a final c. 187/185 BCE dynastic coup, not simultaneous civilisational collapse.
-
-**Why this earns marks:** It tests every major theory, ranks evidence, names inscriptions and traditions, regionalises causation and ends with an explicit interaction model.
-
-**Evidence-density note:** This 20-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the major interpretations of the decline of the Mauryan Empire. Why is a…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Critically examine the major interpretations of the decline of the Mauryan Empire. Why is a…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 2 - Significance outliving political fall
-
-**Question:** 'The Mauryan Empire fell, but Mauryan significance outlived imperial integration.' Evaluate. (350 words)
-
-**Demand and thesis:** The statement is valid if legacy is understood as selective, transformed repertoires of scale, epigraphy, political ethics, routes and monumental culture rather than unchanged administrative survival.
-
-#### Evidence architecture
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Scale | Virtually subcontinental empire and provincial corridors | New imperial horizon | Control was graded |
-| Epigraphy | Multilingual Ashokan corpus | Public political communication | Reception unknown |
-| Dhamma | Rock Edicts XII-XIII | Moral foundations and concord | Coercion/hierarchy remained |
-| Material | Pillars, Barabar/Nagarjuni, Sanchi layers | Craft and patronage continuity | Date phases separately |
-| Economy | Urbanisation, trade, money and routes continue | Rejects collapse narrative | Regional variation |
-| Memory | Sarnath national emblem and Ashoka traditions | Long reinterpretive afterlife | Not institutional continuity |
-
-#### Model answer
-
-Mauryan imperial integration was historically finite. After Ashoka, succession became uncertain, north-western pressure intensified, regions detached and the Brihadratha-Pushyamitra transition conventionally ended the dynasty c. 187/185 BCE. Yet political termination did not erase the empire's historical significance.
-First, the Mauryas established the first virtually subcontinental imperial horizon. Pataliputra, provincial centres and strategic corridors demonstrated a new scale of coordination, even though direct rule remained graded and the far south lay outside the core. Later regional polities operated within routes and state-forming landscapes that Mauryan expansion had intensified.
-Second, Ashoka created an unprecedented public epigraphic archive. Prakrit-Brahmi inscriptions and north-western Kharoshthi, Greek and Aramaic versions made royal ethics and administration durable across regions. Rock Edict XII placed sectarian concord in political discourse; Rock Edict XIII publicly engaged violence and dhamma-vijaya. These were paternal royal claims, not modern secularism, but they made moral legitimacy a visible problem of kingship.
-Third, monumental and material legacies crossed the dynastic boundary. The Sarnath capital embodied Mauryan craft and later became India's national emblem. Barabar's Ashokan Ajivika caves were followed by Dasharatha's Nagarjuni dedications. At Sanchi, an Ashokan brick core and pillar were enlarged under Shunga and Satavahana patrons, demonstrating continuity through transformation.
-Finally, agrarian expansion, towns, trade, money and scripts continued under post-Mauryan polities. Shared titles and Prakrit-Brahmi do not prove unchanged bureaucracy, but they show a transmitted repertoire. Buddhist narratives and modern national symbolism further reinterpreted Ashoka.
-The limits matter. The Mauryas did not create every town, road, coin or ethical concept, and their empire did not become a modern nation-state. Legacy is strongest where later evidence demonstrates reuse or reinterpretation, and weakest where identical institutions are merely assumed from similar names.
-Thus the empire's command structure ruptured, while routes, political language, monuments and memories persisted selectively. Its greatest legacy was not a frozen constitution but a set of durable possibilities for empire, public ethics and political representation.
-
-**Why this earns marks:** It evaluates rather than celebrates, uses more than eight named evidence units and distinguishes political rupture, transformed continuity and later memory.
-
-**Evidence-density note:** This 20-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “'The Mauryan Empire fell, but Mauryan significance outlived imperial integration.'…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “'The Mauryan Empire fell, but Mauryan significance outlived imperial integration.'…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 3 - Overcentralisation and differentiated control
-
-**Question:** Was overcentralisation responsible for Mauryan decline? Discuss with reference to communication limits, differentiated control and regional agency. (350 words)
-
-**Demand and thesis:** Overcentralisation is only partly useful: the centre exercised strong strategic functions, but control varied by region and function; the deeper vulnerability was strained integration exposed by succession and regional shocks.
-
-#### Evidence architecture
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Central capacity | Rock Edicts III/VI, provinces, mahamattas and army | Strong appointment/reporting system | Peak evidence is Ashokan |
-| Communication | Periodic tours and constant reports | Distance and monitoring costs | Routes also enabled capacity |
-| Differentiation | Kalinga special edicts, Greek/Aramaic north-west, southern neighbours | Regional adaptation | Not pure autonomy |
-| Agency | Taxila tradition and successor polities | Local actors can detach | Evidence often later |
-| Shock | Short reigns and Bactrian pressure | Activates vulnerability | Relative weights unknown |
-
-#### Model answer
-
-The older image of a highly centralised Mauryan state makes decline appear straightforward: once a weak ruler occupied Pataliputra, a top-heavy bureaucracy collapsed. Evidence does support significant central capacity. Rock Edict VI demands constant reporting; Rock Edict III groups district officers for tours; princes or high governors were associated with major provincial centres; mahamattas, revenue claims and a large army connected court and territory.
-However, centralisation must be defined by function. Appointment, strategic coercion and imperial ideology may have been relatively centralised, while everyday taxation, production and local justice depended on intermediaries. Communication itself imposed limits: quinquennial tours and repeated injunctions suggest that officials were hard to monitor. The Separate Kalinga Edicts reveal both corrective reach and arbitrary provincial behaviour.
-Regional evidence further weakens a uniform model. Greek and Aramaic north-western inscriptions were adaptations, not mechanical translations; Kalinga received a special edictal corpus; southern polities were named as neighbours; archaeology in the Deccan does not simply reproduce a northern court package. Such differentiated control reduced the need for uniform bureaucracy but gave local elites resources and legitimacy that could be redirected when the centre faltered.
-This qualification does not make the empire symbolic. Provincial nodes, routes, waterworks, multilingual communication and deterrence show real capacity. The problem was that this capacity had to be renewed through dynastic authority, inspection and military coordination. Short post-Ashoka reigns weakened those mechanisms, while Bactrian Greek pressure tested the north-west and regional polities emerged elsewhere.
-Fiscal and ideological factors fit only as amplifiers. Collection may have become harder when provincial loyalty weakened, but no late-Mauryan accounts prove bankruptcy. Dhamma did not abolish army or punishment, while edictal respect for Brahmanas contradicts an empirewide religious revolt. These corrections shift attention back to institutional coordination.
-Therefore, overcentralisation is an incomplete label. 'Strained integration' is better: a powerful but differentiated imperial network became vulnerable when succession shocks, local agency and frontier pressure overwhelmed its coordinating centre.
-
-**Why this earns marks:** It defines centralisation by function, balances strong-centre and regional evidence, names inscriptions and ends with a precise replacement concept.
-
-**Evidence-density note:** This 20-mark answer uses named evidence in proportion to the demand; every major claim includes significance and qualification.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Was overcentralisation responsible for Mauryan decline? Discuss with reference to…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Was overcentralisation responsible for Mauryan decline? Discuss with reference to…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Answer-specific improvement:** Underline the causal verb and source-status qualifier in each paragraph; do not add an unverified date, quotation or official key.

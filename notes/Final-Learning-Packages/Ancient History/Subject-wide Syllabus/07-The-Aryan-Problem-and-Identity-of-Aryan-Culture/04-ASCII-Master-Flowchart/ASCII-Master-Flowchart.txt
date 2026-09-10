@@ -1,112 +1,167 @@
-ASCII MASTER FLOW — PANEL 1/12: Category firewall: language is not race
-TERM             VALID USE                         INVALID COLLAPSE
-arya             self/cultural designation         biological race
-Indo-Aryan       branch of Indo-Iranian languages  skull type or pure people
-Indo-Iranian     linguistic-cultural relationship  one archaeological culture
-Aryan culture    reconstructed practices/texts     uniform invading nation
-                         |
-                         v
-Separate language, ancestry, material culture and identity before comparison.
+THE ARYAN PROBLEM AND IDENTITY OF ARYAN CULTURE — ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: Why the Aryan problem persists
-QUESTION: how did Indo-Aryan speech and early Vedic culture form in South Asia?
-       |
- +-----+---------+----------+----------+----------+
- |               |          |          |          |
-linguistics    Rig Veda archaeology  genetics  historiography/politics
-relationship  layered text contexts   ancestry  colonial/present claims
- +-----+---------+----------+----------+----------+
-                       |
-                       v
-No class alone identifies a group, route, date and cultural outcome.
++------------------------------------------------------------------------------------------------+
+| PANEL 1/14 — 1. CENTRAL QUESTION + CATEGORY FIREWALL                                           |
++------------------------------------------------------------------------------------------------+
+| ARYA = contextual textual self-designation; INDO-ARYAN = linguistic subgroup.                  |
+| LANGUAGE != RACE != GENES != POTTERY != ETHNICITY != CIVILISATION.                             |
+| Use 'Indo-Aryan-speaking groups' or 'early Vedic textual culture'.                             |
+| Dasa/dasyu are contextual opponents or outsiders, not automatic biological races.              |
+| ANSWER LINE: define categories before discussing origins, migration or identity.               |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 3/12: Working chronology and interaction corridor
-SINTASHTA/STEPPE -> CENTRAL ASIAN/BMAC CONTACT -> NORTH-WEST SOUTH ASIA -> VEDIC MILIEU
-2nd millennium BCE technology/speech hypotheses -> interaction -> cultural synthesis
-                 |                       |                       |
-                 +-----------------------+-----------------------+
-                                         v
-Mitanni Indo-Aryan names and terms provide external attestation in western Asia.
-A corridor model is not a mapped army route; scale and social process stay open.
++------------------------------------------------------------------------------------------------+
+| PANEL 2/14 — 2. SCHOLARLY DEBATE: PHILOLOGY TO SOURCE CRITICISM                                |
++------------------------------------------------------------------------------------------------+
+| Comparative philology found systematic Sanskrit-Avestan-Greek-Latin relationships.             |
+| Colonial theory converted language into race and hierarchy.                                    |
+| Wheeler linked fort imagery + Mohenjo-daro skeletons to invasion.                              |
+| Contextual archaeology rejected one massacre and one destruction horizon.                      |
+| Current method retains linguistics but rejects racial and monocausal readings.                 |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 4/12: Linguistic evidence: descent plus contact
-regular sound correspondences + shared vocabulary + grammar
-                         |
-                         v
-Indo-European family -> Indo-Iranian branch -> Indo-Aryan differentiation
-                         |
-          +--------------+--------------+
-          |                             |
-inherited vocabulary             loanwords and retroflexion from contact
-          +--------------+--------------+
-                         v
-Language transmission cannot alone specify genes, route or invasion.
++------------------------------------------------------------------------------------------------+
+| PANEL 3/14 — 3. LINGUISTIC SPINE                                                               |
++------------------------------------------------------------------------------------------------+
+| Proto-Indo-European -> Proto-Indo-Iranian -> Indo-Aryan / Iranian / Nuristani.                 |
+| Evidence: regular sound correspondences + morphology + inherited vocabulary.                   |
+| Vedic soma / Avestan haoma = inheritance plus later divergence.                                |
+| Loanwords and areal features must be separated from inherited forms.                           |
+| LIMIT: relationship does not by itself fix homeland, route, conquest or genes.                 |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 5/12: Rigvedic identity: a cultural system
-RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu
- |-- economy: cattle-centred pastoralism with agriculture and crafts
- |-- polity: jana, vis, rajan, sabha, samiti; no territorial empire
- |-- society: kinship/difference; later caste must not be projected backward
- |-- religion: deities, rita, yajna, soma and praise-poetry
- |-- warfare: horse/chariot terms and cattle/route conflicts
- +-> identity is cultural-historical, not a racial phenotype.
++------------------------------------------------------------------------------------------------+
+| PANEL 4/14 — 4. MITANNI + EXTERNAL CHRONOLOGY                                                  |
++------------------------------------------------------------------------------------------------+
+| Bogazkoy treaty, c. 14th century BCE: Mitra, Varuna, Indra, Nasatya forms.                     |
+| Kikkuli horse-training tradition: restricted Indo-Aryan technical vocabulary.                  |
+| Majority Mitanni language was Hurrian; evidence may reflect an elite superstrate.              |
+| PROVES: Indo-Aryan forms outside South Asia by mid-second millennium BCE.                      |
+| DOES NOT PROVE: Rig Veda composed there or a direct Mitanni-to-India migration.                |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 6/12: Archaeological cultures are not peoples
-Cemetery H        Gandhara Grave/Swat     OCP/Copper Hoards      PGW
-Punjab mortuary   frontier burials and    upper Ganga material   later plain horizon
-change/continuity interaction             associations vary       settlement pattern
-      |                    |                      |                   |
-      +--------------------+----------------------+-------------------+
-                                  v
-None equals Aryan people by itself; relate dates, regions and practices cautiously.
-Sanauli vehicles cannot settle horse-chariot identity without technical context.
++------------------------------------------------------------------------------------------------+
+| PANEL 5/14 — 5. RIG VEDA: SOURCE + GEOGRAPHY                                                   |
++------------------------------------------------------------------------------------------------+
+| Layered oral ritual poetry; family books 2-7 conventionally older.                             |
+| North-west focus: Sindhu, Punjab tributaries, Kabul-Swat river world.                          |
+| Later Vedic shift: Kuru-Panchala and upper Ganga.                                              |
+| Sarasvati/Ghaggar-Hakra requires separate hydrology, site and text dating.                     |
+| LIMIT: composition zone is not a complete ethnic frontier or migration diary.                  |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 7/12: Archaeogenetics: result and claim boundary
-ANCIENT SAMPLE -> contamination control -> genetic components -> statistical model
-                         |
-                         v
-Rakhigarhi: one Harappan-context genome; not the whole civilisation.
-South/Central Asian aDNA models: later Steppe-related ancestry entered South Asia.
-                         |
-                         v
-Ancestry can show mixture/timing ranges, not language or self-identity alone.
-Sampling is sparse, uneven and vulnerable to political overclaim.
++------------------------------------------------------------------------------------------------+
+| PANEL 6/14 — 6. CULTURAL VOCABULARY + HORSE/CHARIOT TEST                                       |
++------------------------------------------------------------------------------------------------+
+| Cattle wealth + pasture + raids coexist with ploughing, wells and harvesting.                  |
+| Balanced phrase: pastoral predominance within an agro-pastoral economy.                        |
+| Equid bone -> species/context; horse -> frequency/use; vehicle -> wheel/form/draught.          |
+| Surkotada equid debated; Harappan carts solid-wheel; Sanauli vehicles solid-wheel.             |
+| Sintashta spoked-wheel evidence and Mitanni vocabulary are convergent, not decisive.           |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 8/12: Competing models and best-fit verdict
-INVASION: rapid violent replacement -> simplistic and archaeologically weak
-IN-MIGRATION: movement over time + interaction -> better multi-source fit
-INDIGENOUS/OIT: local formation/outward movement -> must explain linguistic geography,
-                Mitanni evidence and ancient-DNA patterns
-SYNTHESIS: mobility + continuity + borrowing + intermarriage + cultural recomposition
-                         |
-                         v
-VERDICT: migration is not conquest; continuity is not isolation; evidence is graded.
++------------------------------------------------------------------------------------------------+
+| PANEL 7/14 — 7. HARAPPAN TO POST-HARAPPAN TRANSFORMATION                                       |
++------------------------------------------------------------------------------------------------+
+| Mature Harappan c.2600-1900 BCE largely precedes conventional Rigvedic horizon.                |
+| Late phase: city contraction + localisation + rural expansion + crop diversity.                |
+| No civilisation-wide military assault; Mohenjo-daro skeletons are not one massacre.            |
+| Cemetery H contains continuity plus mortuary change, not a named migrant people.               |
+| FORMULA: institutional discontinuity with demographic and cultural continuity.                 |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 9/12: Aryan-problem answer architecture
-10 MARKS: define categories -> two evidence classes -> one limit -> cautious verdict
-15 MARKS: historiography -> linguistic case -> text/archaeology -> genetics -> synthesis
-20 MARKS: firewall -> evidence matrix -> corridor -> competing models
-          -> Harappan continuity/contact -> political misuse -> graded conclusion
-EVIDENCE VERB: supports / is consistent with / complicates; avoid proves when indirect.
-CLOSE: early Vedic culture formed through mobility and South Asian interaction, not race.
++------------------------------------------------------------------------------------------------+
+| PANEL 8/14 — 8. ARCHAEOLOGICAL CORRELATES WITHOUT ETHNIC LABELS                                |
++------------------------------------------------------------------------------------------------+
+| Swat/Gandhara Grave = long varied frontier sequence, not one invasion event.                   |
+| OCP/copper hoards = uneven associations; many hoards have weak provenance.                     |
+| PGW = later Vedic/early Iron Age comparison, not early Rigvedic ethnicity.                     |
+| Bhagwanpura overlap shows sequence/contact; it does not identify household language.           |
+| RULE: culture labels map assemblages; objects can move through many mechanisms.                |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 10/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Keep language, genes, pottery, ethnicity, civilisation and polity separate.
-2. Compare linguistic, textual, archaeological and genetic chronologies.
-3. State sample, route, scale and social-mechanism uncertainty for every model.
-VERDICT: Secure relationships do not make every historical mechanism settled.
++------------------------------------------------------------------------------------------------+
+| PANEL 9/14 — 9. BMAC-SINTASHTA CORRIDOR                                                        |
++------------------------------------------------------------------------------------------------+
+| Sintashta: fortified sites, metallurgy, horses and early spoked-wheel vehicles.                |
+| BMAC: Central Asian oasis settlements, craft and ritual networks.                              |
+| Steppe <-> oasis <-> Iran/Hindu Kush/Swat/NW South Asia interaction.                           |
+| Mobility can be repeated, household-scale, gender-skewed and network-mediated.                 |
+| LIMIT: neither BMAC nor Sintashta independently proves Indo-Aryan language.                    |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 11/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Migration is not invasion; continuity does not prove absence of movement.
-2. PGW, BMAC, Swat, OCP and Sinauli do not automatically identify language.
-3. Steppe-related ancestry is biological evidence, not a Vedic-language label.
-VERDICT: Reject racial and civilisational certainty from every side of the debate.
++------------------------------------------------------------------------------------------------+
+| PANEL 10/14 — 10. COMPETING MODELS                                                             |
++------------------------------------------------------------------------------------------------+
+| Mass invasion: fails uniform destruction and replacement predictions.                          |
+| Strict zero movement: must explain branching, Mitanni and later ancestry evidence.             |
+| Migration only: incomplete if it erases local continuity and acculturation.                    |
+| Best broad model: multi-phase movement + interaction + admixture + regional formation.         |
+| UNRESOLVED: exact route, scale, tempo, gender balance and political mechanism.                 |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 12/12: Integrated answer spine and qualified conclusion
-ANSWER SPINE
-1. Record zero direct origin/migration PYQs; keep adjacent Vedic questions cross-owned.
-2. Define terms -> weigh evidence -> compare invasion, migration and indigenous models.
-3. End with interaction, admixture, acculturation and unresolved route/scale questions.
-VERDICT: A balanced inference is evidence-led, category-safe and politically non-presentist.
++------------------------------------------------------------------------------------------------+
+| PANEL 11/14 — 11. ARCHAEOGENETIC METHOD                                                        |
++------------------------------------------------------------------------------------------------+
+| Sample + archaeological context -> authentication -> genome -> statistical model.              |
+| Steppe-related and Iranian-related are affinities, not pure peoples.                           |
+| Check date, region, sex, burial selection, contamination and reference choice.                 |
+| Admixture dates are ranges; one cemetery is not a population census.                           |
+| GENES cannot directly identify language, religion, caste or self-designation.                  |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 12/14 — 12. RAKHIGARHI + NARASIMHAN 2019                                                 |
++------------------------------------------------------------------------------------------------+
+| Shinde et al., Cell 2019: one Rakhigarhi individual; no detectable Steppe ancestry.            |
+| Its Iranian-related ancestry was not simple recent western-farmer ancestry.                    |
+| Narasimhan et al., Science 2019: 523 ancient individuals across a wider region.                |
+| Supports later Steppe-related movement + extensive IVC-related continuity/mixture.             |
+| LIMIT: consistency with language spread is not direct genetic proof of language.               |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 13/14 — 13. IDENTITY FORMATION + POLITICAL MISUSE                                        |
++------------------------------------------------------------------------------------------------+
+| Movement + bilingualism + marriage + alliance/conflict + borrowing -> ethnogenesis.            |
+| Non-Indo-European words/names and areal features support contact in South Asia.                |
+| Migration does not imply permanent foreignness; continuity does not imply purity.              |
+| Ancient genes, pots and terms cannot allocate modern ownership or legitimacy.                  |
+| Neutrality = transparent categories and evidence weights, not false equivalence.               |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 14/14 — 14. PYQ ROUTE + ANSWER SPINE + VERDICT                                           |
++------------------------------------------------------------------------------------------------+
+| Direct routed Aryan-origin/migration PYQs, 2018-2026: ZERO.                                    |
+| Adjacent routes: 2023/2024 Vedic Mains; 2026 vocabulary/geography Prelims.                     |
+| WRITE: define -> chronology -> linguistics -> text -> archaeology -> genetics.                 |
+| Then compare models -> secure/probable/unresolved -> qualified conclusion.                     |
+| VERDICT: movement and interaction are likely; race and one-culture equations fail.             |
++------------------------------------------------------------------------------------------------+

@@ -1,106 +1,138 @@
-ASCII MASTER FLOW — PANEL 1/12: Stone Age chronological-climatic spine
-PLEISTOCENE                                      HOLOCENE
-Lower Palaeolithic -> Middle Palaeolithic -> Upper Palaeolithic -> Mesolithic
-handaxe/cleaver     flakes/prepared cores    blades/bone/art       microliths
-mobile landscapes   flexible reduction       wider symbolism       diverse niches
-        |                    |                       |                    |
-        +--------------------+-----------------------+--------------------+
-                                     v
-Transitions are regionally staggered; tool change is not a single species timetable.
-
-ASCII MASTER FLOW — PANEL 2/12: Stone is a behavioural archive
-RAW-MATERIAL NODULE -> CORE REDUCTION -> FLAKE/BLADE -> TOOL USE -> DISCARD
-          |                 |               |             |
-source distance       skill/planning     edge damage   activity area
-          +-----------------+---------------+-------------+
-                            v
-ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT -> BEHAVIOURAL INFERENCE
-A labelled tool without context cannot establish age, species or complete lifeway.
-
-ASCII MASTER FLOW — PANEL 3/12: Lithic systems compared
-LOWER                  MIDDLE                 UPPER                 MESOLITHIC
-bifaces, cleavers      flake tools            blades, burins        geometric microliths
-large cutting tools    prepared-core planning bone/ornament growth  hafted composites
-quartzite common       raw-material economy   symbolic evidence     bow/sickle/barb uses
-      |                      |                       |                    |
-      +----------------------+-----------------------+--------------------+
-Technology records choices; older techniques may persist beside newer ones.
-
-ASCII MASTER FLOW — PANEL 4/12: Indian site map: region, site, significance
-NORTH-WEST: Soan valley -> river-terrace lithics and sequence debates
-NORTH: Belan valley -> long prehistoric sequence toward food production
-CENTRAL: Bhimbetka -> shelters/rock art | Adamgarh -> Mesolithic evidence
-WEST: Bagor -> Mesolithic settlement, subsistence and domestication debate
-GANGA PLAIN: Sarai Nahar Rai, Mahadaha, Damdama -> burials and sedentism
-SOUTH: Attirampakkam -> early Acheulian and Middle Palaeolithic chronology
-DECCAN: Hunsgi-Baichbal -> quarry, factory and landscape organisation
-
-ASCII MASTER FLOW — PANEL 5/12: Mobility-subsistence-social loop
-SEASONAL RESOURCES -> MOVEMENT SCHEDULE -> CAMP TYPE -> TOOL KIT -> SHARING NETWORK
-        |                   |              |           |
-game, fish, plants    base/special camp  hearths    portable/composite
-        +-------------------+--------------+-----------+
-                            |
-                            v
-Repeated occupation and storage may increase without full farming or permanent villages.
-Burials show treatment of persons; rank needs patterned unequal evidence.
-
-ASCII MASTER FLOW — PANEL 6/12: Rock art and symbolic life: inference ladder
-PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT
-                         |
-                         v
-secure: image, technique, relative sequence and demonstrated association
-probable: hunting, dance, group action, animals and changing style
-uncertain: exact myth, deity, artist identity or direct ritual meaning
-                         |
-                         v
-VERDICT: art expands behavioural evidence but is not illustrated scripture.
-
-ASCII MASTER FLOW — PANEL 7/12: Mesolithic transition: adaptation, not revolution
-HOLOCENE WARMING + REGIONAL ECOLOGIES
-                 |
-                 v
-small game/fish/plant niches + locality + microlithic composite tools
-                 |
-      +----------+----------+
-      |                     |
-seasonal mobility      repeated/semi-sedentary camps
-      +----------+----------+
-                 v
-selective plant/animal management -> uneven pathways toward Neolithic production
-
-ASCII MASTER FLOW — PANEL 8/12: Limits and current research
-PROBLEM: sparse fossils + disturbed sites + broad tool labels + uncertain associations
-FALSE SHORTCUTS: one tool = one people | innovation = migration | burial = hierarchy
-RESPONSE: date contexts, reconstruct reduction sequence, compare regions, state confidence
-Refined chronometry and landscape study can revise early dates.
-VERDICT: Indian prehistory is a mosaic of long continuity and episodic innovation.
-
-ASCII MASTER FLOW — PANEL 9/12: Stone Age answer architecture
-10 MARKS: define phase -> diagnostic technology -> two sites -> subsistence -> caution
-15 MARKS: chronology -> lithic comparison -> ecology/mobility -> symbolic evidence -> limits
-20 MARKS: geological frame -> methods -> four-stage technology -> regional site map
-          -> economy/social life -> Mesolithic transition -> historiographical verdict
-MUST DISTINGUISH: relative/absolute date; artefact/assemblage; microlith/sedentism.
-CLOSE: technology records adaptive choices, not a uniform evolutionary ladder.
-
-ASCII MASTER FLOW — PANEL 10/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Start with macro-phase, then regional sequence, dated stratum and assemblage.
-2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.
-3. Separate lithic technology from hominin taxonomy, language and group identity.
-VERDICT: Broad chronology guides comparison; site context controls the claim.
-
-ASCII MASTER FLOW — PANEL 11/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Acheulian is a technology, Levallois a method and microlith a tool element.
-2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect.
-3. Mesolithic domestication and sedentariness must be established site by site.
-VERDICT: Transition means changing combinations, overlap and regional coexistence.
-
-ASCII MASTER FLOW — PANEL 12/12: Integrated answer spine and qualified conclusion
-ANSWER SPINE
-1. Use the 2019 Denisovan PYQ to separate population, place and geological period.
-2. Compare phases through tools, ecology, mobility, habitation, art and burials.
-3. Write claim -> site/assemblage -> significance -> date/context limit -> verdict.
-VERDICT: Indian prehistory is regionally varied history reconstructed without texts.
++----------------------------------------------------------------------------------------------+
+| PANEL 01/14 — MASTER QUESTION AND EVIDENCE RULE                                              |
++----------------------------------------------------------------------------------------------+
+| How can text-free deep time become evidence-based history?                                   |
+| LITHICS + STRATIGRAPHY + DATES + FAUNA/FLORA + BODIES + ART + LANDSCAPE                      |
+| OBSERVE -> ASSOCIATE -> DATE -> INTERPRET -> QUALIFY                                         |
+| Verdict: material abundance permits history, but confidence varies by context.               |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 02/14 — CHRONOLOGY WITHOUT A PAN-INDIAN LADDER                                         |
++----------------------------------------------------------------------------------------------+
+| Lower Palaeolithic -> Middle Palaeolithic -> Upper Palaeolithic -> Mesolithic                |
+| bifaces/core-flake -> prepared flakes -> blades/burins -> microlithic composites             |
+| MACRO PHASE -> REGIONAL SEQUENCE -> DATED STRATUM -> ASSEMBLAGE                              |
+| Transitions overlap; phase labels are neither races nor universal dates.                     |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 03/14 — PLEISTOCENE-HOLOCENE AND DATING                                                |
++----------------------------------------------------------------------------------------------+
+| Climate/river/sea-level change -> resources shift -> human choices change                    |
+| Stratigraphy = relative order | radiocarbon = suitable organics                              |
+| Luminescence = mineral exposure event | typology = comparison, not sole date                 |
+| A date belongs first to the sampled event; redeposition and error matter.                    |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 04/14 — LITHIC OPERATIONAL CHAIN                                                       |
++----------------------------------------------------------------------------------------------+
+| RAW STONE -> CORE -> FLAKE/BLADE -> RETOUCH/BACKING -> HAFT/USE -> DISCARD                   |
+| Read cortex, hammerstones, rough-outs, debitage, wear, residues and spacing.                 |
+| Primary context preserves activity relation; secondary context is displaced.                 |
+| Tool form suggests function; assemblage and use evidence test it.                            |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 05/14 — LOWER PALAEOLITHIC AND ACHEULIAN                                               |
++----------------------------------------------------------------------------------------------+
+| Acheulian = assemblage marked by bifacial handaxes and cleavers.                             |
+| Also retain choppers, flakes, cores, hammerstones and resharpening debris.                   |
+| Soanian/Madrasian cannot be treated as sealed races or civilisations.                        |
+| Technology records learned choices, not one hominin species.                                 |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 06/14 — REGIONAL LOWER PALAEOLITHIC LANDSCAPES                                         |
++----------------------------------------------------------------------------------------------+
+| Soan-Siwalik: terrace lithics + fluvial caution                                              |
+| Attirampakkam: deep Acheulian -> early regional Middle Palaeolithic transition               |
+| Hunsgi-Baichbal/Isampur: water + quarry + manufacture + habitation                           |
+| Bhimbetka/Narmada/Son/Belan: recurrent corridors with different contexts.                    |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 07/14 — NARMADA HOMININ CONTROL                                                        |
++----------------------------------------------------------------------------------------------+
+| 1982 Arun Sonakia -> Hathnora cranial fragment in Narmada gravel context                     |
+| Associated fauna and nearby late Acheulian tools; later central-valley finds                 |
+| Competing labels: advanced Homo erectus / archaic Homo sapiens / intermediate                |
+| Safe claim: rare archaic hominin evidence; age, taxon and authorship debated.                |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 08/14 — MIDDLE PALAEOLITHIC                                                            |
++----------------------------------------------------------------------------------------------+
+| Flakes + scrapers + points + borers; older bifaces may continue.                             |
+| LEVALLOIS: shape convexities -> prepare platform -> detach planned flake                     |
+| Attirampakkam, Nevasa, Didwana and Son-Belan show regional sequences.                        |
+| Levallois is a method, not a finished tool or biological population.                         |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 09/14 — UPPER PALAEOLITHIC                                                             |
++----------------------------------------------------------------------------------------------+
+| Parallel-sided blades + burins + some bone tools                                             |
+| Kurnool caves: organic tools/fauna | Patne/Bhimbetka: eggshell ornaments                     |
+| Ochre, beads and special objects widen evidence for communication.                           |
+| Symbolism is supportable; exact ritual, deity or social code is not.                         |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 10/14 — LIFEWAYS AND INFERENCE LIMITS                                                  |
++----------------------------------------------------------------------------------------------+
+| Plants + game + fish + turtles + shellfish -> broad flexible subsistence                     |
+| Quarry -> task camp -> recurrent camp -> shelter = linked settlement system                  |
+| Fire/hearth claims require anthropogenic burning in secure context.                          |
+| Sharing and learning are plausible; rank and gender need independent evidence.               |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 11/14 — MESOLITHIC TECHNOLOGY AND RESIDENCE                                            |
++----------------------------------------------------------------------------------------------+
+| Fine stone -> bladelet -> backed/geometric microlith -> composite implement                  |
+| Broad-spectrum niches -> processing/storage -> varied residence                              |
+| Microliths can pre-date the Holocene and continue with food production.                      |
+| Semi-sedentism needs a bundle: deposits, huts, hearths, seasonality, burials.                |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 12/14 — MESOLITHIC REGIONAL MAP                                                        |
++----------------------------------------------------------------------------------------------+
+| Bagor: long sequence + disputed domesticates | Langhnaj: burials/wild fauna                  |
+| Adamgarh: long sequence; date/stratigraphy caution | Bhimbetka: layered art                  |
+| Sarai Nahar Rai/Mahadaha/Damdama: wetlands + burials + longer residence                      |
+| Chopani Mando: huts/grinding/wild rice | Baghor II: microlith manufacture.                   |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 13/14 — BURIALS, ROCK ART AND TRANSITION                                               |
++----------------------------------------------------------------------------------------------+
+| Burial -> treatment/memory; belief, kinship and hierarchy need patterns.                     |
+| Bhimbetka superimposition -> relative order; paintings span several periods.                 |
+| Grinding/pottery/wild rice -> processing/use, not automatic cultivation.                     |
+| Foraging, management, herding and cultivation overlapped regionally.                         |
++----------------------------------------------------------------------------------------------+
+                                              |
+                                              v
++----------------------------------------------------------------------------------------------+
+| PANEL 14/14 — UPSC EXECUTION AND QUALIFIED VERDICT                                           |
++----------------------------------------------------------------------------------------------+
+| PRELIMS: period + region + technology + certainty; eliminate category errors.                |
+| 2019 Denisovan: archaic human population; no Indian fossil claim follows.                    |
+| MAINS: claim -> named site/assemblage -> analysis -> qualification -> comparison.            |
+| VERDICT: Indian prehistory is a regional mosaic, not a teleological ladder.                  |
++----------------------------------------------------------------------------------------------+

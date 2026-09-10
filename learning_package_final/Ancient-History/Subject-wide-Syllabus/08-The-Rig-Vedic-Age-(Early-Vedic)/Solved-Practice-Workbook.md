@@ -1,727 +1,951 @@
 ---
-title: "The Rig Vedic Age (Early Vedic) — Solved Practice Workbook"
+title: "The Rig Vedic Age (Early Vedic): Solved Practice Workbook"
 topic_key: ancient-indian-history-08
 ---
-# The Rig Vedic Age (Early Vedic) — Solved Practice Workbook
+# The Rig Vedic Age (Early Vedic): Solved Practice Workbook
+
+> **Exact practice contract:** 32 original hard MCQs appear before PYQs; keys rotate A -> B -> C -> D exactly eight times; 128 option explanations and 32 examiner traps are unique. Verified PYQs retain official/provisional-key discipline. Six original Mains models are independently word-counted.
 
 ## BASIC MCQS / REMEDIATION
 
-### Audited MCQ Set: 40 Total Questions = 32 Core + 8 Remedial — [CORE PRELIMS]
+### 32 ORIGINAL HARD MCQS
 
-Every question has topic-specific plausible options and a question-specific explanation. Questions 1-32 are core; 33-40 are remedial. Correct answers rotate A -> B -> C -> D.
+> **Exact practice contract:** These 32 questions appear before every PYQ. Correct keys rotate A -> B -> C -> D exactly eight times. All 128 option explanations and all 32 examiner traps are question-specific.
 
-#### MCQ 1
+#### Q1
 
-Which one of the following best describes the Rig Veda as a historical source?
+1
+Which formulation best describes the Rig Veda as a historical source?
 
-A. a layered orally transmitted ritual-poetic corpus containing historical clues
+- A. A layered oral ritual-poetic corpus containing historical clues
 
-B. a regular law code of a territorial state
+- B. A territorial tax register arranged annually, without chronological or source qualification
 
-C. a census of Early Vedic households
+- C. A neutral census of all social groups, as a direct material and social identity
 
-D. a direct chronicle of one migration event
+- D. A continuous chronicle of one migration, throughout every region and textual layer
 
-**Answer: A.** The Rig Veda preserves language, ritual, geography and social vocabulary, but its genre and layers preclude treating it as census, law code or straightforward chronicle.
+**Answer: A.**
 
-#### MCQ 2
+**Option-wise explanation:**
 
-The conventional c. 1500-1000 BCE range for the Rig Vedic phase should be used as
+- **A:** Correct: genre, layering and oral transmission are all preserved. [Q1-A]
+- **B:** Incorrect: no annual territorial revenue register exists. [Q1-B]
+- **C:** Incorrect: elite poetic visibility is not a social census. [Q1-C]
+- **D:** Incorrect: the corpus is not a single-event narrative. [Q1-D]
 
-A. proof of later Vedic territorial monarchy
+> **Examiner trap 1:** Source value must be paired with genre and representativeness limits.
 
-B. a working chronological frame qualified by textual layering
+#### Q2
 
-C. the exact date of every hymn
+2
+Which books are conventionally treated as the older Rigvedic family books?
 
-D. the date of Mature Harappan urbanism
+- A. Books 1 and 10 only, without chronological or source qualification
 
-**Answer: B.** It is a useful broad frame. Individual hymns and textual layers cannot all be assigned one precise date, and Mature Harappan/later Vedic contexts are distinct.
+- B. Books 2-7, as a direct material and social identity
 
-#### MCQ 3
+- C. Books 8 and 9 only, throughout every region and textual layer
 
-Consider the following statements about Rigvedic geography:
+- D. All ten books as one layer, as a complete territorial institution
 
-1. Much of its broad milieu is north-western.
-2. Sapta-Sindhu is important to this geography.
-3. Later Kuru-Panchala focus can be projected onto every Rigvedic layer.
+**Answer: B.**
 
-Which are correct?
+**Option-wise explanation:**
 
-A. 1 only
+- **A:** Incorrect: both books contain important later-arranged material. [Q2-A]
+- **B:** Correct: Books 2-7 form the conventional family-book baseline. [Q2-B]
+- **C:** Incorrect: Book 9 is a Soma collection and Book 8 is not the family-book set. [Q2-C]
+- **D:** Incorrect: relative layering prevents a single-layer treatment. [Q2-D]
 
-B. 1, 2 and 3
+> **Examiner trap 2:** Family-book chronology is relative, not an exact calendar date.
 
-C. 1 and 2 only
+#### Q3
 
-D. 2 and 3 only
+3
+The broad c. 1500/1200-1000 BCE range should be used as
 
-**Answer: C.** Statements 1 and 2 are correct. Kuru-Panchala is important for later Vedic comparison, not an automatic setting for all Rigvedic material.
+- A. the exact date of every hymn, as a direct material and social identity
 
-#### MCQ 4
+- B. proof that Late Harappan equals Rigvedic, throughout every region and textual layer
 
-Which one of the following pairs is correctly matched?
+- C. a debated working horizon controlled by textual layers
 
-A. Sarasvati - completely uncontested modern identification
+- D. the fixed beginning of iron-based territorial monarchy
 
-B. Parushni - Beas
+**Answer: C.**
 
-C. Vipasha - Ravi
+**Option-wise explanation:**
 
-D. Shutudri - Sutlej
+- **A:** Incorrect: composition and arrangement occurred over time. [Q3-A]
+- **B:** Incorrect: overlap permits contact but not cultural identity. [Q3-B]
+- **C:** Correct: the range is a working frame, not a uniform stamp. [Q3-C]
+- **D:** Incorrect: widespread iron and territorial monarchy belong mainly later. [Q3-D]
 
-**Answer: D.** Shutudri-Sutlej is a high-yield pair. Parushni is Ravi, Vipasha is Beas, and Sarasvati's identification requires qualification.
+> **Examiner trap 3:** A broad range cannot erase internal textual chronology.
 
-#### MCQ 5
+#### Q4
 
-The term *rajan* in the Rigvedic context is most appropriately understood as
+4
+Which river pair is securely matched?
 
-A. a kin-based chief whose authority was not that of a mature territorial monarch
+- A. Parushni-Beas, throughout every region and textual layer
 
-B. a later Buddhist monastic office
+- B. Vipasha-Ravi, as a complete territorial institution
 
-C. an emperor with a standing bureaucracy
+- C. Asikni-Jhelum, without chronological or source qualification
 
-D. a regular tax commissioner
+- D. Shutudri-Sutlej, as a direct material and social identity
 
-**Answer: A.** The *rajan* is a chief embedded in tribe, kinship, warfare and ritual. A tax bureaucracy and territorial monarchy are later-state projections.
+**Answer: D.**
 
-#### MCQ 6
+**Option-wise explanation:**
 
-Which one of the following best expresses the role of *sabha*, *samiti* and *vidatha*?
+- **A:** Incorrect: Parushni is associated with Ravi. [Q4-A]
+- **B:** Incorrect: Vipasha is associated with Beas. [Q4-B]
+- **C:** Incorrect: Asikni is associated with Chenab. [Q4-C]
+- **D:** Correct: Shutudri is the Sutlej. [Q4-D]
 
-A. They were later Vedic royal sacrifices.
+> **Examiner trap 4:** Close river options are defeated by memorising the Punjab sequence.
 
-B. They indicate collective/deliberative arenas but not modern democracy.
+#### Q5
 
-C. They were identical modern parliaments.
+5
+Sapta-Sindhu is best understood as
 
-D. They prove women held every political office.
+- A. a flexible north-western river-cultural horizon
 
-**Answer: B.** The assemblies show participation and limits on chiefly authority. Their membership and power cannot be equated with modern representative institutions.
+- B. a surveyed seven-district kingdom, without chronological or source qualification
 
-#### MCQ 7
+- C. the whole Ganga plain under one ruler, as a direct material and social identity
 
-Consider the following statements:
+- D. a synonym for the Mature Harappan state, throughout every region and textual layer
 
-1. *Bali* was an offering/tribute in the Rigvedic setting.
-2. It demonstrates a fully developed regular land-tax bureaucracy.
-3. Gifts and redistribution mattered to chiefly authority.
+**Answer: A.**
 
-Which are correct?
+**Option-wise explanation:**
 
-A. 2 and 3 only
+- **A:** Correct: it identifies a broad remembered river world. [Q5-A]
+- **B:** Incorrect: the expression is not an administrative survey. [Q5-B]
+- **C:** Incorrect: the eastern Ganga focus is later. [Q5-C]
+- **D:** Incorrect: textual geography cannot be equated with Harappan polity. [Q5-D]
 
-B. 1, 2 and 3
+> **Examiner trap 5:** Do not turn poetic geography into a bounded territorial state.
 
-C. 1 and 3 only
+#### Q6
 
-D. 1 only
+6
+In an older Rigvedic context, grama can denote
 
-**Answer: C.** Statements 1 and 3 fit a chiefship/gift economy. Statement 2 imports a mature revenue system into the early Vedic context.
+- A. only a revenue village, without chronological or source qualification
 
-#### MCQ 8
+- B. a moving, fighting or kin group, as a direct material and social identity
 
-Which one of the following is the most defensible description of the Rigvedic economy?
+- C. a four-varna council, throughout every region and textual layer
 
-A. Only hunting, no cultivation
+- D. an iron-smelting town, as a complete territorial institution, without chronological or source qualification
 
-B. A fully monetised urban economy
+**Answer: B.**
 
-C. A purely nomadic world without craft or exchange
+**Option-wise explanation:**
 
-D. Cattle-centred pastoral predominance within mixed agro-pastoral livelihoods
+- **A:** Incorrect: the later settled-village meaning is not universal. [Q6-A]
+- **B:** Correct: mobile and martial group senses are contextually important. [Q6-B]
+- **C:** Incorrect: grama is not a varna institution. [Q6-C]
+- **D:** Incorrect: the term does not identify an iron urban centre. [Q6-D]
 
-**Answer: D.** Cattle shaped wealth and values, but cultivation, water use, crafts and exchange are also visible. Neither pure nomadism nor later urban monetisation is accurate.
+> **Examiner trap 6:** Historical semantics controls translation; dictionary familiarity does not.
 
-#### MCQ 9
+#### Q7
 
-Which textual/material combination best supports the statement that agriculture was known in the Rigvedic world?
+7
+The Rigvedic rajan is most safely described as
 
-A. ploughing, sowing, harvesting, wells and draught animals
+- A. an elected modern president, as a direct material and social identity
 
-B. Mauryan revenue records
+- B. an emperor with provincial governors, throughout every region and textual layer
 
-C. iron ploughshares and punch-marked coins
+- C. a kin-based chief and ritual patron, as a complete territorial institution
 
-D. large-scale royal canal bureaucracy
+- D. a salaried tax collector, without chronological or source qualification
 
-**Answer: A.** Agricultural vocabulary and water/draught references establish cultivation. They do not establish iron-based, coin-based or later state-managed agriculture.
+**Answer: C.**
 
-#### MCQ 10
+**Option-wise explanation:**
 
-Why should cattle prominence not be converted into a claim that agriculture was absent?
+- **A:** Incorrect: modern electoral categories are anachronistic. [Q7-A]
+- **B:** Incorrect: a provincial bureaucracy is not securely attested. [Q7-B]
+- **C:** Correct: protection, warfare, ritual and redistribution define the role. [Q7-C]
+- **D:** Incorrect: revenue collection does not exhaust chiefly authority. [Q7-D]
 
-A. All Rigvedic groups were settled grain farmers.
+> **Examiner trap 7:** Real authority need not equal mature territorial monarchy.
 
-B. Ploughing, sowing, harvesting and water-related vocabulary indicate cultivation alongside pastoral values.
+#### Q8
 
-C. Cattle terms never occur in the corpus.
+8
+Which office-role pair is correctly matched?
 
-D. Agriculture is mentioned only in Upanishads.
+- A. Purohita-permanent cavalry commander, throughout every region and textual layer
 
-**Answer: B.** The relevant distinction is predominance, not exclusion: cattle wealth was central while agriculture and related livelihoods were known.
+- B. Senani-chief tax assessor, as a complete territorial institution
 
-#### MCQ 11
+- C. Gramani-temple-image superintendent, without chronological or source qualification
 
-Which one of the following is correctly matched?
+- D. Purohita-priestly adviser and ritual supporter
 
-A. Agni - sacrificial fire mediator
+**Answer: D.**
 
-B. Indra - ritual fire mediator
+**Option-wise explanation:**
 
-C. Varuna - only cattle raid leader
+- **A:** Incorrect: the purohita's defining role was priestly-political counsel. [Q8-A]
+- **B:** Incorrect: senani is connected with military leadership. [Q8-B]
+- **C:** Incorrect: no temple-image bureaucracy defines the office. [Q8-C]
+- **D:** Correct: ritual counsel and political support fit the purohita. [Q8-D]
 
-D. Soma - later legal code
+> **Examiner trap 8:** Functional titles show specialisation without proving ministries.
 
-**Answer: C.** Agni mediates sacrificial fire. Indra is associated with battle/rain, Varuna with order/rita, and soma is a ritual substance.
+#### Q9
 
-#### MCQ 12
+9
+Which statement about sabha, samiti and vidatha is safest?
 
-The concept of *rita* is best used to describe
+- A. They indicate collective arenas with uncertain membership
 
-A. a territorial tax schedule
+- B. They were identical houses of a bicameral parliament
 
-B. a coinage system
+- C. They prove universal adult suffrage, as a direct material and social identity
 
-C. a fixed later caste law
+- D. They excluded all ritual and distributive functions
 
-D. a principle of order associated with Varuna and the moral-cosmic world
+**Answer: A.**
 
-**Answer: D.** *Rita* is a Rigvedic principle of order, not a mature legal/revenue/caste code.
+**Option-wise explanation:**
 
-#### MCQ 13
+- **A:** Correct: plurality and uncertainty must be preserved. [Q9-A]
+- **B:** Incorrect: modern bicameral identity is invented. [Q9-B]
+- **C:** Incorrect: no universal franchise is demonstrated. [Q9-C]
+- **D:** Incorrect: vidatha especially has ritual and distributive associations. [Q9-D]
 
-Which one of the following is a safe statement about *yajna* in the Rigvedic world?
+> **Examiner trap 9:** Participation is not the same claim as modern democracy.
 
-A. It linked priests, patrons, gifts and deities through ritual.
+#### Q10
 
-B. It was a later administrative court.
+10
+Vidatha is commonly treated as
 
-C. It was unrelated to social relationships.
+- A. a regular land-revenue office, without chronological or source qualification
 
-D. It proves ashvamedha was the ordinary early Vedic royal ritual.
+- B. a multifunctional ritual-military-distributive gathering
 
-**Answer: A.** Sacrifice connected ritual mediation, patronage and gift. It should not automatically be equated with later elaborate royal rituals.
+- C. a hereditary artisan guild, throughout every region and textual layer
 
-#### MCQ 14
+- D. a permanent walled capital, as a complete territorial institution
 
-Which statement about *dasa/dasyu* is most evidence-sensitive?
+**Answer: B.**
 
-A. They prove a complete census of indigenous communities.
+**Option-wise explanation:**
 
-B. They are contextual categories that may mark ritual, linguistic, political or social boundaries.
+- **A:** Incorrect: assessed fiscal administration is not its meaning. [Q10-A]
+- **B:** Correct: its functions vary across ritual, military and social contexts. [Q10-B]
+- **C:** Incorrect: occupational guild structure is not established. [Q10-C]
+- **D:** Incorrect: a gathering is not a capital city. [Q10-D]
 
-C. They are identical with a later jati list.
+> **Examiner trap 10:** Do not flatten changing textual functions into one modern institution.
 
-D. They were fixed biological races in every hymn.
+#### Q11
 
-**Answer: B.** The terms must be read in context; fixed racial or later caste translations project modern/later categories into textual conflict language.
+11
+The Battle of Ten Kings is associated with
 
-#### MCQ 15
+- A. Janaka on the Ganga, as a direct material and social identity, throughout every region and textual layer
 
-Consider the following statements about early varna evidence:
+- B. Ajatashatru at Rajagriha, throughout every region and textual layer
 
-1. Social differentiation was visible.
-2. The later rigid fourfold caste order can be assumed unchanged.
-3. Textual context and chronology matter, including for the Purusha Sukta.
+- C. Sudas of the Bharatas near Parushni, as a complete territorial institution
 
-Which are correct?
+- D. Ashoka on the Indus, without chronological or source qualification
 
-A. 1 only
+**Answer: C.**
 
-B. 1, 2 and 3
+**Option-wise explanation:**
 
-C. 1 and 3 only
+- **A:** Incorrect: Janaka belongs to a later Vedic-Upanishadic setting. [Q11-A]
+- **B:** Incorrect: Ajatashatru belongs to the mahajanapada age. [Q11-B]
+- **C:** Correct: Book 7 praises Sudas in the Parushni conflict. [Q11-C]
+- **D:** Incorrect: Ashoka is Mauryan and much later. [Q11-D]
 
-D. 2 and 3 only
+> **Examiner trap 11:** Named memory must still be qualified as patronage-shaped victory poetry.
 
-**Answer: C.** Differentiation is visible and the Purusha Sukta requires care. Later rigid hierarchy cannot simply be read back into all early Rigvedic society.
+#### Q12
 
-#### MCQ 16
+12
+Dasa and dasyu should be interpreted as
 
-Which one of the following best states the limit of gender evidence in the Rig Veda?
+- A. one securely identified archaeological culture
 
-A. One female textual figure proves universal equality.
+- B. a fixed skin-colour census, as a complete territorial institution
 
-B. Textual evidence proves every assembly had identical gender access.
+- C. all speakers of one non-Indo-Aryan language, without chronological or source qualification
 
-C. No woman appears in any source.
+- D. contextual political, ritual, social or mythic opponents
 
-D. Some visibility and participation are discussed, but textual prominence is not a census of uniform social power.
+**Answer: D.**
 
-**Answer: D.** The evidence can support qualified discussion of women's roles, not a universal conclusion about equality, exclusion or institutional access.
+**Option-wise explanation:**
 
-#### MCQ 17
+- **A:** Incorrect: pottery or burial assemblages do not equal textual labels. [Q12-A]
+- **B:** Incorrect: the terms do not supply biological classification. [Q12-B]
+- **C:** Incorrect: linguistic identity cannot be universalised from the labels. [Q12-C]
+- **D:** Correct: meanings shift with passage and relationship. [Q12-D]
 
-Dasharajna is most appropriately used as evidence for
+> **Examiner trap 12:** Reject racial simplification without denying conflict or subordination.
 
-A. tribal conflict, chiefly prestige and shifting alliances in a Rigvedic milieu
+#### Q13
 
-B. a fully territorial empire
+13
+Gavishti most directly helps connect
 
-C. a Harappan administrative war record
+- A. cattle wealth with search, raid and conflict, as a complete territorial institution
 
-D. a later Mauryan campaign
+- B. iron smelting with tax collection, without chronological or source qualification
 
-**Answer: A.** The Battle of Ten Kings is a Rigvedic tradition of conflict involving Sudas/Bharatas and a confederacy, not proof of territorial empire or another period.
+- C. temple building with image worship, as a direct material and social identity
 
-#### MCQ 18
+- D. urban guilds with coin minting, throughout every region and textual layer, as a complete territorial institution
 
-Which one of the following is the best caution about horse/chariot vocabulary?
+**Answer: A.**
 
-A. It is an archaeological census of all animals and vehicles.
+**Option-wise explanation:**
 
-B. Textual prominence must be distinguished from securely dated archaeological evidence and quantitative prevalence.
+- **A:** Correct: cattle and warfare meet in this diagnostic vocabulary. [Q13-A]
+- **B:** Incorrect: neither iron nor tax administration is implied. [Q13-B]
+- **C:** Incorrect: monumental temple worship is not the relevant setting. [Q13-C]
+- **D:** Incorrect: guild and mint structures are later projections. [Q13-D]
 
-C. It proves all archaeological cultures spoke Vedic Sanskrit.
+> **Examiner trap 13:** One term can reveal an economic-political mechanism, not a complete economy.
 
-D. It establishes a later iron economy.
+#### Q14
 
-**Answer: B.** Texts can reveal values and imagery; they do not by themselves count animals, establish archaeological cultures' language or date technologies.
+14
+Pastoral predominance means that
 
-#### MCQ 19
+- A. agriculture was unknown, without chronological or source qualification
 
-Consider the following statements:
+- B. cattle-centred values coexisted with cultivation and crafts
 
-1. Archaeological cultures can illuminate technology and chronology.
-2. They automatically identify the language of their users.
-3. Text-archaeology correlation requires context and caution.
+- C. every community migrated continuously, throughout every region and textual layer
 
-Which are correct?
+- D. land revenue financed a bureaucracy, as a complete territorial institution
 
-A. 1, 2 and 3
+**Answer: B.**
 
-B. 1 only
+**Option-wise explanation:**
 
-C. 1 and 3 only
+- **A:** Incorrect: ploughing, yava, wells and harvesting are attested. [Q14-A]
+- **B:** Correct: relative cattle emphasis fits the mixed economy. [Q14-B]
+- **C:** Incorrect: mobility varied and settlement existed. [Q14-C]
+- **D:** Incorrect: regular fiscal bureaucracy is not securely attested. [Q14-D]
 
-D. 2 and 3 only
+> **Examiner trap 14:** Predominance is a statement of relative weight, not exclusivity.
 
-**Answer: C.** Archaeology is crucial for material contexts, but it does not speak a language. Correlation is a historical inference requiring limits.
+#### Q15
 
-#### MCQ 20
+15
+Which statement about bali is most accurate for the Early Vedic context?
 
-Which one of the following is a sound conclusion about Rigvedic political organisation?
+- A. It was a struck silver coin, as a direct material and social identity
 
-A. Assemblies make all social hierarchy impossible.
+- B. It was a compulsory cadastral land tax, throughout every region and textual layer
 
-B. A permanent standing army is securely documented.
+- C. It was an offering or tribute rather than a mature regular tax
 
-C. A central territorial bureaucracy was fully formed.
+- D. It was a temple-entry fee, without chronological or source qualification
 
-D. Kinship, ritual and warfare framed chiefly authority without a mature state structure.
+**Answer: C.**
 
-**Answer: D.** This captures chiefship, social differentiation and limited offices while avoiding later state and egalitarian projections.
+**Option-wise explanation:**
 
-#### MCQ 21
+- **A:** Incorrect: bali is not a coin denomination. [Q15-A]
+- **B:** Incorrect: assessed cadastral taxation is anachronistic. [Q15-B]
+- **C:** Correct: customary offering or tribute fits limited chiefship. [Q15-C]
+- **D:** Incorrect: temple institutions do not define the context. [Q15-D]
 
-Which pair most clearly distinguishes Early from Later Vedic tendencies?
+> **Examiner trap 15:** Fiscal vocabulary must be scaled to the political formation.
 
-A. Sapta-Sindhu/kin chiefship versus Kuru-Panchala/stronger territorial kingship
+#### Q16
 
-B. Magadha/iron economy versus Harappan cities
+16
+Nishka should not automatically be called a coin because it was
 
-C. Buddhist sangha versus Mughal mansabdari
+- A. a permanent tax district, throughout every region and textual layer
 
-D. Mauryan coinage versus Gupta temples
+- B. a type of assembly, as a complete territorial institution, without chronological or source qualification
 
-**Answer: A.** Early Vedic north-western kin chiefship contrasts with later Kuru-Panchala, agriculture/surplus and stronger territorial authority.
+- C. a ploughing ritual, without chronological or source qualification
 
-#### MCQ 22
+- D. a valuable metal object or ornament, as a direct material and social identity
 
-Why is an Early-Later Vedic comparison valuable?
+**Answer: D.**
 
-A. It makes Rigvedic evidence unnecessary.
+**Option-wise explanation:**
 
-B. It shows trends in economy, polity, ritual and social hierarchy while retaining continuities.
+- **A:** Incorrect: nishka is not territorial administration. [Q16-A]
+- **B:** Incorrect: it is not a deliberative body. [Q16-B]
+- **C:** Incorrect: it is not the name of the plough. [Q16-C]
+- **D:** Correct: value does not prove standard struck coinage. [Q16-D]
 
-C. It allows later institutions to be projected backward.
+> **Examiner trap 16:** Valuable metal and monetised currency are distinct claims.
 
-D. It proves a sudden total rupture.
+#### Q17
 
-**Answer: B.** The comparison clarifies direction of change but should retain continuities in pastoralism, kinship and ritual.
+17
+Which description best fits the Early Vedic household?
 
-#### MCQ 23
+- A. A productive kin unit within a patriarchal tendency
 
-Which one of the following is NOT a Rigvedic-period marker?
+- B. A state-run collective farm, without chronological or source qualification
 
-A. sabha and samiti
+- C. A monastery governed by a sangha, as a direct material and social identity
 
-B. cattle wealth as a major value
+- D. An urban craft corporation, throughout every region and textual layer
 
-C. iron-centred agrarian economy
+**Answer: A.**
 
-D. kin-based *rajan*
+**Option-wise explanation:**
 
-**Answer: C.** Iron-centred expansion belongs to later Vedic developments. Cattle wealth, chiefship and assemblies are core early Vedic markers.
+- **A:** Correct: household, kinship, production and unequal authority intersect. [Q17-A]
+- **B:** Incorrect: state collectivisation is unsupported. [Q17-B]
+- **C:** Incorrect: Buddhist monastic institutions are later. [Q17-C]
+- **D:** Incorrect: guild-like urban corporations are not the baseline. [Q17-D]
 
-#### MCQ 24
+> **Examiner trap 17:** Household analysis must combine economy, kinship and gender.
 
-A Mains answer calls Rigvedic society ‘fully egalitarian’. The best correction is
+#### Q18
 
-A. ignore social evidence
+18
+Named female-seer traditions demonstrate
 
-B. replace it with fully rigid caste hierarchy
+- A. universal matriliny, without chronological or source qualification
 
-C. retain the claim because assemblies existed
+- B. female visibility without proving complete equality
 
-D. describe a stratifying kin-based society, with status and differentiation but without later rigid caste projection
+- C. absence of son preference, throughout every region and textual layer
 
-**Answer: D.** This avoids both romantic equality and anachronistic later caste rigidity.
+- D. automatic membership in every assembly, as a complete territorial institution
 
-#### MCQ 25
+**Answer: B.**
 
-Which one of the following is the safest use of the phrase ‘pastoral predominance’?
+**Option-wise explanation:**
 
-A. Cattle shaped wealth, gift, conflict and elite values, while cultivation and other livelihoods coexisted.
+- **A:** Incorrect: patrilineal tendencies remain visible. [Q18-A]
+- **B:** Correct: Ghosha or Lopamudra can qualify, not erase, patriarchy. [Q18-B]
+- **C:** Incorrect: textual valuation of sons persists. [Q18-C]
+- **D:** Incorrect: assembly participation cannot be universalised. [Q18-D]
 
-B. Farming was unknown.
+> **Examiner trap 18:** A visible exceptional or elite voice is not a social census.
 
-C. The economy was a later tax state.
+#### Q19
 
-D. All people migrated continually with no settlement.
+19
+The fourfold social scheme is most clearly articulated in
 
-**Answer: A.** The phrase identifies a relative emphasis. It does not erase agriculture or turn the economy into pure nomadism or later statehood.
+- A. the Nadi-stuti, as a direct material and social identity, throughout every region and textual layer
 
-#### MCQ 26
+- B. the Nasadiya Sukta, throughout every region and textual layer
 
-The 2026 Prelims route on Rigvedic irrigation, wells and draught power should be read as testing
+- C. the Purusha Sukta, Rig Veda 10.90, as a complete territorial institution
 
-A. the official key as final and binding
+- D. the Arthashastra, without chronological or source qualification
 
-B. textual/material vocabulary for mixed agriculture, without exaggerating its scale
+**Answer: C.**
 
-C. proof of a large canal state
+**Option-wise explanation:**
 
-D. a direct later Vedic iron economy
+- **A:** Incorrect: the river hymn maps poetic geography. [Q19-A]
+- **B:** Incorrect: Nasadiya questions creation. [Q19-B]
+- **C:** Correct: 10.90 names Brahmana, Rajanya, Vaishya and Shudra. [Q19-C]
+- **D:** Incorrect: the Arthashastra is a much later statecraft text. [Q19-D]
 
-**Answer: B.** The verified question supports bounded agricultural evidence. Its provisional key is not official, and the evidence does not establish later-scale irrigation.
+> **Examiner trap 19:** The named hymn must always carry its generally later Book 10 qualification.
 
-#### MCQ 27
+#### Q20
 
-Which one of the following is a correct source-critical sentence?
+20
+What follows most safely from the Purusha Sukta?
 
-A. Archaeology is unnecessary because the text is sacred.
+- A. Untouchability was fully institutionalised, throughout every region and textual layer
 
-B. Rita proves a universal legal constitution.
+- B. Every occupation was hereditary, as a complete territorial institution
 
-C. The Rig Veda suggests broad patterns, but genre, layer and textual prominence limit inference.
+- C. All older family books contain the same scheme, without chronological or source qualification
 
-D. One hymn determines all social practices.
+- D. A fourfold ideology was articulated without proving later caste rigidity
 
-**Answer: C.** The third sentence uses the corpus historically without either literalism or dismissal.
+**Answer: D.**
 
-#### MCQ 28
+**Option-wise explanation:**
 
-Which one of the following best explains why later royal rituals should not be used as ordinary Rigvedic evidence?
+- **A:** Incorrect: the hymn does not establish untouchability as a complete system. [Q20-A]
+- **B:** Incorrect: occupational closure cannot be inferred across society. [Q20-B]
+- **C:** Incorrect: the scheme's Book 10 location matters. [Q20-C]
+- **D:** Correct: ideology and social implementation must be distinguished. [Q20-D]
 
-A. They are not Vedic at all.
+> **Examiner trap 20:** Do not use a cosmic norm as transparent evidence of universal practice.
 
-B. They prove no early ritual existed.
+#### Q21
 
-C. They are modern inventions.
+21
+Which deity-function pair is correctly matched?
 
-D. Their elaboration and political use belong to later developments and cannot be assumed in early layers.
+- A. Agni-sacrificial mediation, as a complete territorial institution
 
-**Answer: D.** Early sacrifice is important, but later elaborate royal ritual and territorial sovereignty must not be projected backward.
+- B. Varuna-only chariot manufacture, without chronological or source qualification
 
-#### MCQ 29
+- C. Ushas-land-tax collection, as a direct material and social identity
 
-Which evidence chain is strongest for a Mains claim about Rigvedic society?
+- D. Soma-territorial surveying, throughout every region and textual layer
 
-A. a textual term -> its genre/context -> a broad pattern -> a stated limitation
+**Answer: A.**
 
-B. one memorised hymn name alone
+**Option-wise explanation:**
 
-C. a modern heritage listing as ancient social proof
+- **A:** Correct: Agni carries offerings and links humans with deities. [Q21-A]
+- **B:** Incorrect: Varuna is associated with order and sovereignty. [Q21-B]
+- **C:** Incorrect: Ushas personifies dawn and renewal. [Q21-C]
+- **D:** Incorrect: Soma is ritual drink, deity and inspiration. [Q21-D]
 
-D. a later Brahmana rule treated as early evidence
+> **Examiner trap 21:** Deity questions test functional associations, not later institutional roles.
 
-**Answer: A.** The sequence grounds a pattern in a source and explains its limit. The other paths mistake later or modern evidence for direct early social proof.
+#### Q22
 
-#### MCQ 30
+22
+Rta is best understood as
 
-Which is the best opening for an answer on Rigvedic polity?
+- A. a codified penal statute, without chronological or source qualification
 
-A. ‘Later Vedic monarchy existed unchanged from the beginning.’
+- B. cosmic-ritual-moral order and regularity, as a direct material and social identity
 
-B. ‘A layered ritual-poetic corpus points to kin-based chiefship, assemblies and limited offices, not a mature territorial state.’
+- C. a coin standard, throughout every region and textual layer, as a complete territorial institution
 
-C. ‘Rigvedic society had no authority at all.’
+- D. a territorial infantry unit, as a complete territorial institution
 
-D. ‘The Rig Veda provides a complete constitution.’
+**Answer: B.**
 
-**Answer: B.** The second wording combines source caution and a defensible historical pattern. It avoids both no-authority and mature-state caricatures.
+**Option-wise explanation:**
 
-#### MCQ 31
+- **A:** Incorrect: rta is wider and less juridically codified. [Q22-A]
+- **B:** Correct: truth, regularity and proper order converge in the term. [Q22-B]
+- **C:** Incorrect: it is not monetary metrology. [Q22-C]
+- **D:** Incorrect: it is not a military formation. [Q22-D]
 
-Consider the following statements:
+> **Examiner trap 22:** Translate concepts without forcing later legal categories onto them.
 
-1. *Purohita* and *senani* indicate specialised roles.
-2. Their presence proves a fully developed impersonal bureaucracy.
-3. Their roles can be discussed with chiefly ritual and warfare.
+#### Q23
 
-Which are correct?
+23
+Henotheism is useful only if it is treated as
 
-A. 1 only
+- A. a Rigvedic self-declared church creed, as a direct material and social identity
 
-B. 2 and 3 only
+- B. proof of strict monotheism, throughout every region and textual layer
 
-C. 1 and 3 only
+- C. a bounded modern label for hymnic exaltation of one deity
 
-D. 1, 2 and 3
+- D. evidence of idol temples, without chronological or source qualification
 
-**Answer: C.** The first and third are sound. Functional differentiation did not amount to a mature territorial bureaucracy.
+**Answer: C.**
 
-#### MCQ 32
+**Option-wise explanation:**
 
-Which final verdict is most appropriate for the Rig Vedic age?
+- **A:** Incorrect: the term is a modern analytical category. [Q23-A]
+- **B:** Incorrect: plural deities remain present. [Q23-B]
+- **C:** Correct: selective exaltation is captured without claiming a formal creed. [Q23-C]
+- **D:** Incorrect: the label does not establish temples or images. [Q23-D]
 
-A. It was only nomadic and warlike.
+> **Examiner trap 23:** Analytical terminology must not masquerade as indigenous self-description.
 
-B. It was wholly uniform across all groups.
+#### Q24
 
-C. It was already a later Vedic agrarian state.
+24
+Which assumption should be rejected for Early Vedic religion?
 
-D. It was a north-western, cattle-centred and kin-ordered world with mixed livelihoods, early differentiation and source limits.
+- A. Fire ritual and offering mattered, throughout every region and textual layer
 
-**Answer: D.** This conclusion retains pastoral predominance, agriculture, social/political complexity and the limits of a layered textual source.
+- B. Correct speech and metre mattered, as a complete territorial institution
 
-#### Remedial MCQ 33
+- C. Priestly mediation mattered, without chronological or source qualification
 
-Which one of the following is correctly matched?
+- D. Monumental temples and idol institutions defined the corpus
 
-A. Gomat - wealthy in cattle
+**Answer: D.**
 
-B. Varuna - only war god
+**Option-wise explanation:**
 
-C. Bali - regular land tax
+- **A:** Incorrect as a rejection: fire and offering are central evidence. [Q24-A]
+- **B:** Incorrect as a rejection: ritual speech and metre are significant. [Q24-B]
+- **C:** Incorrect as a rejection: priests mediated sacrifice. [Q24-C]
+- **D:** Correct: temple-image institutions cannot be assumed as the defining form. [Q24-D]
 
-D. Samiti - later coinage term
+> **Examiner trap 24:** Absence of a temple-centred baseline is not absence of sophisticated religion.
 
-**Answer: A.** *Gomat* is cattle wealth. *Bali* is not yet regular land tax, Varuna relates to order, and samiti is an assembly.
+#### Q25
 
-#### Remedial MCQ 34
+25
+Horse and chariot references most securely indicate
 
-Which one of the following is NOT a safe Early Vedic inference?
+- A. elite mobility, prestige and martial symbolism
 
-A. Cattle were a major form of wealth.
+- B. the number of horses in every household, without chronological or source qualification
 
-B. A fixed fourfold caste rigidity was already identical to later Vedic society.
+- C. one pottery culture's language, as a direct material and social identity
 
-C. Agriculture was known.
+- D. a territorial cavalry bureaucracy, throughout every region and textual layer
 
-D. Rajan was a tribal chief.
+**Answer: A.**
 
-**Answer: B.** Option B is the unsafe projection: early differentiation existed, but later rigid fourfold caste cannot be assumed unchanged. The other statements are qualified Rigvedic markers.
+**Option-wise explanation:**
 
-#### Remedial MCQ 35
+- **A:** Correct: value and function are safer than population statistics. [Q25-A]
+- **B:** Incorrect: hymn frequency cannot produce a household census. [Q25-B]
+- **C:** Incorrect: objects do not identify speech unaided. [Q25-C]
+- **D:** Incorrect: a bureaucratic cavalry establishment is not demonstrated. [Q25-D]
 
-Consider the following statements:
+> **Examiner trap 25:** Textual prominence establishes salience, not quantitative prevalence.
 
-1. Agni is associated with sacrificial fire.
-2. Indra is associated with battle/rain.
-3. Varuna is linked with *rita*.
+#### Q26
 
-Which are correct?
+26
+In older Rigvedic contexts, ayas should be read as
 
-A. 1 and 3 only
+- A. only wrought iron, without chronological or source qualification
 
-B. 1 and 2 only
+- B. metal, generally within a copper-bronze horizon
 
-C. 1, 2 and 3
+- C. a named river, throughout every region and textual layer
 
-D. 2 and 3 only
+- D. a tax on craftsmen, as a complete territorial institution
 
-**Answer: C.** All three are core deity-function matches. Learn functions rather than an exhaustive deity catalogue.
+**Answer: B.**
 
-#### Remedial MCQ 36
+**Option-wise explanation:**
 
-Why must *Dasa/Dasyu* not be treated as a fixed racial label?
+- **A:** Incorrect: automatic iron translation collapses chronology. [Q26-A]
+- **B:** Correct: the broad metal sense preserves Early Vedic context. [Q26-B]
+- **C:** Incorrect: ayas is not hydronymy. [Q26-C]
+- **D:** Incorrect: no craft tax is encoded in the word. [Q26-D]
 
-A. They never occur in Rigvedic material.
+> **Examiner trap 26:** Shyama ayas and major iron use belong chiefly to later comparison.
 
-B. They refer only to a known later dynasty.
+#### Q27
 
-C. They prove every conflict was economic.
+27
+Which conclusion about funerary practice is safest?
 
-D. They are contextual textual categories whose ritual, political, linguistic and social meanings require interpretation.
+- A. Only cremation ever occurred, as a direct material and social identity
 
-**Answer: D.** The terms appear in varied textual contexts; a fixed racial translation is methodologically unsafe.
+- B. Only burial ever occurred, throughout every region and textual layer
 
-#### Remedial MCQ 37
+- C. Cremation and burial traditions varied by layer and corpus
 
-Which one of the following is a correct Early-Later Vedic contrast?
+- D. Funerary hymns prove completed Upanishadic moksha doctrine
 
-A. Early north-western/Sapta-Sindhu versus later Kuru-Panchala/upper Ganga emphasis
+**Answer: C.**
 
-B. Early fixed caste versus later fluidity
+**Option-wise explanation:**
 
-C. Early territorial bureaucracy versus later tribal chiefship
+- **A:** Incorrect: burial evidence prevents an exclusive claim. [Q27-A]
+- **B:** Incorrect: cremation traditions prevent the reverse exclusive claim. [Q27-B]
+- **C:** Correct: plurality and chronology are the defensible formulation. [Q27-C]
+- **D:** Incorrect: later systematic liberation doctrine cannot be projected backward. [Q27-D]
 
-D. Early iron economy versus later stone economy
+> **Examiner trap 27:** Plural rites defeat universal statements based on one passage.
 
-**Answer: A.** The geography/polity trend in option A is valid. The other options reverse or distort the usual comparison.
+#### Q28
 
-#### Remedial MCQ 38
+28
+What can archaeology establish most securely for the Rigvedic problem?
 
-The verified 2023 GS-I route on Vedic society and religion is best handled by
+- A. The spoken language of Cemetery H, throughout every region and textual layer
 
-A. claiming an official model answer exists
+- B. The ethnicity of every PGW user, as a complete territorial institution
 
-B. using source-aware features, comparison and qualified continuity without inventing an official key
+- C. The exact date of a hymn, without chronological or source qualification
 
-C. ignoring religion because it is poetic
+- D. Material chronology, settlement, tools, diet and burial contexts
 
-D. treating the question as only about Harappan cities
+**Answer: D.**
 
-**Answer: B.** It is a verified Mains demand with no official model implied. A good answer uses material/source-aware features and continuity/change.
+**Option-wise explanation:**
 
-#### Remedial MCQ 39
+- **A:** Incorrect: material assemblage alone cannot reveal speech. [Q28-A]
+- **B:** Incorrect: PGW is not an ethnic label. [Q28-B]
+- **C:** Incorrect: textual composition needs independent philology. [Q28-C]
+- **D:** Correct: these are archaeology's direct evidentiary strengths. [Q28-D]
 
-The verified 2026 Prelims questions in this package have what key status?
+> **Examiner trap 28:** Correlation becomes error when an assemblage is turned into a people-name.
 
-A. official final answers are recorded here
+#### Q29
 
-B. no local paper exists
+29
+The Early-to-Later Vedic comparison is best framed as
 
-C. verified questions; provisional answer/key — not officially verified
+- A. a gradual regional reweighting with important continuities
 
-D. questions are fabricated practice
+- B. an overnight replacement of all institutions, without chronological or source qualification
 
-**Answer: C.** The questions are locally routed/verified but the Series-A key is provisional. No official answer letter is inferred or recorded.
+- C. a change from no farming to first farming, as a direct material and social identity
 
-#### Remedial MCQ 40
+- D. a shift from equality to the first hierarchy, throughout every region and textual layer
 
-Which is the safest final use of archaeology for the Rigvedic world?
+**Answer: A.**
 
-A. It automatically identifies Vedic Sanskrit speakers.
+**Option-wise explanation:**
 
-B. It replaces the Rig Veda entirely.
+- **A:** Correct: direction and continuity are both preserved. [Q29-A]
+- **B:** Incorrect: long transitions are not instantaneous. [Q29-B]
+- **C:** Incorrect: agriculture was already present. [Q29-C]
+- **D:** Incorrect: differentiation existed in the earlier phase. [Q29-D]
 
-C. It proves every horse reference is quantitatively common.
+> **Examiner trap 29:** Binary contrasts exaggerate change by erasing the Early Vedic baseline.
 
-D. It provides material chronology/context but cannot mechanically identify a language, people or textual layer.
+#### Q30
 
-**Answer: D.** Archaeology is essential but has its own object of evidence. It must be correlated carefully, not converted directly into linguistic or ethnic identity.
+30
+The 2026 Q10 well-and-draught route should be handled by
+
+- A. calling the provisional key official, without chronological or source qualification
+
+- B. testing each supporting item against the two propositions
+
+- C. treating sickles alone as proof of well lifting
+
+- D. inferring a large canal state, as a complete territorial institution
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: the locally held key is explicitly provisional. [Q30-A]
+- **B:** Correct: proposition-level matching controls the answer. [Q30-B]
+- **C:** Incorrect: cultivation tools do not prove the water-lifting mechanism. [Q30-C]
+- **D:** Incorrect: the evidence is much narrower than a canal bureaucracy. [Q30-D]
+
+> **Examiner trap 30:** Objective questions require statement-by-statement evidentiary matching.
+
+#### Q31
+
+31
+For the 2026 river question, the safest historical statement is
+
+- A. Vitasta-Chenab is secure, as a direct material and social identity
+
+- B. Asikni-Jhelum is secure, throughout every region and textual layer
+
+- C. Parushni-Ravi is secure while Yavyavati-Beas remains key-sensitive
+
+- D. all four pairs are secure, without chronological or source qualification
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Vitasta is Jhelum. [Q31-A]
+- **B:** Incorrect: Asikni is Chenab. [Q31-B]
+- **C:** Correct: the secure pair is separated from the disputed/provisional-key issue. [Q31-C]
+- **D:** Incorrect: two pairs are plainly reversed and pair four needs caution. [Q31-D]
+
+> **Examiner trap 31:** Report a provisional key without converting a contested pair into canonical fact.
+
+#### Q32
+
+32
+Which answer sequence is most defensible?
+
+- A. List Sanskrit terms without argument, throughout every region and textual layer
+
+- B. Begin with Later Vedic institutions, as a complete territorial institution
+
+- C. Equate text, pottery and ethnicity, without chronological or source qualification
+
+- D. define -> date -> locate -> explain mechanisms -> qualify -> compare
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: terminology without inference earns little analytical credit. [Q32-A]
+- **B:** Incorrect: backward projection distorts the phase. [Q32-B]
+- **C:** Incorrect: independent evidence classes cannot be collapsed. [Q32-C]
+- **D:** Correct: the sequence produces an auditable historical argument. [Q32-D]
+
+> **Examiner trap 32:** An answer spine is a reasoning order, not a decorative catalogue.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified-question protocol — [CORE PRELIMS + CORE MAINS]
+### VERIFIED PYQ OWNERSHIP AND KEY DISCIPLINE
 
-### Verified Question 1 - 2026 Prelims Set A Q10: Rigvedic Irrigation, Wells and Draught Power
+> The 2026 Set-A question wording is verified against the locally held paper. Its locally held answer key is explicitly **provisional, not an official final UPSC key**. The 2023 and 2024 Mains wording is verified; UPSC publishes no official model answer.
 
-> **Verified question; provisional answer/key — not officially verified.** Use the demand to distinguish bounded cultivation/water evidence from an exaggerated claim of large-scale later-style irrigation.
+### VERIFIED PRELIMS PYQ — 2026 GS-I SET A Q10
 
-### Verified Question 2 - 2026 Prelims Set A Q15: Vedic River Names
+**Question as printed (cleaned from the local OCR):** Consider the following statements about the Rigvedic period: (I) Irrigation from wells allowed agriculture to expand away from flood plains and river margins into Punjab-Haryana plains with relatively accessible groundwater. (II) Draught-animal power was employed to draw water from wells. Which information supports the statements? (1) Rigvedic use of *ashma chakra* (stone pulley wheel) and *ahava* (strapped wooden pails) to draw water. (2) Rigvedic axes and sickles. (3) Pre-Rigvedic use of oxen for ploughing and pulling carts.
 
-> **Verified question; provisional answer/key — not officially verified.** Test precise river-name pairs and mark Sarasvati identification as debated where relevant; do not infer an official answer letter.
+| Option | Combination | Status |
+|---|---|---|
+| A | 1 and 2 only | Does not connect draught power to statement II |
+| B | 1, 2 and 3 | Tool evidence 2 does not specifically establish either proposition |
+| C | 1 and 3 only | **LOCAL PROVISIONAL KEY** |
+| D | 3 only | Omits direct water-lifting evidence 1 |
 
-### Verified Question 3 - 2026 Prelims Set A Q20: *Kshetra-patni*
+**Answer status:** C under the locally held provisional Series-A key; **not officially final**.
 
-> **Verified question; provisional answer/key — not officially verified.** It is a textual-vocabulary route. Do not transfer the Rigvedic *kshetra-pati* context to the feminine term without evidence.
+**Elimination:** Item 1 directly supports well lifting; item 3 supports the history of draught power. Axes and sickles establish cultivation and woodworking, not the specified water-lifting propositions.
 
-### Verified Question 4 - 2023 GS-I Q11: Vedic Society, Religion and Persistence
+> **Trap:** The question asks which information supports the statements, not which objects merely occur in the period.
 
-> **Verified Mains question; no official model answer is implied.** This is direct/strong support for source-aware social and religious features, with carefully qualified continuity.
+### VERIFIED PRELIMS PYQ — 2026 GS-I SET A Q15
 
-### Verified Question 5 - 2024 GS-I Q1: Rig-to-Later Vedic Social/Economic Change
+**Question as printed:** Which pairs of ancient and modern river names are correctly matched? (1) Vitasta-Chenab, (2) Asikni-Jhelum, (3) Parushni-Ravi, (4) Yavyavati-Beas.
 
-> **Verified Mains question; no official model answer is implied.** Use trends across economy, polity, ritual and social hierarchy; avoid a total-rupture story.
+| Option | Combination | Status |
+|---|---|---|
+| A | 1 and 2 | Both standard pairs are reversed |
+| B | 3 and 4 | **LOCAL PROVISIONAL KEY; pair 4 remains textually contentious** |
+| C | 3 only | Secure historical pair without endorsing the disputed fourth pair |
+| D | 4 only | Omits secure Parushni-Ravi |
 
-### Original Mains 1 - 10 marks: Corpus as Source
+**Key discipline:** The locally held provisional Series-A key records **B**. Standard textbook geography securely gives Vitasta-Jhelum, Asikni-Chenab, Parushni-Ravi and Vipasha-Beas; it does not justify converting Yavyavati-Beas into an unqualified canonical fact. Preserve the provisional key as a key record and the river-identification caution as historical analysis.
 
-**Question (150 words):** Explain the value and limitation of the Rig Veda as a source for early Indian history.
+> **Trap:** Official question wording, provisional coaching key and independently secure historical identification are three different evidentiary claims.
 
-**Model answer:** The Rig Veda is indispensable for early Indo-Aryan language, ritual, river references, cattle wealth, kinship and chiefly vocabulary. It allows historians to identify a broad north-western, cattle-centred and kin-ordered milieu. Yet it is an orally transmitted, layered, religious-poetic corpus rather than a census, law code or modern chronicle. Textual prominence cannot be treated as statistical prevalence, and later Vedic institutions cannot be projected into earlier layers. The best method reads a term or hymn in genre and context, compares it with chronology and archaeology, and states the limit. Thus the text supplies rich social patterns, but not a complete institutional map.
+### VERIFIED PRELIMS PYQ — 2026 GS-I SET A Q20
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 1 - 10 marks: Corpus as Source”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question as printed:** In which one among the following texts does the term *kshetra-patni* ('mistress of the field') originate?
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+| Option | Text | Status |
+|---|---|---|
+| A | Rigveda | Distinguish masculine *kshetra-pati* in Rig Veda 4.57 |
+| B | Atharvaveda | **LOCAL PROVISIONAL KEY** |
+| C | Ashtadhyayi | Later grammatical text |
+| D | Arthashastra | Later statecraft text |
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Answer status:** B under the locally held provisional Series-A key; **not officially final**. The narrow lexical route is retained without inventing a hymn citation.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### SOLVED MAINS PYQ — 2023 GS-I Q11
 
-**How to improve this answer:** For “Original Mains 1 - 10 marks: Corpus as Source”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Verified wording:** What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society? (250 words, 15 marks.)
 
-### Original Mains 2 - 10 marks: Chiefship and Assemblies
+**Model route:** Begin with layered Vedic sources; separate Rigvedic kin-based agro-pastoral society from later agrarian-territorial elaboration. Use jana, vis, rajan, cattle, agriculture, patriliny and emerging varna for society; use Indra, Agni, Varuna, rta, yajna and later ritual-philosophical expansion for religion. Persistence must mean transformed repertoire—chanting, fire ritual, kin idioms and hierarchy—rather than unchanged institutions. Constitutional equality, reform, regional histories and new devotional forms qualify every continuity.
 
-**Question (150 words):** Why should Rigvedic *rajan* not be described as a territorial monarch?
+**Why this earns marks:** It answers both clauses, distinguishes the two Vedic phases and treats continuity as historically transformed.
 
-**Model answer:** The Rigvedic *rajan* was a kin-based tribal chief whose authority depended on protection, warfare, ritual alliance and redistribution. *Jana*, *vis*, household and lineage were more fundamental frames than a territorial bureaucracy. Assemblies such as *sabha*, *samiti* and *vidatha*, along with the roles of *purohita* and *senani*, indicate collective and limited functional authority. *Bali* was an offering/tribute rather than a regular land tax. These features show real hierarchy and chiefship, not absence of government. However, they fall short of a mature state: no regular revenue department, impersonal bureaucracy or settled territorial monarchy can be securely projected into the early Rigvedic setting.
+### SOLVED MAINS PYQ — 2024 GS-I Q1
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 2 - 10 marks: Chiefship and Assemblies”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Verified wording:** Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (150 words, 10 marks.)
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Model answer:** Rigvedic society was organised mainly through jana, vis and mobile or semi-settled grama, with cattle-centred prestige, cultivation, crafts and chiefly redistribution. Later Vedic developments shifted toward Kuru-Panchala and the upper Ganga, more stable plough agriculture, larger surplus and stronger territorial attachment. Occupational differentiation expanded, while Brahmana-Rajanya privilege and four-varna ideology hardened beyond the later-layer Purusha formulation. Patriliny, gotra and household authority sharpened, although women’s work and learning remained regionally variable. Bali and kingship became more regular and coercive, yet cattle, kinship, assemblies and sacrifice continued. Thus society and economy were gradually agrarianised, territorialised and stratified rather than abruptly replaced; textual norms and PGW archaeology must still be correlated cautiously. (117 words)
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** It uses change verbs, named terms, continuity and an archaeological-source limit within the 150-word ceiling.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### SIX ORIGINAL MAINS QUESTIONS WITH MODEL SOLUTIONS
 
-**How to improve this answer:** For “Original Mains 2 - 10 marks: Chiefship and Assemblies”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### ORIGINAL MAINS 1 — 10 MARKS
 
-### Original Mains 3 - 15 marks: Pastoralism and Agriculture
+**Question:** Explain why the Rig Veda is indispensable yet limited as a source for the Early Vedic age. (Answer in 150 words.)
 
-**Question (200 words):** “Rigvedic society was pastoral but not purely pastoral.” Discuss.
+**Model answer (124 words):**
 
-**Model answer:** Cattle were central to Rigvedic wealth, prestige, gifts, conflict and chiefship; *gomat* and cattle-related imagery make pastoral predominance unmistakable. Pastoral values shaped elite poetry and warfare. Yet agriculture was known: ploughing, sowing, harvesting, threshing, wells, water channels and draught animals indicate cultivation. Craft, exchange and settled households also appear. The appropriate description is therefore mixed agro-pastoral livelihood with cattle-centred values, not a world of exclusive nomadism. Equally, agricultural references do not establish the later Vedic pattern of iron-centred expansion, large surplus, regular revenue and territorial statehood. The source itself is ritual-poetic and layered, so its vocabulary must not be converted into a statistical economic survey. A balanced conclusion identifies pastoral predominance, acknowledges cultivation and explains why later agrarian transformation remains a meaningful contrast.
+The Rig Veda is indispensable because its ten mandalas preserve the earliest extensive Vedic evidence for language, ritual, rivers, cattle wealth, kin units, chiefs and conflict. Books 2-7 provide a conventional older family-book baseline, allowing broad reconstruction of a north-western, cattle-valuing and kin-ordered society. Yet the corpus is orally transmitted ritual poetry, not a census or political chronicle. Praise, metaphor and priestly patronage privilege elite concerns, while composition, arrangement and later manuscript survival belong to different dates. Therefore a term such as rajan or grama must be read in its hymn and layer, compared with repeated usage and tested against independently dated archaeology. The text yields strong patterns, but not exact population statistics, uniform institutions or a one-to-one map of language and material culture.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 3 - 15 marks: Pastoralism and Agriculture”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### ORIGINAL MAINS 2 — 10 MARKS
 
-**How to improve this answer:** For “Original Mains 3 - 15 marks: Pastoralism and Agriculture”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** Why should the Rigvedic rajan be understood as a chief rather than a mature territorial monarch? (Answer in 150 words.)
 
-### Original Mains 4 - 15 marks: Social Differentiation
+**Model answer (123 words):**
 
-**Question (200 words):** Assess social differentiation and gender evidence in the Rigvedic age without projecting later social forms backwards.
+The Rigvedic rajan exercised genuine authority as protector, war leader, ritual patron and distributor of movable wealth. The Sudas tradition and the roles of purohita, senani and gramani show military, priestly and group leadership around the chief. However, the political community was framed mainly through jana, vis, grama and kula—contextual units of people and kin—rather than fixed provinces. Sabha, samiti and vidatha also indicate collective arenas that could support or limit chiefly action. Bali was offering or tribute, not securely an assessed land tax, and no permanent bureaucracy, standing army or regular territorial revenue system is demonstrated. Thus “chiefship” captures hierarchy, patronage and command without denying government; “territorial monarchy” overstates institutions that become clearer only through the uneven Later Vedic transition.
 
-**Model answer:** Rigvedic society shows hierarchy: chiefs, priests, warriors, household heads, dependants and conflict categories were socially meaningful. Varna vocabulary and the Purusha Sukta require contextual reading; they cannot justify assuming the later rigid fourfold varna/jati order throughout the early corpus. Likewise, *arya*, *dasa* and *dasyu* have ritual, linguistic, political and social contexts and are not fixed biological races. Women appear in some ritual, intellectual and household evidence, and some reconstructions allow participation in particular assemblies. Textual visibility, however, is not a census of universal autonomy or equality. The balanced conclusion is that differentiation and patriarchy-related limits were present, but their scale, rigidity and variation must remain qualified. A source-aware answer avoids both a romantic egalitarian image and an anachronistic later caste order.
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 4 - 15 marks: Social Differentiation”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+### ORIGINAL MAINS 3 — 15 MARKS
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Question:** “Rigvedic society was pastoral but not purely pastoral.” Discuss. (Answer in 250 words.)
 
-**How to improve this answer:** For “Original Mains 4 - 15 marks: Social Differentiation”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Model answer (162 words):**
 
-### Original Mains 5 - 20 marks: Religion and Social World
+Cattle occupied the centre of Rigvedic elite value. Gomat signified wealth in cattle, while gavishti joined cattle-search or raid with conflict. Cows, oxen and horses supplied food, traction, mobility, prestige, ritual gifts and booty. This evidence justifies “pastoral predominance” and helps explain pasture disputes, mobile groups and chiefly redistribution.
 
-**Question (250 words):** Examine how Rigvedic religion expressed the social and political world of early Vedic society.
+Agriculture was nevertheless present. Kshetra, plough-related vocabulary, sowing, harvesting and threshing indicate cultivation; yava is the clearest cereal reference. Wells, channels and draught oxen show water management and traction. Carpentry, chariot work, weaving, leather work, pottery and metalwork further reveal mixed production. Dana, dakshina, bali and barter circulated livestock, produce and crafted goods.
 
-**Model answer:** Rigvedic religion was a functional worldview rather than an isolated catalogue of gods. Indra's associations with battle, rain and release, Agni's mediation of sacrifice and Varuna's link with *rita* connected natural forces, conflict, order and ritual authority. *Yajna* brought patrons, priests, gifts and deities into a relation of exchange; *soma* was a major ritual substance. In a cattle-centred, kin-based society, ritual enhanced chiefly prestige and priestly mediation while redistribution of gifts mattered politically. Dasharajna and conflict imagery further connect warfare, cattle and alliance. Yet the source is layered religious poetry: deity prominence does not provide a numerical account of belief, and early sacrifice must not be equated with later elaborate royal rituals or territorial sovereignty. A careful conclusion is that religion articulated early Vedic values of order, generosity, protection and status, while its institutional reach remains a historical inference rather than a literal constitutional record.
+The qualification is essential. Ritual poetry magnifies cattle and chiefly gifts, so textual frequency is not an economic census. Conversely, agricultural terms do not establish the iron-assisted surplus, regular revenue or territorial state associated more strongly with later developments. The most defensible model is therefore a cattle-centred agro-pastoral economy with household crafts and redistributive exchange, varying by region and mobility.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 5 - 20 marks: Religion and Social World”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### ORIGINAL MAINS 4 — 15 MARKS
 
-**How to improve this answer:** For “Original Mains 5 - 20 marks: Religion and Social World”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** Assess social differentiation and the position of women in the Early Vedic age without projecting later norms backwards. (Answer in 250 words.)
 
-### Original Mains 6 - 20 marks: Early-to-Later Vedic Change
+**Model answer (172 words):**
 
-**Question (250 words):** Analyse continuity and change from the Rigvedic to the Later Vedic phase.
+Early Vedic society was neither classless nor already organised through a rigid later caste system. Chiefs, priests, warriors, producers, artisans, dependants and captives occupied unequal positions. Varna language marked order or boundary, while the Purusha Sukta, Rig Veda 10.90, articulated Brahmana, Rajanya, Vaishya and Shudra. Its generally later Book 10 location makes it evidence of emerging ideological systematisation, not proof of hereditary jati closure throughout the older family books.
 
-**Model answer:** The comparison begins with a change in broad geography and political economy. Rigvedic material points to a north-western Sapta-Sindhu milieu, cattle-centred values, kin-based *rajan*ship and active assemblies. Later Vedic developments increasingly centre Kuru-Panchala and the upper Ganga, settled agriculture, surplus, stronger territorial kingship, more elaborate royal ritual and harder social hierarchy. *Bali* and chiefly redistribution therefore contrast with more developed revenue and state forms. However, this is not a total rupture. Pastoralism, kinship, ritual, sacrifice and forms of social differentiation persist and are reworked. The Rig Veda and later texts are layered sources of different genres, so trends must not be forced into an exact timetable. The best verdict identifies a long transition from predominantly tribal agro-pastoral chiefship toward more settled agrarian and territorial formations, while retaining cultural continuities and textual limits.
+Households combined herding, cultivation, craft and ritual. Patrilineal tendencies, son preference and male-centred authority indicate patriarchy. Yet women appear as household and ritual actors, and traditions associate Ghosha, Apala, Lopamudra and Vishvavara with female poetic voices. Such visibility qualifies any claim of total exclusion but cannot establish universal education, assembly membership or equality. Marriage formed households and alliances; monogamy may have been common, elite polygyny existed, and scattered references to widow or levirate-like practices remain debated.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 6 - 20 marks: Early-to-Later Vedic Change”, coverage of every clause, evidence-led analysis and a qualified verdict.
+Thus differentiation and patriarchy were real but still historically variable. Layered elite poetry requires rejecting both romantic egalitarianism and the backward projection of later prescriptive rigidity.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.
 
-**How to improve this answer:** For “Original Mains 6 - 20 marks: Early-to-Later Vedic Change”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### ORIGINAL MAINS 5 — 20 MARKS
+
+**Question:** Examine how Rigvedic religion expressed the economic and political world of Early Vedic society. (Answer in 250 words.)
+
+**Model answer (182 words):**
+
+Rigvedic religion organised relations among nature, conflict, order, patronage and exchange. Indra’s association with storm, rain and victory suited a cattle-valuing martial world; Agni mediated offerings; Varuna guarded rta, the vocabulary of truth and cosmic-ritual regularity; Soma joined ritual drink, inspiration and divine power; Ushas represented renewal.
+
+Yajna was also a social mechanism. A patron offered through priests and sought protection, rain, offspring or victory. Dana and dakshina redistributed cattle and valuables, enhanced chiefly generosity and sustained poet-priest lineages. Correct speech, metre and performance therefore converted economic resources into ritual authority. The Sudas victory tradition similarly shows warfare remembered through priestly praise and patronage.
+
+This connection should not be overstated. Hymn frequency reflects liturgy and patrons, not a survey of every household’s belief. Henotheism is only a modern label for exalting one deity within a hymn, not a Rigvedic creed of strict monotheism. Monumental temples, image-centred institutions and the fully elaborated Later Vedic royal-sacrifice system cannot be projected backward. Rigvedic religion expressed and legitimised order, reciprocity, protection and prestige, while remaining a plural, layered ritual-poetic world rather than a territorial state church.
+
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
+
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
+
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.
+
+### ORIGINAL MAINS 6 — 20 MARKS
+
+**Question:** Analyse the relationship between Rigvedic textual evidence and archaeology, and explain the Early-to-Later Vedic transition. (Answer in 250 words.)
+
+**Model answer (185 words):**
+
+The Rig Veda directly supplies language, ritual, river names, cattle values, kin terms, chiefship and remembered conflict. Archaeology directly supplies settlement, diet, tools, metals, vehicles, burials and chronology. The two sources become useful together only when date, region and evidentiary scale match.
+
+Late Harappan and Cemetery H contexts show continuity and regional transformation after urban decline; Swat sequences reveal varied frontier contacts; OCP and copper-hoard associations are uneven. None independently identifies Vedic Sanskrit speakers. PGW belongs mainly to Later Vedic and early Iron Age comparison, not the material identity of older hymns. Likewise, ashva and ratha vocabulary shows elite salience, while equid remains and vehicles require separate species, context and technological identification; ayas cannot automatically be translated as iron.
+
+Across the transition, the centre moved from Sapta-Sindhu toward Kuru-Panchala and the upper Ganga. Cultivation and settlement intensified, kingship became more territorial, exaction and ritual elaborated, and varna-patriarchal hierarchy sharpened. Yet cattle, kinship, assemblies and sacrifice persisted in altered settings. The transition was therefore gradual, regional and uneven: archaeology tests material change, while layered texts explain institutions and values, but neither permits a one-to-one ethnic map.
+
+**Demand decoding:** Identify the directive, confine the period, organise dimensions and end with a graded source-aware verdict.
+
+**Claim -> evidence -> analysis -> qualification check:** Every major claim uses a named term, hymn, river, institution or archaeological horizon and states what it cannot prove.
+
+**Why this earns marks:** The model directly answers the demand, uses examinable evidence, explains mechanism and preserves chronology, genre and scale limits.

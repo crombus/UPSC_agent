@@ -1,729 +1,914 @@
 ---
-title: "The Aryan Problem & Identity of Aryan Culture — Solved Practice Workbook"
+title: "The Aryan Problem and Identity of Aryan Culture: Solved Practice Workbook"
 topic_key: ancient-indian-history-07
 ---
-# The Aryan Problem & Identity of Aryan Culture — Solved Practice Workbook
+# The Aryan Problem and Identity of Aryan Culture: Solved Practice Workbook
+
+> **Exact practice contract:** 32 original hard MCQs appear before PYQs; keys rotate A -> B -> C -> D exactly eight times; 128 option explanations and 32 traps are unique. Direct PYQ ownership is audited honestly, adjacent routes retain key-status discipline, and six original Mains models are independently word-counted.
 
 ## BASIC MCQS / REMEDIATION
 
-### Audited MCQ Set: 40 Total Questions = 32 Core + 8 Remedial — [CORE PRELIMS]
+### 32 ORIGINAL HARD MCQS
 
-All questions use topic-specific, plausible options and question-specific explanations. Questions 1-32 are core; 33-40 are remedial. Correct answers rotate A -> B -> C -> D without repetition.
+> Correct options rotate strictly A -> B -> C -> D, repeated eight times. All 128 option explanations and 32 traps are question-specific.
 
-#### MCQ 1
+#### Q1
+1
+Which formulation is methodologically safest?
 
-Which one of the following is the most appropriate use of the term ‘Indo-Aryan’ in historical analysis?
+- A. Arya is contextual, while Indo-Aryan is a linguistic category.
 
-A. a linguistic subgroup within the Indo-Iranian branch
+- B. Aryan denotes a biological race visible in skeletons.
 
-B. a biologically homogeneous race
+- C. Indo-Aryan denotes one pottery assemblage.
 
-C. a single archaeological pottery culture
+- D. Arya denotes every Indo-European speaker.
 
-D. a modern nationality
+**Answer: A.**
 
-**Answer: A.** Indo-Aryan is first a linguistic classification. Race, pottery and modern nationality are distinct categories and cannot be silently substituted for it.
+**Option-wise explanation:**
 
-#### MCQ 2
+- **A:** Correct: it preserves the distinction between textual self-designation and linguistic classification. [Q1-A]
+- **B:** Incorrect: Race cannot be read from the word *arya*. [Q1-B]
+- **C:** Incorrect: Language does not equal pottery. [Q1-C]
+- **D:** Incorrect: The textual term is narrower than the whole language family. [Q1-D]
 
-Consider the following statements:
+> **Examiner trap 1:** Separate textual identity from language and biology.
 
-1. Indo-Iranian is a linguistic branch related to Indo-Aryan and Iranian developments.
-2. Indo-European is the name of one archaeological culture.
-3. Regular sound and grammatical correspondences are stronger linguistic evidence than accidental word resemblance.
 
-Which of the statements given above are correct?
+#### Q2
+2
+In Rigvedic usage, *arya* is best understood as
 
-A. 2 and 3 only
+- A. a fixed skin-colour category
 
-B. 1 and 3 only
+- B. a contextual insider or status designation
 
-C. 1, 2 and 3
+- C. the name of a single archaeological culture
 
-D. 1 and 2 only
+- D. a genetic ancestry component
 
-**Answer: B.** Statements 1 and 3 are correct. Indo-European is a reconstructed language family, not a material culture or biological population.
+**Answer: B.**
 
-#### MCQ 3
+**Option-wise explanation:**
 
-With reference to the term *arya* in the Rig Veda, consider the following statements:
+- **A:** Incorrect: The texts do not supply a stable phenotype definition. [Q2-A]
+- **B:** Correct: usage varies by passage, alliance and ritual-political context. [Q2-B]
+- **C:** Incorrect: Archaeological cultures are modern analytical groupings. [Q2-C]
+- **D:** Incorrect: Genetic components are statistical and modern analytical labels. [Q2-D]
 
-1. It must be read in textual context.
-2. It can carry social-cultural meanings.
-3. It automatically denotes a fixed modern biological race.
+> **Examiner trap 2:** Read *arya* by context, not as a timeless race.
 
-Which of the statements given above are correct?
 
-A. 1 only
+#### Q3
+3
+Which colonial-era move created the central racial distortion?
 
-B. 1, 2 and 3
+- A. Treating the whole Rigvedic corpus as a late and internally uniform composition
 
-C. 1 and 2 only
+- B. Rejecting every comparison with Avestan
 
-D. 2 and 3 only
+- C. Converting linguistic relationship into biological hierarchy
 
-**Answer: C.** The first two are defensible; the third imports a modern racial category into a layered ancient text.
+- D. Dating PGW before the Mature Harappan phase
 
-#### MCQ 4
+**Answer: C.**
 
-The strongest direct conclusion from comparative linguistics is that
+**Option-wise explanation:**
 
-A. all speakers of related languages share one race
+- **A:** Incorrect: Textual dating debate is not the defining racial conversion. [Q3-A]
+- **B:** Incorrect: Avestan comparison was central to philology. [Q3-B]
+- **C:** Correct: speech history was transformed into a superior racial type. [Q3-C]
+- **D:** Incorrect: The chronology is wrong but is not the core historiographical move. [Q3-D]
 
-B. one cognate word proves a homeland
+> **Examiner trap 3:** The valid linguistic discovery must be separated from racial typology.
 
-C. a language family identifies a single migration route
 
-D. languages show historical relatedness through patterned correspondences
+#### Q4
+4
+Comparative linguistics establishes Indo-European relationship chiefly through
 
-**Answer: D.** Comparative method establishes relatedness through systematic patterns. Population identity, precise route and homeland are additional historical questions.
+- A. a small cluster of similar divine names and isolated lexical resemblances across texts
 
-#### MCQ 5
+- B. modern national boundaries
 
-Mitanni evidence is particularly important in this debate because it
+- C. a shared pottery style
 
-A. provides external attestations of Indo-Aryan-related names and technical vocabulary
+- D. regular sound correspondences, grammar and inherited vocabulary
 
-B. is a Harappan inscription translated into Sanskrit
+**Answer: D.**
 
-C. records the destruction of Harappa
+**Option-wise explanation:**
 
-D. proves a direct one-stage migration into the Ganga valley
+- **A:** Incorrect: A single resemblance may be accidental or borrowed. [Q4-A]
+- **B:** Incorrect: Modern borders are irrelevant to prehistoric language descent. [Q4-B]
+- **C:** Incorrect: Material style cannot demonstrate phonological descent. [Q4-C]
+- **D:** Correct: repeated structural correspondences support genealogical relationship. [Q4-D]
 
-**Answer: A.** Mitanni broadens the Indo-Iranian-linked comparative context. It does not translate Harappan writing, document Harappan destruction or provide a complete migration itinerary.
+> **Examiner trap 4:** Patterns, not isolated word resemblance, establish language descent.
 
-#### MCQ 6
 
-Why should Vedic *soma* and Avestan *haoma* be used cautiously?
+#### Q5
+5
+Vedic Sanskrit belongs to which nested sequence?
 
-A. They prove a common biological ancestry for every speaker.
+- A. Indo-Aryan -> Indo-Iranian -> Indo-European
 
-B. They support deep Indo-Iranian linguistic-cultural relatedness but do not map a dated route by themselves.
+- B. Iranian -> Indo-Aryan -> Indo-European, treating Iranian as the parent branch
 
-C. They show that the Rig Veda is a modern historical chronicle.
+- C. Indo-European -> Dravidian -> Indo-Aryan
 
-D. They identify one archaeological culture with certainty.
+- D. BMAC -> Indo-Iranian -> Vedic Sanskrit
 
-**Answer: B.** The comparison is meaningful within Indo-Iranian linguistic history. A shared ritual term cannot independently identify a route, a people or an archaeological assemblage.
+**Answer: A.**
 
-#### MCQ 7
+**Option-wise explanation:**
 
-The Rig Veda is best treated by a historian as
+- **A:** Correct: this is the accepted linguistic hierarchy. [Q5-A]
+- **B:** Incorrect: Iranian and Indo-Aryan are sister developments, not parent and child. [Q5-B]
+- **C:** Incorrect: Dravidian is a distinct language family. [Q5-C]
+- **D:** Incorrect: BMAC is archaeological, not a linguistic parent. [Q5-D]
 
-A. a Harappan administrative archive
+> **Examiner trap 5:** Keep linguistic branches separate from archaeological complexes.
 
-B. a text with no historical value
 
-C. a layered orally transmitted religious-poetic corpus containing historical clues
+#### Q6
+6
+The Mitanni evidence most securely demonstrates
 
-D. a dated migration register
+- A. that the Rig Veda was composed in Syria
 
-**Answer: C.** It is valuable for language, geography and cultural vocabulary but is not a direct migration chronicle or a contemporaneous Harappan archive.
+- B. restricted Indo-Aryan forms outside South Asia by the mid-second millennium BCE
 
-#### MCQ 8
+- C. that all Mitanni people spoke Vedic Sanskrit
 
-Which one of the following is the most defensible statement on Rigvedic geography?
+- D. a direct military migration from Mitanni to Punjab
 
-A. Textual geography independently proves the language of Harappans.
+**Answer: B.**
 
-B. The later Kuru-Panchala focus can be projected onto every hymn.
+**Option-wise explanation:**
 
-C. Every river term has one uncontested modern identification.
+- **A:** Incorrect: External attestation does not locate Rigvedic composition. [Q6-A]
+- **B:** Correct: treaty names and technical vocabulary provide bounded external attestation. [Q6-B]
+- **C:** Incorrect: Hurrian was the majority language. [Q6-C]
+- **D:** Incorrect: No direct route or military event follows from the texts. [Q6-D]
 
-D. Much early Vedic geography is north-western, while textual layering and identifications require caution.
+> **Examiner trap 6:** Mitanni adds chronology, not a complete route.
 
-**Answer: D.** The north-western milieu is a useful broad conclusion. Exact identifications, dates and population implications must be kept qualified.
 
-#### MCQ 9
+#### Q7
+7
+Which evidence-class pairing is correct?
 
-Consider the following statements about archaeological cultures:
+- A. Genetics - spoken language of a sampled person
 
-1. They classify recurring material patterns in time and space.
-2. They automatically reveal the language spoken by every user.
-3. They can provide a regional and chronological context for interaction.
+- B. Archaeology - self-declared ethnicity without inscriptions
 
-Which of the statements given above are correct?
+- C. Comparative linguistics - language descent and contact
 
-A. 1 and 3 only
+- D. Rigvedic poetry - exact census data
 
-B. 1 and 2 only
+**Answer: C.**
 
-C. 2 and 3 only
+**Option-wise explanation:**
 
-D. 1, 2 and 3
+- **A:** Incorrect: DNA does not record language. [Q7-A]
+- **B:** Incorrect: Objects do not self-identify ethnicity. [Q7-B]
+- **C:** Correct: sound, grammar and vocabulary establish relationship and borrowing. [Q7-C]
+- **D:** Incorrect: Ritual poetry is not a statistical census. [Q7-D]
 
-**Answer: A.** Material cultures give chronology and context, not automatic language labels. Statement 3 is the careful historical use of an assemblage.
+> **Examiner trap 7:** Each evidence class has a different object.
 
-#### MCQ 10
 
-Which one of the following is correctly matched?
+#### Q8
+8
+Before combining two datasets, the first requirement is to
 
-A. Cemetery H - a guaranteed ethnic label for Aryans
+- A. assume they describe one people
 
-B. Gandhara Grave/Swat - a frontier interaction context requiring cautious interpretation
+- B. prefer the newest discipline and let it automatically override all earlier evidence classes
 
-C. OCP - a translated Vedic text
+- C. discard contradictory results
 
-D. PGW - identical with all Indo-Aryan speakers
+- D. match chronology, geography, scale and independence
 
-**Answer: B.** Swat/Gandhara Grave is useful as a regional interaction zone. Cemetery H and PGW cannot be mechanically named as peoples, and OCP is material culture.
+**Answer: D.**
 
-#### MCQ 11
+**Option-wise explanation:**
 
-At Bhagwanpura, the relevance of late Harappan and PGW material is that it
+- **A:** Incorrect: Shared labels cannot substitute for proof. [Q8-A]
+- **B:** Incorrect: Novelty does not determine evidentiary weight. [Q8-B]
+- **C:** Incorrect: Contradictions must be preserved and explained. [Q8-C]
+- **D:** Correct: convergence is meaningful only after these controls. [Q8-D]
 
-A. proves a single pure population
+> **Examiner trap 8:** Triangulation begins with compatibility, not fusion.
 
-B. eliminates the need for textual evidence
 
-C. helps study transition and sequence without equating pottery with speakers
+#### Q9
+9
+The Rig Veda is most accurately described as
 
-D. dates every Rigvedic hymn exactly
+- A. a layered ritual-poetic corpus with historical clues
 
-**Answer: C.** The sequence is a valuable transition context. Pottery cannot by itself establish population purity, language or precise textual dates.
+- B. a securely dated royal chronicle recording successive rulers, battles and migrations
 
-#### MCQ 12
+- C. an archaeological field report
 
-Why is a ‘corridor map’ in the Aryan debate best treated as a model rather than a marching route?
+- D. a complete census of early society
 
-A. It records named travellers in every generation.
+**Answer: A.**
 
-B. It has no relation to archaeology or geography.
+**Option-wise explanation:**
 
-C. It proves that no interaction occurred.
+- **A:** Correct: genre, oral transmission and layering define its use. [Q9-A]
+- **B:** Incorrect: It has no annalistic year-by-year structure. [Q9-B]
+- **C:** Incorrect: Material context must come from archaeology. [Q9-C]
+- **D:** Incorrect: Elite ritual poetry cannot enumerate the whole population. [Q9-D]
 
-D. It indicates possible zones of contact but does not document every movement, speaker or date.
+> **Examiner trap 9:** Use the Rig Veda intensively but not literally.
 
-**Answer: D.** Corridors can make interaction geographically plausible. They are not a documentary record of a single population moving uniformly through each site.
 
-#### MCQ 13
+#### Q10
+10
+Which statement about Sarasvati/Ghaggar-Hakra is best?
 
-Which sequence is most appropriate before using horse evidence for a migration claim?
+- A. Their identity proves Harappan language.
 
-A. species identification -> secure context/date -> technology -> textual comparison
+- B. Palaeochannel, occupation and textual chronology must be tested separately.
 
-B. horse term in one hymn -> date for all archaeology
+- C. a similar river name fixes a single migration route and synchronises Vedic and Harappan dates
 
-C. vehicle image -> racial classification -> population replacement
+- D. Every Harappan site belonged to one river system.
 
-D. one bone find -> language identity -> complete migration route
+**Answer: B.**
 
-**Answer: A.** A large historical claim requires securely identified remains, a dated context, technological evidence and careful textual comparison. The other paths skip essential checks.
+**Option-wise explanation:**
 
-#### MCQ 14
+- **A:** Incorrect: The Harappan script remains undeciphered. [Q10-A]
+- **B:** Correct: hydrology, archaeology and textual layering are independent controls. [Q10-B]
+- **C:** Incorrect: A hydronym cannot establish one migration itinerary. [Q10-C]
+- **D:** Incorrect: Harappan sites occupied several ecological zones. [Q10-D]
 
-Sinauli should be used in this debate primarily with attention to
+> **Examiner trap 10:** A palaeochannel is not automatically a named Vedic river.
 
-A. a proof that all chariots were Harappan
 
-B. the excavated vehicle context and solid-wheel/spoked-wheel distinction
+#### Q11
+11
+Rigvedic economic vocabulary supports
 
-C. a claim that it conclusively settles Vedic identity
+- A. exclusive urban commerce
 
-D. an equation of a vehicle with a language family
+- B. complete nomadism without cultivation
 
-**Answer: B.** Vehicle evidence is technically specific. It must not be converted into a decisive language, ethnicity or migration result.
+- C. pastoral predominance within an agro-pastoral economy
 
-#### MCQ 15
+- D. an iron-centred agrarian state
 
-Which one of the following statements about the horse in this debate is most accurate?
+**Answer: C.**
 
-A. Any equid bone immediately establishes a light chariot culture.
+**Option-wise explanation:**
 
-B. The horse was a uniquely Harappan diagnostic trait.
+- **A:** Incorrect: The corpus does not depict Harappan-style urbanism. [Q11-A]
+- **B:** Incorrect: Ploughing, wells and harvest vocabulary contradict exclusive nomadism. [Q11-B]
+- **C:** Correct: cattle-centred values coexist with cultivation and craft. [Q11-C]
+- **D:** Incorrect: Early *ayas* should not be converted automatically into iron. [Q11-D]
 
-C. Species identification, context and chronology matter; evidence is uneven and some claims are debated.
+> **Examiner trap 11:** Pastoral emphasis and agriculture can coexist.
 
-D. Textual horse vocabulary alone establishes a dated archaeological species.
 
-**Answer: C.** Horse claims require zooarchaeological identification and securely dated context, then separate consideration of vehicle technology and textual vocabulary.
+#### Q12
+12
+In an early Rigvedic context, *ayas* should
 
-#### MCQ 16
+- A. always be translated as iron and used to assign every hymn to an iron-using agrarian society
 
-A sample of ancient DNA can most directly inform historians about
+- B. be ignored because texts are oral
 
-A. the content of a Rigvedic hymn
+- C. prove PGW identity
 
-B. the language of a buried individual
+- D. be treated cautiously, often within a copper/bronze material world
 
-C. the self-name used by all people at a site
+**Answer: D.**
 
-D. modelled biological ancestry in its sampled archaeological context, subject to limits
+**Option-wise explanation:**
 
-**Answer: D.** aDNA can constrain ancestry relations in sampled contexts. It does not directly reveal language, self-identity or a text's content.
+- **A:** Incorrect: Iron-centred development is later and regionally variable. [Q12-A]
+- **B:** Incorrect: Oral texts remain valuable with source criticism. [Q12-B]
+- **C:** Incorrect: A word cannot identify a pottery assemblage. [Q12-C]
+- **D:** Correct: translation depends on context and chronology. [Q12-D]
 
-#### MCQ 17
+> **Examiner trap 12:** Do not back-project later iron into every early reference.
 
-The chief lesson of the Rakhigarhi ancient-DNA evidence for a UPSC answer is that
 
-A. one individual must be placed in sample, context, model and representativeness limits
+#### Q13
+13
+Which sequence correctly handles horse/chariot evidence?
 
-B. absence in one sample proves no later movement
+- A. species -> context -> frequency/use -> vehicle form -> chronology
 
-C. any ancestry component names a people
+- B. horse terminology and ritual prominence directly prove one invasion and its military mechanism
 
-D. one sample settles the language of the Harappans
+- C. solid wheel -> light spoked chariot
 
-**Answer: A.** The value of the sample is real but bounded. It cannot stand for every settlement, language or later population process.
+- D. equid fragment -> ethnic identity
 
-#### MCQ 18
+**Answer: A.**
 
-Which one of the following is a valid caution about genetic ancestry components?
+**Option-wise explanation:**
 
-A. They remove the need for archaeology.
+- **A:** Correct: every inferential step must be demonstrated. [Q13-A]
+- **B:** Incorrect: Textual importance does not prove a military event. [Q13-B]
+- **C:** Incorrect: Wheel construction is a decisive distinction. [Q13-C]
+- **D:** Incorrect: Animal identification cannot establish ethnicity. [Q13-D]
 
-B. They are modelled affinities, not languages, races or named peoples.
+> **Examiner trap 13:** Presence, centrality and technology are separate claims.
 
-C. They are the same as modern racial groups.
 
-D. They establish caste in an ancient cemetery.
+#### Q14
+14
+Surkotada is used cautiously because
 
-**Answer: B.** Statistical ancestry components describe patterns of affinity under a model. They cannot directly become a language, race, caste or archaeological identity.
+- A. it has a deciphered horse inscription
 
-#### MCQ 19
+- B. equid species identification and wider significance remain debated
 
-Consider the following statements:
+- C. it contains a secure Sintashta chariot
 
-1. Preservation and sampling bias limit South Asian aDNA evidence.
-2. Reference populations and model choices can affect interpretation.
-3. Therefore genetics is useless for all historical questions.
+- D. it proves horses were absent throughout South Asia before later second-millennium movements
 
-Which of the statements given above are correct?
+**Answer: B.**
 
-A. 1, 2 and 3
+**Option-wise explanation:**
 
-B. 2 and 3 only
+- **A:** Incorrect: No deciphered Harappan inscription supplies that label. [Q14-A]
+- **B:** Correct: morphology, context and representativeness remain disputed. [Q14-B]
+- **C:** Incorrect: Sintashta is a separate steppe context. [Q14-C]
+- **D:** Incorrect: A disputed find cannot prove universal absence. [Q14-D]
 
-C. 1 and 2 only
+> **Examiner trap 14:** A debated equid is neither proof of centrality nor proof of absence.
 
-D. 1 only
 
-**Answer: C.** The first two state genuine limits. They demand careful use, not abandonment of genetic evidence for bounded ancestry questions.
+#### Q15
+15
+Sintashta-Petrovka is important chiefly for
 
-#### MCQ 20
+- A. a Harappan urban script
 
-Which one of the following best distinguishes an invasion model from a migration-and-interaction model?
+- B. solid-wheel carts in the upper Ganga plain that securely identify early Vedic-speaking migrants
 
-A. The former always involves language and the latter never does.
+- C. early second-millennium spoked-wheel vehicle contexts
 
-B. The latter denies all movement.
+- D. a direct Rigvedic manuscript
 
-C. The former is supported by every Harappan destruction level.
+**Answer: C.**
 
-D. The former implies sudden military conquest; the latter allows varied mobility, contact and adaptation without one uniform event.
+**Option-wise explanation:**
 
-**Answer: D.** A migration-and-interaction model does not mean ‘no movement.’ It rejects the unsupported assumption of one decisive, uniform military destruction.
+- **A:** Incorrect: It is not Harappan. [Q15-A]
+- **B:** Incorrect: That description fits neither location nor vehicle evidence. [Q15-B]
+- **C:** Correct: chariot technology and metallurgy make it a key comparative horizon. [Q15-C]
+- **D:** Incorrect: No Rigvedic manuscript comes from the site. [Q15-D]
 
-#### MCQ 21
+> **Examiner trap 15:** Technology strengthens a model but does not itself identify language.
 
-Which statement is most consistent with the archaeological discussion of Harappan decline?
 
-A. There is no secure evidence for a mass Aryan military destruction of Harappan cities.
+#### Q16
+16
+The safest statement about Sanauli is that
 
-B. Late Harappan continuity is irrelevant.
+- A. horse sacrifice is proven
 
-C. Every Harappan site shows the same conquest layer.
+- B. the burials are securely Vedic
 
-D. Absence of invasion proof establishes complete isolation.
+- C. the vehicles are Sintashta-type spoked chariots
 
-**Answer: A.** The evidence does not support a uniform mass-destruction story. That is not proof of zero later mobility, and Late Harappan continuities remain historically significant.
+- D. two-wheeled solid-wheel vehicles occur; draught animal and identity remain unsettled
 
-#### MCQ 22
+**Answer: D.**
 
-The most balanced use of the term ‘migration’ in this topic is
+**Option-wise explanation:**
 
-A. a final solution to every textual problem
+- **A:** Incorrect: No horse remains securely establish the claim. [Q16-A]
+- **B:** Incorrect: Burial identity cannot be read directly. [Q16-B]
+- **C:** Incorrect: The vehicles have solid rather than demonstrated spoked wheels. [Q16-C]
+- **D:** Correct: this distinguishes observation from interpretation. [Q16-D]
 
-B. movement at varying scale and tempo that may involve contact, borrowing and admixture
+> **Examiner trap 16:** Media use of “chariot” must not erase wheel and draught evidence.
 
-C. a synonym for racial replacement
 
-D. a claim that archaeology is unnecessary
+#### Q17
+17
+Which statement best fits Harappan decline?
 
-**Answer: B.** Migration is a process word, not a racial or total-replacement claim. It must still be tested against chronology, archaeology, language and sample limits.
+- A. It was a regionally varied transformation with no civilisation-wide invasion horizon.
 
-#### MCQ 23
+- B. It occurred through one massacre at Mohenjo-daro.
 
-An indigenous-origin argument must be evaluated by
+- C. It proves no later movement into South Asia.
 
-A. equating modern nationhood with ancient language
+- D. It was simultaneous at every site.
 
-B. rejecting it without reading its evidence
+**Answer: A.**
 
-C. testing linguistic, textual, archaeological and genetic claims separately and avoiding false binaries
+**Option-wise explanation:**
 
-D. accepting it because it rejects colonial racialism
+- **A:** Correct: urban contraction, localisation and continuity varied regionally. [Q17-A]
+- **B:** Incorrect: The skeletons do not form one massacre context. [Q17-B]
+- **C:** Incorrect: Rejection of invasion does not prove zero migration. [Q17-C]
+- **D:** Incorrect: Site chronologies differ. [Q17-D]
 
-**Answer: C.** A fair method tests every model against its evidence and limits. Critique of racialism does not automatically validate any alternative historical reconstruction.
+> **Examiner trap 17:** Do not use Harappan decline as a shortcut verdict on later migration.
 
-#### MCQ 24
 
-Which one of the following is the safest conclusion on early Vedic cultural formation?
+#### Q18
+18
+Cemetery H most usefully demonstrates
 
-A. It is completely settled by one genome.
+- A. a named Indo-Aryan tribe whose language and migration route can be read directly from its burials
 
-B. It was the direct continuation of one unchanged Harappan identity.
+- B. continuity with mortuary and material change
 
-C. It was wholly unrelated to every prior South Asian tradition.
+- C. a complete population replacement
 
-D. It is best studied through layered interaction, mobility and continuity/difference without a one-to-one identity equation.
+- D. the language of Harappa
 
-**Answer: D.** This conclusion retains both interaction and uncertainty. It avoids both total discontinuity and a mechanical Harappan = Vedic equation.
+**Answer: B.**
 
-#### MCQ 25
+**Option-wise explanation:**
 
-Which one of the following pairs is correctly matched?
+- **A:** Incorrect: Burial assemblages do not provide a self-name. [Q18-A]
+- **B:** Correct: continuity and changed urn practices must be assessed together. [Q18-B]
+- **C:** Incorrect: The record does not show total replacement. [Q18-C]
+- **D:** Incorrect: Harappan writing remains undeciphered. [Q18-D]
 
-A. Early Vedic broad milieu - Indus and tributary/Sapta-Sindhu zone
+> **Examiner trap 18:** Mortuary change is not an ethnic label.
 
-B. Later Vedic core - exclusively lower Deccan coast
 
-C. Mitanni - a Harappan city in Gujarat
+#### Q19
+19
+The Gandhara Grave/Swat evidence should be treated as
 
-D. BMAC - a Vedic textual recension
+- A. one brief invasion event
 
-**Answer: A.** The early Vedic north-west is a key broad geography. Kuru-Panchala/upper Ganga is later, Mitanni is external evidence, and BMAC is an archaeological complex.
+- B. a uniform race marker
 
-#### MCQ 26
+- C. a long, varied frontier interaction sequence
 
-Why does textual layering matter when using the Rig Veda historically?
+- D. a direct translation of Rigvedic burial rules
 
-A. It makes archaeology automatically secondary.
+**Answer: C.**
 
-B. It cautions against assigning one date, geography or event to the entire corpus.
+**Option-wise explanation:**
 
-C. It proves oral texts cannot preserve language.
+- **A:** Incorrect: Its broad chronology contradicts a single event. [Q19-A]
+- **B:** Incorrect: Burial practices do not define race. [Q19-B]
+- **C:** Correct: varied rites and contacts make corridor analysis safer. [Q19-C]
+- **D:** Incorrect: Text and graves cannot be equated automatically. [Q19-D]
 
-D. It makes every hymn unusable.
+> **Examiner trap 19:** Chronological breadth defeats a one-wave interpretation.
 
-**Answer: B.** Layering and oral transmission require bounded reading. They do not erase the corpus's historical value or establish a hierarchy in which archaeology is irrelevant.
 
-#### MCQ 27
+#### Q20
+20
+OCP and copper hoards cannot be equated with Aryans mainly because
 
-Which one of the following is an example of language contact rather than proof of a biological population category?
+- A. copper was unknown in South Asia
 
-A. aDNA affinity in one skeleton
+- B. OCP occurs only in Central Asia
 
-B. a burial practice at one cemetery
+- C. all copper hoards are ritual deposits of one incoming community, irrespective of find context
 
-C. loanword/phonological influence discussed with comparative evidence
+- D. associations and contexts vary, while objects do not identify language
 
-D. a modern racial classification
+**Answer: D.**
 
-**Answer: C.** Contact linguistics studies language influence and borrowing. It does not convert language into biology, nor does a burial or genome directly establish a contact mechanism.
+**Option-wise explanation:**
 
-#### MCQ 28
+- **A:** Incorrect: Copper use is well attested. [Q20-A]
+- **B:** Incorrect: OCP is associated with the upper Ganga-Yamuna region. [Q20-B]
+- **C:** Incorrect: Functions vary and many finds lack context. [Q20-C]
+- **D:** Correct: heterogeneous context blocks an ethnic equation. [Q20-D]
 
-The phrase ‘archaeology cannot mechanically identify ethnicity’ means that
+> **Examiner trap 20:** An antennae sword is not a linguistic fossil.
 
-A. ethnic identity never existed
 
-B. all cultures are identical
+#### Q21
+21
+Painted Grey Ware is best used as
 
-C. material evidence is useless
+- A. a later Vedic/early Iron Age archaeological comparison with regional limits
 
-D. objects and practices require context and triangulation before claims about language or people are made
+- B. the unique pottery of early Rigvedic migrants, allowing its distribution to map language spread
 
-**Answer: D.** Archaeology remains essential for material practice, date and region. The point is that its categories cannot be mechanically translated into ethnic or linguistic ones.
+- C. proof that every PGW site used iron
 
-#### MCQ 29
+- D. a Mature Harappan urban marker
 
-Which one of the following is an example of sound source triangulation?
+**Answer: A.**
 
-A. using language relatedness, a bounded textual clue, archaeological sequence and sample-limited genetics together
+**Option-wise explanation:**
 
-B. using a popular claim about one artefact alone
+- **A:** Correct: its chronology and geography fit later transformations better. [Q21-A]
+- **B:** Incorrect: PGW cannot identify speakers and is generally later. [Q21-B]
+- **C:** Incorrect: Some PGW contexts lack iron. [Q21-C]
+- **D:** Incorrect: It post-dates Mature Harappan urbanism. [Q21-D]
 
-C. treating a modern genome as a Vedic text
+> **Examiner trap 21:** PGW is a correlate, not “the Aryans”.
 
-D. choosing the evidence that fits a preferred identity
 
-**Answer: A.** Triangulation compares independent streams while keeping their limits visible. It is the opposite of one-artefact proof or selective confirmation.
+#### Q22
+22
+BMAC is best understood as
 
-#### MCQ 30
+- A. a single Indo-Iranian nation
 
-For a Mains answer on the Aryan problem, the most effective opening is
+- B. an oasis interaction world linked with mobile groups
 
-A. a categorical claim that the debate is closed
+- C. a Harappan colony
 
-B. a definition that separates language, archaeology, ancestry, textual identity and modern race/nation
+- D. a genetic ancestry component
 
-C. a list of all proposed homelands
+**Answer: B.**
 
-D. a scholar-by-scholar ideological catalogue
+**Option-wise explanation:**
 
-**Answer: B.** The category firewall creates an evidence-safe frame before the argument. Exhaustive lists or categorical claims reduce analytical quality.
+- **A:** Incorrect: Archaeology cannot supply that national-language identity. [Q22-A]
+- **B:** Correct: settlement, craft and ritual networks interacted with steppe groups. [Q22-B]
+- **C:** Incorrect: No evidence supports simple colonial identity. [Q22-C]
+- **D:** Incorrect: BMAC names an archaeological complex, not DNA. [Q22-D]
 
-#### MCQ 31
+> **Examiner trap 22:** Use BMAC as a network node, not a conveyor belt.
 
-Consider the following statements:
 
-1. Colonial scholarship often fused language with racial typologies.
-2. Current historical method should preserve that racial equation.
-3. Critiquing colonial racialisation does not eliminate the need to test historical evidence.
+#### Q23
+23
+Why can archaeology not identify Vedic Sanskrit speakers by itself?
 
-Which of the statements given above are correct?
+- A. Sites have no chronology.
 
-A. 1 only
+- B. Pottery cannot be classified.
 
-B. 2 and 3 only
+- C. Material assemblages spread by varied mechanisms and do not directly record speech.
 
-C. 1 and 3 only
+- D. texts are always more accurate than objects and can assign speech to any contemporary assemblage
 
-D. 1, 2 and 3
+**Answer: C.**
 
-**Answer: C.** Statements 1 and 3 are correct. Rejection of racial categories improves method but does not substitute for evidence about language, texts or archaeology.
+**Option-wise explanation:**
 
-#### MCQ 32
+- **A:** Incorrect: Archaeological chronology is often strong. [Q23-A]
+- **B:** Incorrect: Classification is possible but remains analytical. [Q23-B]
+- **C:** Correct: trade, imitation, marriage and mobility break one-to-one mapping. [Q23-C]
+- **D:** Incorrect: Texts and objects answer different questions; neither is automatically superior. [Q23-D]
 
-Which conclusion most accurately reflects evidence limits in the Aryan problem?
+> **Examiner trap 23:** An assemblage is not a language community.
 
-A. One word, hymn, genome or artefact settles population identity.
 
-B. Archaeological culture automatically supplies language and ethnicity.
+#### Q24
+24
+A migration model differs from an invasion model because migration
 
-C. No conclusion whatsoever can be drawn.
+- A. excludes conflict
 
-D. Linguistic relatedness is strong, while routes, mechanisms and identity mappings require qualified multi-evidence inference.
+- B. requires no movement
 
-**Answer: D.** The last conclusion ranks claims rather than collapsing into certainty or total agnosticism. It captures both real knowledge and persistent limits.
+- C. always means elite dominance by male warrior bands and excludes household or pastoral mobility
 
-#### Remedial MCQ 33
+- D. can be gradual, multi-phase and compatible with local continuity
 
-Which one of the following is NOT a valid equation?
+**Answer: D.**
 
-A. Indo-Aryan language = biological race
+**Option-wise explanation:**
 
-B. PGW = material culture label
+- **A:** Incorrect: Conflict may occur without defining the whole process. [Q24-A]
+- **B:** Incorrect: Migration necessarily involves mobility. [Q24-B]
+- **C:** Incorrect: Several social mechanisms are possible. [Q24-C]
+- **D:** Correct: movement need not be conquest or replacement. [Q24-D]
 
-C. Rakhigarhi sample = context-specific genetic evidence
+> **Examiner trap 24:** Do not make invasion and migration synonyms.
 
-D. Indo-Aryan = linguistic subgroup
 
-**Answer: A.** The first equation is the central error. The other descriptions keep language, material culture and genetic evidence in their proper analytical categories.
+#### Q25
+25
+A rigorous indigenous/Out-of-India model must explain
 
-#### Remedial MCQ 34
+- A. Indo-European branching, Indo-Iranian innovations, Mitanni and later ancestry evidence
 
-Which one of the following best describes PGW in this topic?
+- B. only Sarasvati identification, because one river match would settle homeland and chronology
 
-A. a proof of a uniform invasion
+- C. only cultural continuity
 
-B. a material-culture category that must not automatically be equated with Indo-Aryan speakers
+- D. only the absence of a massacre horizon
 
-C. a translated Rigvedic term
+**Answer: A.**
 
-D. a biological ancestry component
+**Option-wise explanation:**
 
-**Answer: B.** PGW is archaeological material culture. It can be sequenced and compared but cannot directly identify every user's language or ethnicity.
+- **A:** Correct: a full model must address all contrary evidence classes. [Q25-A]
+- **B:** Incorrect: One river claim cannot settle the family history. [Q25-B]
+- **C:** Incorrect: Continuity does not determine language origin. [Q25-C]
+- **D:** Incorrect: No massacre excludes mass invasion, not all mobility. [Q25-D]
 
-#### Remedial MCQ 35
+> **Examiner trap 25:** A model is tested by the evidence it can explain, not by one favoured fact.
 
-With reference to Mitanni, consider the following statements:
 
-1. It provides an external comparative context for Indo-Aryan-related terminology.
-2. It directly records the entry of Vedic speakers into India.
-3. It should be used with linguistic and chronological limits.
+#### Q26
+26
+Ancient DNA can directly establish
 
-Which of the statements given above are correct?
+- A. the language spoken by a skeleton when its ancestry matches a historically attested population
 
-A. 1, 2 and 3
+- B. ancestry relationships in a dated sampled individual
 
-B. 2 and 3 only
+- C. the caste of a Bronze Age community
 
-C. 1 and 3 only
+- D. the religious identity of a burial
 
-D. 1 only
+**Answer: B.**
 
-**Answer: C.** Mitanni is useful external attestation, not an Indian migration record. Its value is strongest when held within linguistic and chronological boundaries.
+**Option-wise explanation:**
 
-#### Remedial MCQ 36
+- **A:** Incorrect: Language is not encoded in DNA. [Q26-A]
+- **B:** Correct: this is the method’s proper object. [Q26-B]
+- **C:** Incorrect: Caste is historical and cannot be read directly from one genome. [Q26-C]
+- **D:** Incorrect: Burial meaning needs cultural evidence. [Q26-D]
 
-A candidate uses a single disputed horse find to settle the Aryan problem. The best correction is
+> **Examiner trap 26:** Ancestry is biological evidence with sample limits.
 
-A. replace it with a single genome
 
-B. ignore all animal evidence
+#### Q27
+27
+The strongest safe conclusion from the published Rakhigarhi genome is
 
-C. accept the result because horses are always decisive
+- A. all Harappans lacked Steppe ancestry
 
-D. separate species identification, context/date, vehicle technology and textual vocabulary before drawing an inference
+- B. Harappans spoke a non-Indo-European language
 
-**Answer: D.** The correction adds the necessary evidentiary chain. Replacing one decisive object with another does not solve the method problem.
+- C. one sampled Mature Harappan lacked detectable Steppe-pastoralist ancestry
 
-#### Remedial MCQ 37
+- D. no later Steppe-related movement occurred
 
-Which statement about the Rig Veda is correct?
+**Answer: C.**
 
-A. It is a layered oral corpus and a historical source, not a direct migration chronicle.
+**Option-wise explanation:**
 
-B. It contains a census of all early populations.
+- **A:** Incorrect: One person cannot represent all Harappans. [Q27-A]
+- **B:** Incorrect: Language was not recovered. [Q27-B]
+- **C:** Correct: the claim is bounded by person, context and date. [Q27-C]
+- **D:** Incorrect: Later movement is a different chronological question. [Q27-D]
 
-C. It directly identifies the language of every archaeological culture.
+> **Examiner trap 27:** Always state “one published individual”.
 
-D. It is an excavated Harappan inscription.
 
-**Answer: A.** The Rig Veda offers important linguistic and cultural evidence but is neither an excavated inscription nor a population census or culture-to-language key.
+#### Q28
+28
+Narasimhan et al. 2019 is most accurately used to support
 
-#### Remedial MCQ 38
+- A. a pure Aryan race
 
-Which formulation is appropriate for aDNA evidence in a UPSC answer?
+- B. one exact invasion date and route derived from modelled admixture estimates across all regions
 
-A. It proves a named race arrived on one exact date.
+- C. the language of every sampled individual
 
-B. It offers sample- and model-bounded ancestry evidence that requires archaeological and linguistic comparison.
+- D. later Steppe-related movement plus extensive IVC-related continuity and mixture
 
-C. It makes textual evidence irrelevant.
+**Answer: D.**
 
-D. It identifies a Vedic deity.
+**Option-wise explanation:**
 
-**Answer: B.** This formulation states both contribution and limit. Genetics can refine ancestry questions, not become race, language, theology or a single complete chronology.
+- **A:** Incorrect: The study rejects pure-race framing. [Q28-A]
+- **B:** Incorrect: Admixture is modelled over ranges. [Q28-B]
+- **C:** Incorrect: Genomes do not speak. [Q28-C]
+- **D:** Correct: the regional dataset supports movement and mixture together. [Q28-D]
 
-#### Remedial MCQ 39
+> **Examiner trap 28:** The study models population history, not an Aryan gene.
 
-The verified 2023/2024 Mains routes linked to this topic are most useful for practising
 
-A. an official answer key on migration
+#### Q29
+29
+Absence of archaeological evidence is strongest when
 
-B. a direct official question on Aryan origins
+- A. preservation, survey coverage and expected visibility are considered
 
-C. Vedic culture/transition analysis that can use evidence-aware method without claiming a direct Aryan-origin PYQ
+- B. nothing has yet been excavated
 
-D. a question proving a consensus homeland
+- C. a text predicts an event
 
-**Answer: C.** The routed questions are closely relevant Vedic-culture and transition demands, not direct official Aryan-origin/migration questions.
+- D. one excavated site lacks an artefact expected from a text, regardless of regional preservation
 
-#### Remedial MCQ 40
+**Answer: A.**
 
-Which is the most UPSC-safe final verdict?
+**Option-wise explanation:**
 
-A. All Harappans and Vedic speakers were one proven people.
+- **A:** Correct: patterned absence requires an expectation of survival and discovery. [Q29-A]
+- **B:** Incorrect: Unsearched ground makes absence weak. [Q29-B]
+- **C:** Incorrect: Textual expectation does not create material evidence. [Q29-C]
+- **D:** Incorrect: One local absence rarely supports a regional universal. [Q29-D]
 
-B. A violent invasion is a settled fact.
+> **Examiner trap 29:** Absence is evidence only after a visibility test.
 
-C. No mobility occurred in early South Asia.
 
-D. Migration, interaction and cultural synthesis are plausible frameworks, but language, material culture, ancestry and textual identity must remain analytically separate.
+#### Q30
+30
+Which process best explains early Vedic identity formation?
 
-**Answer: D.** The verdict rejects false extremes while preserving evidence boundaries. It neither denies mobility nor converts any source into a total identity claim.
+- A. complete replacement of local populations
+
+- B. mobility combined with bilingualism, alliance, intermarriage and borrowing
+
+- C. unchanged preservation of a sealed migrant culture without borrowing, intermarriage or adaptation
+
+- D. one royal decree imposing language
+
+**Answer: B.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: The evidence supports substantial local continuity. [Q30-A]
+- **B:** Correct: several social mechanisms can spread language and practices. [Q30-B]
+- **C:** Incorrect: Contact features contradict sealed preservation. [Q30-C]
+- **D:** Incorrect: No such decree is known. [Q30-D]
+
+> **Examiner trap 30:** Identity formed through interaction, not purity.
+
+
+#### Q31
+31
+Which three-level conclusion is best?
+
+- A. Every issue is unresolved.
+
+- B. all linguistic, archaeological, textual and genetic evidence proves the same migration event
+
+- C. Secure linguistic relationship; probable multi-phase movement; exact route and scale unresolved.
+
+- D. One archaeological culture settles the debate.
+
+**Answer: C.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: Several conclusions are high-confidence. [Q31-A]
+- **B:** Incorrect: Evidence classes have different objects. [Q31-B]
+- **C:** Correct: this grades facts, interpretations and open questions. [Q31-C]
+- **D:** Incorrect: No assemblage has that power. [Q31-D]
+
+> **Examiner trap 31:** Neutrality ranks evidence rather than flattening it.
+
+
+#### Q32
+32
+Which answer sequence is most defensible?
+
+- A. Genetics -> race -> ownership claim
+
+- B. Sarasvati -> Harappan language -> final verdict
+
+- C. Horse bone -> invasion -> replacement
+
+- D. define categories -> order chronology -> triangulate -> compare models -> qualify
+
+**Answer: D.**
+
+**Option-wise explanation:**
+
+- **A:** Incorrect: This commits category and presentist errors. [Q32-A]
+- **B:** Incorrect: River identification cannot decipher language. [Q32-B]
+- **C:** Incorrect: One faunal item cannot prove a military demographic event. [Q32-C]
+- **D:** Correct: this sequence makes the reasoning auditable. [Q32-D]
+
+> **Examiner trap 32:** A source-critical answer is an argument, not a slogan or catalogue.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified-question protocol — [CORE PRELIMS + CORE MAINS]
+### VERIFIED PYQ OWNERSHIP AND KEY DISCIPLINE
 
-**Honest ownership audit:** no direct Aryan-origin/migration question appears in the audited 2018-2026 local routing ledgers. The five questions below are verified, closely relevant routes on Vedic textual geography, cultural vocabulary and transition. They are practice material, not evidence that UPSC has directly asked a settled origins question.
+**Direct ownership audit:** the repository’s verified 2018-2026 routing ledgers contain **zero direct Aryan-origin or migration PYQs** for Topic 07. No question is relabelled to manufacture ownership.
 
-### Verified Question 1 - 2026 Prelims Series A Q10: Rigvedic Irrigation and Draught Power
+| Adjacent verified route | Status | Correct Topic 07 use |
+|---|---|---|
+| 2026 Prelims Set A Q10 — Rigvedic irrigation, wells and draught power | Question verified; local key provisional, so no official answer letter claimed | Tests bounded material vocabulary, not migration |
+| 2026 Prelims Set A Q15 — Vedic river names | Question verified; local key provisional | Tests precise textual geography, not an ethnic map |
+| 2026 Prelims Set A Q20 — *Kshetra-patni* | Question verified; local key provisional | Tests vocabulary; no full cultural chronology follows |
+| 2023 GS-I Q11 — Vedic society, religion and persistence | Exact Mains question verified; UPSC publishes no official model answer | Cultural-profile route owned primarily by Topic 08 |
+| 2024 GS-I Q1 — Rig-to-Later Vedic society and economy | Exact Mains question verified; UPSC publishes no official model answer | Transition route owned primarily by Topics 08-09 |
 
-> **Verified question; provisional answer/key — not officially verified.** Do not record or infer an official answer letter. Use it to separate Rigvedic ecological/material vocabulary from a claim about migration or population identity.
+> **Key discipline:** official wording and official answer keys are distinct. The three 2026 objective questions retain provisional-key status; no official option is asserted here. The two descriptive questions have instructional answer routes, never an “official model answer.”
 
-### Verified Question 2 - 2026 Prelims Series A Q13: Vedic River Names
+#### Adjacent Mains route — 2023 GS-I Q11
 
-> **Verified question; provisional answer/key — not officially verified.** The question tests close textual-geography pairings. A river-name association is not a conclusive ethnic map or universal date for the Rig Veda.
+**Verified wording:** What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society? (250 words, 15 marks.)
 
-### Verified Question 3 - 2026 Prelims Series A Q20: *Kshetra-patni*
+**Topic 07 answer route:** define the layered textual source; identify kinship, chiefly authority, pastoral-agricultural life, sacrifice and major deities; separate early from later Vedic traits; discuss only carefully qualified continuities. Do not convert the question into an Aryan-origin verdict.
 
-> **Verified question; provisional answer/key — not officially verified.** Treat the term as a textual-vocabulary route; do not convert one word into a full social chronology.
+#### Adjacent Mains route — 2024 GS-I Q1
 
-### Verified Question 4 - 2023 GS-I Q11: Vedic Society, Religion and Persistence
+**Verified wording:** Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (150 words, 10 marks.)
 
-> **Verified Mains question; no official model answer is implied.** Use it to practise cultural traits, text layering and selective continuity without asserting a direct Aryan-origin PYQ.
+**Topic 07 answer route:** compare cattle-centred agro-pastoral life with more settled agrarian production, kin-based groups with territorial tendencies and fluid hierarchy with later hardening. Use PGW only as a qualified archaeological context, not as the ethnicity of Vedic speakers.
 
-### Verified Question 5 - 2024 GS-I Q1: Rig-to-Later Vedic Social/Economic Change
+### SIX ORIGINAL MAINS QUESTIONS WITH MODEL SOLUTIONS
 
-> **Verified Mains question; no official model answer is implied.** Use chronology, material and textual change; it is a transition route, not an official migration-origin verdict.
+### ORIGINAL MAINS 1 — 10 MARKS
 
-### Original Mains 1 - 10 marks: Category Firewall
+**Question:** Why must *arya*, Indo-Aryan language and biological ancestry be kept analytically separate? (Answer in 150 words.)
 
-**Question (150 words):** Why must language, archaeology and biological ancestry be kept separate in the Aryan problem?
+**Model answer (125 words):**
 
-**Model answer:** The Aryan problem draws on sources that answer different questions. Indo-Aryan and Indo-Iranian are linguistic classifications established through systematic correspondence; pottery, burial and settlement patterns are archaeological categories; ancient DNA describes modelled ancestry in specific samples. A Rigvedic term such as *arya* is a contextual textual category. None automatically identifies the others. Thus PGW cannot be named “Aryan” merely from its material pattern, and one Rakhigarhi genome cannot establish Harappan language or all population history. Keeping the categories separate also rejects colonial racialisation and modern nationalist projection. A defensible reconstruction triangulates language, text, archaeology and genetics while marking what each cannot prove.
+The three terms answer different questions. In the Rig Veda, *arya* is a contextual self-designation linked to alliance, status and ritual-political belonging. Indo-Aryan is a linguistic subgroup established through regular correspondences with Iranian and wider Indo-European languages. Biological ancestry is reconstructed statistically from sampled genomes. None automatically identifies the others. Thus a PGW vessel cannot be called Indo-Aryan merely from its style, and one Rakhigarhi genome cannot establish Harappan language. The distinction also corrects colonial race theory, which converted linguistic kinship into biological hierarchy. A sound reconstruction may correlate language history, archaeological context and ancestry movement, but it must state the independent evidence and limit at every step. The category firewall does not deny mobility; it prevents mobility from becoming a racial or civilisational essence.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 1 - 10 marks: Category Firewall”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Define the three categories, show one false equation and end with the methodological gain.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** The answer directly distinguishes textual, linguistic and genetic evidence, uses PGW and Rakhigarhi, and qualifies convergence.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### ORIGINAL MAINS 2 — 10 MARKS
 
-**How to improve this answer:** For “Original Mains 1 - 10 marks: Category Firewall”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** Assess the value and limits of the Rig Veda for the Aryan problem. (Answer in 150 words.)
 
-### Original Mains 2 - 10 marks: Rig Veda as Evidence
+**Model answer (124 words):**
 
-**Question (150 words):** Assess the value and limitation of the Rig Veda for reconstructing early Vedic cultural history.
+The Rig Veda is indispensable for early Indo-Aryan language, ritual vocabulary, cattle-centred values, horse-chariot imagery and a broad north-western river world. Its family books help locate an early textual horizon around the Sindhu and its tributaries. Yet the corpus is orally transmitted, layered and ritual-poetic, not a dated migration chronicle or census. A hymn may combine memory, praise, myth and polemic; textual prominence cannot be converted into material frequency. The text also cannot identify the language of Cemetery H, PGW or another archaeological assemblage. Its evidence becomes strongest when clusters of references are compared with external linguistic chronology and independently dated archaeology. The Rig Veda therefore reconstructs a cultural world with exceptional richness, but not an exact route, population count or one-to-one ethnic map.
 
-**Model answer:** The Rig Veda is indispensable for early Indo-Aryan language, ritual vocabulary, river references, cattle wealth and a broad north-western milieu. Sapta-Sindhu and related references make it a valuable historical source. Yet it is an orally transmitted, religious-poetic and layered corpus, not a dated migration chronicle or census. A hymn cannot directly identify the language of an archaeological culture or establish a complete population route. Its evidence gains explanatory value when read with chronology and archaeology. Therefore the text offers rich clues to early Vedic cultural formation, but its literary character requires contextual and comparative interpretation.
+**Demand decoding:** Balance value and limitation; include genre, layering, geography and the archaeology boundary.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 2 - 10 marks: Rig Veda as Evidence”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Why this earns marks:** The model answers “assess”, uses named textual features and prevents literalist or dismissive extremes.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+### ORIGINAL MAINS 3 — 15 MARKS
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Question:** Why is migration-and-interaction a better framework than a simple Aryan invasion model? Discuss. (Answer in 250 words.)
 
-**How to improve this answer:** For “Original Mains 2 - 10 marks: Rig Veda as Evidence”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Model answer (180 words):**
 
-### Original Mains 3 - 15 marks: Migration versus Invasion
+A simple invasion model implies sudden conquest, a broad destruction horizon and substantial replacement. That model does not fit the archaeological record. Harappan cities declined unevenly, the Mohenjo-daro skeletons do not represent one massacre, and Late Harappan regional cultures preserve population and material continuities. This evidence rejects a civilisational destruction story, but not all later mobility.
 
-**Question (200 words):** Why is a migration-and-interaction framework more useful than a simple invasion model for the Aryan problem?
+Comparative linguistics securely places Vedic Sanskrit within Indo-Iranian and Indo-European. Mitanni divine names and horse-training vocabulary provide external Indo-Aryan attestation by the mid-second millennium BCE. BMAC, Sintashta and Swat show interaction corridors and technologies, although no assemblage identifies a language by itself. The 2019 Rakhigarhi genome constrains one Mature Harappan individual, while Narasimhan et al.’s wider dataset supports later Steppe-related ancestry movement alongside extensive IVC-related continuity.
 
-**Model answer:** A simple invasion model implies a sudden, uniform military conquest and population replacement. It is weakened by the lack of a secure, civilization-wide archaeological horizon of mass Harappan destruction and by the uneven chronology of post-urban regional change. This does not establish complete isolation or rule out later mobility. Linguistic relatedness places Indo-Aryan in an Indo-Iranian and wider Indo-European history; Rigvedic geography supplies a north-western textual milieu; archaeological cultures provide regional sequences; and genetics can refine ancestry questions in bounded samples. A migration-and-interaction framework accommodates movement at different scales, language spread, borrowing, marriage and adaptation alongside Late Harappan continuities. Its strength is not certainty about one route or one population, but its ability to explain multiple evidence streams without equating language, pottery, genes and identity.
+Migration-and-interaction can combine these findings through repeated small movements, pastoral and elite networks, bilingualism, marriage, conflict and borrowing. It explains language spread without requiring an invading race or disappearance of local populations. Exact routes, scale, gender balance and political mechanisms remain debated. The strongest conclusion is therefore mobility plus acculturation and regional synthesis, not invasion or purity.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 3 - 15 marks: Migration versus Invasion”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Demand decoding:** Contrast model predictions, test them against archaeology, linguistics and aDNA, then name social mechanisms.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** The model uses four independent evidence classes and clearly distinguishes rejection of invasion from rejection of migration.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+### ORIGINAL MAINS 4 — 15 MARKS
 
-**How to improve this answer:** For “Original Mains 3 - 15 marks: Migration versus Invasion”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Question:** Can Cemetery H, Gandhara Grave, OCP or PGW identify the speakers of Vedic Sanskrit? Discuss. (Answer in 250 words.)
 
-### Original Mains 4 - 15 marks: Archaeology and Identity
+**Model answer (189 words):**
 
-**Question (200 words):** Can archaeological cultures identify the speakers of Vedic Sanskrit? Discuss.
+Archaeological cultures classify recurring combinations of pottery, burial, house form, tools and diet. They provide chronology and material context, but they do not record speech or self-identified ethnicity unless independent inscriptions or texts exist.
 
-**Model answer:** Archaeology is indispensable for settlement, chronology, technology, burial and regional interaction, but an assemblage does not speak. Cemetery H, Gandhara Grave/Swat, OCP, PGW, BMAC and late Harappan contexts can frame possible contacts and transitions. Bhagwanpura's late Harappan-PGW sequence, for example, is useful for studying change, not for naming speakers. Material culture may spread through trade, imitation, marriage, elite adoption or mobility, and one language may be spoken across several assemblages. Therefore a pottery or burial cannot mechanically identify Vedic Sanskrit speakers. The better method combines archaeological sequence with linguistic history, bounded textual clues and, where available, carefully contextualised genetic evidence. The conclusion is deliberately limited: archaeology supplies essential context for Vedic cultural formation but not a one-to-one ethnic or linguistic label.
+Cemetery H combines Harappan pottery continuity with changed mortuary practices; this indicates transformation, not a named migrant people. Gandhara Grave or Swat spans a long period with varied burials and outside contacts, making a single-wave label untenable. OCP overlaps Late Harappan contexts at some sites, while many copper hoards lack secure stratigraphy. PGW is mainly a later Vedic and early Iron Age comparison; it overlaps Late Harappan material at some settlements but follows it after a break elsewhere.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 4 - 15 marks: Archaeology and Identity”, coverage of every clause, evidence-led analysis and a qualified verdict.
+These horizons can be correlated with textual and linguistic developments only cautiously. Objects may spread through trade, imitation, marriage, specialist mobility or demographic movement, and one language can cross several assemblages. Bhagwanpura is therefore evidence of sequence and interaction, not a bilingual name-tag. Archaeology is indispensable to reconstruct the setting of Vedic cultural formation, but none of these cultures can independently identify Vedic Sanskrit speakers. The correct vocabulary is “associated with”, “overlaps with” and “may reflect contact”.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Demand decoding:** Define archaeological culture, compare all four horizons and finish with a controlled vocabulary.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Why this earns marks:** The model gives each named culture a distinct evidentiary role and explicitly answers the identity question.
 
-**How to improve this answer:** For “Original Mains 4 - 15 marks: Archaeology and Identity”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+### ORIGINAL MAINS 5 — 20 MARKS
 
-### Original Mains 5 - 20 marks: Genetics and Historical Method
+**Question:** Evaluate the contribution and limits of ancient DNA to the Aryan problem. (Answer in 250 words.)
 
-**Question (250 words):** Evaluate the contribution and limits of archaeogenetics to the Aryan problem.
+**Model answer (202 words):**
 
-**Model answer:** Archaeogenetics has changed the debate by allowing direct evidence of biological ancestry in particular ancient individuals and comparison with wider datasets. It can test whether an affinity appears in a dated archaeological context and can refine questions of mixture, sequence and regional diversity. Rakhigarhi is significant as a context-specific ancient sample; broader South/Central Asian datasets widen comparison. However, preservation is uneven, samples are few and geographically selective, cemeteries may not represent populations, contamination and authentication matter, and inference depends on reference populations and statistical models. Most importantly, ancestry components are not languages, races, castes, named peoples or self-identities. A sample cannot independently settle the language of Harappans, the date and scale of every migration or a complete Vedic chronology. Its best use is triangulation: combine sample/context/model limits with comparative linguistics, layered texts and archaeology. Thus genetics refines a multi-evidence historical problem; it does not replace it or issue a final identity verdict.
+Ancient DNA has added direct biological evidence to a debate long dominated by text, language and archaeology. It can identify ancestry affinities and admixture in dated sampled individuals, test whether population movement is plausible and compare regions across time.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 5 - 20 marks: Genetics and Historical Method”, coverage of every clause, evidence-led analysis and a qualified verdict.
+Shinde et al.’s 2019 *Cell* study recovered one Mature Harappan genome from Rakhigarhi. That individual lacked detectable Steppe-pastoralist ancestry; the result is a significant chronological constraint, not proof about every Harappan or the language of the civilisation. Its Iranian-related component represented a deep lineage rather than a simple recent migration of sampled western farmers.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+Narasimhan et al.’s 2019 *Science* study analysed 523 ancient individuals from Central and northern South Asia. It supports later Steppe-related ancestry movement and extensive IVC-related contribution to later South Asian populations. This pattern is consistent with migration and mixture rather than either mass replacement or complete isolation.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Limits remain decisive: preservation and contamination, uneven geographic sampling, cemetery selection, small regional samples, sex bias, reference-population choice and modelled admixture ranges. An ancestry component is not a language, race, caste, religion or self-identity. Genetics is therefore strongest when triangulated with Indo-Iranian linguistics, Mitanni chronology and archaeological contexts. It changes probabilities and chronology; it cannot independently pronounce who was “Aryan”.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+**Demand decoding:** Explain method, treat Rakhigarhi and the wider study separately, list sample/model limits, then restore triangulation.
 
-**How to improve this answer:** For “Original Mains 5 - 20 marks: Genetics and Historical Method”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
 
-### Original Mains 6 - 20 marks: Colonial Racialisation and Evidence Ethics
+**Why this earns marks:** The answer uses dated peer-reviewed studies, exact sample scope and explicit language-culture limits.
 
-**Question (250 words):** Examine how colonial racialisation and presentist identity claims can distort the Aryan problem. Suggest an evidence-aware approach.
+### ORIGINAL MAINS 6 — 20 MARKS
 
-**Model answer:** Colonial scholarship often converted linguistic categories into racial hierarchies and read an ancient language relationship as a civilisational ownership claim. Presentist arguments can reverse the polarity yet repeat the method: they project modern nation, race or religious identity onto texts, pottery, bones or genomes. Both approaches flatten layered evidence. An evidence-aware method begins by separating language, archaeological culture, biological ancestry, textual identity and modern political categories. It then ranks claims: comparative linguistics securely supports language relatedness; Rigvedic geography and vocabulary provide bounded textual clues; archaeology gives regional chronology and material practice; genetics offers sample- and model-limited ancestry evidence. Mitanni, BMAC, PGW, Swat or Rakhigarhi can be used as qualified examples, never as single-object verdicts. Finally, it distinguishes lack of a mass-invasion horizon from proof of zero mobility. The appropriate conclusion is historically modest: early Vedic cultural formation involved questions of movement, contact and synthesis that remain partly unresolved. Ethical communication makes uncertainty visible rather than turning it into advocacy.
+**Question:** Examine the political misuse of the Aryan question and propose a neutral source-criticism framework. (Answer in 250 words.)
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Mains 6 - 20 marks: Colonial Racialisation and Evidence Ethics”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Model answer (210 words):**
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+The Aryan question has repeatedly been converted from historical inquiry into a claim about hierarchy or ownership. Colonial philology correctly recognised language relationship but often racialised it, presenting a superior Aryan people as the maker of civilisation. Later nationalist and communal arguments sometimes reversed the conclusion while retaining the same essentialist method: an ancient word, pot, river or genome becomes a certificate of modern purity.
 
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+A neutral framework begins with a category firewall. *Arya* is a contextual textual designation; Indo-Aryan is linguistic; archaeological culture records material practice; ancient DNA records sampled ancestry. It then orders chronology: Mature Harappan urbanism largely precedes the conventional Rigvedic horizon, while post-Harappan cultures and Central Asian corridors overlap unevenly.
 
-**Why this earns marks:** The answer follows the directive, links precise evidence to analysis, acknowledges source or regional limits and closes with a reasoned verdict.
+Each evidence class receives a bounded task. Comparative linguistics establishes descent and contact; Mitanni supplies external attestation; the Rig Veda supplies a layered north-western textual world; archaeology tests material sequence; Rakhigarhi and Narasimhan et al. constrain population history. Competing models are evaluated against all classes. The mass-invasion model fails; complete zero-mobility faces substantial contrary evidence; multi-phase migration and interaction best fit the current record.
 
-**How to improve this answer:** For “Original Mains 6 - 20 marks: Colonial Racialisation and Evidence Ethics”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+Neutrality does not mean equal weight for every claim. It means distinguishing secure facts, probable synthesis and unresolved route, scale, language and identity. Ancient mobility or continuity cannot confer modern political legitimacy.
+
+**Demand decoding:** Trace misuse, establish the firewall, weigh evidence by function and end with graded confidence.
+
+**Claim -> evidence -> analysis -> qualification check:** Each body paragraph links a named source or case to its precise inference and then states the category, chronology or sampling limit.
+
+**Why this earns marks:** The model combines historiography, method and a clear verdict without turning uncertainty into false equivalence.

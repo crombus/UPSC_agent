@@ -1,1092 +1,667 @@
 ---
-title: "The Mauryan Empire — Solved Practice Workbook"
+title: "The Mauryan Empire: Solved Practice Workbook"
 topic_key: ancient-indian-history-14
 ---
-# The Mauryan Empire — Solved Practice Workbook
+# The Mauryan Empire: Solved Practice Workbook
+
+> **Practice contract:** exactly 32 original hard/remedial MCQs precede the PYQ audit; strict ABCD rotation repeats eight times; 128 option explanations and 32 traps are question-specific. Official PYQ option order is never relabelled to fit that rotation.
 
 ## BASIC MCQS / REMEDIATION
 
-### Hard MCQ 01 - Source method
+### 32 ORIGINAL HARD MCQS
+
+> These are original questions, not UPSC PYQs. Correct keys rotate A → B → C → D exactly eight times.
+
+#### Q1
 
 Which source is securely contemporary with Ashoka and most directly reveals his public political-ethical voice?
 
-- (a) Ashokan edicts
-- (b) The final redacted Arthashastra
-- (c) Megasthenes as quoted by Strabo alone
-- (d) Ashokavadana legends
+- A. Ashokan edicts
+- B. The final redacted Arthashastra
+- C. Megasthenes as quoted by Strabo alone
+- D. Ashokavadana legends
 
-**Answer: A** - Ashokan edicts
-**Explanation:** The edicts are royal proclamations dated to Ashoka's reign.
+**Answer: A.**
 
-**Named evidence:** Major/minor rock and pillar inscriptions
+**Option-wise explanation:**
 
-**Qualification:** They reveal intention and self-presentation more securely than implementation.
+- **A:** The edicts are royal proclamations dated to Ashoka's reign. Named evidence: Major/minor rock and pillar inscriptions. Qualification: They reveal intention and self-presentation more securely than implementation. [Q01-A]
+- **B:** This option misreads source method: the controlling evidence is Major/minor rock and pillar inscriptions, whereas “The final redacted Arthashastra” conflicts with the required chronology, source class, geography or degree of certainty. [Q01-B]
+- **C:** This option misreads source method: the controlling evidence is Major/minor rock and pillar inscriptions, whereas “Megasthenes as quoted by Strabo alone” conflicts with the required chronology, source class, geography or degree of certainty. [Q01-C]
+- **D:** This option misreads source method: the controlling evidence is Major/minor rock and pillar inscriptions, whereas “Ashokavadana legends” conflicts with the required chronology, source class, geography or degree of certainty. [Q01-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 1:** In source method, test the tempting claim “The final redacted Arthashastra” against Major/minor rock and pillar inscriptions; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 02 - Chronology
+#### Q2
 
 Which sequence is chronologically correct?
 
-- (a) Bindusara -> Chandragupta -> Ashoka
-- (b) Chandragupta -> Bindusara -> Ashoka
-- (c) Chandragupta -> Ashoka -> Bindusara
-- (d) Ashoka -> Chandragupta -> Bindusara
+- A. Bindusara -> Chandragupta -> Ashoka, applied identically from the north-west to the far south
+- B. Chandragupta -> Bindusara -> Ashoka
+- C. Chandragupta -> Ashoka -> Bindusara
+- D. Ashoka -> Chandragupta -> Bindusara
 
-**Answer: B** - Chandragupta -> Bindusara -> Ashoka
-**Explanation:** The first three major Mauryas were Chandragupta, Bindusara and Ashoka.
+**Answer: B.**
 
-**Named evidence:** Puranic/classical/traditional dynastic reconstruction
+**Option-wise explanation:**
 
-**Qualification:** Exact accession years vary.
+- **A:** This option misreads chronology: the controlling evidence is Puranic/classical/traditional dynastic reconstruction, whereas “Bindusara -> Chandragupta -> Ashoka, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q02-A]
+- **B:** The first three major Mauryas were Chandragupta, Bindusara and Ashoka. Named evidence: Puranic/classical/traditional dynastic reconstruction. Qualification: Exact accession years vary. [Q02-B]
+- **C:** This option misreads chronology: the controlling evidence is Puranic/classical/traditional dynastic reconstruction, whereas “Chandragupta -> Ashoka -> Bindusara” conflicts with the required chronology, source class, geography or degree of certainty. [Q02-C]
+- **D:** This option misreads chronology: the controlling evidence is Puranic/classical/traditional dynastic reconstruction, whereas “Ashoka -> Chandragupta -> Bindusara” conflicts with the required chronology, source class, geography or degree of certainty. [Q02-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 2:** In chronology, test the tempting claim “Chandragupta -> Ashoka -> Bindusara” against Puranic/classical/traditional dynastic reconstruction; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 03 - Arthashastra
+#### Q3
 
 What is the safest use of the Arthashastra in a Mauryan answer?
 
-- (a) As the official Mauryan civil-service manual
-- (b) As Megasthenes' lost eyewitness diary
-- (c) As a theoretical statecraft text whose Mauryan application needs corroboration
-- (d) As an Ashokan edict collection
+- A. As the official Mauryan civil-service manual
+- B. As Megasthenes' lost eyewitness diary
+- C. As a theoretical statecraft text whose Mauryan application needs corroboration
+- D. As an Ashokan edict collection, applied identically from the north-west to the far south
 
-**Answer: C** - As a theoretical statecraft text whose Mauryan application needs corroboration
-**Explanation:** Current scholarship treats the extant text as theoretical and substantially post-Mauryan/redacted.
+**Answer: C.**
 
-**Named evidence:** Upinder Singh Chapter 7; Olivelle/McClish debate
+**Option-wise explanation:**
 
-**Qualification:** Earlier ideas within the text may predate its final composition.
+- **A:** This option misreads arthashastra: the controlling evidence is Upinder Singh Chapter 7; Olivelle/McClish debate, whereas “As the official Mauryan civil-service manual” conflicts with the required chronology, source class, geography or degree of certainty. [Q03-A]
+- **B:** This option misreads arthashastra: the controlling evidence is Upinder Singh Chapter 7; Olivelle/McClish debate, whereas “As Megasthenes' lost eyewitness diary” conflicts with the required chronology, source class, geography or degree of certainty. [Q03-B]
+- **C:** Current scholarship treats the extant text as theoretical and substantially post-Mauryan/redacted. Named evidence: Upinder Singh Chapter 7; Olivelle/McClish debate. Qualification: Earlier ideas within the text may predate its final composition. [Q03-C]
+- **D:** This option misreads arthashastra: the controlling evidence is Upinder Singh Chapter 7; Olivelle/McClish debate, whereas “As an Ashokan edict collection, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q03-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 3:** In arthashastra, test the tempting claim “As an Ashokan edict collection” against Upinder Singh Chapter 7; Olivelle/McClish debate; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 04 - Megasthenes
+#### Q4
 
 Why is Megasthenes described as evidence passing through a 'double filter'?
 
-- (a) He wrote first in Brahmi and then translated himself into Greek
-- (b) Two Mauryan kings censored every passage
-- (c) The Indica survives in two complete manuscripts
-- (d) His observations were interpreted by him and then selected by later Graeco-Roman writers
+- A. He wrote first in Brahmi and then translated himself into Greek
+- B. Two Mauryan kings censored every passage, with no regional or chronological variation in the surviving record
+- C. The Indica survives in two complete manuscripts
+- D. His observations were interpreted by him and then selected by later Graeco-Roman writers
 
-**Answer: D** - His observations were interpreted by him and then selected by later Graeco-Roman writers
-**Explanation:** The original Indica is lost; fragments survive through later authors.
+**Answer: D.**
 
-**Named evidence:** Strabo, Arrian, Diodorus and Pliny
+**Option-wise explanation:**
 
-**Qualification:** Some observations are useful when independently corroborated.
+- **A:** This option misreads megasthenes: the controlling evidence is Strabo, Arrian, Diodorus and Pliny, whereas “He wrote first in Brahmi and then translated himself into Greek” conflicts with the required chronology, source class, geography or degree of certainty. [Q04-A]
+- **B:** This option misreads megasthenes: the controlling evidence is Strabo, Arrian, Diodorus and Pliny, whereas “Two Mauryan kings censored every passage, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q04-B]
+- **C:** This option misreads megasthenes: the controlling evidence is Strabo, Arrian, Diodorus and Pliny, whereas “The Indica survives in two complete manuscripts” conflicts with the required chronology, source class, geography or degree of certainty. [Q04-C]
+- **D:** The original Indica is lost; fragments survive through later authors. Named evidence: Strabo, Arrian, Diodorus and Pliny. Qualification: Some observations are useful when independently corroborated. [Q04-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 4:** In megasthenes, test the tempting claim “He wrote first in Brahmi and then translated himself into Greek” against Strabo, Arrian, Diodorus and Pliny; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 05 - Seleucus treaty
+#### Q5
 
 Which element belongs to the Chandragupta-Seleucus treaty tradition?
 
-- (a) Transfer of 500 elephants to Seleucus
-- (b) Ashoka's surrender of Kalinga
-- (c) Bindusara's gift of the Sarnath capital
-- (d) Seleucus becoming governor of Taxila
+- A. Transfer of 500 elephants to Seleucus
+- B. Ashoka's surrender of Kalinga
+- C. Bindusara's gift of the Sarnath capital
+- D. Seleucus becoming governor of Taxila
 
-**Answer: A** - Transfer of 500 elephants to Seleucus
-**Explanation:** Classical sources associate the settlement with territorial transfer and 500 elephants.
+**Answer: A.**
 
-**Named evidence:** Graeco-Roman treaty tradition
+**Option-wise explanation:**
 
-**Qualification:** Exact date, marriage clause and territorial control remain debated.
+- **A:** Classical sources associate the settlement with territorial transfer and 500 elephants. Named evidence: Graeco-Roman treaty tradition. Qualification: Exact date, marriage clause and territorial control remain debated. [Q05-A]
+- **B:** This option misreads seleucus treaty: the controlling evidence is Graeco-Roman treaty tradition, whereas “Ashoka's surrender of Kalinga” conflicts with the required chronology, source class, geography or degree of certainty. [Q05-B]
+- **C:** This option misreads seleucus treaty: the controlling evidence is Graeco-Roman treaty tradition, whereas “Bindusara's gift of the Sarnath capital” conflicts with the required chronology, source class, geography or degree of certainty. [Q05-C]
+- **D:** This option misreads seleucus treaty: the controlling evidence is Graeco-Roman treaty tradition, whereas “Seleucus becoming governor of Taxila” conflicts with the required chronology, source class, geography or degree of certainty. [Q05-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 5:** In seleucus treaty, test the tempting claim “Ashoka's surrender of Kalinga” against Graeco-Roman treaty tradition; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 06 - Bindusara
+#### Q6
 
 Which statement about Bindusara is most defensible?
 
-- (a) His Deccan conquest is documented by a contemporary victory inscription
-- (b) He maintained Hellenistic diplomatic contacts, but the evidence for his conquests is thin
-- (c) He founded the dynasty after Kalinga
-- (d) He issued the complete pillar-edict series
+- A. His Deccan conquest is documented by a contemporary victory inscription
+- B. He maintained Hellenistic diplomatic contacts, but the evidence for his conquests is thin
+- C. He founded the dynasty after Kalinga, established by a contemporary inscription as an empire-wide rule
+- D. He issued the complete pillar-edict series
 
-**Answer: B** - He maintained Hellenistic diplomatic contacts, but the evidence for his conquests is thin
-**Explanation:** Envoy traditions are firmer than detailed conquest narratives.
+**Answer: B.**
 
-**Named evidence:** Deimachus/Dionysius notices; late Taranatha account
+**Option-wise explanation:**
 
-**Qualification:** Most evidence is later and fragmentary.
+- **A:** This option misreads bindusara: the controlling evidence is Deimachus/Dionysius notices; late Taranatha account, whereas “His Deccan conquest is documented by a contemporary victory inscription” conflicts with the required chronology, source class, geography or degree of certainty. [Q06-A]
+- **B:** Envoy traditions are firmer than detailed conquest narratives. Named evidence: Deimachus/Dionysius notices; late Taranatha account. Qualification: Most evidence is later and fragmentary. [Q06-B]
+- **C:** This option misreads bindusara: the controlling evidence is Deimachus/Dionysius notices; late Taranatha account, whereas “He founded the dynasty after Kalinga, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q06-C]
+- **D:** This option misreads bindusara: the controlling evidence is Deimachus/Dionysius notices; late Taranatha account, whereas “He issued the complete pillar-edict series” conflicts with the required chronology, source class, geography or degree of certainty. [Q06-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 6:** In bindusara, test the tempting claim “He founded the dynasty after Kalinga” against Deimachus/Dionysius notices; late Taranatha account; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 07 - Imperial extent
+#### Q7
 
 What does an Ashokan edict find-spot most securely establish?
 
-- (a) Uniform direct administration of the entire surrounding region
-- (b) A permanent Mauryan garrison of known size
-- (c) Imperial contact and an attempt at communication at or near that location
-- (d) Absence of all local political institutions
+- A. Uniform direct administration of the entire surrounding region
+- B. A permanent Mauryan garrison of known size, established by a contemporary inscription as an empire-wide rule
+- C. Imperial contact and an attempt at communication at or near that location
+- D. Absence of all local political institutions
 
-**Answer: C** - Imperial contact and an attempt at communication at or near that location
-**Explanation:** Find-spots are evidence of message placement and authority claims.
+**Answer: C.**
 
-**Named evidence:** Distribution of major/minor edicts
+**Option-wise explanation:**
 
-**Qualification:** Effective control must be tested with regional archaeology and context.
+- **A:** This option misreads imperial extent: the controlling evidence is Distribution of major/minor edicts, whereas “Uniform direct administration of the entire surrounding region” conflicts with the required chronology, source class, geography or degree of certainty. [Q07-A]
+- **B:** This option misreads imperial extent: the controlling evidence is Distribution of major/minor edicts, whereas “A permanent Mauryan garrison of known size, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q07-B]
+- **C:** Find-spots are evidence of message placement and authority claims. Named evidence: Distribution of major/minor edicts. Qualification: Effective control must be tested with regional archaeology and context. [Q07-C]
+- **D:** This option misreads imperial extent: the controlling evidence is Distribution of major/minor edicts, whereas “Absence of all local political institutions” conflicts with the required chronology, source class, geography or degree of certainty. [Q07-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 7:** In imperial extent, test the tempting claim “Absence of all local political institutions” against Distribution of major/minor edicts; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 08 - Provinces
+#### Q8
 
 Which pairing is correctly associated with a reconstructed Mauryan provincial centre?
 
-- (a) Taxila - Kalinga province
-- (b) Ujjayini - eastern Bengal province
-- (c) Tosali - north-western province
-- (d) Suvarnagiri - southern province
+- A. Taxila - Kalinga province
+- B. Ujjayini - eastern Bengal province
+- C. Tosali - north-western province
+- D. Suvarnagiri - southern province
 
-**Answer: D** - Suvarnagiri - southern province
-**Explanation:** Suvarnagiri is associated with the southern administrative network.
+**Answer: D.**
 
-**Named evidence:** Ashokan inscriptional geography
+**Option-wise explanation:**
 
-**Qualification:** The four-province scheme is reconstructed, not a complete official list.
+- **A:** This option misreads provinces: the controlling evidence is Ashokan inscriptional geography, whereas “Taxila - Kalinga province” conflicts with the required chronology, source class, geography or degree of certainty. [Q08-A]
+- **B:** This option misreads provinces: the controlling evidence is Ashokan inscriptional geography, whereas “Ujjayini - eastern Bengal province” conflicts with the required chronology, source class, geography or degree of certainty. [Q08-B]
+- **C:** This option misreads provinces: the controlling evidence is Ashokan inscriptional geography, whereas “Tosali - north-western province” conflicts with the required chronology, source class, geography or degree of certainty. [Q08-C]
+- **D:** Suvarnagiri is associated with the southern administrative network. Named evidence: Ashokan inscriptional geography. Qualification: The four-province scheme is reconstructed, not a complete official list. [Q08-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 8:** In provinces, test the tempting claim “Taxila - Kalinga province” against Ashokan inscriptional geography; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 09 - Officers
+#### Q9
 
-The 2025 official Set-A key places Pradeshika, Rajuka and Yukta primarily at which level?
+When the locally held 2025 key is reconciled with Rock Edict III without making the three offices identical, where should the pradeshika-rajuka-yukta triad be placed?
 
-- (a) District level
-- (b) Central court only
-- (c) Foreign embassy level
-- (d) Village level
+- A. District level
+- B. Central court only
+- C. Foreign embassy level
+- D. Village level
 
-**Answer: A** - District level
-**Explanation:** The locally held official key marks district-level administration.
+**Answer: A.**
 
-**Named evidence:** UPSC 2025 Q19; Rock Edict III
+**Option-wise explanation:**
 
-**Qualification:** Their precise relative ranks and functions remain debated.
+- **A:** The locally held official key marks district-level administration. Named evidence: UPSC 2025 Q19; Rock Edict III. Qualification: Their precise relative ranks and functions remain debated. [Q09-A]
+- **B:** This option misreads officers: the controlling evidence is UPSC 2025 Q19; Rock Edict III, whereas “Central court only” conflicts with the required chronology, source class, geography or degree of certainty. [Q09-B]
+- **C:** This option misreads officers: the controlling evidence is UPSC 2025 Q19; Rock Edict III, whereas “Foreign embassy level” conflicts with the required chronology, source class, geography or degree of certainty. [Q09-C]
+- **D:** This option misreads officers: the controlling evidence is UPSC 2025 Q19; Rock Edict III, whereas “Village level” conflicts with the required chronology, source class, geography or degree of certainty. [Q09-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 9:** In officers, test the tempting claim “Central court only” against UPSC 2025 Q19; Rock Edict III; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 10 - Mahamattas
+#### Q10
 
 Which officer category was specially created by Ashoka in his thirteenth consecrated year?
 
-- (a) Sannidhatas
-- (b) Dhamma-mahamattas
-- (c) Samahartas
-- (d) Senapatis
+- A. Sannidhatas
+- B. Dhamma-mahamattas
+- C. Samahartas
+- D. Senapatis, with no regional or chronological variation in the surviving record
 
-**Answer: B** - Dhamma-mahamattas
-**Explanation:** Major Rock Edict V records the new dhamma cadre.
+**Answer: B.**
 
-**Named evidence:** Major Rock Edict V
+**Option-wise explanation:**
 
-**Qualification:** They were ethical-welfare officials, not merely Buddhist missionaries.
+- **A:** This option misreads mahamattas: the controlling evidence is Major Rock Edict V, whereas “Sannidhatas” conflicts with the required chronology, source class, geography or degree of certainty. [Q10-A]
+- **B:** Major Rock Edict V records the new dhamma cadre. Named evidence: Major Rock Edict V. Qualification: They were ethical-welfare officials, not merely Buddhist missionaries. [Q10-B]
+- **C:** This option misreads mahamattas: the controlling evidence is Major Rock Edict V, whereas “Samahartas” conflicts with the required chronology, source class, geography or degree of certainty. [Q10-C]
+- **D:** This option misreads mahamattas: the controlling evidence is Major Rock Edict V, whereas “Senapatis, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q10-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 10:** In mahamattas, test the tempting claim “Samahartas” against Major Rock Edict V; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 11 - Rajuka
+#### Q11
 
 Which description best fits the rajuka under Ashoka?
 
-- (a) A hereditary village priest only
-- (b) The keeper of the royal treasury in the Arthashastra
-- (c) A high field officer with land-measurement associations and later judicial, welfare and dhamma duties
-- (d) A Greek ambassador to Pataliputra
+- A. A hereditary village priest only, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception
+- B. The keeper of the royal treasury in the Arthashastra
+- C. A high field officer with land-measurement associations and later judicial, welfare and dhamma duties
+- D. A Greek ambassador to Pataliputra
 
-**Answer: C** - A high field officer with land-measurement associations and later judicial, welfare and dhamma duties
-**Explanation:** The edicts expand rajuka responsibilities beyond a possible surveying origin.
+**Answer: C.**
 
-**Named evidence:** Rock Edict III; Pillar Edict IV
+**Option-wise explanation:**
 
-**Qualification:** The derivation from rajju is suggestive, not conclusive.
+- **A:** This option misreads rajuka: the controlling evidence is Rock Edict III; Pillar Edict IV, whereas “A hereditary village priest only, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception” conflicts with the required chronology, source class, geography or degree of certainty. [Q11-A]
+- **B:** This option misreads rajuka: the controlling evidence is Rock Edict III; Pillar Edict IV, whereas “The keeper of the royal treasury in the Arthashastra” conflicts with the required chronology, source class, geography or degree of certainty. [Q11-B]
+- **C:** The edicts expand rajuka responsibilities beyond a possible surveying origin. Named evidence: Rock Edict III; Pillar Edict IV. Qualification: The derivation from rajju is suggestive, not conclusive. [Q11-C]
+- **D:** This option misreads rajuka: the controlling evidence is Rock Edict III; Pillar Edict IV, whereas “A Greek ambassador to Pataliputra” conflicts with the required chronology, source class, geography or degree of certainty. [Q11-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 11:** In rajuka, test the tempting claim “A Greek ambassador to Pataliputra” against Rock Edict III; Pillar Edict IV; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 12 - Reporting
+#### Q12
 
 What is the central administrative claim of Rock Edict VI?
 
-- (a) All land was owned by the king
-- (b) The sangha elected provincial governors
-- (c) Kalinga was restored to independence
-- (d) Reporters should convey public affairs to the king at any time and place
+- A. All land was owned by the king, established by a contemporary inscription as an empire-wide rule
+- B. The sangha elected provincial governors
+- C. Kalinga was restored to independence
+- D. Reporters should convey public affairs to the king at any time and place
 
-**Answer: D** - Reporters should convey public affairs to the king at any time and place
-**Explanation:** The edict presents strenuous royal accessibility and rapid reporting.
+**Answer: D.**
 
-**Named evidence:** Rock Edict VI
+**Option-wise explanation:**
 
-**Qualification:** It is a command/ideal, not proof of instantaneous empire-wide compliance.
+- **A:** This option misreads reporting: the controlling evidence is Rock Edict VI, whereas “All land was owned by the king, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q12-A]
+- **B:** This option misreads reporting: the controlling evidence is Rock Edict VI, whereas “The sangha elected provincial governors” conflicts with the required chronology, source class, geography or degree of certainty. [Q12-B]
+- **C:** This option misreads reporting: the controlling evidence is Rock Edict VI, whereas “Kalinga was restored to independence” conflicts with the required chronology, source class, geography or degree of certainty. [Q12-C]
+- **D:** The edict presents strenuous royal accessibility and rapid reporting. Named evidence: Rock Edict VI. Qualification: It is a command/ideal, not proof of instantaneous empire-wide compliance. [Q12-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 12:** In reporting, test the tempting claim “All land was owned by the king” against Rock Edict VI; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 13 - Justice
+#### Q13
 
 Which evidence proves Ashoka did not abolish capital punishment?
 
-- (a) Pillar Edict IV's three-day respite for condemned prisoners
-- (b) Rock Edict XII on sectarian concord
-- (c) The Bhabru recommendation of Buddhist texts
-- (d) The Sarnath lion capital
+- A. Pillar Edict IV's three-day respite for condemned prisoners
+- B. Rock Edict XII on sectarian concord
+- C. The Bhabru recommendation of Buddhist texts
+- D. The Sarnath lion capital, established by a contemporary inscription as an empire-wide rule
 
-**Answer: A** - Pillar Edict IV's three-day respite for condemned prisoners
-**Explanation:** A respite presupposes the continued death sentence.
+**Answer: A.**
 
-**Named evidence:** Pillar Edict IV
+**Option-wise explanation:**
 
-**Qualification:** The edict simultaneously urges fairness and mercy.
+- **A:** A respite presupposes the continued death sentence. Named evidence: Pillar Edict IV. Qualification: The edict simultaneously urges fairness and mercy. [Q13-A]
+- **B:** This option misreads justice: the controlling evidence is Pillar Edict IV, whereas “Rock Edict XII on sectarian concord” conflicts with the required chronology, source class, geography or degree of certainty. [Q13-B]
+- **C:** This option misreads justice: the controlling evidence is Pillar Edict IV, whereas “The Bhabru recommendation of Buddhist texts” conflicts with the required chronology, source class, geography or degree of certainty. [Q13-C]
+- **D:** This option misreads justice: the controlling evidence is Pillar Edict IV, whereas “The Sarnath lion capital, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q13-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 13:** In justice, test the tempting claim “Rock Edict XII on sectarian concord” against Pillar Edict IV; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 14 - Military
+#### Q14
 
 Which conclusion about Ashoka's post-Kalinga military policy is safest?
 
-- (a) He dissolved every military unit immediately
-- (b) He preferred dhamma-vijaya but retained coercive power and did not announce army disbandment
-- (c) He returned Kalinga and ended taxation
-- (d) He renounced all judicial punishment
+- A. He dissolved every military unit immediately
+- B. He preferred dhamma-vijaya but retained coercive power and did not announce army disbandment
+- C. He returned Kalinga and ended taxation
+- D. He renounced all judicial punishment, with no regional or chronological variation in the surviving record
 
-**Answer: B** - He preferred dhamma-vijaya but retained coercive power and did not announce army disbandment
-**Explanation:** Rock Edict XIII combines anti-war remorse with a warning to forest peoples.
+**Answer: B.**
 
-**Named evidence:** Major Rock Edict XIII
+**Option-wise explanation:**
 
-**Qualification:** The frequency of later coercive operations is unknown.
+- **A:** This option misreads military: the controlling evidence is Major Rock Edict XIII, whereas “He dissolved every military unit immediately” conflicts with the required chronology, source class, geography or degree of certainty. [Q14-A]
+- **B:** Rock Edict XIII combines anti-war remorse with a warning to forest peoples. Named evidence: Major Rock Edict XIII. Qualification: The frequency of later coercive operations is unknown. [Q14-B]
+- **C:** This option misreads military: the controlling evidence is Major Rock Edict XIII, whereas “He returned Kalinga and ended taxation” conflicts with the required chronology, source class, geography or degree of certainty. [Q14-C]
+- **D:** This option misreads military: the controlling evidence is Major Rock Edict XIII, whereas “He renounced all judicial punishment, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q14-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 14:** In military, test the tempting claim “He returned Kalinga and ended taxation” against Major Rock Edict XIII; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 15 - Revenue
+#### Q15
 
 Which statement about Mauryan land revenue is most accurate?
 
-- (a) No agrarian tax existed after Kalinga
-- (b) One-fourth was uniformly collected everywhere
-- (c) Rates and actual collection varied across regions and sources
-- (d) Every plot was legally owned by Ashoka
+- A. No agrarian tax existed after Kalinga, treated as a uniform arrangement in every province
+- B. One-fourth was uniformly collected everywhere
+- C. Rates and actual collection varied across regions and sources
+- D. Every plot was legally owned by Ashoka
 
-**Answer: C** - Rates and actual collection varied across regions and sources
-**Explanation:** Rummindei, classical notices and normative one-sixth claims differ.
+**Answer: C.**
 
-**Named evidence:** Rummindei pillar; Megasthenes fragments; textual norms
+**Option-wise explanation:**
 
-**Qualification:** A concession at one village is not an empire-wide schedule.
+- **A:** This option misreads revenue: the controlling evidence is Rummindei pillar; Megasthenes fragments; textual norms, whereas “No agrarian tax existed after Kalinga, treated as a uniform arrangement in every province” conflicts with the required chronology, source class, geography or degree of certainty. [Q15-A]
+- **B:** This option misreads revenue: the controlling evidence is Rummindei pillar; Megasthenes fragments; textual norms, whereas “One-fourth was uniformly collected everywhere” conflicts with the required chronology, source class, geography or degree of certainty. [Q15-B]
+- **C:** Rummindei, classical notices and normative one-sixth claims differ. Named evidence: Rummindei pillar; Megasthenes fragments; textual norms. Qualification: A concession at one village is not an empire-wide schedule. [Q15-C]
+- **D:** This option misreads revenue: the controlling evidence is Rummindei pillar; Megasthenes fragments; textual norms, whereas “Every plot was legally owned by Ashoka” conflicts with the required chronology, source class, geography or degree of certainty. [Q15-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 15:** In revenue, test the tempting claim “Every plot was legally owned by Ashoka” against Rummindei pillar; Megasthenes fragments; textual norms; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 16 - Rummindei
+#### Q16
 
 What fiscal measure is recorded at Lumbini in the Rummindei inscription?
 
-- (a) Appointment of Seleucus as governor
-- (b) Creation of six army committees
-- (c) Abolition of all taxes in Kalinga
-- (d) Exemption from bali and reduction of bhaga to one-eighth
+- A. Appointment of Seleucus as governor
+- B. Creation of six army committees, with no regional or chronological variation in the surviving record
+- C. Abolition of all taxes in Kalinga
+- D. Exemption from bali and reduction of bhaga to one-eighth
 
-**Answer: D** - Exemption from bali and reduction of bhaga to one-eighth
-**Explanation:** The inscription links pilgrimage, commemoration and a local tax concession.
+**Answer: D.**
 
-**Named evidence:** Rummindei pillar inscription
+**Option-wise explanation:**
 
-**Qualification:** The prior rate and precise meaning of bali need caution.
+- **A:** This option misreads rummindei: the controlling evidence is Rummindei pillar inscription, whereas “Appointment of Seleucus as governor” conflicts with the required chronology, source class, geography or degree of certainty. [Q16-A]
+- **B:** This option misreads rummindei: the controlling evidence is Rummindei pillar inscription, whereas “Creation of six army committees, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q16-B]
+- **C:** This option misreads rummindei: the controlling evidence is Rummindei pillar inscription, whereas “Abolition of all taxes in Kalinga” conflicts with the required chronology, source class, geography or degree of certainty. [Q16-C]
+- **D:** The inscription links pilgrimage, commemoration and a local tax concession. Named evidence: Rummindei pillar inscription. Qualification: The prior rate and precise meaning of bali need caution. [Q16-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 16:** In rummindei, test the tempting claim “Appointment of Seleucus as governor” against Rummindei pillar inscription; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 17 - Irrigation
+#### Q17
 
 Which evidence connects Chandragupta's and Ashoka's administrations with the Sudarshana reservoir?
 
-- (a) Rudradaman's later Junagadh inscription
-- (b) Major Rock Edict XII
-- (c) The Kanaganahalli portrait label
-- (d) Megasthenes' seven social groups
+- A. Rudradaman's later Junagadh inscription
+- B. Major Rock Edict XII, applied identically from the north-west to the far south
+- C. The Kanaganahalli portrait label
+- D. Megasthenes' seven social groups
 
-**Answer: A** - Rudradaman's later Junagadh inscription
-**Explanation:** The later inscription credits Pushyagupta and Tushaspha in the reservoir's history.
+**Answer: A.**
 
-**Named evidence:** Junagadh inscription of Rudradaman
+**Option-wise explanation:**
 
-**Qualification:** It is retrospective evidence written centuries later.
+- **A:** The later inscription credits Pushyagupta and Tushaspha in the reservoir's history. Named evidence: Junagadh inscription of Rudradaman. Qualification: It is retrospective evidence written centuries later. [Q17-A]
+- **B:** This option misreads irrigation: the controlling evidence is Junagadh inscription of Rudradaman, whereas “Major Rock Edict XII, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q17-B]
+- **C:** This option misreads irrigation: the controlling evidence is Junagadh inscription of Rudradaman, whereas “The Kanaganahalli portrait label” conflicts with the required chronology, source class, geography or degree of certainty. [Q17-C]
+- **D:** This option misreads irrigation: the controlling evidence is Junagadh inscription of Rudradaman, whereas “Megasthenes' seven social groups” conflicts with the required chronology, source class, geography or degree of certainty. [Q17-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 17:** In irrigation, test the tempting claim “Major Rock Edict XII” against Junagadh inscription of Rudradaman; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 18 - Economy debate
+#### Q18
 
 Which position best fits the evidence on Mauryan economic control?
 
-- (a) A proven total command economy
-- (b) Selective and regionally varied state intervention alongside local and private activity
-- (c) A state with no taxation or regulation
-- (d) An economy controlled exclusively by Buddhist monasteries
+- A. A proven total command economy, applied identically from the north-west to the far south
+- B. Selective and regionally varied state intervention alongside local and private activity
+- C. A state with no taxation or regulation
+- D. An economy controlled exclusively by Buddhist monasteries
 
-**Answer: B** - Selective and regionally varied state intervention alongside local and private activity
-**Explanation:** Inscriptions show partial interventions; archaeology shows multiple actors.
+**Answer: B.**
 
-**Named evidence:** Rummindei, Sudarshana, towns, coins and crafts
+**Option-wise explanation:**
 
-**Qualification:** Arthashastra monopolies are prescriptions, not an audited economy.
+- **A:** This option misreads economy debate: the controlling evidence is Rummindei, Sudarshana, towns, coins and crafts, whereas “A proven total command economy, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q18-A]
+- **B:** Inscriptions show partial interventions; archaeology shows multiple actors. Named evidence: Rummindei, Sudarshana, towns, coins and crafts. Qualification: Arthashastra monopolies are prescriptions, not an audited economy. [Q18-B]
+- **C:** This option misreads economy debate: the controlling evidence is Rummindei, Sudarshana, towns, coins and crafts, whereas “A state with no taxation or regulation” conflicts with the required chronology, source class, geography or degree of certainty. [Q18-C]
+- **D:** This option misreads economy debate: the controlling evidence is Rummindei, Sudarshana, towns, coins and crafts, whereas “An economy controlled exclusively by Buddhist monasteries” conflicts with the required chronology, source class, geography or degree of certainty. [Q18-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 18:** In economy debate, test the tempting claim “A state with no taxation or regulation” against Rummindei, Sudarshana, towns, coins and crafts; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 19 - Coinage
+#### Q19
 
 Which caution applies to Mauryan punch-marked coins?
 
-- (a) All were gold dinaras
-- (b) They ended payments in kind
-- (c) Symbols may have political or religious meaning, but ruler attribution is often speculative
-- (d) Every symbol is a dated portrait of Ashoka
+- A. All were gold dinaras, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception
+- B. They ended payments in kind
+- C. Symbols may have political or religious meaning, but ruler attribution is often speculative
+- D. Every symbol is a dated portrait of Ashoka
 
-**Answer: C** - Symbols may have political or religious meaning, but ruler attribution is often speculative
-**Explanation:** The motifs came from a broad early-historic cultural pool.
+**Answer: C.**
 
-**Named evidence:** Silver punch-marked coins and symbol studies
+**Option-wise explanation:**
 
-**Qualification:** Coin use and monetisation remained uneven.
+- **A:** This option misreads coinage: the controlling evidence is Silver punch-marked coins and symbol studies, whereas “All were gold dinaras, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception” conflicts with the required chronology, source class, geography or degree of certainty. [Q19-A]
+- **B:** This option misreads coinage: the controlling evidence is Silver punch-marked coins and symbol studies, whereas “They ended payments in kind” conflicts with the required chronology, source class, geography or degree of certainty. [Q19-B]
+- **C:** The motifs came from a broad early-historic cultural pool. Named evidence: Silver punch-marked coins and symbol studies. Qualification: Coin use and monetisation remained uneven. [Q19-C]
+- **D:** This option misreads coinage: the controlling evidence is Silver punch-marked coins and symbol studies, whereas “Every symbol is a dated portrait of Ashoka” conflicts with the required chronology, source class, geography or degree of certainty. [Q19-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 19:** In coinage, test the tempting claim “Every symbol is a dated portrait of Ashoka” against Silver punch-marked coins and symbol studies; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 20 - Urban archaeology
+#### Q20
 
 Which archaeological pair most directly supports a large wooden fortified Pataliputra?
 
-- (a) Maski and Brahmagiri
-- (b) Dhauli and Jaugada
-- (c) Sanchi and Bharhut
-- (d) Kumrahar and Bulandibagh
+- A. Maski and Brahmagiri
+- B. Dhauli and Jaugada, with no regional or chronological variation in the surviving record
+- C. Sanchi and Bharhut
+- D. Kumrahar and Bulandibagh
 
-**Answer: D** - Kumrahar and Bulandibagh
-**Explanation:** Kumrahar has a pillared hall; Bulandibagh has wooden palisade remains.
+**Answer: D.**
 
-**Named evidence:** Excavations at ancient Patna
+**Option-wise explanation:**
 
-**Qualification:** The hall's exact function and stratigraphy remain debated.
+- **A:** This option misreads urban archaeology: the controlling evidence is Excavations at ancient Patna, whereas “Maski and Brahmagiri” conflicts with the required chronology, source class, geography or degree of certainty. [Q20-A]
+- **B:** This option misreads urban archaeology: the controlling evidence is Excavations at ancient Patna, whereas “Dhauli and Jaugada, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q20-B]
+- **C:** This option misreads urban archaeology: the controlling evidence is Excavations at ancient Patna, whereas “Sanchi and Bharhut” conflicts with the required chronology, source class, geography or degree of certainty. [Q20-C]
+- **D:** Kumrahar has a pillared hall; Bulandibagh has wooden palisade remains. Named evidence: Excavations at ancient Patna. Qualification: The hall's exact function and stratigraphy remain debated. [Q20-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 20:** In urban archaeology, test the tempting claim “Maski and Brahmagiri” against Excavations at ancient Patna; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 21 - Megasthenes society
+#### Q21
 
 Megasthenes' seven social groups are best understood as:
 
-- (a) A Greek classificatory construction mixing occupations and administrative ranks
-- (b) The official seven varnas of Mauryan law
-- (c) An Ashokan census table
-- (d) Seven Buddhist monastic grades
+- A. A Greek classificatory construction mixing occupations and administrative ranks
+- B. The official seven varnas of Mauryan law
+- C. An Ashokan census table, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception
+- D. Seven Buddhist monastic grades
 
-**Answer: A** - A Greek classificatory construction mixing occupations and administrative ranks
-**Explanation:** They do not correspond to varna or jati.
+**Answer: A.**
 
-**Named evidence:** Indica fragments and Thapar's analysis
+**Option-wise explanation:**
 
-**Qualification:** Some notices still capture heredity/endogamy tendencies.
+- **A:** They do not correspond to varna or jati. Named evidence: Indica fragments and Thapar's analysis. Qualification: Some notices still capture heredity/endogamy tendencies. [Q21-A]
+- **B:** This option misreads megasthenes society: the controlling evidence is Indica fragments and Thapar's analysis, whereas “The official seven varnas of Mauryan law” conflicts with the required chronology, source class, geography or degree of certainty. [Q21-B]
+- **C:** This option misreads megasthenes society: the controlling evidence is Indica fragments and Thapar's analysis, whereas “An Ashokan census table, treated as a uniform arrangement in every province; it is also claimed to operate uniformly in every province without exception” conflicts with the required chronology, source class, geography or degree of certainty. [Q21-C]
+- **D:** This option misreads megasthenes society: the controlling evidence is Indica fragments and Thapar's analysis, whereas “Seven Buddhist monastic grades” conflicts with the required chronology, source class, geography or degree of certainty. [Q21-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 21:** In megasthenes society, test the tempting claim “The official seven varnas of Mauryan law” against Indica fragments and Thapar's analysis; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 22 - Slavery
+#### Q22
 
 Which evidence directly contradicts Megasthenes' claim that India had no slaves?
 
-- (a) The Sarnath wheel
-- (b) Ashoka's reference to dasas and bhatakas
-- (c) The Seleucus treaty
-- (d) The Kalsi elephant alone
+- A. The Sarnath wheel, applied identically from the north-west to the far south
+- B. Ashoka's reference to dasas and bhatakas
+- C. The Seleucus treaty
+- D. The Kalsi elephant alone
 
-**Answer: B** - Ashoka's reference to dasas and bhatakas
-**Explanation:** Rock edicts prescribe courteous conduct toward slaves and servants.
+**Answer: B.**
 
-**Named evidence:** Rock Edicts IX/XI
+**Option-wise explanation:**
 
-**Qualification:** Terms cover varied forms of dependence and do not quantify prevalence.
+- **A:** This option misreads slavery: the controlling evidence is Rock Edicts IX/XI, whereas “The Sarnath wheel, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q22-A]
+- **B:** Rock edicts prescribe courteous conduct toward slaves and servants. Named evidence: Rock Edicts IX/XI. Qualification: Terms cover varied forms of dependence and do not quantify prevalence. [Q22-B]
+- **C:** This option misreads slavery: the controlling evidence is Rock Edicts IX/XI, whereas “The Seleucus treaty” conflicts with the required chronology, source class, geography or degree of certainty. [Q22-C]
+- **D:** This option misreads slavery: the controlling evidence is Rock Edicts IX/XI, whereas “The Kalsi elephant alone” conflicts with the required chronology, source class, geography or degree of certainty. [Q22-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 22:** In slavery, test the tempting claim “The Seleucus treaty” against Rock Edicts IX/XI; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 23 - Women
+#### Q23
 
 What can the Queen's Edict of Karuvaki most securely demonstrate?
 
-- (a) Abolition of patriarchal norms
-- (b) General equality of all Mauryan women
-- (c) Elite female authority to make recorded pious gifts
-- (d) Female control of the entire army
+- A. Abolition of patriarchal norms, treated as a uniform arrangement in every province
+- B. General equality of all Mauryan women
+- C. Elite female authority to make recorded pious gifts
+- D. Female control of the entire army
 
-**Answer: C** - Elite female authority to make recorded pious gifts
-**Explanation:** The inscription records groves, gardens and alms-house gifts.
+**Answer: C.**
 
-**Named evidence:** Karuvaki's inscription on Allahabad-Kosam pillar
+**Option-wise explanation:**
 
-**Qualification:** An elite case cannot represent all women.
+- **A:** This option misreads women: the controlling evidence is Karuvaki's inscription on Allahabad-Kosam pillar, whereas “Abolition of patriarchal norms, treated as a uniform arrangement in every province” conflicts with the required chronology, source class, geography or degree of certainty. [Q23-A]
+- **B:** This option misreads women: the controlling evidence is Karuvaki's inscription on Allahabad-Kosam pillar, whereas “General equality of all Mauryan women” conflicts with the required chronology, source class, geography or degree of certainty. [Q23-B]
+- **C:** The inscription records groves, gardens and alms-house gifts. Named evidence: Karuvaki's inscription on Allahabad-Kosam pillar. Qualification: An elite case cannot represent all women. [Q23-C]
+- **D:** This option misreads women: the controlling evidence is Karuvaki's inscription on Allahabad-Kosam pillar, whereas “Female control of the entire army” conflicts with the required chronology, source class, geography or degree of certainty. [Q23-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 23:** In women, test the tempting claim “Female control of the entire army” against Karuvaki's inscription on Allahabad-Kosam pillar; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 24 - Religious plurality
+#### Q24
 
 Which fact most clearly disproves the claim that Ashoka established an exclusively Buddhist state religion?
 
-- (a) His pilgrimage to Lumbini
-- (b) His conquest of Kalinga
-- (c) His use of Brahmi
-- (d) His Barabar cave donations to Ajivikas and calls to honour all sects
+- A. His pilgrimage to Lumbini
+- B. His conquest of Kalinga
+- C. His use of Brahmi, applied identically from the north-west to the far south
+- D. His Barabar cave donations to Ajivikas and calls to honour all sects
 
-**Answer: D** - His Barabar cave donations to Ajivikas and calls to honour all sects
-**Explanation:** Patronage and public policy were plural despite personal Buddhism.
+**Answer: D.**
 
-**Named evidence:** Barabar inscriptions; Rock Edict XII
+**Option-wise explanation:**
 
-**Qualification:** Plural patronage still operated under paternal monarchy.
+- **A:** This option misreads religious plurality: the controlling evidence is Barabar inscriptions; Rock Edict XII, whereas “His pilgrimage to Lumbini” conflicts with the required chronology, source class, geography or degree of certainty. [Q24-A]
+- **B:** This option misreads religious plurality: the controlling evidence is Barabar inscriptions; Rock Edict XII, whereas “His conquest of Kalinga” conflicts with the required chronology, source class, geography or degree of certainty. [Q24-B]
+- **C:** This option misreads religious plurality: the controlling evidence is Barabar inscriptions; Rock Edict XII, whereas “His use of Brahmi, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q24-C]
+- **D:** Patronage and public policy were plural despite personal Buddhism. Named evidence: Barabar inscriptions; Rock Edict XII. Qualification: Plural patronage still operated under paternal monarchy. [Q24-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 24:** In religious plurality, test the tempting claim “His pilgrimage to Lumbini” against Barabar inscriptions; Rock Edict XII; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 25 - Kalinga chronology
+#### Q25
 
 Major Rock Edict XIII dates the Kalinga conquest to:
 
-- (a) After eight completed years from Ashoka's consecration
-- (b) The final year of Bindusara
-- (c) After Ashoka's death
-- (d) Before Chandragupta's accession
+- A. After eight completed years from Ashoka's consecration
+- B. The final year of Bindusara
+- C. After Ashoka's death, treated as a uniform arrangement in every province
+- D. Before Chandragupta's accession
 
-**Answer: A** - After eight completed years from Ashoka's consecration
-**Explanation:** The war occurred in the ninth regnal year after abhisheka.
+**Answer: A.**
 
-**Named evidence:** Major Rock Edict XIII
+**Option-wise explanation:**
 
-**Qualification:** The absolute BCE year depends on the reign chronology used.
+- **A:** The war occurred in the ninth regnal year after abhisheka. Named evidence: Major Rock Edict XIII. Qualification: The absolute BCE year depends on the reign chronology used. [Q25-A]
+- **B:** This option misreads kalinga chronology: the controlling evidence is Major Rock Edict XIII, whereas “The final year of Bindusara” conflicts with the required chronology, source class, geography or degree of certainty. [Q25-B]
+- **C:** This option misreads kalinga chronology: the controlling evidence is Major Rock Edict XIII, whereas “After Ashoka's death, treated as a uniform arrangement in every province” conflicts with the required chronology, source class, geography or degree of certainty. [Q25-C]
+- **D:** This option misreads kalinga chronology: the controlling evidence is Major Rock Edict XIII, whereas “Before Chandragupta's accession” conflicts with the required chronology, source class, geography or degree of certainty. [Q25-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 25:** In kalinga chronology, test the tempting claim “The final year of Bindusara” against Major Rock Edict XIII; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 26 - Kalinga casualties
+#### Q26
 
 How should the Kalinga casualty numbers be used?
 
-- (a) As figures from Megasthenes' Indica
-- (b) As Ashoka's inscriptional claims, not independently audited statistics
-- (c) As proof that Kalinga was uninhabited afterward
-- (d) As modern census-certified totals
+- A. As figures from Megasthenes' Indica
+- B. As Ashoka's inscriptional claims, not independently audited statistics
+- C. As proof that Kalinga was uninhabited afterward
+- D. As modern census-certified totals, with no regional or chronological variation in the surviving record
 
-**Answer: B** - As Ashoka's inscriptional claims, not independently audited statistics
-**Explanation:** The figures are powerful direct royal testimony but not corroborated counts.
+**Answer: B.**
 
-**Named evidence:** Major Rock Edict XIII
+**Option-wise explanation:**
 
-**Qualification:** Their rhetorical and commemorative context matters.
+- **A:** This option misreads kalinga casualties: the controlling evidence is Major Rock Edict XIII, whereas “As figures from Megasthenes' Indica” conflicts with the required chronology, source class, geography or degree of certainty. [Q26-A]
+- **B:** The figures are powerful direct royal testimony but not corroborated counts. Named evidence: Major Rock Edict XIII. Qualification: Their rhetorical and commemorative context matters. [Q26-B]
+- **C:** This option misreads kalinga casualties: the controlling evidence is Major Rock Edict XIII, whereas “As proof that Kalinga was uninhabited afterward” conflicts with the required chronology, source class, geography or degree of certainty. [Q26-C]
+- **D:** This option misreads kalinga casualties: the controlling evidence is Major Rock Edict XIII, whereas “As modern census-certified totals, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q26-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 26:** In kalinga casualties, test the tempting claim “As proof that Kalinga was uninhabited afterward” against Major Rock Edict XIII; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 27 - Separate edicts
+#### Q27
 
 Why are Dhauli and Jaugada especially important?
 
-- (a) They contain the Sarnath lion capital
-- (b) They are the only Kharoshthi sites
-- (c) They preserve Separate Kalinga Edicts on post-conquest administration and confidence-building
-- (d) They record Chandragupta's Seleucus treaty
+- A. They contain the Sarnath lion capital
+- B. They are the only Kharoshthi sites, established by a contemporary inscription as an empire-wide rule
+- C. They preserve Separate Kalinga Edicts on post-conquest administration and confidence-building
+- D. They record Chandragupta's Seleucus treaty
 
-**Answer: C** - They preserve Separate Kalinga Edicts on post-conquest administration and confidence-building
-**Explanation:** Their regional text replaces parts of the standard major-edict sequence.
+**Answer: C.**
 
-**Named evidence:** Separate Rock Edicts I-II
+**Option-wise explanation:**
 
-**Qualification:** Policy orders do not prove complete implementation.
+- **A:** This option misreads separate edicts: the controlling evidence is Separate Rock Edicts I-II, whereas “They contain the Sarnath lion capital” conflicts with the required chronology, source class, geography or degree of certainty. [Q27-A]
+- **B:** This option misreads separate edicts: the controlling evidence is Separate Rock Edicts I-II, whereas “They are the only Kharoshthi sites, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q27-B]
+- **C:** Their regional text replaces parts of the standard major-edict sequence. Named evidence: Separate Rock Edicts I-II. Qualification: Policy orders do not prove complete implementation. [Q27-C]
+- **D:** This option misreads separate edicts: the controlling evidence is Separate Rock Edicts I-II, whereas “They record Chandragupta's Seleucus treaty” conflicts with the required chronology, source class, geography or degree of certainty. [Q27-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 27:** In separate edicts, test the tempting claim “They record Chandragupta's Seleucus treaty” against Separate Rock Edicts I-II; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 28 - Dhamma
+#### Q28
 
 Which formulation best defines Ashoka's public dhamma?
 
-- (a) The complete Buddhist monastic Vinaya
-- (b) A modern secular constitution
-- (c) A programme of compulsory conversion
-- (d) An imperial social ethic with Buddhist roots, focused on conduct, non-injury, welfare and concord
+- A. The complete Buddhist monastic Vinaya
+- B. A modern secular constitution, with no regional or chronological variation in the surviving record
+- C. A programme of compulsory conversion
+- D. An imperial social ethic with Buddhist roots, focused on conduct, non-injury, welfare and concord
 
-**Answer: D** - An imperial social ethic with Buddhist roots, focused on conduct, non-injury, welfare and concord
-**Explanation:** The edicts address everyday relations and multiple sects.
+**Answer: D.**
 
-**Named evidence:** Rock Edicts VII, IX, XI, XII and pillar edicts
+**Option-wise explanation:**
 
-**Qualification:** Dhamma remained paternal and tied to merit/heaven.
+- **A:** This option misreads dhamma: the controlling evidence is Rock Edicts VII, IX, XI, XII and pillar edicts, whereas “The complete Buddhist monastic Vinaya” conflicts with the required chronology, source class, geography or degree of certainty. [Q28-A]
+- **B:** This option misreads dhamma: the controlling evidence is Rock Edicts VII, IX, XI, XII and pillar edicts, whereas “A modern secular constitution, with no regional or chronological variation in the surviving record” conflicts with the required chronology, source class, geography or degree of certainty. [Q28-B]
+- **C:** This option misreads dhamma: the controlling evidence is Rock Edicts VII, IX, XI, XII and pillar edicts, whereas “A programme of compulsory conversion” conflicts with the required chronology, source class, geography or degree of certainty. [Q28-C]
+- **D:** The edicts address everyday relations and multiple sects. Named evidence: Rock Edicts VII, IX, XI, XII and pillar edicts. Qualification: Dhamma remained paternal and tied to merit/heaven. [Q28-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 28:** In dhamma, test the tempting claim “The complete Buddhist monastic Vinaya” against Rock Edicts VII, IX, XI, XII and pillar edicts; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 29 - Religious concord
+#### Q29
 
 Major Rock Edict XII goes beyond passive tolerance by urging:
 
-- (a) Restraint, listening and growth in the essentials of all sects
-- (b) Election of monks as governors
-- (c) Destruction of every non-Buddhist shrine
-- (d) End of royal patronage
+- A. Restraint, listening and growth in the essentials of all sects
+- B. Election of monks as governors
+- C. Destruction of every non-Buddhist shrine
+- D. End of royal patronage, established by a contemporary inscription as an empire-wide rule
 
-**Answer: A** - Restraint, listening and growth in the essentials of all sects
-**Explanation:** The edict seeks dialogue and mutual understanding.
+**Answer: A.**
 
-**Named evidence:** Major Rock Edict XII
+**Option-wise explanation:**
 
-**Qualification:** Royal exhortation does not prove conflict ended.
+- **A:** The edict seeks dialogue and mutual understanding. Named evidence: Major Rock Edict XII. Qualification: Royal exhortation does not prove conflict ended. [Q29-A]
+- **B:** This option misreads religious concord: the controlling evidence is Major Rock Edict XII, whereas “Election of monks as governors” conflicts with the required chronology, source class, geography or degree of certainty. [Q29-B]
+- **C:** This option misreads religious concord: the controlling evidence is Major Rock Edict XII, whereas “Destruction of every non-Buddhist shrine” conflicts with the required chronology, source class, geography or degree of certainty. [Q29-C]
+- **D:** This option misreads religious concord: the controlling evidence is Major Rock Edict XII, whereas “End of royal patronage, established by a contemporary inscription as an empire-wide rule” conflicts with the required chronology, source class, geography or degree of certainty. [Q29-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 29:** In religious concord, test the tempting claim “Election of monks as governors” against Major Rock Edict XII; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 30 - Personal Buddhism
+#### Q30
 
 Which inscription most directly describes Ashoka as a lay follower who became more zealous gradually?
 
-- (a) The Sohgaura plaque
-- (b) Minor Rock Edict I
-- (c) The Junagadh inscription of Rudradaman
-- (d) Major Rock Edict XIII alone
+- A. The Sohgaura plaque
+- B. Minor Rock Edict I
+- C. The Junagadh inscription of Rudradaman
+- D. Major Rock Edict XIII alone
 
-**Answer: B** - Minor Rock Edict I
-**Explanation:** Minor Rock Edict I gives a staged account of lay affiliation and effort.
+**Answer: B.**
 
-**Named evidence:** Minor Rock Edict I
+**Option-wise explanation:**
 
-**Qualification:** The wording varies across versions.
+- **A:** This option misreads personal buddhism: the controlling evidence is Minor Rock Edict I, whereas “The Sohgaura plaque” conflicts with the required chronology, source class, geography or degree of certainty. [Q30-A]
+- **B:** Minor Rock Edict I gives a staged account of lay affiliation and effort. Named evidence: Minor Rock Edict I. Qualification: The wording varies across versions. [Q30-B]
+- **C:** This option misreads personal buddhism: the controlling evidence is Minor Rock Edict I, whereas “The Junagadh inscription of Rudradaman” conflicts with the required chronology, source class, geography or degree of certainty. [Q30-C]
+- **D:** This option misreads personal buddhism: the controlling evidence is Minor Rock Edict I, whereas “Major Rock Edict XIII alone” conflicts with the required chronology, source class, geography or degree of certainty. [Q30-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 30:** In personal buddhism, test the tempting claim “The Junagadh inscription of Rudradaman” against Minor Rock Edict I; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 31 - Bhabru
-
-What is distinctive about the Bhabru/Bairat inscription?
-
-- (a) It lists all Mauryan tax rates
-- (b) It records the Seleucid marriage
-- (c) Ashoka recommends specific Buddhist texts to monks, nuns and lay followers
-- (d) It is written only in Greek
-
-**Answer: C** - Ashoka recommends specific Buddhist texts to monks, nuns and lay followers
-**Explanation:** It is direct evidence of personal Buddhist textual preference.
-
-**Named evidence:** Bhabru Minor Rock Edict
-
-**Qualification:** It should not be treated as the content of all public dhamma edicts.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 32 - Dhamma machinery
-
-Who were the principal special officers for Ashoka's dhamma programme?
-
-- (a) Only Greek ambassadors
-- (b) Harappan merchants
-- (c) Shunga feudatories
-- (d) Dhamma-mahamattas
-
-**Answer: D** - Dhamma-mahamattas
-**Explanation:** They worked across social groups, sects and frontier communities.
-
-**Named evidence:** Major Rock Edict V
-
-**Qualification:** Their effectiveness cannot be measured from the edict alone.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 33 - Audience
-
-Who formed the largest practical audience for many edicts?
-
-- (a) Subjects hearing the message through officials and oral recitation
-- (b) Only Hellenistic kings
-- (c) Only Buddhist monks at Pataliputra
-- (d) Only literate royal scribes reading privately
-
-**Answer: A** - Subjects hearing the message through officials and oral recitation
-**Explanation:** Low literacy and difficult placements made intermediaries essential.
-
-**Named evidence:** Separate edicts; Rock Edict III; oral-reading instructions
-
-**Qualification:** Reception varied by language, authority and local conditions.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 34 - Scripts
+#### Q31
 
 Which script-language pairing is correct?
 
-- (a) Kandahar - Brahmi only
-- (b) Shahbazgarhi - Kharoshthi and north-western Prakrit
-- (c) Mansehra - Tamil-Brahmi only
-- (d) Girnar - Greek only
+- A. Kandahar - Brahmi only
+- B. Mansehra - Tamil-Brahmi only
+- C. Shahbazgarhi - Kharoshthi and north-western Prakrit
+- D. Girnar - Greek only, applied identically from the north-west to the far south
 
-**Answer: B** - Shahbazgarhi - Kharoshthi and north-western Prakrit
-**Explanation:** Shahbazgarhi and Mansehra use Kharoshthi.
+**Answer: C.**
 
-**Named evidence:** Ashokan inscription corpus
+**Option-wise explanation:**
 
-**Qualification:** Script choice does not by itself identify ethnicity.
+- **A:** This option misreads scripts: the controlling evidence is Ashokan inscription corpus, whereas “Kandahar - Brahmi only” conflicts with the required chronology, source class, geography or degree of certainty. [Q31-A]
+- **B:** This option misreads scripts: the controlling evidence is Ashokan inscription corpus, whereas “Mansehra - Tamil-Brahmi only” conflicts with the required chronology, source class, geography or degree of certainty. [Q31-B]
+- **C:** Shahbazgarhi and Mansehra use Kharoshthi. Named evidence: Ashokan inscription corpus. Qualification: Script choice does not by itself identify ethnicity. [Q31-C]
+- **D:** This option misreads scripts: the controlling evidence is Ashokan inscription corpus, whereas “Girnar - Greek only, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q31-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 31:** In scripts, test the tempting claim “Girnar - Greek only” against Ashokan inscription corpus; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 35 - Major rock sites
-
-Which pair consists of two Kalinga major/separate-edict sites in Odisha?
-
-- (a) Maski and Brahmagiri
-- (b) Mansehra and Shahbazgarhi
-- (c) Dhauli and Jaugada
-- (d) Kalsi and Girnar
-
-**Answer: C** - Dhauli and Jaugada
-**Explanation:** Dhauli and Jaugada carry regionally adapted Kalinga texts.
-
-**Named evidence:** Ashokan site list
-
-**Qualification:** Exact administrative-centre identifications remain debated.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 36 - Pillars
-
-Which site preserves an Ashokan pillar inscription commemorating the Buddha's birthplace and a tax concession?
-
-- (a) Sohgaura
-- (b) Kanaganahalli
-- (c) Sopara
-- (d) Rummindei (Lumbini)
-
-**Answer: D** - Rummindei (Lumbini)
-**Explanation:** The Rummindei inscription records the royal visit and fiscal privilege.
-
-**Named evidence:** Rummindei pillar
-
-**Qualification:** It is a local commemoration, not a general tax code.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 37 - Southern neighbours
-
-Which group is presented in the edicts as southern neighbours rather than securely annexed provinces?
-
-- (a) Cholas, Pandyas, Keralaputras and Satiyaputras
-- (b) Pataliputra, Kaushambi, Vaishali and Rajgir
-- (c) Kandahar, Mansehra, Kalsi and Girnar
-- (d) Taxila, Ujjayini, Tosali and Suvarnagiri
-
-**Answer: A** - Cholas, Pandyas, Keralaputras and Satiyaputras
-**Explanation:** Rock Edicts II/XIII distinguish these polities from the imperial domain.
-
-**Named evidence:** Major Rock Edicts II and XIII
-
-**Qualification:** Dhamma outreach is not territorial sovereignty.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 38 - Foreign horizon
-
-What do the Hellenistic kings named in Rock Edict XIII prove most securely?
-
-- (a) A Greek army stationed at Sanchi
-- (b) Ashoka's awareness of and claimed moral outreach to a wider geopolitical world
-- (c) Mauryan annexation of Egypt and Macedonia
-- (d) Conversion certificates from all five courts
-
-**Answer: B** - Ashoka's awareness of and claimed moral outreach to a wider geopolitical world
-**Explanation:** The names frame dhamma-vijaya beyond the subcontinent.
-
-**Named evidence:** Major Rock Edict XIII
-
-**Qualification:** The claim does not verify reception or conversion abroad.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 39 - Sarnath capital
-
-Which feature belongs to the Sarnath Lion Capital?
-
-- (a) A cave facade dedicated to Ajivikas
-- (b) A seated portrait labelled Ranyo Ashoka
-- (c) Four back-to-back lions above an animal-and-wheel abacus
-- (d) A fluted shaft on a square Persian base
-
-**Answer: C** - Four back-to-back lions above an animal-and-wheel abacus
-**Explanation:** The capital is a Mauryan sculptural and symbolic masterpiece.
-
-**Named evidence:** ASI Sarnath; archaeological corpus
-
-**Qualification:** The modern emblem is a later national adoption.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 40 - Sanchi layers
-
-Which statement about Sanchi Stupa 1 is correct?
-
-- (a) It began as an Ajivika cave
-- (b) It was entirely Gupta
-- (c) Its toranas were carved by Chandragupta
-- (d) Its brick core is Ashokan, while major stone casing, railings and gateways are later
-
-**Answer: D** - Its brick core is Ashokan, while major stone casing, railings and gateways are later
-**Explanation:** The floor relationship with the Ashokan pillar supports the Mauryan core.
-
-**Named evidence:** Sanchi archaeology; UNESCO/ASI
-
-**Qualification:** Visible fabric combines several dynasties.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 41 - Barabar
-
-The Ashokan cave dedications at Barabar were made primarily to:
-
-- (a) Ajivikas
-- (b) Greek soldiers
-- (c) Shaiva mathas
-- (d) Roman traders
-
-**Answer: A** - Ajivikas
-**Explanation:** The inscriptions name the Ajivika sect.
-
-**Named evidence:** Barabar cave inscriptions
-
-**Qualification:** Lomash Rishi lacks the same dedication but is contextually close.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 42 - Kumrahar
-
-What is the safest description of the Kumrahar eighty-pillared remains?
-
-- (a) A Harappan granary
-- (b) A major Mauryan-associated hall whose exact function remains debated
-- (c) A Gupta cave temple
-- (d) A securely identified throne room named in an Ashokan edict
-
-**Answer: B** - A major Mauryan-associated hall whose exact function remains debated
-**Explanation:** The pillars and structural traces establish scale, not an uncontested function.
-
-**Named evidence:** Kumrahar excavation record
-
-**Qualification:** Tourism labels can be more definite than archaeology.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 43 - Polish
-
-Why is 'Mauryan polish' an unsafe sole dating criterion?
-
-- (a) Every Ashokan pillar is unpolished
-- (b) Only wooden objects were polished
-- (c) Highly polished stone surfaces continued after the Mauryan period
-- (d) Mauryan craftsmen never polished stone
-
-**Answer: C** - Highly polished stone surfaces continued after the Mauryan period
-**Explanation:** Objects such as Didarganj and other figures have disputed dates.
-
-**Named evidence:** Upinder Singh's art discussion
-
-**Qualification:** Polish remains useful when combined with inscription, style and context.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 44 - Art interaction
-
-Which formulation best captures Persian/Hellenistic influence on Mauryan art?
-
-- (a) A purely Greek workforce proven by style
-- (b) Exact copying of Persepolis
-- (c) Complete isolation from western Asia
-- (d) Selective borrowing and transformation within distinct Indian forms and meanings
-
-**Answer: D** - Selective borrowing and transformation within distinct Indian forms and meanings
-**Explanation:** Shared motifs coexist with major formal and semantic differences.
-
-**Named evidence:** Pillar comparisons; script/art contact
-
-**Qualification:** Artist ethnicity cannot be inferred from motif alone.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 45 - Centralisation
+#### Q32
 
 Which is the most defensible model of the Mauryan state?
 
-- (a) A strong but differentiated empire with regionally and functionally varied control
-- (b) A purely symbolic realm without taxation or officers
-- (c) Identical administration in every village
-- (d) A modern unitary nation-state
+- A. A purely symbolic realm without taxation or officers
+- B. Identical administration in every village
+- C. A modern unitary nation-state, applied identically from the north-west to the far south
+- D. A strong but differentiated empire with regionally and functionally varied control
 
-**Answer: A** - A strong but differentiated empire with regionally and functionally varied control
-**Explanation:** Provinces and officers show capacity; communication and regional archaeology show variation.
+**Answer: D.**
 
-**Named evidence:** Edicts, archaeology, Thapar/Fussman/Sugandhi debate
+**Option-wise explanation:**
 
-**Qualification:** The balance may differ by reign and zone.
+- **A:** This option misreads centralisation: the controlling evidence is Edicts, archaeology, Thapar/Fussman/Sugandhi debate, whereas “A purely symbolic realm without taxation or officers” conflicts with the required chronology, source class, geography or degree of certainty. [Q32-A]
+- **B:** This option misreads centralisation: the controlling evidence is Edicts, archaeology, Thapar/Fussman/Sugandhi debate, whereas “Identical administration in every village” conflicts with the required chronology, source class, geography or degree of certainty. [Q32-B]
+- **C:** This option misreads centralisation: the controlling evidence is Edicts, archaeology, Thapar/Fussman/Sugandhi debate, whereas “A modern unitary nation-state, applied identically from the north-west to the far south” conflicts with the required chronology, source class, geography or degree of certainty. [Q32-C]
+- **D:** Provinces and officers show capacity; communication and regional archaeology show variation. Named evidence: Edicts, archaeology, Thapar/Fussman/Sugandhi debate. Qualification: The balance may differ by reign and zone. [Q32-D]
 
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
+> **Examiner trap 32:** In centralisation, test the tempting claim “A purely symbolic realm without taxation or officers” against Edicts, archaeology, Thapar/Fussman/Sugandhi debate; do not convert a bounded inference into a universal fact.
 
-### Hard MCQ 46 - Communication
-
-Why do inspection tours simultaneously indicate capacity and limitation?
-
-- (a) They eliminated provincial governors
-- (b) They show active supervision but also dependence on slow movement and intermediaries
-- (c) They prove instant telecommunication
-- (d) They were only religious pilgrimages
-
-**Answer: B** - They show active supervision but also dependence on slow movement and intermediaries
-**Explanation:** Five- and three-year tours connected centre and field.
-
-**Named evidence:** Rock Edict III and Separate Rock Edict I
-
-**Qualification:** Frequency does not reveal complete route coverage.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 47 - Memory
-
-What do the Kanaganahalli reliefs most directly reveal?
-
-- (a) Ashoka's verified physical appearance
-- (b) The text of the Seleucus treaty
-- (c) The post-Mauryan Buddhist iconic memory of Ashoka
-- (d) The original Sarnath wheel
-
-**Answer: C** - The post-Mauryan Buddhist iconic memory of Ashoka
-**Explanation:** Labelled reliefs show how later Buddhist communities represented him.
-
-**Named evidence:** Kanaganahalli excavations and labels
-
-**Qualification:** They were carved centuries after Ashoka.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Hard MCQ 48 - Method
-
-Which answer sentence best follows evidence discipline?
-
-- (a) Megasthenes accurately described all India
-- (b) Ashoka became completely nonviolent and abolished the state
-- (c) The Arthashastra proves every Mauryan monopoly operated
-- (d) Rock Edict XIII proclaims remorse and dhamma-vijaya, but its warning to forest peoples shows retained coercive authority
-
-**Answer: D** - Rock Edict XIII proclaims remorse and dhamma-vijaya, but its warning to forest peoples shows retained coercive authority
-**Explanation:** The sentence names evidence, significance and qualification.
-
-**Named evidence:** Major Rock Edict XIII
-
-**Qualification:** No single source exhausts the empire.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 49 - Arthashastra trap
-
-Which correction is necessary when using the Arthashastra?
-
-- (a) Call it a theoretical/redacted text and corroborate Mauryan claims
-- (b) Use it instead of inscriptions
-- (c) Treat every prescription as an executed imperial order
-- (d) Date it only from Chandragupta's court without debate
-
-**Answer: A** - Call it a theoretical/redacted text and corroborate Mauryan claims
-**Explanation:** The final text describes a potential monarchy, not a transparent Mauryan manual.
-
-**Named evidence:** Arthashastra dating debate
-
-**Qualification:** Some concepts may preserve earlier traditions.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 50 - Map trap
-
-What is wrong with equating the edict map with uniform direct administration?
-
-- (a) All edicts were moved to Delhi
-- (b) Communication claims and actual control can vary by region
-- (c) Edicts are not ancient
-- (d) Brahmi was unreadable in Ashoka's time
-
-**Answer: B** - Communication claims and actual control can vary by region
-**Explanation:** Find-spots must be combined with local archaeology and political context.
-
-**Named evidence:** Regional edict distribution
-
-**Qualification:** Absence and presence both require preservation caution.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 51 - Founder trap
-
-Who founded the Mauryan dynasty?
-
-- (a) Bindusara
-- (b) Pushyamitra Shunga
-- (c) Chandragupta Maurya
-- (d) Ashoka
-
-**Answer: C** - Chandragupta Maurya
-**Explanation:** Chandragupta overthrew the Nandas and created Mauryan power.
-
-**Named evidence:** Dynastic traditions and classical notices
-
-**Qualification:** Exact date and early sequence vary.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 52 - Dhamma trap
-
-Which correction best addresses 'dhamma was the Mauryan state religion'?
-
-- (a) Every subject was compelled to become a monk
-- (b) Ashoka had no relation to Buddhism
-- (c) Dhamma meant only tax collection
-- (d) Ashoka was personally Buddhist, but public dhamma was a broader plural social ethic
-
-**Answer: D** - Ashoka was personally Buddhist, but public dhamma was a broader plural social ethic
-**Explanation:** Minor edicts and Rock Edict XII must be read together.
-
-**Named evidence:** MRE I/Bhabru; RE XII; Barabar gifts
-
-**Qualification:** Dhamma retained Buddhist roots and paternal authority.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 53 - Pacifism trap
-
-Which evidence blocks the claim that Ashoka abolished all coercion?
-
-- (a) Forest warning and continued death penalty
-- (b) The Parkham yaksha
-- (c) The Sarnath abacus alone
-- (d) The Mahavamsa mission list alone
-
-**Answer: A** - Forest warning and continued death penalty
-**Explanation:** Rock Edict XIII and Pillar Edict IV retain punishment.
-
-**Named evidence:** RE XIII; PE IV
-
-**Qualification:** Ashoka's anti-war reflection remains historically significant.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 54 - Sanchi trap
-
-Which element of the Great Stupa is Mauryan?
-
-- (a) The Gupta Buddha images
-- (b) The original brick core
-- (c) All visible stone railings
-- (d) The carved toranas in their present form
-
-**Answer: B** - The original brick core
-**Explanation:** The monumental site accumulated layers across dynasties.
-
-**Named evidence:** Sanchi archaeology and ASI/UNESCO
-
-**Qualification:** Exact reconstructions of the first phase are limited.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 55 - Cave trap
-
-The Barabar cave inscriptions are crucial because they show:
-
-- (a) An exclusive Buddhist state
-- (b) A Gupta land grant
-- (c) Ashokan patronage of Ajivikas and early rock-cut architecture
-- (d) A Greek naval base
-
-**Answer: C** - Ashokan patronage of Ajivikas and early rock-cut architecture
-**Explanation:** The dedication and technology are both historically significant.
-
-**Named evidence:** Barabar inscriptions
-
-**Qualification:** Not every nearby cave has the same inscription.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 56 - Polish trap
-
-A polished stone figure without stratified context should be dated by:
-
-- (a) Polish alone
-- (b) Its museum label alone
-- (c) Modern popularity
-- (d) Combining inscription, style, material technology and context
-
-**Answer: D** - Combining inscription, style, material technology and context
-**Explanation:** Mauryan-style polish continued later.
-
-**Named evidence:** Didarganj/Lohanipur/Parkham debates
-
-**Qualification:** Different indicators may conflict.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 57 - Megasthenes trap
-
-Which Megasthenes statement is demonstrably unsafe?
-
-- (a) India had no slaves
-- (b) He visited a Mauryan court
-- (c) India had elephants
-- (d) Pataliputra used much wood
-
-**Answer: A** - India had no slaves
-**Explanation:** Ashokan and Indian textual evidence names slaves/servants.
-
-**Named evidence:** RE IX/XI and other texts
-
-**Qualification:** Forms of dependence varied.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 58 - Officer trap
-
-Pradeshika, Rajuka and Yukta should be remembered as:
-
-- (a) Foreign kings
-- (b) District-level officers in the 2025 official key, with distinct functions
-- (c) Three Buddhist sects
-- (d) One identical village office
-
-**Answer: B** - District-level officers in the 2025 official key, with distinct functions
-**Explanation:** The exam fact and functional caveat must coexist.
-
-**Named evidence:** UPSC 2025 Q19; RE III
-
-**Qualification:** Ancient levels do not map perfectly onto modern districts.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 59 - Kalinga trap
-
-What happened territorially after Ashoka's remorse?
-
-- (a) The Mauryan capital moved to Dhauli
-- (b) The army was transferred to Seleucus
-- (c) Kalinga remained incorporated while policy language and governance changed
-- (d) Kalinga was immediately restored as an independent kingdom
-
-**Answer: C** - Kalinga remained incorporated while policy language and governance changed
-**Explanation:** Separate edicts address post-conquest administration.
-
-**Named evidence:** RE XIII; Separate Kalinga Edicts
-
-**Qualification:** Degree of pacification is uncertain.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
-
-### Remedial MCQ 60 - Mission trap
-
-How should the Mahinda-Sanghamitta mission be presented?
-
-- (a) As a verbatim Ashokan edict
-- (b) As a Hellenistic treaty clause
-- (c) As an event denied by all Buddhist sources
-- (d) As a later Sri Lankan chronicle tradition with possible contextual corroboration
-
-**Answer: D** - As a later Sri Lankan chronicle tradition with possible contextual corroboration
-**Explanation:** The tradition is historically important but not contemporary inscriptional proof.
-
-**Named evidence:** Mahavamsa/Dipavamsa; Sanchi relic context
-
-**Qualification:** The full mission list cannot be independently verified.
-
-**Elimination logic:** Reject options that confuse source genre, chronology, inscriptional claim, regional contact or later memory with uniformly realised Mauryan practice.
 
 ## PYQS AND ANSWER PRACTICE
+
+### VERIFIED PYQ AND KEY DISCIPLINE
+
+- Five direct routed Prelims PYQs use locally held official-paper text: 2019 Q8, 2020 Q30, 2022 Q60, 2022 Q91 and 2025 Q19.
+- The official 2025 Set-A key is held locally; Q19 is **B — district-level administration**.
+- Official 2019-2022 keys are not held locally. Their solutions below are labelled inferred/text-based, never official.
+- The 2023 stupa Prelims item and 2020 rock-cut Mains item are adjacent, cross-owned Art and Culture practice, not direct Topic 14 routing.
+- UPSC publishes no official descriptive model answers.
 
 ### Verified Prelims PYQ - 2019 Q8: Ranyo Ashoka portrait
 
@@ -1363,485 +938,96 @@ How should the Mahinda-Sanghamitta mission be presented?
 
 **How to improve this answer:** For “Indian philosophy and tradition played a significant role in conceiving and shaping the…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
-### Original solved 10-marker 1 - Sources of Mauryan history
+### SIX ORIGINAL SOLVED MAINS — EXACT COUNT
 
 
+### ORIGINAL MAINS 10-MARKER 1 — Source criticism
 
-**Question:** Why must the Mauryan Empire be reconstructed through source criticism rather than by combining all available texts at face value? (150 words)
+**Question:** Why must the Mauryan Empire be reconstructed through a source matrix rather than by merging all texts at face value? (10 marks; maximum 150 words)
 
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
+**Model answer (125 words):**
 
-**Demand and thesis:** Mauryan reconstruction is unusually rich but methodologically difficult because inscriptions, archaeology, classical fragments, theoretical texts and later traditions answer different questions.
+Mauryan history survives in archives with different dates and purposes. Ashoka's edicts are contemporary royal communications: they reveal titles, dhamma, Kalinga and some officers, but intention is clearer than implementation. Archaeology at Pataliputra, Taxila, Sanchi and Barabar supplies material context without automatically naming a ruler or office. Megasthenes offers observations only through later Graeco-Roman quotation, creating a double filter. The Arthashastra illuminates statecraft and political economy, yet its layered redaction prevents its use as Chandragupta's verbatim manual. Puranic, Buddhist and Jain traditions preserve dynastic and religious memory but reflect late transmission and sectarian aims. Therefore, reconstruction requires convergence: claim, named source or site, inference and qualification. The Mauryan state becomes clearer not by flattening disagreement, but by asking what each source can and cannot prove.
 
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
-#### Evidence architecture
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.
+### ORIGINAL MAINS 10-MARKER 2 — Dhamma and Buddhism
 
+**Question:** Explain why Ashoka's dhamma cannot be equated either with Buddhism alone or with modern secularism. (10 marks; maximum 150 words)
 
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Edicts | Rock Edicts VI, XII, XIII; Pillar Edict IV | Direct royal voice on duty, concord, Kalinga and justice | Intent is clearer than implementation |
-| Archaeology | Kumrahar, Bulandibagh, Sanchi and Barabar | Material institutions and technology | Function/identity may be debated |
-| Megasthenes | Indica through Strabo/Arrian | Court and Pataliputra observations | Double filter and errors |
-| Arthashastra | Redacted statecraft treatise | Political-economic ideas | Not a Mauryan manual |
+**Model answer (129 words):**
 
+Ashoka was personally Buddhist, but his public dhamma addressed a diverse empire. Minor Rock Edict I, the Bhabru Edict, Lumbini and Sangha-related records support his Buddhist commitment. The major public edicts instead emphasize respect for parents and elders, humane treatment of servants, generosity to Brahmanas and Shramanas, restraint in killing, self-control and sectarian concord. Major Rock Edict XII urges listening and restraint in praising one's own sect, not doctrinal conversion. Dhamma thus drew moral energy from Ashoka's faith while operating as a wider ethic of paternal kingship and imperial integration. It was not modern secularism either: it used merit, heaven and royal moral supervision rather than equal constitutional citizenship. The safest conclusion is Buddhist-rooted, publicly plural and politically useful, but neither a Buddhist catechism nor a modern rights charter.
 
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-#### Model answer
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.
+### ORIGINAL MAINS 15-MARKER 1 — Administration
 
+**Question:** Examine Mauryan administration through central, provincial and local levels, while assessing the limits of the evidence. (15 marks; maximum 250 words)
 
-Mauryan history cannot be written by merging unlike archives. Ashoka's edicts are contemporary and securely reveal his public voice: Rock Edict XIII records Kalinga remorse, Rock Edict XII sectarian concord and Pillar Edict IV judicial restraint. Yet they are royal proclamations and seldom describe routine administration.
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
-Archaeology at Bulandibagh and Kumrahar partly supports a wooden fortified Pataliputra and a large pillared hall, but the hall's exact function remains disputed. Megasthenes is valuable for the court and city, yet his lost Indica survives through later writers and contains errors such as denying slavery. The Arthashastra offers sophisticated statecraft prescriptions, but its composition/redaction and non-descriptive genre prevent treating it as Chandragupta's constitution. Buddhist, Jain and Puranic texts preserve memory but are later and sectarian.
+**Model answer (167 words):**
 
-Therefore, claims should be accepted only at the level supported by genre, date and corroboration.
+Mauryan administration combined royal concentration with delegated and regionally varied execution. At the centre, the king appointed officers, commanded the army, judged and received reports. Rock Edict VI presents pativedakas bringing business at any time, while ministers and a council are more fully reconstructed from textual traditions. Provincial nodes at Taxila, Ujjayini, Tosali and Suvarnagiri were linked to princes or governors, although the four-centre scheme is reconstructed rather than complete. Rock Edict III groups pradeshikas, rajukas and yuktas in five-year tours; the official 2025 key places them at district level. Rajukas later received justice and welfare responsibilities, while mahamattas formed a broad high-official category with specialised portfolios. Villages, towns, guilds, householders and local elites mediated assessment, information and compliance. The army and reporting network gave coercive capacity, but Megasthenes' committees survive through later quotation and Arthashastra portfolios remain prescriptive. Thus the empire had strong hierarchical capacity without one proven universal organisation chart: administration was centralised in appointment and strategic purpose, differentiated in function, region and local penetration.
 
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
-**Why this earns marks:** The answer names four source classes, supplies precise examples, states what each proves, and ends with a method rather than a source list.
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.
+### ORIGINAL MAINS 15-MARKER 2 — Kalinga and kingship
 
+**Question:** Analyse how the Kalinga war altered Ashoka's conception and practice of kingship without making him a complete pacifist. (15 marks; maximum 250 words)
 
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
-**Evidence-density note:** This 10-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
+**Model answer (142 words):**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why must the Mauryan Empire be reconstructed through source criticism rather than by…”, coverage of every clause, evidence-led analysis and a qualified verdict.
+Major Rock Edict XIII places Kalinga after eight completed years of Ashoka's consecrated reign. Its importance lies not only in large royal claims of deportation and death, but in recognition of suffering among families, Brahmanas, Shramanas, servants and dependants. Ashoka recast victory as a moral problem and preferred dhamma-vijaya to repeated armed expansion. The Separate Kalinga Edicts instructed provincial officers to reduce arbitrary imprisonment and win confidence; tours, dhamma-mahamattas, welfare and proclamation enlarged paternal kingship. Yet Kalinga remained incorporated, the army was not abolished, punishment and the death penalty continued, and Rock Edict XIII warned forest peoples that the king retained power to punish. Minor Rock Edict I suggests Buddhist commitment before Kalinga, so the war was not an instant first conversion. Kalinga redirected an existing imperial monarchy from celebratory conquest toward remorse, restraint and moral legitimation while sovereignty and deterrence survived.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
-**How to improve this answer:** For “Why must the Mauryan Empire be reconstructed through source criticism rather than by…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.
+### ORIGINAL MAINS 20-MARKER 1 — Territorial integration
 
-### Original solved 10-marker 2 - Chandragupta and imperial foundation
+**Question:** Was the Mauryan Empire uniformly centralised? Evaluate through inscriptional geography, administration and communication. (20 marks; maximum 250 words)
 
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
+**Model answer (174 words):**
 
-**Question:** Assess Chandragupta Maurya's role in creating the Mauryan Empire. (150 words)
+The Mauryan Empire achieved unprecedented integration, but uniform centralisation is not the best model. Pataliputra and the middle Ganga basin formed the metropolitan core. Provincial nodes associated with Taxila, Ujjayini, Tosali and Suvarnagiri connected the court to the north-west, west, Kalinga and south through princes, officials and routes. Inscriptions from Shahbazgarhi and Mansehra to Dhauli, Jaugada, Maski and Erragudi demonstrate wide communication. Regional Prakrits, Brahmi, Kharoshthi, Greek and Aramaic show adaptation rather than sameness. Mahamattas, pradeshikas, rajukas and yuktas, reports and tours indicate hierarchical supervision; revenue and armies show real capacity. However, a find-spot proves contact and authority claim, not identical enforcement. Tamil polities and Tambapanni are neighbours or outreach zones, not demonstrated provinces; forest peoples receive warning rather than proof of routine incorporation. Slow movement, ecological diversity, local intermediaries and uneven archaeology limited direct penetration. Centralisation was therefore functional and geographical: strong in appointment, fiscal-military mobilisation and strategic corridors, but mediated in local administration and frontier control. The Mauryan polity was a layered empire, neither a modern unitary state nor merely symbolic sovereignty.
 
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
-**Demand and thesis:** Chandragupta converted the inherited Magadhan-Nanda fiscal-military base and north-western political fluidity into a durable imperial framework through conquest and diplomacy.
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.
+### ORIGINAL MAINS 20-MARKER 2 — Political economy
 
+**Question:** Critically examine Mauryan state control over agriculture, revenue, crafts, trade and strategic resources. (20 marks; maximum 250 words)
 
+**Demand decoding:** Obey the directive; organise the response by mechanism or comparison; attach named evidence to each claim; retain one explicit source or regional qualification.
 
-#### Evidence architecture
+**Model answer (170 words):**
 
+Mauryan power rested on mobilising surplus, yet the evidence does not support a universal command economy. Agriculture was the main fiscal base. Sources mention bhaga, bali, tolls, fines and labour obligations; Rummindei records a local bali exemption and bhaga reduction to one-eighth, disproving a single realised rate. Rudradaman's later Junagadh inscription links Pushyagupta and Tushaspha with Sudarshana, suggesting state-supported irrigation but not one central water department. The Arthashastra describes crown land, superintendents, mines, forests, salt, trade, workshops and standards. These provisions reveal a powerful model, but the text is layered and prescriptive. Archaeology and punch-marked coins show crafts, towns and circulation; most coins do not name Mauryan rulers, while barter, kind payments and credit persisted. Merchants, artisans, shrenis, households and communities remained active agents. Roads, security, standards and strategic-resource regulation could facilitate exchange as well as extract revenue. Intervention was probably deepest near capitals, provincial nodes, routes, mines, forests and royal establishments. The best verdict is selective high capacity within a mixed, regionally varied economy, not total monopoly or laissez-faire.
 
+**Executable answer spine:** thesis → claim/evidence units → counterpoint or limit → graded verdict.
 
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Foundation | Nanda-overthrow traditions | Control of Magadha and Pataliputra | Narrative details vary |
-| North-west | Justin/Plutarch notices | Large conquest remembered | Army figures and 'India' are imprecise |
-| Diplomacy | Seleucus settlement and 500 elephants | Stabilised frontier and exchanged military assets | Date/marriage clauses uncertain |
-| West/south | Junagadh inscription; Mamulanar/Jain traditions | Saurashtra and possible trans-Vindhyan reach | Later/poetic evidence |
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the stated ceiling.
 
-
-
-#### Model answer
-
-
-
-Chandragupta was the principal architect of Mauryan power, not merely Ashoka's predecessor. He overthrew the Nandas and secured Magadha's agrarian-revenue base, Pataliputra and inherited military resources. Graeco-Roman writers remember Sandrocottus as a conqueror of great scale, although their 600,000 figure and use of 'India' are not precise statistics.
-
-His conflict and treaty with Seleucus, conventionally placed around 305-301 BCE, demonstrate strategic diplomacy: the tradition records territorial concessions in the north-west and 500 elephants supplied to Seleucus, while the alleged marriage alliance remains uncertain. Rudradaman's later Junagadh inscription attributes the beginning of the Sudarshana reservoir to Chandragupta's governor Pushyagupta, supporting western administration. Tamil and Jain traditions suggest southern links but are too late or poetic to map direct rule.
-
-Thus Chandragupta created the core, frontier settlement and governing scale that Bindusara preserved and Ashoka later articulated inscriptionally.
-
-
-
-**Why this earns marks:** It answers role rather than biography, uses four named evidence units, and qualifies every indirect tradition.
-
-
-
-**Evidence-density note:** This 10-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess Chandragupta Maurya's role in creating the Mauryan Empire. (150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Assess Chandragupta Maurya's role in creating the Mauryan Empire. (150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 10-marker 3 - Dhamma and Buddhism
-
-
-
-**Question:** Ashoka's dhamma was not simply Buddhism. Explain. (150 words)
-
-
-
-**Demand and thesis:** Ashoka's public dhamma was an imperial social ethic with Buddhist roots, while his personal Buddhist adherence had a separate and explicit inscriptional record.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Personal Buddhism | Minor Rock Edict I; Bhabru; Rummindei | Lay adherence, Buddhist texts and pilgrimage | Special inscriptions |
-| Public conduct | Rock Edicts IX and XI | Parents, elders, servants, generosity and non-killing | Maintains hierarchy |
-| Concord | Rock Edicts VII and XII | Honour/listen to all sects | Not modern secularism |
-| Plural patronage | Barabar caves for Ajivikas | State not exclusively Buddhist | Royal paternalism remains |
-
-
-
-#### Model answer
-
-
-
-Ashoka's Buddhism and dhamma overlap but are not identical. Minor Rock Edict I calls him a lay follower who gradually became more zealous; the Bhabru edict recommends Buddhist texts, and Rummindei records his Lumbini pilgrimage. These establish personal faith.
-
-The major public edicts, however, define dhamma through social conduct: respect for parents and elders, courtesy to slaves and servants, generosity to Brahmanas and shramanas, self-control and reduced injury to living beings. Rock Edict XII asks sects to restrain self-praise, listen to others and promote concord. Such an ethic addresses a plural empire and omits central Buddhist teachings such as the Four Noble Truths and nirvana. Ashoka also donated Barabar caves to Ajivikas.
-
-Dhamma was therefore a Buddhist-inflected ethical-political programme for imperial society, not compulsory conversion or a Buddhist state religion.
-
-
-
-**Why this earns marks:** The answer distinguishes faith, doctrine, public policy and patronage with four named inscriptions and a clear verdict.
-
-
-
-**Evidence-density note:** This 10-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Ashoka's dhamma was not simply Buddhism. Explain. (150 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Ashoka's dhamma was not simply Buddhism. Explain. (150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 15-marker 1 - Mauryan administration
-
-
-
-**Question:** Examine the structure and working of Mauryan administration with reference to the strengths and limits of the evidence. (250 words)
-
-
-
-**Demand and thesis:** The Mauryan state had a substantial multi-tiered hierarchy and information network, but its exact organisation and reach must be reconstructed mainly from Ashokan inscriptions and regionally bounded corroboration.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Centre | King, parishad and Rock Edict VI reporters | Command and information | Royal ideal |
-| Province | Taxila, Ujjayini, Tosali, Suvarnagiri; kumaras | Regional supervision | Reconstructed scheme |
-| District | Pradeshika, rajuka, yukta | Tours, justice and field administration | Ranks/functions overlap |
-| Special cadres | Mahamattas, pativedakas, pulisani | Portfolio and reporting differentiation | Titles do not give staff depth |
-| Municipal/military | Megasthenes' six committees | Possible Pataliputra arrangements | Fragmentary and suspiciously symmetrical |
-
-
-
-#### Model answer
-
-
-
-Mauryan administration was organised around the king, consultative bodies, provincial centres and mobile field officers. Rock Edict VI presents Ashoka as continuously accessible to pativedakas and requires disputes in the parishad to reach him immediately. This indicates a strong ideal of personal command, while also revealing dependence on reporters.
-
-The empire appears to have had major provincial centres at Taxila, Ujjayini, Tosali and Suvarnagiri, often under kumaras or aryaputras. The later Junagadh inscription names Pushyagupta as Chandragupta's governor in Saurashtra. At district level, Rock Edict III groups pradeshikas, rajukas and yuktas for five-year tours; the 2025 official UPSC key identifies them as district officers. Rajukas also received judicial and welfare duties in Pillar Edict IV.
-
-Specialised mahamattas included frontier, women's-affairs and dhamma cadres. Separate Rock Edict I ordered scrutiny of arbitrary imprisonment in Kalinga, showing both corrective capacity and official misconduct. Megasthenes' six municipal and military committees may reflect Pataliputra, but the lost Indica's fragmentary transmission and schematic symmetry require caution. Arthashastra offices such as samaharta and sannidhata are valuable theoretical comparators, not automatically attested Mauryan posts.
-
-Thus the state was administratively ambitious and layered, but uneven field reach, communication delays and source genre prevent describing it as a modern uniform bureaucracy.
-
-
-
-**Why this earns marks:** It covers centre, province, district, special officers, justice and city/military claims; every institutional claim carries a named source and limitation.
-
-
-
-**Evidence-density note:** This 15-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the structure and working of Mauryan administration with reference to the strengths…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Examine the structure and working of Mauryan administration with reference to the strengths…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 15-marker 2 - Kalinga and post-war policy
-
-
-
-**Question:** Analyse how the Kalinga war altered Ashoka's conception and practice of kingship. (250 words)
-
-
-
-**Demand and thesis:** Kalinga did not end Mauryan coercion; it transformed Ashoka's public kingship by making suffering, restraint, welfare and dhamma-vijaya central to imperial legitimacy.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Violence | Major Rock Edict XIII casualty/deportation claim | Royal recognition of conquest's social cost | Figures unverified |
-| Moral turn | First-person remorse | Confessional political language | Also self-fashioning |
-| Administration | Separate Kalinga Edicts I-II | Fairness, trust and paternalism | Implementation unknown |
-| New conquest | Dhamma-vijaya | Moral influence preferred to fresh annexation | Not foreign sovereignty |
-| Coercive remainder | Forest warning; Pillar Edict IV | Punishment and death penalty retained | Does not negate ethical innovation |
-
-
-
-#### Model answer
-
-
-
-Major Rock Edict XIII presents Kalinga as a decisive reflection on kingship. Ashoka records 150,000 deported, 100,000 killed and many more dead; these are royal inscriptional claims rather than audited totals. More important is his expansion of suffering beyond combatants to relatives, householders, Brahmanas, shramanas, slaves and servants. Victory is therefore judged by its dispersed human cost.
-
-The policy response had three dimensions. First, Ashoka preferred dhamma-vijaya—moral influence and restraint—over fresh territorial conquest and urged successors to avoid harsh warfare. Second, the Separate Kalinga Edicts addressed officials at Tosali and Samapa, demanded confidence-building and fair justice, and expressed the paternal formula that all people were his children. Third, the communication apparatus expanded through tours, oral readings and dhamma-mahamattas.
-
-Yet Kalinga did not produce absolute pacifism. The territory remained annexed; Rock Edict XIII warned forest peoples that the repentant king retained power to punish, and Pillar Edict IV presupposed capital punishment. Nor can the war be reduced to a sudden conversion, because Minor Rock Edict I indicates gradual Buddhist commitment.
-
-Kalinga thus transformed the language, ethical burden and declared priorities of rule while preserving the coercive foundations of empire.
-
-
-
-**Why this earns marks:** It analyses change in ideas, administration and coercion, uses three edict groups, and avoids both cynical strategy-only and total-pacifism readings.
-
-
-
-**Evidence-density note:** This 15-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse how the Kalinga war altered Ashoka's conception and practice of kingship. (250…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Analyse how the Kalinga war altered Ashoka's conception and practice of kingship. (250…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 15-marker 3 - Art as imperial communication
-
-
-
-**Question:** Discuss Mauryan art and architecture as instruments of political communication as well as products of religious and craft traditions. (250 words)
-
-
-
-**Demand and thesis:** Mauryan monumental art made imperial power visible, but its forms also drew on religious symbolism, artisan skill, transregional contact and non-royal patronage.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Pillars | Sarnath, Sanchi, Vaishali and edict pillars | Royal presence and dhamma text | Not all pillars inscribed |
-| Stupas | Sanchi brick core; Nigali Sagar | Buddhist commemoration and patronage | Later additions distinct |
-| Caves | Barabar Ajivika donations | Rock technology and plural patronage | Not all Buddhist |
-| Capital | Kumrahar hall and Bulandibagh palisade | Court/urban capacity | Function/date debated |
-| Popular art | Terracottas, ring stones and Parkham yaksha | Urban belief and corporate donors | Dating/context uneven |
-
-
-
-#### Model answer
-
-
-
-Mauryan art communicated both imperial power and a wider religious-social world. Ashokan pillars combined long polished shafts, lotus-abacus-animal capitals and inscriptions. At Sarnath, four lions and wheels carried overlapping royal and Buddhist meanings; by placing dhamma proclamations on monumental stone, Ashoka converted artistic form into a durable political voice.
-
-Buddhist patronage is visible in Sanchi's Ashokan brick stupa core and the Nigali Sagar record of enlarging Kanakamuni's stupa. However, Sanchi's stone casing and toranas are later and must not be credited to Ashoka. Barabar cave inscriptions dedicate highly polished rock-cut spaces to Ajivikas, demonstrating plural patronage and the translation of wooden architectural forms into rock. Kumrahar's pillared hall and Bulandibagh's timber fortification suggest the scale of Pataliputra, though the hall's function remains debated.
-
-Court art did not exhaust the period. Parkham's inscribed Manibhadra yaksha, terracottas and ring stones reveal corporate and popular patronage. Persian/Hellenistic contacts influenced motifs and techniques, but smooth unbased shafts, independent animal capitals and ethical inscriptions created distinct forms.
-
-Mauryan art was therefore an imperial communication system embedded in religious plurality, workshop networks and early-historic urban culture.
-
-
-
-**Why this earns marks:** It covers pillars, stupas, caves, capital and popular art, dates layers, names inscriptions/sites, and balances influence with transformation.
-
-
-
-**Evidence-density note:** This 15-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss Mauryan art and architecture as instruments of political communication as well as…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Discuss Mauryan art and architecture as instruments of political communication as well as…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 1 - Centralised or differentiated empire
-
-
-
-**Question:** Was the Mauryan Empire a highly centralised state? Critically evaluate with inscriptional and archaeological evidence. (350 words)
-
-
-
-**Demand and thesis:** The Mauryan Empire possessed strong central institutions and strategic control, but its governance was differentiated by function, region, communication distance and inherited local structures.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Central capacity | King, parishad, provinces, mahamattas and district officers | Hierarchy and delegation | Archive concentrated under Ashoka |
-| Information/coercion | RE VI reporters; inspections; army and forest warning | Command, surveillance and deterrence | Latency and compliance problems |
-| Regional adaptation | Greek/Aramaic versions and Kharoshthi north-west | Local official initiative | Not proof of autonomy in every sphere |
-| Archaeological variation | Northern NBPW/art package versus southern Deccan | Uneven material integration | Excavation remains incomplete |
-| Political model | Thapar, Fussman and Sugandhi | Metropolitan/core/periphery and communication limits | Models are interpretive |
-
-
-
-#### Model answer
-
-
-
-The Mauryan Empire was centralised in aspiration and in selected strategic functions, but not a uniformly administered territorial machine. A centralised reading rests on unprecedented scale, Pataliputra, royal princes at provincial centres, numerous mahamattas, district officers, fiscal extraction and a large army. Rock Edict VI orders pativedakas to report affairs to Ashoka at any time; Rock Edict III sends pradeshikas, rajukas and yuktas on quinquennial tours. Taxila, Ujjayini, Tosali and Suvarnagiri linked major corridors to the court, while Separate Rock Edict I shows provincial inspection and judicial correction.
-
-Yet the same evidence discloses limits. Five-year tours and repeated orders were necessary because information moved slowly and officials could imprison or torture arbitrarily. Megasthenes' municipal and military committees may illuminate Pataliputra, but his lost work is filtered and cannot be generalised to all India. The Arthashastra's all-controlling state is a theoretical and redacted model, not a Mauryan administrative manual.
-
-Regional evidence strengthens the differentiated interpretation. Greek and Aramaic inscriptions in the north-west are adaptations rather than literal translations, implying local linguistic competence and discretion. Major rock edicts cluster toward borders, pillar edicts in north India and minor edicts strongly in the Andhra-Karnataka zone. Namita Sugandhi notes that southern regions do not reproduce the northern NBPW, coin and court-art package; an edict therefore marks contact and a claim to authority more securely than uniform direct rule.
-
-Historiographically, Thapar moved from a highly centralised formulation to a metropolitan-core-periphery model, while Fussman emphasised communication limits. These corrections should not erase capacity: governors, waterworks such as Sudarshana, judicial edicts, multilingual communication and deterrence were real.
-
-The best verdict is functionally graded: appointments, imperial ideology and strategic routes were relatively centralised; taxation, local justice, everyday production and frontier control depended more heavily on provincial officers, local intermediaries and negotiated variation.
-
-
-
-**Why this earns marks:** It defines centralisation by function, uses more than eight named evidence units, engages three interpretations, and reaches a graded rather than binary verdict.
-
-
-
-**Evidence-density note:** This 20-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Was the Mauryan Empire a highly centralised state? Critically evaluate with inscriptional…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Was the Mauryan Empire a highly centralised state? Critically evaluate with inscriptional…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 2 - Power and piety under Ashoka
-
-
-
-**Question:** Ashoka's kingship combined power and piety rather than replacing one with the other. Discuss. (350 words)
-
-
-
-**Demand and thesis:** Ashoka moralised imperial power through dhamma, welfare and restraint, but his programme remained authoritative, administrative and coercively backed.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Piety | MRE I, Bhabru, Rummindei and Nigali Sagar | Personal Buddhism and pilgrimage/patronage | Not equal to public policy |
-| Public ethic | RE IX, XI and XII | Social duty and concord | Paternal, not egalitarian |
-| Power | RE VI reporting; mahamattas; tours | Administrative mobilisation | Implementation variable |
-| Kalinga | RE XIII and Separate Kalinga Edicts | Remorse plus post-conquest reform | Kalinga retained |
-| Coercion | Forest warning; PE IV death penalty | Deterrence and punishment | Does not nullify ethical change |
-
-
-
-#### Model answer
-
-
-
-Ashoka did not exchange empire for renunciation; he attempted to redefine how imperial power should be justified and exercised. His personal piety is explicit: Minor Rock Edict I presents gradual commitment as a Buddhist lay follower, the Bhabru edict recommends Buddhist texts, Rummindei records a Lumbini pilgrimage and Nigali Sagar the enlargement of a stupa. Nevertheless, the public dhamma of the major edicts was broader than Buddhism.
-
-Rock Edicts IX and XI translate morality into household and social duties—respect for parents and elders, courtesy to slaves and servants, generosity to Brahmanas and shramanas, and reduced injury. Rock Edict XII seeks restraint, listening and concord among sects. These ethical claims served a plural empire and created a new public language of rulership.
-
-The programme was also an exercise of power. Dhamma-mahamattas entered multiple social domains; pradeshikas, rajukas and yuktas toured districts; Rock Edict VI demanded reports at all times; inscriptions and oral readings carried the king's voice across routes and frontiers. Welfare measures—trees, wells, medicine and prisoner release claims—made paternal care part of legitimacy.
-
-Kalinga reveals the fusion most clearly. Rock Edict XIII condemns the dispersed suffering of conquest and elevates dhamma-vijaya, while the Separate Kalinga Edicts order fairer administration and confidence-building. Yet Kalinga remained annexed. The same Rock Edict XIII warns forest peoples of punitive power, and Pillar Edict IV retains capital punishment with a three-day respite.
-
-Ashoka's piety therefore constrained, redirected and legitimised power; it did not dissolve hierarchy, administration or coercion. His historical originality lies precisely in making moral self-scrutiny an imperial proclamation while retaining the machinery capable of enforcing rule.
-
-
-
-**Why this earns marks:** It integrates personal faith, public ethics, administration, welfare, Kalinga and coercion; named inscriptions support every claim and the conclusion resolves the apparent contradiction.
-
-
-
-**Evidence-density note:** This 20-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Ashoka's kingship combined power and piety rather than replacing one with the other.…”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Ashoka's kingship combined power and piety rather than replacing one with the other.…”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-### Original solved 20-marker 3 - Economy and state control
-
-
-
-**Question:** Critically examine the extent of Mauryan state control over the economy. (350 words)
-
-
-
-**Demand and thesis:** The Mauryan state could intervene powerfully in land revenue, strategic resources, markets and infrastructure, but claims of a total command economy depend too heavily on the theoretical Arthashastra.
-
-
-
-#### Evidence architecture
-
-
-
-| Dimension | Named evidence | What it proves | Limitation |
-| --- | --- | --- | --- |
-| Fiscal base | Bhaga/bali and Rummindei concession | Agrarian extraction and local modification | Rates varied |
-| Infrastructure | Sudarshana reservoir via Junagadh inscription | Provincial water management | Retrospective evidence |
-| Urban regulation | Megasthenes' Pataliputra committees | Weights, trade and market tax | City-specific/fragmentary |
-| Material economy | Coins, crafts and towns at Taxila, Mathura, Bhita and Ujjayini | Growth and specialisation | State causation not automatic |
-| Maximal prescription | Arthashastra departments/monopolies | Potential high-capacity model | Post-Mauryan/redacted and normative |
-
-
-
-#### Model answer
-
-
-
-Mauryan rule rested on a substantial agrarian and urban fiscal base, but the extent of direct state control must be graded. Land revenue was central: Indian norms commonly mention a one-sixth share, while the Rummindei pillar exempts Lumbini from bali and reduces bhaga to one-eighth. The concession proves both fiscal authority and local variation; it does not establish a uniform empire-wide rate.
-
-The later Junagadh inscription associates Chandragupta's governor Pushyagupta and Ashoka's official Tushaspha with the Sudarshana reservoir, showing provincial investment in strategic water infrastructure. Megasthenes' Pataliputra account describes committees concerned with weights, trade, public sale and market taxes. These fragments suggest urban regulation, but his city-specific, filtered account cannot be projected across the empire.
-
-Archaeology shows a broader economy with many actors. Taxila's shell workshop and urban drains, Mathura's metal and bead production, Bhita's nigama seal, Ujjayini's coins and ring wells, ports such as Sopara, and widespread punch-marked coins indicate crafts, corporate activity, routes and monetisation. The state may have secured corridors and collected dues, but merchants, artisans, cultivators and local elites remained indispensable.
-
-The strongest total-control claims come from the Arthashastra's departments, monopolies, settlement schemes and espionage. Current scholarship treats the extant work as a theoretical, redacted and largely post-Mauryan text; it describes a potential monarchy, not an audited Mauryan economy. Sharma's state-control model is therefore a hypothesis to test, not a fact to reproduce.
-
-The Mauryan economy was neither laissez-faire nor fully commanded. The state exercised selective high capacity in revenue, strategic works, markets and routes, while actual intervention varied by region and depended on non-state producers and intermediaries.
-
-
-
-**Why this earns marks:** It evaluates degree, uses inscriptional, classical, archaeological and textual evidence, names multiple sites, and explicitly resolves the prescription-versus-practice problem.
-
-
-
-**Evidence-density note:** This 20-mark answer uses named inscriptions, sites, texts, officials or artefacts in proportion to the demand; each major claim includes significance and qualification.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the extent of Mauryan state control over the economy. (350 words)”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Critically examine the extent of Mauryan state control over the economy. (350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Answer-specific improvement:** Add one correctly labelled mini-flow or source matrix only if time permits; do not trade evidence for decorative detail.

@@ -1,114 +1,194 @@
-ASCII MASTER FLOW — PANEL 1/12: Sixth-century BCE shramana field
-AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING
-                                      |
-                                      v
-                              SHRAMANA FIELD
-       +----------------------+----------------------+-------------------+
-       |                      |                      |                   |
-     JAINA                 BUDDHIST                AJIVIKA          other schools
-       +----------------------+----------------------+-------------------+
-                                      v
-Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ.
+JAINISM AND BUDDHISM - ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: Jain cosmos, bondage and liberation
-JIVA (conscious) + AJIVA (non-conscious) -> beginningless cosmos without creator
-                         |
-                         v
-action/passions attract karmic matter -> bondage and repeated birth
-                         |
-                         v
-samvara stops influx + nirjara sheds karma -> kevala-jnana -> moksha
-                         |
-                         v
-Liberation is purification of an enduring individual soul, not annihilation.
++--------------------------------------------------------------------------------------------------+
+| PANEL 1/14 - 1. SOURCE, LAYER AND DATE CONTROL                                                   |
++--------------------------------------------------------------------------------------------------+
+| -> Early teachings survive through orally transmitted, school-specific and later redacted        |
+|    corpora.                                                                                      |
+| -> Separate founder horizon, composition, recitation, redaction, manuscript and archaeology.     |
+| -> Traditional dates for Mahavira and Buddha differ; use sixth-fifth centuries BCE unless the    |
+|    tradition is named.                                                                           |
+| -> Text proves remembered doctrine or discipline; inscription and archaeology test institutions, |
+|    donors and sites.                                                                             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 3/12: Jain path and many-sided knowledge
-TRIRATNA: right faith + right knowledge + right conduct
-                         |
-                         v
-FIVE VOWS: ahimsa | satya | asteya | brahmacharya | aparigraha
-monastic mahavrata = rigorous | lay anuvrata = limited practicable form
-                         |
-                         v
-ANEKANTAVADA -> NAYAVADA standpoints -> SYADVADA qualified predication
-Many-sidedness disciplines claims; it does not make contradictions equally true.
++--------------------------------------------------------------------------------------------------+
+| PANEL 2/14 - 2. SETTING AND THE SHRAMANA FIELD                                                   |
++--------------------------------------------------------------------------------------------------+
+| -> Agrarian expansion + towns + routes + states + social differentiation widened audiences and   |
+|    patronage.                                                                                    |
+| -> Shramana included Jain, Buddhist, Ajivika, materialist and other renunciant positions.        |
+| -> Ritual cost, hierarchy and violence mattered, but no urban, merchant, iron or varna monocause |
+|    is sufficient.                                                                                |
+| -> Brahmanical and shramana currents debated, competed, borrowed and later accommodated one      |
+|    another.                                                                                      |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 4/12: Jain community, canon and spread
-Parshvanatha -> Mahavira -> fourfold sangha -> councils/redactions -> sects
-23rd Tirthankara 24th      monks/nuns/lay     Pataliputra/Valabhi  Digambara/Shvetambara
-                         |
-                         v
-patronage and merchants -> Mathura, western India, Karnataka -> temples/literature
-Sect differences include clothing, canon and liberation questions.
-Avoid reducing separation to one famine story or treating all traditions as identical.
++--------------------------------------------------------------------------------------------------+
+| PANEL 3/14 - 3. JAIN ANTECEDENTS AND MAHAVIRA                                                    |
++--------------------------------------------------------------------------------------------------+
+| -> Jain tradition: 24 Tirthankaras; Rishabhanatha 1st, Parshvanatha 23rd, Mahavira 24th.         |
+| -> Parshva may preserve an earlier ascetic stratum; remote Tirthankara dates remain sacred       |
+|    tradition, not secure history.                                                                |
+| -> Mahavira/Vardhamana/Nigantha Nataputta: renunciation -> austerity -> kevala knowledge ->      |
+|    teaching community.                                                                           |
+| -> Four-vow/ five-vow distinction is traditional; biography and chronology vary across sectarian |
+|    memories.                                                                                     |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 5/12: Buddhist diagnosis and disciplined path
-DUKKHA -> SAMUDAYA (craving/ignorance) -> NIRODHA -> EIGHTFOLD PATH
-                                                  |
-             +----------------+-------------------+
-             |                |                   |
-wisdom: view/intention   ethics: speech/action/livelihood   meditation: effort/mindfulness
-                                                  |
-                                                  v
-MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha.
++--------------------------------------------------------------------------------------------------+
+| PANEL 4/14 - 4. JAIN REALITY, KARMA AND RELEASE                                                  |
++--------------------------------------------------------------------------------------------------+
+| -> Jiva is conscious and enduring; ajiva includes matter, motion/rest media, space and time.     |
+| -> Activity and passion -> asrava (influx) -> bandha (bondage).                                  |
+| -> Samvara stops new influx; nirjara sheds accumulated karmic matter; moksha perfects the        |
+|    individual jiva.                                                                              |
+| -> Dharma-dravya and adharma-dravya are cosmological media, not simply moral good and evil.      |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 6/12: Dependent origination and no-self
-ignorance -> formations -> consciousness -> name-form -> six senses -> contact
--> feeling -> craving -> clinging -> becoming -> birth -> ageing-and-death
-                         |
-                         v
-conditioned arising explains continuity without eternal atman or first creator.
-aggregates: form, feeling, perception, formations, consciousness -> impermanent/anatta
-karma preserves ethical causation through process; nirvana is not physical death.
++--------------------------------------------------------------------------------------------------+
+| PANEL 5/14 - 5. JAIN PATH, ETHICS AND MANY-SIDEDNESS                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Triratna: right faith, right knowledge, right conduct.                                        |
+| -> Five vows: ahimsa, satya, asteya, brahmacharya, aparigraha.                                   |
+| -> Mahavrata for ascetics; anuvrata and supplementary restraints for laity.                      |
+| -> Anekantavada = many-sided reality; nayavada = standpoints; syadvada = conditioned             |
+|    predication; mature system is later.                                                          |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 7/12: Buddhist sangha, councils and canons
-BUDDHA/DHAMMA -> monastic SANGHA under VINAYA <-> lay gifts, merit and protection
-                         |
-                         v
-conventional councils: Rajagriha -> Vaishali -> Pataliputra -> regional recensions
-                         |
-                         v
-Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit,
-Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes.
-Women ordain, but institutional hierarchy and textual debate remain.
++--------------------------------------------------------------------------------------------------+
+| PANEL 6/14 - 6. JAIN COMMUNITY, CANON, SECTS AND CONTINUITY                                      |
++--------------------------------------------------------------------------------------------------+
+| -> Fourfold community: monks, nuns, laymen and laywomen; household support sustains              |
+|    renunciation.                                                                                 |
+| -> Pataliputra preservation and Valabhi redaction are later tradition-specific accounts.         |
+| -> Digambara-Svetambara division developed gradually: clothing, canon, images/practice and       |
+|    women's liberation differ.                                                                    |
+| -> Mathura, Udayagiri-Khandagiri, western India and Karnataka show regional patronage; Jainism   |
+|    changed while enduring.                                                                       |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 8/12: Buddhist developments: schools to Vajrayana
-EARLY SCHOOLS -> MAHAYANA -> MADHYAMAKA/YOGACARA -> VAJRAYANA
-Vinaya/Abhidharma  bodhisattva ideal  emptiness/mind debates  mantra/mandala/tantra
-multiple nikayas   new sutras         philosophy systems       ritual monasteries
-                         |
-                         v
-Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.
-Maitreya/paramitas fit Mahayana; Vajrayana is a later development.
++--------------------------------------------------------------------------------------------------+
+| PANEL 7/14 - 7. BUDDHA: BIOGRAPHY AND DATING                                                     |
++--------------------------------------------------------------------------------------------------+
+| -> Siddhartha Gautama, a Sakya, is remembered through four sights, renunciation and search among |
+|    teachers.                                                                                     |
+| -> Extreme austerity rejected -> awakening at Bodh Gaya -> first sermon at Sarnath -> teaching   |
+|    career.                                                                                       |
+| -> Mahaparinibbana at Kushinagara; Lumbini pillar gives early epigraphic support to birthplace   |
+|    memory.                                                                                       |
+| -> Long and short chronologies differ; sacred biography is not a contemporary diary.             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 9/12: Networks, material culture and outcomes
-GANGA HEARTLAND -> stupas/monasteries -> trade routes and political patronage
-Mauryan/post-Mauryan support -> Sanchi, Bharhut and caves -> donors/artisans
-NORTH-WEST/CENTRAL ASIA -> Silk routes -> China -> Korea/Japan
-SRI LANKA -> Theravada transmission -> Southeast Asian histories
-JAIN NETWORKS -> Mathura/western India/Deccan/Karnataka -> temples/manuscripts
-                         |
-                         v
-Buddhism later declined/absorbed in India as patronage and monastery networks changed;
-Jainism persisted through lay institutions, regional patrons and adaptive communities.
++--------------------------------------------------------------------------------------------------+
+| PANEL 8/14 - 8. BUDDHIST DIAGNOSIS AND MIDDLE PATH                                               |
++--------------------------------------------------------------------------------------------------+
+| -> Four Noble Truths: dukkha, origin, cessation and path.                                        |
+| -> Middle Way rejects sensual indulgence and self-mortification.                                 |
+| -> Eightfold Path: view, intention, speech, action, livelihood, effort, mindfulness and          |
+|    concentration.                                                                                |
+| -> Wisdom + ethical conduct + mental discipline form an integrated practice, not a mechanical    |
+|    staircase.                                                                                    |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 10/12: Jainism-Buddhism comparison and answer spine
-ANSWER SPINE
-1. Define the shramana setting and identify each source tradition.
-2. Connect doctrine -> institution -> social base -> patronage -> spread.
-3. Compare Jain jiva and restraint with Buddhist anatta and Middle Path.
-VERDICT: Shared context produced distinct paths, institutions and trajectories.
++--------------------------------------------------------------------------------------------------+
+| PANEL 9/14 - 9. CONDITIONALITY, NO-SELF AND NIRVANA                                              |
++--------------------------------------------------------------------------------------------------+
+| -> Dependent origination: conditioned arising and cessation; not fate, first cause or a          |
+|    permanent substance.                                                                          |
+| -> Anicca = impermanence; anatta = no permanent independent self; dukkha = conditioned           |
+|    unsatisfactoriness.                                                                           |
+| -> Five aggregates analyse the person; intentional karma sustains rebirth without an eternal     |
+|    soul.                                                                                         |
+| -> Nirvana ends greed, hatred, delusion and the rebirth process; it is not mere death or         |
+|    nihilism.                                                                                     |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 11/12: Evidence ladder and confidence control
-EVIDENCE LADDER
-1. Canonical texts preserve layered doctrine, discipline and sect memory.
-2. Inscriptions identify donors and institutions, not total populations.
-3. Archaeology maps practice and networks but cannot read belief directly.
-VERDICT: Triangulate text, inscription and material context at matching scales.
++--------------------------------------------------------------------------------------------------+
+| PANEL 10/14 - 10. SANGHA, VINAYA, LAITY AND WOMEN                                                |
++--------------------------------------------------------------------------------------------------+
+| -> Bhikkhu/bhikkhuni communities operate through Vinaya; upasaka/upasika provide food, robes,    |
+|    medicine and residence.                                                                       |
+| -> Lay-monastic reciprocity links merit, teaching, routes, towns and agrarian support.           |
+| -> Mahapajapati Gotami tradition and Therigatha attest women's agency; garudhamma transmission   |
+|    is layered and debated.                                                                       |
+| -> Access widened beyond hereditary ritual privilege, yet caste, obligation and patriarchy did   |
+|    not vanish.                                                                                   |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
 
-ASCII MASTER FLOW — PANEL 12/12: Examiner traps and contested boundaries
-CLOSE DISTINCTIONS
-1. Traditional dates and council narratives require school-specific labels.
-2. Jain jiva is not Buddhist anatta; Theravada is not a synonym for Hinayana.
-3. Ashoka aided Buddhism but did not create or single-handedly spread it.
-VERDICT: Reject single-cause rise, one-event sect splits and total disappearance.
++--------------------------------------------------------------------------------------------------+
+| PANEL 11/14 - 11. COUNCILS, CANONS AND EARLY SCHOOLS                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Rajagriha, Vaishali and Pataliputra councils are conventional, school-specific institutional  |
+|    memories.                                                                                     |
+| -> No single pan-Buddhist fourth council: Kanishka-Kashmir and Sri Lankan writing-down           |
+|    traditions differ.                                                                            |
+| -> Theravada Pali Tipitaka = Vinaya, Sutta, Abhidhamma; other schools preserved Vinayas, Agamas  |
+|    and Abhidharma.                                                                               |
+| -> Sthavira and Mahasanghika lineages are complex; Theravada is not every Sthavira school and    |
+|    not 'Hinayana'.                                                                               |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 12/14 - 12. MAHAYANA, EMPTINESS AND VAJRAYANA                                              |
++--------------------------------------------------------------------------------------------------+
+| -> Mahayana emerged gradually around the early centuries BCE/CE through diverse texts and        |
+|    communities.                                                                                  |
+| -> Bodhisattva ideal and paramitas widen the salvific horizon; Maitreya is the future Buddha,    |
+|    not exclusively Mahayana.                                                                     |
+| -> Madhyamaka uses emptiness/dependent designation; emptiness is not non-existence.              |
+| -> Vajrayana's mantra, mandala, deity yoga and tantric texts are later first-millennium          |
+|    developments.                                                                                 |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 13/14 - 13. PATRONAGE, SPREAD, MONASTERIES AND ART                                         |
++--------------------------------------------------------------------------------------------------+
+| -> Ashoka's inscriptions support Buddhist patronage and sangha concern; dhamma is broader than   |
+|    Buddhist doctrine.                                                                            |
+| -> Kanishka matters to north-western networks, but council and conversion details are later      |
+|    traditions.                                                                                   |
+| -> Rulers + merchants + artisans + women + monks/nuns + local donors sustained routes,           |
+|    monasteries and education.                                                                    |
+| -> Stupa, chaitya and vihara; Sanchi, Bharhut, Amaravati, Karle, Ajanta, Nalanda and Gandhara    |
+|    require phase-specific dating.                                                                |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 14/14 - 14. COMPARISON, DECLINE AND EXAM VERDICT                                           |
++--------------------------------------------------------------------------------------------------+
+| -> Jainism: enduring jiva, material karma, rigorous ahimsa; Buddhism: anatta, intentional karma, |
+|    Middle Path.                                                                                  |
+| -> Both formed renunciant-lay communities and questioned exclusive ritual authority, but neither |
+|    was uniformly egalitarian.                                                                    |
+| -> Buddhist contraction in India was regional and multicausal; Himalayan/eastern survival, Asian |
+|    expansion and revival matter.                                                                 |
+| -> Answer route: context -> doctrine -> institution -> patronage/material evidence -> variation  |
+|    -> qualified verdict.                                                                         |
++--------------------------------------------------------------------------------------------------+

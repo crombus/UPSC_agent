@@ -1,119 +1,232 @@
-ASCII MASTER FLOW — PANEL 1/12: Period horizon and source method
-LATER VEDIC BACKGROUND -> c. 600-400 BCE CORE -> c. 600-200 BCE WIDER HORIZON
-             |                    |                    |
- agrarian and varna change   Buddha-age polities   textual redaction and urban growth
-SOURCES: Nikayas/Vinaya + Jaina texts + Dharmasutras/Panini + archaeology
-         |
-         v
-Do not make unlike sources exactly contemporary.
-METHOD: claim -> named source/site -> what it proves -> transmission limit.
+STATE AND VARNA SOCIETY IN THE AGE OF THE BUDDHA - ASCII MASTER FLOW DIAGRAM
 
-ASCII MASTER FLOW — PANEL 2/12: From jana to territorial state
-KIN COMMUNITY / JANA
-        -> settled territory / JANAPADA
-        -> larger competing MAHAJANAPADAS
-        -> monarchies and gana-sanghas
-MECHANISMS: revenue + army + fortified centres + officials + diplomacy
-RESULT: political authority became more territorial and extractive.
-LIMIT: change was regionally uneven and did not erase clan structures.
-TRAP: gana-sangha was restricted oligarchy, not modern democracy.
++------------------------------------------------------------------------------------------------+
+| PANEL 1/14 - BOUNDARY, CHRONOLOGY AND CENTRAL THESIS                                           |
++------------------------------------------------------------------------------------------------+
+| -> Core frame: c. sixth-fourth centuries BCE within a longer, uneven c. 600-200 BCE early-     |
+|    historic transition.                                                                        |
+| -> Middle Ganga evidence is densest; this is not an all-India census or a sudden 600 BCE       |
+|    revolution.                                                                                 |
+| -> Topic 11 owns mahajanapadas/Magadha narrative; Topic 14 owns Mauryan imperial               |
+|    administration.                                                                             |
+| -> Thesis: territorial power, surplus and social ranking changed together, but through         |
+|    regional and contested processes.                                                           |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 3/12: Second urbanisation as a system
-AGRARIAN SURPLUS -> SPECIALISED CRAFTS -> EXCHANGE -> TOWNS
-       ^                                      |
-       |                                      v
-state demand <- taxes, armies, officials <- merchants and householders
-       |                                      |
-       +------ roads + rivers + coin use -----+
-Urbanisation was a network of production, power and circulation.
-NBPW is an associated material horizon, not the single cause of towns.
++------------------------------------------------------------------------------------------------+
+| PANEL 2/14 - SOURCE VOICES, GENRES AND SILENCES                                                |
++------------------------------------------------------------------------------------------------+
+| -> Buddhist Nikaya/Vinaya: social categories and monastic norms; layered oral transmission     |
+|    and redaction.                                                                              |
+| -> Jataka/later Buddhist and Jain traditions: rich social memory; chronology and sectarian     |
+|    purpose require control.                                                                    |
+| -> Dharmasutra/Grihyasutra: Brahmanical prescriptions for varna, household and penalty; norm   |
+|    is not practice.                                                                            |
+| -> Archaeology/coins: settlement, NBPW, forts, craft and circulation; they rarely identify     |
+|    varna or institutions alone.                                                                |
+| -> Method: claim -> named source/material -> inference -> genre, date, region and silence      |
+|    limit.                                                                                      |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 4/12: Agrarian base, iron and revenue
-FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR
-                      |
-            larger and more regular surplus
-                      |
-shares, tribute, labour dues and market-related extraction
-                      v
-treasury -> officials -> army -> territorial competition
-CAUTION: iron enabled tools and weapons but did not mechanically create states.
++------------------------------------------------------------------------------------------------+
+| PANEL 3/14 - SECOND URBANISATION AS AN URBAN-RURAL SYSTEM                                      |
++------------------------------------------------------------------------------------------------+
+| -> Villages and cultivation -> food, raw materials and labour -> towns and political           |
+|    centres.                                                                                    |
+| -> Towns/routes -> specialised crafts, markets, credit and political demand -> rural           |
+|    opportunities and extraction.                                                               |
+| -> NBPW is one fine-ware horizon; coins one exchange indicator; fortification one              |
+|    mobilisation indicator.                                                                     |
+| -> City test = scale/hierarchy + crafts + exchange + public/defensive works + routes +         |
+|    hinterland.                                                                                 |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 5/12: State institutions and differentiated offices
-RAJAN / RULING LINEAGE
-        |
-ministers and mahamattas -> revenue and judicial functions
-army and commanders      -> coercion and defence
-village heads            -> local mediation and collection
-envoys and alliances     -> interstate competition
-Office terms show functional differentiation, not a uniform Mauryan bureaucracy.
-Capacity = resources + information + compliance, not titles alone.
++------------------------------------------------------------------------------------------------+
+| PANEL 4/14 - STATE-SURPLUS-STRATIFICATION CAUSAL CHAIN                                         |
++------------------------------------------------------------------------------------------------+
+| -> Ecology + rice/crops + tools + water + labour + settlement growth -> expanded production    |
+|    possibilities.                                                                              |
+| -> Household surplus -> tax/tribute/toll/fine + market/credit + rent/service + gift            |
+|    channels.                                                                                   |
+| -> Resources -> courts, officials, forts, armies, urban specialists and monastic               |
+|    institutions.                                                                               |
+| -> Unequal appropriation -> gahapati/setthi influence, dependent labour and sharper status     |
+|    differences.                                                                                |
+| -> Qualification: iron enabled; institutions, labour and power converted. No single-cause      |
+|    determinism.                                                                                |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 6/12: Varna norm and social practice
-BRAHMANICAL NORM                 LIVED SOCIAL FIELD
-fourfold ranked varna            occupations, jatis, clans and regions
-duty and ritual status            wealth, power, mobility and exclusion
-prescriptive texts                Buddhist/Jaina texts + archaeology
-             \                    /
-              \-- NEGOTIATION ---/
-Varna organised claims to hierarchy; it did not fully describe every social relation.
-Neither timeless rigidity nor unrestricted mobility is evidence-safe.
++------------------------------------------------------------------------------------------------+
+| PANEL 5/14 - TERRITORY, CAPITALS, FORTS AND LAYERED SOVEREIGNTY                                |
++------------------------------------------------------------------------------------------------+
+| -> Jana/kin authority -> janapada territoriality -> larger competing states with claims over   |
+|    settlements, routes and people.                                                             |
+| -> Capitals concentrated court, defence, storage, exchange and communication; founding dates   |
+|    remain source-specific.                                                                     |
+| -> Fortifications indicate labour mobilisation and insecurity, not absolute rule over every    |
+|    surrounding household.                                                                      |
+| -> Local clan elites, village heads, corporate bodies and household power survived inside      |
+|    expanding states.                                                                           |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 7/12: Householders, merchants, labour and dependency
-GAHAPATI: substantial household head / agrarian and social authority
-SETTHI: wealthy merchant-financier in urban-commercial networks
-KASSAKA: cultivator; category contained unequal holdings and dependence
-KAMMIKAS / ARTISANS: specialised production and guild-like association
-DASA-KAMMAKARA: dependent and unfree labour categories
-RENUNCIANTS: outside household ideal yet dependent on lay patronage
-Wealth could raise influence without automatically cancelling ritual hierarchy.
-Use social terms with source and context; do not make them modern classes.
++------------------------------------------------------------------------------------------------+
+| PANEL 6/14 - MONARCHY AND GANA-SANGHA                                                          |
++------------------------------------------------------------------------------------------------+
+| -> Monarchy: dynastic king/court -> concentrated command, succession politics, ministers,      |
+|    army and patronage.                                                                         |
+| -> Gana-sangha: restricted ruling-clan corporate body -> chief, council/assembly and shared    |
+|    elite authority.                                                                            |
+| -> Santhagara and salaka suggest procedure; they do not preserve one universal constitution.   |
+| -> Both extracted resources, punished, negotiated and fought; neither offered universal        |
+|    citizenship.                                                                                |
+| -> Exam trap: ancient republic = oligarchic and restricted, not modern democracy.              |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 8/12: Women, household power and exclusion
-TEXTUAL NORMS: patriliny, marriage control and gendered duties
-BUDDHIST/JAINA MATERIAL: nuns, donors, householders and debates over admission
-MATERIAL SILENCE: archaeology rarely identifies gender without context
-                         |
-                         v
-Agency existed within unequal institutions; elite women cannot stand for all women.
-Renunciation opened spaces but preserved hierarchy and dependence.
-VERDICT: recover variation without inventing equality or total seclusion.
++------------------------------------------------------------------------------------------------+
+| PANEL 7/14 - OFFICIALS, TAXATION, ARMY, LAW, JUSTICE AND ORDER                                |
++------------------------------------------------------------------------------------------------+
+| -> Texts mention ministers/amattas, mahamattas, commanders, judges/accountants and village     |
+|    leaders.                                                                                    |
+| -> Shared title does not prove identical function; never import the full                       |
+|    Arthashastra/Ashokan hierarchy backward.                                                    |
+| -> Bhaga/produce shares, bali, tolls and fines varied; named fractions are prescriptions,      |
+|    not audited uniform rates.                                                                  |
+| -> Organised forces and forts show coercive capacity; exact pre-Mauryan standing-army totals   |
+|    are insecure.                                                                               |
+| -> Status-sensitive legal norms are visible; actual adjudication by rulers/agents remains      |
+|    poorly documented.                                                                          |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 9/12: Shramana challenge and social response
-RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY + SUFFERING
-                          |
-Buddhist, Jaina, Ajivika and other renunciant critiques
-                          |
-ethics, karma, rebirth, non-injury, discipline and new communities
-                          v
-merchant and ruler patronage + monastic institutions + doctrinal competition
-LIMIT: shramana movements challenged hierarchy unevenly, not all social ranking.
++------------------------------------------------------------------------------------------------+
+| PANEL 8/14 - AGRARIAN EXPANSION, TOWNS, COINS AND CORPORATE ECONOMY                            |
++------------------------------------------------------------------------------------------------+
+| -> Land held overlapping cultivator, household, village, chief/king and revenue claims; no     |
+|    one uniform ownership regime.                                                               |
+| -> Punch-marked coins + Pali terms kahapana, nikkha, kamsa, pada, masaka, kakanika -> uneven   |
+|    monetisation.                                                                               |
+| -> Barter and payments in kind continued; coin circulation does not identify one issuer or     |
+|    universal money use.                                                                        |
+| -> Vanija, artisans and shreni/puga/nigama indicate trade and guild-like association with      |
+|    source-layer limits.                                                                        |
+| -> Urban-rural exchange linked food, craft goods, forest products, credit, transport and       |
+|    state demand.                                                                               |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 10/12: Material evidence: pottery, coins, towns and routes
-NBPW -> consumption and early-historic settlement horizon
-FORTIFICATIONS -> defence, labour mobilisation and political investment
-PUNCH-MARKED COINS -> monetised exchange in selected circuits
-CRAFT AREAS -> specialised production and urban demand
-SETTLEMENT HIERARCHY -> links villages, towns and political centres
-RIVERS/ROADS -> movement of goods, armies, pilgrims and information
-No single marker proves a city, ruler, varna or religious community.
-Use convergence among artefact, layer, text and regional sequence.
++------------------------------------------------------------------------------------------------+
+| PANEL 9/14 - VARNA IDEOLOGY, JATI AND STATUS PRACTICE                                          |
++------------------------------------------------------------------------------------------------+
+| -> Varna = broad Brahmanical prescriptive hierarchy; jati = context-sensitive                  |
+|    birth/kind/lineage/social group.                                                            |
+| -> Occupation, kinship, wealth, political office and region intersected but did not equal      |
+|    varna or each other.                                                                        |
+| -> Brahmana-Kshatriya relation combined rank contest with ritual-political cooperation and     |
+|    patronage.                                                                                  |
+| -> Vaishya does not equal every merchant; vessa, gahapati and setthi map imperfectly onto      |
+|    prescription.                                                                               |
+| -> Shudra subordination is clear in norms, but every worker, artisan, slave or forest person   |
+|    was not automatically Shudra.                                                               |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 11/12: Change and continuity across polity and society
-CHANGE: larger states | towns | taxation | coin use | renunciant institutions
-CONTINUITY: kinship | agrarian household | ritual hierarchy | local communities
-TENSION: monarchy vs gana | wealth vs status | norm vs practice
-REGIONALITY: Ganga plains != north-west != Deccan trajectories
-                       |
-                       v
-The Buddha age was accelerated restructuring, not a total social revolution.
-Best answers connect political capacity, economy, hierarchy and ethical critique.
++------------------------------------------------------------------------------------------------+
+| PANEL 10/14 - HOUSEHOLD ELITES, LABOUR, DEPENDENCY AND EXCLUSION                               |
++------------------------------------------------------------------------------------------------+
+| -> Gahapati/grihapati: substantial household/property-holder, often agrarian; not every        |
+|    ordinary householder.                                                                       |
+| -> Setthi/shreshthin: urban business, credit or corporate elite; overlaps with but is not      |
+|    synonymous with gahapati.                                                                   |
+| -> Kassaka cultivators varied; kammakara/bhataka mark hired/service labour; dasa/dasi mark     |
+|    dependent or unfree status contextually.                                                    |
+| -> Debt, capture, birth and service created different dependencies; no reliable population     |
+|    proportions survive.                                                                        |
+| -> Chandala, Nisada and pukkusa show stigma/exclusion in specific sources, not a finished      |
+|    timeless caste schedule.                                                                    |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
 
-ASCII MASTER FLOW — PANEL 12/12: Examiner-ready Buddha-age answer spine
-INTRO: define the sixth-fifth century BCE core within a wider early-historic range.
-BODY 1: source hierarchy and chronology caution
-BODY 2: territorial states, institutions and agrarian extraction
-BODY 3: towns, trade, householders, artisans and labour
-BODY 4: varna norm, lived hierarchy, gender and shramana critique
-COUNTER: regional variation, composite texts and material-evidence limits
-CONCLUSION: state, economy and society changed together but unevenly.
-WRITE: process -> named evidence -> social effect -> qualification.
++------------------------------------------------------------------------------------------------+
+| PANEL 11/14 - HOUSEHOLD, PROPERTY, PATRIARCHY AND WOMEN                                        |
++------------------------------------------------------------------------------------------------+
+| -> Patrilineal continuity, controlled marriage and male inheritance privilege structure many   |
+|    normative texts.                                                                            |
+| -> Women nevertheless worked, managed resources, gave gifts and appeared as householders,      |
+|    patrons and urban actors.                                                                   |
+| -> Ambapali = wealthy ganika/donor; Visakha = lay patron; exceptional visibility is not        |
+|    general equality.                                                                           |
+| -> Buddhist bhikkhuni and Jain female orders opened renunciant paths but retained admission,   |
+|    discipline and status constraints.                                                          |
+| -> Male-authored elite sources under-record ordinary female labour: silence must be stated,    |
+|    not filled by guesswork.                                                                    |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 12/14 - SHRAMANA CRITIQUE AND THE PERSISTENCE OF HIERARCHY                               |
++------------------------------------------------------------------------------------------------+
+| -> Buddhist, Jain and other renunciants criticised sacrifice, attachment and the moral         |
+|    sufficiency of birth.                                                                       |
+| -> Renunciation could cross some household/varna boundaries and create new male and female     |
+|    institutional identities.                                                                   |
+| -> Sanghas relied on alms, gardens, protection and gifts from kings, gahapatis, setthis,       |
+|    women and corporate groups.                                                                 |
+| -> Rules for debtors, slaves, soldiers and nuns reveal institutional limits; lay patriarchy    |
+|    and stigma persisted.                                                                       |
+| -> Verdict: important ethical critique and institutional alternative, not a simple merchant    |
+|    or anti-caste revolution.                                                                   |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 13/14 - PERIPHERIES, MOBILITY, DONORS AND CONTROLLED COMPARISON                          |
++------------------------------------------------------------------------------------------------+
+| -> Forest, hunting, pastoral and tribal groups exchanged products, supplied labour/tribute,    |
+|    resisted and retained autonomy.                                                             |
+| -> State incorporation was graded: route control, tribute and alliances did not equal          |
+|    cultural assimilation.                                                                      |
+| -> Wealth, office, migration, skill, patronage and renunciation enabled status claims;         |
+|    birth, debt and stigma constrained them.                                                    |
+| -> Donor records reveal claimed identity and institutional ties, not group-wide mobility;      |
+|    many inscriptions are later.                                                                |
+| -> Later Vedic -> continuity in kinship/agrarian/varna change; Buddha age -> larger states,    |
+|    towns and organised renunciation.                                                           |
++------------------------------------------------------------------------------------------------+
+                                               |
+                                               v
+
++------------------------------------------------------------------------------------------------+
+| PANEL 14/14 - UPSC ANSWER SPINE AND MAURYAN BRIDGE                                             |
++------------------------------------------------------------------------------------------------+
+| -> Introduction: define the c. sixth-fourth centuries BCE focus, middle-Ganga weight and       |
+|    source problem.                                                                             |
+| -> Body 1: second urbanisation and state-surplus-stratification mechanism with NBPW/coin       |
+|    cautions.                                                                                   |
+| -> Body 2: monarchy/gana, territory, officials, extraction, law and citizenship/exclusion      |
+|    limits.                                                                                     |
+| -> Body 3: varna versus jati/practice; gahapati/setthi; labour, household, women and           |
+|    peripheries.                                                                                |
+| -> Body 4: shramana critique plus persistence; compare Later Vedic trends and regional         |
+|    variation.                                                                                  |
+| -> Conclusion: pre-Mauryan capacities formed a bridge, not a ready-made Mauryan bureaucracy    |
+|    or inevitable empire.                                                                       |
++------------------------------------------------------------------------------------------------+
+

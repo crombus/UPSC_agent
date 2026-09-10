@@ -1,109 +1,19 @@
 ---
-title: "Jainism and Buddhism — Learner-v2 Refreshed"
+title: "Jainism and Buddhism: Complete Learning Session"
 topic_key: ancient-indian-history-10
-cover_image: assets/ancient-indian-history-10_Teaching-Navigation_2026-08-23.png
 ---
-# Jainism and Buddhism - Learner-v2 Complete Learning Session
+# Jainism and Buddhism: Complete Learning Session
 
-> **Catalogue identity:** Ancient History · Subject-wide Syllabus · `ancient-indian-history-10`  
-> **Generation date:** 22 August 2026 · **Identity:** `ancient-indian-history-10:learner-v2:g3` · **Supersedes:** `ancient-indian-history-10:learner-v2:g2` · **Approval:** false pending explicit topic approval  
-> **Source order used:** Basic/canonical owner and its OCR-grounded legacy learning package -> syllabus/master chronology/thematic and verified-PYQ sources -> exact Advanced owner in the optional block. Qdrant was not required. Legacy-v1 files remain unchanged.  
-> **Evidence discipline:** g2 is preserved in full and deepened rather than compressed: g3 removes repeated boilerplate explanations, adds explicit CORE PRELIMS / CORE MAINS / SUPPORTING / OPTIONAL ADVANCED classification, and adds twelve original topic-specific visuals. Inherited live claims are retained only where the legacy package cites a primary or peer-reviewed source; contested chronology and interpretation remain labelled.
-
-![Jainism and Buddhism learning spine](assets/ancient-indian-history-10-c2fc763d99.png)
-
-*Original deterministic visual: a topic-specific evidence-to-explanation spine. It is a learning aid, not historical evidence.*
-
-#### Coverage lock
-
-- **Required scope:** Background, doctrines, sanghas, accurately bounded councils and sects, patronage, spread, art, economy, social dimensions and comparison.
-- **Basic completeness:** the complete detailed legacy learner session is retained before practice.
-- **Practice completeness:** verified PYQs, strict-rotation MCQs/remediation and solved 10/15/20-mark answers are retained.
-- **Advanced boundary:** the exact Advanced owner is placed only after all Basic and practice material.
-- **Register-last rule:** complete topic-specific consolidated notes remain the final H2 section.
-
-#### Legacy package source and coverage ledger
-
-> **Subject:** Ancient Indian History | **Paper:** Prelims GS-I + GS-I historical/cultural support | **Topic:** 10 | **Date:** 13 August 2026
+> **Subject:** Ancient History | **Paper:** Prelims GS-I with GS-I historical/cultural support | **Level:** Core first; Optional Advanced separately labelled
 >
-> **Evidence key:** RETRIEVED FACT = directly supported by named repository, local-book, official-paper or authoritative heritage source. INTERPRETATION = source-based analytical reading. INFERENCE = bounded conclusion.
+> **Source order:** canonical Ancient History Core; separately labelled Advanced; official syllabus and verified PYQ routing; OCR-searchable R.S. Sharma and Upinder Singh; bounded UNESCO/ASI material-history references.
 >
-> **Approval state:** generated, **approved=false**. Only explicit user approval can change the status to approved.
-
-#### Package Practice Counts
-
-| Component | Count |
-| --- | --- |
-| Verified/routed Prelims PYQs | 15 |
-| Solved relevant Mains PYQs | 2 |
-| Hard MCQs with explanations | 48 |
-| Remedial MCQs with explanations | 12 |
-| Original solved 10-mark Mains | 3 |
-| Original solved 15-mark Mains | 3 |
-| Original solved 20-mark Mains | 3 |
-
-#### Authoritative modern heritage links
-
-- UNESCO, Buddhist Monuments at Sanchi: https://whc.unesco.org/en/list/524/
-- UNESCO, Mahabodhi Temple Complex at Bodh Gaya: https://whc.unesco.org/en/list/1056/
-- UNESCO, Archaeological Site of Nalanda Mahavihara: https://whc.unesco.org/en/list/1502/
-- Archaeological Survey of India, excavation reports and protected-monument framework: https://asi.nic.in/pages/Publications/excavationReports
-
-No live current-affairs claim is forced. These links support present-day heritage description and conservation only.
+> **Method:** No 'atheist' shorthand, timeless uniform system or one-cause rise/decline story. Founder teaching, later sectarian systematisation, canonical redaction and archaeology are explicitly separated.
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
+> **Evidence contract:** Canonical Ancient History Core first; labelled Advanced later; official syllabus and PYQ routing; OCR-searchable R.S. Sharma and Upinder Singh; UNESCO/ASI only for bounded material-heritage status. Early doctrine, later systematisation, textual redaction and archaeology remain distinct.
 
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Ancient History Core is taught before optional enrichment. |
-| Evidence method | Claim → named site/text/inscription/coin/example → analysis → qualification. |
-| Source hierarchy | Archaeology, textual testimony, inscriptions, coins and scholarly interpretation remain visibly distinct. |
-| Contested issues | Competing interpretations are attributed, evidenced and bounded; certainty is not manufactured. |
-| Practice contract | Every solved item has demand decoding, an examiner-grade model, an executable answer/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Ancient-Indian-History\basic\10_Jainism-and-Buddhism.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Ancient-Indian-History\basic\10_Jainism-and-Buddhism.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Ancient-Indian-History\advanced\10_Jainism-and-Buddhism.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Ancient-Indian-History\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Archaeological inference:** material context supports bounded reconstruction; absence is not automatic proof of non-existence.
-- **Textual testimony:** genre, authorship, redaction, patronage and temporal distance control what a text can prove.
-- **Inscription and coin evidence:** contemporary names, titles, claims and circulation are powerful but do not by themselves map uniform territorial control.
-- **Scholarly interpretation:** historian labels are arguments to test, not facts to memorise without evidence.
-- **PYQ discipline:** repository ledgers and locally held official papers control wording and metadata; reconstructed wording and unavailable official keys must be labelled.
-- **Current-status note, rechecked 2026-09-03:** No current archaeological or heritage claim is used to alter the static chronology. Any present-day linkage remains contextual and dated.
-
-**Live/primary context sources recorded by the predecessor generation:**
-
-- No live source is required for a static claim in this topic.
-
-
-
-![Refreshed teaching navigation](assets/ancient-indian-history-10_Teaching-Navigation_2026-08-23.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-> A source-critical session separating early doctrine, later sectarian development, canonical redaction, material history and modern simplification.
-
-### UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT
-
-**Syllabus and verified-demand reality.** Jainism and Buddhism carry **direct Prelims value** (fifteen routed 2018-2026 questions on doctrine, sects, schools and sites) and **strong Mains support** through comparison, causation (spread/decline/persistence) and source-criticism questions. No unavailable key is treated as official; the 2026 key stays provisional and 2018-2023 unavailable keys are labelled inferred.
-
-| Major block | Label | Learner action |
-| --- | --- | --- |
-| Shramana-context markers; Jain ontology/vows/sect names; Buddhist Four Truths/Eightfold Path/school names; council and canon labels; site names (Sanchi, Bodh Gaya, Nalanda, Amaravati); rapid chronology/terminology distinctions | **CORE PRELIMS** | Memorise diagnostic terms, site-tradition pairs and school/sect labels. |
-| Doctrinal comparison; why-popular, why-declined and why-persisted causation; social access and its limits; patronage-spread linkages; historiography and evidence method | **CORE MAINS** | Build a claim -> named evidence -> analysis -> qualification -> verdict answer. |
-| Illustrative sites/texts beyond the headline examples; contemporary heritage and conservation notes; secondary sect distinctions | **SUPPORTING** | Keep representative examples only; do not memorise exhaustively. |
-| Deeper Advanced-owner refinements placed in the final optional block | **OPTIONAL ADVANCED** | Add only after the Basic/practice answer is already secure. |
-
-**Memorise:** shramana-era markers, jiva-ajiva/Triratna/five vows, Four Noble Truths/Eightfold Path terms, Sthaviravadin-Mahasanghika and Theravada-Mahayana-Vajrayana labels, and Sanchi/Bodh Gaya/Nalanda/Amaravati site-tradition pairs.  
-**Understand:** doctrine is reconstructed from layered, redacted sources rather than eyewitness transcripts, and causation for spread, decline and persistence is multi-factor, never single-cause.  
-**Use selectively:** secondary sites, minor sect distinctions and illustrative examples beyond the headline PYQ-routed facts.  
-**Reserve for depth:** Madhyamaka/Yogacara nuance, Vajrayana institutional detail and further Advanced-owner refinements in the optional block.
 ### REPRESENTATIVE SOURCE LEDGER
 
 The package follows the repository's required source hierarchy and uses the strongest source for each claim.
@@ -199,13 +109,13 @@ INSCRIPTIONS / SITES                    CANONICAL REDACTION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c.
+**Plain-language definition:** Jainism and Buddhism arose in a favourable ecology of cities, states and debate, but no single economic or social change mechanically produced their doctrines.
 
 **Technical definition:** Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c.
+> Jainism and Buddhism arose in a favourable ecology of cities, states and debate, but no single economic or social change mechanically produced their doctrines.
 
 #### MUST-WRITE KEYWORDS
 
@@ -215,6 +125,16 @@ INSCRIPTIONS / SITES                    CANONICAL REDACTION
 - **Intellectual Ferment**
 - **Production**
 - **Nodes**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Sixth-Century Bce Setting -> Cities -> States -> Intellectual Ferment
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Sixth-Century Bce Setting; define Cities, connect States with Intellectual Ferment to explain the mechanism, and use Production for the decisive comparison or qualification.
 
@@ -255,6 +175,21 @@ Jainism and Buddhism emerged in the middle Gangetic and adjoining world of terri
 - Gana-sangha means oligarchic corporate polity, not universal democracy.
 - Gahapati and setthi reveal economic status beyond ritual varna alone.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c. 600-200 BCE. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jainism and Buddhism arose in a favourable ecology of cities, states and debate, but no single economic or social change mechanically produced their doctrines. The named evidence is: Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c. 600-200 BCE. This evidence explains the historical mechanism rather than merely listing a term. The subcontinent did not urbanize uniformly, merchants were not the only followers, and economic change cannot explain specific doctrines such as anatta or anekantavada. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+SIXTH-CENTURY BCE SETTING: CITIES, STATES AND INTELLECTUAL FERMENT: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Jainism and Buddhism were crude merchant ideologies. **Correct:** Merchants mattered, but rulers, householders, women, artisans and renouncers also shaped them.
@@ -282,7 +217,7 @@ CONSEQUENCE / CONTRAST: These conditions widened their audience, but doctrine ca
 UPSC TRAP / ANSWER-USE: QUALIFICATION: The subcontinent did not urbanize uniformly, merchants were not the only followers, and economic change cannot explain specific doctrines such as anatta or anekantavada.
         |
         v
-ANSWER-GRABBING FORMULATION: Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c.
+ANSWER-GRABBING FORMULATION: Jainism and Buddhism arose in a favourable ecology of cities, states and debate, but no single economic or social change mechanically produced their doctrines.
 ```
 ### SESSION 2 — THE SHRAMANA FIELD: HETERODOXY WITHOUT A FALSE BINARY — [CORE PRELIMS + CORE MAINS]
 
@@ -305,9 +240,17 @@ ANSWER-GRABBING FORMULATION: Upinder Singh's useful frame is 'cities, kings and 
 - **Study link**
 - **'Shramana versus Brahmana'**
 
-**How to use them:** Frame the answer through The Shramana Field; define Heterodoxy Without A False Binary, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- The Sixth-Century BCE Shramana Field](assets/ancient-indian-history-10-27574a73f2.png)
+```text
+SOURCE / START -> The Shramana Field -> Heterodoxy Without A False Binary -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through The Shramana Field; define Heterodoxy Without A False Binary, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 *Use this map to place Jainism and Buddhism inside the same sixth-century BCE ferment before studying either tradition on its own.*
 
@@ -342,6 +285,21 @@ SIXTH-CENTURY DEBATE FIELD
 - Shramana is broader than Buddhist monk.
 - Upasaka is a lay Buddhist, not an ordained monk.
 - Heterodox does not mean socially or doctrinally identical.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Parivrajaka denotes a wandering renunciant; shramana a striver/ascetic across several non-Vedic movements; upasaka/upasika a Buddhist lay follower. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+'Shramana versus Brahmana' is a useful contrast of authority and practice, but historical interaction was continuous. The named evidence is: Parivrajaka denotes a wandering renunciant; shramana a striver/ascetic across several non-Vedic movements; upasaka/upasika a Buddhist lay follower. This evidence explains the historical mechanism rather than merely listing a term. Later Brahmanical traditions absorbed ahimsa, renunciation and devotional/ethical forms; Jain and Buddhist communities also adopted ritual, image and pilgrimage practices. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+THE SHRAMANA FIELD: HETERODOXY WITHOUT A FALSE BINARY: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -393,6 +351,16 @@ ANSWER-GRABBING FORMULATION: 'Shramana versus Brahmana' is a useful contrast of 
 - **Study link**
 - **Rishabhanatha**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Pre-Mahavira Jain Tradition -> The Tirthankaras -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Pre-Mahavira Jain Tradition; define The Tirthankaras, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 Jain tradition presents a succession of twenty-four Tirthankaras, with Mahavira as the twenty-fourth. Historical confidence is unequal: Parshvanatha is the strongest pre-Mahavira candidate, while claims for very early figures belong primarily to sacred tradition.
@@ -421,6 +389,21 @@ Jain tradition presents a succession of twenty-four Tirthankaras, with Mahavira 
 - Mahavira should not be called the first Jain teacher.
 - Four vows versus five vows is a standard exam distinction.
 - Tirthankara is not equivalent to Buddhist Bodhisattva.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** A Tirthankara is a 'ford-maker' who discovers and teaches a route across bondage; the term is not a creator-god title. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+TRADITION: Rishabhanatha is the first Tirthankara, Parshvanatha the twenty-third and Mahavira the twenty-fourth. The named evidence is: A Tirthankara is a 'ford-maker' who discovers and teaches a route across bondage; the term is not a creator-god title. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+PRE-MAHAVIRA JAIN TRADITION AND THE TIRTHANKARAS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -455,13 +438,13 @@ ANSWER-GRABBING FORMULATION: TRADITION: Rishabhanatha is the first Tirthankara, 
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Mahavira: Traditional Biography And Historical Reconstruction — [Core Prelims + Core Mains] comprises Mahavira, Traditional Biography and Historical Reconstruction as its core connected dimensions.
+**Plain-language definition:** Mahavira is historically safest as a major sixth-fifth-century BCE Jain teacher whose life is preserved through differing sectarian traditions, not one uncontested calendar biography.
 
 **Technical definition:** Read the structure first; each arrow is a historical relationship, not an automatic law.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Wrong: Traditional dates are uncontested historical facts.
+> Mahavira is historically safest as a major sixth-fifth-century BCE Jain teacher whose life is preserved through differing sectarian traditions, not one uncontested calendar biography.
 
 #### MUST-WRITE KEYWORDS
 
@@ -471,6 +454,16 @@ ANSWER-GRABBING FORMULATION: TRADITION: Rishabhanatha is the first Tirthankara, 
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Mahavira -> Traditional Biography -> Historical Reconstruction -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Mahavira; define Traditional Biography, connect Historical Reconstruction with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -504,6 +497,21 @@ eastern Gangetic setting        cosmic biography
 - Kevala/kevalajnana is Jain omniscient knowledge.
 - Pavapuri is the traditional nirvana site.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Pali Buddhist texts know him as Nigantha Nataputta, proving that an organized Nigantha/Jain community was recognized by rival near-contemporary traditions. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Mahavira is historically safest as a major sixth-fifth-century BCE Jain teacher whose life is preserved through differing sectarian traditions, not one uncontested calendar biography. The named evidence is: Pali Buddhist texts know him as Nigantha Nataputta, proving that an organized Nigantha/Jain community was recognized by rival near-contemporary traditions. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+MAHAVIRA: TRADITIONAL BIOGRAPHY AND HISTORICAL RECONSTRUCTION: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** All Jain biographies agree that Mahavira married. **Correct:** Shvetambara and Digambara traditions differ.
@@ -531,7 +539,7 @@ CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical rel
 UPSC TRAP / ANSWER-USE: Nayaputta/Nataputta refers to Mahavira, not Buddha.
         |
         v
-ANSWER-GRABBING FORMULATION: Wrong: Traditional dates are uncontested historical facts.
+ANSWER-GRABBING FORMULATION: Mahavira is historically safest as a major sixth-fifth-century BCE Jain teacher whose life is preserved through differing sectarian traditions, not one uncontested calendar biography.
 ```
 ### SESSION 5 — JAIN ONTOLOGY: JIVA, AJIVA AND A LIVING COSMOS — [CORE PRELIMS + CORE MAINS]
 
@@ -539,7 +547,7 @@ ANSWER-GRABBING FORMULATION: Wrong: Traditional dates are uncontested historical
 
 **Plain-language definition:** Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity.
 
-**Technical definition:** Technically, Jain Ontology: Jiva, Ajiva And A Living Cosmos — [Core Prelims + Core Mains] is analysed by relating Jain Ontology to Jiva, then testing the relationship through Ajiva and A Living Cosmos.
+**Technical definition:** Jain ontology distinguishes conscious jiva from ajiva substances and explains bondage through karmic matter, making rigorous non-injury and ascetic purification internally coherent.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -553,6 +561,16 @@ ANSWER-GRABBING FORMULATION: Wrong: Traditional dates are uncontested historical
 - **A Living Cosmos**
 - **Memory hook**
 - **Mains/PYQ use**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Ontology -> Jiva -> Ajiva -> A Living Cosmos
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Jain Ontology; define Jiva, connect Ajiva with A Living Cosmos to explain the mechanism, and use Memory hook for the decisive comparison or qualification.
 
@@ -583,6 +601,21 @@ Jainism posits a plurality of eternal jivas (souls) entangled with non-soul real
 - The four main gatis are deva, manushya, naraki and tiryancha.
 - Yaksha is not one of those four principal forms of existence.
 - Jain ahimsa follows from ontology, not only sentiment.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity. The named evidence is: Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity. This evidence explains the historical mechanism rather than merely listing a term. Modern biological categories should not be projected onto this religious ontology. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN ONTOLOGY: JIVA, AJIVA AND A LIVING COSMOS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -634,11 +667,17 @@ ANSWER-GRABBING FORMULATION: Jiva is conscious, potentially omniscient and capab
 - **Asrava**
 - **Bandha**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Karma -> Bondage -> Liberation -> Activity
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Jain Karma; define Bondage, connect Liberation with Activity to explain the mechanism, and use Asrava for the decisive comparison or qualification.
-
-![g3 visual -- The Jain Liberation Chain](assets/ancient-indian-history-10-d5df58d668.png)
-
-*Read bottom-to-top for the recurring exam question type: how a Jain soul is said to move from bondage toward moksha.*
 
 Jain karma is subtle material matter that adheres to the soul because of activity and passions. Liberation requires stopping new influx and shedding accumulated karma through disciplined knowledge, conduct and austerity.
 
@@ -666,6 +705,21 @@ Jain karma is subtle material matter that adheres to the soul because of activit
 - Jain karma is not merely metaphorical moral memory.
 - Samvara and nirjara are separate stages.
 - Liberation is individual purification, not divine grace.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Asrava is karmic influx; bandha is bondage; samvara stops new influx; nirjara sheds accumulated karma; moksha is the liberated state. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Asrava is karmic influx; bandha is bondage; samvara stops new influx; nirjara sheds accumulated karma; moksha is the liberated state. The named evidence is: Asrava is karmic influx; bandha is bondage; samvara stops new influx; nirjara sheds accumulated karma; moksha is the liberated state. This evidence explains the historical mechanism rather than merely listing a term. Lay Jainism modifies ascetic intensity through limited vows and regulated livelihood. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN KARMA, BONDAGE AND LIBERATION: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -717,6 +771,16 @@ ANSWER-GRABBING FORMULATION: Asrava is karmic influx; bandha is bondage; samvara
 - **Mains/PYQ use**
 - **Study link**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Triratna -> Five Vows -> Ascetic-Lay Paths -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Jain Triratna; define Five Vows, connect Ascetic-Lay Paths with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 Jain liberation rests on right faith, right knowledge and right conduct. The five vows are absolute mahavratas for ascetics and limited anuvratas for householders, creating a demanding but socially sustainable two-level discipline.
@@ -746,6 +810,21 @@ Jain liberation rests on right faith, right knowledge and right conduct. The fiv
 - Triratna is Jain in this formulation; Buddhist refuge in Buddha-Dhamma-Sangha is a different triad.
 - Aparigraha means non-possession/non-attachment, not poverty imposed on all laity.
 - Mahavira is traditionally associated with making celibacy an explicit fifth vow.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** The Triratna are samyak-darshana, samyak-jnana and samyak-charitra: right faith/view, knowledge and conduct. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+The five vows are absolute mahavratas for ascetics and limited anuvratas for householders, creating a demanding but socially sustainable two-level discipline. The named evidence is: The Triratna are samyak-darshana, samyak-jnana and samyak-charitra: right faith/view, knowledge and conduct. This evidence explains the historical mechanism rather than merely listing a term. Ahimsa does not make historical Jain communities economically or politically identical; practice varied by region, sect and occupation. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN TRIRATNA, FIVE VOWS AND ASCETIC-LAY PATHS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -797,6 +876,16 @@ ANSWER-GRABBING FORMULATION: The five vows are absolute mahavratas for ascetics 
 - **Mains/PYQ use**
 - **Study link**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Anekantavada -> Syadvada -> Nayavada -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Anekantavada; define Syadvada, connect Nayavada with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 The three terms are related but not synonyms. Anekantavada is the doctrine that reality has many aspects; nayavada analyzes partial standpoints; syadvada expresses qualified predication, conventionally through seven possible formulations.
@@ -831,6 +920,21 @@ REALITY: MANY-SIDED (ANEKANTA)
 - Nayavada concerns standpoints.
 - Syadvada concerns conditional predication.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Anekantavada is an ontological/epistemic warning against reducing a complex object to one absolute description. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Anekantavada is the doctrine that reality has many aspects; nayavada analyzes partial standpoints; syadvada expresses qualified predication, conventionally through seven possible formulations. The named evidence is: Anekantavada is an ontological/epistemic warning against reducing a complex object to one absolute description. This evidence explains the historical mechanism rather than merely listing a term. The doctrine is not careless relativism; incompatible claims require differences of standpoint, time, mode or relation. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+ANEKANTAVADA, SYADVADA AND NAYAVADA: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** The three terms are interchangeable. **Correct:** Distinguish ontology, standpoint method and predication.
@@ -864,13 +968,13 @@ ANSWER-GRABBING FORMULATION: Anekantavada is the doctrine that reality has many 
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Fourfold Jain sangha includes both ordained and lay women.
+**Plain-language definition:** The Jain fourfold community joined rigorous renunciation to durable lay support, widening participation without erasing hierarchy or gender difference.
 
 **Technical definition:** Mains/PYQ use: A social answer should pair widened religious agency with sectarian and societal limits.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> INTERPRETATION: Merchant support suited a mobile mendicant order and an ethic of trust, restraint and donation, but the tradition was not only mercantile.
+> The Jain fourfold community joined rigorous renunciation to durable lay support, widening participation without erasing hierarchy or gender difference.
 
 #### MUST-WRITE KEYWORDS
 
@@ -880,6 +984,16 @@ ANSWER-GRABBING FORMULATION: Anekantavada is the doctrine that reality has many 
 - **Limits**
 - **Memory hook**
 - **Mains/PYQ use**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Sangha -> Women -> Social Ethics -> Limits
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Jain Sangha; define Women, connect Social Ethics with Limits to explain the mechanism, and use Memory hook for the decisive comparison or qualification.
 
@@ -910,6 +1024,21 @@ Jain traditions developed fourfold communities of monks, nuns, laymen and laywom
 - Malli/Mallinatha is a major Shvetambara-Digambara distinction.
 - Religious access does not equal modern social equality.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Jain community structure recognizes sadhu, sadhvi, shravaka and shravika. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+The Jain fourfold community joined rigorous renunciation to durable lay support, widening participation without erasing hierarchy or gender difference. The named evidence is: Jain community structure recognizes sadhu, sadhvi, shravaka and shravika. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN SANGHA, WOMEN, SOCIAL ETHICS AND LIMITS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Both major sects agree on female liberation in the present body. **Correct:** They differ significantly.
@@ -937,19 +1066,19 @@ CONSEQUENCE / CONTRAST: Mains/PYQ use: A social answer should pair widened relig
 UPSC TRAP / ANSWER-USE: Religious access does not equal modern social equality.
         |
         v
-ANSWER-GRABBING FORMULATION: INTERPRETATION: Merchant support suited a mobile mendicant order and an ethic of trust, restraint and donation, but the tradition was not only mercantile.
+ANSWER-GRABBING FORMULATION: The Jain fourfold community joined rigorous renunciation to durable lay support, widening participation without erasing hierarchy or gender difference.
 ```
 ### SESSION 10 — JAIN COUNCILS, CANON AND REDACTION TRADITIONS — [CORE PRELIMS + CORE MAINS]
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** TRADITION: A Pataliputra council under Sthulabhadra is said to have collected surviving teachings; Digambara tradition does not accept that the original canon survived intact.
+**Plain-language definition:** Jain council narratives preserve institutional memory, while their late and sectarian transmission prevents their use as neutral minutes.
 
 **Technical definition:** Jain canonical history is reconstructed differently by Shvetambara and Digambara traditions.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> TRADITION: A Pataliputra council under Sthulabhadra is said to have collected surviving teachings; Digambara tradition does not accept that the original canon survived intact.
+> Jain council narratives preserve institutional memory, while their late and sectarian transmission prevents their use as neutral minutes.
 
 #### MUST-WRITE KEYWORDS
 
@@ -959,6 +1088,16 @@ ANSWER-GRABBING FORMULATION: INTERPRETATION: Merchant support suited a mobile me
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Councils -> Canon -> Redaction Traditions -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Jain Councils; define Canon, connect Redaction Traditions with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -990,6 +1129,21 @@ Jain canonical history is reconstructed differently by Shvetambara and Digambara
 - Digambaras do not accept the extant Shvetambara Agamas as the intact original canon.
 - Parishishtaparvan and Trishashtilakshana Mahapurana are Jain texts in the 2022 PYQ.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Important Shvetambara canonical groupings include Angas and related collections in Ardhamagadhi/Prakrit transmission. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jain council narratives preserve institutional memory, while their late and sectarian transmission prevents their use as neutral minutes. The named evidence is: Important Shvetambara canonical groupings include Angas and related collections in Ardhamagadhi/Prakrit transmission. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN COUNCILS, CANON AND REDACTION TRADITIONS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** All Jains share one identical canon. **Correct:** State the Shvetambara-Digambara difference.
@@ -1017,19 +1171,19 @@ CONSEQUENCE / CONTRAST: Digambaras do not accept the extant Shvetambara Agamas a
 UPSC TRAP / ANSWER-USE: Mains/PYQ use: A source answer must name the sect, redaction claim, representative text and limit.
         |
         v
-ANSWER-GRABBING FORMULATION: TRADITION: A Pataliputra council under Sthulabhadra is said to have collected surviving teachings; Digambara tradition does not accept that the original canon survived intact.
+ANSWER-GRABBING FORMULATION: Jain council narratives preserve institutional memory, while their late and sectarian transmission prevents their use as neutral minutes.
 ```
 ### SESSION 11 — DIGAMBARA, SHVETAMBARA AND BOUNDED SUBSECT HISTORY — [CORE PRELIMS + CORE MAINS]
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Digambara means 'sky-clad' and Shvetambara 'white-clad'; clothing is visible but not the only distinction.
+**Plain-language definition:** Digambara and Svetambara identities crystallised gradually across centuries; clothing, canonical authority and women's liberation cannot be reduced to one famine or council.
 
 **Technical definition:** Sthanakvasi is a later Shvetambara non-image-worship reform tradition associated with meeting halls rather than temple-image worship.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Terapanth has distinct Shvetambara and Digambara usages; do not assume every similarly named subsect has one history.
+> Digambara and Svetambara identities crystallised gradually across centuries; clothing, canonical authority and women's liberation cannot be reduced to one famine or council.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1039,6 +1193,16 @@ ANSWER-GRABBING FORMULATION: TRADITION: A Pataliputra council under Sthulabhadra
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Digambara -> Shvetambara -> Bounded Subsect History -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Digambara; define Shvetambara, connect Bounded Subsect History with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -1072,6 +1236,21 @@ The Digambara-Shvetambara division developed gradually and cannot be reduced to 
 - Sect formation was gradual and multi-dimensional.
 - Regional predominance is not an absolute territorial boundary.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Digambara means 'sky-clad' and Shvetambara 'white-clad'; clothing is visible but not the only distinction. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Digambara and Svetambara identities crystallised gradually across centuries; clothing, canonical authority and women's liberation cannot be reduced to one famine or council. The named evidence is: Digambara means 'sky-clad' and Shvetambara 'white-clad'; clothing is visible but not the only distinction. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+DIGAMBARA, SHVETAMBARA AND BOUNDED SUBSECT HISTORY: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Sthanakvasi is an ancient Buddhist school. **Correct:** It is a later Shvetambara Jain reform tradition.
@@ -1099,19 +1278,19 @@ CONSEQUENCE / CONTRAST: Regional patterns were strong: Digambara institutions be
 UPSC TRAP / ANSWER-USE: CAUTION: Its roots are linked to fifteenth-century Lonka Shah and later organization; the exact emergence should not be compressed into the ancient period.
         |
         v
-ANSWER-GRABBING FORMULATION: Terapanth has distinct Shvetambara and Digambara usages; do not assume every similarly named subsect has one history.
+ANSWER-GRABBING FORMULATION: Digambara and Svetambara identities crystallised gradually across centuries; clothing, canonical authority and women's liberation cannot be reduced to one famine or council.
 ```
 ### SESSION 12 — JAIN SPREAD, PATRONS, SITES, ART AND LITERATURE — [CORE PRELIMS + SUPPORTING]
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Jain literature is multilingual and not confined to Ardhamagadhi.
+**Plain-language definition:** Jainism spread through multilingual ascetic-lay networks and regional patronage, so continuity resulted from adaptation rather than timeless uniformity.
 
 **Technical definition:** Ayagapatas are Jain votive tablets associated especially with Mathura evidence.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Jain literature is multilingual and not confined to Ardhamagadhi.
+> Jainism spread through multilingual ascetic-lay networks and regional patronage, so continuity resulted from adaptation rather than timeless uniformity.
 
 #### MUST-WRITE KEYWORDS
 
@@ -1121,6 +1300,16 @@ ANSWER-GRABBING FORMULATION: Terapanth has distinct Shvetambara and Digambara us
 - **Art**
 - **Literature**
 - **Memory hook**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Jain Spread -> Patrons -> Sites -> Art
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Jain Spread; define Patrons, connect Sites with Art to explain the mechanism, and use Literature for the decisive comparison or qualification.
 
@@ -1154,6 +1343,21 @@ Jainism expanded through mobile ascetics, urban laity, regional courts, pilgrima
 - Basadi is a common term for a Jain temple/monastic establishment in the south.
 - Jain literature is multilingual and not confined to Ardhamagadhi.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Kharavela's Hathigumpha inscription and Udayagiri-Khandagiri caves are major early Jain-linked evidence in Kalinga. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jainism spread through multilingual ascetic-lay networks and regional patronage, so continuity resulted from adaptation rather than timeless uniformity. The named evidence is: Kharavela's Hathigumpha inscription and Udayagiri-Khandagiri caves are major early Jain-linked evidence in Kalinga. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAIN SPREAD, PATRONS, SITES, ART AND LITERATURE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Chandragupta's Jain migration is directly documented by a contemporary inscription. **Correct:** The association is a later tradition and must be qualified.
@@ -1181,7 +1385,7 @@ CONSEQUENCE / CONTRAST: TRADITION/LIMIT: Shravanabelagola links Bhadrabahu and C
 UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: ayagapatas are Jain votive tablets associated especially with Mathura evidence.
         |
         v
-ANSWER-GRABBING FORMULATION: Jain literature is multilingual and not confined to Ardhamagadhi.
+ANSWER-GRABBING FORMULATION: Jainism spread through multilingual ascetic-lay networks and regional patronage, so continuity resulted from adaptation rather than timeless uniformity.
 ```
 ### SESSION 13 — THE BUDDHA: HISTORICAL CORE AND TRADITIONAL LIFE — [CORE PRELIMS + CORE MAINS]
 
@@ -1203,6 +1407,16 @@ ANSWER-GRABBING FORMULATION: Jain literature is multilingual and not confined to
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> The Buddha -> Historical Core -> Traditional Life -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through The Buddha; define Historical Core, connect Traditional Life with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -1237,6 +1451,21 @@ Historical route + doctrinally shaped sacred biography
 - Shakyamuni and Tathagata are epithets of the Buddha.
 - Nayaputta is not a Buddha epithet.
 - Dhammachakka-pavattana is the traditional first sermon.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Ashoka's Rummindei pillar inscription provides early epigraphic association of Lumbini with the Buddha, centuries after his life but firmer than late biography alone. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Ashoka's Rummindei pillar inscription provides early epigraphic association of Lumbini with the Buddha, centuries after his life but firmer than late biography alone. The named evidence is: Ashoka's Rummindei pillar inscription provides early epigraphic association of Lumbini with the Buddha, centuries after his life but firmer than late biography alone. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+THE BUDDHA: HISTORICAL CORE AND TRADITIONAL LIFE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1288,9 +1517,17 @@ ANSWER-GRABBING FORMULATION: Ashoka's Rummindei pillar inscription provides earl
 - **Path**
 - **Dukkha**
 
-**How to use them:** Frame the answer through Four Noble Truths; define Diagnosis, connect Cause with Cessation to explain the mechanism, and use Path for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Four Noble Truths and the Eightfold Path](assets/ancient-indian-history-10-5e9dcbaec0.png)
+```text
+SOURCE / START -> Four Noble Truths -> Diagnosis -> Cause -> Cessation
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Four Noble Truths; define Diagnosis, connect Cause with Cessation to explain the mechanism, and use Path for the decisive comparison or qualification.
 
 *Pairs with the Middle Way discussion that follows; the four boxes are the diagnosis-cause-cure-path frame UPSC MCQs test most often.*
 
@@ -1319,6 +1556,21 @@ The Four Noble Truths organize early Buddhist teaching as a practical analysis o
 - The truths are a linked analysis, not four unrelated beliefs.
 - Nirodha is the third truth; the path is the fourth.
 - Dukkha is broader than physical suffering.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Dukkha includes pain, change and the instability of clinging to conditioned phenomena. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+The Four Noble Truths organize early Buddhist teaching as a practical analysis of dukkha rather than a claim that every experience is only pain. The named evidence is: Dukkha includes pain, change and the instability of clinging to conditioned phenomena. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+FOUR NOBLE TRUTHS: DIAGNOSIS, CAUSE, CESSATION AND PATH: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1355,7 +1607,7 @@ ANSWER-GRABBING FORMULATION: The Four Noble Truths organize early Buddhist teach
 
 **Plain-language definition:** Its eight factors are usually grouped into wisdom, ethical conduct and mental discipline; they are cultivated together rather than as a simple staircase.
 
-**Technical definition:** Technically, Eightfold Path, Middle Way And Ethical Discipline — [Core Prelims + Core Mains] is analysed by relating Eightfold Path to Middle Way, then testing the relationship through Ethical Discipline and Memory hook.
+**Technical definition:** The Noble Eightfold Path operationalises the Middle Way through wisdom, ethical conduct and mental discipline, rejecting both sensual indulgence and self-mortification.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
@@ -1369,6 +1621,16 @@ ANSWER-GRABBING FORMULATION: The Four Noble Truths organize early Buddhist teach
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Eightfold Path -> Middle Way -> Ethical Discipline -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Eightfold Path; define Middle Way, connect Ethical Discipline with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -1398,6 +1660,21 @@ The Noble Eightfold Path avoids both sensual indulgence and self-mortification. 
 - Eight factors are integrated into three trainings.
 - Middle Way rejects indulgence and self-mortification.
 - The five lay precepts are not identical to the full Vinaya.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Wisdom: right view and right intention. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Its eight factors are usually grouped into wisdom, ethical conduct and mental discipline; they are cultivated together rather than as a simple staircase. The named evidence is: Wisdom: right view and right intention. This evidence explains the historical mechanism rather than merely listing a term. 'Middle Way' does not mean compromise between truth and falsehood; it concerns disciplined avoidance of spiritually fruitless extremes. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+EIGHTFOLD PATH, MIDDLE WAY AND ETHICAL DISCIPLINE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1449,6 +1726,16 @@ ANSWER-GRABBING FORMULATION: Its eight factors are usually grouped into wisdom, 
 - **Study link**
 - **Pratityasamutpada**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Dependent Origination -> Process Without A First Cause -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Dependent Origination; define Process Without A First Cause, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 Pratityasamutpada/paticcha-samuppada explains phenomena as arising in dependence on conditions. In the rebirth formula, ignorance conditions formations and so on through ageing and death; removing conditions interrupts suffering.
@@ -1480,6 +1767,21 @@ Remove supporting conditions -> the cycle is interrupted
 - Dependent origination is conditionality, not predestination.
 - There is no single first link as an absolute cosmic beginning.
 - The chain supports both rebirth and present-process analysis.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** A common twelve-link sequence is ignorance, formations, consciousness, name-and-form, six sense bases, contact, feeling, craving, clinging, becoming, birth, ageing-and-death. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Dependent origination is conditionality, not predestination. The named evidence is: A common twelve-link sequence is ignorance, formations, consciousness, name-and-form, six sense bases, contact, feeling, craving, clinging, becoming, birth, ageing-and-death. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+DEPENDENT ORIGINATION: PROCESS WITHOUT A FIRST CAUSE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1531,6 +1833,16 @@ ANSWER-GRABBING FORMULATION: Dependent origination is conditionality, not predes
 - **Nirvana**
 - **Memory hook**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Impermanence -> No-Self -> Aggregates -> Karma
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Impermanence; define No-Self, connect Aggregates with Karma to explain the mechanism, and use Nirvana for the decisive comparison or qualification.
 
 Early Buddhism links impermanence (anicca), unsatisfactoriness (dukkha) and no-self (anatta). A person is analyzed as five changing aggregates; karmic continuity operates without an eternal atman.
@@ -1561,6 +1873,21 @@ Early Buddhism links impermanence (anicca), unsatisfactoriness (dukkha) and no-s
 - Five aggregates are not five parts of an immortal soul.
 - Anatta differs fundamentally from Jain jiva pluralism.
 - Nirvana and parinirvana should not be used carelessly as simple death synonyms.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** The five aggregates are form, feeling, perception, formations and consciousness. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+A person is analyzed as five changing aggregates; karmic continuity operates without an eternal atman. The named evidence is: The five aggregates are form, feeling, perception, formations and consciousness. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1612,9 +1939,17 @@ ANSWER-GRABBING FORMULATION: A person is analyzed as five changing aggregates; k
 - **Lay surplus**
 - **Routes**
 
-**How to use them:** Frame the answer through Sangha; define Vinaya, connect Lay Support with Institutional Life to explain the mechanism, and use Lay surplus for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Sangha-Laity Patronage Network](assets/ancient-indian-history-10-93308ef0f0.png)
+```text
+SOURCE / START -> Sangha -> Vinaya -> Lay Support -> Institutional Life
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Sangha; define Vinaya, connect Lay Support with Institutional Life to explain the mechanism, and use Lay surplus for the decisive comparison or qualification.
 
 *Cross-check this network against the named dynasties and inscriptions in the patronage subtopic below; the diagram only orders the relationships.*
 
@@ -1644,6 +1979,21 @@ The Buddhist sangha transformed teaching into a disciplined, portable institutio
 - Sangha is both a spiritual community and a historical institution.
 - Vinaya traditions differ across schools.
 - Donors included more than kings and merchants.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** The Vinaya Pitaka preserves rules, origin stories, procedures, ordination and communal acts; Patimokkha recitation structures confession and discipline. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Anathapindika's Jetavana and Visakha's patronage are prominent textual examples of wealthy lay support. The named evidence is: The Vinaya Pitaka preserves rules, origin stories, procedures, ordination and communal acts; Patimokkha recitation structures confession and discipline. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+SANGHA, VINAYA, LAY SUPPORT AND INSTITUTIONAL LIFE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1695,6 +2045,16 @@ ANSWER-GRABBING FORMULATION: Anathapindika's Jetavana and Visakha's patronage ar
 - **Mains/PYQ use**
 - **Study link**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Women -> Social Access -> The Caste-Varna Question -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Women; define Social Access, connect The Caste-Varna Question with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 Buddhism widened access to renunciation and moral status, but it did not create modern equality or abolish caste society. Texts preserve both strong critiques of birth superiority and gendered institutional restrictions.
@@ -1724,6 +2084,21 @@ Buddhism widened access to renunciation and moral status, but it did not create 
 - Bhikkhuni means ordained Buddhist nun; upasika means lay female follower.
 - Religious inclusion and social equality are not synonyms.
 - Garudhamma historicity and formation require caution.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Therigatha verses preserve female renunciant voices, although the collection's redaction history must be remembered. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Sangha admission across varna widened salvific access, but rules restricting debtors, slaves, soldiers or those under obligations reveal accommodation to social order. The named evidence is: Therigatha verses preserve female renunciant voices, although the collection's redaction history must be remembered. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+WOMEN, SOCIAL ACCESS AND THE CASTE-VARNA QUESTION: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1775,9 +2150,17 @@ ANSWER-GRABBING FORMULATION: Sangha admission across varna widened salvific acce
 - **Study link**
 - **First**
 
-**How to use them:** Frame the answer through Buddhist Councils; define Conventional Accounts With Source Caution, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Buddhist and Jain Councils: An Evidence Ladder](assets/ancient-indian-history-10-5f2593440f.png)
+```text
+SOURCE / START -> Buddhist Councils -> Conventional Accounts With Source Caution -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Buddhist Councils; define Conventional Accounts With Source Caution, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 *Climb this ladder before answering an 'assess the councils' Mains question; each rung is a caveat to state, not a fact to assert.*
 
@@ -1809,6 +2192,21 @@ Council narratives explain communal memory, discipline and school identity. They
 - There is no single uncontested 'fourth Buddhist council'.
 - The second council is primarily a Vinaya dispute in conventional accounts.
 - Ashokan mission lists depend heavily on Sri Lankan chronicles.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** The second council is primarily a Vinaya dispute in conventional accounts. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+The second council is primarily a Vinaya dispute in conventional accounts. The named evidence is: The second council is primarily a Vinaya dispute in conventional accounts. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+BUDDHIST COUNCILS: CONVENTIONAL ACCOUNTS WITH SOURCE CAUTION: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1860,9 +2258,17 @@ ANSWER-GRABBING FORMULATION: The second council is primarily a Vinaya dispute in
 - **Tibetan Witnesses**
 - **Memory hook**
 
-**How to use them:** Frame the answer through Buddhist Canons; define Pali, connect Sanskrit with Chinese to explain the mechanism, and use Tibetan Witnesses for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Source and Canon Redaction Timeline](assets/ancient-indian-history-10-6241ecd872.png)
+```text
+SOURCE / START -> Buddhist Canons -> Pali -> Sanskrit -> Chinese
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Buddhist Canons; define Pali, connect Sanskrit with Chinese to explain the mechanism, and use Tibetan Witnesses for the decisive comparison or qualification.
 
 *Keep this beside the councils and canons subtopics; it visualises the redaction gaps that examiners test as source caution, not settled fact.*
 
@@ -1894,6 +2300,21 @@ Buddhist textual history is plural. The Pali Tipitaka is the complete canon of t
 - Tipitaka literally refers to three baskets in the Pali tradition.
 - Agamas in Chinese transmission parallel parts of the Pali Nikayas without being identical.
 - Sanskrit use is not a sufficient test for Mahayana identity.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Pali Tipitaka consists of Vinaya, Sutta and Abhidhamma Pitakas; oral transmission preceded writing in Sri Lanka, conventionally in the first century BCE. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+The Pali Tipitaka is the complete canon of the Theravada tradition; Sanskrit and Buddhist Hybrid Sanskrit texts preserve other schools and Mahayana currents; Chinese and Tibetan translations preserve many Indic works now lost in India. The named evidence is: Pali Tipitaka consists of Vinaya, Sutta and Abhidhamma Pitakas; oral transmission preceded writing in Sri Lanka, conventionally in the first century BCE. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+BUDDHIST CANONS: PALI, SANSKRIT, CHINESE AND TIBETAN WITNESSES: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -1945,9 +2366,17 @@ ANSWER-GRABBING FORMULATION: The Pali Tipitaka is the complete canon of the Ther
 - **Study link**
 - **Sthavira and Mahasanghika**
 
-**How to use them:** Frame the answer through Early Schools; define The Theravada-Hinayana Terminology Firewall, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Buddhist School Evolution: A Caution Map](assets/ancient-indian-history-10-d824488769.png)
+```text
+SOURCE / START -> Early Schools -> The Theravada-Hinayana Terminology Firewall -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Early Schools; define The Theravada-Hinayana Terminology Firewall, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 *Use this only to recall which school descended from which; the surrounding prose carries the doctrinal detail behind every split.*
 
@@ -1984,6 +2413,21 @@ HINAYANA = polemical category, NOT modern Theravada
 - Sanghabhuti is linked to Sarvastivada Vinaya commentary, not Theravada.
 - Dhanyakataka in Andhra is associated with Mahasanghikas.
 - School genealogy and Mahayana affiliation are not one simple tree.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Sthavira means 'elders' and Mahasanghika 'great community/assembly'; the first split is remembered differently by school sources. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Modern Theravada is one surviving Sthavira-derived lineage, not a synonym for every early school. The named evidence is: Sthavira means 'elders' and Mahasanghika 'great community/assembly'; the first split is remembered differently by school sources. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+EARLY SCHOOLS AND THE THERAVADA-HINAYANA TERMINOLOGY FIREWALL: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2035,6 +2479,16 @@ ANSWER-GRABBING FORMULATION: Modern Theravada is one surviving Sthavira-derived 
 - **Memory hook**
 - **Mains/PYQ use**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Mahayana -> The Bodhisattva Path -> Maitreya -> Paramitas
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Mahayana; define The Bodhisattva Path, connect Maitreya with Paramitas to explain the mechanism, and use Memory hook for the decisive comparison or qualification.
 
 Mahayana developed as diverse textual, devotional and philosophical currents from around the late centuries BCE and early centuries CE. It elevated the Bodhisattva path and expanded ideas of Buddhahood without instantly replacing earlier monastic institutions.
@@ -2066,6 +2520,21 @@ Mahayana developed as diverse textual, devotional and philosophical currents fro
 - Maitreya is the future Buddha, not exclusively a Mahayana figure.
 - Paramitas are perfections on the Bodhisattva path; Theravada has related parami traditions.
 - Mahayana is not defined solely by Sanskrit or image worship.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** A Bodhisattva seeks full Buddhahood for the benefit of beings; the ideal combines compassion and wisdom. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Maitreya is the future Buddha in both Theravada and Mahayana traditions; Mahayana also venerates him as a Bodhisattva in Tushita. The named evidence is: A Bodhisattva seeks full Buddhahood for the benefit of beings; the ideal combines compassion and wisdom. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+MAHAYANA, THE BODHISATTVA PATH, MAITREYA AND PARAMITAS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2117,6 +2586,16 @@ ANSWER-GRABBING FORMULATION: Maitreya is the future Buddha in both Theravada and
 - **Mains/PYQ use**
 - **Study link**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Madhyamaka -> Yogacara -> Bounded Historical Depth -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Madhyamaka; define Yogacara, connect Bounded Historical Depth with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 For Ancient History, Madhyamaka and Yogacara should be treated as major Mahayana scholastic developments, not turned into an optional-level metaphysics essay. Name their core problem, representative thinkers and historical setting.
@@ -2145,6 +2624,21 @@ For Ancient History, Madhyamaka and Yogacara should be treated as major Mahayana
 - Shunyata means lack of independent inherent existence, not nonexistence.
 - Aryadeva is a Buddhist scholar, a 2022-style identification trap.
 - Vasubandhu's intellectual location is complex and should not be reduced to one slogan.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Nagarjuna, associated with Madhyamaka, analyzes all phenomena as empty (shunya) of independent inherent nature because they arise dependently. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+For Ancient History, Madhyamaka and Yogacara should be treated as major Mahayana scholastic developments, not turned into an optional-level metaphysics essay. The named evidence is: Nagarjuna, associated with Madhyamaka, analyzes all phenomena as empty (shunya) of independent inherent nature because they arise dependently. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+MADHYAMAKA AND YOGACARA: BOUNDED HISTORICAL DEPTH: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2196,6 +2690,16 @@ ANSWER-GRABBING FORMULATION: For Ancient History, Madhyamaka and Yogacara should
 - **Mains/PYQ use**
 - **Study link**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Vajrayana -> Later Tantric Development -> Institutional Setting -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Vajrayana; define Later Tantric Development, connect Institutional Setting with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 Vajrayana developed within later Mahayana environments, especially from the mid-first millennium CE onward. It uses mantra, mandala, initiation, deity yoga and esoteric ritual as accelerated means, while retaining Bodhisattva and emptiness frameworks.
@@ -2228,6 +2732,21 @@ EARLY BUDDHIST DISCIPLINE
 - Vajrayana is later than early Buddhism and Mahayana's first emergence.
 - Tantric ritual did not erase Vinaya everywhere.
 - Pala mahaviharas were educational and transregional institutions.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Vajrayana is not the Buddha's original sixth-century BCE institutional form; its major textual and ritual systems are later. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Vajrayana is not the Buddha's original sixth-century BCE institutional form; its major textual and ritual systems are later. The named evidence is: Vajrayana is not the Buddha's original sixth-century BCE institutional form; its major textual and ritual systems are later. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+VAJRAYANA: LATER TANTRIC DEVELOPMENT AND INSTITUTIONAL SETTING: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2262,13 +2781,13 @@ ANSWER-GRABBING FORMULATION: Vajrayana is not the Buddha's original sixth-centur
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Why The Traditions Became Popular: Language, Ethics And Networks comprises Why The Traditions Became Popular, Language and Ethics as its core connected dimensions.
+**Plain-language definition:** Accessible speech, ethical discipline, portable communities and patronage networks explain popularity together; language or merchant support alone does not.
 
 **Technical definition:** Language choice aided communication but does not prove mass literacy.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Language choice aided communication but does not prove mass literacy.
+> Accessible speech, ethical discipline, portable communities and patronage networks explain popularity together; language or merchant support alone does not.
 
 #### MUST-WRITE KEYWORDS
 
@@ -2278,6 +2797,16 @@ ANSWER-GRABBING FORMULATION: Vajrayana is not the Buddha's original sixth-centur
 - **Networks**
 - **Message**
 - **Carrier**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Why The Traditions Became Popular -> Language -> Ethics -> Networks
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Why The Traditions Became Popular; define Language, connect Ethics with Networks to explain the mechanism, and use Message for the decisive comparison or qualification.
 
@@ -2308,6 +2837,21 @@ Neither tradition spread through doctrine alone. Accessible preaching, charismat
 - Merchant patronage is important but not exclusive.
 - Monastic organization and lay reciprocity are core spread mechanisms.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Early Buddhist and Jain preaching used Middle Indo-Aryan/Prakrit forms rather than relying exclusively on elite Vedic Sanskrit. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Accessible speech, ethical discipline, portable communities and patronage networks explain popularity together; language or merchant support alone does not. The named evidence is: Early Buddhist and Jain preaching used Middle Indo-Aryan/Prakrit forms rather than relying exclusively on elite Vedic Sanskrit. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+WHY THE TRADITIONS BECAME POPULAR: LANGUAGE, ETHICS AND NETWORKS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** The religions spread because they were anti-state. **Correct:** Both received substantial state and elite patronage.
@@ -2335,7 +2879,7 @@ CONSEQUENCE / CONTRAST: INTERPRETATION: Buddhism's Middle Way may have eased rec
 UPSC TRAP / ANSWER-USE: Merchant patronage is important but not exclusive.
         |
         v
-ANSWER-GRABBING FORMULATION: Language choice aided communication but does not prove mass literacy.
+ANSWER-GRABBING FORMULATION: Accessible speech, ethical discipline, portable communities and patronage networks explain popularity together; language or merchant support alone does not.
 ```
 ### SESSION 27 — PATRONAGE NETWORKS: MAURYAN AND POST-MAURYAN WORLDS — [CORE PRELIMS + CORE MAINS]
 
@@ -2357,6 +2901,16 @@ ANSWER-GRABBING FORMULATION: Language choice aided communication but does not pr
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Patronage Networks -> Mauryan -> Post-Mauryan Worlds -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Patronage Networks; define Mauryan, connect Post-Mauryan Worlds with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -2393,6 +2947,21 @@ Patronage is a network, not a king-only gift.
 - Ashokan dhamma should not be equated wholly with Buddhist doctrine.
 - Sanchi is a multi-dynastic, multi-donor site.
 - Menander's Milindapanha persona and Kanishka's council are tradition-shaped evidence.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Ashokan inscriptions at Lumbini and Nigali Sagar connect the emperor with Buddhist sacred geography; the Bhabru/Bairat edict commends selected teachings. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Sanchi's brick stupa, pillar and later enlargements show Mauryan inception followed by Shunga, Satavahana and other patronage. The named evidence is: Ashokan inscriptions at Lumbini and Nigali Sagar connect the emperor with Buddhist sacred geography; the Bhabru/Bairat edict commends selected teachings. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+PATRONAGE NETWORKS: MAURYAN AND POST-MAURYAN WORLDS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2444,9 +3013,17 @@ ANSWER-GRABBING FORMULATION: Sanchi's brick stupa, pillar and later enlargements
 - **Mains/PYQ use**
 - **Study link**
 
-**How to use them:** Frame the answer through Regional; define International Spread, connect A Text Map with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Spread and Patronage Routes: Schematic](assets/ancient-indian-history-10-30943f7003.png)
+```text
+SOURCE / START -> Regional -> International Spread -> A Text Map -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Regional; define International Spread, connect A Text Map with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 *Treat the arrows as relationships worth remembering, not as directions or distances; the prose names the actual regions and routes.*
 
@@ -2484,6 +3061,21 @@ JAIN: GANGA -> KALINGA / MATHURA -> KARNATAKA / TAMIL / GUJARAT-RAJASTHAN
 - Dhanyakataka was in Andhra and linked to Mahasanghikas.
 - Chinese and Tibetan canons are products of translation networks.
 - Jainism's smaller overseas footprint does not mean historical failure.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Sri Lankan Theravada tradition associates Mahinda and Sanghamitta with transmission under Ashoka; Bodhi-tree and chronicle traditions became central to island Buddhism. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Spread was not a single outward wave from one centre. The named evidence is: Sri Lankan Theravada tradition associates Mahinda and Sanghamitta with transmission under Ashoka; Bodhi-tree and chronicle traditions became central to island Buddhism. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+REGIONAL AND INTERNATIONAL SPREAD: A TEXT MAP: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2535,9 +3127,17 @@ ANSWER-GRABBING FORMULATION: Spread was not a single outward wave from one centr
 - **Material Evidence**
 - **Memory hook**
 
-**How to use them:** Frame the answer through Stupas; define Caves, connect Monasteries with Images to explain the mechanism, and use Material Evidence for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Art, Symbol and Architecture Panel](assets/ancient-indian-history-10-8da68cd2b1.png)
+```text
+SOURCE / START -> Stupas -> Caves -> Monasteries -> Images
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Stupas; define Caves, connect Monasteries with Images to explain the mechanism, and use Material Evidence for the decisive comparison or qualification.
 
 *A quick-reference glossary for identifying symbols and structures in an image-based Prelims question; exact site dating stays in the prose.*
 
@@ -2570,6 +3170,21 @@ Material remains test doctrine-in-practice, patronage and regional change. They 
 - Empty throne/seat is one early aniconic symbol whose exact narrative meaning depends on context.
 - Amaravati lies in the lower Krishna valley.
 - Gandhara and Mathura image traditions overlap chronologically.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Stupas developed as relic, commemorative and votive monuments; the concept was not exclusively Buddhist in origin, although Buddhism transformed it extensively. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Stupas developed as relic, commemorative and votive monuments; the concept was not exclusively Buddhist in origin, although Buddhism transformed it extensively. The named evidence is: Stupas developed as relic, commemorative and votive monuments; the concept was not exclusively Buddhist in origin, although Buddhism transformed it extensively. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+STUPAS, CAVES, MONASTERIES, IMAGES AND MATERIAL EVIDENCE: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2621,9 +3236,17 @@ ANSWER-GRABBING FORMULATION: Stupas developed as relic, commemorative and votive
 - **Mains/PYQ use**
 - **Study link**
 
-**How to use them:** Frame the answer through Jainism; define Buddhism, connect A Controlled Comparison with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Jain-Buddhist Doctrine Comparison Matrix](assets/ancient-indian-history-10-53a035cb4f.png)
+```text
+SOURCE / START -> Jainism -> Buddhism -> A Controlled Comparison -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Jainism; define Buddhism, connect A Controlled Comparison with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
 *Use this grid for rapid recall before attempting the controlled Jain-Buddhist comparison Mains question later in this package.*
 
@@ -2658,6 +3281,21 @@ The traditions share renunciation, karma, rebirth, nonviolence, mendicant organi
 - Both reject Vedic sacrifice as the exclusive path, but neither is identical to the other.
 - Jiva versus anatta is the decisive ontology contrast.
 - Both generated image, temple/pilgrimage and scholastic traditions later.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Jainism affirms plural eternal jivas; Buddhism analyzes persons without a permanent self. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jainism affirms plural eternal jivas; Buddhism analyzes persons without a permanent self. The named evidence is: Jainism affirms plural eternal jivas; Buddhism analyzes persons without a permanent self. This evidence explains the historical mechanism rather than merely listing a term. 'Jain extreme versus Buddhist moderate' is a starting contrast, not a complete history; both traditions contain varied disciplines and later devotional forms. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+JAINISM AND BUDDHISM: A CONTROLLED COMPARISON: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2709,6 +3347,16 @@ ANSWER-GRABBING FORMULATION: Jainism affirms plural eternal jivas; Buddhism anal
 - **Institutional change**
 - **Regional economy**
 
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Buddhism'S Decline -> Transformation In India -> Patronage shifts -> Competition/absorption
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
 **How to use them:** Frame the answer through Buddhism'S Decline; define Transformation In India, connect Patronage shifts with Competition/absorption to explain the mechanism, and use Institutional change for the decisive comparison or qualification.
 
 Buddhism did not disappear everywhere at one date. Its institutional contraction was regionally uneven and multi-causal, while doctrines, images, pilgrimage and communities persisted or were absorbed into new configurations.
@@ -2739,6 +3387,21 @@ Buddhism did not disappear everywhere at one date. Its institutional contraction
 - Decline is not a one-event story.
 - Transformation and absorption are as important as disappearance.
 - Turkish attacks are a late factor, not the single cause.
+
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Patronage shifted among dynasties and regions; some monasteries accumulated land and wealth, becoming strong institutions but also vulnerable to fiscal and political change. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Raids and warfare damaged major institutions such as Nalanda and Vikramashila, but attacks cannot explain centuries of earlier regional decline or transformation. The named evidence is: Patronage shifted among dynasties and regions; some monasteries accumulated land and wealth, becoming strong institutions but also vulnerable to fiscal and political change. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+BUDDHISM'S DECLINE AND TRANSFORMATION IN INDIA: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
 
 #### UPSC traps
 
@@ -2773,13 +3436,13 @@ ANSWER-GRABBING FORMULATION: Raids and warfare damaged major institutions such a
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Why Jainism Persisted And How It Transformed comprises Why Jainism Persisted, How It Transformed and Memory hook as its core connected dimensions.
+**Plain-language definition:** Jain continuity rested on distributed lay-ascetic institutions, regional languages and adaptable patronage, not on an absence of historical change.
 
-**Technical definition:** Technically, Why Jainism Persisted And How It Transformed is analysed by relating Why Jainism Persisted to How It Transformed, then testing the relationship through Memory hook and Mains/PYQ use.
+**Technical definition:** Jain persistence means continuity through dispersed lay-ascetic institutions, regional languages, patronage and adaptation—not survival without sectarian, ritual or literary change.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Mains/PYQ use: Compare distributed lay institutions with concentrated Buddhist mahaviharas, but avoid a deterministic contrast.
+> Jain continuity rested on distributed lay-ascetic institutions, regional languages and adaptable patronage, not on an absence of historical change.
 
 #### MUST-WRITE KEYWORDS
 
@@ -2790,9 +3453,17 @@ ANSWER-GRABBING FORMULATION: Raids and warfare damaged major institutions such a
 - **Study link**
 - **Fourfold community**
 
-**How to use them:** Frame the answer through Why Jainism Persisted; define How It Transformed, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
+#### VISUAL FIRST
 
-![g3 visual -- Survival and Decline: A Multi-Causal Comparison](assets/ancient-indian-history-10-651cb251d6.png)
+```text
+SOURCE / START -> Why Jainism Persisted -> How It Transformed -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
+
+**How to use them:** Frame the answer through Why Jainism Persisted; define How It Transformed, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
 *Trace every arrow before drafting the Mains answer on Buddhism's transformation; no single box should be quoted alone as 'the' cause.*
 
@@ -2826,6 +3497,21 @@ Jainism's continuity rested on a dense fourfold community, adaptable lay vows, m
 - Regional literary production is a major survival mechanism.
 - Persistence should not be explained only by merchant wealth.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Jain communities became durable in Karnataka, Tamil regions, Gujarat, Rajasthan, Bundelkhand and other zones under changing patrons. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Jain continuity rested on distributed lay-ascetic institutions, regional languages and adaptable patronage, not on an absence of historical change. The named evidence is: Jain communities became durable in Karnataka, Tamil regions, Gujarat, Rajasthan, Bundelkhand and other zones under changing patrons. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+WHY JAINISM PERSISTED AND HOW IT TRANSFORMED: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Jainism survived because it never changed. **Correct:** It transformed through sects, images, temples, literature and reform.
@@ -2853,19 +3539,19 @@ CONSEQUENCE / CONTRAST: Jain history also includes decline in some regions, sect
 UPSC TRAP / ANSWER-USE: Persistence should not be explained only by merchant wealth.
         |
         v
-ANSWER-GRABBING FORMULATION: Mains/PYQ use: Compare distributed lay institutions with concentrated Buddhist mahaviharas, but avoid a deterministic contrast.
+ANSWER-GRABBING FORMULATION: Jain continuity rested on distributed lay-ascetic institutions, regional languages and adaptable patronage, not on an absence of historical change.
 ```
 ### SESSION 33 — HISTORIOGRAPHY AND EVIDENCE LIMITS — [CORE MAINS + SUPPORTING]
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Historiography And Evidence Limits — [Core Mains + Supporting] comprises Historiography, Evidence Limits and Memory hook as its core connected dimensions.
+**Plain-language definition:** Early religious history is strongest when canonical memory, inscriptions and archaeology are compared at matching chronological scales.
 
 **Technical definition:** Mains/PYQ use: Every evidence paragraph should finish with the source's genre and reach.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Historiography And Evidence Limits — [Core Mains + Supporting] comprises Historiography, Evidence Limits and Memory hook as its core connected dimensions.
+> Early religious history is strongest when canonical memory, inscriptions and archaeology are compared at matching chronological scales.
 
 #### MUST-WRITE KEYWORDS
 
@@ -2875,6 +3561,16 @@ ANSWER-GRABBING FORMULATION: Mains/PYQ use: Compare distributed lay institutions
 - **Mains/PYQ use**
 - **Study link**
 - **Canonical discourse**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Historiography -> Evidence Limits -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Historiography; define Evidence Limits, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
@@ -2909,6 +3605,21 @@ The history of Jainism and Buddhism is reconstructed from normative texts, rival
 - Rival Buddhist/Jain sources can independently anchor historical persons while polemicizing doctrine.
 - Absence from one canon is not automatic proof of late invention.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Pali Nikayas/Agamas, Jain Agamas and Vinayas preserve early material through later transmission and school organization. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Early religious history is strongest when canonical memory, inscriptions and archaeology are compared at matching chronological scales. The named evidence is: Pali Nikayas/Agamas, Jain Agamas and Vinayas preserve early material through later transmission and school organization. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+HISTORIOGRAPHY AND EVIDENCE LIMITS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** A dated manuscript dates the original composition. **Correct:** It dates that copy; philology is needed for earlier layers.
@@ -2936,19 +3647,19 @@ CONSEQUENCE / CONTRAST: Ashokan edicts, donor inscriptions and Hathigumpha provi
 UPSC TRAP / ANSWER-USE: Art can reveal patronage, ritual and iconography, but aniconic symbols do not automatically identify one event without context.
         |
         v
-ANSWER-GRABBING FORMULATION: Historiography And Evidence Limits — [Core Mains + Supporting] comprises Historiography, Evidence Limits and Memory hook as its core connected dimensions.
+ANSWER-GRABBING FORMULATION: Early religious history is strongest when canonical memory, inscriptions and archaeology are compared at matching chronological scales.
 ```
 ### SESSION 34 — CONTEMPORARY HERITAGE AND CONSERVATION LINKAGES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Mains/PYQ use: Use heritage only as a final contemporary linkage after the ancient evidence is complete.
+**Plain-language definition:** Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography.
 
 **Technical definition:** UNESCO listing is a modern heritage status, not ancient evidence by itself.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Mains/PYQ use: Use heritage only as a final contemporary linkage after the ancient evidence is complete.
+> Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography.
 
 #### MUST-WRITE KEYWORDS
 
@@ -2958,6 +3669,16 @@ ANSWER-GRABBING FORMULATION: Historiography And Evidence Limits — [Core Mains 
 - **Mains/PYQ use**
 - **Study link**
 - **UNESCO Sanchi**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Contemporary Heritage -> Conservation Linkages -> Memory hook -> Mains/PYQ use
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Contemporary Heritage; define Conservation Linkages, connect Memory hook with Mains/PYQ use to explain the mechanism, and use Study link for the decisive comparison or qualification.
 
@@ -2990,6 +3711,21 @@ Modern heritage sources are used only to explain preservation, site management a
 - Sanchi, Mahabodhi and Nalanda represent different periods and functions.
 - No current-affairs story is forced into the package.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography. The named evidence is: Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+CONTEMPORARY HERITAGE AND CONSERVATION LINKAGES: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** UNESCO calls Sanchi a place visited by the Buddha. **Correct:** Its significance is monument history and relic/patronage tradition; Buddha's visit is not required.
@@ -3017,19 +3753,19 @@ CONSEQUENCE / CONTRAST: Heritage management today preserves evidence of Buddhist
 UPSC TRAP / ANSWER-USE: UNESCO listing is a modern heritage status, not ancient evidence by itself.
         |
         v
-ANSWER-GRABBING FORMULATION: Mains/PYQ use: Use heritage only as a final contemporary linkage after the ancient evidence is complete.
+ANSWER-GRABBING FORMULATION: Modern constitutional or heritage relevance belongs only in a bounded conclusion and cannot authenticate an ancient doctrine or biography.
 ```
 ### SESSION 35 — CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Mains/PYQ use: Use this card to audit terminology before finalizing any answer.
+**Plain-language definition:** UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation.
 
-**Technical definition:** Technically, Chronology, Terminology And Rapid Upsc Distinctions is analysed by relating Chronology to Terminology, then testing the relationship through Rapid Upsc Distinctions and Memory hook.
+**Technical definition:** Chronology control separates founder horizons from later councils, canons, schools and iconography; terminology control prevents cross-tradition and cross-period substitutions.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Mains/PYQ use: Use this card to audit terminology before finalizing any answer.
+> UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation.
 
 #### MUST-WRITE KEYWORDS
 
@@ -3039,6 +3775,16 @@ ANSWER-GRABBING FORMULATION: Mains/PYQ use: Use heritage only as a final contemp
 - **Memory hook**
 - **Mains/PYQ use**
 - **Study link**
+
+#### VISUAL FIRST
+
+```text
+SOURCE / START -> Chronology -> Terminology -> Rapid Upsc Distinctions -> Memory hook
+        |                 |
+        +-> mechanism -> consequence -> comparison/limit -> UPSC use
+```
+
+
 
 **How to use them:** Frame the answer through Chronology; define Terminology, connect Rapid Upsc Distinctions with Memory hook to explain the mechanism, and use Mains/PYQ use for the decisive comparison or qualification.
 
@@ -3076,6 +3822,21 @@ This consolidation prevents the most common close-option errors: founder versus 
 - The four Buddhist sites: Lumbini, Bodh Gaya, Sarnath, Kushinagara.
 - Council accounts are conventional and tradition-specific.
 
+
+
+#### NAMED EVIDENCE / EXAMPLE
+
+**Evidence:** UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation. Source control: canonical Topic 10 Core and labelled Advanced owners, R.S. Sharma's local OCR chapter on Jainism and Buddhism (PDF pp. 151-170), and Upinder Singh's cities-kings-renunciants and later religious-history discussions (local PDF pp. 722-875).
+
+#### CLAIM -> EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation. The named evidence is: UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation. This evidence explains the historical mechanism rather than merely listing a term. The claim is bounded by chronology, region, source genre and later redaction. Thus the answer distinguishes an early teaching or institution from later sectarian, systematic or textual development.
+
+#### MINI RECAP
+
+CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS: state the exact term, attach one named source/site, explain what it proves, and end with the chronology or evidence limit.
+
+
 #### UPSC traps
 
 - **Wrong:** Sanghabhuti and Sanghabhadra are variants of one name. **Correct:** They are different historical monks/scholars.
@@ -3103,2190 +3864,1022 @@ CONSEQUENCE / CONTRAST: Wrong: Sanghabhuti and Sanghabhadra are variants of one 
 UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: they are different historical monks/scholars.
         |
         v
-ANSWER-GRABBING FORMULATION: Mains/PYQ use: Use this card to audit terminology before finalizing any answer.
+ANSWER-GRABBING FORMULATION: UPSC accuracy depends on fixing term, tradition, chronology and source status before attempting causal explanation.
 ```
+
+### ASCII MASTER FLOW DIAGRAM
+
+```text
+JAINISM AND BUDDHISM - ASCII MASTER FLOW DIAGRAM
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 1/14 - 1. SOURCE, LAYER AND DATE CONTROL                                                   |
++--------------------------------------------------------------------------------------------------+
+| -> Early teachings survive through orally transmitted, school-specific and later redacted        |
+|    corpora.                                                                                      |
+| -> Separate founder horizon, composition, recitation, redaction, manuscript and archaeology.     |
+| -> Traditional dates for Mahavira and Buddha differ; use sixth-fifth centuries BCE unless the    |
+|    tradition is named.                                                                           |
+| -> Text proves remembered doctrine or discipline; inscription and archaeology test institutions, |
+|    donors and sites.                                                                             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 2/14 - 2. SETTING AND THE SHRAMANA FIELD                                                   |
++--------------------------------------------------------------------------------------------------+
+| -> Agrarian expansion + towns + routes + states + social differentiation widened audiences and   |
+|    patronage.                                                                                    |
+| -> Shramana included Jain, Buddhist, Ajivika, materialist and other renunciant positions.        |
+| -> Ritual cost, hierarchy and violence mattered, but no urban, merchant, iron or varna monocause |
+|    is sufficient.                                                                                |
+| -> Brahmanical and shramana currents debated, competed, borrowed and later accommodated one      |
+|    another.                                                                                      |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 3/14 - 3. JAIN ANTECEDENTS AND MAHAVIRA                                                    |
++--------------------------------------------------------------------------------------------------+
+| -> Jain tradition: 24 Tirthankaras; Rishabhanatha 1st, Parshvanatha 23rd, Mahavira 24th.         |
+| -> Parshva may preserve an earlier ascetic stratum; remote Tirthankara dates remain sacred       |
+|    tradition, not secure history.                                                                |
+| -> Mahavira/Vardhamana/Nigantha Nataputta: renunciation -> austerity -> kevala knowledge ->      |
+|    teaching community.                                                                           |
+| -> Four-vow/ five-vow distinction is traditional; biography and chronology vary across sectarian |
+|    memories.                                                                                     |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 4/14 - 4. JAIN REALITY, KARMA AND RELEASE                                                  |
++--------------------------------------------------------------------------------------------------+
+| -> Jiva is conscious and enduring; ajiva includes matter, motion/rest media, space and time.     |
+| -> Activity and passion -> asrava (influx) -> bandha (bondage).                                  |
+| -> Samvara stops new influx; nirjara sheds accumulated karmic matter; moksha perfects the        |
+|    individual jiva.                                                                              |
+| -> Dharma-dravya and adharma-dravya are cosmological media, not simply moral good and evil.      |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 5/14 - 5. JAIN PATH, ETHICS AND MANY-SIDEDNESS                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Triratna: right faith, right knowledge, right conduct.                                        |
+| -> Five vows: ahimsa, satya, asteya, brahmacharya, aparigraha.                                   |
+| -> Mahavrata for ascetics; anuvrata and supplementary restraints for laity.                      |
+| -> Anekantavada = many-sided reality; nayavada = standpoints; syadvada = conditioned             |
+|    predication; mature system is later.                                                          |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 6/14 - 6. JAIN COMMUNITY, CANON, SECTS AND CONTINUITY                                      |
++--------------------------------------------------------------------------------------------------+
+| -> Fourfold community: monks, nuns, laymen and laywomen; household support sustains              |
+|    renunciation.                                                                                 |
+| -> Pataliputra preservation and Valabhi redaction are later tradition-specific accounts.         |
+| -> Digambara-Svetambara division developed gradually: clothing, canon, images/practice and       |
+|    women's liberation differ.                                                                    |
+| -> Mathura, Udayagiri-Khandagiri, western India and Karnataka show regional patronage; Jainism   |
+|    changed while enduring.                                                                       |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 7/14 - 7. BUDDHA: BIOGRAPHY AND DATING                                                     |
++--------------------------------------------------------------------------------------------------+
+| -> Siddhartha Gautama, a Sakya, is remembered through four sights, renunciation and search among |
+|    teachers.                                                                                     |
+| -> Extreme austerity rejected -> awakening at Bodh Gaya -> first sermon at Sarnath -> teaching   |
+|    career.                                                                                       |
+| -> Mahaparinibbana at Kushinagara; Lumbini pillar gives early epigraphic support to birthplace   |
+|    memory.                                                                                       |
+| -> Long and short chronologies differ; sacred biography is not a contemporary diary.             |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 8/14 - 8. BUDDHIST DIAGNOSIS AND MIDDLE PATH                                               |
++--------------------------------------------------------------------------------------------------+
+| -> Four Noble Truths: dukkha, origin, cessation and path.                                        |
+| -> Middle Way rejects sensual indulgence and self-mortification.                                 |
+| -> Eightfold Path: view, intention, speech, action, livelihood, effort, mindfulness and          |
+|    concentration.                                                                                |
+| -> Wisdom + ethical conduct + mental discipline form an integrated practice, not a mechanical    |
+|    staircase.                                                                                    |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 9/14 - 9. CONDITIONALITY, NO-SELF AND NIRVANA                                              |
++--------------------------------------------------------------------------------------------------+
+| -> Dependent origination: conditioned arising and cessation; not fate, first cause or a          |
+|    permanent substance.                                                                          |
+| -> Anicca = impermanence; anatta = no permanent independent self; dukkha = conditioned           |
+|    unsatisfactoriness.                                                                           |
+| -> Five aggregates analyse the person; intentional karma sustains rebirth without an eternal     |
+|    soul.                                                                                         |
+| -> Nirvana ends greed, hatred, delusion and the rebirth process; it is not mere death or         |
+|    nihilism.                                                                                     |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 10/14 - 10. SANGHA, VINAYA, LAITY AND WOMEN                                                |
++--------------------------------------------------------------------------------------------------+
+| -> Bhikkhu/bhikkhuni communities operate through Vinaya; upasaka/upasika provide food, robes,    |
+|    medicine and residence.                                                                       |
+| -> Lay-monastic reciprocity links merit, teaching, routes, towns and agrarian support.           |
+| -> Mahapajapati Gotami tradition and Therigatha attest women's agency; garudhamma transmission   |
+|    is layered and debated.                                                                       |
+| -> Access widened beyond hereditary ritual privilege, yet caste, obligation and patriarchy did   |
+|    not vanish.                                                                                   |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 11/14 - 11. COUNCILS, CANONS AND EARLY SCHOOLS                                             |
++--------------------------------------------------------------------------------------------------+
+| -> Rajagriha, Vaishali and Pataliputra councils are conventional, school-specific institutional  |
+|    memories.                                                                                     |
+| -> No single pan-Buddhist fourth council: Kanishka-Kashmir and Sri Lankan writing-down           |
+|    traditions differ.                                                                            |
+| -> Theravada Pali Tipitaka = Vinaya, Sutta, Abhidhamma; other schools preserved Vinayas, Agamas  |
+|    and Abhidharma.                                                                               |
+| -> Sthavira and Mahasanghika lineages are complex; Theravada is not every Sthavira school and    |
+|    not 'Hinayana'.                                                                               |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 12/14 - 12. MAHAYANA, EMPTINESS AND VAJRAYANA                                              |
++--------------------------------------------------------------------------------------------------+
+| -> Mahayana emerged gradually around the early centuries BCE/CE through diverse texts and        |
+|    communities.                                                                                  |
+| -> Bodhisattva ideal and paramitas widen the salvific horizon; Maitreya is the future Buddha,    |
+|    not exclusively Mahayana.                                                                     |
+| -> Madhyamaka uses emptiness/dependent designation; emptiness is not non-existence.              |
+| -> Vajrayana's mantra, mandala, deity yoga and tantric texts are later first-millennium          |
+|    developments.                                                                                 |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 13/14 - 13. PATRONAGE, SPREAD, MONASTERIES AND ART                                         |
++--------------------------------------------------------------------------------------------------+
+| -> Ashoka's inscriptions support Buddhist patronage and sangha concern; dhamma is broader than   |
+|    Buddhist doctrine.                                                                            |
+| -> Kanishka matters to north-western networks, but council and conversion details are later      |
+|    traditions.                                                                                   |
+| -> Rulers + merchants + artisans + women + monks/nuns + local donors sustained routes,           |
+|    monasteries and education.                                                                    |
+| -> Stupa, chaitya and vihara; Sanchi, Bharhut, Amaravati, Karle, Ajanta, Nalanda and Gandhara    |
+|    require phase-specific dating.                                                                |
++--------------------------------------------------------------------------------------------------+
+                                                 |
+                                                 v
+
++--------------------------------------------------------------------------------------------------+
+| PANEL 14/14 - 14. COMPARISON, DECLINE AND EXAM VERDICT                                           |
++--------------------------------------------------------------------------------------------------+
+| -> Jainism: enduring jiva, material karma, rigorous ahimsa; Buddhism: anatta, intentional karma, |
+|    Middle Path.                                                                                  |
+| -> Both formed renunciant-lay communities and questioned exclusive ritual authority, but neither |
+|    was uniformly egalitarian.                                                                    |
+| -> Buddhist contraction in India was regional and multicausal; Himalayan/eastern survival, Asian |
+|    expansion and revival matter.                                                                 |
+| -> Answer route: context -> doctrine -> institution -> patronage/material evidence -> variation  |
+|    -> qualified verdict.                                                                         |
++--------------------------------------------------------------------------------------------------+
+```
+
+
 ## BASIC MCQS / REMEDIATION
 
-### Diagnostic and repair protocol — [CORE PRELIMS + CORE MAINS]
+### 32 ORIGINAL HARD MCQS
 
-- Attempt before reading the explanation.
-- Classify each error as chronology, evidence, identity, causation, region or overclaim.
-- Answer placement is balanced, deterministic and non-patterned using a stable topic seed.
+> **Exact practice contract:** These 32 questions appear before every PYQ. Correct keys rotate A -> B -> C -> D exactly eight times. All 128 option explanations and all 32 examiner traps are question-specific.
 
-> 48 hard MCQs and 12 remedials. Answer placement is balanced, deterministic and non-patterned using a stable topic seed.
+#### Q1
 
-#### Hard MCQ 01 - setting
+1
 
 Which formulation best explains the sixth-century BCE setting?
 
-#### Evidence / comparison matrix
+- A. Urban, political and social change widened audiences, but did not mechanically determine doctrine.
 
-| Option | Choice |
-| --- | --- |
-| A | Urban, political and social change widened audiences, but did not mechanically determine doctrine. |
-| B | Only merchant resentment created heterodoxy. |
-| C | The movements arose outside towns and states. |
-| D | Iron technology alone produced both religions. |
+- B. Only merchant resentment created heterodoxy, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. The movements arose outside towns and states, without requiring textual, inscriptional or archaeological qualification.
 
-- OPTIONS: A. Urban, political and social change widened audiences, but did not mechanically determine doctrine. | B. Only merchant resentment created heterodoxy. | C. The movements arose outside towns and states. | D. Iron technology alone produced both religions.
-- CORRECT ANSWER: A - Urban, political and social change widened audiences, but did not mechanically determine doctrine.
-- EXPLANATION: Second urbanisation, states and new elites supplied context; ideas and institutions still require independent explanation.
-- WHY THE DISTRACTORS FAIL: D ('Iron technology alone produced both religions') overclaims by turning a partial or context-bound truth into an absolute rule; B ('Only merchant resentment created heterodoxy') overclaims by turning a partial or context-bound truth into an absolute rule; A ('The movements arose outside towns and states') misstates the chronology or sequence of development.
+- D. Iron technology alone produced both religions, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q01 key C; logic: Second urbanisation, states and new elites supplied context; ideas and institutions still require independent explanation.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: setting.
-- Rotation position: 1 -> A.
+- **A:** Correct: Second urbanisation, states and new elites supplied context; ideas and institutions still require independent explanation. It matches the tested setting distinction without erasing chronology or source limits. [Q1-A]
+- **B:** Incorrect: It conflicts with the precise setting benchmark; the defensible formulation is 'urban, political and social change widened audiences, but did not mechanically determine doctrine.'. [Q1-B]
+- **C:** Incorrect: It conflicts with the precise setting benchmark; the defensible formulation is 'urban, political and social change widened audiences, but did not mechanically determine doctrine.'. [Q1-C]
+- **D:** Incorrect: Its absolute wording turns a limited point about setting into a universal claim. [Q1-D]
 
-#### UPSC traps
+> **Examiner trap 1:** For setting, fix the tradition and chronology before accepting a familiar term; question 1 specifically tests the boundary around Urban, political and social change widened audiences, but did not mechanically determine doctrine.
 
-- **Wrong:** Absolutiser wording on setting. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-- **Wrong:** List-completeness bait on setting. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
+#### Q2
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 02 - Jain chronology
+2
 
 Which is the safest historical statement about the Tirthankaras?
 
-#### Evidence / comparison matrix
+- A. Rishabhanatha is proven by Harappan seals, as though every school preserved the same chronology and canon.
 
-| Option | Choice |
-| --- | --- |
-| A | Rishabhanatha is proven by Harappan seals. |
-| B | Parshvanatha is a plausible pre-Mahavira teacher, while the full sequence is primarily sacred tradition. |
-| C | All twenty-four are securely dated by inscriptions. |
-| D | Mahavira was the first Tirthankara. |
+- B. Parshvanatha is a plausible pre-Mahavira teacher, while the full sequence is primarily sacred tradition.
 
-#### Core teaching / solved analysis
+- C. All twenty-four are securely dated by inscriptions, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. Rishabhanatha is proven by Harappan seals. | B. Parshvanatha is a plausible pre-Mahavira teacher, while the full sequence is primarily sacred tradition. | C. All twenty-four are securely dated by inscriptions. | D. Mahavira was the first Tirthankara.
-- CORRECT ANSWER: B - Parshvanatha is a plausible pre-Mahavira teacher, while the full sequence is primarily sacred tradition.
-- EXPLANATION: Evidence confidence is graded: Mahavira is historical, Parshva plausible, and remote traditional chronology cannot be archaeologically asserted.
-- WHY THE DISTRACTORS FAIL: B ('All twenty-four are securely dated by inscriptions') breaks the specific factual pairing the question is testing; D ('Mahavira was the first Tirthankara') misstates the chronology or sequence of development; A ('Rishabhanatha is proven by Harappan seals') breaks the specific factual pairing the question is testing.
+- D. Mahavira was the first Tirthankara, without separating early teaching from later systematisation.
 
-> **Memory hook:** Q02 key C; logic: Evidence confidence is graded: Mahavira is historical, Parshva plausible, and remote traditional chronology cannot be archaeologically asserted.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain chronology.
-- Rotation position: 2 -> B.
+- **A:** Incorrect: It conflicts with the precise jain chronology benchmark; the defensible formulation is 'parshvanatha is a plausible pre-mahavira teacher, while the full sequence is primarily sacred tradition.'. [Q2-A]
+- **B:** Correct: Evidence confidence is graded: Mahavira is historical, Parshva plausible, and remote traditional chronology cannot be archaeologically asserted. It matches the tested Jain chronology distinction without erasing chronology or source limits. [Q2-B]
+- **C:** Incorrect: It conflicts with the precise jain chronology benchmark; the defensible formulation is 'parshvanatha is a plausible pre-mahavira teacher, while the full sequence is primarily sacred tradition.'. [Q2-C]
+- **D:** Incorrect: It telescopes chronology or attributes a gradual development in jain chronology to one beginning. [Q2-D]
 
-#### UPSC traps
+> **Examiner trap 2:** For Jain chronology, fix the tradition and chronology before accepting a familiar term; question 2 specifically tests the boundary around Parshvanatha is a plausible pre-Mahavira teacher, while the full sequence is primarily sacred tradition.
 
-- **Wrong:** Cross-tradition swap on Jain chronology. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-- **Wrong:** False equivalence on Jain chronology. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
+#### Q3
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 03 - identities
+3
 
 Nigantha Nataputta/Nayaputta in Pali sources refers to:
 
-#### Evidence / comparison matrix
+- A. Maitreya.
 
-| Option | Choice |
-| --- | --- |
-| A | Maitreya. |
-| B | Gautama Buddha. |
-| C | Mahavira. |
-| D | Nagarjuna. |
+- B. Gautama Buddha.
 
-#### Core teaching / solved analysis
+- C. Mahavira.
 
-- OPTIONS: A. Maitreya. | B. Gautama Buddha. | C. Mahavira. | D. Nagarjuna.
-- CORRECT ANSWER: C - Mahavira.
-- EXPLANATION: The 2024 epithets PYQ tests this person-name firewall: Buddha is Shakyamuni/Tathagata; Mahavira is Nataputta.
-- WHY THE DISTRACTORS FAIL: B ('Gautama Buddha') breaks the specific factual pairing the question is testing; A ('Maitreya') breaks the specific factual pairing the question is testing; C ('Nagarjuna') breaks the specific factual pairing the question is testing.
+- D. Nagarjuna.
 
-> **Memory hook:** Q03 key D; logic: The 2024 epithets PYQ tests this person-name firewall: Buddha is Shakyamuni/Tathagata; Mahavira is Nataputta.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: identities.
-- Rotation position: 3 -> C.
+- **A:** Incorrect: It conflicts with the precise identities benchmark; the defensible formulation is 'mahavira.'. [Q3-A]
+- **B:** Incorrect: It conflicts with the precise identities benchmark; the defensible formulation is 'mahavira.'. [Q3-B]
+- **C:** Correct: The 2024 epithets PYQ tests this person-name firewall: Buddha is Shakyamuni/Tathagata; Mahavira is Nataputta. It matches the tested identities distinction without erasing chronology or source limits. [Q3-C]
+- **D:** Incorrect: It conflicts with the precise identities benchmark; the defensible formulation is 'mahavira.'. [Q3-D]
 
-#### UPSC traps
+> **Examiner trap 3:** For identities, fix the tradition and chronology before accepting a familiar term; question 3 specifically tests the boundary around Mahavira.
 
-- **Wrong:** Anachronism on identities. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-- **Wrong:** Translation literalism on identities. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
+#### Q4
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 04 - Jain ontology
+4
 
 In Jain ontology, dharma-dravya is:
 
-#### Evidence / comparison matrix
+- A. Karmic merit stored in a soul.
 
-| Option | Choice |
-| --- | --- |
-| A | Karmic merit stored in a soul. |
-| B | The creator principle. |
-| C | The moral duty of a householder only. |
-| D | The medium that enables motion. |
+- B. The creator principle, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. The moral duty of a householder only.
 
-- OPTIONS: A. Karmic merit stored in a soul. | B. The creator principle. | C. The moral duty of a householder only. | D. The medium that enables motion.
-- CORRECT ANSWER: D - The medium that enables motion.
-- EXPLANATION: Dharma and adharma as substances are media of motion and rest, not simply ethical good and evil.
-- WHY THE DISTRACTORS FAIL: D ('The moral duty of a householder only') overclaims by turning a partial or context-bound truth into an absolute rule; A ('Karmic merit stored in a soul') breaks the specific factual pairing the question is testing; B ('The creator principle') breaks the specific factual pairing the question is testing.
+- D. The medium that enables motion.
 
-> **Memory hook:** Q04 key C; logic: Dharma and adharma as substances are media of motion and rest, not simply ethical good and evil.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain ontology.
-- Rotation position: 4 -> D.
+- **A:** Incorrect: It conflicts with the precise jain ontology benchmark; the defensible formulation is 'the medium that enables motion.'. [Q4-A]
+- **B:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the jain ontology distinction. [Q4-B]
+- **C:** Incorrect: Its absolute wording turns a limited point about jain ontology into a universal claim. [Q4-C]
+- **D:** Correct: Dharma and adharma as substances are media of motion and rest, not simply ethical good and evil. It matches the tested Jain ontology distinction without erasing chronology or source limits. [Q4-D]
 
-#### UPSC traps
+> **Examiner trap 4:** For Jain ontology, fix the tradition and chronology before accepting a familiar term; question 4 specifically tests the boundary around The medium that enables motion.
 
-- **Wrong:** Single-cause shortcut on Jain ontology. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-- **Wrong:** Chronology telescoping on Jain ontology. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
+#### Q5
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 05 - Jain karma
+5
 
 Which sequence correctly describes Jain liberation mechanics?
 
-#### Evidence / comparison matrix
+- A. Asrava -> bandha -> samvara -> nirjara -> moksha.
 
-| Option | Choice |
-| --- | --- |
-| A | Asrava -> bandha -> samvara -> nirjara -> moksha. |
-| B | Bandha -> asrava -> moksha -> nirjara -> samvara. |
-| C | Craving -> aggregates -> grace -> heaven. |
-| D | Jiva -> anatta -> nirvana -> rebirth. |
+- B. Bandha -> asrava -> moksha -> nirjara -> samvara.
 
-#### Core teaching / solved analysis
+- C. Craving -> aggregates -> grace -> heaven.
 
-- OPTIONS: A. Asrava -> bandha -> samvara -> nirjara -> moksha. | B. Bandha -> asrava -> moksha -> nirjara -> samvara. | C. Craving -> aggregates -> grace -> heaven. | D. Jiva -> anatta -> nirvana -> rebirth.
-- CORRECT ANSWER: A - Asrava -> bandha -> samvara -> nirjara -> moksha.
-- EXPLANATION: Influx produces bondage; stopping new influx and shedding old karma lead to release.
-- WHY THE DISTRACTORS FAIL: B ('Bandha -> asrava -> moksha -> nirjara -> samvara') breaks the specific factual pairing the question is testing; C ('Craving -> aggregates -> grace -> heaven') breaks the specific factual pairing the question is testing; D ('Jiva -> anatta -> nirvana -> rebirth') breaks the specific factual pairing the question is testing.
+- D. Jiva -> anatta -> nirvana -> rebirth, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q05 key A; logic: Influx produces bondage; stopping new influx and shedding old karma lead to release.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain karma.
-- Rotation position: 5 -> A.
+- **A:** Correct: Influx produces bondage; stopping new influx and shedding old karma lead to release. It matches the tested Jain karma distinction without erasing chronology or source limits. [Q5-A]
+- **B:** Incorrect: It conflicts with the precise jain karma benchmark; the defensible formulation is 'asrava -> bandha -> samvara -> nirjara -> moksha.'. [Q5-B]
+- **C:** Incorrect: It conflicts with the precise jain karma benchmark; the defensible formulation is 'asrava -> bandha -> samvara -> nirjara -> moksha.'. [Q5-C]
+- **D:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the jain karma distinction. [Q5-D]
 
-#### UPSC traps
+> **Examiner trap 5:** For Jain karma, fix the tradition and chronology before accepting a familiar term; question 5 specifically tests the boundary around Asrava -> bandha -> samvara -> nirjara -> moksha.
 
-- **Wrong:** Textbook over-neatness on Jain karma. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-- **Wrong:** Counter-example trap on Jain karma. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
+#### Q6
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 06 - Jain vows
+6
 
 Which item is not one of the five Jain vows?
 
-#### Evidence / comparison matrix
+- A. Ahimsa, as though every school preserved the same chronology and canon.
 
-| Option | Choice |
-| --- | --- |
-| A | Ahimsa. |
-| B | Right concentration. |
-| C | Asteya. |
-| D | Aparigraha. |
+- B. Right concentration.
 
-#### Core teaching / solved analysis
+- C. Asteya, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. Ahimsa. | B. Right concentration. | C. Asteya. | D. Aparigraha.
-- CORRECT ANSWER: B - Right concentration.
-- EXPLANATION: Right concentration is an Eightfold Path factor; Jain vows are ahimsa, satya, asteya, brahmacharya and aparigraha.
-- WHY THE DISTRACTORS FAIL: A ('Ahimsa') breaks the specific factual pairing the question is testing; C ('Asteya') breaks the specific factual pairing the question is testing; B ('Aparigraha') breaks the specific factual pairing the question is testing.
+- D. Aparigraha.
 
-> **Memory hook:** Q06 key D; logic: Right concentration is an Eightfold Path factor; Jain vows are ahimsa, satya, asteya, brahmacharya and aparigraha.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain vows.
-- Rotation position: 6 -> B.
+- **A:** Incorrect: It conflicts with the precise jain vows benchmark; the defensible formulation is 'right concentration.'. [Q6-A]
+- **B:** Correct: Right concentration is an Eightfold Path factor; Jain vows are ahimsa, satya, asteya, brahmacharya and aparigraha. It matches the tested Jain vows distinction without erasing chronology or source limits. [Q6-B]
+- **C:** Incorrect: It conflicts with the precise jain vows benchmark; the defensible formulation is 'right concentration.'. [Q6-C]
+- **D:** Incorrect: It conflicts with the precise jain vows benchmark; the defensible formulation is 'right concentration.'. [Q6-D]
 
-#### UPSC traps
+> **Examiner trap 6:** For Jain vows, fix the tradition and chronology before accepting a familiar term; question 6 specifically tests the boundary around Right concentration.
 
-- **Wrong:** Geography/site swap on Jain vows. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-- **Wrong:** Definition inversion on Jain vows. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
+#### Q7
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 07 - Jain epistemology
+7
 
 The correct distinction is:
 
-#### Evidence / comparison matrix
+- A. Syadvada asserts contradictions in the same respect, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | Syadvada asserts contradictions in the same respect. |
-| B | All three mean total scepticism. |
-| C | Anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication. |
-| D | Nayavada is the Jain theory of karmic matter. |
+- B. All three mean total scepticism, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication.
 
-- OPTIONS: A. Syadvada asserts contradictions in the same respect. | B. All three mean total scepticism. | C. Anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication. | D. Nayavada is the Jain theory of karmic matter.
-- CORRECT ANSWER: C - Anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication.
-- EXPLANATION: The three doctrines form a linked epistemic method but have distinct functions.
-- WHY THE DISTRACTORS FAIL: B ('All three mean total scepticism') breaks the specific factual pairing the question is testing; D ('Nayavada is the Jain theory of karmic matter') misassigns the fact to the wrong tradition, sect or school; C ('Syadvada asserts contradictions in the same respect') breaks the specific factual pairing the question is testing.
+- D. Nayavada is the Jain theory of karmic matter, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q07 key A; logic: The three doctrines form a linked epistemic method but have distinct functions.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain epistemology.
-- Rotation position: 7 -> C.
+- **A:** Incorrect: It conflicts with the precise jain epistemology benchmark; the defensible formulation is 'anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication.'. [Q7-A]
+- **B:** Incorrect: It conflicts with the precise jain epistemology benchmark; the defensible formulation is 'anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication.'. [Q7-B]
+- **C:** Correct: The three doctrines form a linked epistemic method but have distinct functions. It matches the tested Jain epistemology distinction without erasing chronology or source limits. [Q7-C]
+- **D:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the jain epistemology distinction. [Q7-D]
 
-#### UPSC traps
+> **Examiner trap 7:** For Jain epistemology, fix the tradition and chronology before accepting a familiar term; question 7 specifically tests the boundary around Anekantavada concerns many-sided reality; nayavada standpoints; syadvada qualified predication.
 
-- **Wrong:** Role/identity confusion on Jain epistemology. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-- **Wrong:** Source-status trap on Jain epistemology. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
+#### Q8
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 08 - Jain sects
+8
 
 Which issue significantly differentiates major Jain sects?
 
-#### Evidence / comparison matrix
+- A. Whether ahimsa is valuable, treated as a uniform rule across regions and historical phases.
 
-| Option | Choice |
-| --- | --- |
-| A | Whether ahimsa is valuable. |
-| B | Acceptance versus rejection of all Tirthankaras. |
-| C | Belief in karma versus no karma. |
-| D | Canonical survival and women's immediate liberation. |
+- B. Acceptance versus rejection of all Tirthankaras.
 
-#### Core teaching / solved analysis
+- C. Belief in karma versus no karma, as though every school preserved the same chronology and canon.
 
-- OPTIONS: A. Whether ahimsa is valuable. | B. Acceptance versus rejection of all Tirthankaras. | C. Belief in karma versus no karma. | D. Canonical survival and women's immediate liberation.
-- CORRECT ANSWER: D - Canonical survival and women's immediate liberation.
-- EXPLANATION: Digambara and Shvetambara differences go well beyond clothing.
-- WHY THE DISTRACTORS FAIL: C ('Belief in karma versus no karma') breaks the specific factual pairing the question is testing; D ('Acceptance versus rejection of all Tirthankaras') breaks the specific factual pairing the question is testing; A ('Whether ahimsa is valuable') breaks the specific factual pairing the question is testing.
+- D. Canonical survival and women's immediate liberation.
 
-> **Memory hook:** Q08 key B; logic: Digambara and Shvetambara differences go well beyond clothing.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain sects.
-- Rotation position: 8 -> D.
+- **A:** Incorrect: It conflicts with the precise jain sects benchmark; the defensible formulation is 'canonical survival and women's immediate liberation.'. [Q8-A]
+- **B:** Incorrect: Its absolute wording turns a limited point about jain sects into a universal claim. [Q8-B]
+- **C:** Incorrect: It conflicts with the precise jain sects benchmark; the defensible formulation is 'canonical survival and women's immediate liberation.'. [Q8-C]
+- **D:** Correct: Digambara and Shvetambara differences go well beyond clothing. It matches the tested Jain sects distinction without erasing chronology or source limits. [Q8-D]
 
-#### UPSC traps
+> **Examiner trap 8:** For Jain sects, fix the tradition and chronology before accepting a familiar term; question 8 specifically tests the boundary around Canonical survival and women's immediate liberation.
 
-- **Wrong:** List-completeness bait on Jain sects. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
-- **Wrong:** Adjacent-topic bleed on Jain sects. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
+#### Q9
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 09 - Sthanakvasi
+9
 
 Sthanakvasi is best identified as:
 
-#### Evidence / comparison matrix
+- A. A later non-image-worship Shvetambara Jain tradition.
 
-| Option | Choice |
-| --- | --- |
-| A | A later non-image-worship Shvetambara Jain tradition. |
-| B | An early Mahasanghika school. |
-| C | A Buddhist cave order in Andhra. |
-| D | A Digambara canon council. |
+- B. An early Mahasanghika school, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. A Buddhist cave order in Andhra, without requiring textual, inscriptional or archaeological qualification.
 
-- OPTIONS: A. A later non-image-worship Shvetambara Jain tradition. | B. An early Mahasanghika school. | C. A Buddhist cave order in Andhra. | D. A Digambara canon council.
-- CORRECT ANSWER: A - A later non-image-worship Shvetambara Jain tradition.
-- EXPLANATION: It is Jain and Shvetambara; its history is much later than Mahavira.
-- WHY THE DISTRACTORS FAIL: A ('An early Mahasanghika school') breaks the specific factual pairing the question is testing; D ('B Digambara canon council') misassigns the fact to the wrong tradition, sect or school; C ('B Buddhist cave order in Andhra') misassigns the fact to the wrong tradition, sect or school.
+- D. A Digambara canon council, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q09 key B; logic: It is Jain and Shvetambara; its history is much later than Mahavira.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Sthanakvasi.
-- Rotation position: 9 -> A.
+- **A:** Correct: It is Jain and Shvetambara; its history is much later than Mahavira. It matches the tested Sthanakvasi distinction without erasing chronology or source limits. [Q9-A]
+- **B:** Incorrect: It conflicts with the precise sthanakvasi benchmark; the defensible formulation is 'a later non-image-worship shvetambara jain tradition.'. [Q9-B]
+- **C:** Incorrect: It conflicts with the precise sthanakvasi benchmark; the defensible formulation is 'a later non-image-worship shvetambara jain tradition.'. [Q9-C]
+- **D:** Incorrect: It conflicts with the precise sthanakvasi benchmark; the defensible formulation is 'a later non-image-worship shvetambara jain tradition.'. [Q9-D]
 
-#### UPSC traps
+> **Examiner trap 9:** For Sthanakvasi, fix the tradition and chronology before accepting a familiar term; question 9 specifically tests the boundary around A later non-image-worship Shvetambara Jain tradition.
 
-- **Wrong:** False equivalence on Sthanakvasi. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-- **Wrong:** Absolutiser wording on Sthanakvasi. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
+#### Q10
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 10 - Jain canon
+10
 
 Valabhi is important in Jain history because of:
 
-#### Evidence / comparison matrix
+- A. Ashoka's Kalinga war, as though every school preserved the same chronology and canon.
 
-| Option | Choice |
-| --- | --- |
-| A | Ashoka's Kalinga war. |
-| B | The conventional final redaction of the Shvetambara canon. |
-| C | Kanishka's Sarvastivada council. |
-| D | The Buddha's first sermon. |
+- B. The conventional final redaction of the Shvetambara canon.
 
-#### Core teaching / solved analysis
+- C. Kanishka's Sarvastivada council, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. Ashoka's Kalinga war. | B. The conventional final redaction of the Shvetambara canon. | C. Kanishka's Sarvastivada council. | D. The Buddha's first sermon.
-- CORRECT ANSWER: B - The conventional final redaction of the Shvetambara canon.
-- EXPLANATION: Valabhi belongs to later Shvetambara canonical memory, not the lifetime of Mahavira.
-- WHY THE DISTRACTORS FAIL: B ('The Buddha's first sermon') misstates the chronology or sequence of development; C ('Kanishka's Sarvastivada council') breaks the specific factual pairing the question is testing; A ('Ashoka's Kalinga war') breaks the specific factual pairing the question is testing.
+- D. The Buddha's first sermon, without separating early teaching from later systematisation.
 
-> **Memory hook:** Q10 key D; logic: Valabhi belongs to later Shvetambara canonical memory, not the lifetime of Mahavira.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain canon.
-- Rotation position: 10 -> B.
+- **A:** Incorrect: It conflicts with the precise jain canon benchmark; the defensible formulation is 'the conventional final redaction of the shvetambara canon.'. [Q10-A]
+- **B:** Correct: Valabhi belongs to later Shvetambara canonical memory, not the lifetime of Mahavira. It matches the tested Jain canon distinction without erasing chronology or source limits. [Q10-B]
+- **C:** Incorrect: It conflicts with the precise jain canon benchmark; the defensible formulation is 'the conventional final redaction of the shvetambara canon.'. [Q10-C]
+- **D:** Incorrect: It telescopes chronology or attributes a gradual development in jain canon to one beginning. [Q10-D]
 
-#### UPSC traps
+> **Examiner trap 10:** For Jain canon, fix the tradition and chronology before accepting a familiar term; question 10 specifically tests the boundary around The conventional final redaction of the Shvetambara canon.
 
-- **Wrong:** Translation literalism on Jain canon. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-- **Wrong:** Cross-tradition swap on Jain canon. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
+#### Q11
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 11 - Jain sites
+11
 
 Kankali Tila is especially useful for studying:
 
-#### Evidence / comparison matrix
+- A. The Pali council at Aluvihara, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | The Pali council at Aluvihara. |
-| B | Achaemenid rule in Gandhara. |
-| C | Early Jain images, ayagapatas and donor communities at Mathura. |
-| D | Buddha's enlightenment. |
+- B. Achaemenid rule in Gandhara, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Early Jain images, ayagapatas and donor communities at Mathura.
 
-- OPTIONS: A. The Pali council at Aluvihara. | B. Achaemenid rule in Gandhara. | C. Early Jain images, ayagapatas and donor communities at Mathura. | D. Buddha's enlightenment.
-- CORRECT ANSWER: C - Early Jain images, ayagapatas and donor communities at Mathura.
-- EXPLANATION: The site supplies material and inscriptional evidence for organized Jain life.
-- WHY THE DISTRACTORS FAIL: A ('The Pali council at Aluvihara') breaks the specific factual pairing the question is testing; C ('Buddha's enlightenment') breaks the specific factual pairing the question is testing; B ('Achaemenid rule in Gandhara') breaks the specific factual pairing the question is testing.
+- D. Buddha's enlightenment, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q11 key D; logic: The site supplies material and inscriptional evidence for organized Jain life.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain sites.
-- Rotation position: 11 -> C.
+- **A:** Incorrect: It conflicts with the precise jain sites benchmark; the defensible formulation is 'early jain images, ayagapatas and donor communities at mathura.'. [Q11-A]
+- **B:** Incorrect: It conflicts with the precise jain sites benchmark; the defensible formulation is 'early jain images, ayagapatas and donor communities at mathura.'. [Q11-B]
+- **C:** Correct: The site supplies material and inscriptional evidence for organized Jain life. It matches the tested Jain sites distinction without erasing chronology or source limits. [Q11-C]
+- **D:** Incorrect: It conflicts with the precise jain sites benchmark; the defensible formulation is 'early jain images, ayagapatas and donor communities at mathura.'. [Q11-D]
 
-#### UPSC traps
+> **Examiner trap 11:** For Jain sites, fix the tradition and chronology before accepting a familiar term; question 11 specifically tests the boundary around Early Jain images, ayagapatas and donor communities at Mathura.
 
-- **Wrong:** Chronology telescoping on Jain sites. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-- **Wrong:** Anachronism on Jain sites. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
+#### Q12
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 12 - Jain spread
+12
 
 The safest use of the Chandragupta-Bhadrabahu tradition is:
 
-#### Evidence / comparison matrix
+- A. As proof that Digambara and Shvetambara formed in one meeting.
 
-| Option | Choice |
-| --- | --- |
-| A | As proof that Digambara and Shvetambara formed in one meeting. |
-| B | As a contemporary Mauryan inscription. |
-| C | As evidence that Jainism began in Karnataka. |
-| D | As a later southern Jain memory requiring epigraphic caution. |
+- B. As a contemporary Mauryan inscription, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. As evidence that Jainism began in Karnataka, as though every school preserved the same chronology and canon.
 
-- OPTIONS: A. As proof that Digambara and Shvetambara formed in one meeting. | B. As a contemporary Mauryan inscription. | C. As evidence that Jainism began in Karnataka. | D. As a later southern Jain memory requiring epigraphic caution.
-- CORRECT ANSWER: D - As a later southern Jain memory requiring epigraphic caution.
-- EXPLANATION: Shravanabelagola's later epigraphic tradition cannot independently verify every early detail.
-- WHY THE DISTRACTORS FAIL: B ('As a contemporary Mauryan inscription') breaks the specific factual pairing the question is testing; D ('As proof that Digambara and Shvetambara formed in one meeting') misassigns the fact to the wrong tradition, sect or school; C ('As evidence that Jainism began in Karnataka') misassigns the fact to the wrong tradition, sect or school.
+- D. As a later southern Jain memory requiring epigraphic caution.
 
-> **Memory hook:** Q12 key A; logic: Shravanabelagola's later epigraphic tradition cannot independently verify every early detail.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain spread.
-- Rotation position: 12 -> D.
+- **A:** Incorrect: It conflicts with the precise jain spread benchmark; the defensible formulation is 'as a later southern jain memory requiring epigraphic caution.'. [Q12-A]
+- **B:** Incorrect: It conflicts with the precise jain spread benchmark; the defensible formulation is 'as a later southern jain memory requiring epigraphic caution.'. [Q12-B]
+- **C:** Incorrect: It telescopes chronology or attributes a gradual development in jain spread to one beginning. [Q12-C]
+- **D:** Correct: Shravanabelagola's later epigraphic tradition cannot independently verify every early detail. It matches the tested Jain spread distinction without erasing chronology or source limits. [Q12-D]
 
-#### UPSC traps
+> **Examiner trap 12:** For Jain spread, fix the tradition and chronology before accepting a familiar term; question 12 specifically tests the boundary around As a later southern Jain memory requiring epigraphic caution.
 
-- **Wrong:** Counter-example trap on Jain spread. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-- **Wrong:** Single-cause shortcut on Jain spread. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
+#### Q13
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 13 - Jain patronage
+13
 
 Which source most directly anchors Kharavela-era Jain patronage?
 
-#### Evidence / comparison matrix
+- A. The Hathigumpha inscription and Udayagiri-Khandagiri caves.
 
-| Option | Choice |
-| --- | --- |
-| A | The Hathigumpha inscription and Udayagiri-Khandagiri caves. |
-| B | The Milindapanha alone. |
-| C | The Rummindei pillar. |
-| D | The Allahabad pillar. |
+- B. The Milindapanha alone, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. The Rummindei pillar, without requiring textual, inscriptional or archaeological qualification.
 
-- OPTIONS: A. The Hathigumpha inscription and Udayagiri-Khandagiri caves. | B. The Milindapanha alone. | C. The Rummindei pillar. | D. The Allahabad pillar.
-- CORRECT ANSWER: A - The Hathigumpha inscription and Udayagiri-Khandagiri caves.
-- EXPLANATION: Hathigumpha is self-representational but provides a named Kalinga anchor.
-- WHY THE DISTRACTORS FAIL: C ('The Rummindei pillar') breaks the specific factual pairing the question is testing; B ('The Milindapanha alone') overclaims by turning a partial or context-bound truth into an absolute rule; D ('The Allahabad pillar') breaks the specific factual pairing the question is testing.
+- D. The Allahabad pillar, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q13 key A; logic: Hathigumpha is self-representational but provides a named Kalinga anchor.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain patronage.
-- Rotation position: 13 -> A.
+- **A:** Correct: Hathigumpha is self-representational but provides a named Kalinga anchor. It matches the tested Jain patronage distinction without erasing chronology or source limits. [Q13-A]
+- **B:** Incorrect: Its absolute wording turns a limited point about jain patronage into a universal claim. [Q13-B]
+- **C:** Incorrect: It conflicts with the precise jain patronage benchmark; the defensible formulation is 'the hathigumpha inscription and udayagiri-khandagiri caves.'. [Q13-C]
+- **D:** Incorrect: It conflicts with the precise jain patronage benchmark; the defensible formulation is 'the hathigumpha inscription and udayagiri-khandagiri caves.'. [Q13-D]
 
-#### UPSC traps
+> **Examiner trap 13:** For Jain patronage, fix the tradition and chronology before accepting a familiar term; question 13 specifically tests the boundary around The Hathigumpha inscription and Udayagiri-Khandagiri caves.
 
-- **Wrong:** Definition inversion on Jain patronage. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-- **Wrong:** Textbook over-neatness on Jain patronage. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
+#### Q14
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 14 - Jain gatis
+14
 
 The four principal Jain gatis include all except:
 
-#### Evidence / comparison matrix
+- A. Manushya.
 
-| Option | Choice |
-| --- | --- |
-| A | Manushya. |
-| B | Yaksha. |
-| C | Tiryancha. |
-| D | Deva. |
+- B. Yaksha.
 
-#### Core teaching / solved analysis
+- C. Tiryancha.
 
-- OPTIONS: A. Manushya. | B. Yaksha. | C. Tiryancha. | D. Deva.
-- CORRECT ANSWER: B - Yaksha.
-- EXPLANATION: The four are gods, humans, hell beings and animals/plants; yaksha is not the fourth category.
-- WHY THE DISTRACTORS FAIL: D ('Deva') breaks the specific factual pairing the question is testing; A ('Manushya') breaks the specific factual pairing the question is testing; B ('Tiryancha') breaks the specific factual pairing the question is testing.
+- D. Deva.
 
-> **Memory hook:** Q14 key C; logic: The four are gods, humans, hell beings and animals/plants; yaksha is not the fourth category.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Jain gatis.
-- Rotation position: 14 -> B.
+- **A:** Incorrect: It conflicts with the precise jain gatis benchmark; the defensible formulation is 'yaksha.'. [Q14-A]
+- **B:** Correct: The four are gods, humans, hell beings and animals/plants; yaksha is not the fourth category. It matches the tested Jain gatis distinction without erasing chronology or source limits. [Q14-B]
+- **C:** Incorrect: It conflicts with the precise jain gatis benchmark; the defensible formulation is 'yaksha.'. [Q14-C]
+- **D:** Incorrect: It conflicts with the precise jain gatis benchmark; the defensible formulation is 'yaksha.'. [Q14-D]
 
-#### UPSC traps
+> **Examiner trap 14:** For Jain gatis, fix the tradition and chronology before accepting a familiar term; question 14 specifically tests the boundary around Yaksha.
 
-- **Wrong:** Source-status trap on Jain gatis. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-- **Wrong:** Geography/site swap on Jain gatis. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
+#### Q15
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 15 - Four Truths
+15
 
 The first Noble Truth concerns:
 
-#### Evidence / comparison matrix
+- A. Ritual sacrifice, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | Ritual sacrifice. |
-| B | A creator god. |
-| C | Dukkha, the unsatisfactoriness of conditioned existence under clinging. |
-| D | The permanent soul. |
+- B. A creator god, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Dukkha, the unsatisfactoriness of conditioned existence under clinging.
 
-- OPTIONS: A. Ritual sacrifice. | B. A creator god. | C. Dukkha, the unsatisfactoriness of conditioned existence under clinging. | D. The permanent soul.
-- CORRECT ANSWER: C - Dukkha, the unsatisfactoriness of conditioned existence under clinging.
-- EXPLANATION: Dukkha is broader than pain and is linked causally to craving and ignorance.
-- WHY THE DISTRACTORS FAIL: C ('C creator god') breaks the specific factual pairing the question is testing; D ('The permanent soul') breaks the specific factual pairing the question is testing; A ('Ritual sacrifice') breaks the specific factual pairing the question is testing.
+- D. The permanent soul, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q15 key B; logic: Dukkha is broader than pain and is linked causally to craving and ignorance.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Four Truths.
-- Rotation position: 15 -> C.
+- **A:** Incorrect: It conflicts with the precise four truths benchmark; the defensible formulation is 'dukkha, the unsatisfactoriness of conditioned existence under clinging.'. [Q15-A]
+- **B:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the four truths distinction. [Q15-B]
+- **C:** Correct: Dukkha is broader than pain and is linked causally to craving and ignorance. It matches the tested Four Truths distinction without erasing chronology or source limits. [Q15-C]
+- **D:** Incorrect: It conflicts with the precise four truths benchmark; the defensible formulation is 'dukkha, the unsatisfactoriness of conditioned existence under clinging.'. [Q15-D]
 
-#### UPSC traps
+> **Examiner trap 15:** For Four Truths, fix the tradition and chronology before accepting a familiar term; question 15 specifically tests the boundary around Dukkha, the unsatisfactoriness of conditioned existence under clinging.
 
-- **Wrong:** Adjacent-topic bleed on Four Truths. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-- **Wrong:** Role/identity confusion on Four Truths. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
+#### Q16
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 16 - dependent origination
+16
 
 Dependent origination implies that:
 
-#### Evidence / comparison matrix
+- A. A permanent soul transmits unchanged, treated as a uniform rule across regions and historical phases.
 
-| Option | Choice |
-| --- | --- |
-| A | A permanent soul transmits unchanged. |
-| B | Events are fixed by fate. |
-| C | Craving is the first cosmic cause. |
-| D | Conditioned processes arise and cease with conditions. |
+- B. Events are fixed by fate, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. Craving is the first cosmic cause, as though every school preserved the same chronology and canon.
 
-- OPTIONS: A. A permanent soul transmits unchanged. | B. Events are fixed by fate. | C. Craving is the first cosmic cause. | D. Conditioned processes arise and cease with conditions.
-- CORRECT ANSWER: D - Conditioned processes arise and cease with conditions.
-- EXPLANATION: Conditionality allows cessation and denies both fatalism and an independent self.
-- WHY THE DISTRACTORS FAIL: B ('Events are fixed by fate') breaks the specific factual pairing the question is testing; A ('B permanent soul transmits unchanged') breaks the specific factual pairing the question is testing; D ('Craving is the first cosmic cause') misstates the chronology or sequence of development.
+- D. Conditioned processes arise and cease with conditions.
 
-> **Memory hook:** Q16 key C; logic: Conditionality allows cessation and denies both fatalism and an independent self.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: dependent origination.
-- Rotation position: 16 -> D.
+- **A:** Incorrect: It conflicts with the precise dependent origination benchmark; the defensible formulation is 'conditioned processes arise and cease with conditions.'. [Q16-A]
+- **B:** Incorrect: It conflicts with the precise dependent origination benchmark; the defensible formulation is 'conditioned processes arise and cease with conditions.'. [Q16-B]
+- **C:** Incorrect: It telescopes chronology or attributes a gradual development in dependent origination to one beginning. [Q16-C]
+- **D:** Correct: Conditionality allows cessation and denies both fatalism and an independent self. It matches the tested dependent origination distinction without erasing chronology or source limits. [Q16-D]
 
-#### UPSC traps
+> **Examiner trap 16:** For dependent origination, fix the tradition and chronology before accepting a familiar term; question 16 specifically tests the boundary around Conditioned processes arise and cease with conditions.
 
-- **Wrong:** Absolutiser wording on dependent origination. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-- **Wrong:** List-completeness bait on dependent origination. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
+#### Q17
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 17 - anatta
+17
 
 Buddhist anatta means:
 
-#### Evidence / comparison matrix
+- A. No permanent independent self can be identified in the aggregates.
 
-| Option | Choice |
-| --- | --- |
-| A | No permanent independent self can be identified in the aggregates. |
-| B | Every person has an eternal jiva. |
-| C | Nothing exists conventionally. |
-| D | No ethical consequences exist. |
+- B. Every person has an eternal jiva, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. Nothing exists conventionally, without requiring textual, inscriptional or archaeological qualification.
 
-- OPTIONS: A. No permanent independent self can be identified in the aggregates. | B. Every person has an eternal jiva. | C. Nothing exists conventionally. | D. No ethical consequences exist.
-- CORRECT ANSWER: A - No permanent independent self can be identified in the aggregates.
-- EXPLANATION: Causal continuity and karma remain without a permanent atman.
-- WHY THE DISTRACTORS FAIL: A ('No ethical consequences exist') breaks the specific factual pairing the question is testing; C ('Nothing exists conventionally') breaks the specific factual pairing the question is testing; B ('Every person has an eternal jiva') breaks the specific factual pairing the question is testing.
+- D. No ethical consequences exist, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q17 key D; logic: Causal continuity and karma remain without a permanent atman.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: anatta.
-- Rotation position: 17 -> A.
+- **A:** Correct: Causal continuity and karma remain without a permanent atman. It matches the tested anatta distinction without erasing chronology or source limits. [Q17-A]
+- **B:** Incorrect: Its absolute wording turns a limited point about anatta into a universal claim. [Q17-B]
+- **C:** Incorrect: It conflicts with the precise anatta benchmark; the defensible formulation is 'no permanent independent self can be identified in the aggregates.'. [Q17-C]
+- **D:** Incorrect: It conflicts with the precise anatta benchmark; the defensible formulation is 'no permanent independent self can be identified in the aggregates.'. [Q17-D]
 
-#### UPSC traps
+> **Examiner trap 17:** For anatta, fix the tradition and chronology before accepting a familiar term; question 17 specifically tests the boundary around No permanent independent self can be identified in the aggregates.
 
-- **Wrong:** Cross-tradition swap on anatta. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-- **Wrong:** False equivalence on anatta. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
+#### Q18
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 18 - Buddhist karma
+18
 
 Buddhist karma is best understood as:
 
-#### Evidence / comparison matrix
+- A. Inherited caste status alone, as though every school preserved the same chronology and canon.
 
-| Option | Choice |
-| --- | --- |
-| A | Inherited caste status alone. |
-| B | Intentional action with ethical causal consequences. |
-| C | Subtle material particles binding a soul. |
-| D | A divine reward ledger. |
+- B. Intentional action with ethical causal consequences.
 
-#### Core teaching / solved analysis
+- C. Subtle material particles binding a soul, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. Inherited caste status alone. | B. Intentional action with ethical causal consequences. | C. Subtle material particles binding a soul. | D. A divine reward ledger.
-- CORRECT ANSWER: B - Intentional action with ethical causal consequences.
-- EXPLANATION: This distinction is essential in Jain-Buddhist comparison.
-- WHY THE DISTRACTORS FAIL: C ('Subtle material particles binding a soul') breaks the specific factual pairing the question is testing; D ('C divine reward ledger') breaks the specific factual pairing the question is testing; A ('Inherited caste status alone') overclaims by turning a partial or context-bound truth into an absolute rule.
+- D. A divine reward ledger, without separating early teaching from later systematisation.
 
-> **Memory hook:** Q18 key B; logic: This distinction is essential in Jain-Buddhist comparison.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Buddhist karma.
-- Rotation position: 18 -> B.
+- **A:** Incorrect: Its absolute wording turns a limited point about buddhist karma into a universal claim. [Q18-A]
+- **B:** Correct: This distinction is essential in Jain-Buddhist comparison. It matches the tested Buddhist karma distinction without erasing chronology or source limits. [Q18-B]
+- **C:** Incorrect: It conflicts with the precise buddhist karma benchmark; the defensible formulation is 'intentional action with ethical causal consequences.'. [Q18-C]
+- **D:** Incorrect: It conflicts with the precise buddhist karma benchmark; the defensible formulation is 'intentional action with ethical causal consequences.'. [Q18-D]
 
-#### UPSC traps
+> **Examiner trap 18:** For Buddhist karma, fix the tradition and chronology before accepting a familiar term; question 18 specifically tests the boundary around Intentional action with ethical causal consequences.
 
-- **Wrong:** Anachronism on Buddhist karma. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-- **Wrong:** Translation literalism on Buddhist karma. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
+#### Q19
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 19 - nirvana
+19
 
 Nirvana is safest described as:
 
-#### Evidence / comparison matrix
+- A. Annihilation of a permanent atman, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | Annihilation of a permanent atman. |
-| B | Political equality. |
-| C | Cessation of greed, hatred and delusion and release from conditioned rebirth. |
-| D | A creator-god's heaven. |
+- B. Political equality, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Cessation of greed, hatred and delusion and release from conditioned rebirth.
 
-- OPTIONS: A. Annihilation of a permanent atman. | B. Political equality. | C. Cessation of greed, hatred and delusion and release from conditioned rebirth. | D. A creator-god's heaven.
-- CORRECT ANSWER: C - Cessation of greed, hatred and delusion and release from conditioned rebirth.
-- EXPLANATION: The teaching cannot be reduced to death or nonexistence.
-- WHY THE DISTRACTORS FAIL: D ('D creator-god's heaven') breaks the specific factual pairing the question is testing; A ('Annihilation of a permanent atman') breaks the specific factual pairing the question is testing; B ('Political equality') breaks the specific factual pairing the question is testing.
+- D. A creator-god's heaven, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q19 key C; logic: The teaching cannot be reduced to death or nonexistence.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: nirvana.
-- Rotation position: 19 -> C.
+- **A:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the nirvana distinction. [Q19-A]
+- **B:** Incorrect: It conflicts with the precise nirvana benchmark; the defensible formulation is 'cessation of greed, hatred and delusion and release from conditioned rebirth.'. [Q19-B]
+- **C:** Correct: The teaching cannot be reduced to death or nonexistence. It matches the tested nirvana distinction without erasing chronology or source limits. [Q19-C]
+- **D:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the nirvana distinction. [Q19-D]
 
-#### UPSC traps
+> **Examiner trap 19:** For nirvana, fix the tradition and chronology before accepting a familiar term; question 19 specifically tests the boundary around Cessation of greed, hatred and delusion and release from conditioned rebirth.
 
-- **Wrong:** Single-cause shortcut on nirvana. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-- **Wrong:** Chronology telescoping on nirvana. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
+#### Q20
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 20 - Vinaya
+20
 
 The Vinaya Pitaka primarily concerns:
 
-#### Evidence / comparison matrix
+- A. Royal genealogies, treated as a uniform rule across regions and historical phases.
 
-| Option | Choice |
-| --- | --- |
-| A | Royal genealogies. |
-| B | Only philosophical emptiness. |
-| C | Jain lay vows. |
-| D | Monastic discipline, procedures and rules. |
+- B. Only philosophical emptiness, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. Jain lay vows, as though every school preserved the same chronology and canon.
 
-- OPTIONS: A. Royal genealogies. | B. Only philosophical emptiness. | C. Jain lay vows. | D. Monastic discipline, procedures and rules.
-- CORRECT ANSWER: D - Monastic discipline, procedures and rules.
-- EXPLANATION: Vinaya is institution history as well as norm, though traditions preserve different Vinayas.
-- WHY THE DISTRACTORS FAIL: A ('Royal genealogies') breaks the specific factual pairing the question is testing; B ('Only philosophical emptiness') overclaims by turning a partial or context-bound truth into an absolute rule; C ('Jain lay vows') misassigns the fact to the wrong tradition, sect or school.
+- D. Monastic discipline, procedures and rules.
 
-> **Memory hook:** Q20 key D; logic: Vinaya is institution history as well as norm, though traditions preserve different Vinayas.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Vinaya.
-- Rotation position: 20 -> D.
+- **A:** Incorrect: It conflicts with the precise vinaya benchmark; the defensible formulation is 'monastic discipline, procedures and rules.'. [Q20-A]
+- **B:** Incorrect: It conflicts with the precise vinaya benchmark; the defensible formulation is 'monastic discipline, procedures and rules.'. [Q20-B]
+- **C:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the vinaya distinction. [Q20-C]
+- **D:** Correct: Vinaya is institution history as well as norm, though traditions preserve different Vinayas. It matches the tested Vinaya distinction without erasing chronology or source limits. [Q20-D]
 
-#### UPSC traps
+> **Examiner trap 20:** For Vinaya, fix the tradition and chronology before accepting a familiar term; question 20 specifically tests the boundary around Monastic discipline, procedures and rules.
 
-- **Wrong:** Textbook over-neatness on Vinaya. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-- **Wrong:** Counter-example trap on Vinaya. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
+#### Q21
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 21 - lay support
+21
 
 Which pair best illustrates Buddhist lay patronage in texts?
 
-#### Evidence / comparison matrix
+- A. Anathapindika and Visakha.
 
-| Option | Choice |
-| --- | --- |
-| A | Anathapindika and Visakha. |
-| B | Kharavela and Rudradaman. |
-| C | Gargi and Maitreyi. |
-| D | Bhadrabahu and Sthulabhadra. |
+- B. Kharavela and Rudradaman.
 
-#### Core teaching / solved analysis
+- C. Gargi and Maitreyi.
 
-- OPTIONS: A. Anathapindika and Visakha. | B. Kharavela and Rudradaman. | C. Gargi and Maitreyi. | D. Bhadrabahu and Sthulabhadra.
-- CORRECT ANSWER: A - Anathapindika and Visakha.
-- EXPLANATION: Textual examples should be supplemented by inscriptions from multi-social donors.
-- WHY THE DISTRACTORS FAIL: C ('Gargi and Maitreyi') breaks the specific factual pairing the question is testing; D ('Bhadrabahu and Sthulabhadra') breaks the specific factual pairing the question is testing; A ('Kharavela and Rudradaman') breaks the specific factual pairing the question is testing.
+- D. Bhadrabahu and Sthulabhadra.
 
-> **Memory hook:** Q21 key B; logic: Textual examples should be supplemented by inscriptions from multi-social donors.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: lay support.
-- Rotation position: 21 -> A.
+- **A:** Correct: Textual examples should be supplemented by inscriptions from multi-social donors. It matches the tested lay support distinction without erasing chronology or source limits. [Q21-A]
+- **B:** Incorrect: It conflicts with the precise lay support benchmark; the defensible formulation is 'anathapindika and visakha.'. [Q21-B]
+- **C:** Incorrect: It conflicts with the precise lay support benchmark; the defensible formulation is 'anathapindika and visakha.'. [Q21-C]
+- **D:** Incorrect: It conflicts with the precise lay support benchmark; the defensible formulation is 'anathapindika and visakha.'. [Q21-D]
 
-#### UPSC traps
+> **Examiner trap 21:** For lay support, fix the tradition and chronology before accepting a familiar term; question 21 specifically tests the boundary around Anathapindika and Visakha.
 
-- **Wrong:** Geography/site swap on lay support. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-- **Wrong:** Definition inversion on lay support. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
+#### Q22
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 22 - social access
+22
 
 Which is the most defensible statement on Buddhism and caste?
 
-#### Evidence / comparison matrix
+- A. It admitted no lower-status followers, as though every school preserved the same chronology and canon.
 
-| Option | Choice |
-| --- | --- |
-| A | It admitted no lower-status followers. |
-| B | It challenged birth superiority and widened religious access without abolishing caste society. |
-| C | It accepted birth as the sole basis of worth. |
-| D | It legally abolished varna in all kingdoms. |
+- B. It challenged birth superiority and widened religious access without abolishing caste society.
 
-#### Core teaching / solved analysis
+- C. It accepted birth as the sole basis of worth, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. It admitted no lower-status followers. | B. It challenged birth superiority and widened religious access without abolishing caste society. | C. It accepted birth as the sole basis of worth. | D. It legally abolished varna in all kingdoms.
-- CORRECT ANSWER: B - It challenged birth superiority and widened religious access without abolishing caste society.
-- EXPLANATION: A nuanced answer distinguishes salvific access from total social revolution.
-- WHY THE DISTRACTORS FAIL: D ('It legally abolished varna in all kingdoms') breaks the specific factual pairing the question is testing; C ('It accepted birth as the sole basis of worth') breaks the specific factual pairing the question is testing; B ('It admitted no lower-status followers') breaks the specific factual pairing the question is testing.
+- D. It legally abolished varna in all kingdoms, without separating early teaching from later systematisation.
 
-> **Memory hook:** Q22 key D; logic: D nuanced answer distinguishes salvific access from total social revolution.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: social access.
-- Rotation position: 22 -> B.
+- **A:** Incorrect: It conflicts with the precise social access benchmark; the defensible formulation is 'it challenged birth superiority and widened religious access without abolishing caste society.'. [Q22-A]
+- **B:** Correct: A nuanced answer distinguishes salvific access from total social revolution. It matches the tested social access distinction without erasing chronology or source limits. [Q22-B]
+- **C:** Incorrect: It conflicts with the precise social access benchmark; the defensible formulation is 'it challenged birth superiority and widened religious access without abolishing caste society.'. [Q22-C]
+- **D:** Incorrect: Its absolute wording turns a limited point about social access into a universal claim. [Q22-D]
 
-#### UPSC traps
+> **Examiner trap 22:** For social access, fix the tradition and chronology before accepting a familiar term; question 22 specifically tests the boundary around It challenged birth superiority and widened religious access without abolishing caste society.
 
-- **Wrong:** Role/identity confusion on social access. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-- **Wrong:** Source-status trap on social access. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
+#### Q23
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 23 - women
+23
 
 Therigatha is historically valuable because it preserves:
 
-#### Evidence / comparison matrix
+- A. Ashoka's edicts, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | Ashoka's edicts. |
-| B | Kanishka's inscriptional council minutes. |
-| C | Verses attributed to early Buddhist nuns, through a later transmitted collection. |
-| D | The Digambara canon. |
+- B. Kanishka's inscriptional council minutes, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Verses attributed to early Buddhist nuns, through a later transmitted collection.
 
-- OPTIONS: A. Ashoka's edicts. | B. Kanishka's inscriptional council minutes. | C. Verses attributed to early Buddhist nuns, through a later transmitted collection. | D. The Digambara canon.
-- CORRECT ANSWER: C - Verses attributed to early Buddhist nuns, through a later transmitted collection.
-- EXPLANATION: It offers female renunciant voices but remains a redacted textual source.
-- WHY THE DISTRACTORS FAIL: A ('Ashoka's edicts') breaks the specific factual pairing the question is testing; D ('The Digambara canon') misassigns the fact to the wrong tradition, sect or school; C ('Kanishka's inscriptional council minutes') breaks the specific factual pairing the question is testing.
+- D. The Digambara canon, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q23 key B; logic: It offers female renunciant voices but remains a redacted textual source.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: women.
-- Rotation position: 23 -> C.
+- **A:** Incorrect: It conflicts with the precise women benchmark; the defensible formulation is 'verses attributed to early buddhist nuns, through a later transmitted collection.'. [Q23-A]
+- **B:** Incorrect: It conflicts with the precise women benchmark; the defensible formulation is 'verses attributed to early buddhist nuns, through a later transmitted collection.'. [Q23-B]
+- **C:** Correct: It offers female renunciant voices but remains a redacted textual source. It matches the tested women distinction without erasing chronology or source limits. [Q23-C]
+- **D:** Incorrect: It conflicts with the precise women benchmark; the defensible formulation is 'verses attributed to early buddhist nuns, through a later transmitted collection.'. [Q23-D]
 
-#### UPSC traps
+> **Examiner trap 23:** For women, fix the tradition and chronology before accepting a familiar term; question 23 specifically tests the boundary around Verses attributed to early Buddhist nuns, through a later transmitted collection.
 
-- **Wrong:** List-completeness bait on women. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
-- **Wrong:** Adjacent-topic bleed on women. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
+#### Q24
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 24 - councils
+24
 
 Which council is conventionally linked to a Vinaya dispute at Vaishali?
 
-#### Evidence / comparison matrix
+- A. The first Jain council.
 
-| Option | Choice |
-| --- | --- |
-| A | The first Jain council. |
-| B | Kanishka's northern council. |
-| C | The Valabhi redaction. |
-| D | The second Buddhist council. |
+- B. Kanishka's northern council, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. The Valabhi redaction.
 
-- OPTIONS: A. The first Jain council. | B. Kanishka's northern council. | C. The Valabhi redaction. | D. The second Buddhist council.
-- CORRECT ANSWER: D - The second Buddhist council.
-- EXPLANATION: The ten practices and exact schism relation vary in later accounts.
-- WHY THE DISTRACTORS FAIL: A ('The first Jain council') misassigns the fact to the wrong tradition, sect or school; D ('Kanishka's northern council') breaks the specific factual pairing the question is testing; C ('The Valabhi redaction') breaks the specific factual pairing the question is testing.
+- D. The second Buddhist council.
 
-> **Memory hook:** Q24 key B; logic: The ten practices and exact schism relation vary in later accounts.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: councils.
-- Rotation position: 24 -> D.
+- **A:** Incorrect: It telescopes chronology or attributes a gradual development in councils to one beginning. [Q24-A]
+- **B:** Incorrect: It conflicts with the precise councils benchmark; the defensible formulation is 'the second buddhist council.'. [Q24-B]
+- **C:** Incorrect: It conflicts with the precise councils benchmark; the defensible formulation is 'the second buddhist council.'. [Q24-C]
+- **D:** Correct: The ten practices and exact schism relation vary in later accounts. It matches the tested councils distinction without erasing chronology or source limits. [Q24-D]
 
-#### UPSC traps
+> **Examiner trap 24:** For councils, fix the tradition and chronology before accepting a familiar term; question 24 specifically tests the boundary around The second Buddhist council.
 
-- **Wrong:** False equivalence on councils. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-- **Wrong:** Absolutiser wording on councils. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
+#### Q25
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 25 - councils
+25
 
 Why is 'the fourth Buddhist council' ambiguous?
 
-#### Evidence / comparison matrix
+- A. Northern Kanishka and Sri Lankan Aluvihara traditions use different fourth-council memories.
 
-| Option | Choice |
-| --- | --- |
-| A | Northern Kanishka and Sri Lankan Aluvihara traditions use different fourth-council memories. |
-| B | It always means Valabhi. |
-| C | It occurred before the Buddha. |
-| D | No Buddhist text mentions councils. |
+- B. It always means Valabhi, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. It occurred before the Buddha, without requiring textual, inscriptional or archaeological qualification.
 
-- OPTIONS: A. Northern Kanishka and Sri Lankan Aluvihara traditions use different fourth-council memories. | B. It always means Valabhi. | C. It occurred before the Buddha. | D. No Buddhist text mentions councils.
-- CORRECT ANSWER: A - Northern Kanishka and Sri Lankan Aluvihara traditions use different fourth-council memories.
-- EXPLANATION: Numbering hides school and regional differences.
-- WHY THE DISTRACTORS FAIL: D ('No Buddhist text mentions councils') misassigns the fact to the wrong tradition, sect or school; B ('It always means Valabhi') overclaims by turning a partial or context-bound truth into an absolute rule; C ('It occurred before the Buddha') misstates the chronology or sequence of development.
+- D. No Buddhist text mentions councils, treated as a uniform rule across regions and historical phases.
 
-> **Memory hook:** Q25 key A; logic: Numbering hides school and regional differences.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: councils.
-- Rotation position: 25 -> A.
+- **A:** Correct: Numbering hides school and regional differences. It matches the tested councils distinction without erasing chronology or source limits. [Q25-A]
+- **B:** Incorrect: Its absolute wording turns a limited point about councils into a universal claim. [Q25-B]
+- **C:** Incorrect: It conflicts with the precise councils benchmark; the defensible formulation is 'northern kanishka and sri lankan aluvihara traditions use different fourth-council memories.'. [Q25-C]
+- **D:** Incorrect: It conflicts with the precise councils benchmark; the defensible formulation is 'northern kanishka and sri lankan aluvihara traditions use different fourth-council memories.'. [Q25-D]
 
-#### UPSC traps
+> **Examiner trap 25:** For councils, fix the tradition and chronology before accepting a familiar term; question 25 specifically tests the boundary around Northern Kanishka and Sri Lankan Aluvihara traditions use different fourth-council memories.
 
-- **Wrong:** Translation literalism on councils. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-- **Wrong:** Cross-tradition swap on councils. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
+#### Q26
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 26 - canons
+26
 
 The complete Pali Tipitaka is the canon of:
 
-#### Evidence / comparison matrix
+- A. All Mahayana schools universally.
 
-| Option | Choice |
-| --- | --- |
-| A | All Mahayana schools universally. |
-| B | Theravada. |
-| C | Ajivikas. |
-| D | Digambara Jainism. |
+- B. Theravada, within the stated chronological and evidentiary limits.
 
-#### Core teaching / solved analysis
+- C. Ajivikas, treated as a uniform rule across regions and historical phases.
 
-- OPTIONS: A. All Mahayana schools universally. | B. Theravada. | C. Ajivikas. | D. Digambara Jainism.
-- CORRECT ANSWER: B - Theravada.
-- EXPLANATION: It is indispensable but not the universal Buddhist canon.
-- WHY THE DISTRACTORS FAIL: A ('All Mahayana schools universally') overclaims by turning a partial or context-bound truth into an absolute rule; D ('Digambara Jainism') misassigns the fact to the wrong tradition, sect or school; C ('Ajivikas') breaks the specific factual pairing the question is testing.
+- D. Digambara Jainism, without separating early teaching from later systematisation.
 
-> **Memory hook:** Q26 key B; logic: It is indispensable but not the universal Buddhist canon.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: canons.
-- Rotation position: 26 -> B.
+- **A:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the canons distinction. [Q26-A]
+- **B:** Correct: It is indispensable but not the universal Buddhist canon. It matches the tested canons distinction without erasing chronology or source limits. [Q26-B]
+- **C:** Incorrect: It conflicts with the precise canons benchmark; the defensible formulation is 'theravada.'. [Q26-C]
+- **D:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the canons distinction. [Q26-D]
 
-#### UPSC traps
+> **Examiner trap 26:** For canons, fix the tradition and chronology before accepting a familiar term; question 26 specifically tests the boundary around Theravada.
 
-- **Wrong:** Chronology telescoping on canons. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-- **Wrong:** Anachronism on canons. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
+#### Q27
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 27 - canons
+27
 
 Chinese Buddhist translations are crucial because they:
 
-#### Evidence / comparison matrix
+- A. Replace the need for source criticism, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | Replace the need for source criticism. |
-| B | Are all eyewitness records of the Buddha. |
-| C | Preserve Agamas, Vinayas and Indic works lost in original languages. |
-| D | Prove every Sanskrit text was Mahayana. |
+- B. Are all eyewitness records of the Buddha, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. Preserve Agamas, Vinayas and Indic works lost in original languages.
 
-- OPTIONS: A. Replace the need for source criticism. | B. Are all eyewitness records of the Buddha. | C. Preserve Agamas, Vinayas and Indic works lost in original languages. | D. Prove every Sanskrit text was Mahayana.
-- CORRECT ANSWER: C - Preserve Agamas, Vinayas and Indic works lost in original languages.
-- EXPLANATION: Translation date and vocabulary must still be evaluated.
-- WHY THE DISTRACTORS FAIL: B ('Are all eyewitness records of the Buddha') breaks the specific factual pairing the question is testing; D ('Prove every Sanskrit text was Mahayana') misassigns the fact to the wrong tradition, sect or school; A ('Replace the need for source criticism') breaks the specific factual pairing the question is testing.
+- D. Prove every Sanskrit text was Mahayana, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q27 key C; logic: Translation date and vocabulary must still be evaluated.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: canons.
-- Rotation position: 27 -> C.
+- **A:** Incorrect: It conflicts with the precise canons benchmark; the defensible formulation is 'preserve agamas, vinayas and indic works lost in original languages.'. [Q27-A]
+- **B:** Incorrect: Its absolute wording turns a limited point about canons into a universal claim. [Q27-B]
+- **C:** Correct: Translation date and vocabulary must still be evaluated. It matches the tested canons distinction without erasing chronology or source limits. [Q27-C]
+- **D:** Incorrect: Its absolute wording turns a limited point about canons into a universal claim. [Q27-D]
 
-#### UPSC traps
+> **Examiner trap 27:** For canons, fix the tradition and chronology before accepting a familiar term; question 27 specifically tests the boundary around Preserve Agamas, Vinayas and Indic works lost in original languages.
 
-- **Wrong:** Counter-example trap on canons. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-- **Wrong:** Single-cause shortcut on canons. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
+#### Q28
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 28 - terminology
+28
 
 Theravada should not be equated simply with Hinayana because:
 
-#### Evidence / comparison matrix
+- A. Theravada began under Kanishka, treated as a uniform rule across regions and historical phases.
 
-| Option | Choice |
-| --- | --- |
-| A | Theravada began under Kanishka. |
-| B | Hinayana means Vajrayana. |
-| C | Theravada is a Jain sect. |
-| D | Hinayana is a later polemical label covering supposed lesser vehicles. |
+- B. Hinayana means Vajrayana, without separating early teaching from later systematisation.
 
-#### Core teaching / solved analysis
+- C. Theravada is a Jain sect, as though every school preserved the same chronology and canon.
 
-- OPTIONS: A. Theravada began under Kanishka. | B. Hinayana means Vajrayana. | C. Theravada is a Jain sect. | D. Hinayana is a later polemical label covering supposed lesser vehicles.
-- CORRECT ANSWER: D - Hinayana is a later polemical label covering supposed lesser vehicles.
-- EXPLANATION: Use precise lineage and canon terms instead of a polemical shortcut.
-- WHY THE DISTRACTORS FAIL: D ('Theravada is a Jain sect') misassigns the fact to the wrong tradition, sect or school; A ('Theravada began under Kanishka') misassigns the fact to the wrong tradition, sect or school; B ('Hinayana means Vajrayana') misassigns the fact to the wrong tradition, sect or school.
+- D. Hinayana is a later polemical label covering supposed lesser vehicles.
 
-> **Memory hook:** Q28 key C; logic: Use precise lineage and canon terms instead of a polemical shortcut.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: terminology.
-- Rotation position: 28 -> D.
+- **A:** Incorrect: It telescopes chronology or attributes a gradual development in terminology to one beginning. [Q28-A]
+- **B:** Incorrect: It conflicts with the precise terminology benchmark; the defensible formulation is 'hinayana is a later polemical label covering supposed lesser vehicles.'. [Q28-B]
+- **C:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the terminology distinction. [Q28-C]
+- **D:** Correct: Use precise lineage and canon terms instead of a polemical shortcut. It matches the tested terminology distinction without erasing chronology or source limits. [Q28-D]
 
-#### UPSC traps
+> **Examiner trap 28:** For terminology, fix the tradition and chronology before accepting a familiar term; question 28 specifically tests the boundary around Hinayana is a later polemical label covering supposed lesser vehicles.
 
-- **Wrong:** Definition inversion on terminology. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-- **Wrong:** Textbook over-neatness on terminology. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
+#### Q29
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 29 - Sanghabhuti
+29
 
 Sanghabhuti is associated with a commentary on:
 
-#### Evidence / comparison matrix
+- A. Sarvastivada Vinaya.
 
-| Option | Choice |
-| --- | --- |
-| A | Sarvastivada Vinaya. |
-| B | Rig Veda. |
-| C | Jain Acharanga. |
-| D | Pali Visuddhimagga. |
+- B. Rig Veda, as though every school preserved the same chronology and canon.
 
-#### Core teaching / solved analysis
+- C. Jain Acharanga.
 
-- OPTIONS: A. Sarvastivada Vinaya. | B. Rig Veda. | C. Jain Acharanga. | D. Pali Visuddhimagga.
-- CORRECT ANSWER: A - Sarvastivada Vinaya.
-- EXPLANATION: He must be distinguished from Sanghabhadra and from Theravada.
-- WHY THE DISTRACTORS FAIL: A ('Pali Visuddhimagga') breaks the specific factual pairing the question is testing; C ('Jain Acharanga') misassigns the fact to the wrong tradition, sect or school; B ('Rig Veda') breaks the specific factual pairing the question is testing.
+- D. Pali Visuddhimagga.
 
-> **Memory hook:** Q29 key D; logic: He must be distinguished from Sanghabhadra and from Theravada.
+**Answer: A.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Sanghabhuti.
-- Rotation position: 29 -> A.
+- **A:** Correct: He must be distinguished from Sanghabhadra and from Theravada. It matches the tested Sanghabhuti distinction without erasing chronology or source limits. [Q29-A]
+- **B:** Incorrect: It conflicts with the precise sanghabhuti benchmark; the defensible formulation is 'sarvastivada vinaya.'. [Q29-B]
+- **C:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the sanghabhuti distinction. [Q29-C]
+- **D:** Incorrect: It conflicts with the precise sanghabhuti benchmark; the defensible formulation is 'sarvastivada vinaya.'. [Q29-D]
 
-#### UPSC traps
+> **Examiner trap 29:** For Sanghabhuti, fix the tradition and chronology before accepting a familiar term; question 29 specifically tests the boundary around Sarvastivada Vinaya.
 
-- **Wrong:** Source-status trap on Sanghabhuti. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-- **Wrong:** Geography/site swap on Sanghabhuti. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
+#### Q30
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 30 - regional schools
+30
 
 Dhanyakataka was a major Buddhist centre in:
 
-#### Evidence / comparison matrix
+- A. Gandhara.
 
-| Option | Choice |
-| --- | --- |
-| A | Gandhara. |
-| B | Andhra. |
-| C | Magadha. |
-| D | Kashmir. |
+- B. Andhra.
 
-#### Core teaching / solved analysis
+- C. Magadha.
 
-- OPTIONS: A. Gandhara. | B. Andhra. | C. Magadha. | D. Kashmir.
-- CORRECT ANSWER: B - Andhra.
-- EXPLANATION: It belongs to the lower Krishna Buddhist zone and Mahasanghika context.
-- WHY THE DISTRACTORS FAIL: C ('Magadha') breaks the specific factual pairing the question is testing; A ('Gandhara') breaks the specific factual pairing the question is testing; B ('Kashmir') breaks the specific factual pairing the question is testing.
+- D. Kashmir.
 
-> **Memory hook:** Q30 key D; logic: It belongs to the lower Krishna Buddhist zone and Mahasanghika context.
+**Answer: B.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: regional schools.
-- Rotation position: 30 -> B.
+- **A:** Incorrect: It conflicts with the precise regional schools benchmark; the defensible formulation is 'andhra.'. [Q30-A]
+- **B:** Correct: It belongs to the lower Krishna Buddhist zone and Mahasanghika context. It matches the tested regional schools distinction without erasing chronology or source limits. [Q30-B]
+- **C:** Incorrect: It conflicts with the precise regional schools benchmark; the defensible formulation is 'andhra.'. [Q30-C]
+- **D:** Incorrect: It conflicts with the precise regional schools benchmark; the defensible formulation is 'andhra.'. [Q30-D]
 
-#### UPSC traps
+> **Examiner trap 30:** For regional schools, fix the tradition and chronology before accepting a familiar term; question 30 specifically tests the boundary around Andhra.
 
-- **Wrong:** Adjacent-topic bleed on regional schools. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-- **Wrong:** Role/identity confusion on regional schools. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
+#### Q31
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 31 - Maitreya
+31
 
 Maitreya is:
 
-#### Evidence / comparison matrix
+- A. The author of Madhyamaka, without requiring textual, inscriptional or archaeological qualification.
 
-| Option | Choice |
-| --- | --- |
-| A | The author of Madhyamaka. |
-| B | Only another name for Avalokiteshvara. |
-| C | The future Buddha in both Theravada and Mahayana traditions. |
-| D | A past Jain Tirthankara. |
+- B. Only another name for Avalokiteshvara, treated as a uniform rule across regions and historical phases.
 
-#### Core teaching / solved analysis
+- C. The future Buddha in both Theravada and Mahayana traditions.
 
-- OPTIONS: A. The author of Madhyamaka. | B. Only another name for Avalokiteshvara. | C. The future Buddha in both Theravada and Mahayana traditions. | D. A past Jain Tirthankara.
-- CORRECT ANSWER: C - The future Buddha in both Theravada and Mahayana traditions.
-- EXPLANATION: In Mahayana he is also a Bodhisattva in Tushita, but the expectation is wider.
-- WHY THE DISTRACTORS FAIL: D ('D past Jain Tirthankara') misassigns the fact to the wrong tradition, sect or school; B ('Only another name for Avalokiteshvara') overclaims by turning a partial or context-bound truth into an absolute rule; A ('The author of Madhyamaka') breaks the specific factual pairing the question is testing.
+- D. A past Jain Tirthankara, as though every school preserved the same chronology and canon.
 
-> **Memory hook:** Q31 key C; logic: In Mahayana he is also a Bodhisattva in Tushita, but the expectation is wider.
+**Answer: C.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Maitreya.
-- Rotation position: 31 -> C.
+- **A:** Incorrect: It conflicts with the precise maitreya benchmark; the defensible formulation is 'the future buddha in both theravada and mahayana traditions.'. [Q31-A]
+- **B:** Incorrect: It conflicts with the precise maitreya benchmark; the defensible formulation is 'the future buddha in both theravada and mahayana traditions.'. [Q31-B]
+- **C:** Correct: In Mahayana he is also a Bodhisattva in Tushita, but the expectation is wider. It matches the tested Maitreya distinction without erasing chronology or source limits. [Q31-C]
+- **D:** Incorrect: It transfers a doctrine or label across traditions instead of preserving the maitreya distinction. [Q31-D]
 
-#### UPSC traps
+> **Examiner trap 31:** For Maitreya, fix the tradition and chronology before accepting a familiar term; question 31 specifically tests the boundary around The future Buddha in both Theravada and Mahayana traditions.
 
-- **Wrong:** Absolutiser wording on Maitreya. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-- **Wrong:** List-completeness bait on Maitreya. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
+#### Q32
 
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 32 - Paramitas
+32
 
 Which list gives the six common Mahayana paramitas?
 
-#### Evidence / comparison matrix
+- A. Buddha, Dhamma, Sangha, stupa, chaitya, vihara, treated as a uniform rule across regions and historical phases.
 
-| Option | Choice |
-| --- | --- |
-| A | Buddha, Dhamma, Sangha, stupa, chaitya, vihara. |
-| B | Ahimsa, satya, asteya, brahmacharya, aparigraha, yajna. |
-| C | Form, feeling, perception, formations, consciousness, soul. |
-| D | Dana, shila, kshanti, virya, dhyana, prajna. |
+- B. Ahimsa, satya, asteya, brahmacharya, aparigraha, yajna.
 
-#### Core teaching / solved analysis
+- C. Form, feeling, perception, formations, consciousness, soul.
 
-- OPTIONS: A. Buddha, Dhamma, Sangha, stupa, chaitya, vihara. | B. Ahimsa, satya, asteya, brahmacharya, aparigraha, yajna. | C. Form, feeling, perception, formations, consciousness, soul. | D. Dana, shila, kshanti, virya, dhyana, prajna.
-- CORRECT ANSWER: D - Dana, shila, kshanti, virya, dhyana, prajna.
-- EXPLANATION: Some traditions expand the six to ten; the six are a core PYQ list.
-- WHY THE DISTRACTORS FAIL: B ('Ahimsa, satya, asteya, brahmacharya, aparigraha, yajna') breaks the specific factual pairing the question is testing; C ('Form, feeling, perception, formations, consciousness, soul') breaks the specific factual pairing the question is testing; A ('Buddha, Dhamma, Sangha, stupa, chaitya, vihara') breaks the specific factual pairing the question is testing.
+- D. Dana, shila, kshanti, virya, dhyana, prajna, within the stated chronological and evidentiary limits.
 
-> **Memory hook:** Q32 key D; logic: Some traditions expand the six to ten; the six are a core PYQ list.
+**Answer: D.**
 
-#### Must-know facts
+**Option-wise explanation:**
 
-- Coverage area: Paramitas.
-- Rotation position: 32 -> D.
+- **A:** Incorrect: It conflicts with the precise paramitas benchmark; the defensible formulation is 'dana, shila, kshanti, virya, dhyana, prajna.'. [Q32-A]
+- **B:** Incorrect: It conflicts with the precise paramitas benchmark; the defensible formulation is 'dana, shila, kshanti, virya, dhyana, prajna.'. [Q32-B]
+- **C:** Incorrect: It conflicts with the precise paramitas benchmark; the defensible formulation is 'dana, shila, kshanti, virya, dhyana, prajna.'. [Q32-C]
+- **D:** Correct: Some traditions expand the six to ten; the six are a core PYQ list. It matches the tested Paramitas distinction without erasing chronology or source limits. [Q32-D]
 
-#### UPSC traps
-
-- **Wrong:** Cross-tradition swap on Paramitas. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-- **Wrong:** False equivalence on Paramitas. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 33 - Madhyamaka
-
-Madhyamaka shunyata means:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Phenomena lack independent inherent existence because they arise dependently. |
-| B | Karmic matter covers jiva. |
-| C | Absolutely nothing exists. |
-| D | Only one cosmic self is real. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Phenomena lack independent inherent existence because they arise dependently. | B. Karmic matter covers jiva. | C. Absolutely nothing exists. | D. Only one cosmic self is real.
-- CORRECT ANSWER: A - Phenomena lack independent inherent existence because they arise dependently.
-- EXPLANATION: Emptiness is not a substance or nihilism.
-- WHY THE DISTRACTORS FAIL: C ('Absolutely nothing exists') breaks the specific factual pairing the question is testing; D ('Only one cosmic self is real') overclaims by turning a partial or context-bound truth into an absolute rule; A ('Karmic matter covers jiva') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q33 key B; logic: Emptiness is not a substance or nihilism.
-
-#### Must-know facts
-
-- Coverage area: Madhyamaka.
-- Rotation position: 33 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Anachronism on Madhyamaka. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-- **Wrong:** Translation literalism on Madhyamaka. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 34 - Yogacara
-
-Yogacara is most safely linked with:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Mahavira and material karma. |
-| B | Asanga, Vasubandhu and analysis of consciousness/representation. |
-| C | Kharavela and caves. |
-| D | Upali and first-council Vinaya only. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Mahavira and material karma. | B. Asanga, Vasubandhu and analysis of consciousness/representation. | C. Kharavela and caves. | D. Upali and first-council Vinaya only.
-- CORRECT ANSWER: B - Asanga, Vasubandhu and analysis of consciousness/representation.
-- EXPLANATION: Avoid reducing it to Western-style solipsism.
-- WHY THE DISTRACTORS FAIL: A ('Mahavira and material karma') breaks the specific factual pairing the question is testing; C ('Kharavela and caves') breaks the specific factual pairing the question is testing; D ('Upali and first-council Vinaya only') overclaims by turning a partial or context-bound truth into an absolute rule.
-
-> **Memory hook:** Q34 key B; logic: Avoid reducing it to Western-style solipsism.
-
-#### Must-know facts
-
-- Coverage area: Yogacara.
-- Rotation position: 34 -> B.
-
-#### UPSC traps
-
-- **Wrong:** Single-cause shortcut on Yogacara. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-- **Wrong:** Chronology telescoping on Yogacara. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 35 - Vajrayana
-
-Which best dates Vajrayana?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The Buddha's original sixth-century BCE council. |
-| B | A colonial reconstruction without ancient texts. |
-| C | A later development within Mahayana environments, especially from the mid-first millennium CE. |
-| D | A pre-Mahavira Jain school. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The Buddha's original sixth-century BCE council. | B. A colonial reconstruction without ancient texts. | C. A later development within Mahayana environments, especially from the mid-first millennium CE. | D. A pre-Mahavira Jain school.
-- CORRECT ANSWER: C - A later development within Mahayana environments, especially from the mid-first millennium CE.
-- EXPLANATION: Its tantras, institutions and siddha traditions are historically later.
-- WHY THE DISTRACTORS FAIL: A ('The Buddha's original sixth-century BCE council') misstates the chronology or sequence of development; D ('A pre-Mahavira Jain school') misassigns the fact to the wrong tradition, sect or school; B ('A colonial reconstruction without ancient texts') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q35 key C; logic: Its tantras, institutions and siddha traditions are historically later.
-
-#### Must-know facts
-
-- Coverage area: Vajrayana.
-- Rotation position: 35 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Textbook over-neatness on Vajrayana. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-- **Wrong:** Counter-example trap on Vajrayana. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 36 - Pala
-
-Which institution is most closely associated with Pala Buddhist scholasticism?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Sthanakvasi hall. |
-| B | Lumbini pillar alone. |
-| C | Kankali Tila. |
-| D | Vikramashila. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Sthanakvasi hall. | B. Lumbini pillar alone. | C. Kankali Tila. | D. Vikramashila.
-- CORRECT ANSWER: D - Vikramashila.
-- EXPLANATION: Vikramashila belongs with Nalanda, Odantapuri and Somapura in late Buddhist institutional networks.
-- WHY THE DISTRACTORS FAIL: C ('Kankali Tila') breaks the specific factual pairing the question is testing; A ('Sthanakvasi hall') breaks the specific factual pairing the question is testing; D ('Lumbini pillar alone') overclaims by turning a partial or context-bound truth into an absolute rule.
-
-> **Memory hook:** Q36 key B; logic: Vikramashila belongs with Nalanda, Odantapuri and Somapura in late Buddhist institutional networks.
-
-#### Must-know facts
-
-- Coverage area: Pala.
-- Rotation position: 36 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Geography/site swap on Pala. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-- **Wrong:** Definition inversion on Pala. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 37 - spread
-
-Which is the strongest explanation of Buddhist spread?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Portable monastic institutions, lay merit, routes, patrons, texts and adaptation worked together. |
-| B | Only simple doctrine mattered. |
-| C | Only one emperor converted Asia. |
-| D | It avoided all royal contact. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Portable monastic institutions, lay merit, routes, patrons, texts and adaptation worked together. | B. Only simple doctrine mattered. | C. Only one emperor converted Asia. | D. It avoided all royal contact.
-- CORRECT ANSWER: A - Portable monastic institutions, lay merit, routes, patrons, texts and adaptation worked together.
-- EXPLANATION: A network explanation handles regional and chronological diversity.
-- WHY THE DISTRACTORS FAIL: A ('Only one emperor converted Asia') overclaims by turning a partial or context-bound truth into an absolute rule; B ('Only simple doctrine mattered') overclaims by turning a partial or context-bound truth into an absolute rule; D ('It avoided all royal contact') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q37 key B; logic: C network explanation handles regional and chronological diversity.
-
-#### Must-know facts
-
-- Coverage area: spread.
-- Rotation position: 37 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Role/identity confusion on spread. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-- **Wrong:** Source-status trap on spread. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 38 - Ashoka
-
-Ashoka's dhamma should be understood as:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The complete Pali Abhidhamma. |
-| B | A broad imperial ethical policy overlapping with but not identical to Buddhism. |
-| C | A Jain council rule. |
-| D | Compulsory conversion to Mahayana. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The complete Pali Abhidhamma. | B. A broad imperial ethical policy overlapping with but not identical to Buddhism. | C. A Jain council rule. | D. Compulsory conversion to Mahayana.
-- CORRECT ANSWER: B - A broad imperial ethical policy overlapping with but not identical to Buddhism.
-- EXPLANATION: Buddhist patronage and sacred-site inscriptions do not make every dhamma edict sectarian doctrine.
-- WHY THE DISTRACTORS FAIL: B ('The complete Pali Abhidhamma') breaks the specific factual pairing the question is testing; D ('Compulsory conversion to Mahayana') misassigns the fact to the wrong tradition, sect or school; C ('B Jain council rule') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q38 key A; logic: Buddhist patronage and sacred-site inscriptions do not make every dhamma edict sectarian doctrine.
-
-#### Must-know facts
-
-- Coverage area: Ashoka.
-- Rotation position: 38 -> B.
-
-#### UPSC traps
-
-- **Wrong:** List-completeness bait on Ashoka. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
-- **Wrong:** Adjacent-topic bleed on Ashoka. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 39 - inscriptions
-
-Which inscription anchors Ashoka's association with the Buddha's birthplace?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Aihole. |
-| B | Hathigumpha. |
-| C | Rummindei/Lumbini pillar inscription. |
-| D | Junagadh. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Aihole. | B. Hathigumpha. | C. Rummindei/Lumbini pillar inscription. | D. Junagadh.
-- CORRECT ANSWER: C - Rummindei/Lumbini pillar inscription.
-- EXPLANATION: It is later than the Buddha but a firm early epigraphic association.
-- WHY THE DISTRACTORS FAIL: B ('Hathigumpha') breaks the specific factual pairing the question is testing; D ('Junagadh') breaks the specific factual pairing the question is testing; A ('Aihole') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q39 key C; logic: It is later than the Buddha but a firm early epigraphic association.
-
-#### Must-know facts
-
-- Coverage area: inscriptions.
-- Rotation position: 39 -> C.
-
-#### UPSC traps
-
-- **Wrong:** False equivalence on inscriptions. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-- **Wrong:** Absolutiser wording on inscriptions. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 40 - Sanchi
-
-Sanchi is best understood as:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A Jain canon council site. |
-| B | A monastery founded and completed only by Buddha. |
-| C | An exclusively Gupta construction. |
-| D | A multi-period, multi-donor Buddhist complex from Mauryan inception through later dynasties. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A Jain canon council site. | B. A monastery founded and completed only by Buddha. | C. An exclusively Gupta construction. | D. A multi-period, multi-donor Buddhist complex from Mauryan inception through later dynasties.
-- CORRECT ANSWER: D - A multi-period, multi-donor Buddhist complex from Mauryan inception through later dynasties.
-- EXPLANATION: UNESCO and inscriptional evidence emphasize phases, donors and long conservation history.
-- WHY THE DISTRACTORS FAIL: B ('B monastery founded and completed only by Buddha') overclaims by turning a partial or context-bound truth into an absolute rule; D ('An exclusively Gupta construction') breaks the specific factual pairing the question is testing; A ('B Jain canon council site') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q40 key C; logic: UNESCO and inscriptional evidence emphasize phases, donors and long conservation history.
-
-#### Must-know facts
-
-- Coverage area: Sanchi.
-- Rotation position: 40 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Translation literalism on Sanchi. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-- **Wrong:** Cross-tradition swap on Sanchi. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 41 - art
-
-Which is a safe statement on Buddha images?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Gandhara and Mathura developed overlapping early anthropomorphic traditions; priority is debated. |
-| B | Gandhara alone invented the image at a known date. |
-| C | Amaravati produced no images. |
-| D | Buddha images existed unchanged from his lifetime. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Gandhara and Mathura developed overlapping early anthropomorphic traditions; priority is debated. | B. Gandhara alone invented the image at a known date. | C. Amaravati produced no images. | D. Buddha images existed unchanged from his lifetime.
-- CORRECT ANSWER: A - Gandhara and Mathura developed overlapping early anthropomorphic traditions; priority is debated.
-- EXPLANATION: Material evidence resists a single-origin slogan.
-- WHY THE DISTRACTORS FAIL: B ('Gandhara alone invented the image at a known date') overclaims by turning a partial or context-bound truth into an absolute rule; A ('Buddha images existed unchanged from his lifetime') breaks the specific factual pairing the question is testing; C ('Amaravati produced no images') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q41 key D; logic: Material evidence resists a single-origin slogan.
-
-#### Must-know facts
-
-- Coverage area: art.
-- Rotation position: 41 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Chronology telescoping on art. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-- **Wrong:** Anachronism on art. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 42 - architecture
-
-A chaitya and vihara are respectively:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A stupa relic and royal tax. |
-| B | A worship/congregational space and a monastic residence. |
-| C | A Jain soul and non-soul. |
-| D | A Pali sutta and Vinaya rule. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A stupa relic and royal tax. | B. A worship/congregational space and a monastic residence. | C. A Jain soul and non-soul. | D. A Pali sutta and Vinaya rule.
-- CORRECT ANSWER: B - A worship/congregational space and a monastic residence.
-- EXPLANATION: Rock-cut complexes often combine the two forms.
-- WHY THE DISTRACTORS FAIL: C ('C Jain soul and non-soul') misassigns the fact to the wrong tradition, sect or school; B ('C stupa relic and royal tax') breaks the specific factual pairing the question is testing; D ('C Pali sutta and Vinaya rule') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q42 key A; logic: Rock-cut complexes often combine the two forms.
-
-#### Must-know facts
-
-- Coverage area: architecture.
-- Rotation position: 42 -> B.
-
-#### UPSC traps
-
-- **Wrong:** Counter-example trap on architecture. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-- **Wrong:** Single-cause shortcut on architecture. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 43 - decline
-
-Which statement on Buddhist decline is strongest?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Buddhism never declined anywhere in India. |
-| B | Vajrayana alone destroyed Buddhism. |
-| C | It was regionally uneven and involved patronage shifts, competition, institutional change, violence and survival. |
-| D | One invasion caused total disappearance overnight. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Buddhism never declined anywhere in India. | B. Vajrayana alone destroyed Buddhism. | C. It was regionally uneven and involved patronage shifts, competition, institutional change, violence and survival. | D. One invasion caused total disappearance overnight.
-- CORRECT ANSWER: C - It was regionally uneven and involved patronage shifts, competition, institutional change, violence and survival.
-- EXPLANATION: A multi-causal chronology avoids polemic and recognizes persistence.
-- WHY THE DISTRACTORS FAIL: C ('One invasion caused total disappearance overnight') breaks the specific factual pairing the question is testing; B ('Vajrayana alone destroyed Buddhism') overclaims by turning a partial or context-bound truth into an absolute rule; A ('Buddhism never declined anywhere in India') overclaims by turning a partial or context-bound truth into an absolute rule.
-
-> **Memory hook:** Q43 key A; logic: C multi-causal chronology avoids polemic and recognizes persistence.
-
-#### Must-know facts
-
-- Coverage area: decline.
-- Rotation position: 43 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Definition inversion on decline. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-- **Wrong:** Textbook over-neatness on decline. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 44 - Jain persistence
-
-Which helped Jainism persist?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Rejection of all householders. |
-| B | Dependence on one giant university. |
-| C | Absence of sectarian change. |
-| D | Graded lay vows, regional patrons, distributed institutions and multilingual literature. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Rejection of all householders. | B. Dependence on one giant university. | C. Absence of sectarian change. | D. Graded lay vows, regional patrons, distributed institutions and multilingual literature.
-- CORRECT ANSWER: D - Graded lay vows, regional patrons, distributed institutions and multilingual literature.
-- EXPLANATION: Continuity came through adaptation, not stasis.
-- WHY THE DISTRACTORS FAIL: B ('Dependence on one giant university') breaks the specific factual pairing the question is testing; D ('Rejection of all householders') breaks the specific factual pairing the question is testing; C ('Absence of sectarian change') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q44 key A; logic: Continuity came through adaptation, not stasis.
-
-#### Must-know facts
-
-- Coverage area: Jain persistence.
-- Rotation position: 44 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Source-status trap on Jain persistence. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-- **Wrong:** Geography/site swap on Jain persistence. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 45 - comparison
-
-Which comparison is correct?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Jainism affirms jiva; Buddhism teaches anatta. |
-| B | Buddhism treats karma as material particles. |
-| C | Jainism denies rebirth. |
-| D | Both deny any continuity. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Jainism affirms jiva; Buddhism teaches anatta. | B. Buddhism treats karma as material particles. | C. Jainism denies rebirth. | D. Both deny any continuity.
-- CORRECT ANSWER: A - Jainism affirms jiva; Buddhism teaches anatta.
-- EXPLANATION: This ontology contrast structures karma and liberation differences.
-- WHY THE DISTRACTORS FAIL: D ('Both deny any continuity') breaks the specific factual pairing the question is testing; B ('Buddhism treats karma as material particles') misassigns the fact to the wrong tradition, sect or school; C ('Jainism denies rebirth') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q45 key A; logic: This ontology contrast structures karma and liberation differences.
-
-#### Must-know facts
-
-- Coverage area: comparison.
-- Rotation position: 45 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Adjacent-topic bleed on comparison. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-- **Wrong:** Role/identity confusion on comparison. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 46 - sources
-
-Which source provides the firmest dated evidence for a donor at a monument?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A modern festival brochure. |
-| B | A contemporary donative inscription in archaeological context. |
-| C | A much later hagiography alone. |
-| D | An undated analogy. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A modern festival brochure. | B. A contemporary donative inscription in archaeological context. | C. A much later hagiography alone. | D. An undated analogy.
-- CORRECT ANSWER: B - A contemporary donative inscription in archaeological context.
-- EXPLANATION: Even inscriptions remain selective, but their date and context are stronger anchors.
-- WHY THE DISTRACTORS FAIL: C ('C much later hagiography alone') overclaims by turning a partial or context-bound truth into an absolute rule; A ('C modern festival brochure') breaks the specific factual pairing the question is testing; B ('An undated analogy') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q46 key D; logic: Even inscriptions remain selective, but their date and context are stronger anchors.
-
-#### Must-know facts
-
-- Coverage area: sources.
-- Rotation position: 46 -> B.
-
-#### UPSC traps
-
-- **Wrong:** Absolutiser wording on sources. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-- **Wrong:** List-completeness bait on sources. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 47 - sources
-
-A Chinese translation date usually provides:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The Buddha's spoken wording. |
-| B | The exact original composition year. |
-| C | A latest possible date by which the translated Indic work existed. |
-| D | Proof the work was composed in China. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The Buddha's spoken wording. | B. The exact original composition year. | C. A latest possible date by which the translated Indic work existed. | D. Proof the work was composed in China.
-- CORRECT ANSWER: C - A latest possible date by which the translated Indic work existed.
-- EXPLANATION: Translations are powerful chronological controls but not composition certificates.
-- WHY THE DISTRACTORS FAIL: B ('The exact original composition year') breaks the specific factual pairing the question is testing; D ('Proof the work was composed in China') breaks the specific factual pairing the question is testing; C ('The Buddha's spoken wording') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q47 key A; logic: Translations are powerful chronological controls but not composition certificates.
-
-#### Must-know facts
-
-- Coverage area: sources.
-- Rotation position: 47 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Cross-tradition swap on sources. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-- **Wrong:** False equivalence on sources. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Hard MCQ 48 - heritage
-
-Which is a safe heritage linkage?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A modern proposal equals inscription on the list. |
-| B | Restored fabric is always original. |
-| C | World Heritage status proves every sacred biography. |
-| D | UNESCO/ASI information can document conservation and material phases, not authenticate ancient doctrine. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A modern proposal equals inscription on the list. | B. Restored fabric is always original. | C. World Heritage status proves every sacred biography. | D. UNESCO/ASI information can document conservation and material phases, not authenticate ancient doctrine.
-- CORRECT ANSWER: D - UNESCO/ASI information can document conservation and material phases, not authenticate ancient doctrine.
-- EXPLANATION: Modern official sources must remain in a modern heritage evidence lane.
-- WHY THE DISTRACTORS FAIL: D ('World Heritage status proves every sacred biography') breaks the specific factual pairing the question is testing; B ('Restored fabric is always original') overclaims by turning a partial or context-bound truth into an absolute rule; A ('D modern proposal equals inscription on the list') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q48 key C; logic: Modern official sources must remain in a modern heritage evidence lane.
-
-#### Must-know facts
-
-- Coverage area: heritage.
-- Rotation position: 48 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Anachronism on heritage. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-- **Wrong:** Translation literalism on heritage. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 49 - remedial Jain chronology
-
-Remedial: Mahavira is best described as:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The twenty-fourth Tirthankara and major historical systematizer. |
-| B | The first Tirthankara. |
-| C | A Buddhist Bodhisattva. |
-| D | Founder of the Pali sangha. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The twenty-fourth Tirthankara and major historical systematizer. | B. The first Tirthankara. | C. A Buddhist Bodhisattva. | D. Founder of the Pali sangha.
-- CORRECT ANSWER: A - The twenty-fourth Tirthankara and major historical systematizer.
-- EXPLANATION: This corrects the common founder shortcut.
-- WHY THE DISTRACTORS FAIL: B ('The first Tirthankara') misstates the chronology or sequence of development; A ('C Buddhist Bodhisattva') misassigns the fact to the wrong tradition, sect or school; D ('Founder of the Pali sangha') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q49 key C; logic: This corrects the common founder shortcut.
-
-#### Must-know facts
-
-- Coverage area: remedial Jain chronology.
-- Rotation position: 49 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Single-cause shortcut on remedial Jain chronology. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-- **Wrong:** Chronology telescoping on remedial Jain chronology. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 50 - remedial Jain epistemology
-
-Remedial: Which Jain term means conditional predication?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Nayavada. |
-| B | Syadvada. |
-| C | Nirjara. |
-| D | Anekantavada. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Nayavada. | B. Syadvada. | C. Nirjara. | D. Anekantavada.
-- CORRECT ANSWER: B - Syadvada.
-- EXPLANATION: Anekanta is many-sidedness, naya standpoint, syat qualification.
-- WHY THE DISTRACTORS FAIL: D ('Anekantavada') breaks the specific factual pairing the question is testing; B ('Nayavada') breaks the specific factual pairing the question is testing; C ('Nirjara') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q50 key A; logic: Anekanta is many-sidedness, naya standpoint, syat qualification.
-
-#### Must-know facts
-
-- Coverage area: remedial Jain epistemology.
-- Rotation position: 50 -> B.
-
-#### UPSC traps
-
-- **Wrong:** Textbook over-neatness on remedial Jain epistemology. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-- **Wrong:** Counter-example trap on remedial Jain epistemology. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 51 - remedial Buddhism
-
-Remedial: Which Buddhist term means no permanent self?
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Aparigraha. |
-| B | Anicca. |
-| C | Anatta. |
-| D | Ajiva. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Aparigraha. | B. Anicca. | C. Anatta. | D. Ajiva.
-- CORRECT ANSWER: C - Anatta.
-- EXPLANATION: Anicca is impermanence; anatta is no-self.
-- WHY THE DISTRACTORS FAIL: B ('Anicca') breaks the specific factual pairing the question is testing; C ('Aparigraha') breaks the specific factual pairing the question is testing; D ('Ajiva') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q51 key A; logic: Anicca is impermanence; anatta is no-self.
-
-#### Must-know facts
-
-- Coverage area: remedial Buddhism.
-- Rotation position: 51 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Geography/site swap on remedial Buddhism. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-- **Wrong:** Definition inversion on remedial Buddhism. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 52 - remedial triads
-
-Remedial: The Buddhist three refuges are:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Jiva, ajiva and karma. |
-| B | Right faith, knowledge and conduct. |
-| C | Dana, shila and prajna only. |
-| D | Buddha, Dhamma and Sangha. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Jiva, ajiva and karma. | B. Right faith, knowledge and conduct. | C. Dana, shila and prajna only. | D. Buddha, Dhamma and Sangha.
-- CORRECT ANSWER: D - Buddha, Dhamma and Sangha.
-- EXPLANATION: Do not confuse the refuges with Jain Triratna.
-- WHY THE DISTRACTORS FAIL: D ('Right faith, knowledge and conduct') breaks the specific factual pairing the question is testing; A ('Jiva, ajiva and karma') breaks the specific factual pairing the question is testing; C ('Dana, shila and prajna only') overclaims by turning a partial or context-bound truth into an absolute rule.
-
-> **Memory hook:** Q52 key B; logic: Do not confuse the refuges with Jain Triratna.
-
-#### Must-know facts
-
-- Coverage area: remedial triads.
-- Rotation position: 52 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Role/identity confusion on remedial triads. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-- **Wrong:** Source-status trap on remedial triads. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 53 - remedial schools
-
-Remedial: Sthaviravadin is:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | An early Buddhist lineage label, not simply Mahayana. |
-| B | A Pala king. |
-| C | A Gupta temple form. |
-| D | A Jain subsect. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. An early Buddhist lineage label, not simply Mahayana. | B. A Pala king. | C. A Gupta temple form. | D. A Jain subsect.
-- CORRECT ANSWER: A - An early Buddhist lineage label, not simply Mahayana.
-- EXPLANATION: The 2020 PYQ tests this early-school distinction.
-- WHY THE DISTRACTORS FAIL: A ('D Jain subsect') misassigns the fact to the wrong tradition, sect or school; C ('D Gupta temple form') breaks the specific factual pairing the question is testing; B ('D Pala king') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q53 key D; logic: The 2020 PYQ tests this early-school distinction.
-
-#### Must-know facts
-
-- Coverage area: remedial schools.
-- Rotation position: 53 -> A.
-
-#### UPSC traps
-
-- **Wrong:** List-completeness bait on remedial schools. **Correct:** An option that looks complete may quietly drop or add one item from the real list; recount rather than pattern-match.
-- **Wrong:** Adjacent-topic bleed on remedial schools. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 54 - remedial terminology
-
-Remedial: 'Hinayana' should be used:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | For all pre-Mahayana texts without qualification. |
-| B | Only with caveat as a polemical historical label, not a synonym for Theravada. |
-| C | As the official name of modern Theravada. |
-| D | As another name for Vajrayana. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. For all pre-Mahayana texts without qualification. | B. Only with caveat as a polemical historical label, not a synonym for Theravada. | C. As the official name of modern Theravada. | D. As another name for Vajrayana.
-- CORRECT ANSWER: B - Only with caveat as a polemical historical label, not a synonym for Theravada.
-- EXPLANATION: Terminological care is mandatory.
-- WHY THE DISTRACTORS FAIL: C ('As the official name of modern Theravada') misassigns the fact to the wrong tradition, sect or school; B ('As another name for Vajrayana') misassigns the fact to the wrong tradition, sect or school; A ('For all pre-Mahayana texts without qualification') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q54 key D; logic: Terminological care is mandatory.
-
-#### Must-know facts
-
-- Coverage area: remedial terminology.
-- Rotation position: 54 -> B.
-
-#### UPSC traps
-
-- **Wrong:** False equivalence on remedial terminology. **Correct:** Two related-sounding ideas are not interchangeable in this context; hold their technical difference steady before choosing.
-- **Wrong:** Absolutiser wording on remedial terminology. **Correct:** An option using words like 'only', 'alone' or 'all' is usually a trap. Test whether the qualifier survives a single counter-example.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 55 - remedial uncommon term
-
-Remedial: Sanghabhuti is not:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A monk linked to China. |
-| B | Associated with Sarvastivada Vinaya commentary. |
-| C | Sanghabhadra, the later Vaibhashika scholar. |
-| D | A UPSC 2024 routed term. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A monk linked to China. | B. Associated with Sarvastivada Vinaya commentary. | C. Sanghabhadra, the later Vaibhashika scholar. | D. A UPSC 2024 routed term.
-- CORRECT ANSWER: C - Sanghabhadra, the later Vaibhashika scholar.
-- EXPLANATION: Similar names are a deliberate exam trap.
-- WHY THE DISTRACTORS FAIL: C ('C monk linked to China') breaks the specific factual pairing the question is testing; B ('Associated with Sarvastivada Vinaya commentary') breaks the specific factual pairing the question is testing; D ('C UPSC 2024 routed term') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q55 key A; logic: Similar names are a deliberate exam trap.
-
-#### Must-know facts
-
-- Coverage area: remedial uncommon term.
-- Rotation position: 55 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Translation literalism on remedial uncommon term. **Correct:** A modern or literal English gloss of the term can mislead; use the technical sense established in the teaching, not the everyday one.
-- **Wrong:** Cross-tradition swap on remedial uncommon term. **Correct:** A term that sounds right can still belong to the wrong tradition or school. Fix the tradition/school first, then the date.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 56 - remedial Maitreya
-
-Remedial: Maitreya should be identified as:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The first Buddhist council president. |
-| B | A Jain Tirthankara. |
-| C | A past Buddha only. |
-| D | The future Buddha. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The first Buddhist council president. | B. A Jain Tirthankara. | C. A past Buddha only. | D. The future Buddha.
-- CORRECT ANSWER: D - The future Buddha.
-- EXPLANATION: The tradition exists beyond Mahayana alone.
-- WHY THE DISTRACTORS FAIL: C ('C past Buddha only') overclaims by turning a partial or context-bound truth into an absolute rule; D ('C Jain Tirthankara') misassigns the fact to the wrong tradition, sect or school; A ('The first Buddhist council president') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q56 key B; logic: The tradition exists beyond Mahayana alone.
-
-#### Must-know facts
-
-- Coverage area: remedial Maitreya.
-- Rotation position: 56 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Chronology telescoping on remedial Maitreya. **Correct:** Centuries of development can be compressed into one moment by a wrong option; keep the actual sequence of phases in view.
-- **Wrong:** Anachronism on remedial Maitreya. **Correct:** A later school, sect or label can be silently projected backward onto an earlier period. Check whether the term existed at the time the question describes.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 57 - remedial stupa
-
-Remedial: A stupa is:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | A relic, commemorative or votive mound-form extensively developed by Buddhists. |
-| B | A Jain canonical basket. |
-| C | Exclusively Buddhist in conceptual origin. |
-| D | Necessarily a monastic residence. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. A relic, commemorative or votive mound-form extensively developed by Buddhists. | B. A Jain canonical basket. | C. Exclusively Buddhist in conceptual origin. | D. Necessarily a monastic residence.
-- CORRECT ANSWER: A - A relic, commemorative or votive mound-form extensively developed by Buddhists.
-- EXPLANATION: The 2023 PYQ turns on the overstatement in 'Buddhist in origin'.
-- WHY THE DISTRACTORS FAIL: D ('Necessarily a monastic residence') breaks the specific factual pairing the question is testing; C ('Exclusively Buddhist in conceptual origin') misassigns the fact to the wrong tradition, sect or school; A ('B Jain canonical basket') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q57 key B; logic: The 2023 PYQ turns on the overstatement in 'Buddhist in origin'.
-
-#### Must-know facts
-
-- Coverage area: remedial stupa.
-- Rotation position: 57 -> A.
-
-#### UPSC traps
-
-- **Wrong:** Counter-example trap on remedial stupa. **Correct:** A rule stated too broadly here usually has a known counter-example; hold the qualified version of the rule, not the sweeping one.
-- **Wrong:** Single-cause shortcut on remedial stupa. **Correct:** Reducing a multi-causal process to one driver (technology, one group, one ruler) is a common wrong answer pattern here.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 58 - remedial decline
-
-Remedial: Buddhism's decline in India was:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Proof that Buddhism vanished from Asia. |
-| B | Multi-causal and regionally uneven. |
-| C | Caused only by Sanskrit. |
-| D | Completed everywhere by one fixed year. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Proof that Buddhism vanished from Asia. | B. Multi-causal and regionally uneven. | C. Caused only by Sanskrit. | D. Completed everywhere by one fixed year.
-- CORRECT ANSWER: B - Multi-causal and regionally uneven.
-- EXPLANATION: Use contraction, transformation, absorption, violence and survival.
-- WHY THE DISTRACTORS FAIL: C ('Caused only by Sanskrit') overclaims by turning a partial or context-bound truth into an absolute rule; B ('Completed everywhere by one fixed year') breaks the specific factual pairing the question is testing; A ('Proof that Buddhism vanished from Asia') misassigns the fact to the wrong tradition, sect or school.
-
-> **Memory hook:** Q58 key D; logic: Use contraction, transformation, absorption, violence and survival.
-
-#### Must-know facts
-
-- Coverage area: remedial decline.
-- Rotation position: 58 -> B.
-
-#### UPSC traps
-
-- **Wrong:** Definition inversion on remedial decline. **Correct:** An option can invert cause and effect or reverse a definition; restate the relationship in your own words before matching an option.
-- **Wrong:** Textbook over-neatness on remedial decline. **Correct:** Real history rarely resolves this cleanly; treat any suspiciously tidy either/or option with caution.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 59 - remedial canon
-
-Remedial: Valabhi is associated with:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | The Mahasanghika centre Dhanyakataka. |
-| B | Buddha's enlightenment. |
-| C | Shvetambara canonical redaction. |
-| D | Ashoka's Kalinga edicts. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. The Mahasanghika centre Dhanyakataka. | B. Buddha's enlightenment. | C. Shvetambara canonical redaction. | D. Ashoka's Kalinga edicts.
-- CORRECT ANSWER: C - Shvetambara canonical redaction.
-- EXPLANATION: This separates Jain canon history from Buddhist sacred geography.
-- WHY THE DISTRACTORS FAIL: C ('Buddha's enlightenment') breaks the specific factual pairing the question is testing; D ('Ashoka's Kalinga edicts') breaks the specific factual pairing the question is testing; A ('The Mahasanghika centre Dhanyakataka') breaks the specific factual pairing the question is testing.
-
-> **Memory hook:** Q59 key B; logic: This separates Jain canon history from Buddhist sacred geography.
-
-#### Must-know facts
-
-- Coverage area: remedial canon.
-- Rotation position: 59 -> C.
-
-#### UPSC traps
-
-- **Wrong:** Source-status trap on remedial canon. **Correct:** Do not treat an inferred or traditional account as if it were an officially verified fact; keep the evidence status attached to the claim.
-- **Wrong:** Geography/site swap on remedial canon. **Correct:** Sites and regions in this area are easy to interchange; re-anchor the option to the specific place named in the question.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
-
-#### Remedial MCQ 60 - remedial comparison
-
-Remedial: The safest comparison of karma is:
-
-#### Evidence / comparison matrix
-
-| Option | Choice |
-| --- | --- |
-| A | Only Jainism accepts consequences. |
-| B | Both are identical substances. |
-| C | Only Buddhism accepts rebirth. |
-| D | Jain material bondage versus Buddhist intentional action. |
-
-#### Core teaching / solved analysis
-
-- OPTIONS: A. Only Jainism accepts consequences. | B. Both are identical substances. | C. Only Buddhism accepts rebirth. | D. Jain material bondage versus Buddhist intentional action.
-- CORRECT ANSWER: D - Jain material bondage versus Buddhist intentional action.
-- EXPLANATION: The ontology of the agent makes the contrast meaningful.
-- WHY THE DISTRACTORS FAIL: B ('Both are identical substances') breaks the specific factual pairing the question is testing; D ('Only Jainism accepts consequences') overclaims by turning a partial or context-bound truth into an absolute rule; C ('Only Buddhism accepts rebirth') overclaims by turning a partial or context-bound truth into an absolute rule.
-
-> **Memory hook:** Q60 key A; logic: The ontology of the agent makes the contrast meaningful.
-
-#### Must-know facts
-
-- Coverage area: remedial comparison.
-- Rotation position: 60 -> D.
-
-#### UPSC traps
-
-- **Wrong:** Adjacent-topic bleed on remedial comparison. **Correct:** A neighbouring topic's fact can be borrowed into this option; confirm the fact is actually about this specific sub-topic before accepting it.
-- **Wrong:** Role/identity confusion on remedial comparison. **Correct:** Two named individuals or offices are easy to swap here; verify who actually held the role before selecting.
-
-**Mains/PYQ use:** MCQ learning loop: answer -> explain -> eliminate -> state caveat.
-
-**Study link:** Topic 10 consolidated practice.
+> **Examiner trap 32:** For Paramitas, fix the tradition and chronology before accepting a familiar term; question 32 specifically tests the boundary around Dana, shila, kshanti, virya, dhyana, prajna.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verification and answer protocol — [CORE PRELIMS + CORE MAINS]
+### VERIFIED PYQ OWNERSHIP AND KEY DISCIPLINE
 
-- Preserve official-key status exactly; inferred keys remain prominently labelled.
-- Every Mains answer must use claim -> named evidence -> analysis -> qualification -> verdict.
-- Every solved Mains answer retains its specific Why this earns marks note.
-- Shared audit standard (stated once, applies to every Mains answer below): each named example is tied to a claim and its proof/limitation; chronology, regional variation or source criticism replace artificial two-sidedness; in the exam, compress each evidence unit to one analytical sentence; use subheadings or a compact matrix only where the directive requires them.
+> Official UPSC 2024 Set-A keys are named only where locally verified. Earlier unavailable keys remain inferred; the locally held 2026 key remains provisional/unreadable in extraction. Descriptive models are instructional, not official.
 
-> Official keys are named only where held and readable locally. Other answers are prominently labelled inferred.
-
-#### Prelims PYQ - 2018 GS-I Q71
+### Prelims PYQ - 2018 GS-I Q71
 
 With reference to the religious practices in India, the "Sthanakvasi" sect belongs to:
 
@@ -5323,17 +4916,10 @@ With reference to the religious practices in India, the "Sthanakvasi" sect belon
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2018 GS-I Q71” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2018 GS-I Q71”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2018 GS-I Q74
+### Prelims PYQ - 2018 GS-I Q74
 
 With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?
 
@@ -5370,17 +4956,10 @@ With reference to Indian history, who among the following is a future Buddha, ye
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2018 GS-I Q74” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2018 GS-I Q74”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2019 GS-I Q9
+### Prelims PYQ - 2019 GS-I Q9
 
 Which of the following are features of Mahayana Buddhism? 1. Deification of the Buddha 2. Treading the path of Bodhisattvas 3. Image worship and rituals
 
@@ -5417,17 +4996,10 @@ Which of the following are features of Mahayana Buddhism? 1. Deification of the 
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2019 GS-I Q9” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2019 GS-I Q9”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2020 GS-I Q22
+### Prelims PYQ - 2020 GS-I Q22
 
 Consider the statements: 1. Sthaviravadins belong to Mahayana Buddhism. 2. Lokottaravadin was an offshoot of the Mahasanghika sect. 3. The deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.
 
@@ -5464,17 +5036,10 @@ Consider the statements: 1. Sthaviravadins belong to Mahayana Buddhism. 2. Lokot
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2020 GS-I Q22” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2020 GS-I Q22”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2020 GS-I Q31
+### Prelims PYQ - 2020 GS-I Q31
 
 Which one of the following is the correct description of the term 'paramitas'?
 
@@ -5511,17 +5076,10 @@ Which one of the following is the correct description of the term 'paramitas'?
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2020 GS-I Q31” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2020 GS-I Q31”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2020 GS-I Q71
+### Prelims PYQ - 2020 GS-I Q71
 
 Consider the pairs: 1. Parivrajaka - renunciant and wanderer 2. Shramana - priest with a high status 3. Upasaka - lay follower of Buddhism. Which are correctly matched?
 
@@ -5558,17 +5116,10 @@ Consider the pairs: 1. Parivrajaka - renunciant and wanderer 2. Shramana - pries
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2020 GS-I Q71” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2020 GS-I Q71”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2022 GS-I Q55
+### Prelims PYQ - 2022 GS-I Q55
 
 Which among the following are Jaina texts? 1. Nettipakarana 2. Parishishtaparvan 3. Avadanashataka 4. Trishashtilakshana Mahapurana
 
@@ -5605,17 +5156,10 @@ Which among the following are Jaina texts? 1. Nettipakarana 2. Parishishtaparvan
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2022 GS-I Q55” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2022 GS-I Q55”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2023 GS-I Q41
+### Prelims PYQ - 2023 GS-I Q41
 
 In which region was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?
 
@@ -5652,17 +5196,10 @@ In which region was Dhanyakataka, which flourished as a prominent Buddhist centr
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2023 GS-I Q41” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2023 GS-I Q41”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Adjacent Prelims PYQ - 2023 GS-I Q42
+### Adjacent Prelims PYQ - 2023 GS-I Q42
 
 Consider the statements: 1. The concept of Stupa is Buddhist in origin. 2. Stupa was generally a repository of relics. 3. Stupa was a votive and commemorative structure in Buddhist tradition. How many are correct?
 
@@ -5699,17 +5236,10 @@ Consider the statements: 1. The concept of Stupa is Buddhist in origin. 2. Stupa
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Adjacent Prelims PYQ - 2023 GS-I Q42” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Adjacent Prelims PYQ - 2023 GS-I Q42”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2023 GS-I Q47
+### Prelims PYQ - 2023 GS-I Q47
 
 "Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects." Which sect does this core belief reflect?
 
@@ -5746,17 +5276,10 @@ Consider the statements: 1. The concept of Stupa is Buddhist in origin. 2. Stupa
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2023 GS-I Q47” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2023 GS-I Q47”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2024 GS-I Q54
+### Prelims PYQ - 2024 GS-I Q54
 
 Gautama Buddha was generally known by which epithets? 1. Nayaputta 2. Shakyamuni 3. Tathagata
 
@@ -5793,17 +5316,10 @@ Gautama Buddha was generally known by which epithets? 1. Nayaputta 2. Shakyamuni
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2024 GS-I Q54” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2024 GS-I Q54”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2024 GS-I Q64
+### Prelims PYQ - 2024 GS-I Q64
 
 Sanghabhuti, an Indian Buddhist monk who travelled to China at the end of the fourth century CE, authored a commentary on:
 
@@ -5840,17 +5356,10 @@ Sanghabhuti, an Indian Buddhist monk who travelled to China at the end of the fo
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2024 GS-I Q64” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2024 GS-I Q64”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Prelims PYQ - 2026 GS-I Q3
+### Prelims PYQ - 2026 GS-I Q3
 
 Among the four main forms of existence recognized in Jainism, which is not included?
 
@@ -5887,17 +5396,10 @@ Among the four main forms of existence recognized in Jainism, which is not inclu
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Prelims PYQ - 2026 GS-I Q3” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Prelims PYQ - 2026 GS-I Q3”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Adjacent Prelims PYQ - 2026 GS-I Q12
+### Adjacent Prelims PYQ - 2026 GS-I Q12
 
 What does an empty seat represent in the specific early Buddhist iconography question?
 
@@ -5934,17 +5436,10 @@ What does an empty seat represent in the specific early Buddhist iconography que
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Adjacent Prelims PYQ - 2026 GS-I Q12” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “Adjacent Prelims PYQ - 2026 GS-I Q12”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
-#### Adjacent Prelims PYQ - 2026 GS-I Q15
+### Adjacent Prelims PYQ - 2026 GS-I Q15
 
 Which statements on Amaravati Stupa are correct? 1. It was in the lower Krishna valley. 2. In India it was next only to Sanchi in size. 3. Its school influenced later South Indian sculpture and products travelled to Sri Lanka and Southeast Asia.
 
@@ -5981,479 +5476,113 @@ Which statements on Amaravati Stupa are correct? 1. It was in the lower Krishna 
 
 **Study link:** Routed official-paper demand.
 
-**Demand decoding:** Treat “Adjacent Prelims PYQ - 2026 GS-I Q15” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
+**PYQ discipline:** Preserve the locally archived wording and the stated key status. An inferred or provisional answer is never promoted to an official UPSC key.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
 
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
+### SOLVED MAINS PYQ - 2020 GS-I Q1: ROCK-CUT ARCHITECTURE
 
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
+**Verified wording:** The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss. (Answer in 150 words.)
 
-**How to improve this answer:** For “Adjacent Prelims PYQ - 2026 GS-I Q15”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
+**Demand decoding:** Explain why rock-cut monuments are historical sources, not merely art objects, and state their limits.
 
-#### Solved Mains PYQ - 2020 GS-I Q1: rock-cut architecture
+**Instructional model answer (139 words):**
 
-The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss. (150 words)
+Rock-cut monuments preserve architecture, inscriptions, images and spatial organisation in one durable archive. The Barabar caves, donated by Ashoka and Dasharatha to Ajivikas, reveal Mauryan polish and plural patronage, though sparse interiors disclose little about ordinary users. Bhaja, Karle and Nasik combine chaitya halls, viharas and donor inscriptions; Karle's merchant and Yavana gifts connect monasteries with western Deccan routes, but donors are not a census of believers. Ajanta's separate phases, Jataka paintings and enlarged viharas record changing worship and monastic life across centuries. Udayagiri-Khandagiri and Ellora add Jain and multi-religious histories. Thus rock-cut sites illuminate technology, patronage, institutions, trade and iconography. They must nevertheless be dated phase by phase and cross-checked with texts and surface archaeology, because a monument's survival cannot represent the whole society that produced it.
 
-#### Core teaching / solved analysis
+**Why this earns marks:** It answers the source question through named sites, states what each proves and closes with a method limit.
 
-- QUESTION: The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss. (150 words)
-- DEMAND: Discuss why rock-cut monuments are historical sources, using art, patronage and social evidence, while noting limits.
-- DIRECT THESIS: Rock-cut monuments are not merely aesthetic remains; their plans, images and inscriptions preserve changing religious institutions, routes, donors and technologies from Mauryan to early medieval India.
-- SOURCE RANGE: Ashoka and Dasharatha's Barabar caves for Ajivikas prove that royal rock-cut patronage began beyond Buddhism; highly polished interiors show Mauryan stone technology, but sparse decoration limits social detail.
-- INSTITUTIONS: Bhaja, Karle and Nasik chaitya-viharas reveal congregational halls, cells and route-side monasticism. Karle's donor records connect merchants and Yavanas to Buddhist patronage; inscriptions record donors, not all users.
-- ART/DOCTRINE: Ajanta's chaityas, viharas, paintings and Jataka narratives show long institutional and devotional change; phases are separated by centuries and cannot be read as one moment.
-- PLURALITY: Udayagiri-Khandagiri and later Ellora Jain caves demonstrate Jain ascetic, royal and artistic histories; Ellora's Buddhist, Brahmanical and Jain phases resist a single-religion narrative.
-- CONCLUSION: Thus rock-cut sites combine architecture, epigraphy and iconography into unusually durable archives, but they must be dated phase by phase and cross-checked with texts and surface archaeology.
-- WHY THIS EARNS MARKS: It answers 'source' rather than merely describing caves, uses four named complexes, explains what each proves and closes with method and limitation.
+### SOLVED MAINS PYQ - 2020 GS-I Q2: PALA BUDDHISM
 
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
+**Verified wording:** Pala period is the most significant phase in the history of Buddhism in India. Enumerate. (Answer in 150 words.)
 
-#### Must-know facts
+**Demand decoding:** Enumerate Pala contributions while qualifying the superlative.
 
-- Marks/length calibration: 10 marks / 150 words.
-- Four named complexes anchor the answer: Barabar caves, Karle/Nasik, Ajanta, Udayagiri-Khandagiri/Ellora.
+**Instructional model answer (142 words):**
 
-#### UPSC traps
+The Pala centuries were a major high point of late Indian Buddhism, although "most significant" should not erase the Buddha's age or Ashokan expansion. Dharmapala-linked Vikramashila joined Nalanda, Odantapuri and Somapura in a network of residential learning supported by landed and royal patronage; foundation traditions still require archaeological control. These mahaviharas advanced Mahayana, logic and Vajrayana scholarship and circulated teachers and manuscripts. Atisha Dipankara's journey to Tibet exemplifies trans-Himalayan transmission, but one biography cannot represent every route. Pala stone and bronze images and illustrated palm-leaf manuscripts influenced Nepal and Tibet, showing workshop and pilgrimage connections rather than Pala political rule abroad. Concentrated institutional wealth also created vulnerability when patronage and political conditions changed. The Pala phase was therefore decisive for scholastic, artistic and Himalayan Buddhist history, but one transformative peak within a much longer and regionally varied tradition.
 
-- **Wrong:** Treat rock-cut caves as art history alone. **Correct:** Read plans, donor inscriptions and phases as historical evidence of patronage and institutions.
-- **Wrong:** Present Ajanta or Ellora as a single-moment creation. **Correct:** Date each phase separately; multi-century, multi-faith sites resist a single narrative.
+**Why this earns marks:** Five enumerated contributions, one trans-Asian example and a qualified verdict directly answer the prompt.
 
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
+### SIX ORIGINAL MAINS QUESTIONS WITH MODEL SOLUTIONS
 
-**Study link:** Adjacent art-and-culture owner included for Buddhist/Jain material history.
+### ORIGINAL MAINS 1 - 10 MARKS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains PYQ - 2020 GS-I Q1: rock-cut architecture”, coverage of every clause, evidence-led analysis and a qualified verdict.
+**Question:** Explain why the rise of Jainism and Buddhism cannot be reduced to urbanisation or varna protest alone. (Answer in 150 words.)
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Model answer (121 words):**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+Jainism and Buddhism arose in a favourable sixth-century BCE ecology, not from one mechanical cause. Towns such as Rajagriha and Vaishali, exchange networks and categories such as gahapati and setthi widened audiences and donation capacity. Magadha, Kosala and Vajji-type polities created warfare, extraction and courtly debate, while costly sacrifice and hierarchy made alternative ethics meaningful. Yet these conditions cannot derive Jain jiva-karma theory or Buddhist anatta and dependent origination. The broader shramana field also contained Ajivikas and materialists, proving that one setting generated divergent answers. Followers included rulers, merchants, cultivators, artisans, women and renouncers; merchant or anti-varna labels therefore remain partial. Context explains timing, social reach and institutional opportunity, whereas distinctive doctrine, discipline and organisation explain why two durable traditions emerged.
 
-**How to improve this answer:** For “Solved Mains PYQ - 2020 GS-I Q1: rock-cut architecture”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+**Why this earns marks:** It gives four causal dimensions, named evidence and an explicit anti-monocausal qualification.
 
-#### Solved Mains PYQ - 2020 GS-I Q2: Pala Buddhism
+### ORIGINAL MAINS 2 - 10 MARKS
 
-Pala period is the most significant phase in the history of Buddhism in India. Enumerate. (150 words)
+**Question:** Show how Jain doctrine connects ontology, ethics and liberation. (Answer in 150 words.)
 
-#### Core teaching / solved analysis
+**Model answer (125 words):**
 
-- QUESTION: Pala period is the most significant phase in the history of Buddhism in India. Enumerate. (150 words)
-- DEMAND: Enumerate major Pala contributions while qualifying the superlative and staying within Buddhist history.
-- DIRECT THESIS: The Pala centuries were a high point of late Indian Buddhist institutions and trans-Himalayan transmission, though 'most significant' is a question claim rather than an uncontested ranking over Ashoka or early Buddhism.
-- INSTITUTIONS: Dharmapala-linked Vikramashila and the wider Nalanda-Odantapuri-Somapura network strengthened residential learning; royal foundation traditions and archaeological phases must be distinguished.
-- SCHOLARSHIP: Mahayana and Vajrayana philosophy, logic and ritual flourished in mahaviharas; manuscript colophons and Tibetan histories preserve names but often reflect later lineages.
-- TRANS-ASIAN LINK: Atisha Dipankara's movement to Tibet exemplifies teacher and text circulation; one famous journey should not stand for every route.
-- ART: Pala stone/bronze images and illustrated palm-leaf manuscripts influenced Nepal and Tibet; stylistic influence is evidence of workshops and exchange, not political control.
-- PATRONAGE/LIMIT: Landed support sustained large institutions yet concentrated resources and vulnerability; Buddhism also survived outside royal mahaviharas.
-- CONCLUSION: The Pala phase was therefore decisive for late Buddhist scholasticism, Vajrayana and Himalayan transmission, but it was one transformative peak in a much longer history.
-- WHY THIS EARNS MARKS: The enumerative structure gives five evidence-led contributions, includes Atisha, mahaviharas and Pala art, and qualifies the question's absolute wording.
+Jain ethics follows from its account of reality. Countless conscious jivas are entangled with ajiva, especially karmic matter attracted through activity and passions. This makes injury cosmologically serious: earth-, water-, fire-, air- and plant-bodied beings widen the field protected by ahimsa. Bondage proceeds through asrava and bandha; samvara stops fresh influx and nirjara removes accumulated karma. The Triratna-right faith, knowledge and conduct-organises this release, while the five vows discipline conduct. Ascetics observe mahavratas rigorously; householders use anuvratas and supplementary restraints, making social continuity possible without diluting the renunciant ideal. Anekantavada and syadvada later discipline knowledge and speech, but their mature systematisation should not be projected verbatim onto Mahavira. Jainism therefore joins plural souls, material karma, radical restraint and graded community ethics in one liberation programme.
 
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
+**Why this earns marks:** The answer links technical terms causally and separates early doctrine from later systematisation.
 
-#### Must-know facts
+### ORIGINAL MAINS 3 - 15 MARKS
 
-- Marks/length calibration: 10 marks / 150 words.
-- Anchor evidence: the Vikramashila/Nalanda-Odantapuri-Somapura network and Atisha Dipankara's mission to Tibet.
+**Question:** Compare Jain and Buddhist conceptions of self, karma and liberation. (Answer in 250 words.)
 
-#### UPSC traps
+**Model answer (183 words):**
 
-- **Wrong:** Accept 'most significant phase' as an uncontested ranking. **Correct:** Qualify the superlative against Ashokan and early Buddhist significance.
-- **Wrong:** Let one famous journey (Atisha) stand for the whole trans-Asian network. **Correct:** Treat it as one example within a wider circulation of teachers and texts.
+Jainism and Buddhism share karma, rebirth, renunciation and liberation, but construct opposite accounts of the person. Jain doctrine affirms innumerable enduring jivas whose consciousness is obscured by karmic matter. Activity and passion cause asrava and bandha; samvara and nirjara stop and remove karma. Moksha perfects the individual jiva rather than merging it into a creator. This ontology explains rigorous ahimsa and austerity, moderated for laity through anuvratas.
 
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
+Early Buddhism analyses the person through five changing aggregates and denies a permanent independent self through anatta. Dependent origination explains causal continuity: intentional karma conditions rebirth without a transmigrating soul. Nirvana ends greed, hatred, delusion and the rebirth process; it is neither the destruction of an atman nor mere physical death. The Middle Way and Eightfold Path reject both indulgence and self-mortification.
 
-**Study link:** Topic 22 bridge and Buddhism's transformation/decline.
+Thus Jain karma is materially conceived bondage of an enduring soul, whereas Buddhist karma is ethical intention within a conditioned process. Both make liberation dependent on disciplined conduct and knowledge, not creator grace. However, surviving formulations are transmitted and layered, and later Jain logic or Mahayana philosophy cannot automatically be assigned to the founders.
 
-> Evidence-led 10-, 15- and 20-mark model answers. Every answer ends with 'Why this earns marks'.
+**Why this earns marks:** Parallel axes, precise mechanisms and an early-versus-later caveat produce analytical comparison.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains PYQ - 2020 GS-I Q2: Pala Buddhism”, coverage of every clause, evidence-led analysis and a qualified verdict.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Question:** Examine how council and canon traditions illuminate, but also complicate, Jain and Buddhist history. (Answer in 250 words.)
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer (181 words):**
 
-**How to improve this answer:** For “Solved Mains PYQ - 2020 GS-I Q2: Pala Buddhism”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+Council traditions illuminate how religious communities remembered authority, discipline and textual loss, but they are not neutral institutional minutes. Jain accounts associate Pataliputra with preserving teachings after famine and migration under Sthulabhadra. Svetambara tradition links Valabhi in the mid-first millennium CE with final canonical redaction, whereas Digambaras hold that the original Angas were lost. The disagreement reveals real sectarian questions of memory and authority, while preventing a single canonical chronology.
 
-#### Original Solved 10-Marker 1 - context without determinism
+Buddhist traditions remember Rajagriha for recitation after the Buddha's death, Vaishali for Vinaya disputes and a Theravada Pataliputra council under Ashoka and Moggaliputta Tissa. These narratives map disciplinary consolidation and mission memory. Yet schools preserve different details, and there is no single pan-Buddhist "fourth council": Sarvastivada-Kanishka accounts in Kashmir differ from Sri Lankan memory of writing the Pali canon.
 
-Explain the social-economic and political setting in which Jainism and Buddhism arose. (150 words)
+Canons therefore preserve doctrine, disciplinary ideals and institutional classifications. Their oral transmission, school ownership, redaction and surviving manuscript dates complicate direct historical use. Inscriptions and archaeology must test where communities, donors and monuments actually existed. Councils are best treated as tradition-specific claims about legitimation and textual organisation, not as one uncontested timeline.
 
-#### Core teaching / solved analysis
+**Why this earns marks:** It compares both religions, names councils and explains what the disagreement itself proves.
 
-- QUESTION: Explain the social-economic and political setting in which Jainism and Buddhism arose. (150 words)
-- DEMAND: Explain context and causal relevance, but explicitly reject crude economic determinism.
-- DIRECT THESIS: Jainism and Buddhism emerged from the sixth-century BCE convergence of agrarian expansion, states, towns, new wealth and an already vibrant renunciant debate, yet their doctrines were creative responses rather than automatic products of iron or trade.
-- URBAN-AGRARIAN CHANGE: NBPW-phase centres such as Rajagriha and Vaishali and punch-marked coins indicate denser settlement and exchange; they widen audiences but do not generate anatta or jiva theory by themselves.
-- NEW ELITES: Pali categories setthi and gahapati show wealth outside ritual rank; donations such as the Jetavana tradition make lay-monastic reciprocity intelligible, though textual donors are not a census.
-- POLITY: Magadha, Kosala and Vajji-type gana-sanghas created warfare, taxation and court debate; gana-sanghas were oligarchic, not modern republics.
-- SOCIAL/INTELLECTUAL STRAIN: Varna claims, sacrificial violence and competing shramanas made ethical and salvific alternatives meaningful; Brahmanical-shramana interaction prevents a simple revolt narrative.
-- CONCLUSION: The setting explains timing, audience and institutional opportunity; doctrinal differences and regional spread must still be explained on their own terms.
-- WHY THIS EARNS MARKS: It uses four named evidence clusters, states what each proves and repeatedly preserves the context-versus-determination distinction.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
+**Question:** Analyse the role of institutions, patronage and material culture in the spread of Jainism and Buddhism. (Answer in 250 words.)
 
-#### Must-know facts
+**Model answer (200 words):**
 
-- Marks/length calibration: 10 marks / 150 words.
-- Four evidence clusters used: NBPW/coins, setthi/gahapati wealth, gana-sangha polity, Brahmanical-shramana strain.
+Doctrine travelled through institutions. Jain fourfold communities and Buddhist sanghas joined mobile specialists to settled lay supporters. Jain anuvratas enabled household participation, while Buddhist Vinaya organised residence, ordination and teaching. Gifts of food, robes, caves and land converted ethical affiliation into durable establishments.
 
-#### UPSC traps
+Patronage was plural. Ashoka's inscriptions provide early evidence of Buddhist support, pilgrimage and concern for sangha unity, but his dhamma was broader than Buddhist doctrine. Kanishka is important for north-western Buddhist networks, although council details are later tradition. Merchants, artisans, women, monks, nuns and local rulers appear in donative settings; "royal religion" and "merchant religion" are both inadequate.
 
-- **Wrong:** Let economic/urban context stand in for a full doctrinal explanation. **Correct:** Context explains timing and appeal; it does not derive jiva theory or anatta.
-- **Wrong:** Romanticise gana-sanghas as proto-democracies. **Correct:** Describe them precisely as oligarchic, not modern republics.
+Material culture anchored memory and movement. Sanchi and Bharhut stupas, Karle's chaitya-vihara complex, Amaravati, Ajanta and Gandharan art connected relic, narrative, route and donor networks. Mathura images and ayagapatas, Udayagiri-Khandagiri and later western and southern temples mark Jain expansion. Monasteries also became educational centres, with Nalanda and later mahaviharas linking scholarship to Asian travel.
 
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
+Spread remained regional. Buddhism moved to Sri Lanka, Central and East Asia and Southeast Asia through monastic, mercantile, diplomatic and translation networks; Jainism developed durable western and southern Indian bases. Institutions and objects enabled transmission, but neither one ruler nor one route explains the result.
 
-**Study link:** Topics 11 and 13 context.
+**Why this earns marks:** It links institution, donor and site evidence to mechanisms, while retaining regional and source limits.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 10-Marker 1 - context without determinism”, coverage of every clause, evidence-led analysis and a qualified verdict.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
+**Question:** Why did Buddhism contract in much of India while Jainism persisted? Give a multi-causal and regionally sensitive answer. (Answer in 250 words.)
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
+**Model answer (206 words):**
 
-**How to improve this answer:** For “Original Solved 10-Marker 1 - context without determinism”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
+The contrast is relative, not a story of Buddhist disappearance and unchanged Jain survival. Buddhist contraction varied by region and century. Shifts in royal and landed patronage weakened some large monasteries; changing routes and agrarian relations affected their economic bases. Brahmanical and devotional institutions competed, borrowed and absorbed practices, while Buddhist ritual and deity worlds also overlapped with them. Concentration in mahaviharas could increase vulnerability. Political violence and later raids damaged institutions such as Nalanda and Vikramashila, but cannot explain centuries of earlier transformation. Buddhism persisted in Himalayan and eastern zones, expanded across Asia and later experienced revival.
 
-#### Original Solved 10-Marker 2 - Jain many-sided knowledge
+Jain communities relied on resilient fourfold organisation, scaled lay vows and dispersed local institutions. Mercantile and elite support, regional languages and literary cultures strengthened western and southern centres. Mathura, Gujarat-Rajasthan networks and Karnataka traditions show changing regional bases rather than one continuous core. Jain temple culture, sectarian organisation and scholarship adapted; persistence therefore did not mean doctrinal or ritual stasis.
 
-Distinguish anekantavada, nayavada and syadvada, and show their historical significance. (150 words)
+The divergence arose from different institutional geographies combined with changing patronage, competition, assimilation and political economy. It should not be attributed solely to Muslim invasions, Brahmanical hostility, tantric "degeneration" or merchant support. Buddhism's Indian contraction coexisted with trans-Asian success, while Jainism's smaller geographic reach supported durable regional continuity.
 
-#### Core teaching / solved analysis
+**Why this earns marks:** It rejects every single-cause formula, compares institutional structures and ends with a graded regional verdict.
 
-- QUESTION: Distinguish anekantavada, nayavada and syadvada, and show their historical significance. (150 words)
-- DEMAND: Define each precisely, connect them and give a reasoned significance without calling Jainism relativist.
-- DIRECT THESIS: Jain thought joins a many-sided ontology to a disciplined method of partial viewpoints and qualified speech; the triad restrains dogmatism without making all claims equally true.
-- ANEKANTAVADA: Reality has many aspects. The Jain jiva-ajiva universe therefore cannot be exhausted by one predicate; this is an ontological-epistemic claim, not indecision.
-- NAYAVADA: A naya selects a valid but partial standpoint for a purpose. Like a donor inscription that proves patronage but not total society, a standpoint is informative within limits.
-- SYADVADA: 'Syat' qualifies a proposition by respect, time or mode; saptabhangi combines is, is-not and inexpressible forms. Qualification prevents contradiction in the same respect.
-- SIGNIFICANCE: The method supports debate and intellectual non-absolutism, while Tattvartha-type scholasticism shows system rather than casual tolerance; the popular blind-men analogy is illustrative, not the doctrine itself.
-- CONCLUSION: Thus anekanta supplies the many-sided reality, naya the angle of inquiry and syat the grammar of responsible assertion.
-- WHY THIS EARNS MARKS: It gives exact definitions, one source-oriented analogy, a technical term and an anti-relativist qualification.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 10 marks / 150 words.
-- Triad defined precisely: anekantavada (ontology), nayavada (standpoint), syadvada (qualified speech).
-
-#### UPSC traps
-
-- **Wrong:** Call Jain epistemology relativist or indecisive. **Correct:** It is a disciplined method of partial viewpoints, not 'anything goes'.
-- **Wrong:** Treat the popular blind-men-and-elephant story as the doctrine itself. **Correct:** Use it only as an illustration; the real doctrine is the anekanta-naya-syat system.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Jain doctrine and Indian philosophy.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 10-Marker 2 - Jain many-sided knowledge”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 10-Marker 2 - Jain many-sided knowledge”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 10-Marker 3 - Sangha and social access
-
-How far did the Buddhist sangha widen social and gender access in ancient India? (150 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: How far did the Buddhist sangha widen social and gender access in ancient India? (150 words)
-- DEMAND: Evaluate degree: demonstrate access, then identify institutional and social limits.
-- DIRECT THESIS: The sangha significantly widened salvific and institutional access beyond hereditary ritual privilege, but it did not abolish social hierarchy or create modern gender equality.
-- CASTE/BIRTH: Ambattha and Vasettha-type arguments value conduct over birth, while ordination ideals crossed varna; sermons prove normative critique, not universal social practice.
-- WOMEN: Mahapajapati Gotami's ordination tradition and Therigatha voices establish a bhikkhuni presence; the transmitted garudhammas and their debated formation reveal gendered subordination.
-- LAY SOCIETY: Visakha and Sanchi's named female donors show women as patrons; elite examples cannot represent all women.
-- LIMITS: Vinaya restrictions on slaves, debtors or soldiers protected existing obligations, and Buddhist societies continued to contain caste and status differences.
-- CONCLUSION: The sangha was therefore socially porous and ethically critical, yet historically embedded in patriarchal and stratified societies.
-- WHY THIS EARNS MARKS: It answers 'how far', uses four named textual/inscriptional examples and balances access with institutional limits.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 10 marks / 150 words.
-- Named evidence: Ambattha/Vasettha discourses, Mahapajapati/Therigatha, Visakha, Vinaya limits on slaves/debtors.
-
-#### UPSC traps
-
-- **Wrong:** Answer only with access examples and skip the limits. **Correct:** 'How far' demands both openness and its institutional/social limits.
-- **Wrong:** Read the garudhammas as proof of full gender equality. **Correct:** They show conditional inclusion alongside real subordination.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Topic 13 and women/social base.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 10-Marker 3 - Sangha and social access”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 10-Marker 3 - Sangha and social access”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 15-Marker 1 - Jain-Buddhist doctrinal comparison
-
-Compare Jain and Buddhist conceptions of self, karma, knowledge and liberation. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Compare Jain and Buddhist conceptions of self, karma, knowledge and liberation. (250 words)
-- DEMAND: Compare in parallel dimensions and explain how ontology shapes ethics and the path.
-- DIRECT THESIS: Jainism and Buddhism share karma, rebirth, renunciation and liberation, yet construct opposite accounts of the person and therefore different mechanics of bondage and knowledge.
-- SELF: Jain Tattvartha-type doctrine affirms countless eternal jivas whose consciousness is obscured; early Buddhist aggregate analysis and anatta deny a permanent independent self. The contrast is philosophical, while surviving texts are later transmissions.
-- KARMA: Jain karma is subtle pudgala entering and binding jiva through passions; asrava-bandha require samvara and nirjara. Buddhism treats karma centrally as intentional action, allowing causal continuity without a soul.
-- KNOWLEDGE: Jain anekantavada, nayavada and syadvada coordinate many-sided reality, partial standpoints and qualified predicates. Buddhism uses dependent origination and, later, Madhyamaka emptiness or Yogacara cognition; these later schools should not be projected into every early sermon.
-- PATH: Jain Triratna and five vows culminate in rigorous ascetic purification, with anuvratas for laity. Buddhist Four Truths and Eightfold/Middle Path integrate wisdom, ethics and meditation while rejecting self-mortification.
-- LIBERATION: Jain moksha reveals perfected disembodied jiva; Buddhist nirvana ends greed, hatred, delusion and rebirth without annihilating an atman that Buddhism already denies.
-- ETHICAL EFFECT: Jain life-categories ground radical ahimsa; Buddhist compassion and intentional ethics allow a differently calibrated discipline.
-- CONCLUSION: Their common shramana setting therefore produced not one doctrine but two coherent and enduring solutions to agency, suffering and release.
-- WHY THIS EARNS MARKS: The answer uses a strict comparison matrix, more than six technical evidence units, connects doctrine to ethics and controls early-versus-later chronology.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 15 marks / 250 words.
-- Compares on four fixed dimensions -- self, karma, knowledge, liberation -- not a free-form list.
-
-#### UPSC traps
-
-- **Wrong:** Present Jain and Buddhist paths as minor variations of one idea. **Correct:** Their self/karma/knowledge mechanics are structurally opposed, not cosmetically different.
-- **Wrong:** Project later Madhyamaka/Yogacara categories onto the earliest sermons. **Correct:** Keep dependent origination separate from later school elaborations.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Primary comparison framework.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 15-Marker 1 - Jain-Buddhist doctrinal comparison”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 15-Marker 1 - Jain-Buddhist doctrinal comparison”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 15-Marker 2 - councils and canons
-
-Examine how council and canonical traditions illuminate, but also complicate, the history of Jainism and Buddhism. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Examine how council and canonical traditions illuminate, but also complicate, the history of Jainism and Buddhism. (250 words)
-- DEMAND: Examine evidentiary value and complication; cover both religions and distinguish redaction from event.
-- DIRECT THESIS: Council narratives preserve institutional memory of discipline and textual loss, but because they were recorded by competing traditions they reveal sectarian self-definition as much as neutral chronology.
-- BUDDHIST FIRST/SECOND: Rajagriha recitation by Ananda and Upali and Vaishali's ten-point dispute explain authority and Vinaya; later accounts disagree on the timing and cause of the Sthavira-Mahasanghika split.
-- ASHOKAN THIRD: Dipavamsa/Mahavamsa tradition links Pataliputra, Moggaliputta Tissa, Kathavatthu and missions; Ashokan edicts confirm Buddhist patronage and sacred geography but not every chronicle detail.
-- MULTIPLE FOURTHS: Kanishka-Kashmir Sarvastivada memory and Aluvihara writing of the Pali canon belong to different regional numberings; 'the fourth council' is therefore unsafe without a label.
-- BUDDHIST CANONS: Pali Tipitaka, Sanskrit fragments and Chinese/Tibetan translations preserve different Vinayas, Agamas and Mahayana texts. Translation dates constrain chronology but do not date original composition.
-- JAIN MEMORY: Famine, Bhadrabahu migration and Pataliputra collection explain perceived loss; the account is retrospective and linked to later sect identity.
-- VALABHI: Shvetambara tradition associates Devardhigani with final Agama redaction, while Digambaras hold the original Angas lost and rely on Shatkhandagama/Kasayapahuda-type authorities.
-- CONCLUSION: Councils are therefore historical evidence when used as tradition-specific redaction maps, not as universally accepted transcripts of founding speech.
-- WHY THIS EARNS MARKS: It examines rather than narrates, uses six named traditions/texts, cross-checks chronicles with edicts and ends with a method verdict.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 15 marks / 250 words.
-- Six named traditions/texts used: Rajagriha, Vaishali, Ashokan Third, Kanishka/Aluvihara 'fourth', the four-language canons, Jain Valabhi/Digambara memory.
-
-#### UPSC traps
-
-- **Wrong:** Speak of 'the fourth Buddhist council' as one agreed event. **Correct:** Label it by tradition (Kanishka-Kashmir Sarvastivada or Aluvihara Sri Lankan); the numbering is not universal.
-- **Wrong:** Treat council chronicles as neutral transcripts. **Correct:** Read them as tradition-specific redaction memories that reveal sectarian self-definition.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Councils, canons and source criticism.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 15-Marker 2 - councils and canons”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 15-Marker 2 - councils and canons”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 15-Marker 3 - patronage and spread
-
-Analyse the role of patronage and networks in the spread of Buddhism and Jainism. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Analyse the role of patronage and networks in the spread of Buddhism and Jainism. (250 words)
-- DEMAND: Analyse mechanisms, compare trajectories and avoid a king-only or merchant-only explanation.
-- DIRECT THESIS: Patronage converted ethical communities into durable regional institutions, but spread occurred through networks joining rulers, lay donors, routes, texts, monuments and teachers.
-- MAURYAN BUDDHISM: Rummindei and Bhabru edicts show Ashoka's sacred-site and textual patronage; his dhamma remained broader than Buddhism, and Sri Lankan mission lists are chronicle traditions.
-- CUMULATIVE MONUMENTS: Sanchi's Mauryan stupa/pillar, Shunga enlargement, Satavahana-era gateways and numerous donor inscriptions prove layered support rather than one royal act.
-- TRADE ROUTES: Karle and Nasik caves near western Deccan routes record merchants, Yavanas, monks, nuns and rulers; proximity to trade supports a network inference, not a claim that monks were traders.
-- POST-MAURYAN/ASIAN: Kanishka traditions, Gandharan manuscripts/art and Central Asian routes helped northward transmission; textual council details remain debated.
-- ANDHRA/MARITIME: Dhanyakataka-Amaravati-Nagarjunakonda connected Mahasanghika/Mahayana environments to Sri Lanka and maritime Asia; art circulation does not prove political rule.
-- JAIN REGIONS: Hathigumpha/Udayagiri-Khandagiri, Kankali Tila donors and later Ganga-Rashtrakuta patronage show multiple regional coalitions; the Chandragupta-Bhadrabahu story requires later-inscription caution.
-- CONCLUSION: Buddhism achieved broader trans-Asian monastic replication, while Jainism built dense India-centred lay and court networks; both outcomes were cumulative and regionally contingent.
-- WHY THIS EARNS MARKS: The answer links six named inscriptional/site clusters to mechanisms, compares the traditions and qualifies royal, merchant and mission evidence.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 15 marks / 250 words.
-- Six named clusters used: Ashokan edicts, Sanchi's layered phases, western Deccan routes, Gandhara/Central Asia, Andhra-maritime Asia, Jain Hathigumpha/Kankali Tila/Ganga-Rashtrakuta.
-
-#### UPSC traps
-
-- **Wrong:** Credit one ruler (Ashoka) with spreading Buddhism everywhere. **Correct:** Use cumulative, multi-dynasty, multi-donor evidence across centuries.
-- **Wrong:** Treat proximity to trade routes as proof that monks themselves traded. **Correct:** Read it only as evidence of a shared patronage/mobility network.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Patronage, routes and international spread.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 15-Marker 3 - patronage and spread”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 15-Marker 3 - patronage and spread”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 20-Marker 1 - rise, appeal and limits
-
-Critically examine the factors behind the rise and popularity of Jainism and Buddhism in the sixth-century BCE and early historic periods. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Critically examine the factors behind the rise and popularity of Jainism and Buddhism in the sixth-century BCE and early historic periods. (250 words)
-- DEMAND: Critically examine multiple factors, distinguish origin from later spread and reject one-cause explanations.
-- DIRECT THESIS: The movements became influential because social churn created audiences, renunciant doctrines offered persuasive ethical paths, and disciplined communities converted teaching into networks; no economic, caste or linguistic factor alone explains both their rise and divergent trajectories.
-- MATERIAL SETTING: NBPW centres, punch-marked coins and Gangetic agriculture support a second-urbanisation context; uneven archaeology prevents an all-India urban claim.
-- SOCIAL GROUPS: Setthi/gahapati categories and Jetavana/Visakha narratives show wealthy laity; merchants were important patrons but not sole creators or followers.
-- POLITY: Magadha-Kosala courts and Vajji/Shakya gana-sanghas supplied debate and mobility; oligarchic republics should not be romanticized.
-- RITUAL/STATUS CRITIQUE: Ambattha-type Buddhist arguments and Jain claims that liberation depends on conduct relativized birth and sacrifice; neither tradition abolished caste society.
-- ETHICAL APPEAL: Jain ahimsa/aparigraha and Buddhist five precepts/Middle Way addressed violence and self-control; Buddhist moderation may have eased wider recruitment, while Jain anuvratas sustained laity.
-- LANGUAGE: Prakrit/Pali-type preaching widened communication; it did not imply mass literacy or one fixed vernacular canon.
-- INSTITUTIONS: Vinaya sangha, fourfold Jain community, rainy-season residence and merit/donation created organizational continuity.
-- PATRONAGE/MATERIAL: Ashokan Lumbini/Bhabru evidence, Sanchi donors, Kharavela and Kankali Tila show elite and lay support; each belongs to a later phase than founders' teaching.
-- ADAPTATION: Mahayana Bodhisattvas/images and Jain regional languages/temples expanded participation; later transformation must not be read back into sixth-century origins.
-- CONCLUSION: Their popularity was thus historically produced by a fit between ethical-intellectual innovation and adaptable institutions operating through changing regional networks.
-- WHY THIS EARNS MARKS: It satisfies 'critically examine' with nine factors, named archaeology, texts, donors, inscriptions and a sustained origin-versus-spread chronology.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 20 marks / 250 words.
-- Nine named factors used, spanning material, social, political, ethical, linguistic, institutional, patronage and adaptation dimensions.
-
-#### UPSC traps
-
-- **Wrong:** Select one 'winning' cause (economic, caste or linguistic). **Correct:** 'Critically examine' demands multiple interacting factors, none sufficient alone.
-- **Wrong:** Read later adaptations (Mahayana images, Jain regional temples) back into sixth-century BCE origins. **Correct:** Separate the moment of origin from later phases of spread.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Master causation answer.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 20-Marker 1 - rise, appeal and limits”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 20-Marker 1 - rise, appeal and limits”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 20-Marker 2 - divergent historical trajectories
-
-Why did Buddhism contract in much of India while Jainism persisted? Give a multi-causal and regionally sensitive answer. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Why did Buddhism contract in much of India while Jainism persisted? Give a multi-causal and regionally sensitive answer. (250 words)
-- DEMAND: Compare long-term trajectories without a single-cause decline story or a static survival story.
-- DIRECT THESIS: The contrast arose not from doctrinal merit alone but from different institutional geographies: late Buddhism concentrated resources in large patronage-dependent networks even as it transformed transnationally, whereas Jainism combined ascetic authority with distributed lay, literary and pilgrimage institutions.
-- PATRONAGE SHIFTS: Nalanda and Vikramashila demonstrate the strength of endowed mahaviharas under Pala support; dynastic reallocation exposed concentrated institutions, while Buddhism persisted beyond them.
-- RELIGIOUS COMPETITION/ABSORPTION: Expanding Puranic-bhakti temples, monasteries and pilgrimage shared ethical and iconographic fields; absorption explains transformation better than simple defeat.
-- INTERNAL CHANGE: Mahayana and Vajrayana widened ritual, philosophy and trans-Himalayan links; calling them 'degeneration' repeats older polemic rather than analysis.
-- ECONOMIC GEOGRAPHY: Western Deccan caves such as Karle/Nasik depended partly on route ecologies; route change affected regions differently and is not a universal explanation.
-- POLITICAL VIOLENCE: Destruction at major eastern institutions accelerated contraction, but it occurred after centuries of regional change and cannot be the sole cause.
-- SURVIVAL: Himalayan, eastern and overseas traditions, plus Pala manuscripts and Tibetan transmission, disprove total disappearance.
-- JAIN LAY BASE: Anuvratas and the fourfold sangha integrated households; Kankali Tila and western/southern donor histories show long urban and regional roots.
-- DISTRIBUTED PATRONAGE: Kharavela, Ganga, Rashtrakuta and western Indian courts supported varied centres; no single university's fall determined the tradition.
-- ADAPTATION: Prakrit, Sanskrit, Apabhramsha, Kannada and Gujarati literature, temple pilgrimage and even Sthanakvasi reform show continuity through change.
-- CONCLUSION: Buddhism's Indian history is contraction plus absorption and trans-Asian survival; Jain persistence is adaptation plus regional concentration, not immunity from historical change.
-- WHY THIS EARNS MARKS: It compares institutions with nine named evidence routes, treats violence as one late factor, recognizes Buddhist survival and rejects a triumphalist Jain narrative.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 20 marks / 250 words.
-- Nine named evidence routes contrast Buddhist contraction (Nalanda/Vikramashila, absorption, route change, violence) with Jain persistence (anuvratas, distributed patronage, regional literature).
-
-#### UPSC traps
-
-- **Wrong:** Reduce Buddhism's contraction to a single event, such as one destruction. **Correct:** Treat violence as one late-stage accelerant among several longer-run causes.
-- **Wrong:** Present Jain survival as simple immunity to change. **Correct:** Jain persistence is itself adaptation -- sects, images, temples and reform movements all changed over time.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Decline/transformation synthesis.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 20-Marker 2 - divergent historical trajectories”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 20-Marker 2 - divergent historical trajectories”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
-#### Original Solved 20-Marker 3 - reconstructing religious history
-
-Assess the sources and methods used to reconstruct the early history of Jainism and Buddhism. (250 words)
-
-#### Core teaching / solved analysis
-
-- QUESTION: Assess the sources and methods used to reconstruct the early history of Jainism and Buddhism. (250 words)
-- DEMAND: Assess strengths and limits by source class; compare textual traditions and show corroboration.
-- DIRECT THESIS: No source independently yields the founders' history. Reliable reconstruction triangulates layered canons and rival memories with dated inscriptions, archaeology, art, translations and manuscripts.
-- EARLY DISCOURSES: Pali Nikayas and Chinese Agamas preserve parallel early Buddhist material; agreements strengthen a core, while redaction and translation prevent verbatim attribution.
-- VINAYAS: Pali, Dharmaguptaka, Sarvastivada and Mulasarvastivada rules reveal institutions; rule-origin stories justify norms and may be later than the practice described.
-- MAHAYANA/TANTRA: Sanskrit/Hybrid Sanskrit sutras and Tibetan/Chinese translations date circulation and doctrinal development; translation supplies a terminus ante quem, not original date.
-- JAIN CANONS: Shvetambara Agamas preserve Ardhamagadhi traditions redacted at Valabhi; Digambara loss claims and Shatkhandagama/Kasayapahuda create a necessary sectarian comparison.
-- RIVAL WITNESS: Pali Nigantha Nataputta references independently anchor Mahavira's community while polemically representing doctrine.
-- INSCRIPTIONS: Rummindei, Bhabru, Sanchi donations and Hathigumpha provide firmer dates, patrons and places; edicts and royal records remain selective.
-- ARCHAEOLOGY/ART: Kankali Tila, Sanchi, Amaravati and caves reveal donors, images and ritual; iconographic meaning and building phases require context.
-- CHRONICLES/PILGRIMS: Dipavamsa-Mahavamsa and Faxian-Xuanzang-Yijing preserve missions and institutions from specific regional/century perspectives.
-- MANUSCRIPTS/HERITAGE: Surviving copies and UNESCO/ASI conservation document transmission and material survival, not eyewitness composition.
-- CONCLUSION: The method is therefore layered corroboration: date the witness, identify its school and genre, extract the limited claim, cross-check externally and state what remains uncertain.
-- WHY THIS EARNS MARKS: It assesses nine source classes, distinguishes four Buddhist language traditions and two Jain canon histories, and repeatedly links evidence to proof and limitation.
-
-> **Memory hook:** Claim -> Evidence -> What it proves -> Limitation -> Verdict.
-
-#### Must-know facts
-
-- Marks/length calibration: 20 marks / 250 words.
-- Nine source classes assessed: discourses, Vinayas, Mahayana/tantra texts, Jain canons, rival witness, inscriptions, archaeology/art, chronicles/pilgrims, manuscripts/heritage.
-
-#### UPSC traps
-
-- **Wrong:** Treat any single source class as sufficient on its own. **Correct:** 'Assess' requires triangulating across independent source classes.
-- **Wrong:** Read a translation's date as the date of the original teaching. **Correct:** Translation supplies only a terminus ante quem, not the composition date.
-
-**Mains/PYQ use:** Examiner-grade solved answer with demand fidelity.
-
-**Study link:** Sources and historiography master answer.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Original Solved 20-Marker 3 - reconstructing religious history”, coverage of every clause, evidence-led analysis and a qualified verdict.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “Original Solved 20-Marker 3 - reconstructing religious history”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -6914,8 +6043,6 @@ Fast source-criticism checklist.
 
 ### FINAL REGISTER - PYQ answer spine
 
-![g3 visual -- Answer Spine and Rapid Recall](assets/ancient-indian-history-10-c9445fa576.png)
-
 *Use this page as the last revision sheet before an exam; it is the fastest recall route through every solved Mains answer in this package.*
 
 Last-page examiner route.
@@ -6947,156 +6074,3 @@ Last-page examiner route.
 **Mains/PYQ use:** Final pre-exam audit.
 
 **Study link:** All solved PYQs and original practice.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Sixth-century BCE shramana field
-
-```ascii-master
-AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING
-                                      |
-                                      v
-                              SHRAMANA FIELD
-       +----------------------+----------------------+-------------------+
-       |                      |                      |                   |
-     JAINA                 BUDDHIST                AJIVIKA          other schools
-       +----------------------+----------------------+-------------------+
-                                      v
-Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ.
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Jain cosmos, bondage and liberation
-
-```ascii-master
-JIVA (conscious) + AJIVA (non-conscious) -> beginningless cosmos without creator
-                         |
-                         v
-action/passions attract karmic matter -> bondage and repeated birth
-                         |
-                         v
-samvara stops influx + nirjara sheds karma -> kevala-jnana -> moksha
-                         |
-                         v
-Liberation is purification of an enduring individual soul, not annihilation.
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Jain path and many-sided knowledge
-
-```ascii-master
-TRIRATNA: right faith + right knowledge + right conduct
-                         |
-                         v
-FIVE VOWS: ahimsa | satya | asteya | brahmacharya | aparigraha
-monastic mahavrata = rigorous | lay anuvrata = limited practicable form
-                         |
-                         v
-ANEKANTAVADA -> NAYAVADA standpoints -> SYADVADA qualified predication
-Many-sidedness disciplines claims; it does not make contradictions equally true.
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Jain community, canon and spread
-
-```ascii-master
-Parshvanatha -> Mahavira -> fourfold sangha -> councils/redactions -> sects
-23rd Tirthankara 24th      monks/nuns/lay     Pataliputra/Valabhi  Digambara/Shvetambara
-                         |
-                         v
-patronage and merchants -> Mathura, western India, Karnataka -> temples/literature
-Sect differences include clothing, canon and liberation questions.
-Avoid reducing separation to one famine story or treating all traditions as identical.
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Buddhist diagnosis and disciplined path
-
-```ascii-master
-DUKKHA -> SAMUDAYA (craving/ignorance) -> NIRODHA -> EIGHTFOLD PATH
-                                                  |
-             +----------------+-------------------+
-             |                |                   |
-wisdom: view/intention   ethics: speech/action/livelihood   meditation: effort/mindfulness
-                                                  |
-                                                  v
-MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha.
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Dependent origination and no-self
-
-```ascii-master
-ignorance -> formations -> consciousness -> name-form -> six senses -> contact
--> feeling -> craving -> clinging -> becoming -> birth -> ageing-and-death
-                         |
-                         v
-conditioned arising explains continuity without eternal atman or first creator.
-aggregates: form, feeling, perception, formations, consciousness -> impermanent/anatta
-karma preserves ethical causation through process; nirvana is not physical death.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Buddhist sangha, councils and canons
-
-```ascii-master
-BUDDHA/DHAMMA -> monastic SANGHA under VINAYA <-> lay gifts, merit and protection
-                         |
-                         v
-conventional councils: Rajagriha -> Vaishali -> Pataliputra -> regional recensions
-                         |
-                         v
-Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit,
-Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes.
-Women ordain, but institutional hierarchy and textual debate remain.
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Buddhist developments: schools to Vajrayana
-
-```ascii-master
-EARLY SCHOOLS -> MAHAYANA -> MADHYAMAKA/YOGACARA -> VAJRAYANA
-Vinaya/Abhidharma  bodhisattva ideal  emptiness/mind debates  mantra/mandala/tantra
-multiple nikayas   new sutras         philosophy systems       ritual monasteries
-                         |
-                         v
-Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.
-Maitreya/paramitas fit Mahayana; Vajrayana is a later development.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Networks, material culture and outcomes
-
-```ascii-master
-GANGA HEARTLAND -> stupas/monasteries -> trade routes and political patronage
-Mauryan/post-Mauryan support -> Sanchi, Bharhut and caves -> donors/artisans
-NORTH-WEST/CENTRAL ASIA -> Silk routes -> China -> Korea/Japan
-SRI LANKA -> Theravada transmission -> Southeast Asian histories
-JAIN NETWORKS -> Mathura/western India/Deccan/Karnataka -> temples/manuscripts
-                         |
-                         v
-Buddhism later declined/absorbed in India as patronage and monastery networks changed;
-Jainism persisted through lay institutions, regional patrons and adaptive communities.
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Jainism-Buddhism comparison and answer spine
-
-```ascii-master
-ANSWER SPINE
-1. Define the shramana setting and identify each source tradition.
-2. Connect doctrine -> institution -> social base -> patronage -> spread.
-3. Compare Jain jiva and restraint with Buddhist anatta and Middle Path.
-VERDICT: Shared context produced distinct paths, institutions and trajectories.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Evidence ladder and confidence control
-
-```ascii-master
-EVIDENCE LADDER
-1. Canonical texts preserve layered doctrine, discipline and sect memory.
-2. Inscriptions identify donors and institutions, not total populations.
-3. Archaeology maps practice and networks but cannot read belief directly.
-VERDICT: Triangulate text, inscription and material context at matching scales.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Examiner traps and contested boundaries
-
-```ascii-master
-CLOSE DISTINCTIONS
-1. Traditional dates and council narratives require school-specific labels.
-2. Jain jiva is not Buddhist anatta; Theravada is not a synonym for Hinayana.
-3. Ashoka aided Buddhism but did not create or single-handedly spread it.
-VERDICT: Reject single-cause rise, one-event sect splits and total disappearance.
-```
