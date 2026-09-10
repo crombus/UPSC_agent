@@ -1,65 +1,1278 @@
-ASCII MASTER FLOW — PANEL 1/9: Textual lineage and Vedic duty
-JAIMINI -> SABARA -> KUMARILA / PRABHAKARA
-Purva-Mimamsa owns duty, injunction and ritual interpretation
-Vedanta owns the Brahman-centred Upanisadic inquiry
-Vedic duty (dharma) is known through injunction (codanā), not perception
-prescriptive sentence -> impelling force (bhāvanā) -> ritual action
--> unseen ritual potency (apūrva) -> delayed result
+ASCII MASTER FLOW — PANEL 1/24: Syllabus, controlling question, and why epistemology serves duty
 
-ASCII MASTER FLOW — PANEL 2/9: Validity and knowledge sources
-INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA)
-cognition presents itself as true unless a later defeater establishes error
-Bhatta accepts six sources; Prabhakara does not treat non-cognition independently
-Nyaya contrast -> external validation (parataḥ-prāmāṇya)
-regress pressure supports first-trust, but correction still requires defeat
+  SYLLABUS ITEM 18, PRINTED VERBATIM: "Mīmāṃsā: Theory of Knowlegde."
+  normalised: Mīmāṃsā (Pūrva-Mīmāṃsā) · theory of knowledge = pramāṇa-vada in service of dharma
+                                  |
+  CONTROLLING QUESTION ...... how can a human being know what he OUGHT to do, when what he
+                              ought to do cannot be seen, touched, or inferred from anything
+                              visible?
+                                  |
+  +---- THE DEFINING FORMULA -----------------------------------------------------------+
+  |  dharma-jijñāsā .................. the school IS an inquiry into duty                |
+  |  codanā-lakṣaṇo'rtho dharmaḥ ..... duty is that good whose DISTINGUISHING MARK is    |
+  |                                    Vedic injunction (codanā)                         |
+  |  consequence ..................... epistemology is INSEPARABLE from hermeneutics     |
+  +--------------------------------------------------------------------------------------+
+                                  |
+  WHY EACH FAMOUS DOCTRINE EXISTS (read downwards: each repairs a specific hole)
+     duty is supersensible ............ perception disqualified; inference has no sign
+              |
+     only verbal testimony reaches it . śabda is NOT a fallback here; it is the sole witness
+              |
+     but WHOSE word? ................. a person may err, deceive, be partial, forget
+              |                          => AUTHORLESSNESS (apauruṣeyatva) removes the locus
+     but why trust ANY cognition? .... external certification regresses
+              |                          => INTRINSIC VALIDITY (svataḥ-prāmāṇya)
+     a text that binds with NO commander => injunction (vidhi) + bhāvanā / niyoga
+              |
+     an act that pays with NO paymaster  => unseen ritual potency (apūrva)
+              |
+     therefore NO CREATOR GOD IS NEEDED ANYWHERE IN THE CHAIN (nirīśvaravāda)
 
-ASCII MASTER FLOW — PANEL 3/9: Perception, comparison and testimony
-INDETERMINATE PERCEPTION -> DETERMINATE PERCEPTION
-comparison: present gavaya resembles remembered absent cow
-Nyaya contrast: word-reference learning is not the Mimamsa definition
-personal testimony depends on a speaker; Vedic testimony is impersonal
-testimony may state a fact or enjoin an action
+  MINIMUM METAPHYSICS (sparse, but load-bearing)
+     real enduring objects · plurality of selves as knower-agent-enjoyer
+     moral order regulated by action + apūrva · beginningless karmic series
+     THREE ENABLERS: objects real => knowledge possible · injunction meaningful =>
+     obligation possible · action leaves potency => future fruit possible
 
-ASCII MASTER FLOW — PANEL 4/9: Postulation and non-cognition
-POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS
-Devadatta is stout + does not eat by day -> he eats at night
-perceived-fact postulation differs from heard-sentence postulation
-NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE
-empty floor is seen under conditions in which the pot would have been seen
-trap: postulation is not loose guessing; non-cognition is not simple inattention
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Mīmāṃsā's theory of knowledge is not an epistemology that happens to defend a        |
+  |  scripture; it is a scripture-defence that HAD to become a general epistemology,      |
+  |  because a text with no author can borrow no authority from outside cognition.        |
+  +--------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/9: Self-awareness and error
-PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT)
-one cognition discloses knower, known and knowing together
-BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED
-error -> non-discrimination theory versus contrary-cognition theory
-both avoid an infinite second-cognition regress by different strategies
+  ! TRAP 1: do not write "Mīmāṃsā is only ritualism". The orientation is ritual; the
+    epistemology is general.
+  ! TRAP 2: do not treat verbal testimony as an emergency source. For duty it is the ONLY
+    competent instrument.
 
-ASCII MASTER FLOW — PANEL 6/9: Word and sentence meaning
-SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY
-designation-then-connection: words first denote, then meanings combine
-connected-designation: words directly present meanings already related
-word universal realism answers Buddhist meaning-through-exclusion
-Vedic functions: injunction, prohibition, mantra, name, explanatory praise
-semantic theory protects action-guiding scripture without an original speaker
+ASCII MASTER FLOW — PANEL 2/24: Textual lineage and the Pūrva / Uttara ownership boundary
 
-ASCII MASTER FLOW — PANEL 7/9: Vedic authorlessness and God
-VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE
-eternity of word supports an uncreated relation between word and meaning
-Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not
-God is unnecessary for Vedic authority, ritual efficacy or karmic distribution
-pressure: removing an author secures autonomy but complicates semantic intention
+                             THE VEDIC CORPUS
+                                     |
+          +--------------------------+---------------------------+
+          |                                                      |
+   KARMA-KĀṆḌA (action portion)                     JÑĀNA-KĀṆḌA (knowledge portion)
+          |                                                      |
+   PŪRVA-MĪMĀṂSĀ  "what ought to be done"      UTTARA-MĪMĀṂSĀ = VEDĀNTA "what ultimately is"
+          |                                          (syllabus item 19 — NOT this file)
+   +------+--------------------------------------------------+
+   |  JAIMINI — Mīmāṃsā-sūtra                                 |
+   |     organises inquiry into duty and Vedic interpretation |
+   |            |                                             |
+   |  ŚABARA — Śābara-bhāṣya                                  |
+   |     FOUNDATIONAL SURVIVING COMMENTARY                    |
+   |     ! much called "Jaimini's view" is reached via Śabara  |
+   |            |                                             |
+   |      +-----+------------------+                          |
+   |  KUMĀRILA BHAṬṬA          PRABHĀKARA MIŚRA               |
+   |  Ślokavārttika            Bṛhatī                         |
+   |  Tantravārttika              |                           |
+   |      |                    ŚĀLIKANĀTHA (major later       |
+   |  = BHĀṬṬA line             expositor)                    |
+   |                           = PRABHĀKARA line              |
+   +----------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/9: Self, liberation and criticism
-MANY ENDURING SELVES SUPPORT MEMORY, AGENCY, DESERT AND REBIRTH
-cognition is episodic; self persists across body, senses and action
-liberation = end of new merit/demerit, embodiment and painful experience
-strength: sophisticated epistemology, semantics and non-theistic normativity
-Buddhist and Carvaka objections target self, universals and non-perceptual claims
+  OWNERSHIP FIREWALL — held HERE, not by Vedānta
+     injunction · duty · authorless verbal authority · ritual interpretation
+  OWNED THERE, not here
+     Brahman · maya · superimposition · identity-sentences as finally disclosive
 
-ASCII MASTER FLOW — PANEL 9/9: PYQ answer synthesis
-IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING
-state doctrine -> give canonical example -> contrast Nyaya -> assess residual issue
-link intrinsic validity to postulation, non-cognition and Vedic authority
-use exact terminology only after the English concept
-verdict: powerful theory of knowledge and duty, contested ritual metaphysics
+  SOURCE CONTROL
+     ? relative chronology of Kumārila and Prabhākara, and the internal layering of the
+       commentaries, are GENUINELY DISPUTED in scholarship
+     = assert DOCTRINAL OWNERSHIP confidently; assert HISTORICAL SEQUENCE cautiously
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Pūrva- and Uttara-Mīmāṃsā are not two levels of one doctrine but two answers to the  |
+  |  question of what a scripture is FOR: the earlier reads the Veda as a command, the    |
+  |  later as a disclosure.                                                               |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP 1: BHĀṬṬA (school of Kumārila Bhaṭṭa) is NOT Jayarāśi Bhaṭṭa, the sceptical
+    Cārvāka-adjacent author.
+  ! TRAP 2: never write "the Mīmāṃsā view" on error, absence or semantics without naming a
+    sub-school; on all three there is no single Mīmāṃsā view.
+
+ASCII MASTER FLOW — PANEL 3/24: One instinct, six consequences — the Bhāṭṭa / Prabhākara grid
+
+  SHARED COMMITMENTS (never broken by either sub-school)
+  ======================================================================================
+   Vedic authority · realism about objects and selves · ritual efficacy through apūrva
+   intrinsic validity of cognition · IRREDUCIBILITY as the admission test for instruments
+  ======================================================================================
+        BHĀṬṬA (Kumārila): ADMIT what resists     |  PRABHĀKARA: ECONOMISE, avoid positing
+        reduction; pay the ontological cost       |  extra faculties
+  ------------------------------------------------+--------------------------------------
+  1 INSTRUMENTS   SIX                             |  FIVE
+  ------------------------------------------------+--------------------------------------
+  2 ABSENCE       abhāva is REAL, with a          |  the LOCUS is perceived as bare and
+                  counterpositive (pratiyogin);   |  unqualified; no separate instrument
+                  known by anupalabdhi            |  is needed
+  ------------------------------------------------+--------------------------------------
+  3 ERROR         viparīta-khyāti: a REAL false   |  akhyāti / vivekākhyāti: failure to
+                  cognition, caused by defect     |  DISCRIMINATE two valid cognitions;
+                                                  |  NO false cognition at all
+  ------------------------------------------------+--------------------------------------
+  4 COGNITION OF  NOT self-luminous; inferred     |  IS self-luminous; knower, known and
+    COGNITION     from the object's jñātatā       |  knowing revealed together
+  ------------------------------------------------+--------------------------------------
+  5 SEMANTICS     abhihitānvayavāda: words denote |  anvitābhidhānavāda: words denote only
+                  first, then meanings connect    |  AS ALREADY CONNECTED
+  ------------------------------------------------+--------------------------------------
+  6 MOTIVATION    bhāvanā-vāda: the desired fruit |  niyoga-vada: the COMMAND ITSELF binds
+                  moves the qualified agent       |  — duty for duty's sake
+  ======================================================================================
+
+  EXAMINATION WEIGHT: of the 14 primary-owned parts, SIX name Bhāṭṭa or Prabhākara
+  explicitly, and several more are unanswerable without the distinction.
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  The Bhāṭṭa-Prabhākara dispute is not six quarrels but one: whether a philosopher      |
+  |  should enlarge his inventory to fit the phenomenon or trim the phenomenon to fit his  |
+  |  inventory.                                                                           |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP 1: PRABHĀKARA ACCEPTS FIVE, NOT SIX. The single most repeated error in this topic.
+  ! TRAP 2: threefold awareness is Prabhākara's and knownness is Bhāṭṭa's — never reversed.
+  ! TRAP 3: leanness is not superiority; Kumārila's reply is that economy purchased by
+    distorting the phenomenon is false economy.
+
+ASCII MASTER FLOW — PANEL 4/24: Intrinsic validity — the four cells and the argument
+
+  A THEORY OF VALIDITY MUST ANSWER FOUR QUESTIONS, NOT ONE
+  +-----------------------+---------------------------------+------------------------------+
+  |                       |  ORIGIN (utpatti)               |  ASCERTAINMENT (jnapti)      |
+  |                       |  "what MAKES it so?"            |  "how is it KNOWN to be so?" |
+  +-----------------------+---------------------------------+------------------------------+
+  | VALIDITY (prāmāṇya)   |  MĪMĀṂSĀ: INTRINSIC             |  MĪMĀṂSĀ: INTRINSIC          |
+  |                       |  the same conditions that       |  cognition presents itself   |
+  |                       |  generate the cognition         |  as trustworthy, unaided     |
+  |                       |  generate its validity          |                              |
+  +-----------------------+---------------------------------+------------------------------+
+  | INVALIDITY            |  MĪMĀṂSĀ: EXTRINSIC             |  MĪMĀṂSĀ: EXTRINSIC          |
+  | (aprāmāṇya)           |  requires a DEFECT (doṣa):      |  requires a DEFEATER         |
+  |                       |  bad light, distance, organ-    |  (bādhaka): contradiction,   |
+  |                       |  damage, dream-state            |  failure, correction         |
+  +-----------------------+---------------------------------+------------------------------+
+
+  THE STATEMENT: every cognition carries PRIMA FACIE validity unless and until defeated.
+
+  THE ARGUMENT (eleven steps as the school gives them)
+    1 cognition is meant to disclose an object
+    2 if every cognition needed another to validate it, the validator needs validation
+    3 => ANAVASTHĀ (infinite regress)
+    4 to avoid regress, SOME cognition must be valid without external validation
+    5 most economically, EACH cognition is prima facie valid on its own
+    6 we in fact live by trusting cognitions unless a defeating condition appears
+    7 practical life confirms DEFAULT TRUST, not default doubt
+    8 hence validity is intrinsic and invalidity adventitious
+    9 if confirmation were required for every cognition, no FIRST ACTION could be launched
+   10 therefore epistemic economy favours intrinsic validity
+   11 the BURDEN OF PROOF lies on the challenger, not on every fresh cognition
+
+  PRESUPPOSITION: REALISM — cognitions are aimed at real objects and normal causes tend
+  toward truth. Without it the doctrine collapses into subjectivist self-certification.
+
+  WORKED EXAMPLE: I see a pot; I do not suspend judgement pending a certificate; I walk
+  round it, lift it, refer to it. Only poor light, hallucination or contradiction revokes it.
+
+  OBJECTION -> REPLY BANK
+    ! error should be impossible          -> error needs an EXTRINSIC DEFECT
+    ! this licenses gullibility           -> the thesis is DEFEASIBLE and welcomes correction
+    ! correction proves prior invalidity  -> it proves an unnoticed defect was operating
+    ! why call it valid before checking?  -> checking must itself begin from a trusted cognition
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Intrinsic validity is Mīmāṃsā's refusal to let scepticism set the terms: doubt is    |
+  |  parasitic on a trust that must already be in place before any doubt can be raised.   |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP: "intrinsic validity" is DEFEASIBLE DEFAULT WARRANT, never INFALLIBILISM.
+
+ASCII MASTER FLOW — PANEL 5/24: The extrinsic rival and the decisive distinction
+
+  NYĀYA: PARATAH-PRAMANYAVADA — validity extrinsic in ORIGIN and in ASCERTAINMENT
+  --------------------------------------------------------------------------------------
+  ROUTE 1  successful practical activity (pravṛtti-sāmarthya)
+           "I walked over, touched it, drank it — so it was water"
+  ROUTE 2  confirming later perception (saṃvādi-pratyakṣa)
+           "a later perception agrees with the earlier one — so the earlier was valid"
+
+  MĪMĀṂSĀ'S SEVEN-STEP CRITICISM
+    1 if action-success is needed before validity is granted, one must act BEFORE being
+      entitled to trust the cognition
+    2 but that action ITSELF presupposes some trust already
+    3 so Nyāya secretly relies on what it officially postpones
+    4 if a later cognition validates the earlier, a further cognition must validate IT
+    5 the regress returns
+    6 therefore later success can at most CONFIRM or DISCLOSE validity, not GENERATE it
+    7 => VALIDITY ITSELF is distinguished from our reflective ASCERTAINMENT of it
+
+  +--------------------------------------------------------------------------------------+
+  |  THE DECISIVE DISTINCTION                                                             |
+  |  if validity and the ascertainment of validity are the SAME thing, Nyāya wins;        |
+  |  if they COME APART, Mīmāṃsā wins. Write that sentence and the paragraph writes itself.|
+  +--------------------------------------------------------------------------------------+
+
+  NYĀYA'S BEST SHOT — THE DREAM / MIRAGE OBJECTION
+    ! dreams and mirages arise spontaneously, FEEL entirely normal, and are FALSE
+    ! if normal-looking cognitions can be false, why privilege intrinsic validity?
+                                   |
+  MĪMĀṂSĀ'S REPLY — "APPEARANCE OF NORMALCY IS NOT NORMALCY"
+    dream  -> extrinsic defect: exhaustion, sleep-state, internal disturbance
+    mirage -> extrinsic defect: heated air, optical distortion
+    => these do NOT arise from fully normal truth-producing conditions; they are ABNORMAL
+    => the principle stands: cognition under GENUINELY normal conditions is valid
+
+  DEFAULT TRUST AS THE STRUCTURE OF EMBODIED LIFE
+    crossing a road · reading a page · recognising a friend · obeying an instruction
+    all presuppose IMMEDIATE trust => the practical inevitability becomes an epistemic
+    principle: DOUBT IS PARASITIC UPON A MORE BASIC TRUST.
+
+  DISTINCTIONS THE EXAMINER IS CHECKING
+    validity is not certainty · intrinsic validity is not incorrigibility
+    extrinsic invalidity does not mean error is impossible
+    later confirmation is not the SOURCE of truth but one way of DETECTING correction
+
+  ! RESIDUAL PRESSURE (state it in a critical answer): Nyāya can press that "abnormal
+    conditions" is a label applied AFTER a cognition turns out false, so the line between
+    warranted default trust and credulity is drawn by stipulation.
+
+ASCII MASTER FLOW — PANEL 6/24: The comparative strip — four schools on validity
+
+  +---------------+-----------------------+-------------------------+---------------------+
+  | SCHOOL        | VALIDITY              | INVALIDITY              | RELATION TO MĪMĀṂSĀ |
+  +---------------+-----------------------+-------------------------+---------------------+
+  | MĪMĀṂSĀ       | INTRINSIC             | EXTRINSIC               | the position itself |
+  +---------------+-----------------------+-------------------------+---------------------+
+  | NYĀYA         | EXTRINSIC             | EXTRINSIC               | the CHIEF RIVAL     |
+  |               | (pravṛtti-sāmarthya,  |                         | on the largest      |
+  |               |  saṃvādi-pratyakṣa)   |                         | epistemic contrast  |
+  +---------------+-----------------------+-------------------------+---------------------+
+  | SĀṂKHYA       | INTRINSIC             | INTRINSIC               | ALLY that goes too  |
+  |               |                       | truth AND falsity both  | far: falsity does   |
+  |               |                       | disclosed from within   | NOT self-announce   |
+  +---------------+-----------------------+-------------------------+---------------------+
+  | BUDDHIST      | EXTRINSIC             | INTRINSIC               | the EXACT MIRROR-   |
+  | EPISTEMOLOGY  | tied to causal        | falsity reveals itself  | IMAGE of Mīmāṃsā    |
+  |               | efficacy / success    | in failure              |                     |
+  +---------------+-----------------------+-------------------------+---------------------+
+   (Sāṃkhya and Buddhist placements follow standard survey presentation.)
+
+  THE DECISIVE COUNTER TO THE BUDDHIST PLACEMENT
+    if falsity were INTRINSIC, illusion should reveal itself AS illusion immediately
+    but illusion DECEIVES precisely because it does not
+    => the asymmetry is rejected
+
+  WHERE MĪMĀṂSĀ AGREES AND WHERE IT STOPS
+    with SĀṂKHYA: yes to the intrinsic side of VALIDITY
+    against SĀṂKHYA: no to intrinsic INVALIDITY — falsity is discovered through later defeat
+    against NYĀYA: no to extrinsic validity — success confirms, never creates
+    against BUDDHISM: no to pragmatic validity and to self-intimating falsity
+
+  MEMORISE AS A FOUR-ROW STRIP
+     MĪMĀṂSĀ  I / E        NYĀYA  E / E        SĀṂKHYA  I / I        BUDDHIST  E / I
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Every classical Indian theory of validity occupies one cell of a two-by-two grid;    |
+  |  Mīmāṃsā's originality is that it is the only school that makes truth free and        |
+  |  falsehood expensive.                                                                 |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP: Sāṃkhya and Buddhism sit adjacent in every table and are routinely EXCHANGED
+    under time pressure. Sāṃkhya = intrinsic/intrinsic. Buddhist = extrinsic/intrinsic.
+
+ASCII MASTER FLOW — PANEL 7/24: The instrument list and the admission rule
+
+                 pratyakṣa  anumāna  upamāna  śabda  arthāpatti  anupalabdhi
+                 perception inference compar.  testim. postulation non-cognition
+   -------------+----------+--------+--------+-------+----------+-------------
+   SĀṂKHYA      |    X     |   X    |        |   X   |          |               = 3
+   NYĀYA        |    X     |   X    |   X    |   X   |          |               = 4
+   PRABHĀKARA   |    X     |   X    |   X    |   X   |    X     |               = 5
+   BHĀṬṬA       |    X     |   X    |   X    |   X   |    X     |      X        = 6
+   -------------+----------+--------+--------+-------+----------+-------------
+                                              +---- THE TWO SEATS BY WHICH ----+
+                                                    MĪMĀṂSĀ EXCEEDS NYĀYA
+
+  THE ADMISSION RULE (shared by both sub-schools)
+  +--------------------------------------------------------------------------------------+
+  |  Admit a new instrument ONLY where a type of knowledge cannot be reduced to another   |
+  |  WITHOUT REMAINDER or WITHOUT CIRCULARITY.                                            |
+  +--------------------------------------------------------------------------------------+
+
+  ONE-LINE DEFINITIONS (learn verbatim)
+    pratyakṣa ..... immediate knowledge produced by sense-object contact
+    anumāna ....... mediate knowledge from a sign through known concomitance
+    upamāna ....... fresh knowledge that a previously known but ABSENT object is similar
+                    to a presently perceived object
+    śabda ......... valid verbal testimony, especially Vedic testimony regarding dharma
+    arthāpatti .... necessary postulation of an unseen fact to reconcile incompatible facts
+    anupalabdhi ... knowledge of absence through non-apprehension of what WOULD be
+                    apprehended if present
+
+  THE EIGHT-STEP JUSTIFICATION
+    1 perception handles directly given objects
+    2 inference handles sign-based mediated knowledge
+    3 testimony handles verbally transmitted content
+    4 comparison handles resemblance-based identification
+    5 yet some cognitions arise NEITHER through signhood NOR positive direct perception
+    6 postulation resolves contradiction-like TENSION among known facts
+    7 absence-cognition, for Bhāṭṭa, discloses what is NOT there under proper conditions
+    8 if these cannot be reduced without circularity, they deserve INDEPENDENT status
+
+  THE THREE-TERM VOCABULARY
+    pramāṇa (the operative MEANS) -> pramā / pramiti (the TRUE COGNITION produced)
+    -> pravṛtti-sāmarthya (successful action: CONFIRMS correspondence, never MANUFACTURES
+       validity after the cognition arose)
+
+  SUMMARY FORMULA: Bhāṭṭa = six · Prabhākara = five · the difference turns on ANUPALABDHI ·
+  the whole list is governed by IRREDUCIBILITY, not by inflation.
+
+  ! TRAP 1: instruments are individuated by the MANNER of generation, not by topic.
+  ! TRAP 2: Mīmāṃsā does not oppose anumāna; it opposes REDUCTIONISM ABOUT ANUMĀNA.
+
+ASCII MASTER FLOW — PANEL 8/24: Perception — two stages, and the realism it protects
+
+  NIRVIKALPAKA-PRATYAKṢA  ------------->  SAVIKALPAKA-PRATYAKṢA
+  (indeterminate; also ālocana-jñāna)     (determinate)
+  ------------------------------------    ------------------------------------------------
+  first NON-VERBAL awareness that an      the object grasped AS QUALIFIED by class,
+  object is PRESENT, before explicit      quality, action and name:
+  classification and predication          "this is a white moving cow"
+
+  THE CONTROLLING CLAIM
+  +--------------------------------------------------------------------------------------+
+  |  the determinate stage INTERPRETS what was IMPLICITLY AVAILABLE in the first stage.   |
+  |  It does NOT invent an unreal predicate.                                              |
+  +--------------------------------------------------------------------------------------+
+                                   |
+     supports two positions elsewhere in the system:
+       (a) REALISM against the Buddhist claim that perception gives only a unique
+           NON-CONCEPTUAL PARTICULAR
+       (b) REALISM against any view on which classification NECESSARILY FALSIFIES the given
+       (c) and it underwrites Panel 21's defence of REAL UNIVERSALS against apoha
+
+  WHAT BOTH SUB-SCHOOLS SHARE
+     perception is accepted · it is immediate · it is realist · it is the most basic
+     disclosure of sensible objects
+
+  WHERE THEY DIVIDE — INSIDE PERCEPTION ITSELF
+     PRABHĀKARA  perception is SELF-LUMINOUS as part of tripuṭī-saṃvit: the object, the
+                 subject and the cognition are simultaneously revealed
+     BHĀṬṬA      the OBJECT is perceived, but the COGNITION is not self-luminous; its
+                 occurrence is INFERRED from the object's jñātatā
+     => the instrument is shared; its REFLEXIVE STRUCTURE is disputed (see Panel 18)
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Mīmāṃsā allows perception two stages precisely so that classification need not       |
+  |  become falsification: what the second stage says, the first stage already held.      |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP: do not treat determinate perception as an overlay imposed on a pure given. That
+    reading concedes the Buddhist premise and destroys the school's semantic realism.
+
+ASCII MASTER FLOW — PANEL 9/24: Inference and comparison — acceptance, and the Nyāya contrast
+
+  INFERENCE (anumāna) — ACCEPTED IN FULLY STANDARD FORM
+  --------------------------------------------------------------------------------------
+     smoke SEEN + smoke-fire concomitance (vyāpti) KNOWN  ->  fire INFERRED
+     the school has NO general hostility to inference
+     its distinctive move is ONLY to deny that ALL mediate cognition is inferential
+     +--------------------------------------------------------------------------------+
+     |  Mīmāṃsā opposes REDUCTIONISM ABOUT ANUMĀNA, not anumāna.                       |
+     |  This is what licenses arthāpatti (Panels 12-13) and anupalabdhi (Panels 14-15). |
+     +--------------------------------------------------------------------------------+
+
+  COMPARISON (upamāna) — THE MOST MISREPORTED INSTRUMENT
+  --------------------------------------------------------------------------------------
+     MĪMĀṂSĀ'S ACCOUNT
+       1 one has PREVIOUSLY SEEN a cow
+       2 one now PERCEIVES a wild ox (gavaya) in the forest as similar to it
+       3 from that perceived similarity arises the NEW cognition:
+             "the previously seen cow is SIMILAR to this gavaya"
+       4 not PERCEPTION — the absent cow is not presently sensed
+       5 not MEMORY — its similarity to this new animal was not previously known
+       6 not INFERENCE — no universal concomitance is used
+
+     NYĀYA'S ACCOUNT (do NOT write this as the Mīmāṃsā definition)
+       prior TESTIMONY "a gavaya is like a cow" + later perception
+       => one learns the WORD-OBJECT RELATION
+
+     ? Śabara is sometimes read as allowing a WIDER ANALOGICAL FORM, such as reasoning from
+       one's own experienced self to other selves. The later similarity-cognition account is
+       the SAFE EXAM DEFAULT.
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Mīmāṃsā keeps every instrument its rivals keep and quietly re-tunes each: inference   |
+  |  is honoured but forbidden to annex its neighbours, and comparison is redefined around |
+  |  similarity rather than vocabulary.                                                   |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP 1: the gavaya EXAMPLE is shared by both schools; the MECHANISM is not. A candidate
+    who remembers only the example imports the Nyāya account without noticing.
+  ! TRAP 2: never write "Mīmāṃsā rejects inference".
+
+ASCII MASTER FLOW — PANEL 10/24: Testimony — two independent classifications
+
+  CLASSIFICATION BY SOURCE
+  +----------------------------------+---------------------------------------------------+
+  | PERSONAL (pauruseya-śabda)       | depends on a COMPETENT HUMAN SPEAKER and remains  |
+  |                                  | vulnerable to SPEAKER-DEFECT                      |
+  +----------------------------------+---------------------------------------------------+
+  | IMPERSONAL (apauruseya-śabda)    | Vedic testimony; INTRINSICALLY VALID in the       |
+  |                                  | supersensible domain of duty; NO speaker, hence   |
+  |                                  | NO defect-locus                                   |
+  +----------------------------------+---------------------------------------------------+
+                                   |
+                     this split is the ENTRY POINT to Panel 22 (authorlessness)
+
+  CLASSIFICATION BY FUNCTION
+  +----------------------------------+---------------------------------------------------+
+  | FACT-STATING (siddhārtha-vākya)  | states an existent fact                           |
+  +----------------------------------+---------------------------------------------------+
+  | ACTION-ENJOINING (vidhayaka-     | enjoins an action                                 |
+  | vakya)                           |                                                   |
+  +----------------------------------+---------------------------------------------------+
+     KUMĀRILA recognises the distinction WHILE MAKING INJUNCTION CENTRAL to Vedic purpose
+     PRABHĀKARA more radically interprets cognition AND language through action-guidance
+                                   |
+                     this split is the ENTRY POINT to Panel 23 (injunction theory)
+
+  WHY TESTIMONY IS DIGNIFIED HERE
+     in ordinary matters it depends on a competent source
+     in matters of DUTY the decisive verbal source is the VEDA
+     +--------------------------------------------------------------------------------+
+     |  It is NOT a fallback after perception fails.                                   |
+     |  It is the ONLY ROUTE to supersensible duty.                                    |
+     +--------------------------------------------------------------------------------+
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Mīmāṃsā promotes testimony from a convenience to the sole competent witness, and     |
+  |  then removes the one thing that could discredit a witness — the witness himself.     |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP 1: "impersonal" does NOT mean "divine". Divine authorship is the NYĀYA route.
+  ! TRAP 2: the source-split and the function-split are TWO INDEPENDENT CUTS across
+    testimony; do not merge them into one classification.
+
+ASCII MASTER FLOW — PANEL 11/24: Memory excluded — the novelty condition
+
+  WHAT A MEANS OF VALID KNOWLEDGE MUST DO
+  +--------------------------------------------------------------------------------------+
+  |  (a) operate as the SOURCE of a cognition                                             |
+  |  (b) disclose an OBJECT                                                               |
+  |  (c) do so FRESHLY — NOVELTY (anadhigatatva), i.e. not-already-ascertained            |
+  +--------------------------------------------------------------------------------------+
+                                       |
+                       MEMORY (smṛti) TESTED AGAINST (a) (b) (c)
+                                       |
+      (a) YES it operates      (b) YES it has an object      (c) NO — IT FAILS HERE
+                                                             it depends on an EARLIER
+                                                             cognition + a latent
+                                                             impression (saṃskāra) and
+                                                             RE-PRESENTS known content
+                                       |
+                     => MEMORY IS NOT A PRAMĀṆA (both sub-schools; Nyāya agrees)
+
+  PRABHĀKARA'S FIVE STEPS                    |  NYĀYA'S CONCURRENCE
+  -------------------------------------------+------------------------------------------
+  1 a pramāṇa must generate a NEW cognition  |  memory presents what was ALREADY known
+  2 memory depends on an earlier cognition   |  it is RE-PRESENTATION, not fresh
+    and a latent impression                  |  disclosure
+  3 it reproduces OLD content                |  hence it is not a pramāṇa
+  4 it does not reveal a new object as       |  => THIS IS WHY THE 2024 PAPER PAIRS
+    presently known                          |     "the Prābhākaras AND the Naiyāyikas"
+  5 therefore it is NOT a pramāṇa            |     IN ONE QUESTION
+
+  WHAT THE EXCLUSION DOES *NOT* SAY
+     memory may be TRUE · may be USEFUL · may GUIDE ACTION successfully
+     but USEFULNESS IS NOT ENOUGH for the title; NOVEL VALID DISCLOSURE is required
+     example: seeing a temple NOW is perception; recalling yesterday's visit is memory,
+     and the latter is not new knowledge OF THE TEMPLE
+
+  WHERE MEMORY STILL DOES REAL WORK
+     comparison (upamāna) uses a REMEMBERED cow
+     Prabhākara's error-theory (akhyāti) uses a REMEMBERED silver
+     Bhāṭṭa sentence-comprehension uses MEMORY OF THE ORDERED SERIES of phonemes
+     => memory is a working COMPONENT of cognitive life; it is simply not an INSTRUMENT
+
+  ! TRAP 1: "memory is unreliable" is the WRONG reason and concedes ground to the sceptic.
+  ! TRAP 2: over-correcting by writing memory out of the system altogether.
+  ! RESIDUAL: because the exclusion is DEFINITIONAL, a rival may contest the definition.
+    Reply: the definition tracks a real difference between DISCLOSING and RETRIEVING.
+
+ASCII MASTER FLOW — PANEL 12/24: Postulation — structure, the canonical case, two forms
+
+  THE BARE STRUCTURE                        THE CANONICAL CASE — STOUT DEVADATTA
+  ----------------------------------        ------------------------------------------------
+  Fact A is known                           1 Devadatta is stout           (perception)
+  Fact B is known                           2 he does not eat by day       (testimony /
+  A and B CANNOT stand together                                            repeated observation)
+       unless C is admitted                 3 stoutness is INCOMPATIBLE with total absence
+  therefore C is POSTULATED                   of nourishment
+  NECESSITY = explanatory reconciliation    4 => the two known facts produce EXPLANATORY
+                                              TENSION
+                                            5 to resolve it, he must eat at ANOTHER time
+                                            6 the natural and sufficient postulate: AT NIGHT
+                                            7 night-eating is NOT directly perceived here
+                                            8 it is NOT supplied by memory either
+                                            9 it is POSTULATED, because otherwise the known
+                                              data remain INEXPLICABLE
+
+  PRESUPPOSITIONS
+     bodily conditions have intelligible causes · stoutness normally requires nourishment
+     rational cognition SEEKS COHERENCE among accepted facts
+
+  THE DISTINCTION INSIDE THE CASE
+     the reasoning does NOT begin from a sign like smoke; it begins from TENSION BETWEEN
+     FACTS — and the output is not merely "he eats" but the MINIMALLY RECONCILING POSTULATE.
+     ("Minimally" is what stops postulation licensing extravagant explanations.)
+
+  TWO FORMS
+     dṛṣṭārthāpatti  (from PERCEIVED facts) — the Devadatta case above
+     śrutārthāpatti  (from HEARD WORDS)     — supplies what an utterance needs to be
+                                              coherent: ellipsis, contextual completion
+     both are EXPLANATORY NECESSITY, not tentative hypothesis; only the source of the
+     initiating tension differs
+
+  EXAMPLE BANK
+     stout Devadatta, no day-eating -> eats at night           (use FIRST, always)
+     candidate never seen studying by day, tops the exam -> studies at another time
+     person never seen leaving home yet present at office daily -> leaves unobserved
+     ! canonical example first; modern examples only to illustrate
+
+  OBJECTION -> REPLY
+     ! why not simply suspend judgement?  -> the facts as accepted PRESS toward
+       reconciliation; postulation is the cognition produced by that necessity
+     ! any explanation could be relabelled postulation -> only postulations NECESSARY to
+       resolve an ESTABLISHED incompatibility qualify
+
+  ! TRAP: retelling the case with an added premise such as "whoever is fat eats" silently
+    concedes the Nyāya reduction the answer was supposed to refute.
+
+ASCII MASTER FLOW — PANEL 13/24: Postulation — three anti-reduction arguments and circularity
+
+  WHY ARTHĀPATTI IS NOT ANUMĀNA — three INDEPENDENT arguments
+  ======================================================================================
+  (1) NO INDEPENDENTLY ESTABLISHED CONCOMITANCE
+      inference requires vyāpti KNOWN BEFOREHAND, relating hetu to sādhya
+      we possess NO prior universal rule "all stout non-day-eaters eat at night"
+      the cognition arises because the facts would OTHERWISE CONFLICT
+      => the engine is NOT vyāpti
+  --------------------------------------------------------------------------------------
+  (2) THE DIRECTION OF REASONING DIFFERS
+      INFERENCE   : observed SIGN --------------> unobserved SIGNIFIED
+                    "this sign INDICATES that fact"
+      POSTULATION : explanatory TENSION ---------> reconciling POSTULATE
+                    "WITHOUT that postulate, THESE facts are inexplicable"
+  --------------------------------------------------------------------------------------
+  (3) NO SUBJECT / REASON / PROBANDUM STRUCTURE
+      standard inference parses into pakṣa (subject) · hetu (reason) · sādhya (probandum)
+      postulation lacks that form entirely: no identified hetu sitting in a pakṣa
+      what there IS: a CLASH of accepted facts and a DEMANDED supplementation
+  ======================================================================================
+
+  THE NYĀYA REDUCTION AND THE CIRCULARITY REPLY
+  --------------------------------------------------------------------------------------
+     NYĀYA   : hetu = fatness · sādhya = eating · vyāpti = "whoever is fat eats"
+     MĪMĀṂSĀ : that vyāpti is NOT INDEPENDENTLY KNOWN.
+               If you claim it IS known, it was learned FROM LIVED CASES by exactly the
+               tension-driven move under dispute.
+     +--------------------------------------------------------------------------------+
+     |  THE REDUCTION USES AS ITS PREMISE WHAT POSTULATION ALONE SUPPLIES.             |
+     |  IT IS THEREFORE CIRCULAR.                                                      |
+     +--------------------------------------------------------------------------------+
+
+  THE 2024 APPLIED CASE — worked in the Bhāṭṭa manner
+     1 the candidate TOPS the examination
+     2 the candidate is NEVER SEEN studying by day
+     3 examination success is incompatible with NO preparation at all
+     4 therefore some UNOBSERVED preparation must be posited
+     5 natural postulate: study at night or otherwise outside observed daytime
+     NYĀYA FRAMING: "wherever there is success there is preparation; this candidate has
+     success; therefore he had preparation" — misses the explanatory TENSION and slides in
+     a vyāpti far too quickly
+
+  POSTULATION AND MODERN EXPLANATORY REASONING
+     it RESEMBLES inference to the best explanation, but the classical claim is STRONGER:
+     not "best among options" but "the postulate WITHOUT WHICH the known facts remain
+     untenable". That NECESSITY is why it earns instrument-status.
+
+  DISTINCTIONS TO WRITE OUT
+     arthāpatti is NOT a guess · NOT a probabilistic hunch · NOT standard anumāna
+     arthāpatti IS explanatory postulation compelled by unresolved incompatibility
+
+  WHERE IT REAPPEARS IN THE SYSTEM
+     it ESTABLISHES apūrva (Panel 23) and supplies the FORM of the authorlessness
+     argument (Panel 22) => postulation is load-bearing, not ornamental
+
+  ! TRAP 1: giving only ONE of the three arguments.
+  ! TRAP 2: omitting the circularity reply, which is the move that actually defeats Nyāya.
+  ! TRAP 3: writing that Prabhākara rejects postulation. It is his FIFTH instrument.
+
+ASCII MASTER FLOW — PANEL 14/24: Non-cognition — seven steps and the fitness filter
+
+  DEFINITION: the independent means of knowing ABSENCE through NON-APPREHENSION of what
+  WOULD be apprehended if present. Characteristic of BHĀṬṬA Mīmāṃsā.
+
+  KUMĀRILA'S SEVEN-STEP ARGUMENT
+    1 we DO know absences: "there is no pot on the table"
+    2 this cognition is DEFINITE and ACTION-GUIDING
+    3 not ordinary PERCEPTION — perception gives POSITIVE content
+    4 not INFERENCE — inference requires a POSITIVE SIGN
+    5 not memory, comparison or testimony in the typical case
+    6 therefore an INDEPENDENT source is needed
+    7 that source is ANUPALABDHI
+
+  THE FITNESS FILTER (yogyatā) — ALL FOUR must hold => yogyānupalabdhi
+  +--------------------------------------------------------------------------------------+
+  |  * the absent object must be the KIND of thing perceivable if present                 |
+  |  * the LOCUS must be suitable                                                         |
+  |  * the SENSE ORGAN must be functioning                                                |
+  |  * LIGHT, DISTANCE and ATTENTION must be proper                                       |
+  +--------------------------------------------------------------------------------------+
+       PASSES -> knowledge of absence          FAILS -> mere non-noticing, no knowledge
+       YES "no pot on this bare, lit table before me"
+       NO  "there are no atoms here"        (atoms are not perceptible => filter fails)
+       NO  keys unseen on a cluttered desk in poor light after a hurried glance
+       NO  a sound unheard while attention is absorbed elsewhere
+
+  WHY BHĀṬṬA DENIES REDUCTION TO PERCEPTION
+     perception reveals what is POSITIVELY PRESENT: table, colour, shape, spatial spread
+     "absence of pot" is NOT a positive sensible datum of that kind
+     perceiving the EMPTY TABLE is one thing; cognising that THE POT IS ABSENT is another
+
+  WHY BHĀṬṬA DENIES REDUCTION TO INFERENCE
+     inference requires a positive sign and known concomitance
+     in absence-cognition NO independent positive sign is typically identified
+     if "not-seeing the pot" is offered as the sign, one must explain WHY not-seeing has
+     evidentiary force — and that force ALREADY presupposes the relevance of
+     non-apprehension under FIT conditions
+     => the inferential reduction is either STRAINED or CIRCULAR
+
+  ORDINARY-LIFE VINDICATION
+     no chalk on the tray · no key in the drawer · no bus at the stop
+     philosophy must explain what everyday life constantly presupposes
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Kumārila's claim is not that something can be learned from failing to see, but that  |
+  |  it can be learned only when failing to see is GUARANTEED to be informative — and the |
+  |  doctrine is the specification of when that guarantee holds.                          |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP 1: attributing anupalabdhi to Mīmāṃsā generally. It is BHĀṬṬA's.
+  ! TRAP 2: describing it as "not noticing". It is a DETERMINATE VERDICT of absence.
+
+ASCII MASTER FLOW — PANEL 15/24: Absence — ontology and the three-way dispute
+
+  THE ONTOLOGICAL STATUS OF ABHĀVA (the 2021 core)
+  +--------------------------------------------------------------------------------------+
+  |  BHĀṬṬA: abhāva is REAL. It is NOT merely a feature of language.                      |
+  |  It has a COUNTERPOSITIVE (pratiyogin) — the entity whose absence is involved.        |
+  |  "absence of pot" is therefore a STRUCTURED ONTOLOGICAL CONTENT.                      |
+  |  => negative cognition has a REAL OBJECT.                                             |
+  +--------------------------------------------------------------------------------------+
+
+  THE THREE-WAY DISPUTE
+  +---------------+----------------------------------+-----------------------------------+
+  | SCHOOL        | WHAT IS KNOWN                    | IS A SEPARATE INSTRUMENT NEEDED?  |
+  +---------------+----------------------------------+-----------------------------------+
+  | BHĀṬṬA        | a REAL absence, structured by    | YES — anupalabdhi                 |
+  |               | its counterpositive              |                                   |
+  +---------------+----------------------------------+-----------------------------------+
+  | PRABHĀKARA    | the LOCUS as UNQUALIFIED by the  | NO — the bare-locus cognition     |
+  |               | absent object; we perceive the   | ALREADY carries the negative      |
+  |               | table as BARE                    | differentiation needed            |
+  +---------------+----------------------------------+-----------------------------------+
+  | NYĀYA         | ABSENCE ITSELF, DIRECTLY         | NO — "pot-absence-on-the-floor"   |
+  |               | PERCEIVED; abhāva is accepted as | is itself a perceptual object     |
+  |               | a real category                  |                                   |
+  +---------------+----------------------------------+-----------------------------------+
+     => NYĀYA AND PRABHĀKARA CONVERGE AGAINST BHĀṬṬA ON INDEPENDENCE, for DIFFERENT reasons
+     ! do NOT therefore say "Nyāya denies abhāva". Nyāya denies the separate INSTRUMENT.
+
+  THE INTRA-MĪMĀṂSĀ DEBATE (the 2025 core)
+     BHĀṬṬA     : abhāva is real AND known by an independent instrument
+     PRABHĀKARA : what is known is simply the locus as unqualified; no instrument needed
+     ! answer the 2025 question as an INTERNAL dispute, not as Mīmāṃsā versus Nyāya
+     KUMĀRILA'S COUNTER: economy purchased by flattening a determinate NEGATIVE judgement
+     into a POSITIVE perception is FALSE ECONOMY
+
+  OBJECTION -> REPLY
+     ! if absence is real, reality becomes overcrowded with negatives
+       -> Bhāṭṭa ACCEPTS this ontological cost to preserve the reality of negative cognition
+     ! non-perception is too subjective
+       -> only YOGYĀNUPALABDHI under fit conditions counts, never careless overlooking
+
+  GRADED VERDICT
+     Kumārila preserves the PHENOMENOLOGY of negative cognition most faithfully while
+     carrying the HEAVIEST ONTOLOGY — a cost he expressly accepts.
+     Prabhākara is the more ECONOMICAL metaphysician; Nyāya is the most PERCEPTUALLY direct.
+
+  ! TRAP: in a question about ONTOLOGICAL STATUS, forgetting the pratiyogin.
+
+ASCII MASTER FLOW — PANEL 16/24: Error — the four theories, stated precisely
+
+  THE SHARED DATUM: a shell (nacre) lies before the subject, who says "this is silver" and
+  reaches for it.
+
+  +----------------------+------------+----------------------------------+-----------------+
+  | THEORY               | SCHOOL     | HOW SHELL-SILVER IS EXPLAINED    | THE "SILVER" IS |
+  +----------------------+------------+----------------------------------+-----------------+
+  | akhyāti /            | PRABHĀKARA | TWO VALID cognitions whose       | NO false silver |
+  | vivekākhyāti         |            | DIFFERENCE is not apprehended:   | at all          |
+  | (non-apprehension    |            | perception of "this shining      |                 |
+  |  of DIFFERENCE)      |            | thing" + memory of silver        |                 |
+  +----------------------+------------+----------------------------------+-----------------+
+  | viparīta-khyāti      | BHĀṬṬA     | the shell is POSITIVELY          | a really WRONG  |
+  | (contrary            |            | MISCOGNISED AS silver;           | IDENTIFICATION  |
+  |  apprehension)       |            | ONE erroneous cognition          |                 |
+  +----------------------+------------+----------------------------------+-----------------+
+  | anyathā-khyāti       | NYĀYA      | REAL silver known ELSEWHERE is   | real, but       |
+  | (otherwise-          |            | presented HERE, wrongly          | DISPLACED       |
+  |  apprehension)       |            |                                  |                 |
+  +----------------------+------------+----------------------------------+-----------------+
+  | anirvacanīya-khyāti  | ADVAITA    | an INDESCRIBABLE appearance is   | NEITHER real    |
+  | (indescribable-      |            | projected and later sublated     | NOR unreal      |
+  |  apprehension)       |            |                                  |                 |
+  +----------------------+------------+----------------------------------+-----------------+
+                ^                                        ^
+                +--- these two BOTH admit a false cognition and are CONSTANTLY CONFLATED --+
+                     BHĀṬṬA: the object HERE is MISIDENTIFIED
+                     NYĀYA : an object KNOWN ELSEWHERE is MISPLACED
+                     => "wrong identification" is NOT "right object, wrong location"
+
+  PRABHĀKARA'S FIVE STEPS            |  BHĀṬṬA'S SEVEN STEPS
+  -----------------------------------+---------------------------------------------------
+  1 valid perception of "this        |  1 the shell is before the subject
+    shining object here"             |  2 bad light, distance, similar shine or sensory
+  2 that perception is of the shell's|    defect causes miscognition
+    present appearance               |  3 a SINGLE erroneous cognition arises: "this is
+  3 valid MEMORY of silver           |    silver"
+  4 failure to DISTINGUISH the two   |  4 the cognition is FALSE
+  5 behaviour follows; NO separate   |  5 its falsity is due to EXTRINSIC DEFECT, not to
+    false cognition need be posited  |    cognition's intrinsic nature
+                                     |  6 correction on approaching and seeing clearly
+                                     |  7 invalidity is then known EXTRINSICALLY
+
+  MĪMĀṂSĀ VERSUS THE OTHER TWO
+     Mīmāṃsā stays more EPISTEMOLOGICALLY ANCHORED and REALIST: it neither disperses the
+     object elsewhere like Nyāya nor renders it metaphysically indeterminate like Advaita.
+
+  ! TRAP 1: translating akhyāti as "TOTAL non-apprehension". It is non-apprehension OF
+    DIFFERENCE — which is why vivekākhyāti is the more precise label.
+  ! TRAP 2: merging viparīta-khyāti with anyathā-khyāti.
+
+ASCII MASTER FLOW — PANEL 17/24: Error — two defences of one shared thesis
+
+  THE 2022 PUZZLE, STATED
+     "IN SPITE OF accepting the intrinsic validity of knowledge, why and how do Prabhākara
+      and Kumārila differ in their interpretation of erroneous cognition?"
+     => the "in spite of" clause IS the question.
+
+  WHY ERROR IS THE SYSTEM'S STRESS-TEST
+     any theory of intrinsic validity MUST explain illusion
+     if cognition is prima facie valid, what exactly GOES WRONG in false experience?
+     => the theories of error are not an appendix to the epistemology; they are its proof
+
+  THE TWO DEFENCE STRATEGIES
+  +--------------------------------------+-----------------------------------------------+
+  | PRABHĀKARA PROTECTS                  | BHĀṬṬA PROTECTS                               |
+  | *** EVERY CONSTITUENT COGNITION ***  | *** THE PRINCIPLE GOVERNING NORMAL           |
+  |                                      |     COGNITION ***                             |
+  +--------------------------------------+-----------------------------------------------+
+  | the presentational cognition of      | falsity IS admitted, but it is QUARANTINED    |
+  | "this" is valid                      | in DEFECT-RIDDEN conditions                   |
+  | the memory of silver is valid        | validity belongs to cognition under NORMAL    |
+  | error lies ONLY in their conflation  | conditions; falsity belongs to defect         |
+  | => NO individual cognition is ever   | => invalidity is known EXTRINSICALLY, through |
+  |    labelled false                    |    later defeat                               |
+  +--------------------------------------+-----------------------------------------------+
+
+  THE COSTS ARE EXACTLY COMPLEMENTARY
+     PRABHĀKARA must explain the ASSERTIVE FORCE of "this is silver" by a mere failure of
+                discrimination
+                ! objection: this UNDERESTIMATES the assertive force of illusion
+                -> reply: non-discrimination can explain assertive behaviour without adding
+                   a false cognition
+     BHĀṬṬA     must admit a FALSE COGNITION into a system built on default truth
+                ! objection: this GRANTS TOO MUCH to falsity
+                -> reply: it grants falsehood ONLY under abnormal conditions, preserving the
+                   default truth of cognition
+
+  THE BEHAVIOURAL FACT THAT DIVIDES THEM
+     reaching for the silver must be explained
+     BHĀṬṬA: best explained by a POSITIVE FALSE JUDGEMENT
+     PRABHĀKARA: NON-DISCRIMINATION suffices
+     => the debate concerns PHILOSOPHICAL PSYCHOLOGY as much as epistemology
+
+  SHARED PRESUPPOSITIONS
+     error must be explainable WITHOUT collapsing trust in cognition
+     memory and perception CAN interact
+     defect and correction are intelligible features of cognitive life
+
+  +--------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                                |
+  |  Prabhākara saves intrinsic validity by refusing to admit a false cognition anywhere,  |
+  |  and Kumārila saves it by admitting one and then quarantining it. The disagreement is  |
+  |  about what price is worth paying to keep the same trust intact.                       |
+  +--------------------------------------------------------------------------------------+
+
+  ! TRAP: concluding that Bhāṭṭa ABANDONS intrinsic validity because he admits falsity.
+
+ASCII MASTER FLOW — PANEL 18/24: How cognition is known — three answers to one regress
+
+  THE PROBLEM
+     if a cognition is NOT manifest in itself, another cognition must reveal it
+     ... and THAT one needs a third ... and so on  =>  INFINITE REGRESS (anavasthā)
+     ALL THREE CLASSICAL ANSWERS ARE DEVICES FOR STOPPING THIS REGRESS.
+
+  +--- PRABHĀKARA -----------------------------------------------------------------------+
+  |  ONE ACT, THREE DISCLOSURES         jñātṛ  (knower) --+                               |
+  |  cognition is SELF-LUMINOUS         jñeya  (known)  --+-- revealed TOGETHER, at once   |
+  |  (svaprakāśa)                       jñāna  (knowing)--+                               |
+  |  SIX STEPS: 1 cognition illuminates its object · 2 if it were not itself manifest,     |
+  |  another cognition would be needed · 3 that needs a third => regress · 4 therefore     |
+  |  cognition reveals ITSELF in the act of revealing the object · 5 the subject is also   |
+  |  disclosed as the one who knows · 6 hence a THREEFOLD revelation                      |
+  |  LAMP ANALOGY: a lamp reveals itself and other things at once => economy + no regress  |
+  |  ! reflection ("I know that I know") is a LATER conceptual articulation of what was    |
+  |    already manifest PRE-REFLECTIVELY                                                   |
+  |  ! objection: this confuses subject, object and cognition                              |
+  |    -> reply: they are simultaneously DISCLOSED, not ontologically COLLAPSED            |
+  |  => NO METACOGNITIVE GAP                                                               |
+  +--------------------------------------------------------------------------------------+
+  +--- BHĀṬṬA ---------------------------------------------------------------------------+
+  |  cognition is NOT self-luminous                                                        |
+  |  FOUR STEPS: 1 an object, once cognised, stands in a NEW RELATION: it is now KNOWN     |
+  |  2 that new status is JÑĀTATĀ (knownness) · 3 observing the object's knownness, we     |
+  |  INFER that a cognition has occurred · 4 therefore awareness of cognition is           |
+  |  INFERENTIAL, not immediate                                                            |
+  |  PAINTER ANALOGY: it paints objects but does not paint ITSELF; its occurrence is       |
+  |  established through what it LEAVES BEHIND in the object                                |
+  |  ! objection: jñātatā is a mysterious property -> reply: the cost is accepted in order  |
+  |    to avoid the stronger thesis of self-luminosity                                     |
+  |  ! objection: self-awareness feels too immediate for inference -> reply: felt immediacy |
+  |    need not equal non-inferential STRUCTURE                                            |
+  |  => TEMPORAL AND LOGICAL GAP: "I know" first, "I know that I know" afterwards           |
+  +--------------------------------------------------------------------------------------+
+  +--- NYĀYA ----------------------------------------------------------------------------+
+  |  FOUR STEPS: 1 first-order cognition reveals the object · 2 a LATER inner awareness    |
+  |  takes that cognition as its OBJECT · 3 it has the form "I know the pot" / "I knew the |
+  |  pot" · 4 therefore knowing-that-I-know is NEITHER self-luminosity NOR inference from  |
+  |  knownness, but SECOND-ORDER APPREHENSION = ANUVYAVASĀYA                                |
+  |  ! objection: second-order awareness threatens regress -> reply: Nyāya treats the       |
+  |    higher-order awareness as SUFFICIENT without endless repetition                      |
+  |  => REFLECTIVE GAP                                                                     |
+  +--------------------------------------------------------------------------------------+
+
+  THREE GAPS, IN THREE WORDS:   NONE  ·  INFERENTIAL  ·  REFLECTIVE
+
+  ! TRAP: swapping the mechanisms. tripuṭī-saṃvit = PRABHĀKARA · jñātatā = BHĀṬṬA ·
+    anuvyavasāya = NYĀYA.
+
+ASCII MASTER FLOW — PANEL 19/24: Self-luminosity and intrinsic validity — the entailment grid
+
+  TWO INDEPENDENT QUESTIONS
+     Q1 MANIFESTATION      : is cognition / consciousness SELF-LUMINOUS?
+     Q2 TRUTH-ENTITLEMENT  : is VALIDITY INTRINSIC?
+     they answer DIFFERENT questions, so NO entailment follows from the definitions alone
+
+  +----------------------+---------------------------+-------------------+----------------+
+  | SCHOOL               | Q1 SELF-LUMINOUS?         | Q2 VALIDITY       | CONSEQUENCE    |
+  |                      |                           | INTRINSIC?        |                |
+  +----------------------+---------------------------+-------------------+----------------+
+  | NYĀYA                | NO — known through a      | NO — ascertained  | accepts        |
+  |                      | subsequent anuvyavasāya   | extrinsically     | NEITHER thesis |
+  +----------------------+---------------------------+-------------------+----------------+
+  | PRABHĀKARA MĪMĀṂSĀ   | YES — one cognition       | YES               | CONNECTS both  |
+  |                      | manifests knower, known   |                   | theses         |
+  |                      | and knowing               |                   |                |
+  +----------------------+---------------------------+-------------------+----------------+
+  | BHĀṬṬA MĪMĀṂSĀ       | NO — cognition inferred   | YES               | *** DECISIVE   |
+  |                      | from acquired jñātatā     |                   | COUNTEREXAMPLE |
+  |                      |                           |                   | TO ENTAILMENT  |
+  +----------------------+---------------------------+-------------------+----------------+
+  | ADVAITA VEDĀNTA      | YES — fundamentally of    | at the EMPIRICAL  | CONNECTS them  |
+  |                      | CONSCIOUSNESS ITSELF,     | level, prima      | within a wider |
+  |                      | not merely of episodes    | facie until       | NON-DUAL       |
+  |                      |                           | SUBLATED          | theory         |
+  +----------------------+---------------------------+-------------------+----------------+
+
+  THE ARGUMENT IN ONE LINE
+  +--------------------------------------------------------------------------------------+
+  |  Kumārila = NOT self-luminous  +  intrinsically valid                                 |
+  |  => self-luminosity is NOT NECESSARY for intrinsic validity                           |
+  |  => and since the theses answer different questions, NEITHER ENTAILS THE OTHER        |
+  +--------------------------------------------------------------------------------------+
+     a SINGLE actual case refutes a claim of NECESSITY; the survey of the other schools
+     shows that the pairing in Prabhākara and Advaita is a SUBSTANTIVE COMMITMENT, not a
+     definitional consequence
+
+  WHY KUMĀRILA'S COMBINATION IS STABLE
+     manifestation is handled by jñātatā and inference · truth-entitlement is handled by
+     the anti-regress argument => different machinery, so the two need not move together
+
+  QUALIFICATION FOR A HIGH-MARK ANSWER
+     independence is NOT irrelevance: a self-luminous cognition plainly makes intrinsic
+     validity EASIER to defend — it simply does not COMPEL it
+
+  ! TRAP 1: placing Nyāya as "self-luminous but extrinsically valid". Nyāya DENIES
+    self-luminosity. Getting this cell wrong destroys the whole grid.
+  ! TRAP 2: treating "the Mīmāṃsakas" as ONE column. The question is decided INSIDE Mīmāṃsā.
+  ! TRAP 3: surveying the schools and never answering the word "NECESSARILY".
+
+ASCII MASTER FLOW — PANEL 20/24: Sentence-unity — shared conditions and the purport problem
+
+  THE PROBLEM: EKAVĀKYATĀ — how does a sentence made of MANY words, each apparently
+  carrying its own meaning, yield ONE unified cognition?
+     Mīmāṃsā MUST solve this: Vedic obligation is grasped through SENTENCE-meaning, never
+     through isolated word-meanings.
+
+  WHY THE PROBLEM IS NOT ARTIFICIAL
+    1 the Veda works through meaningful sentences: injunctions, prohibitions, mantras,
+      names, explanatory passages
+    2 an injunction cannot guide action unless its words form ONE determinate
+      action-guiding meaning
+    3 mere SUCCESSION does not produce unity — unrelated words can be uttered side by side
+    4 therefore the conditions of sentencehood must be specified
+    ! objection: ordinary people understand sentences instantly; why a technical theory?
+      -> reply: Mīmāṃsā explains the LOGICAL STRUCTURE of comprehension, not the hearer's
+         conscious procedure
+
+  THE THREE SHARED CONDITIONS (accepted by BOTH sub-schools)
+  +------------------+---------------------------+---------------------------+------------+
+  | CONDITION        | MEANING                   | FAILURE CASE              | FUNCTION   |
+  +------------------+---------------------------+---------------------------+------------+
+  | ākāṅkṣā          | words mutually REQUIRE    | "Bring..." leaves an open | why words  |
+  | (expectancy)     | completion                | expectation of WHAT       | lean       |
+  +------------------+---------------------------+---------------------------+------------+
+  | yogyatā          | meanings must be          | "sprinkle with fire" is   | blocks     |
+  | (semantic        | semantically COMPATIBLE   | unfit in ordinary usage   | absurdity  |
+  | fitness)         |                           |                           |            |
+  +------------------+---------------------------+---------------------------+------------+
+  | sannidhi /       | words must occur in       | words separated by        | protects   |
+  | āsatti           | proper PROXIMITY          | unrelated discourse       | Vedic      |
+  | (contiguity)     |                           |                           | boundaries |
+  +------------------+---------------------------+---------------------------+------------+
+
+  THE CONTESTED FOURTH — AND MĪMĀṂSĀ'S REAL DIFFICULTY
+     TĀTPARYA (purport / intended thrust) is added by NAIYĀYIKAS
+     ! but the Veda is APAURUSEYA — there is NO speaker whose intention could be consulted
+     -> Mīmāṃsā must relocate purport into TEXTUAL FORCE, CONTEXTUAL UNITY and
+        SUBORDINATION TO VIDHI
+     ! objection: if purport is needed for human sentences, an authorless Veda becomes
+       unintelligible
+       -> reply: Vedic purport is not psychological intention but SENTENCE-FUNCTION
+          disclosed by textual relations
+     => this creates GENUINE INTERNAL PRESSURE and a strong answer says so
+
+  TEST SENTENCE FOR EVERYTHING THAT FOLLOWS
+     "svargakāmo yajeta" — "one desiring heaven should sacrifice"
+     the hearer must grasp not "heaven-desirer" + "sacrifice" but the UNIFIED INJUNCTION
+     that the QUALIFIED AGENT ought to perform sacrifice
+
+ASCII MASTER FLOW — PANEL 21/24: The two semantics, universals, exclusion and the sound-burst
+
+  BHĀṬṬA — abhihitānvayavāda                |  PRABHĀKARA — anvitābhidhānavāda
+  "connection of the ALREADY DENOTED"       |  "denotation of the CONNECTED"
+  ------------------------------------------+-------------------------------------------
+  step 1  each word denotes its ISOLATED    |  there is NO such first step
+          meaning (padārtha) via ABHIDHĀ    |
+  step 2  meanings are CONNECTED via        |  words denote meanings ONLY AS CONNECTED
+          LAKṢAṆĀ / TĀTPARYA-ŚAKTI          |  with agent, action, object and context
+  ------------------------------------------+-------------------------------------------
+  PRIMARY UNIT = THE WORD                   |  PRIMARY UNIT = THE SENTENCE
+  sentence-meaning is DERIVATIVE            |  word-meaning is grasped IN RELATION
+  ------------------------------------------+-------------------------------------------
+  STRENGTH: explains STABLE LEXICAL MEANING |  STRENGTH: explains LANGUAGE-LEARNING and
+  across contexts; meaning is COMPOSITIONAL |  ACTION-GUIDANCE; meaning is CONTEXTUAL
+  ------------------------------------------+-------------------------------------------
+  ! the two stages are LOGICAL, not a slow  |  ! does NOT deny that words are repeatable;
+    temporal sequence in consciousness      |    denies that their PRIMARY life is isolated
+  ------------------------------------------+-------------------------------------------
+  PRABHĀKARA'S EVIDENCE — THE LEARNING ARGUMENT (vyutpatti): a child observes an elder
+  command "bring the cow" and a younger person comply, and learns the CONNECTED sense from
+  the whole event. Dictionaries are SECONDARY ABSTRACTIONS from repeated connected uses.
+  ------------------------------------------------------------------------------------------
+  FOUR CROSS-OBJECTIONS
+  ! vs BHĀṬṬA: the isolated-word stage is never observed and requires an extra lakṣaṇā or
+    purport-operation in every sentence -> reply: the distinction is EXPLANATORY, not
+    INTROSPECTIVE; stable lexical meaning requires word-priority
+  ! vs PRABHĀKARA: the same word would mean differently in every sentence -> reply:
+    recurrent connected uses yield stable competence without context-free meanings
+  ! vs BHĀṬṬA: language-learning begins in SENTENCES -> reply: learning-history does not
+    settle SEMANTIC STRUCTURE
+  ! vs PRABHĀKARA: single-word commands "Cow!" "Fire!" seem meaningful -> reply: these are
+    ELLIPTICAL SENTENCES supplied by context
+  VERDICT: Bhāṭṭa secures STABLE LEXICAL MEANING; Prabhākara secures CONTEXTUAL
+  ACTION-GUIDANCE.
+  ==========================================================================================
+  UNIVERSALS OR PARTICULARS?  (both schools reach BOTH; the dispute is PRIORITY)
+     MĪMĀṂSĀ  : the UNIVERSAL (jāti) is primary; the individual is reached THROUGH it as
+                instantiated in a concrete context. ARGUMENT: repeatability of "cow"
+                requires a STABLE SEMANTIC GROUND across changing individuals.
+     NYĀYA    : the INDIVIDUAL (vyakti) as QUALIFIED by universal and form is primary
+     ! a universal cannot be milked, brought or sacrificed -> reply: the universal is
+       primary FOR MEANING; ACTION reaches the qualified individual by contextual application
+     ! BUDDHIST APOHA: "cow" works by EXCLUDING non-cows; no real universal is needed
+       -> reply: pure exclusion cannot explain STABLE POSITIVE RECOGNITION and REPEATABLE
+          APPLICATION unless a shared class-character is already available
+  ------------------------------------------------------------------------------------------
+  GRAMMARIAN SPHOṬA-VĀDA (Bhartṛhari) — AND ITS REJECTION
+     individual sounds PERISH and cannot by themselves yield the whole meaning, so a unitary
+     VĀKYA-SPHOṬA is posited as the real bearer of meaning
+     -> MĪMĀṂSĀ (BOTH sub-schools) REJECTS the extra entity: eternal PHONEMES (varṇa) and
+        their ORDERED MANIFESTATION suffice; MEMORY of the ordered series + ākāṅkṣā +
+        yogyatā + sannidhi already yields unity
+     => preserves ECONOMY and the theory of ETERNAL WORD-UNITS without Grammarian holism
+        (and this is what Panel 22 needs)
+
+  ! TRAP: A-BHI-hita goes with BHA-tta. Never hand connected-denotation to Kumārila.
+
+ASCII MASTER FLOW — PANEL 22/24: Authorlessness — argument, circularity charge, six replies
+
+  THE EIGHT-STEP ARGUMENT FOR APAURUṢEYATVA
+    1 NO AUTHOR of the Veda is REMEMBERED in the tradition
+    2 an author of so momentous a text would NORMALLY have been remembered
+    3 the word-meaning relation is NATURAL (autpattika), not instituted by a person
+    4 word-units (varṇa) possess ŚABDA-NITYATVA => utterance MANIFESTS, never PRODUCES
+    5 transmission is maintained by disciplined recitation; NO event of composition located
+    6 therefore the Veda need not be treated as a composed book with a fallible author
+    7 authorial DEFECTS explain unreliability in human testimony
+    8 therefore an AUTHORLESS Veda is free of that class of defect => SELF-VALID FOR DHARMA
+
+  THE FOUR-DEFECT ARGUMENT            |  AGAINST NYĀYA'S GOD-GUARANTEE
+  ------------------------------------+---------------------------------------------------
+  a personal author MAY ERR           |  first PROVE God exists
+  MAY DECEIVE                         |  then PROVE God is omniscient
+  MAY LACK COMPLETE KNOWLEDGE         |  then PROVE God intends truth
+  => authority would depend on PROVING|  each stage needs INDEPENDENT support
+     competence and sincerity         |  => cumbersome; authorlessness avoids it entirely
+
+  WHAT APAURUṢEYATVA DOES *NOT* CLAIM
+     it does NOT deny that anyone recited, taught or arranged Vedic branches
+     transmission and recension are NOT original authorship
+     KAṬHA, KAUṢĪTAKI etc. can mark SCHOOLS, TRANSMITTERS or BRANCHES, not composers
+     example: a teacher who recites a mantra is a TRANSMITTER, not its author
+
+  THE CIRCULARITY CHARGE, IN TWO FORMS
+    ! FORM 1: the Veda is authoritative because authorless — but authorlessness seems
+      accepted BECAUSE THE TRADITION SAYS SO
+    ! FORM 2 (sharper): intrinsic validity PROVES TOO MUCH — rival scriptures would become
+      self-valid too, unless an external criterion is smuggled in
+
+  SIX REPLIES
+    R1 authorlessness rests on ORDINARY REASONING + absence of a remembered author, NOT on
+       a Vedic quotation
+    R2 the reasoning has an ARTHĀPATTI FORM: extraordinary authority + no remembered
+       authorial event => authorless transmission is the REQUIRED postulate
+    R3 intrinsic validity is NOT indefeasibility; invalidity is known through doṣa or bādhaka
+    R4 rival scriptures WITH known or claimed human authors possess a LOCUS OF DEFECT;
+       an authorless Veda lacks that locus
+    R5 the Veda is authoritative ONLY FOR DHARMA, where no rival instrument operates and no
+       defeater can arise; it does not compete with perception on colour
+    R6 the DIVINE-AUTHOR alternative is WORSE: a person, even a divine person, becomes a
+       further object needing proof
+
+  RESIDUAL FORCE — state this in a critical answer
+    ! weight rests on "no remembered author" and on the NATURALNESS of word-meaning
+    ! JAYANTA and UDAYANA deny naturalness: the relation is SAṄKETA (convention), grounded
+      in Īśvara's institution, and the Veda is the testimony of an ĀPTA
+      -> reply: conventionalism needs an INSTITUTOR whose reliability must first be proved
+    ! DHARMAKĪRTI-line Buddhists reject eternal words: how can an eternal, changeless word
+      produce a cognition AT A PARTICULAR TIME?
+      -> reply: the eternal word is MANIFESTED by utterance under auditory conditions, so
+         the timed cognition depends on MANIFESTATION and HEARER-CONDITIONS
+    ! Buddhist: intrinsic validity would license sectarian texts
+      -> reply: intrinsic validity is DEFEASIBLE; a text with an author, contradiction or
+         detectable defect CAN be defeated
+
+  ! TRAP: writing that the Veda is "God-given" or "revealed by God". The single most
+    damaging error available on this topic.
+
+ASCII MASTER FLOW — PANEL 23/24: Injunction, impelling force, obligation, unseen potency, no God
+
+  THREE CLASSIFICATIONS THAT MUST NOT BE CONFLATED
+  (i) FIVE SENTENCE-FUNCTIONS
+      vidhi      injunction ........ enjoins a duty or rite not otherwise known [PRIMARY]
+      niṣedha    prohibition ....... forbids an act; negative determination of duty
+      mantra     mantra ............ recalls deity, material, ritual detail in performance
+      nāmadheya  name .............. names a rite, substance or component
+      arthavāda  praise / explanation praises, condemns, narrates in support of a vidhi
+      ! mantra, name and arthavāda are NOT meaningless: their Vedic function is secured by
+        EKAVĀKYATĀ with an operative injunction
+  (ii) THREE LOGICAL KINDS OF INJUNCTION
+      apūrva-vidhi (novel) · niyama-vidhi (restrictive) · parisaṃkhyā-vidhi (exclusionary)
+  (iii) SEPARATE RITUAL-COORDINATION GRID
+      utpatti (the act) · viniyoga (subsidiary application) · prayoga (performance-order)
+      · adhikāra (qualified agent)
+
+  BHĀṬṬA — THE DOUBLE FORCE, on "svargakāmo yajeta"
+      ŚĀBDĪ BHĀVANĀ  locus = the Vedic sentence
+                     word-force IMPELS the hearer  =>  PRAVṚTTI (impulse to act)
+                     aṃśa-traya: kim? the agent's pravṛtti (sādhya/bhāvya) · kena? the
+                     injunctive suffix and knowledge of it (karaṇa/sādhana) · katham?
+                     arthavāda and eulogistic supports (itikartavyatā)
+      ĀRTHĪ BHĀVANĀ  locus = the agent's own effort and ritual performance
+                     the ACT brings about the result  =>  PHALA (svarga), mediated by apūrva
+                     aṃśa-traya: kim? SVARGA (sādhya/bhāvya) · kena? YĀGA, sacrifice
+                     (karaṇa/sādhana) · katham? procedure, materials, sequence and
+                     subsidiary acts (itikartavyatā)
+      => WORD-FORCE PRODUCES UNDERTAKING; ACTION-FORCE PRODUCES FRUIT
+      ! objection: the doubling is artificial -> reply: linguistic IMPELLING and real
+        PRODUCTION are not the same function
+
+  PRABHĀKARA — THE SINGLE BINDING
+      the sentence directly presents an act as TO-BE-DONE (karya) => OBLIGATION (niyoga)
+      bindingness does NOT wait upon attraction toward svarga
+      PRABHĀKARA = NIYOGA-VADA (duty for duty's sake) · BHĀṬṬA = BHĀVANĀ-VĀDA (fruit-mediated)
+      ! objection: if the fruit does not motivate, why act? -> reply: the cognition of the
+        act AS ENJOINED is itself action-guiding for the qualified agent
+      ! Kant comparison ONLY with the disanalogy: niyoga is HETERONOMOUS, grounded in an
+        impersonal eternal Veda, and addressed to the ritually qualified ADHIKĀRIN
+
+  HOW A SENTENCE COMMANDS WITH NO COMMANDER
+      imperative force is carried by the LIṄ / VIDHI verbal form itself, whose relation to
+      its meaning is AUTPATTIKA => obligation is IMPERSONAL and STRUCTURAL
+
+  APŪRVA — THE BRIDGE, ARGUED NOT ASSERTED
+      1 a ritual act is TEMPORALLY LIMITED
+      2 its promised fruit may be TEMPORALLY REMOTE and not visibly produced
+      3 if the act simply PERISHED WITHOUT REMAINDER, the Vedic connection is unintelligible
+      4 therefore apūrva is posited as the UNSEEN LINK
+      5 and this postulation is defended through ARTHĀPATTI (Panels 12-13)
+      => THE FLAMES DO NOT TRAVEL TO HEAVEN; THE POTENCY PERSISTS UNTIL THE FRUIT MATURES
+      ! objection: apūrva is unverifiable and ad hoc -> reply: it is established by
+        explanatory necessity, not asserted
+
+  THE VEDĀNTA SEAM
+      "tat tvam asi" · MĪMĀṂSĀ: Vedic purposiveness requires action-guidance
+      ADVAITA: knowledge is NOT an action; Brahman is an ACCOMPLISHED FACT (siddha-vastu),
+      so such sentences are independently valid
+      => the disagreement is whether Vedic meaningfulness REQUIRES action-production
+
+  NIRĪŚVARAVĀDA — EIGHT ARGUMENTS AND THE DILEMMA
+      no perception · failed inference (embodied potter vs bodiless creator) · no decisive
+      testimony · motive problem for a beginning of creation · pre-creation problem about
+      souls and karma · karma + apūrva SUFFICE · evil and partiality · a God-authored Veda
+      LOSES apauruṣeyatva
+      OBJECTOR: karma is unconscious; allotment is precise; hence God as KARMAPHALADĀTṚ
+      +--------------------------------------------------------------------------------+
+      |  THE DILEMMA: if God distributes STRICTLY BY KARMA => karma is the real          |
+      |  principle => GOD IS REDUNDANT. If God distributes OTHERWISE => partiality and   |
+      |  injustice => GOD IS MORALLY PROBLEMATIC.                                        |
+      +--------------------------------------------------------------------------------+
+      QUALIFICATION: DEVATĀS ARE NOT SIMPLY DENIED. They are largely MANTRA-DENOTED
+      entities subordinate to the sacrifice; an offering may be addressed to Agni, but the
+      fruit depends on CORRECT PERFORMANCE and APŪRVA, not on Agni's discretionary favour.
+      Kumārila also denies that any individual SARVAJÑA is established by an instrument.
+      ? later Mīmāṃsakas and Mīmāṃsā-influenced Vedāntic traditions sometimes SOFTEN the
+        anti-theistic edge.
+
+  ! TRAP 1: reversing the two forces. SABDI => impulse. ARTHI => fruit.
+  ! TRAP 2: equating bhāvanā-vāda with niyoga-vada. They are RIVALS, not synonyms.
+  ! TRAP 3: "Mīmāṃsā rejects the gods". It rejects a CREATOR and FRUIT-DISPENSER.
+
+ASCII MASTER FLOW — PANEL 24/24: Self, liberation, comparisons, PYQ route and qualified verdict
+
+  THE SELF — A BOOKKEEPING NECESSITY BEFORE A METAPHYSICAL THESIS
+     ritual duty · merit · demerit · future fruit   ALL presuppose
+                          |
+     AN ENDURING ĀTMAN — knower · agent · enjoyer
+       * PLURALITY of eternal selves, NOT one Advaitic universal subject
+       * body, senses and the internal organ MEDIATE each embodied stream
+       * NOT a momentary stream: persists across cognition, action, memory, responsibility
+         and enjoyment of the phala
+       * COGNITION IS EPISODIC, not an uninterrupted essence
+         PRABHĀKARA: the self is revealed in the THREEFOLD structure of cognition
+         BHĀṬṬA    : awareness of cognition runs through acquired KNOWNNESS
+     ARGUMENT: if the self were momentary, THE AGENT WHO SACRIFICES WOULD NOT BE THE
+     ENJOYER OF ITS FRUIT => ritual responsibility collapses
+
+  LIBERATION — STATE IT CAUTIOUSLY
+     ? mokṣa becomes MORE EXPLICIT IN LATER MĪMĀṂSĀ than in the earliest ritual orientation
+     NOT Advaitic identity with Brahman; release from EMBODIED SUFFERING and from
+     karmically generated experience
+     requires STOPPING fresh merit and demerit + EXHAUSTING prior karmic forces
+     => thereafter no new body, no sense-mediated cognition, no painful experience
+     ! later Bhāṭṭa and Prabhākara accounts differ in detail; do NOT convert either into
+       Advaita's realisation of Brahman or into Nyāya's dependence on a creator
+     ! objection: a heaven-focused ritualism has no real soteriology -> reply: the earliest
+       centre IS duty and ritual fruit, but later doctrine describes release as cessation
+       of pain and karmic embodiment
+
+  FIVE INTER-SCHOOL FRONTS
+     vs NYĀYA    intrinsic vs extrinsic validity (largest contrast) · arthāpatti independent
+                 here, reduced there · anupalabdhi independent for Bhāṭṭa, denied there ·
+                 Veda authorless here, God-secured there · universal primary here, qualified
+                 particular there · anuvyavasāya there
+     vs ADVAITA  injunction-centred vs liberation-centred and non-dualist · realist error
+                 theory vs indescribable status => common vocabulary, DIFFERENT HORIZON
+     vs BUDDHISM resists PRAGMATIC validity · denies SELF-INTIMATING falsity (illusion does
+                 not present itself as false) · rejects apoha · rejects momentariness
+     vs SĀṂKHYA  SHARES the intrinsic authority of cognition · DIFFERS by making invalidity
+                 extrinsic and by embedding epistemology in ritual hermeneutics
+     vs CĀRVĀKA  Cārvāka rejects authorless authority, supersensible duty, apūrva and the
+                 non-perceptual instruments -> reply: testimony transmits inaccessible
+                 facts, postulation resolves conflict, non-cognition discloses absence
+                 ! BUT this establishes the INTELLIGIBILITY of non-perceptual knowledge more
+                   readily than it PROVES any particular ritual claim
+
+  PYQ OWNERSHIP, 2018-2025 — 14 PRIMARY-OWNED PARTS, EVERY YEAR REPRESENTED
+     2018 Q8(a) 20 self-luminosity => intrinsic validity?    [Panels 18-19]
+     2019 Q5(e) 10 authority of Vedic knowledge              [Panels 1, 22]
+     2020 Q5(c) 10 why memory is not valid knowledge         [Panel 11]
+     2021 Q6(c) 15 ontological status of abhāva              [Panels 14-15]
+     2022 Q6(c) 15 refuting the reduction of arthāpatti      [Panels 12-13]
+     2022 Q7(a) 20 Prabhākara vs Kumārila on error           [Panels 16-17]
+     2023 Q6(b) 15 Bhāṭṭa's anupalabdhi                      [Panel 14]
+     2023 Q8(c) 15 universals or particulars                 [Panel 21]
+     2024 Q5(d) 10 word- and sentence-meaning                [Panels 20-21]
+     2024 Q8(a) 20 how do I know that I know                 [Panel 18]
+     2024 Q8(b) 15 the candidate never seen studying         [Panel 13]
+     2024 Q8(c) 15 Prābhākaras and Naiyāyikas on memory      [Panel 11]
+     2025 Q5(c) 10 intrinsic vs extrinsic validation         [Panels 4-6]
+     2025 Q6(c) 15 Bhāṭṭa vs Prabhākara on non-existence     [Panel 15]
+
+  THE ANSWER SPINE (any mark-weight)
+     1 NAME the sub-school before stating any doctrine
+     2 DEFINE in English first, IAST immediately after
+     3 GIVE the canonical example (shell-silver · stout Devadatta · pot on the table ·
+       svargakāmo yajeta · the gavaya)
+     4 STATE the rival (Nyāya first, then Buddhist or Advaita as the question requires)
+     5 GIVE the objection AND the reply
+     6 CLOSE with a QUALIFIED verdict, never a knockout
+
+  GRADED VERDICT
+     STRENGTHS   rigorous theory of testimony and interpretation · original account of
+                 default entitlement · self-consistent NON-THEISTIC normativity ·
+                 expansion beyond perception-inference reductionism · rule-governed
+                 interpretation
+     WEAKNESSES  ! eternality of śabda against conventionalist and Buddhist critique
+                 ! apūrva and svarga unverifiable on perception-centred empiricism
+                 ! determinate purport without intention
+                 ! late and awkward soteriology
+     CONTESTED   ? does intrinsic validity avoid circularity or relocate it into "defect"
+                   and "defeater"?
+                 ? is the atheism considered metaphysics or exegetical necessity?
+                 ? how should the development of the mokṣa doctrine be placed?
+     10 MARKS    strongest as a theory of intrinsic validity and Vedic testimony — stated as
+                 DEFEASIBLE DEFAULT VALIDITY, not infallibility
+     15 MARKS    original in linking epistemology, hermeneutics and duty; weak in its
+                 contested assumptions of eternal language and unseen potency
+     20 MARKS    a coherent IMPERSONAL foundation for duty and testimony within realist
+                 presuppositions, with language-eternity, authorlessness and ritual
+                 causality left philosophically contested by Nyāya, Buddhist and Vedāntic
+                 objections

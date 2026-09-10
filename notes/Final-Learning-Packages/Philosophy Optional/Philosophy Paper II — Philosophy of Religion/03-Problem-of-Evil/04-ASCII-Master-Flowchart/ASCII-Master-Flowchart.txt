@@ -1,84 +1,745 @@
-ASCII MASTER FLOW — PANEL 1/8: 1. Forms of evil
-EVIL
- +-> moral: freely caused cruelty, oppression, betrayal
- +-> natural: disease, earthquake, non-agential illness
- +-> horrendous: suffering that threatens life's overall meaning
- +-> animal/evolutionary: pain predating human agency
-                         |
- PROBLEM TYPES
- logical: claims strict inconsistency only with evil-prevention bridges
- evidential: amount/kinds of evil make God improbable
- existential: suffering disrupts trust, worship and meaning.
+ASCII MASTER FLOW — PANEL 1/22: The control question and the four versions
+PHILOSOPHY PAPER II — PHILOSOPHY OF RELIGION 03
+PROBLEM OF EVIL
+COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM — 22 PANELS
+Syllabus, verbatim: "Problem of Evil."
+Read top to bottom. Each panel is data-complete: premises, named critics, replies and verdict.
 
-ASCII MASTER FLOW — PANEL 2/8: 2. Logical problem and defence
-CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists
- missing premise: a good, powerful being eliminates every evil it can
-                         |
- PLANTINGA FREE-WILL DEFENCE
- significant freedom -> possibility of moral wrong
- God cannot cause a creature to choose freely and guarantee only right choices
- transworld depravity shows logical possibility of unavoidable misuse
- RESULT: compatibility is defended; actual quantity of evil is not thereby explained.
+                    EVIL EXISTS.  SO WHAT EXACTLY FOLLOWS?
+                                    |
+   +----------------+----------------+----------------+----------------+
+   LOGICAL          EVIDENTIAL       EXISTENTIAL      DISTRIBUTIONAL
+   Mackie 1955      Rowe 1979        Adams 1999       karma traditions
+   "the set is      "gratuitous      "is THIS life    "why THIS
+    inconsistent"    evil makes       a great good     person rather
+                     God improbable"  TO THIS PERSON?" than that one?"
+        |                |                |                |
+   BURDEN:          BURDEN:          BURDEN:          BURDEN:
+   show a POSSIBLE  restore          DEFEAT within    explain
+   morally          PROBABILITY      the individual   ALLOCATION
+   sufficient reason                 life
+        |                |                |                |
+   REPLY-TYPE:      REPLY-TYPE:      REPLY-TYPE:      REPLY-TYPE:
+   DEFENCE          THEODICY or      goodness TO      karma; the West
+                    SKEPTICAL THEISM PERSONS          has no standard one
+   ------------------------------------------------------------------------------
+   MISMATCH = ERROR.  Answering Mackie with Plantinga is correct.
+   Answering Rowe with Plantinga is a version error and loses marks.
+   FULL DIVINE PROFILE UNDER TEST: omnipotent + omniscient + perfectly good + creator.
+   Omniscience is not in Mackie's three propositions but blocks "God did not notice".
 
-ASCII MASTER FLOW — PANEL 3/8: 3. Soul-making and natural order
-IRENAEUS / JOHN HICK
- epistemic distance + stable natural laws + risk -> genuine agency
- struggle -> courage, compassion, responsibility -> person-making
-                         |
- strength: addresses why a ready-made paradise may defeat mature freedom
- objections: victims used as means; suffering is excessive and uneven;
- infants, animals and horrors do not reliably improve sufferers
- reply requires afterlife fulfilment/universal restoration, which adds further commitments.
+ASCII MASTER FLOW — PANEL 2/22: Defence, theodicy, revision, dissolution
 
-ASCII MASTER FLOW — PANEL 4/8: 4. Leibniz, Augustine and process revisions
-AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good
- LEIBNIZ: best possible world balances laws, freedom and total compossibility
- AQUINAS: God may permit evil for a greater good, never will evil as evil
- PROCESS THEISM: God persuades but cannot unilaterally prevent every event
-                         |
- COSTS: privation does not lessen felt horror; “best” can seem complacent;
- greater-good reasoning risks instrumentalising victims; process view revises omnipotence.
+   FOUR THINGS A REPLY TO EVIL CAN BE — DO NOT MERGE THEM
+   +---------------+--------------------------+---------------------------------+
+   | DEFENCE       | God COULD have a morally | success = bare LOGICAL          |
+   |               | sufficient reason        | POSSIBILITY; refuted only by    |
+   |               | Plantinga; Wykstra       | showing the story is impossible |
+   +---------------+--------------------------+---------------------------------+
+   | THEODICY      | This IS God's actual     | success = plausibility + truth; |
+   |               | reason                   | refuted if the reason is false  |
+   |               | Augustine, Hick, Leibniz,| or insufficient                 |
+   |               | process theodicy         |                                 |
+   +---------------+--------------------------+---------------------------------+
+   | REVISION      | change the God-concept   | process/finite God: goodness    |
+   |               | so the charge lapses     | kept, omnipotence surrendered   |
+   +---------------+--------------------------+---------------------------------+
+   | DISSOLUTION   | remove the defendant     | Buddhism, Jainism, Mimamsa,     |
+   |               | altogether               | karma without a creator         |
+   +---------------+--------------------------+---------------------------------+
+                                    |
+   STANDING RULE: a theodicy is NOT REFUTED by its cost — it is MEASURED by it.
+   ETHICS CONTROL: causal explanation is never moral permission to withhold aid.
+   Pastoral care and philosophical argument answer different questions; do not fuse them.
 
-ASCII MASTER FLOW — PANEL 5/8: 5. Evidential evil
-ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it;
- therefore God's existence is improbable
- hidden fawn case tests gratuitous natural suffering without human freedom
-                         |
- SKEPTICAL THEISM: limited human cognition cannot infer “no reason” from “no reason seen”
- CORNEA: absence of evidence is evidence only where detection should be expected
- objection: too much scepticism also weakens providential and moral reasoning
- verdict must weigh epistemic humility against the specificity of apparently gratuitous evil.
+ASCII MASTER FLOW — PANEL 3/22: Kinds of evil and the scope of every reply
 
-ASCII MASTER FLOW — PANEL 6/8: 6. Indian response matrix
-ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual
- VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order
- NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts
- JAINA: karmic matter binds jīva; no creator bears responsibility
- BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem
-                         |
- KARMA explains moral continuity but faces beginninglessness, verification,
- victim-blaming and natural-evil pressures;
- liberation routes answer suffering therapeutically, not always as a theodicy.
+                                  EVIL
+                                    |
+        +---------------------------+---------------------------+
+   MORAL EVIL                                            NATURAL EVIL
+   cruelty, betrayal, oppression, injustice, war         earthquake, disease, famine,
+   SOURCE: misused free will                             congenital suffering
+        |                                                SOURCE: law-governed nature
+   free-will defence      APPLIES                             |
+   Augustine (sin)        APPLIES                        free-will defence  DOES NOT APPLY
+   soul-making            APPLIES                        Augustine: FALLEN ORDER (? strained)
+   process (finite agency)APPLIES                        soul-making: ENVIRONMENT of growth
+   karma (deeds)          APPLIES                        process: finite causal powers
+        |                                                karma: extended across lives
+        +---------------------------+---------------------------+
+                                    |
+   HORRENDOUS EVIL (Adams, technical)      ANIMAL / PRE-HUMAN EVIL
+   gives the participant — perpetrator     predation, disease and pain before any
+   OR victim — prima facie reason to       human moral agency existed
+   doubt their life is a great good        NO free-will defence · NO soul-making for
+   TO THEM on the whole                    the sufferer · NO retributive reading
+   needs DEFEAT within that life           only NOMIC REGULARITY partly survives
+   ------------------------------------------------------------------------------
+   THREE COMPLAINTS HIDE INSIDE "TOO MUCH EVIL": AMOUNT · KIND · DISTRIBUTION.
+   Distribution is the West's weakest point and karma's structural advantage.
 
-ASCII MASTER FLOW — PANEL 7/8: 7. Hard cases and ethical limits
-TEST ANY THEODICY AGAINST
- suffering of children | animal pain | mass atrocity
-disabling harm | unequal exposure | hidden suffering
-                         |
- ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?
- does it preserve victim dignity? does it make preventable evil morally acceptable?
-                         |
- anti-theodicy warning: neat justification can repeat harm
- reply: philosophical explanation need not command passive acceptance;
- moral protest may itself express commitment to goodness.
+ASCII MASTER FLOW — PANEL 4/22: The classical dilemma and its true provenance
 
-ASCII MASTER FLOW — PANEL 8/8: 8. PYQ and answer synthesis
-DEFINE God-concept + evil type -> separate logical/evidential/existential demand
- -> formal argument -> strongest defence/theodicy -> hard-case objection
- -> Indian comparison on karma/duḥkha -> qualified verdict
-                         |
- 10 marks: one problem + one response + evaluation
- 15 marks: logical/evidential distinction + two responses
- 20 marks: Western and Indian matrix + hard cases + concept revision
- CLOSE: evil may not disprove every God-concept, but it severely tests classical omni-God
- belief and forces costs in freedom, providence, power, afterlife or human understanding.
+   THE FOUR-HORN DILEMMA
+   IS GOD WILLING TO PREVENT EVIL BUT NOT ABLE?   -> then not omnipotent
+   IS GOD ABLE BUT NOT WILLING?                   -> then not perfectly good
+   IS GOD NEITHER ABLE NOR WILLING?               -> then why call this God?
+   IS GOD BOTH ABLE AND WILLING?                  -> then whence evil?
+                                    |
+   PROVENANCE — EXAMINABLE, AND USUALLY GOT WRONG
+   ? traditionally ascribed to EPICURUS
+   ! transmitted through LACTANTIUS, De Ira Dei 13 (early 4th century CE)
+   ! NO SURVIVING EPICUREAN TEXT CONTAINS IT
+   SAFE FORM: "the dilemma transmitted by Lactantius and traditionally ascribed to Epicurus"
+                                    |
+   LIMIT: the dilemma is rhetorically powerful and LOGICALLY INCOMPLETE.
+   It presupposes exactly the bridging premises of Panel 5, which it never states.
+   Quoting it without those premises produces a lament rather than an argument.
+                                    |
+   OTHER QUOTATION CONTROLS FOR THIS CLAUSE
+   "vale of Soul-making"            -> JOHN KEATS, letter to George and Georgiana Keats,
+                                       spring 1819; adopted by HICK, not coined by him
+   "defeat" (vs balancing off)      -> CHISHOLM's term, used by ADAMS
+   "fellow-sufferer who understands"-> WHITEHEAD, Process and Reality, final chapter
+   CORNEA                           -> WYKSTRA 1984
+   "All evil is either sin or punishment for sin" -> Augustinian doctrine; the printed 2023
+                                       stem is the object of analysis, ? not a certified
+                                       verbatim translation
+
+ASCII MASTER FLOW — PANEL 5/22: Mackie's logical problem and the two bridges
+
+   J. L. MACKIE, "Evil and Omnipotence", MIND (1955)
+
+   THE SET AS USUALLY PRINTED          THE SET AS IT MUST BE WRITTEN
+   (1) God is omnipotent               (1) God is omnipotent
+   (2) God is perfectly good           (2) God is omniscient
+   (3) Evil exists                     (3) God is perfectly good
+                                       (4) Evil exists
+   -> NOT a formal contradiction:      + BRIDGE A (goodness): a perfectly good being
+      nothing in (1)-(3) plus logic       eliminates every evil it can, unless it has
+      alone entails p and not-p           a morally sufficient reason
+                                       + BRIDGE B (power): an omnipotent being has no
+                                         relevant limit on preventing any evil whose
+                                         prevention is logically possible
+                                       -> NOW the set is inconsistent
+                                    |
+   MACKIE'S OWN TAXONOMY
+   ADEQUATE SOLUTIONS   honestly abandon one of the propositions
+   FALLACIOUS SOLUTIONS appear to keep all three while covertly limiting power or
+                        redefining goodness — e.g. "good cannot exist without evil",
+                        "evil is a necessary means to good", "the universe is better
+                        with some evil", "evil is due to human free will"
+                                    |
+   THE THEIST'S THREE EXITS — EACH DENIES SOMETHING
+   deny BRIDGE A      -> insert "unless there is a morally sufficient reason"
+                         -> the entire space of DEFENCES and THEODICIES opens
+   deny BRIDGE B      -> Plantinga (God cannot causally determine free rightness) or
+                         process theism (classical omnipotence rejected outright)
+   deny (4)'s force   -> privation (Augustine) or the empirical level (Advaita)
+                         COST: the seriousness of suffering
+                                    |
+   VERDICT: the logical problem is widely regarded as ANSWERED. The live debate has
+   MIGRATED to Rowe's evidential form, where consistency no longer suffices.
+
+ASCII MASTER FLOW — PANEL 6/22: The paradox of omnipotence (2021 Q5(e), 10 marks)
+
+   CAN AN OMNIPOTENT BEING CREATE A THING IT CANNOT AFTERWARDS CONTROL?
+                                    |
+        +---------------------------+---------------------------+
+       YES                                                      NO
+   there is now something it CANNOT do:                 there is something it CANNOT do:
+   control that thing                                   make such a thing
+   -> FIRST-ORDER power limited                         -> SECOND-ORDER power limited
+   (power to act on existing things)                    (power to determine what powers exist)
+        +---------------------------+---------------------------+
+                                    |
+   MACKIE: unrestricted omnipotence in BOTH senses is incoherent.
+                                    |
+   THREE RESTRICTIONS THAT DISSOLVE IT, WITH THEIR COSTS
+   (a) LOGICAL-POSSIBILITY   omnipotence covers only the logically possible
+                             COST: modest, near-universally conceded; but it does not
+                             settle whether "free agents who never go wrong" is
+                             actualizable by God
+   (b) SELF-BINDING          second-order sovereignty exercised IN creating free agents
+                             COST: restraint becomes VOLUNTARY, re-opening the question
+                             why God does not intervene in the worst cases
+   (c) ABANDONMENT           process theism drops classical omnipotence
+                             COST: no guarantee of any final victory over evil
+                                    |
+   LINK TO EVIL — THE STEM'S CONTEXT CLAUSE IS MANDATORY
+   the FREE-WILL DEFENCE REQUIRES (a) or (b): God creates significantly free agents and
+   cannot causally guarantee that they choose well.
+   PLANTINGA: God CHOOSES not to override.   GRIFFIN: God CANNOT coerce.
+   VERDICT: the paradox does not refute theism; it forces theism to SPECIFY which sense
+   of omnipotence it defends, and to pay for the choice.
+   BOUNDARY: the attribute's independent coherence belongs to Notions of God.
+
+ASCII MASTER FLOW — PANEL 7/22: Plantinga's free-will defence and transworld depravity
+
+   ALVIN PLANTINGA, God, Freedom, and Evil (1974) — A DEFENCE, NOT A THEODICY
+
+   (1) A world with significantly free creatures is more valuable, other things equal,
+       than a world with no free creatures at all.
+   (2) Significant freedom entails genuinely available alternatives: an agent free with
+       respect to an action can perform it or refrain.
+   (3) God cannot CAUSALLY DETERMINE a creature to FREELY do only what is right —
+       that description cancels itself.
+   (4) Therefore God can create free persons only by accepting the POSSIBILITY of misuse.
+   (5) Therefore moral evil is COMPATIBLE with omnipotence and perfect goodness.
+                                    |
+   MACKIE'S OBJECTION: why not create free agents who ALWAYS freely choose the good?
+   That is logically possible, so omnipotence covers it.
+                                    |
+   REPLY — TRANSWORLD DEPRAVITY: it is POSSIBLE that every creaturely essence God could
+   instantiate would go wrong in some circumstance. If so, a world of free agents who
+   never go wrong was not available to God to actualize.
+   MODAL STATUS: POSSIBILITY ONLY. Plantinga never claims it is ACTUAL, and does not need to.
+   -> attacking it as "empirically unsupported" misses the modal point entirely.
+                                    |
+   PRESUPPOSITION: libertarian freedom is coherent and sufficiently valuable.
+   A compatibilist denies premise (3) and rejects the defence at its root.
+   RESIDUE: NATURAL EVIL is untouched unless a further hypothesis is added.
+   ANSWER LINE: a world of programmed beneficence lacks the MORAL AUTHORSHIP of a world
+   containing genuinely responsible agents.
+
+ASCII MASTER FLOW — PANEL 8/22: Absolute creation and responsibility (2022 Q6(c), 15 marks)
+
+   THE STEM: "If God is the Absolute Creator, then the responsibility of the evil cannot
+   belong to the human agent. Critically examine."
+                                    |
+   SCOPE FIX FIRST: the stem concerns MORAL evil and human agency.
+   Natural evil is the residue, not the subject.
+                                    |
+   THE STEM'S ARGUMENT                      THE FOUR REPLIES
+   God creates everything — the agent,  (a) FREE-WILL DEFENCE: God creates the CAPACITY;
+   its powers, and the circumstances        the agent supplies the ACT. Authorship of the
+   of its choice                            act is the agent's.
+        |                               (b) PRIVATION: God creates natures, not the defect
+   therefore every act traces back          in them; evil is a lack, not a created substance
+   to the creator                       (c) FOREKNOWLEDGE IS NOT CAUSATION: knowing what
+        |                                   will freely occur does not make it occur
+   therefore human responsibility       (d) PROCESS: rejects the ANTECEDENT — God does not
+   is an illusion                           have the unilateral power the stem assumes
+                                    |
+   RETAINED REJOINDER — CONCEDE IT, DO NOT SUPPRESS IT
+   knowingly choosing to instantiate the WHOLE SYSTEM, foreseeing its outcomes, remains
+   MORALLY RELEVANT even if it is not causation.
+                                    |
+   VERDICT: the conditional is FALSE AS STATED — creaturely authorship survives — but it
+   is NOT EMPTY: it correctly identifies a residual divine responsibility for the SYSTEM,
+   which the free-will defence answers by PRICING rather than by DENYING.
+
+ASCII MASTER FLOW — PANEL 9/22: Augustine — privation, sin and punishment (2023 Q8(a), 20 marks)
+
+   AUGUSTINE, Enchiridion and City of God — RECONSTRUCT BEFORE OBJECTING
+
+   (1) Being, insofar as it is being, is GOOD.
+   (2) God creates BEINGS; God does not create evil substances.
+   (3) Corruption is PARASITIC: it depends on a good nature to corrupt.
+   (4) Moral fault is DISORDERED WILLING — the will turning from a greater to a lesser good.
+   => EVIL = PRIVATION OF A DUE GOOD (privatio boni), not a rival creative principle.
+                                    |
+   THE 2023 THESIS: "all evil is either sin or the punishment for sin"
+   +-------------------------------+--------------------------------+
+   | MORAL EVIL = SIN              | NATURAL EVIL = PUNISHMENT      |
+   | misuse of created freedom     | a fallen, disordered order     |
+   | the will's own defect         | consequent on the Fall         |
+   +-------------------------------+--------------------------------+
+   CANONICAL EXAMPLE: rot is not a rival substance to wood; it is the loss of the wood's
+   proper integrity.  Blindness is a REAL lack in a creature whose nature calls for sight.
+   -> PRIVATION DOES NOT MAKE PAIN IMAGINARY. This is the commonest misreading.
+                                    |
+   FOUR OBJECTIONS
+   ! innocent suffering — infants and the congenitally afflicted fit punishment poorly
+   ! animal and pre-human suffering — no choice, no sin, no growth
+   ! privation is strained for intense POSITIVE pain, which does not feel like an absence
+   ! INHERITED GUILT vs INHERITED CONDITION:
+       personal guilt for an ancestor's act        -> morally the harder claim
+       inherited damaged condition + disordered    -> defensible, BUT still owes an account
+       social-natural order                           of why the condition and its unequal
+                                                      effects are permitted
+                                    |
+   COMPARATORS: HICK replaces PUNISHMENT with DEVELOPMENT; KARMA replaces a single FALL
+   with a BEGINNINGLESS series and answers DISTRIBUTION, at the cost of verifiability.
+   VERDICT: preserves divine goodness for moral evil; INCOMPLETE for natural, innocent
+   and animal suffering.
+
+ASCII MASTER FLOW — PANEL 10/22: Hick's Irenaean soul-making
+
+   JOHN HICK, Evil and the God of Love (1966)
+
+   (1) Ready-made virtue is not ACHIEVED virtue.
+   (2) Courage, compassion and trust require real difficulty, need and risk.
+   (3) A world in which such virtues are possible must be LAW-GOVERNED and must therefore
+       permit harmful consequences.
+   (4) Humans are created IMMATURE, at an EPISTEMIC DISTANCE from God, so that faith and
+       love are freely reached rather than compelled — the world is religiously ambiguous.
+   (5) Therefore suffering can be the ENVIRONMENT of soul-making.
+                                    |
+   HICK'S OWN TYPOLOGY — ITSELF EXAMINABLE
+   +--------------------------------+--------------------------------+
+   | AUGUSTINIAN TYPE               | IRENAEAN TYPE                  |
+   | humanity created PERFECT       | humanity created IMMATURE      |
+   | FALL from that state           | GROWTH toward LIKENESS         |
+   | evil = privation + sin         | evil = environment of growth   |
+   | backward-looking, retributive  | forward-looking, teleological  |
+   +--------------------------------+--------------------------------+
+   IRENAEUS supplies the IMAGE -> LIKENESS theology (2nd century).
+                                    |
+   ATTRIBUTION CHAIN — DO NOT COLLAPSE IT
+   KEATS coined "The vale of Soul-making" (journal-letter, spring 1819, preferred to
+   "a vale of tears") · IRENAEUS supplies the THEOLOGY · HICK supplies the modern THEODICY
+                                    |
+   COVERAGE: moral AND natural evil — its advantage over the free-will defence.
+   COSTS: proportionality (much suffering builds nothing) · animals do not morally grow ·
+   the reply is a UNIVERSAL ESCHATOLOGICAL FULFILMENT resting on contested afterlife claims.
+   TRAP: "suffering makes us stronger" is NOT the theodicy. The three components are.
+   BOUNDARY: divine hiddenness as an independent argument belongs to Reason, Revelation
+   and Faith; epistemic distance appears here only as a structural component.
+
+ASCII MASTER FLOW — PANEL 11/22: Rowe's evidential problem and the inductive step
+
+   WILLIAM ROWE, "The Problem of Evil and Some Varieties of Atheism" (1979)
+
+   (1) There exist instances of intense suffering that an omnipotent, omniscient being
+       could have prevented without thereby losing some greater good or permitting some
+       equally bad or worse evil.
+   (2) An omniscient, wholly good being would prevent the occurrence of any intense
+       suffering it could, unless it could not do so without losing some greater good or
+       permitting some equally bad or worse evil.
+   (3) Therefore there does not exist an omnipotent, omniscient, wholly good being.
+                                    |
+   THE CANONICAL CASE — THE SUFFERING FAWN
+   a fawn trapped in a forest fire started by lightning, severely burned, lying in agony
+   for days before dying; UNOBSERVED by any human; NO moral growth follows.
+   WHAT IT IS FOR: premise (1) — an EVIDENTIAL claim.
+   WHAT IT IS NOT: a deductive contradiction.
+   WHY BUILT THAT WAY: it removes free will, soul-making, desert and observer benefit
+   from the case ALL AT ONCE.
+                                    |
+   THE INDUCTIVE STEP — THE WHOLE BATTLEGROUND
+   "I can see no justifying reason for this evil."
+        -> "There is no justifying reason for this evil."
+        -> "Gratuitous evil exists."
+        -> "An omnipotent, wholly good God probably does not exist."
+   The step is an inference from IGNORANCE to ABSENCE. It is not automatically fallacious:
+   we make such inferences correctly whenever we WOULD EXPECT to see the thing if it were
+   there. Everything turns on whether a divine justifying reason is such a thing.
+                                    |
+   THREE THEIST ROUTES
+   (a) attack the INFERENCE      -> skeptical theism (Panel 12)
+   (b) supply a POSITIVE REASON  -> theodicy (Panels 9, 10, 13)
+   (c) revise the GOD-CONCEPT    -> process, finite God, non-creator systems
+   ! (a) and (b) sit AWKWARDLY together: one says the reason is unknowable, the other
+   names it. Noticing the tension earns marks.
+   Rowe claims EVIDENTIAL FORCE, not demonstration, and allows the theist may stay rational.
+
+ASCII MASTER FLOW — PANEL 12/22: Skeptical theism, CORNEA and its price
+
+   PROPONENTS: STEPHEN WYKSTRA · WILLIAM ALSTON · MICHAEL BERGMANN · DANIEL HOWARD-SNYDER
+   IT IS A DEFENCE, NOT A THEODICY. IT TARGETS THE EVIDENTIAL, NOT THE LOGICAL, PROBLEM.
+
+   WYKSTRA'S CORNEA (1984) — Condition of ReasoNable Epistemic Access
+   "It appears that p is absent" is a legitimate claim ONLY IF it is reasonable to believe
+   that, given one's cognitive situation, p WOULD LIKELY BE DISCERNIBLE if it were there.
+                                    |
+   BERGMANN'S REPRESENTATIVENESS THESES
+   our sample of (i) possible GOODS, (ii) possible EVILS and (iii) the ENTAILMENT
+   RELATIONS between them is NOT representative of the total space
+                                    |
+   THEREFORE the NOSEEUM inference — "no see 'um, so none there" — is UNWARRANTED for
+   goods that would justify divine permission.
+                                    |
+   ANALOGIES
+   ALSTON : a novice examines a chess grandmaster's move, sees no point in it, and has no
+            warrant to conclude there is none
+   WYKSTRA: an infant cannot see why a painful procedure is performed; that inability is
+            no evidence that there is no reason
+                                    |
+   THREE STANDING COSTS
+   ! MORAL SCEPTICISM (Almeida, Russell, Wielenberg): if we cannot judge an evil
+     gratuitous, we equally cannot judge that we ought to PREVENT it — the duty to rescue
+     is threatened. REPLY: obligation is fixed by what we KNOW. Critics: unstable.
+   ! PARITY / DIVINE DECEPTION: the same scepticism undercuts divine promises and
+     revelation. REPLY: restrict it to the value-entailment domain. Critics: ad hoc.
+   ! BRACKETING: extended, no empirical evidence could ever count against theism —
+     unfalsifiability is a cost even if it is not a refutation.
+                                    |
+   INDIAN PARITY: unseen moral potency (adrsta) is beyond the senses (atindriya), known
+   only through testimony (sabda); the precise ripening of karma is among the Buddhist
+   imponderables (acinteyya). Genuine parallel — and it inherits the SAME objection:
+   a mechanism placed permanently beyond checking is evidence neither for nor against.
+   TRAP: "God's ways are mysterious" is NOT skeptical theism. State CORNEA or Bergmann,
+   or do not use the position at all.
+
+ASCII MASTER FLOW — PANEL 13/22: Horrendous evils — balancing off versus defeat
+
+   MARILYN McCORD ADAMS, Horrendous Evils and the Goodness of God (1999)
+   PROMOTED TO CORE, 15 AUGUST 2026 — not an optional extra.
+
+   DEFINITION (technical): a HORRENDOUS EVIL is one whose participation — as PERPETRATOR
+   or as VICTIM — gives the participant PRIMA FACIE reason to doubt whether their life
+   could be A GREAT GOOD TO THEM ON THE WHOLE.
+   -> not a synonym for "very bad evil"; graphic detail is unnecessary.
+                                    |
+   THE ARGUMENT
+   (1) Standard theodicies work at the GLOBAL level, balancing evil within the world's
+       total value.
+   (2) But horrendous evils threaten the INDIVIDUAL'S LIFE AS A WHOLE: a global balance
+       can be struck while a particular life remains, for that person, a net disaster.
+   (3) A God who is good TO PERSONS — not merely a good PRODUCER OF WORLDS — must DEFEAT
+       the evil WITHIN the frame of the individual's life.
+   (4) Only resources internal to a particular religion — divine identification with human
+       suffering, beatific intimacy as an INCOMMENSURABLE good — can accomplish that.
+                                    |
+   THE DISTINCTION THAT EARNS THE MARKS
+   +------------------------------+-------------------------------------------+
+   | BALANCING OFF                | DEFEAT (Chisholm's term)                  |
+   | the good OUTWEIGHS the evil  | the evil becomes an ORGANIC PART of a     |
+   | in a sum; evil remains       | whole whose value it CONTRIBUTES to;      |
+   | EXTERNAL to the good         | evil is INTEGRATED, not offset            |
+   +------------------------------+-------------------------------------------+
+   | GLOBAL defeat (world level)  | LOCAL / PERSONAL defeat (this life)       |
+   | what theodicies deliver      | what Adams says is required               |
+   +------------------------------+-------------------------------------------+
+   ! COMPENSATION IS NOT DEFEAT. A later good can compensate for loss while leaving the
+   evil externally balanced.
+                                    |
+   OBJECTIONS AND REPLIES
+   ! purely eschatological, unverifiable, seemingly instrumentalising
+     REPLY: Adams DENIES instrumentality — the evil need not be REQUIRED, only DEFEATED
+   ! religion-specific resources abandon the neutral arena
+     REPLY: the atheological argument targets a PARTICULAR theism, so a particular theism
+     may answer
+   INDIAN PARITY: karma explains DISTRIBUTION but not personal worth; Advaita's ultimate-
+   level sublation and Buddhist liberation dissolve the standpoint from which the life is
+   evaluated — critics call this evasive, defenders therapeutic.
+   CONTRAST TO NAME: DEFEAT WITHIN the life  vs  EXIT FROM the life-series.
+
+ASCII MASTER FLOW — PANEL 14/22: Animal and pre-human suffering — the standing residue
+
+   THE ARGUMENT
+   (1) Animal suffering PREDATES human moral agency.
+   (2) It cannot be the misuse of human free will.
+   (3) It cannot straightforwardly be the environment of MORAL growth for the sufferer.
+   (4) It cannot simply be called retributive.
+   (5) THEREFORE standard theodicies leave a MAJOR REMAINDER.
+   Rowe's fawn is the evidential illustration, not a deductive contradiction.
+                                    |
+   THE FIVE REPLIES, EACH WITH ITS COST
+   NEO-CARTESIAN     animals lack the higher-order awareness that makes pain MATTER
+                     morally (canvassed by MICHAEL MURRAY, Nature Red in Tooth and Claw,
+                     2008)                COST: philosophically and empirically contested
+   NOMIC REGULARITY  a stable law-governed world is needed to support any life at all
+                                          COST: explains the KIND of world, not the AMOUNT
+   SOUL-MAKING       real danger is the only condition in which courage, compassion and
+   EXTENDED          stewardship TOWARD ANIMALS are possible
+                                          COST: uses animals INSTRUMENTALLY
+   ESCHATOLOGICAL    animal fulfilment or redemption in a final state (minority line)
+                                          COST: unverifiable and undeveloped
+   FALLEN-ORDER      a cosmic fall distorts nature prior to human history
+                                          COST: ? historically and scientifically strained
+                                    |
+   INDIAN PARITY
+   karma extends moral causation to ANIMAL BIRTHS (tiryak-yoni)
+   JAINISM ascribes living selves graded sense-capacity and grounds NON-INJURY (ahimsa)
+   BUDDHISM places animals within the same field of SUFFERING (duhkha) and extends
+   COMPASSION (karuna) to sentient beings
+   COST is symmetrical to karma's general cost: unverifiable, and never to be used to
+   infer that present suffering is deserved.
+   OBJECTION: an animal cannot LEARN from a fruit it cannot understand.
+   REPLY: karmic maturation is CAUSAL, not PEDAGOGICAL; the compassion it demands is
+   unaffected by whether the animal grasps it.
+                                    |
+   VERDICT: only NOMIC REGULARITY survives on the Western side, and it explains the KIND
+   of world rather than the AMOUNT of pain in it; Indian karma answers the DISTRIBUTION
+   question the West cannot, at the price of an unverifiable trans-life mechanism.
+
+ASCII MASTER FLOW — PANEL 15/22: Process theodicy (2025 Q6(b), 15 marks) — the six tenets
+
+   SIX TENETS — "MAIN TENETS" IS AN ENUMERATION DIRECTIVE, SO NUMBER THEM
+   (1) CREATIVITY, not God, is the ultimate; actual entities are self-creative occasions.
+   (2) God is DIPOLAR:
+         PRIMORDIAL NATURE  ordered envisagement of possibilities, supplying each
+                            occasion its INITIAL AIM
+         CONSEQUENT NATURE  God's reception and preservation of what the world becomes
+   (3) POWER IS INTRINSICALLY DISTRIBUTED: to be actual is to have some self-determination.
+   (4) THEREFORE divine power is PERSUASIVE BY METAPHYSICAL NECESSITY (Griffin), NOT by
+       self-limitation — the line that separates process theodicy from the free-will defence.
+   (5) EVIL = finite occasions DEVIATING from the divine lure; God is not culpable.
+   (6) God is "the FELLOW-SUFFERER WHO UNDERSTANDS" (Whitehead) — solidarity, not detachment.
+                                    |
+   NAME THE LAYER — DO NOT WRITE "PROCESS THEODICY (WHITEHEAD)" AND STOP
+   WHITEHEAD  Process and Reality (1929): dipolar God, initial aim, consequent nature,
+              the fellow-sufferer
+   HARTSHORNE The Divine Relativity (1948); Omnipotence and Other Theological Mistakes
+              (1984): classical omnipotence is INCOHERENT — to have ALL the power is to
+              leave none to anything else; surrelativism/panentheism makes God supremely
+              RELATED, not supremely UNAFFECTED
+   GRIFFIN    God, Power, and Evil: A Process Theodicy (1976); Evil Revisited (1991):
+              persuasion is a METAPHYSICAL NECESSITY, not a chosen restraint
+   COBB       A Christian Natural Theology: the theological systematisation
+   IT IS A THEODICY, NOT A DEFENCE: it claims God's ACTUAL situation and is therefore
+   refutable in a way Plantinga's defence is not.
+                                    |
+   CRITICISM: a God who cannot guarantee victory over evil may be UNWORTHY OF WORSHIP;
+   the metaphysics is contested; classical theists DENY that actuality entails
+   self-determination.  REPLY: divine solidarity, and the OBJECTIVE IMMORTALITY of achieved
+   value in the consequent nature — but the objection does not disappear.
+   VERDICT: process theodicy purchases GOD'S INNOCENCE at the price of GOD'S SOVEREIGNTY.
+
+ASCII MASTER FLOW — PANEL 16/22: The non-classical reply-space and its costs
+
+   THE REPLY-SPACE AROUND THE CLASSICAL THEODICIES — EVERY ENTRY IS PRICED
+   GREATER-GOOD / STABLE ORDER  risk and regular law are needed for freedom, agency,
+                                courage and compassion
+                                COST: explains the KIND of world, not the AMOUNT or the
+                                DISTRIBUTION of suffering
+   LEIBNIZIAN BEST WORLD        Theodicee (1710), which also gives the word "theodicy":
+                                a perfect God chooses the best total COMPOSSIBLE order,
+                                not a world containing every local good
+                                COST: there may be no unique best world, and world-total
+                                optimisation can neglect goodness to particular persons
+   ESCHATOLOGICAL FULFILMENT    no finite suffering is final; later fulfilment,
+                                restoration or union can prevent a life from being
+                                finally wasted
+                                COST: compensation after suffering is not automatically
+                                justification for permitting it
+   DIVINE MYSTERY               finite minds may fail to grasp providential reasons
+                                COST: unfalsifiable without an access principle;
+                                skeptical theism is the disciplined evidential version
+   PROTEST / ANTI-THEODICY      refusing to justify suffering protects truthfulness,
+                                lament and the moral priority of resistance
+                                COST: diagnoses the ETHICS of explanation but settles
+                                neither the logical nor the evidential argument
+                                    |
+   THE REVISION STRATEGY IN GENERAL
+   weaken OMNIPOTENCE  -> process, finite God           goodness preserved
+   weaken PERSONALITY  -> impersonal Absolute, Advaita  evil at the empirical level only
+   remove CREATORSHIP  -> Buddhism, Jainism, Mimamsa    no defendant at all
+   EVERY revision purchases relief with a RELIGIOUSLY SIGNIFICANT LOSS.
+   Naming the loss is what converts description into evaluation.
+                                    |
+   ! COMPENSATION IS NOT DEFEAT. Pastoral responsibility requires listening, protection
+   and action BEFORE speculative explanation; a theodicy never licenses passivity toward
+   preventable harm.
+
+ASCII MASTER FLOW — PANEL 17/22: The Indian response — karma and the schools
+
+   WESTERN QUESTION: why does a good God PERMIT evil?
+   INDIAN QUESTION : how does BONDAGE ORIGINATE, and how is it ENDED?
+                                    |
+   KARMA-SAMSARA: suffering is the fruit of one's own past deeds across lives; the moral
+   law is SELF-OPERATING. Evil therefore raises no problem for a creator's goodness —
+   it is COSMIC JUSTICE, not divine cruelty.
+                                    |
+   THE SCHOOLS DIFFER — KARMA IS NOT ONE DOCTRINE
+   NON-THEISTIC  Buddhism · Jainism · Mimamsa      no divine distributor required
+                                                   -> THERE IS NO DEFENDANT
+   THEISTIC      Nyaya · Ramanuja                  God dispenses karmic fruit JUSTLY as
+                                                   karma-superintendent (karmadhyaksa):
+                                                   a JUDGE, not an arbitrary cause of evil
+   ADVAITA       evil is real at the EMPIRICAL level (vyavaharika) and sublated under
+                 liberating knowledge at the ULTIMATE level (paramarthika); Brahman is
+                 untouched.  COST: risk of minimising present suffering
+                                    |
+   BEGINNINGLESSNESS: the action-consequence series is treated as BEGINNINGLESS, so no
+   first wrongful act need be identified. It blocks ONE regress question and VERIFIES
+   NOTHING about any claimed past-life cause.
+                                    |
+   MORAL CONTROLS — NON-NEGOTIABLE
+   ! the inference from "this person suffers" to "this person deserves it for a specific
+     past act" is UNAVAILABLE to ordinary observers; using karma that way converts
+     explanation into VICTIM-BLAMING
+   ! natural suffering, collective harms and unequal starting conditions still press the
+     fairness and verification of the mechanism
+   ! karma does not cancel present duties of COMPASSION, PROTECTION and RELIEF
+   BOUNDARY: personal identity, rebirth mechanics and the metaphysics of liberation belong
+   to Soul, Immortality, Rebirth and Liberation.
+
+ASCII MASTER FLOW — PANEL 18/22: The India-West parity bench
+
+   WHAT THE EXAMINER IS REALLY ASKING, AND WHO CAN ANSWER IT
+   QUESTION              WESTERN RESOURCE            INDIAN RESOURCE
+   why evil at all?      free will · privation ·     ignorance (avidya) · inflow (asrava) ·
+                         soul-making                 craving (tanha)
+   why THIS person?      ! weak — no standard answer karma across lives
+   why so MUCH?          nomic regularity ·          beginningless samsara — no first
+                         skeptical theism            excess to justify
+   is God culpable?      theodicies · process        Nyaya: allots PER karma; non-theistic
+                         denial of coercive power    schools: no defendant at all
+   what defeats evil     Adams' beatific intimacy ·  liberation (moksa/nirvana/kaivalya) as
+   for the sufferer?     eschatology                 ending the standpoint of suffering
+   animal suffering      nomic regularity ·          animal births (tiryak-yoni) · graded
+                         neo-Cartesian               Jain jiva · ahimsa · karuna
+                                    |
+   WHERE THEY DIVERGE
+   the West asks about PERMISSION; India about the ORIGINATION OF BONDAGE
+   the distribution question is India's STRUCTURAL ADVANTAGE
+   the West must justify a QUANTITY; India denies the frame by beginninglessness
+   India can DROP THE DEFENDANT; the West cannot
+   DEFEAT WITHIN the life (Adams)  vs  EXIT FROM the life-series (moksa/nirvana)
+   India MORALISES animal suffering; the West mostly BRACKETS it
+                                    |
+   EPISTEMIC PARITY WITH SKEPTICAL THEISM
+   unseen moral potency (adrsta) is BEYOND THE SENSES (atindriya), known only through
+   testimony (sabda); the precise ripening of karma is among the Buddhist IMPONDERABLES
+   (acinteyya). The parallel is genuine and inherits the SAME objection: a mechanism
+   placed permanently beyond checking is evidence NEITHER FOR NOR AGAINST.
+                                    |
+   ANSWER LINE: India's structural advantage is not that it explains evil better but that
+   it answers a DIFFERENT QUESTION — not why evil is permitted, but why THIS person
+   suffers — and it can drop the defendant altogether.
+
+ASCII MASTER FLOW — PANEL 19/22: Evil and the profane — the three theorists and the sequence
+
+   2019 Q6(b), 15 marks. THIS IS A FUNCTIONAL, NOT A THEOLOGICAL, QUESTION.
+   It does not ask whether evil disproves God. It asks what evil and the profane DO.
+
+   THE THREE CANONICAL THEORISTS — DO NOT INTERCHANGE THEM
+   DURKHEIM  The Elementary Forms of Religious Life (1912) — SOCIAL SIDE
+             all known religious beliefs presuppose a classification of all things into
+             two opposed classes, PROFANE and SACRED; religion = a unified system of
+             beliefs and practices RELATIVE TO SACRED THINGS, uniting adherents into a
+             single moral community, a CHURCH.  The definition is deliberately GOD-FREE.
+   OTTO      The Idea of the Holy (1917) — OBJECT SIDE
+             the sacred is an A PRIORI category of response: the NUMINOUS,
+             mysterium tremendum et fascinans
+   ELIADE    The Sacred and the Profane (1957) — SPATIAL / TEMPORAL
+             the sacred irrupts as HIEROPHANY, generating sacred SPACE (a fixed centre,
+             AXIS MUNDI, against homogeneous profane extension) and sacred TIME
+             (recoverable and repeatable, against irreversible profane duration)
+                                    |
+   THE FOUR-STEP FOUNDING SEQUENCE
+   (1) PREDICAMENT  something is wrong: sin · impurity · suffering (duhkha) · ignorance
+                    (avidya) · karmic bondage · alienation
+   (2) BOUNDARY     pure/impure · sacred/profane · saved/lost -> ritual, prohibition, code
+   (3) INSTITUTION  priesthood · initiation · purification · penance · community discipline
+   (4) SOTERIOLOGY  the ordered path OUT
+   => evil and the profane are not embarrassments TO religion but part of its STRUCTURAL
+      FOUNDATION: without a diagnosis of what is wrong, salvation-language has no work to do.
+                                    |
+   FOUR CATEGORIES THAT MUST NOT BE MERGED
+   EVIL = moral or natural harm | PROFANE = the ORDINARY, the non-consecrated
+   IMPURE = the ritually polluting | DEMONIC = the actively anti-sacred
+   ! DURKHEIM'S PROFANE IS NOT EVIL. A ploughed field, a market and a weekday are profane
+   and none of them is wicked. Conflating them is the commonest error on this stem.
+
+ASCII MASTER FLOW — PANEL 20/22: Evil and the profane — Indian parity, objections and verdict
+
+   INDIAN PARITY (MANDATORY)
+   BUDDHISM   the FIRST NOBLE TRUTH makes suffering (duhkha) the explicit foundation of
+              an entire religion — the clearest world case of evil AS religion-founding
+   JAINISM    inflow (asrava) and bondage (bandha) name the predicament;
+              stoppage (samvara) and shedding (nirjara) name the exit
+   ADVAITA    ignorance (avidya) is the founding defect; liberating knowledge is the exit
+   BRAHMANICAL purity and impurity (suddhi/asuddhi) and cleanliness (sauca) organise
+   RITUAL      practice; auspicious/inauspicious (mangala/amangala);
+               demerit and merit (papa/punya)
+   MIMAMSA    ritual purity codes; correct performance is the rectification
+   ! RIDER: India's founding defect is more often IGNORANCE or BONDAGE than MORAL EVIL —
+   diagnosis-and-insight rather than sin-and-forgiveness. This changes the SHAPE of the
+   resulting religion and is the highest-value comparative sentence in the answer.
+                                    |
+   PRESUPPOSITION: that religion can be defined FUNCTIONALLY by structure rather than
+   SUBSTANTIVELY by its object; and that the sacred/profane binary is genuinely
+   cross-cultural.
+                                    |
+   OBJECTIONS AND REPLIES
+   ! the binary is a Durkheimian imposition; many traditions GRADE rather than
+     dichotomise; Eliade's universal archaic ontology is unfalsifiable
+     REPLY: treat the pair as an IDEAL TYPE that organises comparison, not as a law
+   ! founding religion on evil makes religion PARASITIC on suffering, so a world without
+     suffering would be a world without religion
+     REPLY: worship, wonder and gratitude are INDEPENDENT religious roots; the sacred is
+     not exhausted by the negative pole
+                                    |
+   VERDICT: evil and the profane found religion STRUCTURALLY RATHER THAN DOCTRINALLY —
+   they supply the predicament, the boundary and the soteriological task without which
+   religious practice would be unintelligible. But they found RELIGION, NOT THEISM, which
+   is why the same analysis covers Buddhism and Jainism and leaves the theistic problem of
+   evil entirely untouched.
+   OWNERSHIP: this file owns the EVIL/PROFANE pole; the SACRED/HOLY-AS-OBJECT pole belongs
+   to Religious Experience (2018 Q7(a)). The questions differ: here the category is
+   RELIGION-FOUNDING, there it is OBJECT-IDENTIFYING.
+
+ASCII MASTER FLOW — PANEL 21/22: Concept-dependence and the assessment grid
+
+   RUN THE CLASSICAL SET AGAINST FOUR GOD-CONCEPTS (2024 Q6(c), 15 marks)
+   GOD-CONCEPT               EFFECT ON THE PROBLEM        RELIGIOUSLY SIGNIFICANT LOSS
+   classical theism          FULL FORCE, all burdens live nothing yet; theodicies must work
+   finite / process God      DISSOLVED at the logical     sovereignty; any guarantee of
+                             level                        final victory over evil
+   impersonal Absolute       RELOCATED: evil real at the  a personal God to address; risk
+   (Advaita, nirguna)        empirical level, sublated    of minimising suffering
+                             at the ultimate level
+   no creator (Buddhism,     REMOVED: no defendant;       providence, divine rescue, a
+   Jainism, Mimamsa)         conditions and deeds explain cosmic guarantor of justice
+   ! CONCEPT-DEPENDENCE IS NOT A SOLUTION. It relocates the cost from the ARGUMENT into
+   the THEOLOGY. The theodicies exist precisely to KEEP ALL THE ATTRIBUTES.
+                                    |
+   THE ASSESSMENT GRID
+   THEODICY              EXPLAINS        PRESERVES              WEAKNESS
+   free-will             moral           omnipotence + goodness natural evil left over
+   Augustinian privation moral via Fall  all attributes         privation strained;
+                                                                innocence and animals
+   soul-making (Hick)    moral + natural purposive goodness     scale; animals; eschatology
+   process               all             goodness, NOT          sacrifices classical
+                                         omnipotence            omnipotence
+   karma                 all + DISTRIBUTION cosmic justice;     victim-blaming;
+                                         no creator-blame       verification; regress
+   Advaita               empirical evil  Brahman untouched      minimising suffering
+   skeptical theism      none (defence)  all attributes         moral scepticism;
+                                                                unfalsifiability
+                                    |
+   FOUR STANDING CRITICISMS — REPLY AND REJOINDER
+   EXCESS EVIL           reply: epistemic limits, long-range goods
+                         rejoinder: unknown reasons cannot become a blanket licence
+   NATURAL EVIL          reply: stable natural law enables agency
+                         rejoinder: stability does not explain every extreme distribution
+   DIVINE RESPONSIBILITY reply: foreknowledge does not cause free action
+                         rejoinder: knowingly choosing the whole system remains relevant
+   KARMA AND COMPASSION  reply: classical ethics requires compassion regardless of cause;
+                         explanatory karma does not authorise social judgement
+
+ASCII MASTER FLOW — PANEL 22/22: The answer route and the qualified conclusion
+
+   THE UNIVERSAL SPINE — USE AT EVERY MARK LEVEL
+   (1) NAME the version: logical | evidential | existential | horrendous | animal |
+       distributional
+   (2) STATE the set WITH ITS BRIDGES, or the probability judgement with its inductive step
+   (3) RECONSTRUCT the reply as NUMBERED PREMISES, correctly attributed
+   (4) OBJECT and REPLY, then state the RESIDUE
+   (5) COMPARE with one deliberate Indian or Western comparator that does argumentative work
+   (6) GRADE: what it explains · what it preserves · what it COSTS · what it leaves untouched
+                                    |
+   DIRECTIVE DECODER — WHAT EACH PRINTED STEM BUYS
+   "What is the logical problem of evil? Discuss"   the SET and its BRIDGING PREMISES  2020
+   "Discuss the paradox of..."                      a dilemma: horn, cost, horn, cost,
+                                                    then the dissolving restriction     2021
+   "Critically examine [a quoted thesis]"           fidelity to the claim's SCOPE first 2022
+   "'Quotation.' Critically discuss"                reconstruct the author's system,
+                                                    THEN test it                        2023
+   "Direct offshoot of how God is conceptualised"   show the DEPENDENCE by varying the
+                                                    God-concept, then price it          2024
+   "Explain the main tenets of X"                   ENUMERATED doctrine, correctly
+                                                    attributed; number the tenets       2025
+   "What role do A and B play to found..."          a FUNCTIONAL account: predicament ->
+                                                    boundary -> institution -> soteriology 2019
+                                    |
+   BANDS: 10m ~150 words | 15m ~240-260 words | 20m ~340-360 words
+   VERDICT LADDER
+   ~40%    asserts the triad; no version identified
+   ~50%    distinguishes logical from evidential; two theodicies listed
+   ~60%    bridges stated; one theodicy fully reconstructed; Indian comparator present
+   ~65-70% version-matched theodicy; objection with reply; distribution raised; costs stated
+   ~70%+   adds defeat-vs-balancing-off, or CORNEA, or the animal-suffering gap — AND an
+           explicit statement of what the theist has GIVEN UP to survive
+                                    |
+   NEVER END DEVOTIONALLY. "God's purposes are ultimately good" is not a verdict.
+   QUALIFIED CONCLUSION: the problem of evil is a stress-test of a PARTICULAR God-concept,
+   not of religion as such. Weaken omnipotence, weaken personality, or remove the creator
+   and it dissolves — but every dissolution purchases relief with a religiously significant
+   loss, and every surviving theodicy is priced. A theodicy is not refuted by its cost;
+   it is MEASURED by it, and the answer's final task is to state that price.

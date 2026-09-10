@@ -1,0 +1,1152 @@
+{
+ "schema_version": 1,
+ "subject": "Philosophy Optional",
+ "section": "Philosophy Paper I — Western Philosophy",
+ "active": false,
+ "processing_mode": "sequential-one-topic",
+ "next_incomplete": null,
+ "topics": [
+  {
+   "number": 1,
+   "topic_key": "philosophy-paper-i-western-philosophy-01",
+   "title": "Plato and Aristotle",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md (Basic/Core owner, complete)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 1 (Advanced owner)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause)",
+     "books\\philosophy_optional official Paper I question papers 2019, 2021, 2022, 2023, 2024, 2025 (exact PYQ wording read from PDF)",
+     "books\\philosphy_books\\A-Critical-History-of-Greek-Philosophy.pdf (Stace, OCR-searchable: Third Man, duplication charge, four causes, simultaneity, Mill contrast)"
+    ],
+    "learning_session": "10 progressive visual-first subtopics; every subtopic carries a definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual, a unique claim-evidence-analysis-qualification paragraph model, an exam link, traps, revision notes and a closing recall flow; learner-v2 H2 order verified; consolidated register notes remain the final H2",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "BCABDDBCBACACDCACADADAADBDBCBBCD",
+     "distribution": "A8 B8 C8 D8, independently randomized, no ABCD rotation, 3 adjacent repeats, no run of three",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "correct option is longest in 4 of 32 and shortest in 6 of 32; mean key-length deviation -0.4 characters",
+     "formats": "statement-set, matching, best-statement, definitional, elimination, application, evidence-attribution and remedial-correction"
+    },
+    "pyqs": {
+     "directly_owned": 12,
+     "supporting_routed": 0,
+     "original_mains": 6,
+     "coverage": "every routed Plato-Aristotle part in the 2018-2025 corpus, at least one in every year",
+     "objective_keys": "none asserted; the topic is Mains-only, so no unverified objective answer letter is printed"
+    },
+    "answer_lengths": "All 18 solved answers sit inside the declared bands: 10 marks 150-200, 15 marks 250-300, 20 marks 340-400 words",
+    "pdfs": {
+     "complete_learning_session_pages": 108,
+     "solved_practice_workbook_pages": 35,
+     "ascii_master_flowchart_pages": 25,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 6,
+     "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      15159
+     ],
+     "master_dpi": 300,
+     "core_stages": 14,
+     "subordinate_extra_stages": 1,
+     "distinct_layouts": 8,
+     "distinct_layout_signatures": 11,
+     "overflow_events": 0,
+     "poster": "embeds the corrected master pixel-identically",
+     "tiles": "6 pixel-identical overlapping crops of the same master, 849 px overlap, rows 0-15159 fully covered"
+    },
+    "ascii_master": "25 manually authored panels; embedded fragment and standalone text normalise equal; PDF renders 25 pages at 9.15 pt minimum with zero blank, replacement-glyph or clipped pages",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree with central thesis, scope firewall, Plato and Aristotle blocks, comparison axis, objections and replies, the twelve PYQ routes, answer spine, citation rule, trap sheet and qualified conclusion",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on 20 shared terms, 16 exact data points, all five syllabus limbs and all 12 PYQ routes; MCQ keys are identical in session and workbook",
+    "residue_audit": "No generation identity, approval language, regeneration-ledger residue, preview or contact-sheet references, placeholders, broken image links or truncation ellipses inside master nodes",
+    "later_topics": "All 142 baseline SHA-256 hashes for Topics 02-11 across the three locked trees are unchanged",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\01-Plato-and-Aristotle\\Learning-Session.md": "0789bea4f37e2b8cfcea3191cd05b67b20f92ad9856f30626aa952ced865ede5",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\01-Plato-and-Aristotle\\Solved-Practice-Workbook.md": "a51fcec2e6021ec4d88de9f513f9a03be67a99e2485b3056a9498f68bf20b89f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "6a3a61057177428019e8db37e9ccfe29bf07fea8701e2a5fe64734e470d27b0e",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "28ca04719908cb5178f5eaaff471656b2ff93379a41fd6bae50b5220b99f2c4a",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "50faafc042226c401cc7e51e36dded5d5d30440cda629120f059b50b02dcb421",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "ea1cf673f1f579611123aaf716afa1b269cbd017abb1786e0c7008880277928f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "62c1fea7badf0fa3661a3b0bf296cefd6fae3d40d854a618a0043177a4f55adf",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "19831912194f9b2c7359710b93669bcc800b0a932acf4f86850e73ba64a555e8",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "809778988ef6013cb4c52f74043a1e7f00f11ff12ea44e71b63b7993a0fb4627",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\README.txt": "c0cb438228f3be492189c9327612f153c6574e6f8dbb8dd34fdd949ec8683552",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-01_Tree-Chart.md": "01942cbf6cf2b1179f509fe4785e7d80e3ae46acc48a192ba8305a60eca5461a"
+    },
+    "limitations": [
+     "The stale 10-panel ASCII entry in upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs is a manifest and was out of repair scope, so the repaired 25-panel master intentionally supersedes it without editing that file",
+     "The 2018 and 2020 Paper I question papers are absent from books\\philosophy_optional, so those two PYQ wordings follow the repository's verified PYQ ledger rather than a directly read official PDF",
+     "Dialogue chronology, the Categories/Metaphysics readings, individual versus species form, the standing of prime matter and the equal middle segments of the Divided Line are flagged as contested rather than asserted",
+     "Model answers are independent learner practice and are never presented as official UPSC keys"
+    ]
+   }
+  },
+  {
+   "number": 2,
+   "topic_key": "philosophy-paper-i-western-philosophy-02",
+   "title": "Rationalism",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Rationalism.md (Basic/Core owner, complete, both parts)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 2 (Advanced owner)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 14 primary-owned parts, 2021 has none)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 2)",
+     "books\\philosophy_optional official Paper I question papers 2019, 2022, 2023, 2024 and 2025 (exact PYQ wording read directly from the PDFs)",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md (anti-bias MCQ rule, learner-v2 layering, English-first terminology, provenance discipline)"
+    ],
+    "learning_session": "12 progressive visual-first subtopics covering the whole printed clause across Descartes, Spinoza and Leibniz; every subtopic carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual, numbered teaching, a unique claim-evidence-analysis-qualification paragraph model, an exam link, traps, revision notes and a closing recall flow; learner-v2 H2 order verified; consolidated register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "Descartes: four rules, three-stage doubt, the thinking self and its limits, clear and distinct perception, adventitious/factitious/innate ideas, dispositional innateness against Locke's three grounds, the wax argument with its four presuppositions, the trademark, conservation and ontological proofs, the Cartesian Circle with reply and residual, the five-step proof of the external world, substance and the real distinction, Principles I.51, interaction and Elisabeth's 1643 objection, error and the grades of freedom. Spinoza: the four-step monism demonstration, causa sui, attributes and infinite and finite modes, Deus sive Natura, immanent causation, natura naturans and naturata, the pantheism/panentheism/acosmism verdict, P16, P29 and P33 necessity, Letter 50 provenance for 'determination is negation', parallelism at II P7 and II P13, the three kinds of knowledge with the fourth-proportional example, conatus at III P6-P7, Definition 7 freedom and amor Dei intellectualis. Leibniz: the argument to simples, perception and appetition, petites perceptions and apperception, the monadic hierarchy, windowlessness, the identity of indiscernibles, well-founded phenomena, the Principle of Sufficient Reason, truths of reason and of fact, complete individual concepts, compossibility and the best world, pre-established harmony against influence and assistance, and the three conditions of compatibilist freedom. No unsupported scope expansion: Locke appears only as the 2023 counter-argument and Kant only as a one-line rider.",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "CCADBADBBCADCABDACBDDACBCADBCDAB",
+     "distribution": "A8 B8 C8 D8, independently randomized, no ABCD rotation, 3 adjacent repeats, no run of three",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "correct option is longest in 10 of 32 and shortest in 12 of 32, with the longest cases confined to formulaic statement-set stems; among the 22 prose questions the key is longest in 4 and shortest in 6; mean key-length deviation +0.9 characters",
+     "formats": "statement-set, matching, best-statement, definitional, elimination, application, evidence-attribution and remedial-correction",
+     "session_workbook_parity": "identical key sequence, options, explanations and traps"
+    },
+    "pyqs": {
+     "directly_owned": 14,
+     "supporting_routed": 0,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed Rationalism part in the 2018-2025 corpus; 2021 contains no primary-owned part",
+     "objective_keys": "none asserted; the topic is Mains-only, so no unverified objective answer letter is printed"
+    },
+    "answer_lengths": "All 20 solved answers sit inside the declared bands with zero tolerance: 10 marks 167-200, 15 marks 250-273, 20 marks 340-374 words",
+    "pdfs": {
+     "complete_learning_session_pages": 131,
+     "solved_practice_workbook_pages": 37,
+     "ascii_master_flowchart_pages": 43,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 6,
+     "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs; the workbook carries its own 'UPSC Solved Practice Workbook' footer and its own internal index"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      15817
+     ],
+     "master_dpi": 300,
+     "core_stages": 15,
+     "subordinate_extra_stages": 1,
+     "distinct_layouts": 8,
+     "distinct_layout_signatures": 12,
+     "overflow_events": 0,
+     "poster": "embeds the corrected master pixel-identically",
+     "tiles": "6 pixel-identical overlapping crops of the same master, 717 px overlap, rows 0-15817 fully covered"
+    },
+    "ascii_master": "25 authored panels paginated to 43 rendered panels at no more than 40 body lines and 80 columns each; embedded fragment and standalone text normalise equal; PDF renders 43 pages at 9.37 pt minimum with zero blank, replacement-glyph or clipped pages; zero duplicated prose lines",
+    "quick_glance": "Rewritten from a mangled one-to-three-words-per-line file into a continuous, readable English-first revision tree with central thesis, scope firewall, the substance dial, complete Descartes, Spinoza and Leibniz blocks, the seven-axis comparison, the criticism-reply-residual ledger, the ranked verdict, all fourteen PYQ routes, answer spines, citation and provenance rules, a ten-line trap sheet and a qualified conclusion",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on 20 shared terms and 20 exact data points, all six syllabus limbs and all 14 PYQ routes; MCQ keys are identical in session and workbook",
+    "residue_audit": "Removed the g6 generation identity and approval line, the duplicate-numbered 40-question MCQ set, the supplemental 41-48 block, the review-promoted completeness and MCQ sections, the 'answer-specific execution and compression upgrades' block, the unedited source-dump subsections pasted into Session 1, the malformed blank-line-interleaved visual, the duplicated ASCII boundary line, the obsolete 'innate ideas implanted at birth' tenet wording and the generation identity in README.txt; no placeholders, broken links or truncation ellipses remain",
+    "later_topics": "All 142 baseline SHA-256 hashes for Topics 01 and 03-11 across the three locked trees are unchanged",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\02-Rationalism\\Learning-Session.md": "68cbc61c9b79cc0db78f800e381e363270c3baab010c6d775fa1ead3a7aa7bb9",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\02-Rationalism\\Solved-Practice-Workbook.md": "8f5d16dc140168b58cff23a8058feb914b6f063def406f23036020833da1cbc6",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "acde795de08b76c4163b58e7c39f00b955ef747d01e712f934520a04df77ef2c",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "71a8dee0cbe3246db0e9d7e0819825cfbfea0e08807785eec65085b48941d163",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "55c67f7828ba906c253ae86411b0b131fac4a283d8d4ebbcaf1e214e1121a00b",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "61000c2122dc68a69af1709e0127a3217a1b8f4931dc30ae17280da9ff177e2f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "d3a88e0d6eb8328c7298c7ea8e4b5f31c263ea52f9699e9ad56a5f40bb03d069",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "c655347614453a344459570b72023f1b365be1e13fc3e2a544330dfcd45304e6",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "761db48a32fa88da9a6b1b52e3ff672aef95ee2f2e82f261bfb3efd953a94a0e",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\README.txt": "0c235ae861ef0179a8285dd516624e41cd99c9c452407d95b2216aa3af25b708",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-02_Tree-Chart.md": "8562de21a79fca8bab2455f16c77939948ac2808cf22857b1585640589e1ea4d"
+    },
+    "limitations": [
+     "The 2018 and 2020 Paper I question papers are absent from books\\philosophy_optional, so those four PYQ wordings follow the repository's verified PYQ ledger rather than a directly read official PDF; the 2019, 2022, 2023, 2024 and 2025 wordings were read from the official papers",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topic 01; renaming it would be a structural change outside repair-in-place scope",
+     "Whether the memory reply defeats the Cartesian Circle, whether 'pantheism' or 'panentheism' better describes Spinoza's God, whether Leibnizian contingency is more than epistemic, and whether Descartes' analogical use of 'substance' is a controlled analogy are flagged as contested rather than asserted",
+     "Model answers are independent learner practice and are never presented as official UPSC keys"
+    ]
+   }
+  },
+  {
+   "number": 3,
+   "topic_key": "philosophy-paper-i-western-philosophy-03",
+   "title": "Empiricism",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Empiricism.md (Basic/Core owner, complete, all sections including the restored 2018/2020 doctrine dossier and the corpus-driven depth delta)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 3 (Advanced owner)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 12 primary-owned parts, at least one in every year)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 3)",
+     "books\\philosophy_optional official Paper I question papers 2019, 2021, 2022, 2023, 2024 and 2025 (exact PYQ wording read directly from the PDFs)",
+     "books\\philosphy_books\\philosophy__the_classics (Warburton, OCR-searchable: Locke born 1632, Essay published 1689 with 1690 on the title page, died 1704; Reid 1710-1796 and the Brave Officer; Hume born 1711, Treatise 1739-40, Enquiry 1748, died 1776; the missing shade of blue)",
+     "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf (Berkeley 1685-1753, bishop of Cloyne from 1734)",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md (anti-bias MCQ rule, learner-v2 layering, English-first terminology, provenance discipline)"
+    ],
+    "learning_session": "13 progressive visual-first subtopics covering the whole printed clause across Locke, Berkeley and Hume; every subtopic carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual, numbered teaching, a unique claim-evidence-analysis-qualification paragraph model, an exam link, traps, revision notes and a closing recall flow; learner-v2 H2 order verified; consolidated register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "Locke: the three grounds against innate ideas with the decisive premise and the surviving dispositional innatism, 'white paper, void of all characters' with the tabula rasa provenance mark, sensation and reflection, simple ideas and the three complex kinds, knowledge as perceived agreement with the intuitive, demonstrative and sensitive degrees, probability and judgement, representative realism with the veil objection and four defences, abstract general ideas in eight numbered steps with the general representative, nominal versus real essence, the IV.vii.9 triangle concession with the determinable reply and four presuppositions, primary and secondary qualities as two separable theses, the substratum at II.xxiii.2, personal identity across person, man and substance with appropriation, the forensic concept, prince and cobbler, Butler-Reid circularity, Reid's Brave Officer, gaps and the overlapping-chains repair, and the demonstrative proof of God with its exposed causal premise. Berkeley: the seven-step demolition of abstraction, the section 12 replacement and the sections 19-20 corollary, the metaphysical payload, all five arguments (semantic, likeness, parity, master, continuity) with presuppositions and strongest objections, to be is to be perceived at section 3 with the aut percipere provenance caution, spirits and notions, God and continuity, laws as signs, reality versus imagination, illusion, science, other minds, anti-scepticism, and the Moore, Russell and Hegel comparisons. Hume: impressions and ideas, the copy principle with the conceded missing shade, association, the fork with the reflexive objection, substance dissolved for material and spiritual alike, constancy and coherence and the double-existence theory, the bundle self with the Appendix retraction and Kant's apperception, the three failed proofs of God with miracles, the eight-step negative argument on necessary connexion with both definitions of cause and four presuppositions, the induction dilemma with the three replies, Kant's Second Analogy, and mitigated versus Pyrrhonian scepticism. No unsupported scope expansion: Kant, Hegel, Moore and Russell appear only where a routed question names them, and the three Quine 'Two Dogmas' parts are excluded as Topic 11 property.",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "CDAABDABDDACBABACBDBCCDCADDBCACB",
+     "distribution": "A8 B8 C8 D8, independently randomized, no ABCD rotation window, 4 adjacent repeats, no run of three",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is the unique longest in 1 of 32 and the unique shortest in 7 of 32; mean key-length deviation -1.35 characters; the remaining equal-length cases are formulaic statement-set and matching stems where all four options are identical in length",
+     "formats": "statement-set, matching, best-statement, definitional, elimination, application, evidence-attribution and remedial-correction",
+     "session_workbook_parity": "identical key sequence, options, explanations and traps"
+    },
+    "pyqs": {
+     "directly_owned": 12,
+     "supporting_routed": 0,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed Empiricism part in the 2018-2025 corpus, with at least one part in every year",
+     "objective_keys": "none asserted; the topic is Mains-only, so no unverified objective answer letter is printed"
+    },
+    "answer_lengths": "All 18 solved answers sit inside the declared bands with zero tolerance: 10 marks 176-196, 15 marks 268-299, 20 marks 343-400 words",
+    "pdfs": {
+     "complete_learning_session_pages": 140,
+     "solved_practice_workbook_pages": 35,
+     "ascii_master_flowchart_pages": 48,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 8,
+     "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master, exactly as in Topic 01 and Topic 02; the workbook carries its own 'UPSC Solved Practice Workbook' footer and its own internal index"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      22537
+     ],
+     "master_dpi": 300,
+     "core_stages": 23,
+     "subordinate_extra_stages": 1,
+     "distinct_layouts": 8,
+     "distinct_layout_signatures": 15,
+     "overflow_events": 0,
+     "poster": "embeds the corrected master pixel-identically, verified by verify_poster_identity",
+     "tiles": "8 pixel-identical overlapping crops of the same master, 4800 x 3234 px each, about 476 px overlap, rows 0-22537 fully covered and verified by verify_tiled_identity"
+    },
+    "ascii_master": "28 manually authored data-complete panels paginated to 48 rendered panels at no more than 40 body lines and 78 columns each; the embedded fragment and the standalone text normalise equal; the PDF renders 48 pages at 9.6 pt with zero blank, replacement-glyph or clipped pages",
+    "quick_glance": "Rewritten from a mangled one-to-three-words-per-line file into a continuous, readable English-first revision tree with central thesis, scope firewall, the added-premise mechanism, complete Locke, Berkeley and Hume blocks, the eight-axis comparison, the criticism-reply-residual ledger, all twelve PYQ routes, answer spines, provenance and citation rules, a ten-line trap sheet, a qualified conclusion and a fifteen-second memory chain",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on the shared terminology set and the exact citation data; all twelve PYQ routes appear in the session, the tree and the ASCII master; MCQ keys are identical in session and workbook",
+    "residue_audit": "Removed the g5 generation identity and the broken cover-image reference from the front matter, the 40-question 'ORIGINAL MCQ MASTERY SET', the supplemental 41-48 block, the two 'REVIEW-PROMOTED' sections, the 'answer-specific execution and compression upgrades' block, the unedited one-screen-map and internal-logic source dumps pasted into Session 1, the blank-line-interleaved malformed visuals, the five-layer scaffolding headings and the generation identity in README.txt; no placeholders, approval language, broken image links or replacement glyphs remain",
+    "later_topics": "All 112 baseline SHA-256 hashes for Topics 01-02 and 04-11 across the three locked trees are unchanged",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\03-Empiricism\\Learning-Session.md": "c755aa5a2aa8c5e51f4822faa570bec84ffd6392c521f9a18d01a8fa95c087d6",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\03-Empiricism\\Solved-Practice-Workbook.md": "c17dd4b71c8bdd28b460c5e47cb55ce94453c21b8aac4c9a985ee0b4b9aacda2",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "4d91332ee18f067e9d1bc3a35406a67b8c181a68defe907cfb80919f4650e4be",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "65a709ee9e28c688ef917746520048e2457a1e4ad3b3e507aa9fd39135bb6ff1",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "2d1d0a4eeee4aae8ba9f1926ace539559ad8f2357846420ae3edc9e3009049be",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "cdcc2253ffd8a601dda3431b46f6adf34a995c415e15bbc1fca0fb8ef7ff3f32",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "e6362b2bf7c1bc3a0f4d0f07de15c9267e6eaaa9d1f39cb39b78f74e9226835e",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "f1d668aa1e16036bc8417d0b5c67cd04ee0a6da34e2644c83bf55d25f52ae702",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "7a596b9bf913a507a3d21585f8fa9ea5831e62e35a5339c1196c41e0f1927794",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\README.txt": "ed7837e7d484dbbb63a59799b385ee38afdb552e69bd56c126c611270bf59631",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-03_Tree-Chart.md": "3e202463d385c9c71c6094219429deec796a85edd2dc0b4a18f75627aaa8fa60"
+    },
+    "limitations": [
+     "The 2018 and 2020 Paper I question papers are absent from books\\philosophy_optional, so those three PYQ wordings follow the repository's verified PYQ ledger rather than a directly read official PDF; the 2019, 2021, 2022, 2023, 2024 and 2025 wordings were read from the official papers",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01 and 02; renaming it would be a structural change outside repair-in-place scope",
+     "Whether Locke's substratum is a humble realist posit or an empty placeholder, whether the Master Argument proves anything beyond a scope confusion, whether Hume is better read as a destructive sceptic or as a naturalist, and the reflexive status of the fork are flagged as contested rather than asserted",
+     "Model answers are independent learner practice and are never presented as official UPSC keys"
+    ]
+   }
+  },
+  {
+   "number": 4,
+   "topic_key": "philosophy-paper-i-western-philosophy-04",
+   "title": "Kant",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Kant.md (Basic/Core owner, complete, including the one-screen map, the critical project and owner scope, the central problem, the Aesthetic, the categories with the Deduction, apperception and its relation to space and time, the Schematism, the Analogies, the Refutation of Idealism, phenomena and noumena, the Ideas of Reason, the Paralogisms, the Ideal, the Antinomies, the God-proofs, the inter-thinker debates, the criticisms table, the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the PYQ routing, the answer architecture, the directive decoder, the graded verdict bank and the translation/provenance discipline)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 4 (Advanced owner: A-Deduction versus B-Deduction, two-world versus two-aspect, the afterlife of transcendental arguments)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 10 primary-owned parts, and the four parts that name Kant but are owned by Topics 03, 05 and 11)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 4)",
+     "books\\philosophy_optional official Paper I question papers for 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025 (the English wording of all ten Kant parts read directly from the PDFs; the 2018 and 2020 mark columns OCR unreliably, so those two mark values follow the repository PYQ ledger)",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md, learning_package_final\\README.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (anti-bias MCQ rule, learner-v2 layering, English-first terminology with the original term in parentheses, provenance discipline, master-flow requirements)"
+    ],
+    "learning_session": "14 progressive visual-first subtopics covering the whole printed clause and the supporting architecture; every subtopic carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with A/B references, a unique claim-evidence-analysis-qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified; consolidated register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "The critical project with dogmatism and scepticism as twin failures, Hume's interruption from the Prolegomena with its provenance mark, the transcendental method in five steps and the transcendental/transcendent discrimination; the analytic/synthetic and a priori/a posteriori cross-classification with the empty cell and Kant's two marks at B3-4; the synthetic a priori argued through arithmetic, geometry and fundamental natural science with the non-Euclidean qualification, and Hume's fork superimposed; the change of standpoint at Bxvi-xviii with its restricting clause, the commentators'-label caution, the supreme principle at A158/B197 and four denials; A51/B75 with the two stems and the four-step protocol for the 2023 printed 'Precepts' wording; the Transcendental Aesthetic with space and time as pure forms, the four metaphysical-exposition arguments sorted into apriority and intuitivity, the transcendental expositions of geometry and arithmetic, the rejection of Newton and Leibniz, transcendental ideality with empirical reality, and the space/time asymmetry that grounds the Schematism; the metaphysical deduction from the twelve logical functions with all four category groups, the modality caution and the third-category rule; the two deductions distinguished as identification and justification with the completeness objection and the strategy/inventory separation; the transcendental deduction in six steps from B131-2 with the modal formulation; apperception as formal, original and functional, the two flanking errors against Hume and rational psychology, and the exact architecture demanded by 2022 Q1(e); 'Understanding makes Nature' with its four denials, the objection and reply, and the 2018 Hegel ruling; the Schematism with the heterogeneity problem, the third thing, the six-step argument for time, schema versus image in Kant's three examples, the four time-aspects, four presuppositions and three objections with replies and residuals, and the 'art concealed in the depths of the human soul' concession; the Analogies with 'time itself cannot be perceived' as master premise, the First Analogy on permanence and alteration with the conservation objection, the Second Analogy with the house and the ship and the Strawson/Guyer/Allison adjudication, and the Third Analogy on commercium; the Refutation of Idealism as B-only with Kant's taxonomy of problematic and dogmatic idealism, the six-step proof, P3 as the load-bearing step, the B278-9 corollary, three objections and the Moore comparison; phenomena and noumena with appearance-versus-illusion, the negative and positive noumenon, thinkable-but-not-knowable, the two-world/two-aspect dispute, Jacobi's affection dilemma and Hegel's challenge with an explicit adjudication; transcendental illusion as natural and unavoidable, the three Ideas derived from the three relations, regulative versus constitutive, the four Paralogisms with the equivocation named, and the Ideal of Pure Reason as the bridge to the God-proofs; the Antinomies with the trigger, the four construction features, the four pairs, the mathematical/dynamical classification, both resolutions, 'room not proof' for freedom and the indirect proof with its Hegelian limit; the critique of the ontological, cosmological and physico-theological proofs with the exhaustiveness claim, the content-adding gloss on 'real predicate', the thalers, the contradiction corollary, the dependency chain and the bounded practical postulate; and the comparison matrix, six criticisms with replies and residuals, the graded verdict bank, the directive decoder and the translation/provenance table. Kantian ethics is expressly excluded as unowned, since the printed clause is entirely theoretical and no 2018-2025 PYQ routes an ethics question here; only the bounded practical postulate of God, freedom and immortality is admitted.",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "BDACABDCDACBADBCCABDBCADDBACCDBA",
+     "distribution": "A8 B8 C8 D8, independently randomized, no ABCD rotation window, 3 adjacent repeats, no run of three",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is the unique longest in 0 of 32 and the unique shortest in 8 of 32; mean key-length deviation -0.56 characters",
+     "formats": "statement-set, matching, best-statement, definitional, elimination, application, evidence-attribution and remedial-correction",
+     "session_workbook_parity": "identical key sequence, options, explanations and traps; the MCQ and PYQ blocks are byte-identical in both files"
+    },
+    "pyqs": {
+     "directly_owned": 10,
+     "supporting_routed": 4,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed Kant part in the 2018-2025 corpus; 2025 is the only year without a Kant-owned part, and the four parts that merely name Kant are marked as owned by Topics 03, 05 and 11",
+     "objective_keys": "none asserted; the topic is Mains-only, so no unverified objective answer letter is printed"
+    },
+    "answer_lengths": "All 16 solved answers sit inside the declared bands with zero tolerance: 10 marks 186-200, 15 marks 255-294, 20 marks 354-400 words",
+    "pdfs": {
+     "complete_learning_session_pages": 151,
+     "solved_practice_workbook_pages": 32,
+     "ascii_master_flowchart_pages": 74,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 12,
+     "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master, exactly as in Topics 01-03; the workbook carries its own 'UPSC Solved Practice Workbook' footer and its own internal index"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      33506
+     ],
+     "master_dpi": 300,
+     "core_stages": 29,
+     "subordinate_extra_stages": 1,
+     "distinct_layouts": 7,
+     "distinct_layout_signatures": 21,
+     "overflow_events": 0,
+     "poster": "embeds the corrected master pixel-identically, verified by re-extracting the embedded image and comparing it byte-for-byte with the saved PNG",
+     "tiles": "12 pixel-identical overlapping crops of the same master, 4800 x 3234 px each, 476 px overlap with a 542 px final-tile overlap, rows 0-33506 fully covered and verified against fresh crops"
+    },
+    "ascii_master": "38 manually authored data-complete panels paginated to 74 rendered panels at no more than 37 body lines and 78 columns each; the embedded fragment and the standalone text normalise equal; the PDF renders 74 landscape pages at 9.6 pt with zero blank, replacement-glyph or clipped pages",
+    "quick_glance": "Rewritten from a mangled one-to-three-words-per-line file into a continuous, readable English-first revision tree with central thesis, scope firewall including the ethics exclusion, the single argument-form, the central problem with the empty cell and Hume's fork, the Copernican standpoint and the reconciliation protocol, the complete Aesthetic, the Analytic with both deductions and apperception, the Schematism and the three Analogies with the Hume adjudication, the Refutation of Idealism and the phenomena/noumena boundary, the Dialectic with Paralogisms, the Ideal and the Antinomies, the God-proofs with the dependency chain, an eight-axis comparison, the criticism-reply-residual ledger, all ten PYQ routes with answer routes, mark-weighted answer spines, provenance rules, a ten-line trap sheet, a qualified conclusion and a fifteen-second memory chain",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on a 30-item shared terminology and citation set (A51/B75, B131-2, A598/B626, Bxvi-xviii, Bxxx, Bxxxix n., B274-9, A141/B180-1, A176/B219, A189, B218, B224, B256, A158/B197 and the named objections); all ten PYQ routes appear in the session, the tree, the ASCII master and the graphical spec; MCQ keys are identical in session and workbook",
+    "residue_audit": "Removed the g6 generation identity from README.txt, the 36-question 'ORIGINAL MCQ MASTERY SET', the supplemental 37-48 block, the three 'REVIEW-PROMOTED' sections, the 'answer-specific execution and compression upgrades' block, the five-layer scaffolding headings and the ten RAPID REVISION / EXAM APPLICATION / ADVANCED SESSION stubs that duplicated the teaching sequence; no placeholders, approval language, broken image links or replacement glyphs remain",
+    "later_topics": "All 110 baseline SHA-256 hashes for Topics 01-03 and 05-11 across the three locked trees are unchanged",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\04-Kant\\Learning-Session.md": "54d0f95bc103b7dfc8a108523248483b1d6f2e5901e7fb005a759c2b620a98d8",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\04-Kant\\Solved-Practice-Workbook.md": "2306930704e5a0972b1bba48096c4fab4423faec54b102b7b651b377e1b087d1",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "2b0e722db10950d8127a9434c124de80d5f594279aeb8c36e2e58b355863800c",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "c2e4c6a53add263fdae6f8e86bf4ff36e82b8a00edc2d5b447d7aa3dc0e8ed95",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "003d18f4d1d3113846d60df9a040658f0d1a45fa5c774ba0fc661c9387b783e5",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "1853ba11edf146493ea75f45206c5e7fa8728bb7ac64b0500868cd96ba2c6cf4",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "6bfc6cb6be900e7cc7d0644f3777c48ab898ce53aee3f25495fe8a49997478be",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "b518fda11c32924a72149e007da76d0c6c1639b4614e59c0eb5e9c1412d2f240",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "8b3e09cd2ec07423ade31c0aaf612dbc8e03419cd5c4184a48c229c7ceb14d22",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\README.txt": "e590946ef25c861c89cdae54d20a71a6003d276a7cf1b40bce71ee4eae52960a",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-04_Tree-Chart.md": "16c2e3d51531a247c14895277040dbeab9d726bbdf3ac8f1621068630100e8f4"
+    },
+    "limitations": [
+     "The 2018 and 2020 Paper I PDFs render their mark columns unreliably under OCR, so those two mark values follow the repository's verified PYQ ledger; the English wording of all ten Kant parts was read directly from the locally held official papers",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-03; renaming it would be a structural change outside repair-in-place scope",
+     "Whether the A- and B-Deductions argue differently, whether transcendental idealism is a two-world or a two-aspect doctrine, whether Kant's refutation reaches modal versions of the ontological argument, and whether the affection of sensibility by things in themselves can be stated consistently are flagged as contested rather than asserted",
+     "Kant's practical philosophy appears only as the bounded postulate that follows the failure of the speculative proofs; Kantian ethics as a doctrine is not owner content for this printed clause",
+     "Model answers are independent learner practice and are never presented as official UPSC keys"
+    ]
+   }
+  },
+  {
+   "number": 5,
+   "topic_key": "philosophy-paper-i-western-philosophy-05",
+   "title": "Hegel",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Hegel.md (Basic/Core owner, complete: the one-screen map, the source/register/owner-scope map, the dialectical method with the T-A-S caution, determinate negation and mediation, sublation, Being-Nothing-Becoming, the concrete universal, identity-in-difference and the Concept, dialectic across Logic/Nature/History, lordship and bondage, Stoicism-Scepticism-Unhappy Consciousness, Absolute Idealism, substance-as-subject, the challenge to Kant, the three-stage unfolding, finite/infinite and the three forms of Spirit, the Logic-to-Nature problem, dialectic in history, Hegel against Berkeley, the inter-thinker debates, the directive decoder, the graded verdict bank, the translation and provenance discipline, the criticisms table, the marks-essential/optional split, the trap sheet, the keyword bank, the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the PYQ routing and the answer architecture)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 5 (Advanced owner: metaphysical versus non-metaphysical Hegel, contradiction as engine versus formal blunder, recognition beyond the minimum)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 6 primary-owned parts and the three parts that name Hegel but are owned by Topics 03, 04 and 10)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 5)",
+     "books\\philosophy_optional official Paper I question papers for 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025 (the English wording of all six owned Hegel parts and of the three supporting routed parts read directly from the PDFs; the 2018 and 2020 mark columns OCR unreliably, so those two mark values follow the repository PYQ ledger)",
+     "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf (OCR-searchable: 1770-1831, Stuttgart, the Tuebingen Stift with Schelling and Hoelderlin, Jena 1801 and professor 1805, the Phenomenology completed 13 October 1807 on the day Napoleon's armies captured Jena, Bamberg, the Nuernberg Gymnasium 1808-16, the two-volume Science of Logic, Heidelberg 1816 and the Encyclopaedia, Berlin 1818, the Philosophy of Right 1821, death in 1831; Aufhebung as simultaneously to cancel, to preserve and to raise up; Being negating itself into Nothing and requiring Becoming; Geist as a collective subject Hegel tries not to hypostatise; the ambiguity of 'the realisation of Absolute Spirit')",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (anti-bias MCQ rule, learner-v2 layering, English-first terminology with the original term in parentheses, provenance discipline, master-flow requirements)"
+    ],
+    "learning_session": "12 progressive visual-first subtopics covering the whole printed clause and the supporting architecture; every subtopic carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with work and section references, a unique claim-evidence-analysis-qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified; consolidated register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "The immanent-critique frame and Kant's four residual oppositions; the dialectical method in four stated steps with abstract immediacy, immanent examination, determinate negation and the triple sense of sublation; contradiction with its qualifier and the ex falso reply and residual; mediation and the negation of the negation; the Fichte/Chalybaeus 1837 provenance of thesis-antithesis-synthesis, discharged in one clause; the three registers (logical primary, phenomenological illustrative, historical for 2023 only); Being-Nothing-Becoming argued from the presuppositionless-beginning requirement, with four misreadings blocked and the indistinguishability-does-not-establish-transition limit conceded; the abstract versus concrete universal with the complete Preface paragraph 20 quotation; identity-in-difference with the 1801 translation caution; the Concept as universality, particularity and individuality with the logical-register warning; internal relations with the Bradley attribution rule; the bad and true infinite argued in five steps; Logic, Nature and Spirit with section 247; subjective, objective and absolute Spirit with the bounded ethical-life ladder and the same-content-three-forms rule for art, religion and philosophy; Absolute Idealism with its four denials and the metaphysical/non-metaphysical control; substance-as-subject at Preface paragraph 17 with the 'not only but equally' Spinoza rule; the Wirklichkeit/Dasein discrimination with both what it buys and what it does not; the three prongs against the thing in itself with Kant's limiting-concept reply and a three-row verdict grid; the mediated reality of the phenomenal world for 2020 with the individuality objection, reply and residual; lordship and bondage with the roles-as-result rule, the double dependence, the fear-service-labour order, the explicit limit and the reception firewall; Stoicism, Scepticism and the unhappy consciousness with the exact printed subterms, the four moments, the reversal into Reason, the three presuppositions and three objections with replies and residuals; the Logic-to-Nature seam with sections 244, 247 and 250 and four objections with replies and residuals; dialectic in history with mechanism before schema, the cunning of reason at section 209, the bounded institutional landing point and the required Eurocentrism and teleology criticism; and the comparison matrices, the eight-criticism ledger, the graded verdict bank, the directive decoder, the translation and provenance table, the optional Strawson bridge, the universal answer spine and the ten-line trap sheet. Kant's positive system, Berkeley's immaterialism, Kierkegaard's existentialism, the analytic revolt and Marxist historical materialism appear only as bounded comparisons owned elsewhere.",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "DBACCADBADBCBACDDCABCBDAACBDBDCA",
+     "distribution": "A8 B8 C8 D8, independently randomized, no ABCD rotation window, 3 adjacent repeats, no run of three",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is the unique longest in 0 of 32 and the unique shortest in 4 of 32; mean key-length deviation +0.70 characters",
+     "formats": "statement-set, matching, best-statement, definitional, elimination, application, evidence-attribution, sequencing and remedial-correction",
+     "session_workbook_parity": "identical key sequence, options, explanations and traps; the MCQ and PYQ blocks are byte-identical in both files"
+    },
+    "pyqs": {
+     "directly_owned": 6,
+     "supporting_routed": 3,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed Hegel part in the 2018-2025 corpus; 2018 and 2024 are the only years without a Hegel-owned part, and the three parts that merely name Hegel are marked as owned by Topics 03, 04 and 10",
+     "objective_keys": "none asserted; the topic is Mains-only, so no unverified objective answer letter is printed"
+    },
+    "answer_lengths": "All 12 solved answers sit inside the declared bands with zero tolerance: 10 marks 178-199, 15 marks 262-287, 20 marks 343-399 words; the three supporting routed parts carry bounded Hegel-side blocks rather than full-band model answers, because their owners are Topics 03, 04 and 10",
+    "pdfs": {
+     "complete_learning_session_pages": 130,
+     "solved_practice_workbook_pages": 29,
+     "ascii_master_flowchart_pages": 55,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 6,
+     "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master, exactly as in Topics 01-04; the workbook carries its own 'UPSC Solved Practice Workbook' footer and its own internal CONTENTS / WORKBOOK INDEX page, and the learning session carries 51 PDF bookmarks against the workbook's 9"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      16179
+     ],
+     "master_dpi": 300,
+     "core_stages": 17,
+     "subordinate_extra_stages": 1,
+     "distinct_layouts": 8,
+     "distinct_layout_signatures": 17,
+     "overflow_events": 0,
+     "poster": "embeds the corrected master pixel-identically, verified by verify_poster_identity",
+     "tiles": "6 pixel-identical overlapping crops of the same master, 645 px minimum overlap, rows 0-16179 fully covered and verified by verify_tiled_identity"
+    },
+    "ascii_master": "31 manually authored data-complete panels paginated to 55 rendered panels at no more than 40 total lines and 78 body columns each; the embedded fragment and the standalone text normalise equal; the PDF renders 55 landscape pages at 9.84 pt with zero blank, replacement-glyph or clipped pages",
+    "quick_glance": "Rewritten from a mangled one-to-three-words-per-line file into a continuous, readable English-first revision tree with the central thesis, the scope firewall, the single argument-form, the T-A-S provenance clause, contradiction with its qualifier, the three registers, the worked triad, the shape of the whole, the bad and true infinite, the architecture, the two load-bearing sentences of Absolute Idealism, the 2025 and 2020 spines, the two bounded phenomenological illustrations, the seam with its four objections, the 2023 history spine, the comparison axes, the criticism-reply-residual ledger, all six owned PYQ routes plus the three routed elsewhere, the mark-weighted answer spine, the provenance rules, a ten-line trap sheet, a qualified conclusion and a fifteen-second memory chain",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on a 35-item shared terminology and citation set (determinate negation, Aufhebung, Vermittlung, Chalybaeus, Being/Becoming, concrete universal, identity-in-difference, Begriff, bad and true infinite, Wirklichkeit, Dasein, Substance and Subject, noumenon, limiting concept, mediated moment, Bildung, Entzweiung, Andacht, Mittler, sections 209, 244, 247 and 250, Schelling, Trendelenburg, Feuerbach, Popper, Kierkegaard, Bradley, the cunning of reason, the owl of Minerva and the Eurocentrism caution); all six owned PYQ years appear in the session, the tree, the ASCII master and the graphical spec; MCQ keys are identical in session and workbook",
+    "residue_audit": "Removed the g7 generation identity and source record ID from README.txt, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the two REVIEW-PROMPTED sections, the 36-question ORIGINAL MCQ MASTERY SET, the supplemental 37-48 MCQ block, the REVIEW-PROMOTED HEGEL SYSTEM MCQS block and the 'answer-specific execution and compression upgrades' block; no placeholders, approval language, broken image links, replacement glyphs or truncation ellipsis line endings remain",
+    "later_topics": "All 113 baseline SHA-256 hashes for Topics 01-04 and 06-11 across the three locked trees are unchanged, and the immutable Carvaka reference package plus every pre-existing graphical source file re-hashed identically",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\05-Hegel\\Learning-Session.md": "affa3e6af1e1e8aff19a070b8ad05457d686b0bb37604bd47b7b2b48cfe91c4c",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\05-Hegel\\Solved-Practice-Workbook.md": "9095f7dce1fd42e623a7eb7b89adefe4293bbdfac7fca70f59000c2209d98a4f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "95400113b7a9d488a0dfa422ab388b4d1e4c8abf95c3b2cc66e6f09aadd271df",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "0f2dedcb800e8d4a6792459d4192606cb5e986a100d8e1bf16ca13d4080a0210",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "07b6509a0fd971e4530599c3fcfa3b8465439bea864d4de277e5252716f6400b",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "236fc15f5d4a9a612a5c36383af76a9ebd181aaece9ae68c3956092f8bbe5b4f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "10ee28a131deaa9750e4d320fca4b863bf005b942c60f580628456f562a498f5",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "bb0c0861fdc892b2147e0b3250c7b047e676f734e909db22f1cf495676a68fc8",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "010c74c364e39d6d8d5e0c1a4b3aee9c185cf32deda6c8cf6298b5947539b4bf",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\README.txt": "291e9a0b4c7e2ccbe7f9daf5f95e7962cf34e5074dae16513461d6c12e5c6cc6",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-05_Tree-Chart.md": "4908bb757f30a146f8107b84b646821d0cd8867e7b26853d38eeb485d985d16d"
+    },
+    "limitations": [
+     "The 2018 and 2020 Paper I PDFs render their mark columns unreliably under OCR, so those two mark values follow the repository's verified PYQ ledger; the English wording of all six owned Hegel parts and of the three supporting routed parts was read directly from the locally held official papers",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-04; renaming it would be a structural change outside repair-in-place scope",
+     "Whether the Absolute is a metaphysical structure or historically achieved collective self-comprehension, whether dialectical contradiction is a real contradiction or the self-instability of one-sided categories, whether indistinguishability at the opening of the Logic establishes a transition, whether recognition is central to Hegelian freedom, and whether the particular survives the whole are flagged as contested rather than asserted",
+     "The history and aesthetics material survives only as posthumously edited student transcripts (Gans 1837; Karl Hegel 1840), so it is attributed to the lectures rather than to a text Hegel published",
+     "Model answers are independent learner practice and are never presented as official UPSC keys"
+    ]
+   }
+  },
+  {
+   "number": 6,
+   "topic_key": "philosophy-paper-i-western-philosophy-06",
+   "title": "Moore, Russell and Early Wittgenstein",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md (Basic/Core owner, complete: the one-screen map, the who-owns-what attribution table, the source/period/owner-scope map, Moore's 1925 truisms with the knowing/analysing distinction, the 1939 proof with its three conditions and the right-hand-first note, the paradox of analysis as bounded method-context, the 1903 refutation with the act/object distinction and the transparency thesis, Russell's logical atomism with atomic and molecular propositions, the isomorphism thesis and negative facts, incomplete symbols and the theory of descriptions with the three puzzles and primary/secondary occurrence, acquaintance and description with the Principle of Acquaintance and the Bismarck series, logical constructions and the supreme maxim, the Tractatus on facts and objects, the picture theory with pictorial against logical form, bipolarity, logical space, the general form of the proposition and the N-operator, tautology and contradiction with sinnlos against unsinnig, saying and showing, the ladder and proposition 7, the inter-thinker debates, the criticisms and replies, the marks-essential and optional split, the common traps, the keyword and statement bank, the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the PYQ routing table, the answer architecture, the directive decoder, the graded verdict bank and the translation, numbering and provenance discipline)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 6 (Advanced owner: descriptions after the textbook solution, logical constructions against phenomenal reduction, and what 'showing' finally means, with the Neale/Hylton/Pears/Hacker/Diamond/Conant source trail)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 14 primary-owned parts and the three parts that name the trio but are owned by Topics 03 and 08)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 6, including the printed 'Sying and Showing')",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomized MCQ keys, learner-v2 layering, English-first terminology with the source term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "12 progressive visual-first sessions covering the whole printed clause and the supporting architecture; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with paper, year or decimal references, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "The analytic revolt against British Absolute Idealism with Bradley and McTaggart named; the attribution firewall over all seven printed terms with logical atomism jointly owned; the three distinct senses of analysis; Moore's list of truisms with the second-order claim, the knowing-against-analysing level distinction, the comparative-certainty principle and the reversal of the burden, the bounded paradox of analysis, the 1939 proof with the things-met-with-in-space gloss, the three conditions, the unproved-but-known premiss concession and the question-begging objection with three replies including the bounded On Certainty comparison; Moore's 1903 refutation with esse est percipi, the act/object distinction, the common and variable elements, the structural comparison argument, the four-step decoding of the self-contradictory-mistake sentence, the transparency thesis as diagnosis and the four-part boundary that leaves unperceived existence, a theory of perception and Absolute Idealism untouched; Russell's incomplete symbols with contextual definition and the survival test, the existence/uniqueness/predication analysis in notation, the golden mountain and the present King of France worked in full, the three puzzles, primary and secondary occurrence, the Strawson presupposition objection with three replies and a ruling; acquaintance and description with the verbatim Principle of Acquaintance, the six-step argument, the graded Bismarck series, logically proper names and disguised descriptions, and the Kripke and Sellars objections kept on different targets; logical constructions with the verbatim supreme maxim, four constructions of different types, the atoms/constructions contrast, the not-a-fiction rule and the possible-sense-data strain; logical atomism with facts as truth-makers, monadic and relational atomic facts, the decoded 2020 quotation, truth-functionality with no fact answering to the connectives, the isomorphism thesis, negative facts as a conceded cost against Wittgenstein's totality account, and the support-not-entailment ruling on the descriptions-to-atomism link; the Tractatus ontology at 1.1 to 2.06 with objects as unexemplified simples and the Sachverhalt translation control, the picture theory with the projective relation and the complete pictorial-against-logical-form contrast plus the internal-relation answer to the 2022 second half, bipolarity against bivalence, logical space with its anchors and the Grundgedanke at 4.0312, the general form at 4.5 and 6 with the N-operator worked, sinnlos against unsinnig, the four undischarged presuppositions with colour exclusion bounded to 1929, the five-step derivation of saying and showing, the said/shown table with 6.124 and the value propositions 6.41 to 6.522, the limit drawn in language with bounded solipsism at 5.62 to 5.64, the ladder at 6.54, proposition 7 in both translations with the no-7.1 rule, and the standard-against-resolute split ruled on; and the comparison grid, the two-atomisms table, the criticism ledger with residuals, the three answer architectures, the directive decoder, the provenance table and the graded verdict bank",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "DBACBDCABADCACBDCADBADBCDCABCBAD",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no ABCD rotation window and no repeating four-key cycle",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "options matched for length, specificity, grammar and visible formatting so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the attribution firewall, the three senses of analysis, Moore's truisms, the level distinction, comparative certainty, the three conditions of proof and the external-world gloss, the act/object distinction, transparency, the bounded anti-idealist result, incomplete symbols, the three conjuncts, the golden mountain, scope, the three puzzles, the Principle of Acquaintance, the objects of acquaintance, logically proper names, the supreme maxim, constructions against atoms, atomic facts, truth-functionality, negative facts, the Tractatus ontology and the pictorial/logical form contrast, with remedial drills on sinnlos against unsinnig, bipolarity against bivalence, the general form and the N-operator, the derivation of saying and showing, proposition 7 and the numbering, the boundary against verificationism, the attribution boundary against Moore's ethics and the exact strength of the descriptions-to-atomism link"
+    },
+    "pyqs": {
+     "directly_owned": 14,
+     "supporting_routed": 3,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus, with at least one owned part in every year; internal split is Moore 5, Russell 6 and early Wittgenstein 3; the three supporting parts are marked as owned by Topic 03 (2018 Q3(a)) and Topic 08 (2023 Q4(c) and 2025 Q3(a))",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the printed 'Sying and Showing' in the syllabus clause and the printed anomaly in the 2025 Q3(a) quotation are retained rather than silently corrected"
+    },
+    "answer_lengths": "All 20 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 184-218, 15 marks 235-311, 20 marks 371-426 alphanumeric words; the three supporting routed parts carry bounded contribution-and-boundary blocks rather than full-band model answers, because their owners are Topics 03 and 08",
+    "pdfs": {
+     "complete_learning_session_pages": 136,
+     "solved_practice_workbook_pages": 39,
+     "ascii_master_flowchart_pages": 31,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 4,
+     "extracted_characters": {
+      "learning": 484628,
+      "workbook": 121858,
+      "ascii": 70982
+     },
+     "bookmarks": {
+      "learning": 51,
+      "workbook": 9
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master, exactly as in Topics 01-05",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 14 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      27999
+     ],
+     "master_dpi": 300,
+     "core_stages": 28,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_kinds": 14,
+     "layout_kinds": [
+      "band",
+      "chain",
+      "cols",
+      "compare",
+      "formula",
+      "head",
+      "ladder",
+      "matrix",
+      "numbered",
+      "pills",
+      "stack",
+      "text",
+      "timeline",
+      "tree"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page",
+     "tiles": "4 overlapping native-width crops of the same saved master at rows 0-7300, 6900-14200, 13800-21100, 20699-27999 with 400 px overlap and complete row coverage, verified against fresh crops of the master",
+     "metadata": "no production, generation or approval metadata is printed anywhere on the master, poster or tiles",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-05"
+    },
+    "ascii_master": "28 authored data-complete panels, longest line 96 columns, paginated to 31 rendered landscape pages in Courier with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 18,365 characters carrying the central thesis, the scope firewall with the naturalistic-fallacy exclusion, the named target, the marks-earning dates, Moore's three papers, Russell's one technique in three applications, the Tractatus spine from 1.1 to proposition 7, the two-atomisms comparison, a ten-line trap sheet, the complete 14-part PYQ routing with answer routes, the three answer architectures and a qualified conclusion; it is under four per cent of the learning session's length and duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: esse est percipi, act and object, transparency, things met with in space, incomplete symbol, existence/uniqueness/predication, primary and secondary occurrence, the Principle of Acquaintance, logically proper name, disguised description, the supreme maxim, last residue in analysis, atomic and molecular propositions, isomorphism, negative facts, Sachverhalt, Bild and abbilden, pictorial form, logical form, bipolarity, logical space, Grundgedanke, the general form and the N-operator, sinnlos, unsinnig, gesagt and gezeigt, 4.1212, 6.124, 6.41-6.522, 6.53, 6.54, proposition 7 with both translations, the no-7.1 rule, the 1921/1922 split and the exclusion of the naturalistic fallacy; an automated anchor check confirms twelve controlling terms in the learning session, the quick-glance tree and the ASCII master simultaneously",
+    "residue_audit": "Removed the g5 generation identity and source record ID from README.txt, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the two REVIEW-PROMOTED blocks, the verbatim CANONICAL EXAM APPARATUS source dump, the 40-question mastery set, the supplemental 41-48 MCQ block, the 49-56 review-promoted MCQ block and the 'answer-specific execution and compression upgrades' block; an automated forbidden-wording scan over all four source artifacts returns zero hits",
+    "later_topics": "All 110 baseline SHA-256 hashes for Topics 01-05 and 07-11 across the three locked trees are unchanged; the aggregate baseline digest re-computes identically as 01678ce1fa3e60d5bb31d9c0d07d16f1bf33071908f07f68e206c2020f5eeb9a",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\06-Moore,-Russell-and-Early-Wittgenstein\\Learning-Session.md": "0d05a60d96510bbf3f76848f9965dd021df0a82efa54b2ccfb763601b195a6ab",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\06-Moore,-Russell-and-Early-Wittgenstein\\Solved-Practice-Workbook.md": "175f779dfc20c830b7772006cbfb387188006932de62de95ca0d36f9a4288c0b",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "2f7e8f3c3ee7519419170b5bf9710ac4d0ff26c890fcac8395330e55120808ed",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "9db3256b8779b4dc5da2f38021a069a5bab9a3bc1c84520be8d5b6a1c98affed",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "eb427fd2f307336da2341eb9914ec6197f338eaef2048834a4e7576c95e16555",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "2f8821bd1867506f8ea9898fc0949c6fb54bc88b61ae2608daadd77639921264",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "dcba3b468a68ca4c3fecd8217ebc29ede13a7dc41487e1499fc6d3a6f88c252f",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "5bc0461d8528e328dc362c9df6c88e128adeb3abe27c79bbcac7014e7b932735",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "e754336975bcb65bd528c3a67126df8fa611c96697fd31352210efac0991c8d9",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-1a6ed829-ittgenstein\\README.txt": "955b2cecc093ecde8018ab1d8a71ee243e506ddaa56460422162aae5a9bac9da",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-06_Tree-Chart.md": "599abd298db8038665a120c1a1a5307470849f39b9d35bf905e80440fa4d71bb"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "Wittgenstein's simple objects and elementary propositions are argued for rather than exemplified in the Tractatus, and the package states that gap rather than supplying an invented example",
+     "The standard-ineffability and resolute readings of 6.54 remain a live scholarly dispute; both are stated and a graded ruling is given rather than one reading being presented as settled",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-05 in this section; artifacts were repaired in place and nothing was moved or renamed"
+    ]
+   }
+  },
+  {
+   "number": 7,
+   "topic_key": "philosophy-paper-i-western-philosophy-07",
+   "title": "Logical Positivism",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Logical-Positivism.md (Basic/Core owner, complete: the one-screen map, the historical/source/owner-scope map, the verification theory with the meaning-against-truth distinction and the cognitive-significance clarification, Ayer's strong and weak senses with the 1946 revision and Church's 1949 objection, verifiability in principle against in practice, the five motivations of the positive case with the six-step argument and its four presuppositions, the Tractatus-to-verification lineage with the truth-conditions/verification-conditions substitution and the three corrections, the rejection of metaphysics with the surface-grammar diagnosis and the two routes to pseudo-statement status, the identification criterion with worked and control examples, the fate of ethics and theology with the complete Ayer-against-Stevenson comparison and the shared-objection table, the linguistic theory of necessary propositions with the trilemma, the three rivals, the four features and the exhaustive dichotomy, the 2024 pair worked in full, the problem of general and universal statements, observation language with reduction and the unity of science, the protocol-sentence debate with Schlick's affirmations, Neurath's boat, Carnap's mediation and the fairy-tale residue, Carnap's principle of tolerance with the internal/external distinction, the directive decoder, the graded verdict bank, the translation/quotation/provenance discipline, the criticisms and replies including self-refutation, the marks-essential and optional split, the inter-thinker debates, the common traps, the keyword and statement bank, the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the PYQ routing table and the answer architecture)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 7 (Advanced owner: the second-order protocol-sentence question, Carnap against Neurath on physicalism and unified science, and the verification-to-confirmation continuity dispute, with the Schlick/Carnap/Neurath/Ayer/Hempel/Church/Friedman/Uebel source trail and the recorded promotion status)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 7 primary-owned parts, 2022 the only empty year, and the three supporting parts owned by Topics 08 and 11)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 7)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Empiricism.md and paper-1\\_themes\\Critiques-of-metaphysics.md (Hume's fork and the Enquiry XII wording, used as the bounded ancestor)",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomized MCQ keys with balanced options, learner-v2 layering, English-first terminology with the source term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "12 progressive visual-first sessions covering the whole printed clause and the supporting architecture; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with author, work and year, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "The complete Vienna Circle and logical-positivism framework: the Circle's membership and the 1929 collective manifesto by Hahn, Neurath and Carnap dedicated to Schlick, with the reassignment of philosophy to logical clarification in Schlick's 1930 paper; the three inheritances of Hume's fork, Frege-Russell logic and the relativity model, and the combination that distinguishes the school from Hume; the verification principle stated as a biconditional with both its licensing and its excluding halves, the criterion of meaning against truth with the false-but-meaningful control, verifiability in principle against in practice, cognitive or factual significance with the four things the verdict does not assert, and the exact vocabulary of pseudo-statement against false, unprovable and unqualified nonsense; Ayer's strong and weak senses with the three classes strong verification destroys and the auxiliary-hypothesis cost of the weak sense, the 1946 direct and indirect verifiability machinery stated in full and Church's 1949 result, and the migration from verification to confirmation with its gain and loss; the five motivations graded, the six-step argument and the four presuppositions with the objection each generates; the Tractatus ledger of what was taken and what was added, the truth-conditions to verification-conditions substitution as the Circle's own move, and the three fences on membership, on the Tractatus and on later Wittgenstein; the elimination of metaphysics as a four-step identification procedure with both routes, four graded worked examples and two meaningful control cases, Carnap's 1932 analysis of das Nichts nichtet as a quantifier used as a name plus a pseudo-verb, the forbidden rendering recorded only as a prohibition, and Heidegger's Angst reply reported before the ruling; the meaning-knowledge-ontology cascade with knowledge dissolved rather than answered and ontology declared ill-formed rather than denied; the consequences for ethics, aesthetics and theology with the complete Ayer-against-Stevenson comparison, non-cognitivism against subjectivism, the Frege-Geach embedding problem, the non-atheism qualification and the decomposed 2020 test sentence with its fiction-framework bound; the linguistic theory of necessary propositions with the trilemma, Kant and Mill refuted, the four features derived from one source, the exhaustive dichotomy, the denial of the synthetic a priori, the 2024 pair worked, and the Quine, applicability and Godel pressures stated honestly; general statements, universal laws, the past, other minds and theoretical terms with their routes and residual costs, the categorical refusal to extend the account to metaphysical universals and the conceded auxiliary-hypothesis counter-pressure; the protocol-sentence debate with Schlick's affirmations and their unusability, Neurath's revisable physicalist protocols and the boat, Carnap's 1932 mediation ending foundationalism, and the fairy-tale objection with its unmet residue; protocol form, phenomenalist reconstruction, physicalist public language, the unity of science as translation, coordination or method, and Carnap's tolerance with the internal/external distinction; and the self-refutation objection with its three replies and their exact costs, the four pressures ranked, the Popper, later-Wittgenstein and ordinary-language contrasts, the historical end in 1936, the directive decoder, three answer architectures, the graded verdict bank, the provenance table and the inter-school comparison grid",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "ACABDBACBCDCABCBDABADACDADCDBCBD",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no rotation or reversed-rotation window, no repeating four-key cycle and no repeating two-key alternation",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is the longest in 0 of 32 questions and the worst relative length spread inside a question is 0.52, so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the manifesto and Circle membership, the criterion of meaning against truth, what cognitive meaninglessness does not assert, verifiability in principle, the casualties of strong verification, the cost of the weak sense, the 1936/1946/1949 sequence, the exact strength of the verdict on metaphysics, the two routes to pseudo-statement status, Carnap's analysis of das Nichts nichtet and Heidegger's reply, the meaning-knowledge-ontology ordering, the necessity trilemma, the 2024 pair, the exhaustive dichotomy, the refutation of Mill, indirect confirmation of universal laws, the categorical refusal to extend the account to metaphysical universals, theoretical terms and the theory-network, Schlick's affirmations, Neurath's protocols and the boat, Carnap's mediation, the fairy-tale residue and the internal/external distinction, with remedial drills on Popper's demarcation criterion, the provenance of the verification slogan, the truth-conditions/verification-conditions substitution, non-cognitivism against subjectivism, the Frege-Geach embedding problem, the decomposition of the 2020 sentence, the exact cost of each reply to self-refutation and the plural character of the decline"
+    },
+    "pyqs": {
+     "directly_owned": 7,
+     "supporting_routed": 3,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus, one in each year except 2022, which is the only year without an owned part; the internal split is verification 2018 and 2025, rejection of metaphysics 2018, 2021 and 2023, necessary propositions 2024, general statements 2018 and 2019, and value language 2020; the three supporting parts are marked as owned by Topic 11 (2019 Q1(e) and 2024 Q4(c)) and Topic 08 (2025 Q3(a))",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the smart-quote wording of the 2020, 2021, 2024 and 2025 parts is reproduced exactly as printed in the ledger, and the printed anomaly in the 2025 Q3(a) supporting part is retained rather than silently corrected"
+    },
+    "answer_lengths": "All 13 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 156-203, 15 marks 272-328, 20 marks 332-373 alphanumeric words; the three supporting routed parts carry bounded contribution-and-boundary blocks rather than full-band model answers, because their owners are Topics 08 and 11",
+    "pdfs": {
+     "complete_learning_session_pages": 121,
+     "solved_practice_workbook_pages": 31,
+     "ascii_master_flowchart_pages": 30,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 4,
+     "extracted_characters": {
+      "learning": 446203,
+      "workbook": 105835,
+      "ascii": 51810
+     },
+     "bookmarks": {
+      "learning": 48,
+      "workbook": 9
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master and carry no extractable text at all",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 7 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      20456
+     ],
+     "master_dpi": 300,
+     "core_stages": 28,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_kinds": 14,
+     "layout_kinds": [
+      "band",
+      "chain",
+      "cols",
+      "compare",
+      "formula",
+      "head",
+      "ladder",
+      "matrix",
+      "numbered",
+      "pills",
+      "stack",
+      "text",
+      "timeline",
+      "tree"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page",
+     "tiles": "4 overlapping native-width crops of the same saved master at rows 0-5414, 5014-10428, 10028-15442, 15042-20456 with 400 px overlap and complete row coverage, each verified byte-for-byte against a fresh crop of the installed master",
+     "metadata": "no production, generation or approval metadata is printed anywhere on the master, poster or tiles; the poster and tiled PDFs extract zero characters of text",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-06"
+    },
+    "ascii_master": "30 authored data-complete panels, longest line 95 columns, paginated to 30 rendered landscape pages in Consolas with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 23,399 characters, 5.3 per cent of the learning session, carrying the central thesis, the scope firewall with the Popper, Quine, later-Wittgenstein and Paper II exclusions, the three inheritances, the marks-earning dates with the three non-memberships, the two-key criterion, the strong/weak fork with the 1936/1946/1949 sequence, the positive case with the four hinges, the Tractatus substitution, the pseudo-statement procedure with both routes and the rendering rule, the meaning-knowledge-ontology cascade, Ayer against Stevenson with Frege-Geach and the decomposed 2020 sentence, the necessity trilemma and the 2024 pair, the four hard cases, the protocol debate, tolerance, a ten-line trap sheet, the complete 7-part PYQ routing with answer routes, the answer spine and a qualified conclusion; it duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: pseudo-statement (Scheinsatz), protocol sentence (Protokollsatz), affirmation (Konstatierung), das Nichts nichtet, cognitive significance, meaning against truth, in principle against in practice, strong and weak verifiability, the 1929 manifesto with its three authors and dedicatee, the 1936/1946/1949 sequence, the difference-argument, the truth-conditions to verification-conditions substitution, the two routes, the meaning-knowledge-ontology ordering, non-cognitivism against subjectivism, Frege-Geach, tautology and the denial of the synthetic a priori, Schlick's affirmations, Neurath's boat, Carnap's mediation, tolerance and the internal/external distinction, and Popper's demarcation fence; an automated anchor check confirms twenty controlling terms in the learning session, the quick-glance tree and the ASCII master simultaneously",
+    "residue_audit": "Removed the g5 generation identity, generation date and approval line from the front matter and README.txt, the dangling assets/ cover-image reference, the legacy five-layer session description, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the two REVIEW-PROMOTED blocks, the verbatim canonical-apparatus dump, the 40-question mastery set, the supplemental 41-48 MCQ block, the 49-56 review-promoted MCQ block and the 'answer-specific execution and compression upgrades' block; an automated forbidden-wording scan over all four source artifacts returns zero hits, and the prohibited rendering 'Nothing noughts' occurs only inside explicit prohibition sentences",
+    "later_topics": "All 141 baseline SHA-256 hashes for Topics 01-06 and 08-11 across the three locked trees are unchanged; the aggregate baseline digest re-computes identically as baa13f23826fbf5c48422e972cfc3849928a8095b388a6e8ae2c570a76847711",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Learning-Session.md": "6ac5113a8ed2a70b9a2eb7f78931f6072d5ac563c694836438408f11772798e5",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Solved-Practice-Workbook.md": "dde697dc847ff4a90a38f6eeab705b149f7839d223df26baae894248ef4db682",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "05a3823264e9aa1a1f016e407f2e24ea8b67caeb65a9c144e4607bc5415d7ffd",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "30ed06c5629815efea651a549fc7efd489200d441641e456ff0bf47e2534ab7c",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "d4124c8bf56e874117420d88c4e9cd64fb06c8a7790368bd1faef530546e036a",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "8248cb5540a30225a858c47f40cb49338789d2e75b573ce8137daef53b5e30a6",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "3e73f2bc1117098c8ada16d9f5aa18c5c5d21ac77d1a50a785d211d6874fc8ff",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "489cea9f8f180e3d2693d76fc72743555e4c11bb8e912ada5a39b5213fd0b438",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "dab73d55cfeaaadd33b32ed9bce58adcac7559520809888e0097cffd83987a28",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-07_Tree-Chart.md": "2999340f661d9f7ef3cbfee276a4cca291f3b38378f68866685feb684d7dbc92"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "No dated official or academic development was claimed for this clause; a contemporary link is deliberately not forced, and the topic's live relevance is stated as the static disciplinary agenda of confirmation, demarcation, holism and analyticity",
+     "Whether Neurath's coherentism repaired empiricism or abandoned it, whether physicalism should be translational or encyclopaedic, and whether the move to confirmation theory was continuity or capitulation remain live scholarly disputes; each is stated as contested in the optional block rather than settled",
+     "Church's 1949 result is reported by its shape rather than reconstructed formally, because the formal detail is not examinable and inventing it would exceed the sources",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-06 in this section; artifacts were repaired in place and nothing was moved or renamed"
+    ]
+   }
+  },
+  {
+   "number": 8,
+   "topic_key": "philosophy-paper-i-western-philosophy-08",
+   "title": "Later Wittgenstein",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md (Basic/Core owner, complete: the one-screen map, the source/period/owner-scope map, the break from the Tractatus with its five commitments and reasons, meaning and use with the PI 43 qualification and the Augustinian picture, ostensive definition with samples and training, family resemblance with the survey and the thread, language-games with the builders and the PI 23 list, forms of life with PI 19, agreement in judgments, the lion and the bedrock of PI 217, the rule-following paradox at PI 201 with its resolution and the bridge to private language, the critique of private language with the exact target, the diary S, the beetle and the criterion-of-correctness core, criteria against symptoms with the angina example and the three points, PI 580 with its numbered argument, the behaviourism charge and the four-move reply at PI 304 and 307-308, philosophy as therapy with the five load-bearing remarks and the three objections, aspect-seeing and the duck-rabbit as bounded enrichment, the inter-thinker debates, the directive decoder, the graded verdict bank, the translation/numbering/provenance discipline, the marks-essential and optional split, the criticisms and replies, the common traps, the keyword and statement bank, the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the PYQ routing table and the answer architecture)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 8 (Advanced owner: Kripkenstein and rule-following scepticism as a second-order layer with its recorded partial promotion, the community requirement against public criteria, and therapy against positive theory, with the Wittgenstein/Kripke/Baker/Hacker/McDowell/McGinn/Cavell source trail)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 7 primary-owned parts, 2021 the only empty year, and the three supporting parts owned by Topic 06 in 2018, 2021 and 2022)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 8)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md and paper-1\\_themes\\Critiques-of-metaphysics.md (the early position and the therapeutic assault on metaphysics, used as the bounded ancestor and contrast)",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomised MCQ keys with balanced options, learner-v2 layering, English-first terminology with the source term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "13 progressive visual-first sessions covering the whole printed clause and the four supports that make it executable; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with section, work and date, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2 and end with the complete ASCII master flow diagram",
+    "scope_restored": "The complete owned later-Wittgenstein framework: the break from the Tractatus stated through five abandoned commitments and their several pressures, with colour exclusion marked as a pressure rather than a refutation, the 1929 paper disowned, and the two caricatures killed by 4.002/5.5563 and by 5.62; the four continuities of philosophy as activity, trouble from misreading language, ordinary language not at fault and the self-consuming book; meaning as use with the Augustinian picture of PI 1 diagnosed at PI 2-4 as one primitive game over-generalised, the tool-box and the locomotive handles, the PI 43 hedge quoted in full with the bearer/meaning separation at PI 40 and proper names at PI 79, the four refusals of frequency, usefulness, intention and licence, and understanding as mastery of a technique at PI 199; ostensive definition with the ambiguity of PI 28, the borrowed repair of PI 29-30, the chess-king and the prepared place of PI 31, training (Abrichtung) at PI 5-6, the regress and its terminus in trained action, and samples as means of representation at PI 16 and PI 50; family resemblance with the PI 65 challenge, the PI 66 survey defeating six candidate features, the PI 67 thread, the PI 68-71 account of an undrawn boundary, the four denials, the unlimited-resemblance objection with its practice-based reply and residue, and the four-step service rendered to the 2018 question; language-games with the PI 7 definition, the three uses, the builders worked through PI 2 and PI 19-20, objects of comparison at PI 130-131, the PI 23 list with its historicity and closing clause, and grammar at PI 371, 373, 496 and 664 with the diagnostic of PI 350-351; forms of life with PI 19 and PI 23, the four jobs, agreement in judgments at PI 241-242 with the measuring asymmetry, bedrock at PI 211 and 217 marked as a rule-following remark, natural history at PI 25 and 415, the lion remark bounded to intelligibility, the naturalist and culturalist readings and the tenability verdict; rule-following with the pressure of PI 138-155, the pupil at 1000 in PI 185, PI 201 in three parts with the gloss of interpretation as substitution, PI 202's ban on private rule-following, the normativity-against-regularity discrimination, and Kripke 1982 reported with its provenance, the opposing reading and a defended ruling; the critique of private language with PI 243's own narrowing, the four non-targets, the diary of PI 258 with PI 260 and PI 265, the manometer variant of PI 270, the beetle of PI 293 with its conditional conclusion, the five-step core and what survives; sensation language with criteria against symptoms from the Blue Book and the angina example, defeasibility, PI 580's numbered argument, avowals at PI 244 and 246, the behaviourism charge and the four-move reply at PI 304 and 307-308, and the fluctuation of PI 354; solipsism from the Tractatus 5.6-5.64 saying/showing treatment to the later grammatical dilemma, with dissolution rather than refutation and an explicit list of what is not proved; philosophy as therapy from PI 38's idling language through PI 109, 115, 122, 123, 127, 128, 129, 133, 255 and 309, with PI 124 bounded by its own first clause and the quietism, self-application and persistence objections stated with their residues; aspect-seeing and On Certainty carried only as bounded enrichment with an explicit mark budget; and the comparison grid, ranked criticism ledger, directive decoder, graded verdict bank and provenance table",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "BDACDADCABCBDCABDACBCDBCABDADCAB",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no rotation or reversed-rotation window, no repeating four-key cycle and no two-key alternation",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is never the longest option in any of the 32 questions and the worst relative length spread inside a question is 0.50, which occurs only in the two short statement-selection stems, so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the status of the Augustinian picture, the exact content of PI 43, what use excludes, understanding as mastery of a technique, the ambiguity of ostension, the prepared place, the standard metre, what family resemblance denies, the thread and the undrawn boundary, what the builders establish, objects of comparison, the function of the PI 23 list, surface and depth grammar with the sun sentence, agreement in judgments, the scope of the lion remark, the three parts of PI 201, PI 202's ban on private rule-following, the provenance of Kripke's reading, the target of PI 243, what collapses in the diary argument, the manometer variant, the exact conclusion of the beetle, criteria against symptoms in the angina case, and PI 580 with the behaviourism reply, with remedial drills on the posthumous status of the Investigations, the 2009 renumbering and Jastrow's figure, colour exclusion as a pressure, the boundary against logical positivism, dissolution against refutation for solipsism, the solitary-speaker objection, the scope of PI 124, and the ownership fence around Topics 06, 07, 11 and Paper II"
+    },
+    "pyqs": {
+     "directly_owned": 7,
+     "supporting_routed": 3,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus, one in each year except 2021, which is the only year without an owned part; the internal split is family resemblance 2018, private language 2019, 2020 and 2024 in three different framings, form of life 2022, and the transition 2023 and 2025; the three supporting parts are marked as owned by Topic 06 (2018 Q3(c) on saying and showing, 2021 Q4(c) on 'Whereof one cannot speak' and 2022 Q3(c) on pictorial against logical form)",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the smart-quote wording of the 2019, 2020, 2022, 2023 and 2025 parts is reproduced exactly as printed in the ledger; the 2022 Q1(c) printed 'motion' and the unmatched opening quotation in 2025 Q3(a) are retained and glossed rather than silently corrected"
+    },
+    "answer_lengths": "All 13 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 209-220, 15 marks 314-328, 20 marks 373-400 alphanumeric words; the three supporting routed parts carry bounded contribution-and-boundary blocks rather than full-band model answers, because their owner is Topic 06",
+    "pdfs": {
+     "complete_learning_session_pages": 135,
+     "solved_practice_workbook_pages": 32,
+     "ascii_master_flowchart_pages": 33,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 4,
+     "extracted_characters": {
+      "learning": 505488,
+      "workbook": 99692,
+      "ascii": 50924
+     },
+     "bookmarks": {
+      "learning": 50,
+      "workbook": 9
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master and carry no extractable text at all",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 7 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      30193
+     ],
+     "master_dpi": 300,
+     "core_stages": 36,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_kinds": 14,
+     "layout_kinds": [
+      "band",
+      "chain",
+      "cols",
+      "compare",
+      "formula",
+      "head",
+      "ladder",
+      "matrix",
+      "numbered",
+      "pills",
+      "stack",
+      "text",
+      "timeline",
+      "tree"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page at 1152 x 7246.32 points",
+     "tiles": "4 overlapping native-width crops of the same saved master at rows 0-7848, 7448-15296, 14896-22745 and 22345-30193 with 400 px overlap and complete row coverage, each verified byte-for-byte against a fresh crop of the installed master",
+     "metadata": "no production, generation or approval metadata is printed anywhere on the master, poster or tiles; the poster and tiled PDFs extract zero characters of text",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-07"
+    },
+    "ascii_master": "33 authored data-complete panels, longest line 95 columns, paginated to 33 rendered landscape pages in Consolas with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 19,816 characters, 3.98 per cent of the learning session, carrying the central thesis, the scope firewall with the Topic 06, Topic 07, Topic 11 and Paper II exclusions, the corpus signal with the three private-language framings and the two transition parts, the marks-earning dates of a wholly posthumous corpus, the five dropped commitments and four continuities, meaning as use with the PI 43 hedge and the four refusals, ostension and family resemblance with the thread and the undrawn boundary, language-games with the builders and the PI 23 closing clause, grammar with the sun-sentence diagnostic, forms of life with the measuring test and the lion caution, rule-following with PI 201's three parts and PI 202, the private-language target with the four non-targets and the five-step core, the anti-behaviourist firewall, solipsism and therapy, the enrichment fence with its mark budget, a ten-line trap sheet, the complete 7-part PYQ routing with answer routes, the answer spine and a qualified conclusion; it duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: language-game (Sprachspiel), form of life (Lebensform), family resemblance (Familienaehnlichkeit), criterion (Kriterium), symptom (Symptom), avowal (Aeusserung), surroundings (Umgebung), the dawning of an aspect (das Aufleuchten eines Aspekts), when language idles (wenn die Sprache feiert), the PI 43 hedge, PI 201's three parts, PI 202's ban on private rule-following, PI 243's narrowing, the diary of PI 258 with PI 265 and PI 270, the beetle of PI 293, PI 580, PI 304 and 307-308, PI 354's fluctuation, the posthumous 1953 publication with Anscombe and Rhees, the 2009 renaming of Part II to PPF, Kripke 1982 as a reading, Jastrow's 1899 figure and the two printed PYQ anomalies; an automated anchor check confirms twenty controlling terms in the learning session, the quick-glance tree and the ASCII master simultaneously",
+    "residue_audit": "Removed the g5 generation identity, the generation date and the approval line from the front matter and README.txt, the dangling assets/ cover-image reference, the legacy five-layer session description, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the two REVIEW-PROMOTED blocks, the verbatim canonical-apparatus dump, the 40-question mastery set, the supplemental 41-48 MCQ block, the 49-56 review-promoted MCQ block and the 'answer-specific execution and compression upgrades' block; an automated forbidden-wording scan over all four source artifacts returns zero hits",
+    "later_topics": "All 111 baseline SHA-256 hashes for the Topics 01-07 and 09-11 artifacts across the three locked trees are unchanged, and the aggregate baseline digest over those artifacts re-computes identically as e50bbe273811073f43773a245ea30ad7d4cca1e39ec6c25950a6b33d96b0c52c; the only other file touched in the section is this section-local REPAIR-STATUS.json, which the Western Philosophy control file designates as the status record to be written during parallel work",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\08-Later-Wittgenstein\\Learning-Session.md": "df9d9c67634a8cbd8bbae8d8df88db6024c8f9f138b63c2b88e38064a0fb36d7",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\08-Later-Wittgenstein\\Solved-Practice-Workbook.md": "4cebfcdb3d473e2b1fead2612488d97d7d20a29b5d8f6a92331e9e28d57922e0",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "3208d66f37ba945ad59d9ed0e01cfff6e42c11076a1116b4b5a313fe39285ca5",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "80bb792512bf51e0a2b32e876e700cdfd69fd742d5f62018619110e42c928929",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "6cd2ab3ca4e608702f72bf8721cd62def8711c887045c3fe03a2e49d0e23bdbf",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "a0c8da5f22f6e3e08b05cf56ca72385013dfeca40070cc05ebc8ada7dcad9d83",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "176d3a1076b1de0f462c210c8cd1a371ce52811b2bba153fb3e74e9f51159db8",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "7689753169aafc030c0b4e5dfd218fa0bcab0bdc91c6be66d9b40c0047a33916",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "ccb51ba0bb5f1da507c05f01ba0f06cc2caf10c07597edcf4e1440cfdb4692f4",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-08_Tree-Chart.md": "3cba88a467ba432cb2e64aa23bf1719aae041c4919c9bff292515084cc7c284c"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "No dated official or academic development was claimed for this clause; a contemporary link is deliberately not forced, and the topic's live relevance is stated as the static disciplinary agenda of pragmatics, use-based and inferentialist semantics, the philosophy of psychology and rule-following in the theory of content",
+     "Whether Kripke's sceptical solution is a legitimate Wittgensteinian move, whether language requires an actual community or only in-principle shareable standards, and whether meaning-as-use is a theory or a therapeutic reminder remain live scholarly disputes; each is stated as contested in the optional block rather than settled",
+     "Wittgenstein's German is reported in translation throughout, and the Investigations is a posthumous compilation whose arrangement of remarks is partly editorial, so renderings are marked as renderings and Part II material is cited as 'Part II section xi / PPF' rather than by a bare number",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-07 in this section; artifacts were repaired in place and nothing was moved or renamed"
+    ]
+   }
+  },
+  {
+   "number": 9,
+   "topic_key": "philosophy-paper-i-western-philosophy-09",
+   "title": "Phenomenology (Husserl)",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md (Basic/Core owner, complete: the one-screen map, the source/development/owner-scope map, the natural attitude and its general thesis with the inclusion of the natural sciences, the epoche and bracketing with the exact statement of what is and is not bracketed and the residue, the four distinct operations held apart without a mechanical ladder, intentionality from Brentano with noesis and noema and the refusal of the mental-image intermediary, the non-existence of the intentional object and the hallucination case, the principle of principles at Ideas I section 24 with its limiting clause, profiles, internal and external horizon, the synthesis of identification, fulfilment and graded evidence, hyle and morphe at section 85 with the four payoffs and the standing difficulty, inner time-consciousness with retention, primal impression, protention, the running-off phenomena and the retention/recollection distinction, the eidetic reduction, the transcendental reduction and the transcendental ego, the life-world with its publication caution, the three purposes of bracketing and reduction, essence as eidos with its ideal, non-psychological, non-Platonic and objective status, free imaginative variation with the triangle case and the angle-sum caution, Wesensschau and categorial intuition kept distinct, formal and regional ontology, the correlational a priori and the continuity of consciousness and being, psychologism with Mill, Lipps and Sigwart, the 1891 Philosophie der Arithmetik, Frege's 1894 review with the quotation prohibition and the Foellesdal/Mohanty dispute, the four Prolegomena arguments, ideal objectivity, the transcendental-turn objection with its three-part reply, the Fifth Cartesian Meditation with its nine steps, four presuppositions and four objections, the directive decoder, the graded verdict bank, the translation and provenance discipline, the criticisms and replies, the common traps, the keyword and statement bank, the corpus-driven depth delta, the PYQ routing table and the answer architecture)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 9 (Advanced owner: what the noema positively is, static against genetic phenomenology and passive synthesis, and the life-world and the late-Husserl turn, each with its competing interpretations, extra objection and counter-reply, safe 15/20 use, over-study caution and promotion trigger, with the Foellesdal/Sokolowski/Zahavi/Drummond/Carr source trail)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 7 primary-owned parts, 2018 the only empty year, and the supporting parts owned by Topic 10 in 2018 and by Topic 02 in 2022)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 9)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md and Rationalism.md boundaries, used only to fence Topic 10 and Topic 02 material",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomised MCQ keys with balanced options, learner-v2 layering, English-first terminology with the source term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "13 progressive visual-first sessions covering the whole printed clause and the bounded prerequisites that make it executable; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with work, section and date, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2, run A-M against the thirteen sessions and end with the complete ASCII master flow diagram",
+    "scope_restored": "The complete owned Husserl framework: the programme of a presuppositionless rigorous science with naturalism and historicism named from the 1911 Logos essay and their shared self-refutation; the motto 'to the things themselves' glossed as matters rather than physical things; the natural attitude with its general thesis, its extension to the natural sciences and empirical psychology, and the criticism stated as uncritical rather than false, with the sceptic shown to be inside the same attitude; suspension and bracketing with what is bracketed, what survives, the residue as wider rather than narrower, and the three-way difference from Cartesian doubt in operation, aim and result; the four operations - suspension, phenomenological reduction, eidetic reduction and transcendental reduction - held apart with their two boundary errors and with the explicit denial of a mechanical ladder; the three purposes of bracketing and reduction, each paired with the loss it prevents, and apodicticity qualified as not exhaustive transparency; intentionality inherited from Brentano and transformed, noesis and noema as one structure described twice, the picture error and the reference error, the vocabulary trap on 'intentional', and hallucination as a full act minus fulfilment for the 2019 part; the principle of principles at Ideas I section 24 with its limiting clause and the graded, dynamic account of evidence; profiles, internal and external horizon, the synthesis of identification, empty intention, fulfilment and disappointment; hyle and morphe at section 85 with the non-intentional and lived-not-observed properties, the same-matter-different-object payoff, the anti-sense-datum result against Locke and Russell, the Merleau-Ponty and Sartre revolt point and the given-yet-non-intentional difficulty absorbed into passive synthesis; inner time-consciousness with the living present, the running-off phenomena, the melody and the sentence, the retention/recollection distinction with the argument that forces it, the four consequences and the regress; essence as the invariant with its ideal, non-psychological, non-Platonic and objective status and the four denials; free imaginative variation in four steps with the triangle case, the angle-sum caution and the limit-not-frequency argument; Wesensschau with categorial intuition as its distinct ancestor, the strong presupposition, the Ryle and Ayer objection and the counter-variation and repeatability constraints; formal and regional ontology at orientation depth; the correlational a priori with the two-sided worked case, the three denials and the reframing of realism and idealism; psychologism defined with its three characteristic claims and its holders, the 1891 to 1900 reversal, Frege's 1894 review paraphrased with the quotation prohibition and the contested causal claim, the four Prolegomena arguments with the root confusion and the strongest argument identified, ideal objectivity, the anti-psychologism-is-not-anti-mentalism correction and the transcendental-turn objection with its three-part reply and undecided verdict; the transcendental ego as a constituting field with the three exclusions, the agreement with Descartes and the three divergences, the transcendental-solipsism charge with the question corrected, the Fifth Cartesian Meditation in nine steps with its four presuppositions and the Schutz, Sartre, Levinas and Heidegger objections with replies and residues; the life-world, Galilean idealisation, sedimentation and the objectivism target as bounded enrichment; and the comparison grid, criticism ledger, directive decoder, graded verdict bank and keyword bank",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "CADBACBDBACADCBDADCBDACBCDABDABC",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no rotation or reversed-rotation window, no repeating four-key cycle and no two-key alternation",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is never the longest option in any of the 32 questions and the worst relative length spread inside a question is 0.50, which occurs only in the short statement-selection stem, so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the sense of 'to the things themselves', the general thesis, the scope of the natural attitude and the exact character of the criticism, what the bracket falls on, suspension against Cartesian doubt, the residue, the phenomenological/eidetic conflation, the three purposes, intentionality as directedness, the hallucination case, the core negative claim about the noema, the principle of principles with its limiting clause, profiles and horizons, graded evidence, the status of hyle, the anti-sense-datum consequence, retention against recollection, protention shown by disappointment, essences against separated Platonic form, variation against induction, Wesensschau against categorial intuition, the correlational a priori, the self-refutation argument among the four Prolegomena arguments, and the transcendental-turn reply, with remedial drills on the dating of the Crisis, the French-first Cartesian Meditations, the misattributed Frege sentence, the Foellesdal/Mohanty dispute, the editorial history of the time-lectures, the status of the transcendental ego, what the Fifth Meditation does and does not claim, and the ownership fence around Topics 02, 04, 07 and 10 and Paper II"
+    },
+    "pyqs": {
+     "directly_owned": 7,
+     "supporting_routed": 2,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus, one in each year except 2018, which is the only year without an owned part; the internal split is method in 2021, 2023 and 2025 in three different framings, psychologism in 2020 and 2022 two years apart in almost the same words, essences in 2024 and intentionality in 2019; the two supporting parts are marked as owned elsewhere - 2018 Q4(a) by Topic 10, which opens by asking what the epoche is before turning to Heidegger, and 2022 Q4(b) by Topic 02 on Descartes' certainty of the self against knowledge of the world",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the typographic quotation marks of the 2021, 2023 and 2025 parts are reproduced exactly as printed in the ledger, including the curly apostrophes in 'Husserl’s' and the curly quotation marks around ‘natural attitude’ and “I think”"
+    },
+    "answer_lengths": "All 13 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 216-225, 15 marks 310-327, 20 marks 343-396 alphanumeric words; the two supporting routed parts carry bounded contribution-and-boundary blocks rather than full-band model answers, because their owners are Topics 10 and 02",
+    "pdfs": {
+     "complete_learning_session_pages": 108,
+     "solved_practice_workbook_pages": 32,
+     "ascii_master_flowchart_pages": 32,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 4,
+     "extracted_characters": {
+      "learning": 407549,
+      "workbook": 100178,
+      "ascii": 69647
+     },
+     "bookmarks": {
+      "learning": 50,
+      "workbook": 9
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the poster and tiled pages are image-only crops of the master and carry no extractable text at all",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 7 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      34205
+     ],
+     "master_dpi": 300,
+     "core_stages": 39,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_kinds": 14,
+     "layout_kinds": [
+      "band",
+      "chain",
+      "cols",
+      "compare",
+      "formula",
+      "head",
+      "ladder",
+      "matrix",
+      "numbered",
+      "pills",
+      "stack",
+      "text",
+      "timeline",
+      "tree"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page at 1152 x 8209.20 points",
+     "tiles": "4 overlapping native-width crops of the same saved master at rows 0-8852, 8452-17304, 16904-25756 and 25353-34205 with at least 400 px overlap and complete row coverage, each verified byte-for-byte against a fresh crop of the installed master",
+     "metadata": "no production, generation or approval metadata is printed anywhere on the master, poster or tiles; the poster and tiled PDFs extract zero characters of text",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-08"
+    },
+    "ascii_master": "30 authored data-complete panels, longest line 92 columns, pure ASCII, paginated to 32 rendered landscape pages in Consolas with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 26,690 characters, 6.61 per cent of the learning session, carrying the central thesis, the scope firewall with the Topic 10, Topic 02, Topic 04, Topic 07 and Paper II exclusions, the corpus signal with the method tested three times and psychologism twice, the marks-earning dates from 1891 to 1954 with the five bounded critics, the three limbs in dependency order, the natural attitude and the general thesis, suspension with the bracketed/not-bracketed split and the three differences from doubt, the four operations and the three purposes, intentionality with the hallucination route, profiles and graded evidence, hyle and morphe with the anti-sense-datum payoff, the living present with retention against recollection, essences with the variation technique and the angle-sum caution, Wesensschau and its constraints, the correlational a priori with its two-sided case, the four Prolegomena arguments with ideal objectivity and the three-part reply, the transcendental ego against Descartes, the nine steps of the Fifth Meditation, the life-world, a ten-line trap sheet, the complete 7-part PYQ routing with answer routes, the answer spine and a qualified conclusion; it duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: natural attitude (natuerliche Einstellung), general thesis (Generalthesis), suspension (epoche), bracketing (Einklammerung), residue (Residuum), profile (Abschattung), primal impression (Urimpression), re-presentation (Vergegenwaertigung), sphere of ownness (Eigenheitssphaere), pairing (Paarung), appresentation (Appraesentation), lived and physical body (Leib and Koerper), life-world (Lebenswelt), essence (Wesen, eidos), intuition of essences (Wesensschau), evidence (Evidenz), the Prolegomena, the 1891/1894/1900-01 reversal, Ideas I sections 24, 31-32 and 85, the Boyce Gibson and Kersten translations, Findlay 1970, Edith Stein and Heidegger 1928, the French-first Cartesian Meditations of 1931 with Levinas and Peiffer and Cairns 1960, the Crisis of 1936 and 1954 with Biemel and Carr, and Schutz 1957, Sartre 1943, Merleau-Ponty 1945 and Levinas 1961; an automated anchor check confirms twenty controlling terms in the learning session and the ASCII master simultaneously",
+    "residue_audit": "Removed the learner-v2 generation identity from the title and front matter, the five-layer session description, the source-audit and contemporary-link boundary block, the learning-roadmap stub, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the two REVIEW-PROMOTED blocks, the 40-question mastery set, the supplemental 41-48 MCQ block, the review-promoted MCQ block and the 'answer-specific execution and compression upgrades' block; an automated forbidden-wording scan over all four source artifacts returns zero hits",
+    "later_topics": "All 112 baseline SHA-256 hashes for the Topics 01-08 and 10-11 artifacts across the three locked trees are unchanged, and the aggregate baseline digest over those artifacts re-computes identically as e765094a7ba1f21f677114070e18683e4ad0a44e7db936bdb36ef404b3ed08e0; the only other file touched in the section is this section-local REPAIR-STATUS.json, which the Western Philosophy control file designates as the status record to be written during parallel work",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\09-Phenomenology-(Husserl)\\Learning-Session.md": "891656d6037c61937f2685357a155d7b7ed0aaa335acf1cabc131fad1692c82e",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\09-Phenomenology-(Husserl)\\Solved-Practice-Workbook.md": "bc662115d33ce2a45a00d5c51d948ce90dc02d01016babe5c122819762746bcc",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "04a76f73acd4a949d864a830345bdf4a3c452fb14bbec9f710c9da8fe9f3475b",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "97e27b74d08eb5a3b1f91df58293de44a2bba7969e35e8dd5901494a5c988e5b",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "942a0c5d599fdf02a5ac59ffd3a24a6ed97e32052cac2eb2ca498635f0e0fce0",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "db8957195515e506b01ed1fa9add716fee72dba4fc07cc2fba686def798917f5",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "cf0cf0af2538aae41775477c590c5ecc3ccac3c252c2dc65647679b9e3379712",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "363f57ed7280cb58049a3b023c0df616fbdbfb71a84b218d2c3ac880b374c5a4",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "ca664a554ba2ce1b500db63445910f1449da4f9d74a048f9ee4d747285c95155",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-09_Tree-Chart.md": "0a34113b81f2e4cb239b25d2c14219e9ec3020b239b4fe4e6b08970522e37f33"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "No dated official or academic development was claimed for this clause; a contemporary link is deliberately not forced, and the topic's live relevance is stated as the standing disciplinary agenda of first-person methodology in the philosophy of mind, the analysis of intentional content, embodied and enactive approaches, the phenomenology of time and habit, and the sociological reception through Schutz",
+     "Whether the noema is an ideal sense, the object-as-meant or a structured appearance; whether Husserl's method is essentially static or genetic; whether the life-world marks a retreat from transcendental idealism; whether the Fifth Meditation escapes transcendental solipsism; and whether the transcendental turn reinstates at a higher level what the Prolegomena expelled all remain live scholarly disputes, and each is stated as contested rather than settled",
+     "Whether Frege's 1894 review caused Husserl's anti-psychologistic reversal is disputed - Foellesdal (1958) argues that it did, Mohanty's Husserl and Frege (1982) argues from the manuscripts that it did not - so the package uses the safe form throughout and never quotes the circulating 'astronomy' sentence as Frege's words",
+     "Husserl's German is reported in translation throughout; Ideas I is cited by section number because the Boyce Gibson (1931) and Kersten (1982) wordings differ, and the Merleau-Ponty sentence on the incomplete reduction is given with its translator named because Smith (1962) and Landes (2012) differ",
+     "The graphical package folder retains the inherited name '03-Carvaka-Graphical-Flowchart' for parity with Topics 01-08 in this section; artifacts were repaired in place and nothing was moved or renamed"
+    ]
+   }
+  },
+  {
+   "number": 10,
+   "topic_key": "philosophy-paper-i-western-philosophy-10",
+   "title": "Existentialism",
+   "status": "complete",
+   "completed": "2026-09-08",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md (Basic/Core owner, complete: the one-screen map and who-says-what table; the printed thinkers, source map and owner scope with the \"Sarte\" misprint note; Sartre on existence and essence with the paper-knife, atheism as premise and the 1945/1946 provenance; Heidegger's rejection of the slogan and Being and Time section 9; Kierkegaard's existing individual against the system, truth as subjectivity attributed to Climacus and the complement \"subjectivity is untruth\"; the three spheres with their limits, the leap, the teleological suspension and the two knights; anxiety and despair with their pseudonymous voices; Sartre's radical but situated freedom, anguish, abandonment and despair, bad faith with facticity and transcendence and the two examples, the for-itself/in-itself distinction with both halves of the non-self-identity formula, nihilation and the impossible synthesis, universalisability, freedom and determinism with motive-constitution; Heidegger on authenticity and inauthenticity, das Man with its three marks, falling, the call of conscience, being-toward-death with its four characters and anticipatory resoluteness; the bounded core on the Look and being-for-others with the keyhole, the seven-step argument, the two failing strategies, the four accounts of the Other and the 1965 correction of Huis clos; Kierkegaard on indirect communication and pseudonymity with the pseudonym table, the double authorship and the First and Last Declaration; the Being-question and the ontological difference, being-in-the-world, worldhood, ready-to-hand and present-at-hand, the referential totality and breakdown; the existentialia and care; temporality with the three ecstases, future-priority, primordial against vulgar time and historicality; the fear/anxiety distinction with the three canonical examples and the six-step argument; the criticism ledgers for all three thinkers and the movement-level replies; the marks-essential owner scope; the common traps; the keyword and statement bank; the restored 2018/2020 doctrine dossier; the corpus-driven depth delta; the PYQ routing table; the answer architecture; the inter-thinker debates; the directive decoder; the graded verdict bank; and the translation, quotation and provenance discipline)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 10 (Advanced owner: how far a pseudonym speaks for Kierkegaard, whether Sartrean freedom is solitary or constituted through the Other, and whether Heideggerian authenticity is decisionism or a formal existential structure, each with its competing interpretations, extra objection and counter-reply, safe 15/20 use, over-study caution and promotion trigger, with the Dreyfus/Blattner/Crowell/Catalano/Flynn source trail; the pseudonymity module is recorded as fired and executed on 15 August 2026)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 14 primary-owned parts, joint-highest with Rationalism and Moore-Russell-Early Wittgenstein, with at least one part in every year 2018-2025)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 10, including the printed spelling \"Sarte\")",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md, Hegel.md and Rationalism.md boundaries, used only to fence Topic 09, Topic 05 and Topic 02 material",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomised MCQ keys with balanced options, learner-v2 layering, English-first terminology with the source term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "18 progressive visual-first sessions covering the whole printed clause and the bounded prerequisites that make it executable; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with work, section and date, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2, run A-R against the eighteen sessions and end with the complete ASCII master flow diagram",
+    "scope_restored": "The complete owned Kierkegaard-Sartre-Heidegger framework: the family-label warning with the exact ownership of the label and of the slogan; the three printed limbs and the asymmetry that makes limb three almost entirely Heidegger's; Kierkegaard's target in Hegel's system, the structural counter \"a logical system is possible, an existential system is impossible\", either/or against both/and, the leap against mediation, truth as subjectivity attributed to Johannes Climacus with its three denials and the complement \"subjectivity is untruth\", and \"the crowd is untruth\" kept distinct from das Man; the three spheres with their governing categories and characteristic collapses, the qualitative leap with the provenance caution on \"leap of faith\", the teleological suspension staged by Johannes de Silentio and the two knights with the double movement; anxiety as objectless with \"the dizziness of freedom\", the abyss example, anxiety in innocence and its status as presupposition rather than cause of the leap; despair as a misrelation in the self's relation to itself and to the power that established it, in its two forms and possibly unfelt, fenced from Sartrean desespoir; indirect communication in six steps with Socratic maieutics, the vanishing occasion, the six pseudonyms as existence-possibilities, the double authorship and the First and Last Declaration, with the unattributability and self-undermining objections and the revocation of the Postscript; Sartre's paper-knife argument with atheism as a premise and the 1945/1946 provenance, Heidegger's repudiation in the Letter on Humanism with section 9 and the metaphysics of subjectivity, and Kierkegaard's different refusal; the in-itself and for-itself with both formulas, contingency as de trop, nihilation and the impossible pour-soi-en-soi ending in the useless passion; freedom as constitutive, condemned to be free, non-choice as choice, the three moods of the 1945 lecture and quasi-Kantian universalisability with its internal tension; facticity and transcendence, bad faith as the collapse of the tension, the waiter read accurately and the woman on the date as a double lie, the self-deception paradox with the rejection of the unconscious and the pre-reflective non-thetic solution, and the ordered chain from bad faith through inauthenticity to alienation; freedom and determinism as a false problem with motive-constitution, the 2020 sentence unpacked word by word, the qualified \"no excuses\" and the 1960 concession of scarcity, seriality and the practico-inert; the Look with the two-stage keyhole, shame as recognition, the indispensable mediator, the dialectic of concrete relations, conflict as the original meaning of being-for-others, the corrected reading of Huis clos, the four presuppositions and the four accounts of the Other with Levinas left unanswered; Heidegger's fundamental ontology, the ontological difference, the two reasons Dasein is the route, section 9 and the replacement of categories by existentialia, the unfinished book and the turn; the epoche attributed to Husserl and rejected on grounds of order, with subject and object as derivative abstractions and description redirected rather than abandoned; being-in-the-world as unitary, worldhood as a referential context, ready-to-hand as primary and present-at-hand as derivative, the in-order-to chain ending in dwelling, and breakdown with its qualification; attunement, understanding and discourse constituting disclosedness, care in Heidegger's exact words with concern and solicitude and being-with as constitutive; das Man with its three marks as deficient modes, falling as ontological, the silent call of conscience, being-toward-death with all four characters, anticipatory resoluteness and the four things authenticity is not; temporality as the meaning of care with the exact mapping onto the three ecstases, having-been rather than the past, future-priority, the derivation of ordinary time through world-time and public dating with the levelling qualification, historicality and the unwritten Division III; the three-way fear/anxiety comparison with the abyss, section 40 and the Nothing, the cliff path and the gambler, anguish kept apart from nausea, the six-step argument, the three presuppositions and the naturalist objection; and the three criticism ledgers, the movement-level replies, the eight-axis debate grid, the directive decoder and the graded verdict bank",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "ACBACDCACBDBADBABDCDADCDBCABCABD",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no rotation or reversed-rotation window, no repeating four-key cycle and no two-key alternation; the sequence is distinct from the Topic 09 sequence and shares no run longer than six positions with it",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is never uniquely the longest option in any of the 32 questions, and the only tie at maximum length occurs in the short statement-selection stem where the two longest options are exactly equal, so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the standing of the family label and who accepted it, the asymmetry of the three printed limbs, what truth-is-subjectivity asserts and the function of its complement, the structural form of the anti-Hegelian argument, the three spheres with their collapses, the leap and the provenance of \"leap of faith\", the authorship and force of the teleological suspension, the objectlessness of anxiety, despair as a misrelation, why the doctrine forces indirect communication, the First and Last Declaration, the premissory role of atheism, Heidegger's repudiation and section 9, the ontological character of the in-itself/for-itself distinction, both halves of the non-self-identity formula, nihilation and the impossible synthesis, non-choice as choice, the three moods of the 1945 lecture, the structure of bad faith, the self-deception paradox and its pre-reflective solution, motive-constitution against determinism, shame as recognition, and the two failing strategies that yield conflict, with remedial drills on the provenance of the slogans, the unfinished Being and Time, the rendering of das Nichts nichtet, the Lowrie/Hong split over Angest, the non-moral status of authenticity, the corrected reading of \"hell is other people\", the derived status of clock-time, and the ownership fence around Topics 02, 05, 07 and 09, Nietzsche and Paper II"
+    },
+    "pyqs": {
+     "directly_owned": 14,
+     "supporting_routed": 0,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus, with at least one part in each of the eight years; the internal split is Sartre 8 (2018 Q1(d), 2019 Q4(c), 2020 Q4(a), 2021 Q4(b), 2023 Q3(c), 2025 Q1(c), and jointly 2024 Q4(a)), Kierkegaard 4 (2020 Q3(a), 2022 Q4(a), 2023 Q1(d), 2024 Q1(e)) and Heidegger 3 (2018 Q4(a), 2019 Q3(a), 2022 Q2(a)); three parts are statement questions (2020 Q4(a), 2021 Q4(b), 2023 Q3(c)) and one part - 2018 Q4(a) - opens with a term owned by Topic 09 before turning to Heidegger, which every solution states",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the typographic quotation marks of the 2020, 2021, 2022, 2023 and 2024 parts are reproduced exactly as printed in the ledger, including the curly quotation marks around \"Subjectivity is the truth\", \"You can always make something out of what you have been made into.\", \"I can always choose...\", \"authenticity\", \"subjectivity\", \"Consciousness is what it is not and is not what it is.\" and \"existence precedes essence\", and the apostrophes in 'the single individual' and Sartre's and Kierkegaard's; an automated check confirms all fourteen question strings appear verbatim in the repository PYQ ledger"
+    },
+    "answer_lengths": "All 20 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 180-219, 15 marks 258-329, 20 marks 330-395 alphanumeric words",
+    "pdfs": {
+     "complete_learning_session_pages": 148,
+     "solved_practice_workbook_pages": 38,
+     "ascii_master_flowchart_pages": 53,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 21,
+     "extracted_characters": {
+      "learning": 560448,
+      "workbook": 120746,
+      "ascii": 99854
+     },
+     "bookmarks": {
+      "learning": 59,
+      "workbook": 8
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the ASCII renderer reports passed=true with no clipped pages and a uniform 10.5 pt Consolas face; the poster is a single image-only page carrying no extractable text at all",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 14 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      58821
+     ],
+     "master_dpi": 300,
+     "core_stages": 53,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_kinds": 12,
+     "layout_kinds": [
+      "columns",
+      "dialectic",
+      "hierarchy",
+      "matrix",
+      "process",
+      "synthesis",
+      "timeline"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page at 1116.34 x 13680 points",
+     "tiles": "21 overlapping native-width crops of the same saved master, with complete row coverage from 0 to 58821, no gaps and a minimum overlap of 454 px, each verified byte-for-byte against a fresh crop of the installed master",
+     "metadata": "no production, generation or approval metadata is printed on the master, poster or tiles; the poster extracts zero characters, and the tiled pages carry only the renderer's own navigational footer naming the tile number and the master rows it reproduces, which matches Topics 01-05 and 11 in this section",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-09"
+    },
+    "ascii_master": "53 authored data-complete panels, longest line 92 columns, pure ASCII, paginated to 53 rendered landscape pages in Consolas at a uniform 10.5 pt with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 19,070 characters, 3.43 per cent of the learning session, carrying the central thesis and the family-label warning, the scope firewall with the Topic 09, Topic 05, Topic 02, Topic 04, Nietzsche and Paper II exclusions, the corpus signal with 14 of 112 parts and the Sartre 8 / Kierkegaard 4 / Heidegger 3 split, the marks-earning dates from 1843 to 1965, the three thinker limbs in dependency order, the fear/anxiety comparison table with its six-step argument, a ten-line trap sheet, the complete 14-part PYQ routing with answer routes, an eight-step answer spine and a qualified conclusion; it duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: the single individual (den Enkelte), anxiety or dread (Angest), the leap (Springet), the moment (Ojeblikket), indirect communication (indirekte Meddelelse), being-there (Dasein), being-in-the-world (In-der-Welt-sein), ready-to-hand (Zuhandenheit), present-at-hand (Vorhandenheit), thrownness (Geworfenheit), care (Sorge), the \"they\" (das Man), idle talk (Gerede), falling (Verfallen), authenticity (Eigentlichkeit), being-toward-death (Sein-zum-Tode), anticipatory resoluteness (vorlaufende Entschlossenheit), temporality (Zeitlichkeit), having-been (Gewesenheit), historicality (Geschichtlichkeit), being-in-itself (en-soi), being-for-itself (pour-soi), nihilation (neantisation), bad faith (mauvaise foi), facticity (facticite) and the Look (le regard), together with Being and Time sections 9, 26, 27, 35-38, 40, 41, 46-53, 54-60 and 65, the 1927 unfinished publication, the 1929 Nothing, the 1943 ontology, the 1944 play with its 1965 correction, the 1945/1946 lecture, the 1946/1947 Letter on Humanism and the 1960 Critique, and the pseudonyms Victor Eremita, Johannes de Silentio, Constantin Constantius, Vigilius Haufniensis, Johannes Climacus and Anti-Climacus with the 1846 First and Last Declaration; an automated anchor check confirms twenty-five controlling terms in the learning session and the ASCII master simultaneously",
+    "residue_audit": "Removed the learner-v2 generation identity from the front matter and title, the five-layer session description, the source-audit and contemporary-link boundary block, the learning-roadmap stub, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the REVIEW-PROMOTED system and controls blocks, the 48-question mastery set, the review-promoted MCQ block, the advanced dossier refinements stub and the \"answer-specific execution and compression upgrades\" block; an automated forbidden-wording scan over all four source artifacts returns zero hits",
+    "later_topics": "All 112 baseline SHA-256 hashes for the Topics 01-09 and 11 artifacts across the three locked trees are unchanged, and the aggregate baseline digest over those artifacts re-computes identically as 6669698f0b671bf667c14a2ae0362fa20f7eb7c905da4848c3d30a69ac336381; the only other file touched in the section is this section-local REPAIR-STATUS.json, which the Western Philosophy control file designates as the status record to be written during parallel work",
+    "deliverable_sha256": {
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\10-Existentialism\\Learning-Session.md": "67e27e51107a36dd79d992f648c11c9474432ce5d151c5982f4a13f1976618b3",
+     "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\10-Existentialism\\Solved-Practice-Workbook.md": "8575a801f22bf9daf5618e88d6c2969e877418559beb200c2b4830da230d874c",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "d4e69e78a2fde084bf3005d000a2ff4b42e87a03a5c6e797899c70ff2a281212",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "20295e106968b623eb239eb6100088eb950a1080716edf2a0851ac049d9eb523",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "3eb1178f2d22b63025e1e2fe66c99e60f3c7f796a6093695af23df95a67afb76",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "35f94215608eb3f7d6dc7eaf17f48c38d180f826a535d9cafe668cedd3b72b57",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "13aefddd20be68fcb6eccc769f3d1e8edf6bb34a60ee72a0224f6c5f7a8c9944",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "9972863fc222320d545e80e08e7703e963058fc655796926c2fc5bce96000df7",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "c110f512b4a6de1ac5f9a6d11f0cb536f6c71fbe646233b8dad386094f0476fd",
+     "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\10-Existentialism\\README.txt": "457f5897125878e65d20ad63991921513d8de7142c16bc22817b7b4f093cb1ba",
+     "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-10_Tree-Chart.md": "d94ac80f84a19260dc0b9a521d77de7c10a257d3b1cdedee7af6110845be92d5"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "No dated official or academic development was claimed for this clause; a contemporary link is deliberately not forced, and the topic's live relevance is stated as the standing philosophical agenda of autonomy and manipulation, the ethics of authenticity, the cognitive standing of moods, phenomenological approaches to embodiment and finitude, and the use of facticity and situated freedom in feminist and postcolonial theory",
+     "Whether the leap is defensible or fideistic; whether bad faith is coherent once the Freudian unconscious is rejected; whether conflict is really the original meaning of being-for-others; whether Heideggerian authenticity is decisionism, a formal existential structure or a doctrine permanently shadowed by 1933; and how far a pseudonym may be treated as speaking for Kierkegaard all remain live scholarly disputes, and each is stated as contested rather than settled",
+     "The three languages of the clause force a translation discipline: Angest is \"dread\" in Lowrie and \"anxiety\" in Hong, Zuhandenheit is \"readiness-to-hand\" in Macquarrie and Robinson and \"handiness\" in Stambaugh, and Barnes (1956) and Richmond (2018) differ throughout Being and Nothingness, so Being and Time is cited by section number and every rendering is either attributed or accompanied by the source term",
+     "\"Leap of faith\" is the English tradition's fused phrase rather than a Kierkegaardian term, and the package uses \"the leap - what the English tradition calls the leap of faith\" throughout; The Point of View, written 1848 and published posthumously in 1859, is used only as a disputed retrospective self-interpretation",
+     "Being and Time (1927) was published unfinished - Division III and the whole of Part Two never appeared - so no claim is made that Heidegger completes his analysis of Being, and the temporality session records that the argument stops short of its announced destination",
+     "The graphical package folder retains the inherited name \"03-Carvaka-Graphical-Flowchart\" for parity with Topics 01-09 in this section; artifacts were repaired in place and nothing was moved or renamed",
+     "The tiled PDF carries the current renderer's own navigational footer on each page, as Topics 01-05 and 11 in this section already do; Topics 06-09 were produced by an earlier renderer path whose tiles carry no footer, and no tool source was modified to reconcile the difference"
+    ]
+   }
+  },
+  {
+   "number": 11,
+   "topic_key": "philosophy-paper-i-western-philosophy-11",
+   "title": "Quine and Strawson",
+   "status": "complete",
+   "completed": "2026-09-09",
+   "approved": false,
+   "validation": {
+    "sources_checked": [
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md (Basic/Core owner, complete: the one-screen map and the printed-ownership firewall; Quine's two dogmas with the two classes of analytic truth and the three failed explications - definition, interchangeability salva veritate with the heart/kidney counter-case and the necessity regress, and Carnap's semantical rules; the exact conclusion and the centrality caution; reductionism in its radical and attenuated forms with the corporate-body sentence and the whole of science as the unit; confirmation holism with the field-of-force model, the three revision options, both canonical sentences with their qualifiers, the four consequences and the pragmatic virtues; the Duhem-Quine thesis with the six-step modus tollens argument, the four-row Duhem-against-Quine table, the Neptune and Vulcan pair, the presuppositions and the Popper and Lakatos replies; the criticism ledger including the quantum-logic history of Birkhoff and von Neumann 1936 against Putnam 1968 and Quine's own retreat in Philosophy of Logic 1970; empiricism without the dogmas and Quine's relation to empiricism; the bounded system-enrichment on ontological commitment, radical translation, stimulus meaning, occasion and standing sentences, observation sentences, analytical hypotheses, inscrutability, indeterminacy, ontological relativity and naturalized epistemology, with the numbered gavagai argument, the taxonomy control and the Chomsky, Searle/Evans, innateness and Davidson objections; the bounded comparison with the later Wittgenstein; Strawson on descriptive against revisionary metaphysics, basic particulars with the argument from re-identification, the no-space auditory world, significance, and reference, predication and feature-placing; persons with the problem, the primitive concept, the M/P predicate matrix, the self-ascription argument and the undercutting of dualist and no-ownership starting points; the bounded enrichment on 'On Referring' with the truth-value caution and the five connections with empiricist starting points, the transcendental argument-form and the two honest qualifications; the inter-thinker debate grid and the direct confrontation; the criticism ledgers for both thinkers; the common traps; the keyword and statement bank; the restored 2018/2020 doctrine dossier; the corpus-driven depth delta; the PYQ routing table; the answer architecture; the directive decoder; the graded verdict bank; and the quotation, dating and provenance discipline)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md section 11 (Advanced owner: whether indeterminacy of translation is a distinct thesis or ordinary underdetermination applied to semantics, whether descriptive metaphysics is conservative, transcendental or merely methodological, and whether the concept of a person is really primitive, each with its competing interpretations, extra objection and counter-reply, safe 15/20 use, over-study caution and promotion trigger, together with the Gibson, Hookway, Evans and Snowdon source trail and the bounded status recorded at the 2 September 2026 semantic review)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md (routing ledger; 9 primary-owned parts, split Quine 5 and Strawson 4, with two each in 2018 and 2021 and none in 2022)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (printed clause for item 11, including the space before the colon)",
+     "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Logical-Positivism.md, Empiricism.md, Kant.md, Moore-Russell-EarlyWittgenstein.md and Later-Wittgenstein.md boundaries, used only to fence Topic 07, Topic 03, Topic 04, Topic 06 and Topic 08 material",
+     "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Western Philosophy section control file",
+     "AGENT_MEMORY.md and AGENTS.md (independently randomised MCQ keys with balanced options, learner-v2 layering, English-first terminology with the technical term in parentheses, provenance discipline, master-flow requirements, compact visual layout and final register-note structure)"
+    ],
+    "learning_session": "18 progressive visual-first sessions covering both printed limbs, the ownership fence and the bounded enrichment that makes the printed burden executable; every session carries a plain-language and a technical definition, an answer-grabbing opening, must-write keywords, a plain-language visual, a main visual with a caption, numbered teaching with work, section and date, a unique claim -> named evidence -> analysis -> qualification paragraph model, an exam link, a traps table, revision notes and a closing recall flow; learner-v2 H2 order verified as BASIC LEARNING SESSION, BASIC MCQS / REMEDIATION, PYQS AND ANSWER PRACTICE, OPTIONAL ADVANCED DEPTH and CONSOLIDATED REGISTER NOTES; the register notes remain the final H2, run A-R against the eighteen sessions and end with the complete ASCII master flow diagram",
+    "scope_restored": "The complete owned Quine and Strawson framework: the two-project warning with the exact ownership of each printed limb and the 1956 clash that blocks the united-front reading; Quine's attack on the analytic/synthetic distinction with the two classes of analytic truth and the complete chain of failed explications - definition as a record of antecedent synonymy, interchangeability salva veritate with the extensional 'creature with a heart / creature with a kidney' counter-case and the necessity regress, and Carnap's semantical rules yielding only analytic-in-L - stated with the exact conclusion that the explications fail rather than that analytic sentences are false, and with the centrality caution that entrenchment is not a replacement definition; reductionism in its radical and attenuated forms with the label explained as the reduction of sentence-meaning to observation sentences, the corporate-body sentence, the whole of science as the unit of empirical significance and Quine's own judgement that the two dogmas are at root identical; the web of belief as a field of force with boundary conditions, periphery of observation sentences rather than sense-data, the three revision options including pleading hallucination, both canonical sentences with their qualifiers, the four consequences with the careful statement of the fourth, and the constraints of predictive success, conservatism, simplicity, fecundity and minimum mutilation; the Duhem-Quine thesis with the six-step modus tollens derivation, the presuppositions, the four-row scope-and-exemption contrast and the paired Neptune 1846 and Vulcan / general relativity 1915 cases, with Popper's methodological reply and Lakatos's hard core and protective belt; the revisability of logic with Birkhoff and von Neumann 1936 kept apart from Putnam 1968 and from Quine's own retreat in Philosophy of Logic 1970; empiricism without the dogmas with the Grice-Strawson objection, the rejoinder and the standards-of-explication dispute, and the 2018 'metaphysical article of faith' framing labelled as the paper's wording with the three moves and the Kantian reply; ontological commitment with regimentation, the bound-variable criterion, the four cautions and the conceded regimentation-dependence; radical translation with stimulus meaning, occasion and standing sentences, observation sentences and analytical hypotheses, the nine-step gavagai argument with the identity-predicate move, inscrutability, indeterminacy and the four-doctrine taxonomy, the three premises and the Chomsky, Searle/Evans, innateness and Davidson objections; ontological relativity and naturalized epistemology with Neurath's boat, the normativity objection, the engineering reply and the conceded residual; Strawson's descriptive against revisionary metaphysics with his own examples and the three commitments; basic particulars with the five-step argument from identification and re-identification, the single spatio-temporal framework, dependent particulars, the three defects of sense-data, the transcendental form and feature-placing; the purely auditory world with the analogue of space and the master-sound, stated as not proving impossibility; persons as a logically primitive concept with the M/P predicate matrix, the six-step self-ascription argument, the dual character and the two-way impossibility; the destruction of the Cartesian starting point and the self-refutation of the no-ownership theory through 'the experiences that are had by this body'; the bounded edge of 'On Referring' with the four-row Russell contrast, the truth-value caution and the five connections with empiricist starting points; and the criticism ledgers, comparison grid, directive decoder, graded verdict bank and provenance rail. Strawson on freedom, resentment and the reactive attitudes is named once as bounded and cross-owned material that owns no part of the corpus, and is not taught as doctrine",
+    "mcqs": {
+     "count": 32,
+     "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+     "key_sequence": "CBDADBCABCBABDCDACBABCADACDADCDB",
+     "distribution": "A8 B8 C8 D8, each key fixed independently, no consecutive repeat, no rotation or reversed-rotation window, no repeating four-key cycle and no two-key alternation; the sequence is distinct from the Topic 10 sequence",
+     "option_explanations": 128,
+     "unique_option_explanations": 128,
+     "examiner_traps": 32,
+     "unique_examiner_traps": 32,
+     "option_balance": "the correct option is never uniquely the longest option in any of the 32 questions, so the key cannot be identified by shape; MCQ 33 absent from both artifacts",
+     "coverage": "the division of the printed limbs, the exact conclusion of the analyticity attack, the two classes of analytic truth, each of the three failed explications with its own failure, both forms of reductionism with the label explained, the identity of the two dogmas at root, the unit of empirical significance, the web structure with its three revision options, the conditional clause of the 2025 quotation, the constraints on revision, the modus tollens result, the Duhem-against-Quine contrast, the Neptune and Vulcan pair, descriptive against revisionary metaphysics with Strawson's own examples, the question basic particulars answer, the five-step argument, the three defects of sense-data, the auditory world and the analogue of space, the two predicate-classes, the dual character of P-predicates, what primitive does and does not mean, and the self-refutation of the no-ownership theory; the eight remedial drills target the provenance of the bound-variable slogan, the two-author two-date structure of the quantum-logic episode, Quine's 1970 retreat, the 'Quine rejects empiricism' misreading, the identity-predicate move in gavagai, the four-doctrine taxonomy, the dating of naturalized epistemology, and the ownership fence around Topics 03, 04, 06, 07 and 08"
+    },
+    "pyqs": {
+     "directly_owned": 9,
+     "supporting_routed": 0,
+     "original_mains": 6,
+     "original_mains_split": "2 x 10 marks, 2 x 15 marks, 2 x 20 marks",
+     "coverage": "every routed part in the 2018-2025 corpus is solved in full: Quine 5 (2018 Q2(c), 2019 Q1(e), 2021 Q3(c), 2024 Q4(c), 2025 Q4(b)) and Strawson 4 (2018 Q1(e), 2020 Q3(b), 2021 Q3(b), 2023 Q4(a)); two parts each in 2018 and 2021, one each in 2019, 2020, 2023, 2024 and 2025, and none in 2022; the clause's only 20-marker is Strawson's 2023 Q4(a); 2025 Q4(b) is a statement question whose conditional clause is preserved, and 2018 Q2(c) embeds a framing phrase that the solution labels as the paper's wording rather than a verified Quine quotation",
+     "objective_keys": "none asserted; the clause is Mains-only in the local corpus and UPSC publishes no descriptive model answers, which every solution states",
+     "printed_wording": "the printed hyphenation of 'synthetic-analytic' in 2019 Q1(e) and the typographic quotation marks of the 2021, 2024 and 2025 parts are reproduced exactly as recorded in the ledger"
+    },
+    "answer_lengths": "All 15 model answers sit inside the declared working bands with the teaching apparatus excluded from the count: 10 marks 191-219, 15 marks 265-300, 20 marks 352-400 alphanumeric words",
+    "pdfs": {
+     "complete_learning_session_pages": 123,
+     "solved_practice_workbook_pages": 34,
+     "ascii_master_flowchart_pages": 42,
+     "at_a_glance_poster_pages": 1,
+     "printable_tiled_version_pages": 10,
+     "extracted_characters": {
+      "learning": 429380,
+      "workbook": 101479,
+      "ascii": 67267
+     },
+     "bookmarks": {
+      "learning": 59,
+      "workbook": 8
+     },
+     "defects": "zero blank, replacement-glyph and out-of-page pages across the learning-session, workbook and ASCII PDFs; the ASCII renderer reports passed=true with no clipped pages and a uniform 10.5 pt Consolas face; the poster is a single image-only page carrying no extractable text at all",
+     "workbook_completeness": "the rendered workbook text contains MCQ 1 through MCQ 32, Solved PYQ 1 through Solved PYQ 9 and Original 1 through Original 6, and contains no MCQ 33"
+    },
+    "graphical": {
+     "master_px": [
+      4800,
+      26984
+     ],
+     "master_dpi": 300,
+     "core_stages": 33,
+     "subordinate_optional_stages": 1,
+     "distinct_layout_signatures": 13,
+     "layout_kinds": [
+      "columns",
+      "dialectic",
+      "hierarchy",
+      "matrix",
+      "process",
+      "spatial",
+      "synthesis",
+      "timeline"
+     ],
+     "overflow_events": 0,
+     "poster": "embeds the saved master pixel-identically as a single page at 2433.44 x 13680 points",
+     "tiles": "10 overlapping native-width crops of the same saved master, with complete row coverage from 0 to 26984, no gaps and a minimum overlap of 595 px, each verified byte-for-byte against a fresh crop of the installed master",
+     "metadata": "no production, generation or approval metadata is printed on the master, poster or tiles; the poster extracts zero characters, and the tiled pages carry only the renderer's own navigational footer naming the tile number and the master rows it reproduces",
+     "folder": "the graphical folder contains exactly the master PNG, the poster PDF and the tiled PDF, matching Topics 01-10",
+     "renderer_report": "the renderer's own validation report records PASS on same-master identity, header legend, continuous numbered rail, final synthesis before the extra stage, core-before-extra ordering, visual subordination of the extra stage, answer-grabbing lines, pill count and colour diversity, internal two-to-four column structure, overflow and edge contact, replacement glyphs, exact poster embedding, exact tiled crops and reference byte preservation, with errors=none"
+    },
+    "ascii_master": "42 authored data-complete panels, longest line 87 columns, pure ASCII, paginated to 42 rendered landscape pages in Consolas at a uniform 10.5 pt with zero blank, replacement-glyph or clipped pages; the fragment embedded at the end of the learning session is byte-identical to the standalone text",
+    "quick_glance": "Rewritten as a continuous, readable English-first revision tree of 21,751 characters, 5.11 per cent of the learning session, carrying the central thesis with the two-project warning, the scope firewall with the Topic 03, 04, 06, 07 and 08 exclusions and the Paper II boundary, the corpus signal with 9 of 112 parts and the Quine 5 / Strawson 4 split, the marks-earning dates from 1905 to 1985, Quine's two dogmas and the web with both quotations, the Duhem-against-Quine table and the Neptune/Vulcan pair, the revisability of logic and what survives, the bounded enrichment, Strawson's descriptive metaphysics, basic particulars and persons with the two rivals, the bounded edge, the complete nine-part PYQ routing table with answer routes, a fourteen-line trap sheet and the two closing qualifications; it duplicates neither the ASCII master nor the graphical package",
+    "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on the shared terminology and citation set: synonymy, definition, interchangeability salva veritate, semantical rules, analytic-in-L, reductionism in its radical and attenuated forms, the corporate body, the whole of science, the field of force, the three revision options, minimum mutilation, the Duhem-Quine conjunction, the experimentum crucis, the non-distributive lattice, the distributive law, regimentation, the bound variable, stimulus meaning, occasion and standing sentences, observation sentences, analytical hypotheses, the apparatus of individuation, inscrutability, indeterminacy, ontological relativity, Neurath's boat, descriptive and revisionary metaphysics, connective analysis, identification and re-identification, the single spatio-temporal framework, dependent particulars, feature-placing, the analogue of space and the master-sound, M-predicates and P-predicates, the dual ascription condition, conceptual priority and the no-ownership theory; and on the dates 1905, 1906, 1928, 1934, 1936, 1948, 1950, 1951, 1952, 1953, 1956, 1959, 1960, 1962, 1966, 1968, 1969, 1970, 1973 and 1985, with 'Two Dogmas' cited to section 6, Individuals to Part I and chapter 3, and Word and Object to chapter 2",
+    "residue_audit": "Removed the learner-v2 generation identity from the front matter and title, the five-layer session description, the source-audit and contemporary-link boundary block, the learning-roadmap stub, the raw canonical-source paste inside the sessions, the ten RAPID REVISION stubs, the ten EXAM APPLICATION stubs, the ten ADVANCED SESSION stubs, the REVIEW-PROMOTED scope, MCQ and controls blocks, the 48-question mastery set, the workbook source-audit and practice-design stubs and the 'answer-specific execution and compression upgrades' block; an automated forbidden-wording scan over all four source artifacts returns zero hits for legacy progress navigation, generation identifiers, the 48-question set, the rapid-revision and exam-application stubs and replacement glyphs",
+    "later_topics": "All 141 baseline SHA-256 hashes for the Topics 01-10 artifacts across the three locked trees are unchanged, and the aggregate baseline digest over those artifacts re-computes identically as 4da3e54ee5b11b0957e3adc7e41e57bcb76bd5ed759878b0d962f307607d203d; the only other file touched in the section is this section-local REPAIR-STATUS.json, which the Western Philosophy control file designates as the status record to be written during parallel work",
+    "deliverable_sha256": {
+     "Learning-Session.md": "80e006453fe06374095fe5bec793e3c2c6fab92548c07097e30f66c41b5a1ed5",
+     "Solved-Practice-Workbook.md": "a68c53bf6f623ffee83084ca07cd9a9a7b87609a411881952c82f0a300ed14a4",
+     "quick-glance tree chart": "a49de0a4da78579eb896a1bfaa88b09822eef054c384781a7059b4a8d44b99f8",
+     "ASCII-Master-Flowchart.txt": "2e55032e31aeb3af518365ba0f9c14eb003c7ea6eedecc62b915b40573c85f35",
+     "Complete-Learning-Session.pdf": "105840e7768fbf475dba99b74abb94729f35a705ce2a24338b7b8b5be4d0efdb",
+     "Solved-Practice-Workbook.pdf": "a1b512e37176aa0e9cb2ac91da933e4c81c20f90d6b2964d62bffa7a1c052a28",
+     "High-Resolution-Master.png": "ebed145618172e6a786a0010b66553b9919682eba49a9c4818fc87c15992e611",
+     "At-a-Glance-Poster.pdf": "adfcce6c1c7f93bb8d0fb8265439eb9bda2f30e26b3eceeaebfe5c0e05743d59",
+     "Printable-Tiled-Version.pdf": "c8ee8e2bdbafe94be9a33e46f1938ad0169d052cf0fc341264dd0d8e96bef771",
+     "ASCII-Master-Flowchart.pdf": "e98e632cbffa5c24a663e7259eb6a54ea9af4cbeb78f528d1b5f0b6f5e04c0eb",
+     "README.txt": "c53d709e8c993deb01cb4ab0909618d1e76dd0ddf6b45d620e46abf1b510cf9a"
+    },
+    "limitations": [
+     "UPSC publishes no official descriptive key or model answer for Philosophy Paper I, so every solution in this package is stated as independent learner practice; no official model answer is claimed",
+     "The clause owns no objective or Prelims-style question in the local corpus, so no answer letter is asserted for any past paper",
+     "The 2018 phrase 'a metaphysical article of faith' is the question paper's framing and is not a verified verbatim Quine quotation; it is never placed in quotation marks as his own formula",
+     "No dated official or academic development was claimed for this clause; a live search of the window 2026-02-19 to 2026-08-19 found none, a contemporary link is deliberately not forced, and any present-day illustration is marked as analysis carrying no sourced factual claim",
+     "Whether the failure of explication defeats the ordinary analytic/synthetic distinction, whether indeterminacy is a distinct thesis or ordinary underdetermination, whether logic is revisable in any interesting sense, whether descriptive metaphysics can be more than a very good map of how we think, and whether 'primitive' explains the psychophysical unity or merely ends the analysis all remain live scholarly disputes, and each is stated as contested rather than settled",
+     "The quantum-logic episode is recorded as two separate acts by different authors thirty-two years apart, and Putnam's later abandonment of the position and Quine's own conservatism of 1970 are stated rather than suppressed"
+    ]
+   }
+  }
+ ],
+ "section_status": "complete"
+}

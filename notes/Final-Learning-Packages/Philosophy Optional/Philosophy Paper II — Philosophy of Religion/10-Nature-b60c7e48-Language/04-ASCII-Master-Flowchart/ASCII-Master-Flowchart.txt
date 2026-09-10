@@ -1,110 +1,312 @@
-ASCII MASTER FLOW — PANEL 1/10: 1. Official boundary and the two-axis control
-IDENTITY -> learner-v2:g14 | generated 2026-09-03 | approval FALSE
-OFFICIAL CLAUSE -> analogical and symbolic; cognitivist and non-cognitive
-        |
-        +--> HOW DOES A PREDICATE REFER?
-        |      univocal | analogical | symbolic | negative | indicative
-        |
-        +--> DOES THE UTTERANCE STATE A TRUTH?
-               cognitive | mixed | moral-conative | blik | use | meaningless
-CONTROL -> "God is good" may be ANALOGICAL and COGNITIVE at once.
-MEANING != empirical factuality; utterances may also enact or prescribe.
-Never infer truth-status from semantic mode or semantic mode from use.
+ASCII MASTER FLOW — PANEL 1/25: Official boundary and the two-axis control
+SYLLABUS: Analogical and Symbolic; Cognitivist and Non-cognitive.
+CENTRAL QUESTION: how can finite language refer to transcendence, and what does it claim?
+  HOW / SEMANTIC MODE: univocal | analogy | symbol | negation | indication
+  WHETHER / STATUS: cognitive | mixed | moral-conative | blik | use | meaningless
+CONTROL: "God is good" may be ANALOGICAL in mode and COGNITIVE in intent.
+Meaningfulness does not entail empirical factuality; performance does not cancel assertion.
+FIREWALL: experience, revelation, pluralism and full school doctrines retain their owners.
 
-ASCII MASTER FLOW — PANEL 2/10: 2. Aquinas and Scotus: continuity without collapse
-AQUINAS -> pure perfection exists in God ESSENTIALLY AND EMINENTLY
-  res significata      = perfection signified applies truly to God
-  modus significandi   = creature-derived manner remains inadequate
-  Aquinas REJECTS: "God is good" merely means God causes goodness
-  later Thomist/Cajetan: attribution and proportionality systematisation
-        |
-SCOTUS -> semantic, NOT ontological, univocity secures valid inference
-  one common concept; FINITE / INFINITE INTRINSIC MODES preserve the gulf
-TRADE-OFF -> univocity risks anthropomorphism; analogy risks indeterminacy.
+ASCII MASTER FLOW — PANEL 2/25: Semantic modes and speech functions
+LITERAL / UNIVOCAL -> same conceptual sense; cognitive; anthropomorphism risk.
+ANALOGICAL -> ordered similarity through causal participation or proportion.
+METAPHORICAL -> imaginative transfer; may disclose indirectly.
+SYMBOLIC -> participation + disclosure + transformation; truth-status depends on theory.
+MYTHIC -> narrative organisation of world, identity and value.
+NEGATIVE / APOPHATIC -> deny creaturely limits; vacuity risk.
+PERFORMATIVE -> vow, blessing, confession or relation enacted under success-conditions.
+EXPRESSIVE / PRESCRIPTIVE -> attitude or conduct; non-cognitive need not be meaningless.
+ONE UTTERANCE can combine assertion, symbol, expression and commitment.
 
-ASCII MASTER FLOW — PANEL 3/10: 3. Tillich: symbol, participation and distortion
-SIGN -> conventional pointer, replaceable, does not participate
-SYMBOL -> points + PARTICIPATES + opens reality/self + transforms
-          arises collectively + may grow and die
-        |
-GOD -> not one being; symbolically disclosed as BEING-ITSELF
-DISPUTED LIMIT -> Tillich's proposed non-symbolic anchor was modified
-FAILURE 1 -> finite bearer claims ultimacy = IDOLATRY / DEMONIC distortion
-FAILURE 2 -> unconstrained participation = vague or circular reference
-VERDICT -> symbolic realism needs participation and referential discipline.
+ASCII MASTER FLOW — PANEL 3/25: The univocal–equivocal dilemma
+UNIVOCITY
+  gain: valid inference and stable concept
+  cost: God appears as a finite member of a shared category
+EQUIVOCITY
+  gain: radical transcendence
+  cost: no intelligible reference; inference equivocates
+CLASSICAL EXITS
+  Aquinas -> analogy
+  Tillich -> participatory symbol
+  Maimonides / apophasis -> negation
+  Scotus -> semantic univocity + finite/infinite intrinsic modes
+EXAM LINE: preserve enough continuity for reference and enough difference for transcendence.
 
-ASCII MASTER FLOW — PANEL 4/10: 4. Verification, falsification and the cognitive spectrum
-COGNITIVE REALISM -> claims may be true or false; analogy can qualify mode
-AYER -> unverifiable theology is literally meaningless
-FLEW -> what could count against it? death by a thousand qualifications
-HARE -> blik: non-factual world-orientation can still govern life
-MITCHELL -> partisan: truth-apt DEFEASIBLE TRUST admits adverse evidence
-HICK -> eschatological verification: confirmable at the journey's end
-BRAITHWAITE -> moral commitment; constructive, not Ayer's elimination
-CONTROL -> unverifiability is not automatically a formal contradiction.
+ASCII MASTER FLOW — PANEL 4/25: Aquinas: essential and eminent predication
+SOURCE: Summa Theologiae I q.13.
+PURE PERFECTION (goodness, wisdom) exists in God ESSENTIALLY AND EMINENTLY.
+  thing signified (res significata) -> applies truly to God
+  mode of signification (modus significandi) -> creature-derived and inadequate
+CAUSAL PARTICIPATION
+  effect resembles cause without possessing perfection in the same finite mode
+AQUINAS REJECTS cause-only paraphrase:
+  not merely "God causes goodness"; God causes goodness because God is good.
+GAIN: cognitive realism without crude literalism.
+COST: how is analogical content fixed without prior knowledge of God?
 
-ASCII MASTER FLOW — PANEL 5/10: 5. Braithwaite and qualified Wittgensteinian use
-BRAITHWAITE -> "God is love" avows an AGAPEISTIC MORAL POLICY
-  stories sustain intention; strength = conduct; risk = reductionism
-WITTGENSTEIN'S LECTURES -> Last Judgement differs from ordinary prediction
-LATER WITTGENSTEINIANS -> language-game, grammar and form of life
-D. Z. PHILLIPS -> resisted reductionist/simple non-cognitivist labels
-OBJECTION -> internal grammar can become fideistic insulation
-REPLY -> use explains intelligibility, not automatic truth or immunity
-VERDICT -> practical force may supplement rather than erase assertion.
+ASCII MASTER FLOW — PANEL 5/25: Later Thomist analogy: attribution and proportionality
+ATTRIBUTION
+  "healthy" primarily of animal; medicine as cause; complexion as sign
+  ordered secondary use -> illustrates relation, not whole divine goodness doctrine
+PROPORTIONALITY
+  God has goodness according to infinite mode
+  creature has goodness according to finite mode
+HISTORICAL CONTROL
+  familiar pair = later Thomist, especially Cajetanian, systematisation
+  do not present as Aquinas's unqualified fixed taxonomy
+ENGINE remains causal participation + pure perfection.
+TRAP: analogy is not metaphor, equivocation or cause-only naming.
 
-ASCII MASTER FLOW — PANEL 6/10: 6. Speech acts, Ramsey and Mimamsa
-AUSTIN -> locutionary content | illocutionary force | perlocutionary effect
-EVANS -> SELF-INVOLVING language commits speaker and constitutes relation
-RAMSEY -> ordinary MODEL + QUALIFIER -> disclosure situation
-MIMAMSA -> VIDHI has priority in disclosing DHARMA; not all sastra is
-            grammatically imperative; MANTRA functions as ritual instrument
-  sabda-nityatva = eternity of word/sound and word-meaning relation
-GRAMMARIANS -> classical SPHOTA (sentence-whole disclosure), especially Bhartrhari
-CONTROL -> performative force does not by itself cancel cognitive content.
+ASCII MASTER FLOW — PANEL 6/25: Duns Scotus: semantic univocity
+CERTAIN/DOUTFUL ARGUMENT
+  certain: God is a being
+  doubtful: finite or infinite?
+  therefore "being" is a concept neutral/common before modal specification
+UNIVOCITY IS SEMANTIC, NOT ONTOLOGICAL.
+  being is not a genus containing God and creatures
+  finite / infinite intrinsic modes restore the ontological gulf
+DUNS SCOTUS'S OBJECTION: analogy without common concept collapses into equivocation.
+THOMIST REPLY: causal relation supplies ordered continuity.
+TRADE-OFF: inference gained; anthropomorphism / onto-theology charge remains contested.
 
-ASCII MASTER FLOW — PANEL 7/10: 7. Advaita: negation, indication and sublation
-BRAHMAN -> SAT, but NON-OBJECTIFIABLE; words turn back
-MAYA / WORLD-APPEARANCE -> ANIRVACANIYA: neither absolutely real nor unreal
-        |
-NETI NETI (not this, not this) -> ELIMINATIVE removal of finite limits
-LAKSANA (indirect indication) -> retain intended import when literal sense fails
-BHAGA-TYAGA -> discard incompatible connotations in "tat tvam asi"
-RAMANUJA -> real auspicious predicates of personal Brahman
-BUDDHIST -> conventional truth works without intrinsic essence
-JAIN -> conditional predication states the respect of assertion
-SUBLATION -> teaching language removes error like a thorn, then is cancelled
-TRAP -> never call Brahman neither real nor unreal in maya's technical sense.
+ASCII MASTER FLOW — PANEL 7/25: Maimonides and negative theology
+SOURCE: Guide for the Perplexed I.50–60.
+POSITIVE ESSENTIAL ATTRIBUTES -> threaten divine simplicity -> rejected.
+PERMITTED SPEECH
+  negations: God is not ignorant / not powerless
+  attributes of action: called merciful from effects, not creature-like emotion
+GAIN: protects transcendence and removes false models.
+COST: unlimited negation risks VACUITY and cannot distinguish God from nothing.
+ANSWER CONTROL: negative content is determinate exclusion, not empty silence.
 
-ASCII MASTER FLOW — PANEL 8/10: 8. From symbol toward mysticism: mechanism and counter-case
+ASCII MASTER FLOW — PANEL 8/25: Tillich: symbol and being-itself
+SIGN -> conventional pointer; replaceable; does not participate.
+SYMBOL -> points + PARTICIPATES + opens reality/self + transforms.
+  arises collectively; grows and may die
+GOD -> not one being or highest being; symbolically disclosed as BEING-ITSELF.
+FAILURE
+  finite bearer claims ultimacy -> IDOLATRY / DEMONIC distortion
+  unconstrained participation -> vague or circular reference
+CAUTION
+  "God is being-itself" proposed as non-symbolic anchor
+  Tillich later modified it; interpretive status remains disputed.
+
+ASCII MASTER FLOW — PANEL 9/25: Ramsey, metaphor and myth
+IAN RAMSEY: ordinary MODEL + QUALIFIER -> disclosure situation ("penny drops")
+  father + heavenly | cause + first | good + infinitely
+  qualifier stretches and corrects; it does not erase ordinary content
+METAPHOR -> transfers a pattern imaginatively without literal identity
+MYTH -> narrative organises identity, world and value
+DISTINCTIONS
+  metaphor / myth are not identical to Tillichian participation
+  disclosure is not proof; public and doctrinal constraints remain necessary
+PAYOFF: religious language is a stretched use of a common instrument.
+
+ASCII MASTER FLOW — PANEL 10/25: Austin and Evans: speech acts and self-involvement
+J. L. AUSTIN
+  locutionary content -> what words/proposition say
+  illocutionary force -> act performed
+  perlocutionary effect -> consequence for hearer/community
+EXAMPLES: "I take refuge" | baptism | vow | blessing | ritual resolve (saṃkalpa)
+DONALD EVANS: SELF-INVOLVING speech commits speaker and constitutes relationship.
+CONTROL
+  performative force does not cancel cognitive presuppositions
+  one proposition may be asserted, confessed, promised or recited ironically
+TRAP: do not test every religious utterance only as detached description.
+
+ASCII MASTER FLOW — PANEL 11/25: Secular versus religious use
+DIFFERENCE IS FUNCTIONAL, NOT LEXICAL.
+AXIS                 SECULAR CENTRE             RELIGIOUS CENTRE
+function             describe/predict           worship/confess/bless/vow
+reference            empirical particulars      transcendent / non-ostensible
+verification         determinate procedures     contested/experiential/eschatological
+logic/register       ordinary public use        symbol, paradox, liturgy, mantra
+self-involvement     often detachable           characteristically committing
+CONTINUITY
+  same words, ordinary logic and overlapping speech acts
+  secular oath can be performative; scripture can contain ordinary factual claims.
+
+ASCII MASTER FLOW — PANEL 12/25: Ayer and verification
+A. J. AYER: synthetic factual meaning requires possible experiential confirmation.
+  strong verification -> conclusive (too strict)
+  weak verification -> probabilistic support still required
+"God exists" -> no experience bears on it -> literally meaningless, not merely false.
+OBJECTIONS
+  verification principle appears neither analytic nor empirically verified
+  excludes many historical, theoretical, ethical and modal claims
+LESSON
+  evidence matters, but empirical testability cannot simply equal all meaning.
+NEXT MOVE: falsification asks what would count AGAINST the assertion.
+
+ASCII MASTER FLOW — PANEL 13/25: Flew, Hare, Mitchell and Hick
+ANTONY FLEW / invisible gardener
+  endless qualifications -> claim "dies" if nothing counts against it
+R. M. HARE / paranoid student
+  blik = non-factual world-orientation; important without hypothesis-status
+BASIL MITCHELL / partisan and Stranger
+  defeasible trust; adverse evidence genuinely counts but may be outweighed
+JOHN HICK / celestial city
+  truth-apt now; eschatological verification at journey's end
+CONTROL
+  Hare != Mitchell; Hick != present verification; resilient faith != immunity.
+KEY TEST: what evidence changes warrant, interpretation or commitment?
+
+ASCII MASTER FLOW — PANEL 14/25: The ten-point cognitive spectrum
+1 strong literal realism -> Alston / Swinburne
+2 analogical realism -> Aquinas
+3 symbolic realism -> Tillich / Ramsey
+4 eschatological realism -> Hick
+5 mixed speech act -> Evans / Alston
+6 meaning-in-use -> Wittgensteinian / Phillips [classification disputed]
+7 moral-conative -> Braithwaite
+8 attitudinal blik -> Hare
+9 fictionalism / non-realism -> Cupitt / Le Poidevin
+10 hostile elimination -> Ayer
+VERDICT: spectrum, not binary; locate truth-aptness, reference and primary force.
+
+ASCII MASTER FLOW — PANEL 15/25: Braithwaite: moral policy and stories
+R. B. BRAITHWAITE, An Empiricist's View of the Nature of Religious Belief (1955).
+"GOD IS LOVE" -> avowal of AGAPEISTIC MORAL POLICY.
+STORIES -> exemplary patterns + motivation; practical seriousness preserved.
+GAIN
+  creed/conduct link; self-involvement; religion not meaningless
+COST
+  believers intend realist reference too
+  secular agape possible without theology
+  prayer, lament, creation and resurrection are not one moral policy
+VERDICT: valuable pragmatics; reductionist as total semantics.
+
+ASCII MASTER FLOW — PANEL 16/25: Wittgensteinian grammar and Phillips
+LUDWIG WITTGENSTEIN'S LECTURES
+  Last Judgement belief != ordinary weather prediction
+  use orients repentance, hope, fear and a life
+LATER TERMS
+  language-game | grammar | form of life
+D. Z. PHILLIPS
+  resisted simple non-cognitivist and reductionist labels
+GAIN: prevents category mistakes and attends to context.
+COST: FIDEISM / insulation if internal use excludes evidence and moral criticism.
+REPLY: practices overlap; clarification does not itself validate truth.
+
+ASCII MASTER FLOW — PANEL 17/25: Advaita: Brahman and māyā
+BRAHMAN
+  real (sat), non-objectifiable, beyond ordinary predication
+  "whence words turn back" (Taittirīya 2.9)
+  ineffable / avācya; NOT neither-real-nor-unreal
+MĀYĀ / WORLD-APPEARANCE
+  appears -> not sheer unreality
+  sublated by knowledge -> not ultimate reality
+  therefore different from real and unreal (sad-asad-vilakṣaṇa)
+  technically indeterminable (anirvacanīya)
+TRAP: never collapse Brahman's ineffability into māyā's category-status.
+
+ASCII MASTER FLOW — PANEL 18/25: Advaita operations and Indian boundaries
+NEGATION (neti neti; Bṛhadāraṇyaka 2.3.6) -> removes limiting predicates.
+INDIRECT INDICATION (lakṣaṇā) -> intended import when literal sense fails.
+PART-DISCARDING INDICATION (bhāga-tyāga-lakṣaṇā)
+  tat tvam asi -> discard incompatible connotations; retain consciousness.
+OTHER BOUNDED STRATEGIES
+  Rāmānuja -> real auspicious attributes
+  Madhyamaka -> conventional meaning without intrinsic nature
+  Jain conditional predication (syādvāda) -> state the respect
+  Nyāya -> limited heuristic near univocity; not Scotus's doctrine
+  Mīmāṃsā -> injunction (vidhi), mantra, eternity of word (śabda-nityatva)
+  grammarians/Bhartṛhari -> classical sphoṭa; NOT a Mīmāṃsā doctrine.
+
+ASCII MASTER FLOW — PANEL 19/25: Symbolism toward mysticism
 AFFIRMATIVE ROUTE
-  symbol participates -> draws practitioner in -> becomes transparent
-  -> SELF-EFFACEMENT -> possible IMMEDIACY beyond mediation
-  OMKARA: A-U-M -> waking/dream/deep sleep -> soundless AMATRA / TURIYA
-        |
-COUNTER-CASE
-  idolatry arrests | KATZ: symbols constitute experience | iconoclasm deletes
-  ethics, inquiry and grace show NON-NECESSITY; no symbol guarantees mysticism
-VERDICT -> normal and powerful route, but neither necessary nor sufficient.
+  symbol participates
+    -> practice draws subject in
+      -> bearer becomes transparent
+        -> SELF-EFFACEMENT
+          -> claimed immediacy / mysticism
+WEST
+  Paul Ricoeur: symbol gives rise to thought; second naïveté
+  Pseudo-Dionysius: cataphatic -> apophatic -> silence
+INDIA
+  symbol/image meditation (pratīka/pratimā upāsanā)
+  Māṇḍūkya Upaniṣad: Oṃ A-U-M -> waking/dream/deep sleep
+  -> soundless fourth (amātra/turīya)
+  Tantra: mantra / yantra / maṇḍala internalised and dissolved
+COMPARATIVE BRIDGE
+  Eliade: hierophany | Sufi allusive signs (ishārāt)
+CONTROL: structured route, not logical guarantee.
 
-ASCII MASTER FLOW — PANEL 9/10: 9. Fourteen verified PYQ demand routes
-2018 Q5(a) secular/religious use | Q7(b) Braithwaite | Q8(c) symbol mediation
-2019 Q6(a) whether AND how symbol leads to mysticism
-2020 Q8(a) cognitive content in detail
-2021 Q8(a) Braithwaite non-cognitive | Q8(c) Tillich symbolism
-2022 Q5(e) "God exists": cognitive versus non-cognitive
-2023 Q5(d) qualified Wittgenstein | Q7(c) Tillich
-2024 Q5(e) analogy | Q8(a) cognitive/non-cognitive plus contradiction 10+10
-2025 Q5(b) symbolic? reasons | Q8(c) Advaitic anirvacaniyata
-CONTROL -> obey directive, printed marks split and answer-specific mechanism.
+ASCII MASTER FLOW — PANEL 20/25: Counter-case to symbolism–mysticism
+1 ARREST
+  literalised symbol claims ultimacy -> idolatry / demonic
+2 CONSTITUTION
+  Steven Katz: inherited symbols shape experience from the start
+3 DELETION
+  Zen / neti neti advance through iconoclasm or subtraction
+4 NON-NECESSITY
+  ethics, inquiry (manana), attention and grace are other routes
+5 RETURN
+  mystic communicates again through culturally formed symbols
+VERDICT: normal and powerful route; neither necessary nor sufficient.
 
-ASCII MASTER FLOW — PANEL 10/10: 10. Executable answer spine, traps and qualified conclusion
-OPEN -> define the exact demand and separate HOW from WHETHER
-MAP -> doctrine with named mechanism, not a thinker list
-EVIDENCE -> one canonical example or text locus
-TEST -> strongest objection at the point where it bites
-REPLY -> preserve the theory's gain without denying its cost
-COMPARE -> Indian/Western only as qualified structural comparison
-TRAPS -> cause-only Aquinas | settled Wittgenstein | Mimamsa=sphota
-CLOSE -> intelligible reference + apophatic humility + critical vulnerability
-FORMULA -> qualified mixed realism, not literalism and not disguised silence.
+ASCII MASTER FLOW — PANEL 21/25: The pluralism bridge
+SEMANTICS -> epistemic access -> rival descriptions -> pluralism/exclusivism.
+UNIVOCAL LITERALISM
+  direct commensurability -> contradiction -> exclusivist pressure
+ANALOGY / SYMBOL / APOPHASIS
+  finite descriptions non-exhaustive -> pluralism intelligible
+HICK
+  transcategorial Real + personae/impersonae -> semantic thesis
+  cost: vacuity; an empty Real cannot ground worship or discriminate traditions
+INDIAN
+  Advaita: unqualified/qualified (nirguṇa/saguṇa)
+  Jainism: standpoint marked in assertion (syādvāda)
+LIMIT: creator/no-creator and survival/no-survival remain hard contradictions.
+
+ASCII MASTER FLOW — PANEL 22/25: Inter-thinker debate and standing criticisms
+AQUINAS -> realism / indeterminacy
+SCOTUS -> inference / anthropomorphism or onto-theology charge
+MAIMONIDES -> transcendence / vacuity
+TILLICH -> depth / vague referent and self-reference
+AYER-FLEW -> evidence / over-restriction
+BRAITHWAITE -> practice / reductionism
+WITTGENSTEINIAN -> context / insulation
+ADVAITA -> non-objectification / self-reference and silence
+OPTIONAL HISTORY -> Radical Orthodoxy links Scotist univocity to secular metaphysics;
+                    the genealogy is contested, not established history
+STANDING CRITICISMS
+  anthropomorphism | agnosticism | fideism | reductionism | self-reference
+RULE: state objection exactly where the theory's mechanism produces it.
+
+ASCII MASTER FLOW — PANEL 23/25: PYQ map: 2018–2021
+2018 Q5(a) [10] secular vs religious use -> function/referent/self-involvement.
+2018 Q7(b) [15] Braithwaite -> policy/stories + reductionism.
+2018 Q8(c) [15] symbols mediate transcendent referent -> cultural/spatial/temporal.
+2019 Q6(a) [20] whether AND how symbolism leads to mysticism -> route + negative case.
+2020 Q8(a) [20] cognitive content -> spectrum + evidence + mixed verdict.
+2021 Q8(a) [20] non-cognitive/Braithwaite -> family + distinct account + critique.
+2021 Q8(c) [15] Tillich -> sign/symbol, participation, being-itself, caution.
+CONTROL: exact wording; independent models; no official answer key.
+
+ASCII MASTER FLOW — PANEL 24/25: PYQ map: 2022–2025
+2022 Q5(e) [10] "God exists" -> apply cognitive/non-cognitive directly.
+2023 Q5(d) [10] Wittgenstein -> use/form of life + qualification.
+2023 Q7(c) [15] Tillich -> complete mechanism + objection.
+2024 Q5(e) [10] analogy -> dilemma + res/modus + Scotus.
+2024 Q8(a) [20 = 10+10] -> distinction first; contradiction/Braithwaite second.
+2025 Q5(b) [10] symbolic? -> yes-but reasons + justification.
+2025 Q8(c) [15] Advaitic anirvacanīyatā -> māyā/Brahman + semantic operations.
+CONTROL: obey printed marks split and named-thinker fidelity.
+
+ASCII MASTER FLOW — PANEL 25/25: Examiner traps, answer spine and qualified conclusion
+TRAPS
+  analogy != metaphor | symbol != sign | non-cognitive != meaningless
+  Ayer != Braithwaite != Hare != Wittgensteinian use
+  Tillich's being-itself exception is disputed
+  Scotus semantic != ontological univocity
+  Brahman ineffability != māyā's anirvacanīyatā
+  Mīmāṃsā's śabda-nityatva != Bhartṛhari's sphoṭa
+ANSWER SPINE
+  identify HOW/WHETHER -> define mechanism -> named evidence
+  -> explain what it proves -> strongest objection -> reply -> residual cost
+CLAIM PARAGRAPH
+  claim -> text/thinker/example -> analysis -> qualification
+QUALIFIED CONCLUSION
+  intelligible reference + apophatic humility + practical force
+  + critical vulnerability = defensible mixed realism.

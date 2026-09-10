@@ -1,119 +1,725 @@
-ASCII MASTER FLOW — PANEL 1/10: Vienna Circle programme and the analytic-synthetic division
-START -> Vienna Circle: Schlick, Carnap, Neurath; Ayer is the English expositor.
-INFLUENCES -> empiricism + mathematical logic + early Wittgenstein.
-PHILOSOPHY -> logical clarification, not a rival source of empirical facts.
-COGNITIVE MEANING -> truth-apt factual content or analytic logical function.
-ANALYTIC -> true by meanings/rules; necessary; non-factual yet meaningful.
-SYNTHETIC -> contingent; truth depends on experience; factual candidate.
-SCIENTIFIC WORLDVIEW -> public evidence, coordination and unity ambitions.
-DIVERSITY -> protocols, reduction, physicalism and confirmation remained disputed.
-TRAP -> meaningful != scientifically true; non-cognitive != worthless.
-ANSWER LINE -> one programme, evolving formulations and different internal routes.
+ASCII MASTER FLOW — PANEL 1/30: THE CENTRAL QUESTION AND THE ONE MOVE THIS CLAUSE MAKES
+==============================================================================
+   CENTRAL QUESTION
+   Before asking whether a sentence is TRUE, ask whether it SAYS ANYTHING AT ALL.
+                                     |
+                                     v
+   THE ONE MOVE
+   A sentence makes a FACTUAL claim only if some POSSIBLE EXPERIENCE would count FOR or
+   AGAINST it. That single test is then turned on METAPHYSICS and on LOGIC, and both
+   results are printed in the syllabus.
+                                     |
+        +----------------------------+----------------------------+
+        v                            v                            v
+   LIMB 1 MEANING             LIMB 2 METAPHYSICS           LIMB 3 NECESSITY
+   verification theory        rejected as PSEUDO-          necessity is LINGUISTIC /
+   of meaning                 STATEMENT, not as FALSE      CONVENTIONAL; NO synthetic
+                                                           a priori
+   ANSWER LINE  Logical positivism is not a set of conclusions about reality but a proposal
+   about what a philosophical question may be.
 
-ASCII MASTER FLOW — PANEL 2/10: Verification criterion, strong-weak fork and in-principle access
-FACTUAL P -> cognitively meaningful only if experience could count for or against P.
-ACTUAL VERIFICATION -> the evidence has been gathered now.
-IN-PRACTICE TESTABILITY -> present technology and conditions make checking feasible.
-IN-PRINCIPLE VERIFIABILITY -> relevant observations can be specified in principle.
-STRONG -> experience could conclusively establish truth; sharp but over-exclusive.
-WEAK -> possible evidence raises/lowers probability; Ayer's broader repair.
-CONFIRMATION -> partial evidential support, not conclusive proof or truth itself.
-PRESSURE -> laws, past, other minds, dispositions and theory terms.
-TRAP -> falsifiability is Popper's rival demarcation rule, not this doctrine.
-DILEMMA -> strong kills science; weak risks readmitting metaphysics.
+ASCII MASTER FLOW — PANEL 2/30: OWNER SCOPE AND THE FENCE - WHAT BELONGS HERE AND WHAT DOES NOT
+==============================================================================
+   OWNED HERE
+     verification principle; meaning vs truth; cognitive significance; in-principle
+     verifiability; Ayer's STRONG / WEAK senses; 1946 revision; Church 1949; pseudo-statement
+     (Scheinsatz) and the two routes; das Nichts nichtet; the meaning-knowledge-ontology
+     cascade; analytic/synthetic as EXHAUSTIVE; tautology; denial of the synthetic a priori;
+     general statements, laws and theoretical terms; protocol sentences; tolerance and the
+     internal/external distinction; emotivism as a COROLLARY; self-refutation
+   NOT OWNED - name in one clause, then stop
+     FALSIFIABILITY .................... POPPER - DEMARCATION, not meaning; and he held
+                                         metaphysics to be MEANINGFUL
+     TWO DOGMAS, HOLISM, ONTOLOGICAL
+       RELATIVITY ...................... TOPIC 11  Quine and Strawson
+     MEANING AS USE, LANGUAGE-GAMES,
+       PRIVATE LANGUAGE ................ TOPIC 08  Later Wittgenstein
+     PICTURE THEORY, SAYING/SHOWING .... TOPIC 06  a SOURCE, not a version
+     HUME'S OWN EPISTEMOLOGY ........... TOPIC 03  Empiricism
+     KANT'S SYNTHETIC A PRIORI ......... TOPIC 04  here only as the TARGET
+     ESCHATOLOGICAL VERIFICATION ....... PAPER II  Religious Language (Hick)
+   CORPUS SIGNAL  7 owned parts of 112 in 2018-2025. 2022 is the ONLY year without one.
 
-ASCII MASTER FLOW — PANEL 3/10: Positive case and scientific hard cases
-POSITIVE CASE -> evidence, operational clarity, public testing, anti-obscurantism.
-UNIVERSAL LAW -> finite observations never conclusively verify every instance.
-DISPOSITION -> meaningful tendency may remain unmanifested in the present case.
-PAST EVENT -> current traces, records and testimony provide indirect evidence.
-OTHER MIND -> behaviour/expression provide public but non-conclusive evidence.
-THEORETICAL ENTITY -> electron-talk belongs to a predictive theoretical network.
-ROUTE -> theory + conditions + auxiliaries -> prediction -> observation report.
-RESULT -> confirm, weaken or revise the connected system.
-REPLY -> public predictive integration differs from insulation from evidence.
-LIMIT -> science is saved as sentence-by-sentence demarcation becomes less sharp.
+ASCII MASTER FLOW — PANEL 3/30: THE THREE INHERITANCES - AND WHAT WAS NEW IN 1929
+==============================================================================
+   CONTENT TEST      HUME, Enquiry XII: RELATIONS OF IDEAS or MATTERS OF FACT.
+                     'Commit it then to the flames, for it can contain nothing but
+                     sophistry and illusion.'  Target named by Hume: 'divinity or school
+                     metaphysics'                                            TOPIC 03
+                                     +
+   FORM TEST         FREGE, RUSSELL, WHITEHEAD: quantification, the theory of descriptions,
+                     Principia Mathematica. GRAMMATICAL FORM != LOGICAL FORM      TOPIC 06
+                                     +
+   MODEL             EINSTEIN / relativity: fix the content of a claim such as DISTANT
+                     SIMULTANEITY by fixing the METHOD OF SETTLING it
+                                     |
+                                     v
+   WHAT IS NEW  Hume can say a term lacks an impression. CARNAP can show a sentence is
+   SYNTACTICALLY MALFORMED - a quantifier used as a name. That is a DEMONSTRABLE defect.
+   TRAP  'Logical positivism is just Hume restated' - the addition of FORMAL LOGIC is the
+   entire difference.
 
-ASCII MASTER FLOW — PANEL 4/10: Early Wittgenstein's influence and the positivist addition
-TRACTATUS INFLUENCE -> facts can be said; logic is tautological; philosophy clarifies.
-TAUTOLOGY -> shows logical form but does not picture a contingent fact.
-SAYING/SHOWING -> cannot be identified wholesale with positivist verificationism.
-CIRCLE'S ADDITION -> factual meaning requires possible experiential verification.
-MODERN LOGIC -> analyse logical form beneath misleading surface grammar.
-LOGICAL SYNTAX -> reveals misuse of categories, terms and quantificational forms.
-PHILOSOPHY -> clarification of scientific language and limits of assertion.
-HISTORICAL CAUTION -> influence does not make Wittgenstein a uniform Circle member.
-AYER CAUTION -> English exposition is not identical with every Vienna doctrine.
-ANSWER LINE -> inherited logical boundary plus an original empiricist meaning test.
+ASCII MASTER FLOW — PANEL 4/30: CHRONOLOGY RAIL - THE MINIMUM THAT PREVENTS ANACHRONISM
+==============================================================================
+   1748   HUME, Enquiry XII - THE FORK
+   1921   Logisch-Philosophische Abhandlung (German)
+   1922   Bilingual TRACTATUS LOGICO-PHILOSOPHICUS - NEVER date the English text 1921
+   1924-  The Schlick Circle begins regular meetings in Vienna
+   1926-27 The Circle reads the Tractatus ALOUD, over more than a year
+   1929   MANIFESTO Wissenschaftliche Weltauffassung: Der Wiener Kreis
+          AUTHORS Hahn, Neurath, Carnap    DEDICATED TO Schlick   <-- collective document
+   1929   HEIDEGGER, Was ist Metaphysik? - 'das Nichts nichtet'
+   1929-32 Wittgenstein converses with SCHLICK and WAISMANN (McGuinness ed., 1979).
+          He was NEVER a member
+   1930   SCHLICK, 'The Turning Point in Philosophy'
+   1932   CARNAP, 'Uberwindung der Metaphysik...' (Erkenntnis) - elimination of metaphysics
+   1932   NEURATH, 'Protokollsatze' (Erkenntnis) - THE BOAT
+   1932   SCHLICK, 'Positivism and Realism' - THE DIFFERENCE-ARGUMENT
+   1932   CARNAP, 'Uber Protokollsatze' - the FORM of a protocol is a CHOICE
+   1932-33 AYER attends Circle meetings as a VISITOR
+   1934   SCHLICK, 'Uber das Fundament der Erkenntnis' - AFFIRMATIONS
+   1934   CARNAP, Logische Syntax der Sprache (English 1937, s.17) - TOLERANCE
+   1934   POPPER, Logik der Forschung (English 1959) - FALSIFIABILITY as DEMARCATION.
+          Self-described 'official opposition'. NOT a member
+   1936   AYER, Language, Truth and Logic - the English transmission
+   1936   SCHLICK, 'Meaning and Verification' | QUINE, 'Truth by Convention'
+   1936   SCHLICK is MURDERED in Vienna; the Circle disperses; members emigrate
+   1937   STEVENSON, 'The Emotive Meaning of Ethical Terms' (Mind)
+   1944   STEVENSON, Ethics and Language
+   1946   AYER, LTL 2nd ed. - the REVISED criterion is in the INTRODUCTION
+   1949   CHURCH - the revised criterion ADMITS what it was designed to EXCLUDE
+   1950   CARNAP, 'Empiricism, Semantics, and Ontology' - INTERNAL / EXTERNAL
+   1951   QUINE, 'Two Dogmas of Empiricism'                                    TOPIC 11
+   1953   WITTGENSTEIN, Philosophical Investigations, posthumous               TOPIC 08
+   1960   QUINE, Word and Object - NEURATH'S BOAT as the EPIGRAPH
+   1960-65 GEACH sharpens the EMBEDDING problem against emotivism
 
-ASCII MASTER FLOW — PANEL 5/10: Metaphysical pseudo-proposition diagnostic
-ASSERTION-LIKE SENTENCE -> first ask: analytic or tautological?
-IF NO -> what possible experience would bear on truth or falsity?
-IF NONE -> inspect each term's criterion of application.
-CHECK -> grammatical disguise, category mistake and misuse of logical syntax.
-PSEUDO-PROPOSITION -> assertion-like form without cognitive factual content.
-CARNAP -> logical analysis diagnoses malformed or empty metaphysical constructions.
-AYER -> unverifiable factual pretence fails the cognitive-meaning criterion.
-NOT FALSE -> the positivist denies truth-conditions, not merely correspondence.
-NOT WORTHLESS -> expressive, historical or existential significance may remain.
-LIMIT -> the verdict is only as strong as the verification criterion itself.
+ASCII MASTER FLOW — PANEL 5/30: THE VIENNA CIRCLE - MEMBERSHIP, MANIFESTO AND THE FENCE
+==============================================================================
+   INSIDE                          TESTED ON
+   MORITZ SCHLICK 1882-1936        leader; difference-argument 1932; 'Turning Point' 1930;
+                                   affirmations (Konstatierungen) 1934
+   RUDOLF CARNAP 1891-1970         elimination of metaphysics 1932; tolerance 1934/1937
+                                   s.17; internal/external 1950; the 1932 mediation
+   OTTO NEURATH 1882-1945          physicalism; revisable protocols 1932; THE BOAT;
+                                   encyclopaedic unity of science
+   HANS HAHN 1879-1934             mathematician; co-author of the manifesto
+   FRIEDRICH WAISMANN 1896-1959    recorded the Wittgenstein conversations
+   ------------------------------------------------------------------------------------------
+   OUTSIDE - AND WHY THE EXAMINER ASKS
+   A. J. AYER            visitor 1932-33; English statement 1936. NOT a member. STRONG/WEAK
+                         terminology is HIS
+   L. WITTGENSTEIN       read aloud 1926-27; conversations 1929-32. NEVER joined. The
+                         Tractatus is NOT a verificationist book
+   KARL POPPER           'official opposition'; falsifiability = SCIENTIFIC STATUS; held
+                         metaphysics MEANINGFUL
+   W. V. O. QUINE        admired Carnap, then attacked the two pillars from INSIDE
+                         empiricism                                            TOPIC 11
+   MANIFESTO EXACTLY  Wissenschaftliche Weltauffassung: Der Wiener Kreis, 1929.
+   Authors HAHN, NEURATH, CARNAP.  Dedicated to SCHLICK.  A COLLECTIVE document.
 
-ASCII MASTER FLOW — PANEL 6/10: Religion, ethics and aesthetics: status versus significance
-FIRST QUESTION -> does the utterance contain a factual, testable component?
-ETHICAL JUDGEMENT -> Ayer treats basic evaluation as non-cognitive expression.
-EMOTIVE SIGNIFICANCE -> evinces/influences attitudes; does not report a fact.
-REPORTING FEELING != EXPRESSING APPROVAL.
-PRESCRIPTIVE FUNCTION -> recommends conduct or commitment.
-RELIGIOUS LANGUAGE -> may mix historical claims, symbols and devotional practice.
-AESTHETIC LANGUAGE -> evaluation and response need not be measurement reports.
-FAIRNESS -> analyse sentence-functions; never caricature a whole tradition.
-OBJECTION -> reasons, consistency and embedded ethics pressure simple emotivism.
-VERDICT -> non-factual cognitive status does not erase human significance.
+ASCII MASTER FLOW — PANEL 6/30: PHILOSOPHY REASSIGNED, AND THE TWO BASKETS
+==============================================================================
+   SCHLICK 1930  philosophy is NOT a system of propositions beside the sciences but an
+   ACTIVITY by which the MEANING of propositions is made clear
+                                     |
+        +----------------------------+----------------------------+
+        v                                                         v
+   CONSEQUENCE 1                                          CONSEQUENCE 2
+   THERE ARE NO PHILOSOPHICAL PROPOSITIONS,               UNITY OF SCIENCE becomes a
+   only philosophical clarifications                      PROJECT, not a discovery: what
+   -> which is why the school's OWN central               unifies knowledge must be a
+      claim is later so awkward to classify               common LANGUAGE or METHOD
+                          [29] SELF-REFUTATION                            [28] TOLERANCE
+                                     |
+                                     v
+   THE TWO BASKETS
+   ANALYTIC        true or false SOLELY in virtue of the meanings and rules governing its
+                   symbols; NECESSARY, A PRIORI, FACTUALLY EMPTY
+   SYNTHETIC       CONTINGENT, A POSTERIORI, answerable to EXPERIENCE
+   'COGNITIVE'     restricts the claim to the capacity to STATE A FACT, i.e. to be true or
+                   false. A cheer, command, promise, poem, ritual formula or moral
+                   exclamation may be intelligible and indispensable while stating NO FACT
+   INTERNAL DIVERSITY - three fault lines the examiner can test
+     the EVIDENTIAL BASE      Schlick vs Neurath                              [26]
+     the LANGUAGE OF SCIENCE  phenomenalist vs physicalist                    [28]
+     the STATUS of the        discovery, proposal, or rule of a chosen        [29]
+       CRITERION              framework
 
-ASCII MASTER FLOW — PANEL 7/10: Linguistic theory of necessary propositions
-EMPIRICIST PROBLEM -> how can logic and mathematics be necessary and a priori?
-ANSWER -> analytic/tautological truth by definitions, conventions and rules.
-TAUTOLOGY -> true under every admissible assignment; no contingent fact asserted.
-LOGIC/MATHEMATICS -> organise inference and representation within a framework.
-MEANINGFUL -> non-factual logical role; empirical verification is unnecessary.
-CONVENTIONALISM -> framework rules explain necessity without supersensible objects.
-EARLY WITTGENSTEIN -> tautology influence, not wholesale doctrinal identity.
-KANT -> synthetic a priori challenges reduction to analyticity.
-QUINE -> analytic-synthetic boundary appears circular and unstable.
-REPLY/LIMIT -> strict consequences within chosen rules; choice standards need defence.
+ASCII MASTER FLOW — PANEL 7/30: THE CRITERION - A TWO-KEY LOCK
+==============================================================================
+   COGNITIVELY MEANINGFUL  =  KEY 1 turns  OR  KEY 2 turns
+   ------------------------------------------------------------------------------------------
+   KEY 1  ANALYTIC
+     wording   true or false SOLELY in virtue of the meanings of its terms
+     yields    necessity, apriority, certainty - and ZERO factual content
+     examples  'All bachelors are unmarried' | '2 + 2 = 4'
+               'All objects are either red or not red'              <-- 2024 Q3(b)
+   ------------------------------------------------------------------------------------------
+   KEY 2  EMPIRICALLY VERIFIABLE
+     STRONG        conclusively verifiable by a FINITE set of observations
+     WEAK          some possible observations are RELEVANT to its truth or falsehood -
+                   would render it PROBABLE or IMPROBABLE
+     IN PRINCIPLE  we can SPECIFY the observations even if no one can presently make them
+     examples  'This page is white'  <-- 2024 Q3(b) | 'There are mountains on the far side
+               of the moon' | 'The earth is flat' (FALSE, therefore MEANINGFUL)
+   ------------------------------------------------------------------------------------------
+   NEITHER KEY TURNS -> PSEUDO-STATEMENT (Scheinsatz)
+     'The Absolute is beyond time' | 'The nothing nothings' | 'The soul is immortal'
+     'The Good transcends Being' | 'The Soul of Superman is Good'      <-- 2020 Q1(e)
+     VERDICT  no truth-conditions, hence NO TRUTH-VALUE
+   THE BICONDITIONAL  left-to-right it LICENSES science, logic and common sense;
+   right-to-left it EXCLUDES everything else. An 'exposition' must give BOTH halves.
 
-ASCII MASTER FLOW — PANEL 8/10: Protocol statements and the internal shift toward confirmation
-PROTOCOL STATEMENT -> basic observation report used as an evidential checkpoint.
-SCHLICK -> more foundational experiential role for observation reports.
-NEURATH -> public, revisable protocols; no private incorrigible foundation.
-THEORY -> predicts event; protocol records it; mismatch triggers distributed revision.
-PHYSICALISM -> public coordination language, not crude denial of mental discourse.
-UNITY OF SCIENCE -> intersubjective integration remained an ambition, not one formula.
-DEVELOPMENT -> strict reduction -> probability -> confirmation.
-FURTHER SHIFT -> reduction sentences, syntax/semantics and theoretical-term toleration.
-THEORY-LADENNESS -> observation is not a neutral language-free bedrock.
-VERDICT -> practice survives through revisability as foundational verification weakens.
+ASCII MASTER FLOW — PANEL 8/30: MEANING AGAINST TRUTH - THE HIGHEST-YIELD DISCRIMINATION
+==============================================================================
+   SENTENCE                                MEANING            TRUTH
+   'The earth is flat'                     MEANINGFUL         FALSE
+   'Mountains on the far side of the moon' MEANINGFUL in 1935 later established TRUE
+   'This page is white'                    MEANINGFUL         true or false by inspection
+   'All objects are either red or not red' MEANINGFUL         TRUE, and factually EMPTY
+   'The Absolute is beyond time'           NOT MEANINGFUL     NO TRUTH-VALUE ASSIGNED
+                                     |
+                                     v
+   CONSEQUENCE THAT CARRIES THE 2023 ANSWER
+   Because the metaphysical sentence receives NO TRUTH-VALUE, the positivist is NOT saying
+   'the Absolute does not exist'. That would be a MEANINGFUL DENIAL requiring the very
+   truth-conditions he says are missing. The rejection is at the level of the SENTENCE,
+   not of the OBJECT.
+   MEMORY  FALSE = the world said no.  MEANINGLESS = the world was never asked.
 
-ASCII MASTER FLOW — PANEL 9/10: Carnapian tolerance, frameworks and conventionalist refinement
-PRINCIPLE OF TOLERANCE -> state rules clearly; no single compulsory logical language.
-LINGUISTIC FRAMEWORK -> syntax, semantics and standards for internal questions.
-INTERNAL ANALYTIC QUESTION -> answered through framework rules.
-INTERNAL FACTUAL QUESTION -> answered through evidence inside the framework.
-ADOPTION QUESTION -> practical comparison: clarity, economy, fruitfulness, coordination.
-CONVENTIONAL CHOICE != arbitrary consequence inside an adopted system.
-ONTOLOGY -> some disputes can be recast as framework proposals rather than discoveries.
-THEORETICAL TERMS -> retained when disciplined by inferential and test relations.
-OBJECTION -> standards of framework choice themselves require justification.
-LIMIT -> conceptual engineering does not dissolve every substantive ontological issue.
+ASCII MASTER FLOW — PANEL 9/30: IN PRINCIPLE vs IN PRACTICE; WHAT 'COGNITIVE' EXCLUDES
+==============================================================================
+   IN PRINCIPLE   we can SPECIFY the observations that would settle it   -> MEANING
+   IN PRACTICE    present technology, funding, location                  -> IRRELEVANT
+   'Mountains on the far side of the moon' (1935): meaningful. 'The Absolute is beyond all
+   experience': fails EVEN IN PRINCIPLE, because the sentence itself forbids specification.
+   ------------------------------------------------------------------------------------------
+   THE VERDICT DOES NOT ASSERT
+     NOT  that the words are UNINTELLIGIBLE
+     NOT  that the utterance is WORTHLESS
+     NOT  that expressive, ritual, practical or poetic USES are abolished
+     NOT  that the speaker is insincere or confused as a person
+   IT ASSERTS ONLY  that the sentence does not STATE A FACT.
+   LABELS AND THEIR FORCE
+     pseudo-statement (Scheinsatz)  grammatical form of a statement, no logical function
+     cognitively meaningless        no truth-conditions, hence no truth-value
+     'false'                        WRONG - falsity presupposes truth-conditions
+     'unprovable'                   WRONG - this concedes it is a proposition
+     'nonsense' unqualified         RISKY - invites the ordinary-language reading
 
-ASCII MASTER FLOW — PANEL 10/10: Self-application, successor critiques, evaluation and answer spine
-SELF-APPLICATION -> is the verification principle analytic or empirically verifiable?
-IF NEITHER -> it fails its own test; if stipulative -> its universal authority weakens.
-POPPER -> falsifiability demarcates science; it is not a positivist meaning criterion.
-QUINE -> attacks analyticity and isolated testing; experience meets a web of belief.
-KANT -> synthetic a priori challenges the linguistic reduction of necessity.
-STRENGTHS -> clarity, evidence, anti-obscurantism, philosophy of science/language.
-WEAKNESSES -> self-reference, laws, theory-ladenness, values, unstable analyticity.
-DISTINGUISH -> meaning | truth | verification | confirmation | demarcation | significance.
-ANSWER SPINE -> context -> definitions -> three doctrines -> objections/replies.
-CONCLUSION -> enduring method of clarification, unsuccessful final tribunal of meaning.
+ASCII MASTER FLOW — PANEL 10/30: THE STRONG SENSE AND ITS CASUALTIES
+==============================================================================
+   STRONG  a statement is verifiable iff its truth can be CONCLUSIVELY ESTABLISHED with
+   certainty by a FINITE set of observations.   Both words are load-bearing.
+   ADVANTAGE  rigorous; excludes metaphysics cleanly
+   CASUALTIES
+     UNIVERSAL LAWS   'All metals expand when heated' - indefinitely many instances; no
+                      finite set exhausts them
+     THE PAST         'Caesar crossed the Rubicon' - not now observable
+     OTHER MINDS      'She is in pain' - another's experience is not my observation
+   SURVIVES  singular present-tense observation reports: 'this page is white'
+                                     |
+                                     v
+   VERDICT  STRONG VERIFICATION KILLS SCIENCE. A criterion of meaning that convicts the
+   sentences of physics is self-evidently the wrong criterion, and Ayer says so.
+   TRAP  naming only universal laws gives ONE THIRD of the casualty list and weakens the
+   dilemma the answer is trying to establish.
+
+ASCII MASTER FLOW — PANEL 11/30: THE WEAK SENSE AND ITS COST
+==============================================================================
+   WEAK  a statement is verifiable iff some possible observations are RELEVANT to its truth
+   or falsehood - would render it PROBABLE or IMPROBABLE.
+   ADVANTAGE  saves scientific generalisations and statements about the past and the future
+   COST       RELEVANCE IS CHEAP. Conjoin the metaphysical sentence with an AUXILIARY
+              HYPOTHESIS and an observation-statement follows from the PAIR that does not
+              follow from the auxiliary ALONE -> metaphysics creeps back in
+                                     |
+                                     v
+   THE FORK, STATED ONCE
+   Tight enough to exclude metaphysics is tight enough to exclude physics.
+   Loose enough to admit physics is loose enough to admit metaphysics.
+   NO SETTING OF THE DIAL DOES BOTH JOBS.
+   THIS IS THE PRINCIPLE'S INTERNAL PROBLEM. It needs no external critic and is DISTINCT
+   from the self-refutation objection at [29]. Keeping them apart is itself a mark.
+   ATTRIBUTION FENCE  STRONG/WEAK is AYER'S vocabulary. Do NOT write 'the Vienna Circle
+   distinguished strong and weak verification' as one agreed Circle doctrine.
+
+ASCII MASTER FLOW — PANEL 12/30: THE REPAIR AND ITS FAILURE - THREE DATES, NEVER MERGED
+==============================================================================
+   1936  LTL 1st ed.   WEAK test: observations that make the proposition PROBABLE
+   1946  LTL 2nd ed.   the INTRODUCTION supplies a technical replacement:
+         DIRECTLY VERIFIABLE    it is itself an observation-statement, OR with one or more
+                                observation-statements it entails an observation-statement
+                                NOT deducible from those premisses alone
+         INDIRECTLY VERIFIABLE  with further premisses it entails a DIRECTLY verifiable
+                                statement not deducible from those premisses alone, AND
+                                those premisses are analytic, or directly verifiable, or
+                                independently shown to be indirectly verifiable
+   1949  CHURCH        the revised criterion ADMITS statements it was designed to EXCLUDE:
+                       given three mutually independent observation-statements, an
+                       ARBITRARY sentence can be shown to satisfy the conditions
+                                     |
+                                     v
+   MIGRATION  VERIFICATION -> CONFIRMATION and TESTABILITY of SYSTEMS
+   GAIN  a far better account of how evidence supports scientific theory
+   LOSS  the sharp, sentence-by-sentence boundary between meaningful and meaningless
+
+ASCII MASTER FLOW — PANEL 13/30: THE POSITIVE CASE - FIVE MOTIVATIONS, GRADED
+==============================================================================
+   1 DIFFERENCE-ARGUMENT   Schlick, 'Positivism and Realism', 1932.       STRONGEST
+     If two hypotheses agree on EVERY possible observation they do not differ in CONTENT -
+     they are ONE hypothesis in TWO VOCABULARIES. A principle of SIGNIFICANCE, not of
+     epistemology. It SURVIVES the collapse of the criterion as a weaker heuristic.
+   2 THE EINSTEIN MODEL    relativity forces operational attention to how claims such as
+     DISTANT SIMULTANEITY are fixed and tested.                    STRONG INFLUENCE
+     LIMIT  not a proof that every concept reduces to ONE measurement procedure
+   3 MEANING AND USE-CONDITIONS  understanding a factual sentence includes knowing the
+     circumstances relevant to asserting and testing it.                 QUALIFIED
+     CAUTION  do NOT import later meaning-as-use. The Circle builds ONE UNIFORM empiricist
+     test; later Wittgenstein refuses uniformity itself                   TOPIC 08
+   4 THE DEMARCATION MOTIVE  a PUBLIC criterion separating empirical science from
+     metaphysics.                                                        CONTESTED
+     POPPER'S RIVAL  falsifiability = SCIENTIFIC STATUS, not meaning; metaphysics remains
+     MEANINGFUL. DIFFERENT QUESTION, not a repair
+   5 UNITY OF SCIENCE  phenomenalist reduction, later physicalist public-language projects,
+     seeking intertranslation or coordination.               INTERNALLY DISPUTED    [28]
+   ANSWER-CRAFT  open a 'discuss verification' answer HERE, not with self-refutation.
+
+ASCII MASTER FLOW — PANEL 14/30: THE ARGUMENT IN SIX STEPS
+==============================================================================
+   1  To UNDERSTAND a sentence is to know what it would be for it to be TRUE
+                                     |
+   2  To know that is to DISTINGUISH the circumstances in which it holds from those in
+      which it does not
+                                     |
+   3  To distinguish those circumstances is to know what would count as EVIDENCE either way
+                                     |
+   4  .:  UNDERSTANDING a sentence = GRASPING ITS VERIFICATION-CONDITIONS
+                                     |
+   5  .:  a sentence for which NO evidence could count either way has NOTHING for
+      understanding to consist in
+                                     |
+   6  .:  such a sentence is NOT FALSE; it is WITHOUT COGNITIVE CONTENT
+
+ASCII MASTER FLOW — PANEL 15/30: THE FOUR PRESUPPOSITIONS - AND THE OBJECTION MAP THEY GENERATE
+==============================================================================
+   P1  Understanding is exhausted by TRUTH-CONDITIONS, and truth-conditions are exhausted
+       by OBSERVATION-CONDITIONS
+       <- the identification is made at step 2->3 and is NEVER ARGUED FOR
+   P2  OBSERVATION-STATEMENTS ARE EPISTEMICALLY PRIVILEGED - there is a level of report not
+       itself theory-laden
+       <- attacked FROM WITHIN by the PROTOCOL DEBATE                            [26]
+   P3  Sentences face experience INDIVIDUALLY
+       <- Duhem-Quine HOLISM: tests implicate auxiliaries and whole networks     TOPIC 11
+       <- and STRAINED ALREADY by the positivists' own theory-network account    [25]
+   P4  The ANALYTIC/SYNTHETIC distinction is SHARP - the criterion's FIRST DISJUNCT
+       depends on it
+       <- 'Two Dogmas' 1951 attacks the boundary rather than settling it         TOPIC 11
+   WHY THIS PANEL IS WORTH TWENTY-MARK SPACE
+   It converts an unordered list of objections into a STRUCTURE: each major criticism is
+   the DENIAL OF ONE HINGE, and the script can say WHICH HINGE and WHY.
+
+ASCII MASTER FLOW — PANEL 16/30: THE TRACTATUS LEDGER - TAKEN, ADDED, AND THREE FENCES
+==============================================================================
+   TAKEN                                    |  ADDED BY THE CIRCLE
+   SENSE = TRUTH-CONDITIONS (4.022, 4.024)  |  MEANING = VERIFICATION-CONDITIONS
+   BIPOLARITY is a LOGICAL requirement:     |  VERIFIABILITY is an EPISTEMIC requirement:
+     a determinate place in logical space   |    SOMEONE must be able to check
+   metaphysics is NONSENSICAL (unsinnig)    |  metaphysics is MEANINGLESS because NO
+     because it fails to DEPICT             |    OBSERVATION IS RELEVANT
+   the base is OBJECTS never exemplified -  |  the base is OBSERVATIONS / PROTOCOLS -
+     a LOGICAL POSTULATE                    |    an EMPIRICAL claim  -> hence [26]
+   value / the mystical MANIFEST but are    |  AYER gives value utterances an EMOTIVE role -
+     not factual propositions               |    an ADDED metaethical theory        [21]
+   ALSO TAKEN  the boundary project; logic as TAUTOLOGY; philosophy as an ACTIVITY; the
+   exposure of surface grammar
+                                     |
+                                     v
+   THE CONSEQUENCE THAT MATTERS
+   Universal laws have SPECIFIABLE truth-conditions but NO conclusive verification-
+   conditions -> the substitution ITSELF generates the strong/weak dilemma          [10][11]
+   THREE FENCES
+     (i)   Wittgenstein was NEVER A MEMBER of the Vienna Circle
+     (ii)  the TRACTATUS IS NOT A VERIFICATIONIST TEXT - the substitution is the CIRCLE'S OWN
+     (iii) LATER Wittgenstein endorses NO single criterion of meaning at all       TOPIC 08
+
+ASCII MASTER FLOW — PANEL 17/30: REJECTION OF METAPHYSICS - THE IDENTIFICATION PROCEDURE
+==============================================================================
+   STEP 1  Is the sentence ANALYTIC - true or false by meanings and rules alone?
+              YES -> MEANINGFUL and factually EMPTY.   STOP
+              NO  -> Step 2
+   STEP 2  Can ANY possible observation count FOR or AGAINST it (in principle)?
+              YES -> MEANINGFUL, synthetic.            STOP
+              NO  -> Step 3
+   STEP 3  DIAGNOSE the failure - WHICH ROUTE?
+              ROUTE 1  a constituent TERM has NO EMPIRICAL CRITERION OF APPLICATION
+              ROUTE 2  individually significant terms are COMBINED so that NO
+                       TRUTH-CONDITIONS RESULT
+   STEP 4  VERDICT  PSEUDO-STATEMENT (Scheinsatz).
+              Record what is NOT claimed: not false; not unproven; not unintelligible;
+              expressive and practical force untouched
+   SOURCE  CARNAP, 'Uberwindung der Metaphysik durch logische Analyse der Sprache',
+   Erkenntnis, 1932.  AYER: a metaphysical sentence 'purports to express a genuine
+   proposition, but does not.'
+   2021 Q2(b) ASKS FOR THIS PROCEDURE, not for a list of condemned sentences.
+
+ASCII MASTER FLOW — PANEL 18/30: THE TWO ROUTES, WORKED - FOUR GRADED EXAMPLES AND TWO CONTROLS
+==============================================================================
+   'The soul is immortal'         ROUTE 1  no empirical criterion for 'soul'
+   'The Good transcends Being'    ROUTE 1 + ROUTE 2  neither term has a criterion, and the
+                                  relation yields no truth-conditions
+   'Caesar is a prime number'     ROUTE 2  grammatical, every word significant, NO
+                                  verification procedure applies
+   'The nothing nothings'         ROUTE 2 - THE PARADIGM                          [19]
+   ------------------------------------------------------------------------------------------
+   CONTROLS - INCLUDE ONE, OR THE TEST LOOKS LIKE A BLACKLIST
+   'Electrons have negative       MEANINGFUL - empirically testable, though INDIRECTLY,
+    charge'                       through a predictive theoretical network         [25]
+   '2 + 2 = 4'                    MEANINGFUL - analytic, true by the rules of arithmetic,
+                                  factually EMPTY                                  [23]
+   WHY BOTH ROUTES ARE NEEDED  route 1 alone cannot handle 'Caesar is a prime number';
+   route 2 alone cannot handle 'the soul is immortal'.
+
+ASCII MASTER FLOW — PANEL 19/30: 'THE NOTHING NOTHINGS' - DIAGNOSIS, REPLY, RENDERING RULE
+==============================================================================
+   SOURCE     HEIDEGGER, Was ist Metaphysik?, 1929: 'Das Nichts nichtet'
+   ANALYSIS   CARNAP, Erkenntnis, 1932 - a DOUBLE violation:
+                (a) 'nothing' is a LOGICAL QUANTIFIER used as if it NAMED something
+                (b) 'nothings' is a PSEUDO-VERB predicated of that pseudo-name
+              The sentence is PARASITIC on the form 'Something does X'. The defect is in
+              LOGICAL SYNTAX, not in ordinary grammar, and is therefore DEMONSTRABLE
+   RENDERING  CORRECT: 'Nothing noths'  or  'the nothing nothings'
+              FORBIDDEN: 'Nothing noughts' is NOT a rendering of this phrase and must
+              NEVER be written
+   HEIDEGGER'S AVAILABLE REPLY - report it, or the answer is ridicule rather than assessment
+              'Das Nichts' is disclosed in the mood of ANXIETY (Angst), and the breach of
+              logical grammar is DELIBERATE, since LOGIC ITSELF PRESUPPOSES the prior
+              disclosure of beings as a whole                              see TOPIC 10
+   ATTRIBUTION  the sentence is HEIDEGGER'S; the ANALYSIS is CARNAP'S. Never merge them.
+
+ASCII MASTER FLOW — PANEL 20/30: THE CASCADE - MEANING, KNOWLEDGE, NATURE OF THINGS
+==============================================================================
+   LEVEL              WHAT THE POSITIVIST SAYS        WHAT HE MAY NOT SAY
+   MEANING            the sentence has NO truth-      --
+   (the ROOT)         conditions; PSEUDO-STATEMENT
+   KNOWLEDGE          the question is DISSOLVED, not  that we are IGNORANT of metaphysical
+                      answered: one can neither know  truths (agnosticism presupposes a
+                      nor fail to know what is not    proposition whose truth-value is
+                      a proposition                   undetermined)
+   NATURE OF THINGS   the QUESTION of existence is    that the Absolute, the soul or God
+                      ILL-FORMED                      DOES NOT EXIST - a denial needs the
+                                                      very truth-conditions declared absent
+                                     |
+                                     v
+   THE CONNECTION  meaning grounds knowledge; knowledge grounds claims about the world.
+   Cutting at the level of MEANING simultaneously eliminates PSEUDO-KNOWLEDGE and
+   PSEUDO-ONTOLOGY.
+   2023 Q3(a) VERDICT  ALL THREE, THROUGH MEANING AS THE ROOT.
+   Saying 'all of them together' WITHOUT the ordering describes the question instead of
+   answering it.
+
+ASCII MASTER FLOW — PANEL 21/30: ETHICS AND AESTHETICS - AYER AGAINST STEVENSON
+==============================================================================
+   WHY ETHICS IS HERE AT ALL  (i) Ayer APPLIES the criterion to value language, so
+   emotivism is a COROLLARY of the verification principle; (ii) 2020 Q1(e) asks about 'Good'
+   ------------------------------------------------------------------------------------------
+                       AYER  LTL 1936, ch. 6      |  STEVENSON  Mind 1937; Ethics and
+                                                  |  Language 1944
+   WHAT THE TERM DOES  PURE EXPRESSION: adding    |  TWO meanings: a DESCRIPTIVE meaning
+                       '...is wrong' adds NO      |  varying with context AND an EMOTIVE
+                       factual content; it        |  meaning - a disposition built by usage
+                       EVINCES and may EVOKE      |  to express and evoke attitude
+   A REPORT OF FEELING?  NO - BOTH reject SUBJECTIVISM, and for the SAME reason: it turns
+                       moral disagreement into disagreement about AUTOBIOGRAPHY.
+                       BOTH ARE NON-COGNITIVISTS, NOT SUBJECTIVISTS
+   MODEL OF 'X IS GOOD'  (no propositional        |  'I approve of X; DO SO AS WELL' -
+                       paraphrase at all)         |  expression PLUS imperative element
+   DISAGREEMENT        always REALLY ABOUT FACTS; |  DISAGREEMENT IN BELIEF vs
+                       once facts are agreed 'we  |  DISAGREEMENT IN ATTITUDE - the latter
+                       should not attempt to      |  CAN SURVIVE complete factual agreement
+                       argue'                     |
+   IS ARGUMENT POSSIBLE?  essentially NO          |  YES - reasons work CAUSALLY by altering
+                                                  |  the beliefs on which attitudes rest;
+                                                  |  RATIONAL vs PERSUASIVE methods
+   FURTHER DOCTRINE    derived TOP-DOWN from the  |  PERSUASIVE DEFINITION - 'REAL
+                       theory of meaning          |  democracy is...'. Built BOTTOM-UP and
+                                                  |  INDEPENDENT of the criterion
+   VERDICT  Ayer's emotivism is a DEDUCTION from the criterion and shares its fate;
+   Stevenson's is an INDEPENDENT theory of linguistic influence which explains what Ayer
+   could not - how moral argument can be genuine though moral judgements state no fact.
+
+ASCII MASTER FLOW — PANEL 22/30: THE EMBEDDING PROBLEM, THEOLOGY, AND THE 2020 SENTENCE
+==============================================================================
+   FREGE-GEACH EMBEDDING PROBLEM  (Geach 1960, 1965; anticipated by Frege)
+     'If lying is wrong, then getting your brother to lie is wrong.' The ANTECEDENT is
+     UNASSERTED and expresses NO attitude, yet it must mean the SAME as the free-standing
+     'lying is wrong' for the modus ponens to be valid.
+     FORCE  DECISIVE against simple emotivism.  REPLY  later expressivists (Blackburn,
+     Gibbard) construct logics of attitude; NEITHER Ayer NOR Stevenson had an answer
+   OTHER OBJECTIONS  moral disapproval vs mere distaste (Stevenson can appeal to GENERALITY
+     and SOCIAL function; AYER CANNOT) | moral progress (Stevenson: convergence of attitude
+     under fuller belief; AYER concedes)
+   ------------------------------------------------------------------------------------------
+   THEOLOGY AT OWNED DEPTH
+     transcendent existence-claims fail the criterion by ROUTE 1
+     NOT ATHEISM - atheism is a MEANINGFUL DENIAL; the positivist declines the question
+     ritual, expressive, communal and practical uses are a SEPARATE question
+     HICK'S ESCHATOLOGICAL VERIFICATION - one clause only                    PAPER II
+   ------------------------------------------------------------------------------------------
+   2020 Q1(e)  'THE SOUL OF SUPERMAN IS GOOD' - THE SPLIT IS THE MARKS
+     SUBJECT   'the Soul of Superman' - no empirical criterion of application; fictional
+               bearer                                                    ROUTE 1  [18]
+     PREDICATE 'is Good' - adds NO factual content; EVINCES approval     EMOTIVE  [21]
+     WHOLE     neither analytic nor empirically verifiable -> COGNITIVELY MEANINGLESS,
+               NOT FALSE
+     QUALIFY   within an explicitly stated FICTION-FRAMEWORK, 'in the story, Superman is
+               portrayed as good' IS checkable. Do NOT claim every fictional or ethical
+               sentence is meaningless in every use
+
+ASCII MASTER FLOW — PANEL 23/30: LINGUISTIC THEORY OF NECESSITY - TRILEMMA AND THREE RIVALS
+==============================================================================
+   THE TRILEMMA  logic and mathematics are NECESSARY + A PRIORI + CERTAIN, yet empiricism
+   says ALL KNOWLEDGE COMES FROM EXPERIENCE
+                                     |
+        +----------------------------+----------------------------+
+        v                            v                            v
+   KANT                        MILL                         LOGICAL POSITIVISM
+   they are SYNTHETIC A        very well-confirmed          they are ANALYTIC - true by
+   PRIORI: they say something  EMPIRICAL GENERALISATIONS    the MEANINGS and CONVENTIONS
+   about the world but are     about collections of         of the symbols; they say
+   known a priori because the  objects                      NOTHING about the world;
+   MIND IMPOSES structure                                   necessity is VERBAL
+   PROBLEM  empiricists       PROBLEM  absurd: we do not
+   reject a THIRD BOX         DISCOVER 2+2=4 by counting
+                              pebbles, and NO experience
+                              could REFUTE it - an apparent
+                              counter-instance is put down
+                              to MISCOUNTING
+                                     |
+                                     v
+   HOW THE POSITIVIST ACCOUNT DELIVERS ALL FOUR FEATURES FROM ONE SOURCE
+     NECESSARY  their truth follows from the rules laid down for the symbols; no experience
+                could refute them BECAUSE THEY SAY NOTHING EXPERIENCE COULD BEAR ON
+     A PRIORI   grasping the meanings SUFFICES; no observation needed
+     CERTAIN    to deny them is to VIOLATE ONE'S OWN CONVENTIONS - self-contradiction
+     EMPTY      'All bachelors are unmarried' records our RESOLVE to use two expressions
+                interchangeably                          <-- THE PRICE, AND THE POINT
+   MEMORY  a necessary proposition is CERTAIN because it FORBIDS NOTHING.
+
+ASCII MASTER FLOW — PANEL 24/30: THE EXHAUSTIVE DICHOTOMY, THE 2024 PAIR, AND THE PRESSURES
+==============================================================================
+   ANALYTIC                              |  SYNTHETIC
+   necessary - a priori - EMPTY of       |  contingent - a posteriori - FACTUAL - fallible
+   content - certain                     |
+   logic - mathematics - definitions     |  empirical science - history - common sense
+   THERE IS NO THIRD BOX  -> the SYNTHETIC A PRIORI is declared INCOHERENT; Kant's central
+   innovation is DISSOLVED. Kant appears HERE ONLY AS THE TARGET                TOPIC 04
+   ------------------------------------------------------------------------------------------
+   2024 Q3(b), WORKED
+   'All objects are either red     ANALYTIC / TAUTOLOGY, form P v ~P. MEANINGFUL as a
+    or not red'                    LOGICAL truth: true under all truth-conditions; says
+                                   NOTHING about the world; NO observation could refute it
+                                   BECAUSE IT IS EMPTY. Truth depends only on 'or' and 'not'
+   'This page is white'            SYNTHETIC / EMPIRICAL. MEANINGFUL because VERIFIABLE:
+                                   look at the page. Depends on an OBSERVABLE FACT, and it
+                                   COULD BE FALSE (the page might be blue)
+   ANSWER AS ASKED  NO. Both meaningful, by DIFFERENT BRANCHES. Metaphysics fits NEITHER.
+   ------------------------------------------------------------------------------------------
+   PRESSURES - name at least one, or the answer describes rather than elucidates
+   QUINE 'Truth by Convention' 1936  conventions must be APPLIED, and deriving their
+     infinitely many consequences ALREADY PRESUPPOSES LOGIC -> circularity      TOPIC 11
+   QUINE 'Two Dogmas' 1951           analyticity cannot be NON-CIRCULARLY DEFINED
+   APPLICABILITY  if mathematics is empty, why is it INDISPENSABLE in physics? Reply:
+     applicability belongs to the EMBEDDING EMPIRICAL THEORY
+   GODEL  limitative results constrain PARTICULAR formal systems; NOT a one-line refutation
+     of every conventionalist account - do not overreach
+
+ASCII MASTER FLOW — PANEL 25/30: GENERAL STATEMENTS, FOUR HARD CASES, AND CONFIRMATION
+==============================================================================
+   1 UNIVERSAL LAWS  'All metals expand when heated'
+     DIFFICULTY  indefinitely many instances; strong verification fails
+     ROUTE       LAW + INITIAL CONDITIONS + AUXILIARIES -> PREDICTION -> OBSERVATION REPORT
+                 -> the SYSTEM is confirmed or strained
+     COST        support is NEVER proof; failure never points at ONE sentence  -> P3 [15]
+   2 THE PAST  'Caesar crossed the Rubicon'
+     ROUTE       present RECORDS, TRACES and TESTIMONY, read through causal/historical theory
+     COST        a strict phenomenalist reduction CONFUSES the EVIDENCE for the claim with
+                 its PAST-DIRECTED CONTENT - the sentence is about Caesar, not the parchment
+   3 OTHER MINDS  'She is in pain'
+     ROUTE       publicly observable BEHAVIOUR, LANGUAGE and explanatory THEORY
+     COST        reducing pain SIMPLY to behaviour is ONE behaviourist route, NOT forced
+   4 THEORETICAL ENTITIES  'Electrons have negative charge'
+     ROUTE       significance through the term's ROLE in laws, auxiliaries and the testable
+                 consequences of a THEORY-NETWORK
+     COST        network content means meaning is NOT assigned SENTENCE BY SENTENCE - and
+                 the criterion WAS a sentence-by-sentence criterion
+                                     |
+                                     v
+   WHY METAPHYSICAL UNIVERSALS ARE STILL EXCLUDED                        2019 Q2(a)
+   'All reality is spiritual' generates NO prediction under ANY initial conditions and ANY
+   auxiliaries. Scientific universals have SYSTEMATIC EMPIRICAL CONSEQUENCES; metaphysical
+   universals specify NO COMPARABLE TEST. The difference is CATEGORICAL, not of degree.
+   COUNTER-PRESSURE, conceded  weakening verification DOES risk admitting metaphysics; the
+   reply is that PUBLIC PREDICTIVE INTEGRATION differs from insulation from evidence, since
+   scientific auxiliaries are themselves independently testable. The boundary REMAINS
+   CONTESTED.
+   2018 Q3(b) VERDICT  NOT on the strong sense; on the weak sense ONLY AT THE COST OF THE
+   SHARP BOUNDARY.
+   FENCE  potential FALSIFICATION is POPPER'S DEMARCATION proposal, NOT Ayer's definition
+   of meaning.
+
+ASCII MASTER FLOW — PANEL 26/30: THE PROTOCOL-SENTENCE DEBATE - THE CRISIS INSIDE, 1932-35
+==============================================================================
+   THE QUESTION  what is the FORM and STATUS of Protokollsatze - the observation-statements
+   in which verification TERMINATES? INCORRIGIBLE FOUNDATIONS or ORDINARY REVISABLE
+   SENTENCES?
+                 SCHLICK 1934                    |  NEURATH 1932
+                 'Uber das Fundament der         |  'Protokollsatze'
+                 Erkenntnis'                     |
+   POSITION      FOUNDATIONALISM                 |  COHERENTISM + PHYSICALISM
+   THE BASE      Konstatierungen - AFFIRMATIONS  |  PHYSICALIST, fully explicit protocols
+                 of the form 'HERE NOW BLUE'     |  INCLUDING the observer and the TIME
+   STATUS        ABSOLUTELY CERTAIN: understand- |  FALLIBLE and REVISABLE like any other
+                 ing the sentence and VERIFYING  |  sentence. NOTHING is sacrosanct; even a
+                 it are ONE AND THE SAME ACT -   |  protocol may be STRUCK OUT if it
+                 no gap for error to enter       |  conflicts with the rest of the system
+   REALITY       the 'UNSHAKEABLE POINT OF       |  'STATEMENTS ARE COMPARED WITH
+                 CONTACT' between the system of  |  STATEMENTS, NOT WITH "EXPERIENCES".'
+                 knowledge and reality           |  NO EXIT from language to an unmediated
+                                                 |  given
+   THE CATCH     an affirmation CANNOT BE        |  consistency with the accepted system is
+                 WRITTEN DOWN AND PRESERVED:     |  the ONLY test; conflicting protocols
+                 recording it yields a           |  are decided by the WORKING PRACTICE of
+                 HYPOTHESIS about a PAST MOMENT. |  the scientific community
+                 Certainty is MOMENTARY and      |
+                 UNUSABLE                        |
+   IMAGE         knowledge as a structure        |  THE BOAT: 'We are like sailors who have
+                 needing a FIXED GROUND          |  to rebuild their ship on the open sea,
+                                                 |  without ever being able to dismantle it
+                                                 |  in dry-dock and reconstruct it from the
+                                                 |  best components.'
+ASCII MASTER FLOW — PANEL 27/30: PROTOCOL DEBATE - CARNAP'S MEDIATION AND THE RESIDUE
+==============================================================================
+   CARNAP'S MEDIATION  'Uber Protokollsatze', 1932: the FORM of protocol sentences is NOT A
+   FACT TO BE DISCOVERED but a MATTER OF CHOICE OF LANGUAGE - tolerance applied to the
+   Circle's OWN foundations. THIS EFFECTIVELY ENDS FOUNDATIONALISM INSIDE THE CIRCLE.
+   SCHLICK'S OBJECTION  if truth is COHERENCE with the accepted system, a CONSISTENT
+   FAIRY-TALE is as 'true' as science; coherence ALONE cannot select between rival
+   internally consistent systems
+   NEURATH'S REPLY  the selection is made not by LOGIC but by the ACTUAL ENCYCLOPAEDIC
+   PRACTICE of scientists, constrained by the protocols they in fact accept
+   RESIDUAL  this makes the choice SOCIOLOGICAL rather than EPISTEMIC. Schlick's charge is
+   NOT FULLY MET, and Neurath accepts a NATURALISTIC consequence Schlick found unacceptable
+   CASUALTY  presupposition P2 - theory-neutral observation                        [15]
+   AFTERMATH  QUINE uses the boat as the EPIGRAPH of Word and Object, 1960 - an acknowledged
+   AFFINITY. His holism remains HIS OWN development                            TOPIC 11
+   RENDERING  the boat first appears in Anti-Spengler, 1921, and a 1913 paper; renderings
+   vary - mark it a rendering
+
+ASCII MASTER FLOW — PANEL 28/30: TOLERANCE, FRAMEWORKS, REDUCTION AND THE UNITY OF SCIENCE
+==============================================================================
+   PRINCIPLE OF TOLERANCE  Logische Syntax der Sprache, 1934; English 1937, s.17
+   'IN LOGIC, THERE ARE NO MORALS. Everyone is at liberty to build up his own logic, i.e.
+   his own form of language, as he wishes. All that is required of him is that, if he wishes
+   to discuss it, he must state his methods clearly, and give SYNTACTICAL RULES INSTEAD OF
+   PHILOSOPHICAL ARGUMENTS.'
+     1  NO single 'correct' logic or language is GIVEN by reality - only FRAMEWORKS
+     2  a framework is chosen on PRAGMATIC grounds - fruitfulness, simplicity, convenience -
+        NOT on grounds of truth
+     3  .:  traditional metaphysical disputes are DISGUISED PROPOSALS about which framework
+        to adopt
+     4  .:  intuitionist vs classical logic, phenomenalist vs physicalist language, is a
+        CHOICE OF INSTRUMENT, not a factual disagreement
+   INTERNAL / EXTERNAL  'Empiricism, Semantics, and Ontology', 1950
+     INTERNAL  'Is there a prime number greater than 100?' asked WITHIN the arithmetical
+               framework -> settled by MATHEMATICAL RULES AND PROOF. YES
+     EXTERNAL  'Are there REALLY numbers?' asked ABOUT the framework as a whole -> NOT A
+               THEORETICAL QUESTION AT ALL. It is the PRACTICAL question whether to adopt
+               the number-language, answered by USEFULNESS
+   CONSEQUENCE  internal ontological questions remain LEGITIMATE; Carnap therefore DOES NOT
+   ABOLISH EVERY USE OF ONTOLOGY. This is a STRONGER anti-metaphysics than Ayer's verdict
+   ------------------------------------------------------------------------------------------
+   OBSERVATION LANGUAGE, REDUCTION AND UNITY - three programmes, three cautions
+   PHENOMENALIST /      object talk is RECONSTRUCTED from elementary EXPERIENTIAL statements
+   RECONSTRUCTIONIST    CAUTION  risks private-language and other-minds problems
+   PHYSICALIST /        protocols and scientific claims use an INTERSUBJECTIVELY TESTABLE
+   PUBLIC-LANGUAGE      physical language
+                        CAUTION  Neurath and Carnap versions DIFFER; NOT simple reduction
+                        to private sensation
+   UNITY OF SCIENCE     the sciences coordinated in a COMMON LANGUAGE or ENCYCLOPEDIA
+                        CAUTION  'unity' may mean TRANSLATION, COORDINATION or
+                        METHODOLOGICAL INTEGRATION - NOT one settled reduction theorem
+   TRAP  'the logical positivists held that all sciences reduce to physics' attributes to
+   the school a thesis its two principal figures DISPUTED
+   QUINE'S BOUNDED ATTACK  the internal/external distinction depends on an analytic/
+   synthetic boundary he rejects; he favours ontology CONTINUOUS with total theory
+   CARNAPIAN REPLY  pragmatic framework choice need NOT be a disputed analytic truth
+   VERDICT  tolerance REFINES anti-metaphysics; Quine PRESSURES but does not by assertion
+   SETTLE the boundary on which that refinement depends                       TOPIC 11
+
+ASCII MASTER FLOW — PANEL 29/30: THE CRITICISM LEDGER - FOUR PRESSURES RANKED
+==============================================================================
+   THE FOUR PRESSURES, RANKED BY WHAT THEY ACTUALLY DID
+   1 STRONG/WEAK FORK      INTERNAL, decisive. Church 1949: NO FORMULATION EVER WORKED
+                           see panels [10] [11] [12]
+   2 PROTOCOL DEBATE       INTERNAL, structural. A CHOSEN base cannot ground a criterion
+                           advertised as a DISCOVERY about meaning                     [26]
+   3 ANALYTICITY + HOLISM  Quine 1951: (i) analytic/synthetic cannot be non-circularly
+                           defined -> the LINGUISTIC THEORY rests on an unclear category;
+                           (ii) reductionism is false - statements face experience as a
+                           CORPORATE BODY                                        TOPIC 11
+   4 SELF-REFUTATION       the principle is NEITHER analytic NOR verifiable -> meaningless
+                           by its own standard
+       REPLY (i)   a RECOMMENDATION about how to use 'meaningful'
+                   COST  retreats from a DISCOVERY to a POLICY; then why MUST anyone accept
+       REPLY (ii)  ANALYTIC OF the positivists' proposed concept of meaning
+                   COST  CIRCULAR - it defines meaning so as to save itself
+       REPLY (iii) a META-LINGUISTIC RULE, not an object-language statement
+                   COST  still needs justification; the question RECURS at the meta-level
+       RESIDUE  the proposal/rule reply avoids DIRECT contradiction but WEAKENS the claim
+       from a discovered fact about all meaning to a RECOMMENDED LINGUISTIC POLICY
+   CONTRASTS, NOT REPAIRS
+     POPPER  DEMARCATION, not meaning; metaphysics MEANINGFUL; 'official opposition'
+     LATER WITTGENSTEIN  rejects ONE essence/criterion of meaning; varied uses in
+       language-games; POSITIVE THEORY = TOPIC 08
+     ORDINARY LANGUAGE  Ryle/Austin-style: commands, avowals, performatives, jokes,
+       mathematics and religious practices may not be FAILED EMPIRICAL REPORTS at all.
+       This does NOT vindicate metaphysics; it challenges the ONE-MODEL assumption
+   HISTORICAL END  Schlick MURDERED 1936; the Circle disperses under political pressure;
+   members emigrate. Institutional and philosophical ends are DISTINCT
+ASCII MASTER FLOW — PANEL 30/30: PYQ ROUTING, ANSWER SPINE AND QUALIFIED CONCLUSION
+==============================================================================
+   PYQ ROUTING - 7 OWNED PARTS OF 112, 2018-2025;  2022 IS THE ONLY EMPTY YEAR
+   2018 Q3(b) 15  how shown meaningless + ALL scientific sentences?   [17][18] then [25]
+   2019 Q2(a) 20  meaning of GENERAL statements + extension?          [25] both halves
+   2020 Q1(e) 10  'The Soul of Superman is Good'                      [22] the SPLIT
+   2021 Q2(b) 15  pseudostatements: what + how identified + examples  [17][18][19]
+   2023 Q3(a) 20  meaning / knowledge / nature of things?             [20] then [28][29]
+   2024 Q3(b) 15  tautology vs observation - 'in the same way'?       [24] answer NO
+   2025 Q3(b) 15  exposition + strong/weak                            [07][10][11][12]
+   SUPPORTING, OWNED ELSEWHERE  2019 Q1(e) 10 and 2024 Q4(c) 15 (TOPIC 11, Quine) -
+   2025 Q3(a) 20 (TOPIC 08, Later Wittgenstein) - boundary clauses only
+   ------------------------------------------------------------------------------------------
+   ANSWER SPINE
+   10 MARKS  state the criterion -> one FALSE-BUT-MEANINGFUL illustration -> the verdict
+             word -> ONE qualification
+   15 MARKS  frame (meaning NOT truth) -> exposition of BOTH halves of the biconditional ->
+             the specific doctrine asked for -> ONE named objection with its reply ->
+             graded verdict
+   20 MARKS  frame -> full doctrine -> the hard cases -> at least TWO of the four pressures,
+             ranked and with at least one INTERNAL -> the doctrine's own DEVELOPMENT
+             (Carnap after Ayer) -> qualified conclusion
+   DIRECTIVES  'exposition' demands BOTH halves - 'differentiate' demands the DILEMMA, not
+   two definitions - 'how does one identify' demands a PROCEDURE - 'critically' demands the
+   opponent's REPLY reported before the ruling - 'all of them together' demands an ORDERING
+   ------------------------------------------------------------------------------------------
+   QUALIFIED CONCLUSION
+   Logical positivism proposed a single test to separate what can be said from what only
+   looks as if it were said, and the test failed in four different ways - two of them
+   discovered by positivists themselves. It survives not as a doctrine but as a discipline:
+   the difference-argument as a heuristic of significance, the demand for explicit rules
+   rather than obscurity, the permanent separation of criteria of MEANING, of TRUTH and of
+   SCIENTIFIC STATUS, and an agenda - confirmation, demarcation, holism, analyticity - that
+   is simply the list of problems the Circle could not solve.
+   STATE THE ACHIEVEMENT AND ITS MATCHING COST IN THE SAME SENTENCE.

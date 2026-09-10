@@ -1,2305 +1,1413 @@
 ---
-title: "Mimamsa (Mīmāṃsā) — Learner-v2"
+title: "Mīmāṃsā — Solved Practice Workbook"
 topic_key: philosophy-paper-i-indian-philosophy-07
-cover_image: assets/philosophy-paper-i-indian-philosophy-07/english-first-concept-spine.png
 variant: learner-v2
-generation: 4
-generation_date: 2026-09-02
 ---
-# Mimamsa (Mīmāṃsā) — Learner-v2 Source-Complete Learning Session
+# Mīmāṃsā — Solved Practice Workbook
 
-> **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the canonical owner and verified 2018–2025 PYQ ledger.
+> **How to use this workbook.** Attempt every item before reading its key. The correct option position was fixed independently for each question from a randomised draw, so no rotation or predictable sequence can be exploited. Every option carries a question-specific explanation and every question carries a unique examiner trap. The solved previous-year questions reproduce the official printed wording exactly; the model answers are independent learner practice and are never official UPSC keys.
 
-## BASIC LEARNING SESSION
+> **Contents.** 24 core diagnostics and 8 remedial drills, then 14 solved previous-year questions — every part primary-owned by syllabus item 18 across 2018–2025 — followed by six original solved Mains models at 2 × 10, 2 × 15 and 2 × 20 marks.
 
-
-
-### ENGLISH-FIRST TERMINOLOGY KEY
-
-- **self-luminosity (svayaṃprakāśatva)**
-
-![Mimamsa (Mīmāṃsā) English-first concept spine](assets/philosophy-paper-i-indian-philosophy-07/english-first-concept-spine.png)
-
-*Concept spine: English concepts lead; Sanskrit/Pali IAST follows immediately.*
-
-*Concept spine: English concepts lead; Sanskrit/Pali IAST follows immediately.*
-
-*Concept spine: English concepts lead; Sanskrit/Pali IAST follows immediately.*
-
-> **Syllabus (verbatim):** Mimamsa: Theory of Knowledge.
-> **Source order actually used:** canonical owner `paper-1/indian/Mimamsa.md`; local OCR-searchable Chatterjee-Datta, C.D. Sharma and Radhakrishnan chapters; official contemporary linkage from Central Sanskrit University; Qdrant not required.
-> **Source limitation:** OCR noise in the local philosophy scans was cross-checked against the canonical owner and the verified PYQ ledger. No noisy OCR sentence is reproduced as a quotation.
-> **Evidence key:** ✅ direct source or canonical doctrine · ⚠️ analysis, comparison or evaluative synthesis · ❓ contested or development-stage claim.
-
-### How to use this layered session
-
-Every logical subtopic follows the Philosophy five-layer sequence:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Plain-language visual gateway |
-| 2. CORE UPSC | Complete retained doctrine, terminology, arguments and examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and marks-wise answer structure |
-| 5. RAPID REVISION | Traps, recall spines and mastery preparation |
-
-**Source audit:** the canonical Mimamsa knowledge file and complete 2018-2025 Indian Philosophy PYQ bank were checked. The source session's direct OCR anchors to Chatterjee-Datta, C. D. Sharma and Radhakrishnan are retained. The official Central Sanskrit University 2026-27 programme and Sanskrit-promotion context was rechecked and is used only as educational linkage, not as proof of classical doctrine. Qdrant was not required.
-
-**Preservation note:** every substantive section of the earlier complete session is retained. The new material adds simple visual gateways and explicit learning layers without replacing or compressing the original depth.
-
----
-
-### SESSION 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)
-
-#### Plain-language visual - from command to delayed result
-
-```text
-VEDIC INJUNCTION
-      |
-reveals what ought to be done
-      |
-qualified agent performs the rite
-      |
-UNSEEN RITUAL POTENCY (apūrva) carries efficacy beyond the visible act
-      |
-promised fruit matures later
-```
-
-**In simple words:** Mimamsa asks how supersensible duty can be known and how a temporary ritual act can produce a later result. Its epistemology and language theory protect this action-guiding role of the Veda.
-
-| Term | Easy meaning |
-|---|---|
-| Vedic duty (dharma) | Supersensible duty |
-| Injunction (codanā) / prescriptive injunction (vidhi) | Vedic injunction |
-| Impelling force (bhāvanā) | Impelling and productive force |
-| Obligation (niyoga) | Binding to-be-done |
-| Unseen ritual potency (apūrva) | Unseen link between act and fruit |
-
-> **Memory line:** Mimamsa is knowledge organised around duty and action.
-
-#### 0. ONE-SCREEN MAP
-
-```text
-MIMAMSA = inquiry into Vedic duty (dharma) through Vedic injunction
-        |
-        +-- REALIST BACKGROUND
-        |   +-- real world, enduring self, karmic continuity
-        |
-        +-- EPISTEMIC THESIS
-        |   +-- intrinsic validity (svataḥ-prāmāṇya) = validity intrinsic
-        |   +-- externally established invalidity (parataḥ-aprāmāṇya) = invalidity
-          discovered later
-        |
-        +-- MEANS OF VALID KNOWLEDGE (pramāṇas)
-        |   +-- Prabhakara: 5
-        |   +-- Bhatta: 6 (adds anupalabdhi)
-        |
-        +-- KEY SPECIALTIES
-        |   +-- postulation (arthāpatti) = compelled postulation
-        |   +-- non-cognition (anupalabdhi) = knowledge of absence
-        |   +-- non-discrimination theory of error (akhyāti) vs contrary-cognition
-          theory of error (viparīta-khyāti)
-        |   +-- threefold awareness (tripuṭī-saṃvit) vs knownness (jñātatā)
-        |   +-- abhihitanvaya vs anvitabhidhana
-        |
-        +-- HERMENEUTIC GOAL
-        |   +-- injunction (codanā) -> duty -> action -> unseen ritual potency (apūrva) -> fruit
-        |
-        +-- VEDIC CLAIM
-            +-- Veda is apauruseya, eternal, self-valid for Vedic duty (dharma)
-```
-
-> ✅ The school is not "ritualism plus a few epistemic ideas." Its epistemology, semantics and anti-theistic theology are all designed to secure objective knowledge of Vedic duty (dharma).
-
-#### 1. ORIENTATION, TEXTS, AND THINKERS
-
-✅ **Pūrva-Mīmāṃsā** is earlier than Uttara-Mīmāṃsā primarily in a **logical** sense: it begins with duty, injunction and ritual action, whereas Vedānta begins with ultimate reality. Chatterjee and Datta explicitly describe Mīmāṃsā as serving ritualism in **two ways** - by offering a method of Vedic interpretation and by supplying a philosophical justification of the faith presupposed by ritual action.
-
-✅ The intellectual center is **dharma-jijñāsā**. Jaimini's project is not to speculate first about God or Brahman, but to ask how duty is known, how injunction binds, how ritual yields fruit, and why Vedic testimony should be trusted when Vedic duty (dharma) is supersensible.
-
-| Thinker / text | Role in the system | What to remember for UPSC |
-|---|---|---|
-| **Jaimini - Mīmāṃsā-sūtra** | foundational statement of dharma-jijñāsā | `codana-laksano'rtho dharmah` is the governing formula |
-| **Śabara - Śābara-bhāṣya** | classical base commentary | later debate takes shape through his exegetical frame |
-| **Kumārila Bhaṭṭa** | Bhāṭṭa line; stronger realist and polemical style | six means of valid knowledge (pramāṇas), non-cognition (anupalabdhi), knownness (jñātatā), contrary-cognition theory of error (viparīta-khyāti) |
-| **Prabhākara Miśra** | Prābhākara line; greater economy | five means of valid knowledge (pramāṇas), threefold awareness (tripuṭī-saṃvit), non-discrimination theory of error (akhyāti), anvitābhidhāna |
-| **Later manual writers** | systematizers and transmitters | Parthasārathi, Śālikanātha and later digests help with technical vocabulary |
-
-⚠️ Radhakrishnan and Sharma both show the same broad pattern: **the school shares realism, Vedic authority and intrinsic validity, but splits sharply on absence, error, self-awareness and sentence meaning**. That unity-in-difference is the safest exam posture.
-
-#### 1.1 Why Mimamsa is a major UPSC topic
-
-1. ✅ It gives the strongest Indian defense of **default trust in cognition**.
-2. ✅ It refuses to reduce all mediate knowledge to inference, thereby protecting **postulation (arthāpatti)** and, for Bhāṭṭa, **non-cognition (anupalabdhi)**.
-3. ✅ It connects epistemology to **language**, **injunction**, **ritual efficacy**, and **textual interpretation**.
-4. ✅ It offers a strikingly **orthodox yet anti-theistic** model: Veda is secured not by God, but by authorlessness.
-5. ✅ Recent UPSC papers repeatedly ask the internal Bhāṭṭa-Prābhākara debates, not generic summary alone.
-
-#### 1.2 Minimal metaphysical background
-
-- ✅ The world is real, not a mere appearance or projection.
-- ✅ The self is enduring enough to be knower, doer and enjoyer.
-- ✅ Action and moral consequence (karma) must connect an act and its later fruit.
-- ✅ Vedic duty (dharma) is supersensible and therefore unavailable to mere perception.
-- ✅ Hence epistemology, semantics and ritual hermeneutics are structurally connected.
-
-#### 2. VISUAL - KNOWLEDGE IN DEFENCE OF VEDIC DUTY (dharma)
-
-The visual keeps the whole optional route in view: epistemology protects Vedic authority, Vedic authority grounds duty, duty becomes action through injunction, and action yields fruit through unseen ritual potency (apūrva) without needing a creator-God.
-
-#### 3. VEDIC DUTY (dharma), INJUNCTION (codanā), PRESCRIPTIVE INJUNCTION (vidhi), UNSEEN RITUAL POTENCY (apūrva), IMPELLING FORCE (bhāvanā), OBLIGATION (niyoga)
-
-> ✅ **Jaimini's formula:** `codana-laksano'rtho dharmah` - Vedic duty (dharma) is that end or object characterized by Vedic injunction.
-
-#### 3.1 Vedic duty (dharma) is known as what ought to be done
-
-✅ Mīmāṃsā does not define Vedic duty (dharma) as bare moral feeling. It defines Vedic duty (dharma) as what the Veda **enjoins**. Therefore its central sentence-type is **prescriptive injunction (vidhi)** (injunction), complemented by **niṣedha** (prohibition).
-
-| Term | Meaning | Why it matters |
-|---|---|---|
-| **Vedic duty (dharma)** | supersensible duty known through Vedic injunction | gives the entire school its objective |
-| **Injunction (codanā) / prescriptive injunction (vidhi)** | impelling Vedic command | makes the sentence action-guiding rather than merely descriptive |
-| **Niṣedha** | prohibition | marks what ought not to be done |
-| **Unseen ritual potency (apūrva)** | unseen potency generated by correct ritual action | links a perishing act to a delayed fruit |
-| **Śābdī impelling force (bhāvanā)** | linguistic impelling force of the injunction | explains how the word motivates action |
-| **Ārthī impelling force (bhāvanā)** | real productive force of the agent's performance | explains how action leads to result |
-| **Obligation (niyoga)** | the binding “to-be-done” | central to Prābhākara duty theory |
-
-#### 3.2 From Vedic sentence to ritual fruit
-
-```text
-Vedic injunction heard
-        ->
-qualified agent understands duty
-        ->
-linguistic force (sabdi bhavana) produces undertaking
-        ->
-ritual act is performed with proper accessories
-        ->
-real productive force (arthi bhavana) operates
-        ->
-unseen ritual potency (apūrva) persists after the visible act ends
-        ->
-promised fruit matures later
-```
-
-#### 3.3 Bhāṭṭa versus Prābhākara on obligation
-
-| Issue | Bhāṭṭa Mīmāṃsā | Prābhākara Mīmāṃsā |
-|---|---|---|
-| Immediate theory | **Bhāvanā-vāda** | **Niyoga-vāda** |
-| What binds? | injunction impels action toward a desired result | injunction directly presents the act as to-be-done |
-| Motivation | qualified desire, especially for phala such as heaven | categorical obligation for the adhikārin |
-| Standard contrast | closer to result-oriented ritual psychology | closer to deontological duty |
-
-⚠️ A controlled comparison with Kant is permissible only as a **last-line analogy**. Prābhākara duty is not grounded in autonomous rational law, but in the impersonal authority of the Veda.
-
-#### 3.4 Aṃśa-traya - the three questions every injunction must answer
-
-✅ Mīmāṃsā analyzes injunction through three factors:
-
-1. **bhāvya / sādhya** - what is to be brought about;
-2. **karaṇa / sādhana** - by what means;
-3. **itikartavyatā** - how exactly it is to be done.
-
-In `svargakamo yajeta`, heaven is the end, sacrifice is the means, and the whole ritual procedure gives the "how".
-
-#### 3.5 Vedānta objection and Mīmāṃsā reply
-
-- ❌ **Objection:** Upaniṣadic statements such as `tat tvam asi` reveal an already accomplished reality and cannot be reduced to injunction.
-- ✅ **Mīmāṃsā reply:** Vedic purposiveness becomes unintelligible if scriptural meaning is detached from action. Therefore even non-injunctive passages are interpreted through their relation to ritual or contemplative practice.
-- ⚠️ **Residual pressure:** this is exactly where Pūrva-Mīmāṃsā and Vedānta part company most sharply.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)
-        ->
-0. ONE-SCREEN MAP
-        ->
-1. ORIENTATION, TEXTS, AND THINKERS
-        ->
-1.1 Why Mimamsa is a major UPSC topic
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 2 — Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture
-
-#### Plain-language visual - trust first, revise when defeated
-
-```text
-COGNITION ARISES
-      |
-prima facie authority
-      |
-act on it normally
-      |
-later contradiction or defect?
-   no -> remains valid
-   yes -> invalidity discovered externally
-```
-
-**In simple words:** Mimamsa says knowledge does not wait for a second certificate before it can guide action. Cognition is trusted by default; error is established later through defeat.
-
-| School | Means of valid knowledge (pramāṇas) |
-|---|---:|
-| Prabhakara | 5 |
-| Bhatta | 6, adding non-cognition (anupalabdhi) |
-| Nyaya | 4 |
-
-> **Memory line:** intrinsic validity is defeasible default trust, not infallibility.
-
-#### 4. VALIDITY AND MEANS OF VALID KNOWLEDGE (pramāṇa) ARCHITECTURE
-
-#### 4.1 Intrinsic validity (svataḥ-prāmāṇya) and externally established invalidity (parataḥ-aprāmāṇya)
-
-✅ Mīmāṃsā holds that cognition is **prima facie valid by its own occurrence** under normal conditions. One does not wait for a second certificate before acting. Falsity, by contrast, is detected **later** through contradiction, defect or practical defeat.
-
-| Aspect | Mimamsa claim | Meaning |
-|---|---|---|
-| **Origin of validity** | intrinsic | the same conditions that produce cognition produce its authority |
-| **Awareness of validity** | intrinsic | cognition presents itself as trustworthy without needing prior verification |
-| **Origin of invalidity** | extrinsic | falsity arises from defect, mislocation, or counterevidence |
-| **Awareness of invalidity** | extrinsic | later correction, contradiction or discovery of defect reveals it |
-
-> 🔑 **Exam formula:** default validity is **not** infallibility. The doctrine says “trust first, revise when defeated,” not “whatever appears is eternally true.”
-
-#### 4.2 Why Mimamsa defends intrinsic validity
-
-1. ✅ Otherwise every cognition would need another cognition to validate it.
-2. ✅ The validator would itself need validation.
-3. ✅ Infinite regress would follow.
-4. ✅ Practical life would never begin.
-5. ✅ Therefore default epistemic trust is built into cognition itself.
-
-Chatterjee and Datta summarize the doctrine in a memorable way: **belief is normal; disbelief is exceptional**.
-
-#### 4.3 Nyāya contrast - external validation (parataḥ-prāmāṇya)
-
-✅ Naiyāyikas stress successful activity, correspondence and later reflective certification. Mimamsa objects that such external validation already presupposes trust in the cognition on which one acts.
-
-| Issue | Mimamsa | Nyāya |
-|---|---|---|
-| starting status of cognition | trusted unless defeated | validated by something outside the first cognition |
-| standard concern | anti-regress and default authority | verification, successful action, reflective certainty |
-| major risk | critics charge gullibility | critics charge regress or hidden prior trust |
-
-#### 4.4 The means of valid knowledge (pramāṇa) map
-
-| School | Accepted means of valid knowledge (pramāṇas) |
-|---|---|
-| **Sāṃkhya** | perception, inference, testimony |
-| **Nyāya** | perception, inference, comparison, testimony |
-| **Prābhākara Mīmāṃsā** | perception, inference, comparison, testimony, postulation (arthāpatti) |
-| **Bhāṭṭa Mīmāṃsā** | perception, inference, comparison, testimony, postulation (arthāpatti), non-cognition (anupalabdhi) |
-
-#### 4.5 Why memory is not a means of valid knowledge (pramāṇa)
-
-✅ Both Prābhākara and Nyāya reject memory as a source of valid knowledge because it does **not** disclose a previously unknown object. It re-presents old content, and its dependence on prior cognition is exactly why it lacks pramāṇa-status.
-
-| Fresh cognition | Memory |
-|---|---|
-| reveals what is not yet known as presently cognized | depends on an earlier cognition and a residual impression |
-| can count as valid cognition (pramā) | can be true, but is not a means of valid knowledge (pramāṇa) |
-| basis of present disclosure | basis of re-presentation |
-
-#### 4.6 Two master warnings
-
-1. ⚠️ **Intrinsic validity (svataḥ-prāmāṇya)** is a thesis about **validity**, not automatically about **self-awareness**.
-2. ⚠️ **Self-luminosity** and **intrinsic validity** often travel together, but the Bhāṭṭa position proves they are conceptually distinct.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture
-        ->
-4. VALIDITY AND MEANS OF VALID KNOWLEDGE (pramāṇa) ARCHITECTURE
-        ->
-4.1 Intrinsic validity (svataḥ-prāmāṇya) and externally established invalidity
-  (parataḥ-aprāmāṇya)
-        ->
-4.2 Why Mimamsa defends intrinsic validity
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 3 — Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence
-
-#### Plain-language visual - two special knowledge situations
-
-```text
-DEVADATTA IS STOUT
-+ DOES NOT EAT BY DAY
-        |
-facts cannot stand together unaided
-        |
-POSTULATE NIGHT EATING        = POSTULATION (arthāpatti)
-
-WELL-LIT EMPTY TABLE
-+ JAR WOULD BE SEEN IF PRESENT
-        |
-JAR IS ABSENT                 = NON-COGNITION (anupalabdhi)
-```
-
-**In simple words:** postulation (arthāpatti) supplies the fact required to make accepted data coherent. Non-cognition (anupalabdhi) knows absence when all conditions for seeing a present object are satisfied.
-
-> **Memory line:** explanatory compulsion is not mere guess; meaningful non-perception is not mere ignorance.
-
-#### 5. POSTULATION (arthāpatti) AND NON-COGNITION (anupalabdhi)
-
-#### 5.1 Postulation (arthāpatti) - compelled explanatory postulation
-
-✅ Postulation (arthāpatti) is not a guess and not a loose “best explanation.” It is the **necessary postulation** of an unseen fact without which accepted facts would remain incompatible.
-
-#### 5.2 The Devadatta model
-
-```text
-Known fact 1: Devadatta is stout.
-Known fact 2: Devadatta does not eat during the day.
-Tension: stoutness and total non-nourishment cannot stand together.
-Postulate: Devadatta must eat at night.
-```
-
-✅ Chatterjee and Datta distinguish **dṛṣṭārthāpatti** (used to explain what is observed) and **śrutārthāpatti** (used to explain what is heard). UPSC usually expects the **stout Devadatta** example first.
-
-#### 5.3 Why Nyāya reduction to inference is resisted
-
-| Nyāya reduction attempt | Mimamsa reply |
-|---|---|
-| convert the case into a universal: “all stout day-fasters eat at night” | the alleged universal is not independently known; it is extracted from the very postulatory situation |
-| treat stoutness as hetu and night-eating as sādhya | the cognitive movement is from incompatibility to explanatory supplementation, not from sign to signified |
-| call it a disguised inference | it lacks the standard pakṣa-hetu-sādhya structure and depends on explanatory necessity |
-
-⚠️ The safest verdict is: **postulation (arthāpatti) is the epistemology of explanatory compulsion**.
-
-#### 5.4 The 2024 candidate-success application
-
-✅ If a candidate is never seen studying during the day and still tops an exam, a Bhāṭṭa Mīmāṃsaka postulates unseen preparation - probably night study or another unobserved time-slot. A Naiyāyika tries to reconstruct the case as inference from a rule connecting success and preparation. The question tests whether you can preserve that difference.
-
-#### 5.5 Non-cognition (anupalabdhi) - knowledge of absence
-
-✅ **Bhāṭṭa Mīmāṃsā** alone among the two sub-schools grants **non-cognition (anupalabdhi)** independent pramāṇa-status. It is knowledge of absence through **non-apprehension of what would be apprehended if present**.
-
-#### 5.6 Eligible non-cognition (yogyānupalabdhi) - the limiting condition
-
-For valid absence-cognition, the following must be in place:
-
-1. ✅ the object must be perceptible in principle;
-2. ✅ the locus must be properly available;
-3. ✅ the relevant sense-organ must be functioning;
-4. ✅ lighting, distance and attention must be appropriate.
-
-Only then does non-perception justify the judgment “the book is not on the table.” One cannot move from failure to see atoms to the conclusion that there are no atoms, because atoms are not perceptible objects of that kind.
-
-#### 5.7 Nature of absence (abhāva) and its knowledge
-
-| View | What is absent? | How known? |
-|---|---|---|
-| **Bhāṭṭa** | absence (abhāva) is real and structured by a counterpositive | known through non-cognition (anupalabdhi) |
-| **Prābhākara** | what is directly given is the bare locus unqualified by the missing object | no separate means of valid knowledge (pramāṇa) needed |
-| **Nyāya** | absence is a real category | often treated as perceptible or inferable, not requiring a separate non-cognition (anupalabdhi) |
-
-⚠️ The Bhāṭṭa view pays an ontological cost - reality contains structured negatives - but it preserves the determinacy of everyday negative cognition.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence
-        ->
-5. POSTULATION (arthāpatti) AND NON-COGNITION (anupalabdhi)
-        ->
-5.1 Postulation (arthāpatti) - compelled explanatory postulation
-        ->
-5.2 The Devadatta model
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 4 — Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories
-
-#### Plain-language visual - how is knowing itself known?
-
-```text
-PRABHAKARA: knower + object + cognition appear together
-BHATTA:     object's being-known points to the cognition
-NYAYA:      later reflection says "I know the object"
-
-ILLUSION:
-Prabhakara -> perception and memory not discriminated
-Bhatta     -> positive false synthesis under defect
-```
-
-**In simple words:** the two Mimamsa schools agree that cognition is trusted by default but disagree about how cognition becomes known and how illusion occurs.
-
-> **Memory line:** shared validity theory does not erase different accounts of awareness and error.
-
-#### 6. SELF-AWARENESS AND ERROR
-
-#### 6.1 How do I know that I know?
-
-| School | How cognition is known | Core term |
-|---|---|---|
-| **Prābhākara** | cognition reveals knower, known and itself together | **threefold awareness (tripuṭī-saṃvit)** |
-| **Bhāṭṭa** | cognition is inferred from the cognizedness of the object | **knownness (jñātatā)** |
-| **Nyāya** | a second-order reflective awareness takes the first cognition as its object | **anuvyavasāya** |
-
-#### 6.2 Threefold awareness (tripuṭī-saṃvit)
-
-✅ In every cognition, Prābhākara says the triad is simultaneously given:
-
-- **jñātṛ** - the knower,
-- **jñeya** - the known object,
-- **knowledge (jñāna)** - the cognition itself.
-
-This blocks regress: if cognition were not manifest in the very act of knowing, another cognition would be needed to reveal it.
-
-#### 6.3 Knownness (jñātatā)
-
-✅ Kumārila denies that cognition is self-luminous. What is directly secured is the object's state of **being-known**. From that cognizedness, a cognition is inferred.
-
-⚠️ This is the exact Bhāṭṭa proof that **intrinsic validity** does not logically require **self-luminosity**.
-
-#### 6.4 Error theory - non-discrimination theory of error (akhyāti) versus contrary-cognition theory of error (viparīta-khyāti)
-
-| Issue | Prābhākara | Bhāṭṭa |
-|---|---|---|
-| Basic claim | no single false cognition is required | a genuinely false cognition occurs under defective conditions |
-| Standard model | shell is perceived; silver is remembered; difference is not discriminated | shell is positively misapprehended as silver |
-| Name | **non-discrimination theory of error (akhyāti) / vivekākhyāti** | **contrary-cognition theory of error (viparīta-khyāti)** |
-| Why it matters | protects truth of each constituent cognition | explains the assertive force of illusion more naturally |
-
-#### 6.5 Cross-school comparison
-
-| School | Theory of error | Central idea |
-|---|---|---|
-| **Prābhākara** | non-discrimination theory of error (akhyāti) | non-discrimination between valid perception and valid memory |
-| **Bhāṭṭa** | contrary-cognition theory of error (viparīta-khyāti) | positive misapprehension caused by defect |
-| **Nyāya** | anyathā-khyāti | a real object known elsewhere is misrelated here |
-| **Advaita** | anirvacanīya-khyāti | the illusory object is neither fully real nor unreal |
-
-⚠️ The 2022 twenty-marker turns on the paradox: **both sub-schools keep intrinsic validity, yet one minimizes falsity while the other allows error under extrinsic defect**.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories
-        ->
-6. SELF-AWARENESS AND ERROR
-        ->
-6.1 How do I know that I know?
-        ->
-6.2 Threefold awareness (tripuṭī-saṃvit)
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 5 — Word Meaning, Sentence Meaning and Ritual Hermeneutics
-
-#### Plain-language visual - two routes from words to a sentence
-
-```text
-BHATTA:
-word 1 meaning + word 2 meaning + word 3 meaning
-                     |
-                  connection
-                     v
-              sentence meaning
-
-PRABHAKARA:
-each word already conveys meaning-in-relation
-                     |
-                     v
-              sentence meaning directly
-```
-
-**In simple words:** Bhatta begins with stable lexical units and then composes them. Prabhakara begins with connected practical language-use.
-
-| Sentence condition | Meaning |
-|---|---|
-| Akanksa | Mutual expectancy |
-| Yogyata | Semantic fitness |
-| Sannidhi | Proper proximity |
-
-> **Memory line:** one theory composes meanings; the other receives them already connected.
-
-#### 7. VERBAL TESTIMONY (śabda), WORD-MEANING, SENTENCE-MEANING, AND RITUAL HERMENEUTICS
-
-#### 7.1 Why language matters so much
-
-✅ Mīmāṃsā is a school of **textual action-guidance**. It therefore asks not merely what words mean, but how a string of words becomes a binding unit of duty. The great question is **ekavākyatā** - sentence-unity.
-
-#### 7.2 Shared conditions of sentence unity
-
-| Condition | Meaning | Failure case |
-|---|---|---|
-| **ākāṅkṣā** | mutual expectancy among words | a verb with no completing object or subject |
-| **yogyatā** | semantic fitness | impossible combination like “sprinkle with fire” in ordinary usage |
-| **sannidhi / āsatti** | proper proximity or contiguity | words too far apart to belong to one sentence |
-
-⚠️ Naiyāyikas often add **tātparya** as speaker's intention. Mīmāṃsā cannot ground the Veda in the psychology of a speaker, because the Veda is **apauruṣeya**.
-
-#### 7.3 Designation-then-connection theory (abhihitānvayavāda) versus connected-designation theory (anvitābhidhānavāda)
-
-| Question | Bhāṭṭa answer | Prābhākara answer |
-|---|---|---|
-| What do words first convey? | isolated word-meanings | connected meanings already in relation |
-| Sentence meaning arises how? | by connecting what words have already denoted | directly through words as context-bound conveyors |
-| Usual label | **designation-then-connection theory (abhihitānvayavāda)** | **connected-designation theory (anvitābhidhānavāda)** |
-| Pedagogic intuition | lexical units first, then composition | practical sentence-use first, isolated meaning is derivative |
-
-✅ Bhāṭṭa secures stable lexical meaning. ✅ Prābhākara secures contextual and action-guiding meaning. UPSC rewards answers that state both gains and both costs.
-
-#### 7.4 Do words refer to universals or particulars?
-
-✅ Mīmāṃsā generally gives semantic priority to **jāti** (universal), whereas Nyāya gives priority to the **qualified individual**. The dispute is not whether words can reach individuals at all, but **what explains repeatable meaning**.
-
-| Position | Why it chooses that priority |
-|---|---|
-| **Mīmāṃsā** | the same word applies across many individuals; universality explains repeatability |
-| **Nyāya** | actual action concerns qualified individuals; universals function within that concrete referent |
-
-#### 7.5 Ritual hermeneutics
-
-✅ Mīmāṃsā is also a theory of interpretation. The school develops ranked interpretive clues so that Vedic texts can be harmonized without collapse into arbitrariness.
-
-| Hermeneutic cue | Use |
-|---|---|
-| **śruti** | explicit statement |
-| **liṅga** | indicative mark or clue |
-| **vākya** | sentence-unity |
-| **prakaraṇa** | larger context or topic |
-| **sthāna** | placement |
-| **samākhyā** | title or heading-name |
-| **utsarga / apavāda** | general rule and exception |
-
-⚠️ These are not decorative scholastic devices. They are the technical engine by which ritual duty is extracted from a large authorless corpus.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Word Meaning, Sentence Meaning and Ritual Hermeneutics
-        ->
-7. VERBAL TESTIMONY (śabda), WORD-MEANING, SENTENCE-MEANING, AND RITUAL HERMENEUTICS
-        ->
-7.1 Why language matters so much
-        ->
-7.2 Shared conditions of sentence unity
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 6 — Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)
-
-#### Plain-language visual - authority by removing the author
-
-```text
-PERSONAL AUTHOR
-can be ignorant, deceptive or partial
-        |
-MIMAMSA EXCLUDES AUTHORSHIP
-        |
-eternal word-meaning relation + unique access to Vedic duty (dharma)
-        |
-VEDIC AUTHORITY
-
-ritual action -> unseen ritual potency (apūrva) -> fruit
-No creator or fruit-dispenser God required.
-```
-
-**In simple words:** Nyaya protects scripture through a perfect author. Mimamsa protects it by denying that it has an author at all.
-
-> **Memory line:** exclude the source of authorial defect rather than perfect the author.
-
-#### 8. VEDIC AUTHORLESSNESS (apauruṣeyatva), VEDIC AUTHORITY, SELF, WORLD, GOD, ACTION AND MORAL CONSEQUENCE (karma), LIBERATION (mokṣa)
-
-#### 8.1 Why Vedic authority matters
-
-✅ Perception shows visible things. Inference extends from marks to unobserved correlates. But **Vedic duty (dharma)** is neither visibly given nor inferable from ordinary worldly signs. Therefore **verbal testimony (śabda)**, especially Vedic verbal testimony (śabda), becomes indispensable.
-
-#### 8.2 Vedic authorlessness (apauruṣeyatva) and eternity of word (śabda-nityatva)
-
-✅ Mīmāṃsā defends the Veda as **authorless** and, in the relevant sense, **eternal**.
-
-Main argumentative moves:
-
-1. ✅ there is no remembered historical author of the Veda;
-2. ✅ authorship would import the possibility of ignorance, deception or partiality;
-3. ✅ word-meaning relation is treated as **autpattika** - natural or inherent, not newly set up by convention;
-4. ✅ utterance manifests words rather than creating them anew;
-5. ✅ therefore Vedic authority need not rest on a divine or human speaker.
-
-Radhakrishnan's summary is especially useful: Mīmāṃsā protests against treating the Vedas as the work of God because a bodiless God has no organs of speech, and divine authorship would make Vedic authority depend on proving a person.
-
-#### 8.3 Why Nyāya and Mimamsa diverge over scripture
-
-| Issue | Mīmāṃsā | Nyāya |
-|---|---|---|
-| source of scriptural authority | authorless eternal Veda | omniscient reliable author (āpta), ultimately Lord (Īśvara) |
-| word-meaning relation | natural / inherent | conventional, instituted |
-| preferred strategy | protect text by excluding author | protect text by perfecting author |
-| Mimamsa objection | proving God's omniscience is harder than accepting authorlessness | authorlessness seems historically implausible |
-
-#### 8.4 Self, world and action and moral consequence (karma)
-
-- ✅ The world is real.
-- ✅ The self is enduring, not momentary.
-- ✅ The self must persist as **knower, agent and enjoyer**; otherwise the performer of ritual could not be the receiver of its fruit.
-- ✅ Action and moral consequence (karma) requires continuity between deed and consequence.
-- ✅ Unseen ritual potency (apūrva) is the unseen link between a perishing act and a delayed fruit.
-
-#### 8.5 God and anti-theism
-
-✅ Classical Pūrva-Mīmāṃsā rejects a **creator-God** and a **fruit-dispenser God**. This is not heterodoxy in the ordinary āstika sense, because orthodoxy here means fidelity to the Veda, not devotion to a creator.
-
-Main anti-theistic reasons:
-
-1. ✅ Veda does not need a divine author if it is apauruṣeya.
-2. ✅ God would become a redundant extra alongside action and moral consequence (karma) and unseen ritual potency (apūrva).
-3. ✅ If God dispenses according to action and moral consequence (karma), action and moral consequence (karma) does the real work.
-4. ✅ If God dispenses independently of action and moral consequence (karma), divine partiality appears.
-5. ✅ The potter-world analogy proves too little: we observe pots made by embodied artisans, not worlds made by bodiless creators.
-
-⚠️ **Qualification:** ritual deities are not simply erased. They remain mantra-denoted entities inside sacrificial procedure, but they are not the sovereign producers of fruits.
-
-#### 8.6 Liberation (mokṣa) in Mimamsa
-
-❓ Early Mīmāṃsā is more **svarga-oriented** than liberation-oriented. Later presentations, however, clearly describe liberation (mokṣa) as cessation of pain, embodiment and karmic entanglement.
-
-✅ Sharma is explicit that later Mīmāṃsakas treat liberation (mokṣa) negatively - as release from bondage and suffering rather than as Advaitic identity with Brahman. That caution is important: **do not Vedāntize Mīmāṃsā liberation (mokṣa)**.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)
-        ->
-8. VEDIC AUTHORLESSNESS (apauruṣeyatva), VEDIC AUTHORITY, SELF, WORLD, GOD, ACTION AND MORAL
-  CONSEQUENCE (karma), LIBERATION (mokṣa)
-        ->
-8.1 Why Vedic authority matters
-        ->
-8.2 Vedic authorlessness (apauruṣeyatva) and eternity of word (śabda-nityatva)
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 7 — Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context
-
-#### Plain-language visual - the main pressure points
-
-```text
-NYAYA    -> validity and special means of valid knowledge (pramāṇas) can be reduced externally
-ADVAITA  -> Veda also reveals accomplished reality, not only action
-BUDDHISM -> eternal words, universals and enduring self are excessive
-MIMAMSA  -> default trust + textual rules + unseen ritual potency (apūrva) preserve duty
-```
-
-**In simple words:** Mimamsa gains a powerful impersonal theory of normativity, but pays for it through eternal language, special means of valid knowledge (pramāṇas), structured absences and unseen ritual potency.
-
-> **Memory line:** its achievement is normativity without divine command; its cost is a demanding hermeneutic ontology.
-
-#### 9. MASTER COMPARISON GRID, CRITICISMS, AND UPSC TRAPS
-
-#### 9.1 Master comparison grid
-
-| Issue | Mīmāṃsā | Nyāya | Advaita Vedānta |
-|---|---|---|---|
-| validity | intrinsic | extrinsic / certification-heavy | knowledge valid until sublated within layered reality |
-| special means of valid knowledge (pramāṇas) | postulation (arthāpatti); Bhāṭṭa adds non-cognition (anupalabdhi) | reduces them where possible | often accepts six means of valid knowledge (pramāṇas) in later Advaita |
-| cognition of cognition | threefold awareness (tripuṭī-saṃvit) or knownness (jñātatā) | anuvyavasāya | self-luminous consciousness |
-| Veda | authorless and eternal | reliable because of Lord (Īśvara) | Upaniṣads reveal siddha-vastu |
-| God | no creator or fruit-dispenser needed | theistic realism | empirical Lord (Īśvara), ultimate non-dual Brahman |
-| liberation (mokṣa) | later negative release from suffering and embodiment | release from pain | knowledge of identity of enduring self (ātman) and Brahman |
-
-#### 9.2 Strong objections and the best Mimamsa replies
-
-| Objection | Best Mimamsa reply | Residual pressure |
-|---|---|---|
-| intrinsic validity licenses gullibility | default validity is defeasible and falsity is discovered later | critics ask whether this postpones rather than solves the problem |
-| postulation (arthāpatti) is hidden inference | explanatory compulsion is not the same as sign-based inference | Nyāya can still simulate many cases inferentially |
-| non-cognition (anupalabdhi) reifies negatives | determinate absence-cognition needs an object and a means of valid knowledge (pramāṇa) | ontological economy is sacrificed |
-| sentence meaning needs a speaker's intention | Vedic purport is textual and rule-governed, not psychological | meaning without intending subject remains contested |
-| authorless eternal language is implausible | authorlessness removes the whole class of authorial defects | conventionalist and Buddhist criticisms remain serious |
-| action and moral consequence (karma) needs an intelligent administrator | unseen ritual potency (apūrva) and beginningless order suffice | many still find unconscious potency obscure |
-
-#### 9.3 High-value UPSC traps
-
-1. ⚠️ **Prābhākara has five means of valid knowledge (pramāṇas), not six.**
-2. ⚠️ **Intrinsic validity (svataḥ-prāmāṇya) is not infallibilism.**
-3. ⚠️ **Bhāṭṭa can deny self-luminosity and still defend intrinsic validity.**
-4. ⚠️ **Non-discrimination theory of error (akhyāti) means non-discrimination, not total absence of cognition.**
-5. ⚠️ **Non-cognition (anupalabdhi) is a Bhāṭṭa specialty.**
-6. ⚠️ **Abhihitānvaya and anvitābhidhāna are not the same debate as universal versus individual reference, though they interact.**
-7. ⚠️ **Mīmāṃsā does not prove Veda through God; it secures Veda by excluding God as author.**
-8. ⚠️ **Liberation (mokṣa) in Mīmāṃsā is not merger into Brahman.**
-9. ⚠️ **Unseen ritual potency (apūrva) is the link between act and fruit; it is not identical with God, fate or visible physical causation.**
-10. ⚠️ **Bhāvanā-vāda and niyoga-vāda must be kept distinct.**
-
-#### 10. CONTEMPORARY LINKAGE - CENTRAL SANSKRIT UNIVERSITY, 2026-27
-
-> ✅ **Verified official anchor:** the Central Sanskrit University page for **Central Schemes - Online Application Forms** states that online applications are invited for financial assistance for the year **2026-27** under **“Schemes for Sanskrit Promotion.”** The page lists Sanskrit teaching support, programmes and activities, publication and reprint of Sanskrit books, Shastra Chudamani, scholarships in Sanskrit/Pali/Prakrit, vocational courses, and Ashtaadashi projects. The same official CSU portal was identified by web search as carrying the formal English notification dated **01/04/2026**.
-
-> ⚠️ **Why this is a legitimate Mimamsa linkage:** it does **not** prove Mīmāṃsā doctrine and should never be presented as evidence for Vedic authorlessness (apauruṣeyatva), intrinsic validity (svataḥ-prāmāṇya) or ritual efficacy. It is relevant only because Mīmāṃsā lives in a world of Sanskrit textual transmission, publication, teaching, commentary, and interpretive training. A modern state-supported Sanskrit ecosystem keeps alive the language-and-text conditions within which Vedic hermeneutics remains publicly meaningful.
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context
-        ->
-9. MASTER COMPARISON GRID, CRITICISMS, AND UPSC TRAPS
-        ->
-9.1 Master comparison grid
-        ->
-9.2 Strong objections and the best Mimamsa replies
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 8 — PYQ Routing, Answer Architecture and Complete Exam Deployment
-
-#### Plain-language visual - route the question before writing
-
-```text
-QUESTION
-  |
-  +-- validity / memory
-  +-- postulation (arthāpatti) / non-cognition (anupalabdhi)
-  +-- self-awareness / error
-  +-- word and sentence meaning
-  +-- Vedic authority / God
-  |
-technical distinction -> example -> rival -> verdict
-```
-
-**In simple words:** the 14 verified questions repeatedly test internal Bhatta-Prabhakara differences and contrasts with Nyaya or Advaita. Precision in sub-school attribution is essential.
-
-| Marks | Minimum architecture |
-|---:|---|
-| 10 | Definition -> example -> contrast -> verdict |
-| 15 | Problem -> mechanism -> objection/reply -> assessment |
-| 20 | Full distinction -> both sub-schools -> rival comparison -> judgement |
-
-> **Memory line:** attribute first, compare second, evaluate third.
-
-#### 11. PYQ ROUTING (2018-2025)
-
-> ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112 in the verified Indian Philosophy bank. Mimamsa appears in every year from 2018 through 2025.
-
-| Year | Question | Marks | Exact demand |
-|---|---|---:|---|
-| 2018 | Q8(a) | 20 marks | Does the admission of Svayaṃprakāśavāda necessarily lead to the admission of Svataḥprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāṃsakas and the Advaita Vedāntins. |
-| 2019 | Q5(e) | 10 marks | How does Mīmāṃsā establish the authority of Vedic knowledge? |
-| 2020 | Q5(c) | 10 marks | Why is memory not a valid knowledge according to Mīmāṃsā? |
-| 2021 | Q6(c) | 15 marks | What, according to Mīmāṃsakas, is the ontological status of absence (abhāva) and how does one know it? Explain and examine. |
-| 2022 | Q6(c) | 15 marks | How do Mīmāṃsakas refute the Nyāya view that Implication (arthāpatti) is reducible to Inference (anumāna) and establish Implication as an independent means of valid knowledge (pramāṇa)? Critically discuss. |
-| 2022 | Q7(a) | 20 marks | Inspite of accepting the intrinsic validity of knowledge, why and how Prabhākara and Kumārila differ in their interpretation of erroneous cognition? Discuss. |
-| 2023 | Q6(b) | 15 marks | Present Bhaṭṭa’s view of non-cognition (anupalabdhi) as a valid means of knowledge. |
-| 2023 | Q8(c) | 15 marks | Do words refer to universals or particulars or both? Present an exposition of Nyāya and Mīmāṃsā position with regard to above question along with suitable examples. |
-| 2024 | Q5(d) | 10 marks | How does Bhaṭṭa’s view of nature of word-meaning and sentential-meaning differ from Prabhākara’s view? Critically discuss. |
-| 2024 | Q8(a) | 20 marks | How do I know that I know? Answer this question with reference to the Naiyāyikas, the Bhaṭṭa Mīmāṃsakas and the Prābhākaras. |
-| 2024 | Q8(b) | 15 marks | “A candidate who is never seen to be studying during the day time secures a high position in a competitive exam.” How would the Bhaṭṭa Mīmāṃsakas and the Naiyāyikas explain the success of this candidate? Discuss. |
-| 2024 | Q8(c) | 15 marks | On what grounds do the Prābhākaras and the Naiyāyikas reject memory as a source of knowledge? Discuss. |
-| 2025 | Q5(c) | 10 marks | Delineate the main points of difference between the theory of intrinsic validation (svataḥ prāmāṇyavāda) and theory of extrinsic validation (parataḥ prāmāṇyavāda) in classical Indian philosophy. |
-| 2025 | Q6(c) | 15 marks | Discuss the debate between the Bhaṭṭa and the Prabhākara mīmāṃsakas with reference to the nature of Non-existence (Abhāva) and its knowledge. |
-
-#### 12. ANSWER ARCHITECTURE
-
-#### 12.1 Ten-marker (10 marks)
-
-```text
-Define the doctrine exactly.
-State the standard example.
-Give the sub-school or rival-school contrast.
-Add one criticism or limitation.
-Close with one direct evaluative line.
-```
-
-#### 12.2 Fifteen-marker (15 marks)
-
-```text
-Frame the problem.
-Explain the mechanism in ordered steps.
-Use one example and one comparison.
-Add one objection and one reply.
-Conclude with a reasoned verdict.
-```
-
-#### 12.3 Twenty-marker (20 marks)
-
-```text
-Open with the conceptual issue, not only a definition.
-Reconstruct the doctrine in full.
-Bring in both Bhāṭṭa and Prābhākara where relevant.
-Compare with Nyāya and/or Advaita.
-State the deepest criticism and the best Mīmāṃsā reply.
-End with a graded judgement.
-```
-
-#### 13. SOURCES AND LOCAL EVIDENCE
-
-- ✅ Canonical owner read end-to-end: `upsc-ai-kit\knowledge\Philosophy\paper-1\indian\Mimamsa.md`.
-- ✅ Verified question wording and routing controlled by: `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Indian-Philosophy-2018-2025.md`.
-- ✅ Chatterjee and Datta, **Chapter IX - The Mimamsa Philosophy**, local OCR-searchable PDF `books\philosphy_books\Chatterjeedatta_introductionToIndianPhilosophy.pdf`, especially file pages **379-409** for the two-fold role of Mīmāṃsā, the list of means of valid knowledge (pramāṇas), postulation (arthāpatti), Vedic authorlessness and the non-creator stance.
-- ✅ C.D. Sharma, **Purva-Mimamsa** discussion in `books\philosphy_books\Indian-Philosophy-A-Critical-Survey.pdf`, especially searchable file pages around **203** and **233-236** for postulation (arthāpatti), knownness (jñātatā), later liberation (mokṣa) doctrine and Kumārila's historical role.
-- ✅ Radhakrishnan, **The Purva Mimamsa** chapter in `books\philosphy_books\Indian Philosophy Vol. 2 by Radhakrishnan.pdf`, especially file pages **383-414** for means of valid knowledge (pramāṇas), threefold awareness (tripuṭī-saṃvit), knownness (jñātatā), Veda, and anti-theistic argument.
-- ✅ Official contemporary linkage verified through `https://sanskrit.nic.in/schemes/central_schemes_forms.php` and the associated CSU notification identified by web search on the same official portal.
-
----
-
-#### SUBTOPIC CLOSURE FLOW
-
-```text
-PYQ Routing, Answer Architecture and Complete Exam Deployment
-        ->
-11. PYQ ROUTING (2018-2025)
-        ->
-12. ANSWER ARCHITECTURE
-        ->
-12.1 Ten-marker (10 marks)
-        ->
-UPSC distinction and qualified verdict
-```
-
-### SESSION 9 — REVIEW-PROMOTED KNOWLEDGE-SOURCE AND HERMENEUTIC COMPLETENESS
-
-This session repairs the taxonomy that a “theory of knowledge” answer presupposes but the shorter syllabus heading does not enumerate. It keeps Mīmāṃsā's ownership distinct from Nyāya and Vedānta.
-
-#### 14. TEXTUAL LINEAGE AND OWNER BOUNDARIES
-
-| Thinker / text | Secure orientation | Do not flatten |
-|---|---|---|
-| Jaimini — Mīmāṃsā Sūtra | inquiry into duty and Vedic interpretation | not a Vedānta treatise on Brahman |
-| Śabara — Śābara Bhāṣya | foundational surviving commentary | not one of the later rival sub-schools |
-| Kumārila Bhaṭṭa | Bhāṭṭa epistemology, language and polemic | six means of valid knowledge, including non-cognition |
-| Prabhākara Miśra | Prābhākara epistemology and sentence theory | five means of valid knowledge and threefold awareness |
-
-✅ Pūrva-Mīmāṃsā owns injunction, duty, authorless verbal authority and ritual interpretation. Uttara-Mīmāṃsā or Vedānta owns the Brahman-centred interpretation of the Upaniṣads.
-
-#### 15. MEANS, TRUE COGNITION AND PRACTICAL SUCCESS
-
-- A **means of valid knowledge (pramāṇa)** generates a fresh true cognition.
-- The resulting **true cognition (pramā / pramiti)** guides action toward its object.
-- **Successful action (pravṛtti-sāmarthya)** can confirm correspondence, but Mīmāṃsā denies that later success creates validity after the first cognition.
-- Prābhākara manifests subject, object and cognition together; Bhāṭṭa infers cognition through the object's acquired knownness.
-
-#### 16. PERCEPTION, COMPARISON AND TESTIMONY
-
-| Source | Marks-essential account | Rival-control |
-|---|---|---|
-| **Indeterminate perception (nirvikalpaka-pratyakṣa)** | first non-verbal object-awareness before explicit classification | not sheer non-being or error |
-| **Determinate perception (savikalpaka-pratyakṣa)** | object as qualified by class, quality, action and name | develops what was implicitly available |
-| **Comparison (upamāna)** | from a present gavaya's similarity to a remembered cow, know the absent cow as similar to this gavaya | Nyāya instead uses prior testimony to learn the word–object relation |
-| **Personal testimony (pauruṣeya-śabda)** | depends on a competent speaker and can inherit speaker-defect | ordinary testimony |
-| **Impersonal testimony (apauruṣeya-śabda)** | Vedic testimony in the supersensible domain of duty | does not depend on a divine author |
-
-⚠️ The comparison case must not be written in Nyāya form. For Mīmāṃsā, the new cognition concerns the similarity of the previously known but presently absent cow to the perceived gavaya.
-
-#### 17. TWO ROUTES OF POSTULATION
-
-- **Perceptual postulation (dṛṣṭārthāpatti):** perceived facts require an unseen reconciler—stout Devadatta who does not eat by day must eat at night.
-- **Verbal postulation (śrutārthāpatti):** heard words require supplementation to yield a coherent sentence-meaning.
-- Both express explanatory necessity; neither is a tentative guess.
-
-#### 18. VEDIC SENTENCE AND INJUNCTION TAXONOMY
-
-| Function | English-first role |
-|---|---|
-| **Injunction (vidhi)** | enjoins a duty or ritual act |
-| **Prohibition (niṣedha)** | forbids an act |
-| **Mantra (mantra)** | recalls deity, material or ritual detail during performance |
-| **Name (nāmadheya)** | identifies a rite or ritual component |
-| **Explanatory or praise passage (arthavāda)** | praises, blames, narrates or explains in support of action-guiding text |
-
-- **Novel injunction (apūrva-vidhi)** reveals an otherwise unknown duty.
-- **Restrictive injunction (niyama-vidhi)** selects one eligible means where alternatives appear available.
-- **Exclusionary injunction (parisaṃkhyā-vidhi)** excludes alternatives.
-- The separate act/application/order/agent grid—**utpatti, viniyoga, prayoga, adhikāra**—coordinates a complex rite and must not be confused with the preceding threefold classification.
-
-#### 19. UNIVERSALS, SELF AND LIBERATION BOUNDARIES
-
-- Mīmāṃsā grounds repeatable word-use in a real universal. Against Buddhist **meaning through exclusion (apoha)**, it argues that stable positive recognition cannot be explained by exclusion alone.
-- It accepts many enduring selves as knowers, agents and enjoyers; cognition is episodic rather than the self's uninterrupted manifest essence.
-- Later liberation requires ending fresh merit and demerit and exhausting prior karmic force, so no new embodiment or painful experience arises.
-- Cārvāka challenges authorless Veda, unseen potency and non-perceptual sources; this objection should be answered without pretending that a defence of non-perceptual knowledge automatically proves every ritual claim.
-
-#### CLOSING RECALL FLOW — KNOWLEDGE-SOURCE AND HERMENEUTIC COMPLETENESS
-
-```closure-flow
-START / QUESTION: What must a complete Mīmāṃsā theory-of-knowledge answer control?
-KEY TERMS / DEFINITIONS: lineage · two perception stages · Mīmāṃsā comparison · two testimony
-  types · two postulation types
-MECHANISM / ARGUMENT: intrinsic validity -> differentiated sources -> authorless sentence ->
-  injunction -> duty and action
-CONSEQUENCE / CONTRAST: Nyāya differs on comparison, validation and scripture; Buddhism differs
-  on universals and self
-UPSC TRAP / ANSWER-USE: Do not import the Nyāya gavaya account, conflate injunction taxonomies,
-  or turn liberation into Advaitic Brahman-identity
-ANSWER-GRABBING FORMULATION: Mīmāṃsā is a realist epistemology whose differentiated
-  knowledge-sources sustain an impersonal hermeneutics of duty.
-```
+> **Declared answer bands.** 10 marks: 150–200 words. 15 marks: 250–300 words. 20 marks: 340–400 words. Every solved answer below states its exact word count.
 
 ## BASIC MCQS / REMEDIATION
 
-### RAPID REVISION 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)
+### Practice protocol
 
-#### Rapid recall
+Attempt every item before reading its key. The correct position was fixed **independently for each
+question** from a randomised draw, so there is no rotation, cycle or seed-derived sequence to
+exploit; the four positions occur eight times each and twice in every consecutive block of eight, no
+position repeats on consecutive questions, and no window of four items forms an A→B→C→D rotation or
+an ABAB alternation. Option length, specificity, grammar and formatting are balanced so that the
+correct answer is not visually identifiable. Every option carries a question-specific explanation and
+every question carries a unique examiner trap.
 
-- Jaimini: *Mimamsa-sutra*; Sabara: foundational commentary.
-- Kumarila: Bhatta; Prabhakara: Prabhakara school.
-- Vedic duty (dharma) is known through injunction.
-- Unseen ritual potency (apūrva) explains delayed ritual efficacy without God.
-- Trap: Mimamsa's primary project is not proof of Brahman or creator God.
+**Composition:** 24 core diagnostics (items 1–24) covering all nineteen teaching sessions, then 8
+remedial drills (items 25–32) targeting the errors this topic reliably produces.
 
----
+#### CORE DIAGNOSTICS
 
-### RAPID REVISION 2 — Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture
+#### MCQ 1. What Mīmāṃsā's theory of knowledge is for
 
-#### Rapid recall
+Which statement best expresses why Pūrva-Mīmāṃsā develops a theory of knowledge at all?
 
-- Belief is normal; disbelief is exceptional.
-- Intrinsic validity does not mean permanent truth.
-- Prabhakara has five means of valid knowledge (pramāṇas); Bhatta has six.
-- Memory re-presents prior content.
-- Trap: validity theory is not automatically a theory of self-awareness.
+A. Because it inherits Sāṃkhya's instruments and must justify the count it has already accepted
+B. Because duty is supersensible, so testimony alone reaches it and must itself be made secure
+C. Because it treats speculative theology as prior to ritual and needs a metaphysics of being
+D. Because it aims to refute Cārvāka materialism before any positive doctrine can be advanced
 
----
+**Answer: B.** Because duty is supersensible, so testimony alone reaches it and must itself be made secure
 
-### RAPID REVISION 3 — Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence
+- **A:** Mīmāṃsā's list is longer than Sāṃkhya's, not inherited from it, and the count is defended by an irreducibility test rather than adopted first and rationalised afterwards.
+- **B:** Correct — Jaimini's inquiry into duty defines duty by Vedic injunction, and because injunction is the only competent instrument for a supersensible object, its authority forces a general theory of cognition.
+- **C:** The school is explicitly action-guiding rather than speculative-theological, and its metaphysics is deliberately minimal, supplying only what the epistemology and ritual theory require.
+- **D:** The Cārvāka exchange is a genuine front for the school, but it is a consequence of the position rather than the motive that generates the epistemology in the first place.
 
-#### Rapid recall
+**Examiner trap 1:** Candidates who learn the doctrines as a list cannot say why the list exists, and they lose the framing sentence that makes every later paragraph look purposeful rather than assembled.
 
-- Postulation (arthāpatti) = compelled explanatory postulation.
-- Devadatta is the standard example.
-- Bhatta alone accepts non-cognition (anupalabdhi) independently.
-- Yogyata makes non-perception evidential.
-- Trap: not seeing an imperceptible entity does not establish its absence.
+#### MCQ 2. Lineage and the ownership boundary
 
----
+Consider the following statements about the Mīmāṃsā textual tradition.
 
-### RAPID REVISION 4 — Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories
+1. Śabara's commentary is the foundational surviving exposition of Jaimini's aphorisms.
+2. Pūrva-Mīmāṃsā owns injunction, duty, authorless verbal authority and ritual interpretation.
+3. Śālikanātha is a major later expositor of the Bhāṭṭa line founded by Kumārila.
 
-#### Rapid recall
+Which of the statements is or are correct?
 
-- Prabhakara: threefold awareness (tripuṭī-saṃvit) and non-discrimination theory of error (akhyāti).
-- Bhatta: knownness (jñātatā) and contrary-cognition theory of error (viparīta-khyāti).
-- Nyaya: anuvyavasaya and anyatha-khyati.
-- Non-discrimination theory of error (akhyāti) means non-discrimination, not no cognition.
-- Trap: error theory and validity theory answer different questions.
+A. Statements 1 and 3 only, since the commentarial ladder runs from Śabara through Śālikanātha
+B. Statement 2 only, because textual attribution in this school is too disputed to be asserted
+C. Statements 1 and 2 only, as Śālikanātha belongs to the Prābhākara rather than the Bhāṭṭa line
+D. All three statements, because ownership and lineage are jointly settled by the same tradition
 
----
+**Answer: C.** Statements 1 and 2 only, as Śālikanātha belongs to the Prābhākara rather than the Bhāṭṭa line
 
-### RAPID REVISION 5 — Word Meaning, Sentence Meaning and Ritual Hermeneutics
+- **A:** Keeps the true first statement but carries the misattribution in the third, and the resulting "ladder" runs through two lines that the tradition keeps separate.
+- **B:** Over-corrects: the doctrinal ownership boundary and the identity of the foundational commentary are both securely held, and only fine chronology is genuinely disputed.
+- **C:** Correct — Śabara's *Śābara-bhāṣya* is foundational, the four owned items belong to the earlier inquiry, and Śālikanātha expounds Prabhākara, not Kumārila.
+- **D:** Accepts the misattribution of Śālikanātha, and treats disputed relative chronology as though it were settled alongside doctrinal ownership.
 
-#### Rapid recall
+**Examiner trap 2:** Because both sub-schools descend from the same two-stage base, candidates assume any later name may be attached to either line, and Śālikanātha is the name this habit most often misplaces.
 
-- Bhatta: designation-then-connection theory (abhihitānvayavāda).
-- Prabhakara: connected-designation theory (anvitābhidhānavāda).
-- Mimamsa usually prioritizes jati.
-- Hermeneutic cues: sruti, linga, vakya, prakarana, sthana, samakhya.
-- Trap: Vedic meaning cannot depend on a remembered human speaker.
+#### MCQ 3. Reading the Bhāṭṭa–Prābhākara grid
 
----
+Which row correctly pairs a Bhāṭṭa position with the corresponding Prābhākara position?
 
-### RAPID REVISION 6 — Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)
+A. Six instruments and real absence, against five instruments and the bare unqualified locus
+B. Self-luminous cognition and knownness, against inferred cognition and threefold awareness
+C. Non-discrimination in error and word-priority, against contrary apprehension and sentence-priority
+D. Categorical obligation and five instruments, against fruit-motivation and independent absence
 
-#### Rapid recall
+**Answer: A.** Six instruments and real absence, against five instruments and the bare unqualified locus
 
-- Veda is apauruseya and eternal in the relevant sense.
-- Word-meaning relation is treated as natural.
-- Creator and fruit-dispenser God are unnecessary.
-- Self is enduring knower, agent and enjoyer.
-- Trap: later liberation (mokṣa) is not merger with Brahman.
+- **A:** Correct — Kumārila admits non-cognition as a sixth instrument and treats absence as real with a counterpositive, while Prabhākara declines both and perceives the locus as unqualified.
+- **B:** Reverses the pairing twice over: self-luminosity and threefold awareness are Prābhākara, while knownness and inferred cognition are Bhāṭṭa.
+- **C:** Reverses both halves: non-discrimination is Prābhākara and contrary apprehension Bhāṭṭa, and word-priority is Bhāṭṭa while sentence-priority is Prābhākara.
+- **D:** Attaches categorical obligation and the five-instrument list to Bhāṭṭa, when obligation-based motivation and the shorter list both belong to Prabhākara.
 
----
+**Examiner trap 3:** The six paired differences are learned as isolated facts rather than as one methodological instinct applied six times, so a candidate who misremembers one row usually misremembers the rest in the same direction.
 
-### RAPID REVISION 7 — Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context
+#### MCQ 4. The fourfold formulation of validity
 
-#### Rapid recall
+Which statement gives the Mīmāṃsā position on all four cells of the validity question?
 
-- Strongest achievement: knowledge and language grounding impersonal duty.
-- Main costs: eternal words, unseen ritual potency (apūrva), absence ontology and special means of valid knowledge (pramāṇas).
-- CSU 2026-27 is educational context only.
-- Best verdict: internally coherent, externally dependent on contested semantic and ritual assumptions.
+A. Validity is intrinsic in origin and extrinsic in ascertainment; invalidity is extrinsic in both
+B. Validity and invalidity are both intrinsic in origin, and both are ascertained extrinsically
+C. Validity is intrinsic in origin and in ascertainment; invalidity is extrinsic in both respects
+D. Validity is extrinsic in origin and intrinsic in ascertainment; invalidity reverses that pattern
 
----
+**Answer: C.** Validity is intrinsic in origin and in ascertainment; invalidity is extrinsic in both respects
 
-### RAPID REVISION 8 — PYQ Routing, Answer Architecture and Complete Exam Deployment
+- **A:** Splits validity across the two cells, which would reintroduce exactly the external certifier that the school's anti-regress argument was designed to eliminate.
+- **B:** Makes invalidity intrinsic in origin, which is the Sāṃkhya placement rather than the Mīmāṃsā one and would require falsity to announce itself at birth.
+- **C:** Correct — the same conditions that generate the cognition generate its validity, the cognition presents itself as trustworthy unaided, and falsity requires a defect and a defeater.
+- **D:** Assigns extrinsic origin to validity, which is the Nyāya thesis, and then adds an intrinsic ascertainment that no school in the standard grid actually holds.
 
-#### Rapid recall - master route
+**Examiner trap 4:** Answers state only that "validity is intrinsic" and omit the invalidity row, so they cannot explain error and forfeit the comparison the 2025 question is built on.
 
-| Prompt | Recall spine |
+#### MCQ 5. What intrinsic validity does not claim
+
+Identify the sentence that a Mīmāṃsaka would refuse to endorse.
+
+A. A cognition carries authority on arrival and loses it only when a defeating condition appears
+B. Every cognition is indefeasible, so a cognition once had can never afterwards be surrendered
+C. The burden of proof lies on the challenger of a cognition rather than on the cognition itself
+D. Falsity is caused by defect and becomes known through contradiction, failure or later correction
+
+**Answer: B.** Every cognition is indefeasible, so a cognition once had can never afterwards be surrendered
+
+- **A:** This is the school's thesis in its ordinary formulation, and the phrase "defeating condition" is the standard marker of its defeasibility.
+- **B:** Correct as the sentence to reject — intrinsic validity is defeasible default warrant, and the school explicitly distinguishes default validity from guaranteed incorrigibility.
+- **C:** The burden-shift is precisely what the anti-regress argument establishes, and the school appeals to lived practice to support it.
+- **D:** This states the extrinsic invalidity half of the doctrine accurately, including both the causal defect and the routes by which falsity is detected.
+
+**Examiner trap 5:** The word "intrinsic" is read as "infallible," and the resulting answer cannot survive the dream-and-mirage objection that every examiner in this area expects to see handled.
+
+#### MCQ 6. Nyāya's route and the Mīmāṃsā counter
+
+Which pairing correctly states a Nyāya method of validation together with the Mīmāṃsā objection to it?
+
+A. Successful activity, objected to on the ground that action never in fact confirms anything
+B. Confirming perception, objected to on the ground that perception is inherently untrustworthy
+C. Divine testimony, objected to on the ground that scripture cannot certify ordinary cognitions
+D. Successful activity, objected to on the ground that acting already presupposes trusting it
+
+**Answer: D.** Successful activity, objected to on the ground that acting already presupposes trusting it
+
+- **A:** Mīmāṃsā never denies that action can confirm; it denies only that confirmation *generates* the validity the cognition already possessed.
+- **B:** The school is a robust perceptual realist, so an objection resting on the untrustworthiness of perception could not be its own.
+- **C:** Divine testimony is not one of the two classical Nyāya routes to validation, which are successful activity and confirming perception.
+- **D:** Correct — one must act before one is entitled to trust, but the action itself relies on trust, so Nyāya uses what it officially postpones.
+
+**Examiner trap 6:** Only one of Nyāya's two routes is remembered, and the answer then fails to show that the regress objection applies to confirming perception exactly as it applies to successful activity.
+
+#### MCQ 7. Placing four schools on validity and invalidity
+
+Match each school with its standard placement on the intrinsic/extrinsic question.
+
+| School | Placement |
 |---|---|
-| Vedic duty (dharma) | injunction -> action -> unseen ritual potency (apūrva) -> fruit |
-| Validity | intrinsic authority, extrinsic defeat |
-| Postulation (arthāpatti) | explanatory incompatibility |
-| Absence | yogyata and Bhatta non-cognition (anupalabdhi) |
-| Awareness | triputi vs knownness (jñātatā) vs anuvyavasaya |
-| Error | non-discrimination theory of error (akhyāti) vs contrary-cognition theory of error (viparīta-khyāti) |
-| Semantics | abhihitanvaya vs anvitabhidhana |
-| Veda | authorless authority without creator God |
+| 1. Mīmāṃsā | P. validity extrinsic, invalidity intrinsic |
+| 2. Sāṃkhya | Q. validity intrinsic, invalidity extrinsic |
+| 3. Buddhist epistemology | R. validity intrinsic, invalidity intrinsic |
+
+A. 1–Q, 2–R, 3–P
+B. 1–R, 2–Q, 3–P
+C. 1–Q, 2–P, 3–R
+D. 1–P, 2–R, 3–Q
+
+**Answer: A.** 1–Q, 2–R, 3–P
+
+- **A:** Correct — Mīmāṃsā holds intrinsic validity with extrinsic invalidity, Sāṃkhya is presented as intrinsic on both, and the Buddhist placement is the exact mirror-image.
+- **B:** Gives Mīmāṃsā the Sāṃkhya cell, which would commit the school to falsity announcing itself at the moment of cognition.
+- **C:** Assigns the Buddhist cell to Sāṃkhya and the Sāṃkhya cell to Buddhism, reversing the two schools whose placements are most often swapped.
+- **D:** Gives Mīmāṃsā the Buddhist cell, which contradicts the school's central thesis and its whole strategy against scepticism.
+
+**Examiner trap 7:** Sāṃkhya and Buddhism are remembered only as "the other two," and because their placements are adjacent in every table they are routinely exchanged under time pressure.
+
+#### MCQ 8. Counting the instruments, and the rule behind the count
+
+Consider the following statements about the Mīmāṃsā list of instruments of valid knowledge.
+
+1. Bhāṭṭa accepts six and Prābhākara five, and the difference concerns non-cognition.
+2. An instrument is admitted only where reduction to another fails without remainder or circularity.
+3. Memory is excluded from both lists because it fails the requirement of novelty.
+
+Which of the statements is or are correct?
+
+A. Statements 1 and 3 only, because the admission rule is Nyāya's rather than Mīmāṃsā's
+B. Statement 1 only, since novelty is a Nyāya condition that Mīmāṃsā does not itself impose
+C. Statements 2 and 3 only, as both sub-schools in fact accept the same number of instruments
+D. All three statements, since the same admission rule both licenses and restricts the list
+
+**Answer: D.** All three statements, since the same admission rule both licenses and restricts the list
+
+- **A:** Denies the school's own irreducibility principle, which is exactly what Mīmāṃsā invokes to justify admitting postulation and non-cognition.
+- **B:** Nyāya does accept the novelty requirement, but so does Mīmāṃsā, and Prabhākara's five-step argument against memory turns on it directly.
+- **C:** Contradicts the single most-tested numerical fact in this topic, since the two sub-schools differ precisely by one instrument.
+- **D:** Correct — the irreducibility rule admits postulation and non-cognition, and the same rule excludes memory, which reproduces rather than produces cognition.
+
+**Examiner trap 8:** The counts are memorised without the rule, so the candidate can state that Bhāṭṭa has six but cannot explain why six is principled rather than arbitrary.
+
+#### MCQ 9. Comparison, stated in Mīmāṃsā's own form
+
+A learner writes: "In Mīmāṃsā, comparison is the instrument by which one learns, from a reliable
+person's statement that a wild ox resembles a cow, what the word 'wild ox' denotes." What is the
+correct assessment of this sentence?
+
+A. It is accurate, because Mīmāṃsā and Nyāya give identical accounts of comparison in every respect
+B. It is inaccurate, because it states the Nyāya word-reference account instead of the Mīmāṃsā one
+C. It is inaccurate, because Mīmāṃsā does not accept comparison as an independent instrument at all
+D. It is accurate, because comparison in Mīmāṃsā is defined through prior testimony about similarity
+
+**Answer: B.** It is inaccurate, because it states the Nyāya word-reference account instead of the Mīmāṃsā one
+
+- **A:** The two accounts are expressly distinguished, and treating them as identical erases the very contrast the sources use to define the Mīmāṃsā instrument.
+- **B:** Correct — in Mīmāṃsā the new cognition is that the previously seen, presently absent cow is similar to this perceived wild ox, and no word-learning is involved.
+- **C:** Comparison is accepted by both sub-schools and appears in both the five-item and the six-item lists, so the denial is simply false.
+- **D:** Reproduces the same Nyāya mechanism under a different description, since prior testimony about similarity is precisely what Mīmāṃsā's account does not require.
+
+**Examiner trap 9:** The wild-ox example is shared by both schools while the mechanism is not, so a candidate who remembers only the example imports the wrong account without noticing.
+
+#### MCQ 10. Perception and testimony, correctly divided
+
+Which statement about perception and testimony in Mīmāṃsā is correct?
+
+A. Determinate perception falsifies the given, so realism must be defended by inference instead
+B. Testimony is admitted only where perception and inference have already been tried and failed
+C. Impersonal testimony depends on a divine speaker whose omniscience secures the Vedic text
+D. Determinate perception interprets what the indeterminate stage held, and Vedic testimony is impersonal
+
+**Answer: D.** Determinate perception interprets what the indeterminate stage held, and Vedic testimony is impersonal
+
+- **A:** Reverses the school's realism: the determinate stage unpacks what was implicitly available and does not invent an unreal predicate.
+- **B:** Testimony is not a fallback here; for supersensible duty it is the only competent instrument, and the school gives it a corresponding dignity.
+- **C:** Assigns the Nyāya God-guarantee to Mīmāṃsā, whereas impersonal testimony is authoritative precisely because it has no speaker at all.
+- **D:** Correct — the two-stage account supports realism against the bare-particular reading, and Vedic testimony is impersonal rather than divinely authored.
+
+**Examiner trap 10:** Candidates treat "impersonal" as a synonym for "divine," and the resulting answer quietly converts Mīmāṃsā into the Nyāya position it was constructed to avoid.
+
+#### MCQ 11. Why memory is refused instrument-status
+
+On what precise ground do the Prābhākaras and the Naiyāyikas both deny that memory is a means of
+valid knowledge?
+
+A. Memory is frequently mistaken, and an instrument may not be liable to systematic error
+B. Memory has no object, since a past object is no longer available to be presented at all
+C. Memory reproduces already-cognised content and so fails the requirement of fresh disclosure
+D. Memory belongs to the internal organ rather than to the senses, and only sense-instruments qualify
+
+**Answer: C.** Memory reproduces already-cognised content and so fails the requirement of fresh disclosure
+
+- **A:** The exclusion is definitional rather than evaluative, and the school concedes that memory may be perfectly true and reliably action-guiding.
+- **B:** Memory does have an object; the difficulty is that the object was already disclosed, not that it is missing from the cognition.
+- **C:** Correct — an instrument must generate a new cognition, whereas memory depends on an earlier cognition and its latent impression and merely re-presents.
+- **D:** Introduces a faculty-location criterion that neither school uses, and would wrongly exclude inference and testimony along with memory.
+
+**Examiner trap 11:** "Memory is unreliable" is offered as the reason, which both concedes too much to the sceptic and misses the novelty condition the question is testing.
+
+#### MCQ 12. The structure of postulation
+
+Which sequence correctly reproduces the canonical postulation case?
+
+A. Devadatta is stout; stoutness invariably accompanies eating; therefore Devadatta eats at night
+B. Devadatta is stout and does not eat by day; the two cannot stand together; therefore he eats at night
+C. Devadatta does not eat by day; night-eating is remembered from an earlier occasion; therefore he eats at night
+D. Devadatta is stout; a reliable witness reports night-eating; therefore the report is accepted as true
+
+**Answer: B.** Devadatta is stout and does not eat by day; the two cannot stand together; therefore he eats at night
+
+- **A:** Supplies a universal concomitance and thereby converts the case into an inference, which is exactly the Nyāya reduction the school rejects as circular.
+- **B:** Correct — two accepted facts generate explanatory tension and the minimally reconciling postulate resolves it, with no prior concomitance and no sign.
+- **C:** Makes the conclusion a recollection, whereas the whole point of the case is that night-eating is neither perceived nor remembered here.
+- **D:** Turns the case into testimony, which would make the third fact reported rather than postulated and would remove the tension that drives the cognition.
+
+**Examiner trap 12:** The case is retold with an added premise such as "whoever is fat eats," which silently concedes the Nyāya reduction the answer was supposed to refute.
+
+#### MCQ 13. Why postulation is not inference
+
+Which of the following is *not* one of the three arguments Mīmāṃsā gives against reducing postulation
+to inference?
+
+A. Postulation is unreliable, since a postulated fact is never confirmed by later observation
+B. No universal concomitance is independently established before the postulating cognition arises
+C. The movement runs from explanatory tension to a reconciling postulate rather than from sign to signified
+D. The case cannot be parsed into a subject, a reason present in it, and a probandum derived from it
+
+**Answer: A.** Postulation is unreliable, since a postulated fact is never confirmed by later observation
+
+- **A:** Correct as the odd one out — the school never argues from unreliability, and its claim is that the postulate is *necessary*, not that it is unverified.
+- **B:** This is the first argument: inference requires a concomitance known beforehand, and no such rule about stout day-fasters is available.
+- **C:** This is the second argument, which contrasts the direction of reasoning in the two instruments and is the easiest of the three to state.
+- **D:** This is the third argument, which denies that the case exhibits the subject–reason–probandum form that standard inference requires.
+
+**Examiner trap 13:** Only one anti-reduction argument is offered, usually the concomitance point, and the answer then has nothing left to say when the examiner's directive asks for a critical discussion.
+
+#### MCQ 14. The fitness condition on non-cognition
+
+Which case satisfies the conditions under which non-apprehension yields knowledge of absence?
+
+A. Failing to see the keys on a cluttered desk in poor light after a hurried glance at it
+B. Failing to detect atoms in the space directly in front of one's own functioning eyes
+C. Failing to hear a sound while attention is wholly absorbed in an unrelated conversation
+D. Failing to see a pot on a bare, well-lit table placed at normal distance before the eyes
+
+**Answer: D.** Failing to see a pot on a bare, well-lit table placed at normal distance before the eyes
+
+- **A:** Poor light and a hurried glance are exactly the conditions the fitness requirement excludes, so this is careless overlooking rather than a cognition of absence.
+- **B:** Atoms are not the kind of thing that would be perceived if present, so the first and most basic fitness condition fails at once.
+- **C:** Absorbed attention breaks the condition that attention be proper, which is why inattentive non-hearing discloses nothing about the sound.
+- **D:** Correct — the object is perceptible in kind, the locus is suitable, the organ functions and light, distance and attention are all proper.
+
+**Examiner trap 14:** The fitness condition is omitted altogether, leaving the doctrine indistinguishable from an argument from ignorance and defenceless against the charge of subjectivism.
+
+#### MCQ 15. The three-way dispute about absence
+
+Which statement correctly reports the positions of Bhāṭṭa, Prābhākara and Nyāya on absence?
+
+A. Bhāṭṭa admits a separate instrument, Prābhākara perceives the bare locus, Nyāya perceives absence
+B. Bhāṭṭa perceives absence directly, Prābhākara admits a separate instrument, Nyāya denies absence
+C. All three admit absence as real but only Nyāya admits a separate instrument for knowing it
+D. Bhāṭṭa and Nyāya converge on a separate instrument while Prābhākara reduces absence to inference
+
+**Answer: A.** Bhāṭṭa admits a separate instrument, Prābhākara perceives the bare locus, Nyāya perceives absence
+
+- **A:** Correct — Kumārila admits non-cognition, Prabhākara perceives the locus as unqualified, and Nyāya accepts absence as a real category directly perceived.
+- **B:** Reverses Bhāṭṭa and Prābhākara and then adds the false claim that Nyāya denies absence, when Nyāya denies only the separate instrument.
+- **C:** Attributes the separate instrument to Nyāya, which is precisely the school that argues absence is available to perception without one.
+- **D:** Invents a Bhāṭṭa–Nyāya convergence, whereas the actual convergence is between Nyāya and Prābhākara against Bhāṭṭa on independence.
+
+**Examiner trap 15:** "Nyāya rejects non-cognition" is compressed into "Nyāya rejects absence," which misrepresents a school that treats absence as one of its own categories.
+
+#### MCQ 16. The four theories of error
+
+Match each theory of error with the account it gives of the shell-silver case.
+
+| Theory | Account |
+|---|---|
+| 1. akhyāti / vivekākhyāti | P. real silver known elsewhere is presented here |
+| 2. viparīta-khyāti | Q. two valid cognitions whose difference is not apprehended |
+| 3. anyathā-khyāti | R. the shell is positively miscognised as silver |
+
+A. 1–P, 2–Q, 3–R
+B. 1–R, 2–P, 3–Q
+C. 1–Q, 2–R, 3–P
+D. 1–Q, 2–P, 3–R
+
+**Answer: C.** 1–Q, 2–R, 3–P
+
+- **A:** Gives Prābhākara the Nyāya displacement account and Nyāya the Bhāṭṭa misidentification account, inverting the two theories most often confused.
+- **B:** Assigns misidentification to Prābhākara, who admits no false cognition at all, and non-discrimination to Nyāya, which never uses it.
+- **C:** Correct — non-discrimination is Prābhākara, contrary apprehension is Bhāṭṭa's positive misidentification, and displacement of real silver is Nyāya.
+- **D:** Correctly places Prābhākara but then exchanges Bhāṭṭa and Nyāya, which is the single most damaging slip available in this area.
+
+**Examiner trap 16:** Bhāṭṭa's contrary apprehension and Nyāya's displacement are both described loosely as "a false cognition," and the distinction between misidentifying this object and misplacing another is lost.
 
 ---
 
-### Original MCQ Bank - 32 Questions
-
-| Q | Question and options | Key | Explanation |
-|---:|---|:---:|---|
-| 1 | Mīmāṃsā begins with: A. inquiry into Vedic duty (dharma) B. proof of God C. denial of self D. mystical union | A | The school starts from dharma-jijñāsā, not from speculative theology. |
-| 2 | In the Mimamsa context, **injunction (codanā)** means: A. memory of duty B. impelling Vedic injunction C. comparison-based cognition D. prior non-existence | B | Injunction (codanā) is the command-form that makes duty action-guiding. |
-| 3 | Which school accepts six means of valid knowledge (pramāṇas)? A. Nyāya B. Prābhākara Mīmāṃsā C. Bhāṭṭa Mīmāṃsā D. Sāṃkhya | C | Bhāṭṭa adds non-cognition (anupalabdhi) to the five accepted by Prābhākara. |
-| 4 | Memory is denied pramāṇa-status chiefly because it: A. is always false B. depends on God C. lacks semantic fitness D. does not disclose a previously unknown object | D | Novelty is the decisive criterion. |
-| 5 | Intrinsic validity (svataḥ-prāmāṇya) says that cognition is: A. prima facie valid by its own occurrence B. permanently infallible C. created by language D. valid only after success | A | Intrinsic validity means default trust, not incorrigibility. |
-| 6 | Externally established invalidity (parataḥ-aprāmāṇya) means that invalidity is known through: A. intuition alone B. later contradiction or discovery of defect C. universals only D. deep sleep | B | Falsity is externally disclosed. |
-| 7 | The stout Devadatta case is the classical example of: A. non-cognition (anupalabdhi) B. anuvyavasāya C. postulation (arthāpatti) D. sphoṭa | C | The conclusion is compelled explanatory postulation. |
-| 8 | Nyāya's reduction of postulation (arthāpatti) relies most on a prior: A. obligation (niyoga) B. unseen ritual potency (apūrva) C. non-discrimination theory of error (akhyāti) D. invariable concomitance (vyāpti) | D | It tries to convert the case into standard inference. |
-| 9 | Eligible non-cognition (yogyānupalabdhi) requires that the absent object: A. would be perceivable if present B. be eternal C. be remembered from childhood D. be scripturally revealed | A | Non-perception counts only when perception should have occurred. |
-| 10 | According to Bhāṭṭa Mīmāṃsā, absence (abhāva) is: A. mere grammar B. a real negative content known by non-cognition (anupalabdhi) C. impossible to cognize D. always inferential only | B | Bhāṭṭa grants both objecthood and a separate means of valid knowledge (pramāṇa). |
-| 11 | Threefold awareness (tripuṭī-saṃvit) means simultaneous manifestation of: A. three Vedas B. word, meaning and sentence C. knower, known and cognition D. duty, fruit and God | C | This is the Prābhākara answer to metacognition. |
-| 12 | Knownness (jñātatā) refers to the object's: A. falsity B. universality C. ritual purity D. cognizedness, from which cognition is inferred | D | Kumārila denies self-luminosity of cognition and infers it from knownness (jñātatā). |
-| 13 | Non-discrimination theory of error (akhyāti) explains illusion as: A. non-discrimination between perception and memory B. divine deception C. pure non-being D. only linguistic confusion | A | Prābhākara keeps the constituent cognitions valid. |
-| 14 | Contrary-cognition theory of error (viparīta-khyāti) holds that illusion involves: A. only recollection B. a positive misapprehension under defect C. no cognition at all D. mere verbal error | B | Bhāṭṭa allows a false cognition without abandoning intrinsic validity. |
-| 15 | Designation-then-connection theory (abhihitānvayavāda) states that: A. words mean only particulars B. Veda has a divine author C. words first denote separate meanings and then get connected D. sentences alone are primary | C | This is the Bhāṭṭa theory of sentence meaning. |
-| 16 | Connected-designation theory (anvitābhidhānavāda) states that words convey: A. only remembered objects B. abstract sounds without meaning C. bare universals alone D. meanings as already connected in sentential use | D | This is the Prābhākara contextualist position. |
-| 17 | Ākāṅkṣā in sentence theory means: A. mutual expectancy among words B. speaker's private intention C. absence-cognition D. non-verbal meditation | A | Without expectancy, sentence unity does not arise. |
-| 18 | Mīmāṃsā generally gives semantic priority to: A. silence B. universals (jāti) C. divine intention D. impossible objects | B | Repeatable application of a word is explained through jāti. |
-| 19 | Vedic authorlessness (apauruṣeyatva) primarily protects the Veda from: A. ritual complexity B. historical transmission C. authorial defect D. sentence-unity | C | No human or divine author means no author-based error. |
-| 20 | The strongest Mimamsa reason to reject a creator-God is that God would: A. abolish perception B. destroy universals C. remove duty D. become redundant beside action and moral consequence (karma) and unseen ritual potency (apūrva) or introduce partiality | D | This is the classic anti-theistic pressure point. |
-| 21 | Śābdī impelling force (bhāvanā) is the: A. linguistic impelling force of the injunction B. bare-locus cognition of absence C. theory of memory D. post-mokṣa bliss | A | It explains how the Vedic word moves the agent to act. |
-| 22 | Ārthī impelling force (bhāvanā) is the: A. eternity of words B. real productive force of the performed act C. relation between universal and particular D. later reflective cognition | B | It explains how action brings about the result. |
-| 23 | Prābhākara's niyoga-vāda emphasizes: A. phala as the sole motive B. God's command C. the act as directly binding and to-be-done D. memory as duty | C | Duty arises from injunction itself, not merely from desired fruit. |
-| 24 | Unseen ritual potency (apūrva) is best described as: A. a visible ritual fire B. a universal C. God in hidden form D. an unseen potency linking act and later fruit | D | It explains delayed ritual efficacy without theism. |
-| 25 | Ritual deities in classical Mimamsa are primarily: A. mantra-denoted participants within sacrificial procedure B. creators of the world C. deniers of Veda D. equivalent to Brahman | A | They are not the sovereign dispensers of fruit. |
-| 26 | Vedānta challenges Mimamsa by insisting that some Vedic sentences reveal: A. only ritual accessories B. an already accomplished reality (siddha-vastu) C. bare universals without context D. only social law | B | This marks the break between Pūrva- and Uttara-Mīmāṃsā. |
-| 27 | The self in Mimamsa must be: A. momentary B. identical with language C. enduring as knower, agent and enjoyer D. unreal like illusion | C | Without continuity, action and moral consequence (karma) and ritual fruit collapse. |
-| 28 | Later Mimamsa liberation (mokṣa) is best stated as: A. union with Lord (Īśvara) B. absorption into language C. public ritual prestige D. cessation of suffering and embodiment, not Brahman-identity | D | The doctrine is largely negative and should not be Vedāntized. |
-| 29 | The statement “intrinsic validity means every cognition is permanently true” is: A. false because Mimamsa allows later defeat B. true because default trust is infallible C. true only for memory D. true only for error | A | The standard trap is to confuse default validity with final indefeasibility. |
-| 30 | Nyāya explains awareness of cognition through: A. unseen ritual potency (apūrva) B. anuvyavasāya C. injunction (codanā) D. non-discrimination theory of error (akhyāti) | B | A higher-order cognition reflects on the first act of knowing. |
-| 31 | In ritual hermeneutics, **vākya** chiefly concerns: A. the historical author B. similarity with another ritual C. sentence-unity and connected textual meaning D. deep sleep | C | Vākya is one of the ranked interpretive clues. |
-| 32 | The safest one-line summary of the topic is: A. theology in search of omniscience B. skepticism about all knowledge C. mysticism without duty D. knowledge in the service of Vedic duty (dharma) | D | That formula keeps epistemology tied to language, duty and ritual action. |
+#### MCQ 17. Why two schools that share a thesis still divide on error
 
-> **Rotation audit:** A -> B -> C -> D repeated eight times.
+Both Bhāṭṭa and Prābhākara accept the intrinsic validity of knowledge. Which statement best explains
+why they nevertheless divide over erroneous cognition?
 
-### Remedial Error-Correction Drills
+A. They divide because Prābhākara abandons intrinsic validity whenever illusion is under discussion
+B. They divide because Bhāṭṭa treats falsity as intrinsic while Prābhākara treats it as extrinsic
+C. They divide because only Bhāṭṭa accepts that illusion produces any action at all in the subject
+D. They divide because each protects the shared thesis differently — constituents versus the principle
 
-| Drill | Common wrong move | Corrective repair | Why the correction matters |
-|---|---|---|---|
-| 1 | “Intrinsic validity means no cognition can ever be false.” | Say: every cognition is **prima facie** valid, but later defeat can reveal falsity. | This prevents infallibilist misreading. |
-| 2 | “Prābhākara accepts six means of valid knowledge (pramāṇas) like Bhāṭṭa.” | Say: Prābhākara accepts **five**; Bhāṭṭa alone adds **non-cognition (anupalabdhi)**. | This is one of the most repeated factual traps. |
-| 3 | “Postulation (arthāpatti) is just a fancy name for guesswork.” | Say: it is **compelled postulation** produced by otherwise unresolved incompatibility. | The exam asks for its irreducible logic, not its superficial plausibility. |
-| 4 | “Non-discrimination theory of error (akhyāti) means there is no cognition at all in illusion.” | Say: there are valid cognitions, but their **difference is not discriminated**. | Without this, Prābhākara's theory collapses into absurdity. |
-| 5 | “Bhāṭṭa accepts self-luminous cognition.” | Say: Bhāṭṭa defends intrinsic validity but knows cognition through **knownness (jñātatā)**. | This is the decisive distinction between manifestation and validity. |
-| 6 | “Mīmāṃsā proves Veda by invoking God.” | Say: it secures the Veda by **excluding** divine authorship and defending Vedic authorlessness (apauruṣeyatva). | This preserves the school's distinctive orthodoxy-without-theism. |
-| 7 | “Obligation (niyoga) and desire for fruit mean the same thing.” | Say: Prābhākara makes obligation categorical, while Bhāṭṭa allows a stronger place for phala-motivation. | This prevents flattening the Bhāṭṭa-Prābhākara ethical divide. |
-| 8 | “Liberation (mokṣa) in Mimamsa is merger into Brahman.” | Say: later Mimamsa generally presents liberation (mokṣa) negatively, as release from pain and embodiment. | This blocks Vedāntic importation into a ritual-epistemic school. |
+**Answer: D.** They divide because each protects the shared thesis differently — constituents versus the principle
 
-### ADVANCED CLOSE-DISTINCTION MCQS — 16 QUESTIONS
+- **A:** Prabhākara never suspends the thesis; his whole strategy is designed so that no constituent cognition ever has to be called false.
+- **B:** Both hold falsity to be extrinsic in origin, and intrinsic falsity is the standard Buddhist placement rather than anything Kumārila accepts.
+- **C:** Both must explain the reaching behaviour, and the disagreement is over what explains it, not over whether it occurs.
+- **D:** Correct — Prabhākara keeps every constituent cognition valid, while Kumārila keeps the principle governing normal cognition and quarantines falsity in defect.
 
-#### Supplemental MCQ 1
+**Examiner trap 17:** The "in spite of" clause is treated as scene-setting rather than as the question, and the answer describes two error-theories without ever explaining their compatibility with one shared thesis.
 
-Which one of the following is the most accurate statement?
+#### MCQ 18. Three answers to "how do I know that I know?"
 
-A. Vedic authorlessness (apauruṣeyatva) blocks defects of a human author; it is not a claim that sentences have no meaning.
-B. It makes the Veda a creation of Lord (Īśvara).
-C. It reduces Vedic authority to remembered custom.
-D. It requires Grammarian sentence-sphoṭa.
+Which option correctly assigns each mechanism to its school?
 
-**Answer: A. Vedic authorlessness (apauruṣeyatva) blocks defects of a human author; it is not a claim that sentences have no meaning.**
+A. Threefold awareness to Prābhākara, knownness to Bhāṭṭa, after-cognition to Nyāya
+B. Threefold awareness to Bhāṭṭa, knownness to Nyāya, after-cognition to Prābhākara
+C. Threefold awareness to Nyāya, knownness to Prābhākara, after-cognition to Bhāṭṭa
+D. Threefold awareness to Prābhākara, knownness to Nyāya, after-cognition to Bhāṭṭa
 
-**Explanation:** Mīmāṃsā grounds authority in beginningless word-meaning relations and absence of authorial defect.
+**Answer: A.** Threefold awareness to Prābhākara, knownness to Bhāṭṭa, after-cognition to Nyāya
 
-#### Supplemental MCQ 2 — statement combination
+- **A:** Correct — Prabhākara's single act discloses knower, known and knowing; Kumārila infers cognition from the object's knownness; Nyāya posits a distinct second-order act.
+- **B:** Moves every mechanism one place, giving Prabhākara the second-order act he expressly rejects because it would restart the regress.
+- **C:** Makes Nyāya a defender of self-luminosity, when Nyāya is the school that denies it and supplies a higher-order cognition instead.
+- **D:** Retains the correct Prābhākara assignment but exchanges Bhāṭṭa and Nyāya, which are the two non-self-luminous positions and therefore easiest to confuse.
 
-Consider the following statements:
+**Examiner trap 18:** The three views are listed without naming the regress they all answer, so the response reads as an inventory of opinions rather than as three engineered solutions to one problem.
 
-1. Vedic authorlessness (apauruṣeyatva) blocks defects of a human author; it is not a claim that sentences have no meaning.
-2. It makes the Veda a creation of Lord (Īśvara).
+#### MCQ 19. Self-luminosity and intrinsic validity
 
-Which of the statements given above is/are correct?
+Which school provides the decisive counterexample to the claim that self-luminosity necessarily
+entails intrinsic validity?
 
-A. 2 only
-B. 1 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+A. Nyāya, because it accepts self-luminosity while denying that validity can be intrinsic
+B. Advaita Vedānta, because it restricts self-luminosity to the empirical level of reality
+C. Prābhākara Mīmāṃsā, because it accepts self-luminosity but denies intrinsic validity
+D. Bhāṭṭa Mīmāṃsā, because it denies self-luminosity while affirming intrinsic validity
 
-**Answer: B. 1 only**
+**Answer: D.** Bhāṭṭa Mīmāṃsā, because it denies self-luminosity while affirming intrinsic validity
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. Mīmāṃsā grounds authority in beginningless word-meaning relations and absence of authorial defect.
+- **A:** Nyāya denies self-luminosity as well as intrinsic validity, so it accepts neither thesis and cannot serve as a counterexample to an entailment between them.
+- **B:** Advaita affirms both, grounding self-luminosity in consciousness as such, so it illustrates the pairing rather than breaking it.
+- **C:** Prābhākara affirms both theses together, which is exactly the combination the entailment-claim predicts and therefore proves nothing against it.
+- **D:** Correct — Kumārila holds intrinsic validity while inferring cognition from acquired knownness, showing that the two doctrines come apart in practice.
 
-#### Supplemental MCQ 3
+**Examiner trap 19:** Nyāya is placed in the "self-luminous but extrinsically valid" cell, which destroys the comparative grid the 2018 question is entirely built upon.
 
-Which one of the following is the most accurate statement?
+#### MCQ 20. Sentence-unity and the two semantics
 
-A. Vedic duty (dharma) is identical with pleasure.
-B. Vedic duty (dharma) is inferred only from visible effects.
-C. Vedic duty (dharma) is primarily known through Vedic injunction (codanā), not ordinary perception.
-D. Vedic duty (dharma) is whatever a reliable human speaker commands.
+Consider the following statements about Mīmāṃsā philosophy of language.
 
-**Answer: C. Vedic duty (dharma) is primarily known through Vedic injunction (codanā), not ordinary perception.**
+1. Expectancy, semantic fitness and proximity are accepted by both sub-schools.
+2. Connection-of-the-already-denoted is the Prābhākara thesis about sentence meaning.
+3. Purport, added by Naiyāyikas, is difficult for Mīmāṃsā because the Veda has no author.
 
-**Explanation:** The school treats injunction as the distinctive disclosure of otherwise imperceptible duty.
+Which of the statements is or are correct?
 
-#### Supplemental MCQ 4 — statement combination
+A. Statements 1 and 2 only, because the two sub-schools agree entirely on sentence meaning
+B. Statement 2 only, because the three conditions belong to Nyāya rather than to Mīmāṃsā
+C. Statements 1 and 3 only, since connection-of-the-already-denoted is in fact the Bhāṭṭa thesis
+D. All three statements, since both sub-schools share the conditions and both accept purport
 
-Consider the following statements:
+**Answer: C.** Statements 1 and 3 only, since connection-of-the-already-denoted is in fact the Bhāṭṭa thesis
 
-1. Vedic duty (dharma) is primarily known through Vedic injunction (codanā), not ordinary perception.
-2. Vedic duty (dharma) is identical with pleasure.
+- **A:** Keeps the misattribution and adds the false claim of agreement, when the two sub-schools differ precisely over which unit is semantically primary.
+- **B:** Denies the three shared conditions to Mīmāṃsā, although both sub-schools invoke them to explain how a word-sequence becomes one sentence.
+- **C:** Correct — the three conditions are shared, purport is a genuine difficulty for an authorless text, and word-priority belongs to Bhāṭṭa.
+- **D:** Mīmāṃsā cannot simply accept purport as speaker-intention, and it must relocate purport into textual function and subordination to injunction.
 
-Which of the statements given above is/are correct?
+**Examiner trap 20:** The two long compound labels are learned by sound rather than by sense, and the connected-denotation thesis is handed to the sub-school that actually denies it.
 
-A. 2 only
-B. Both 1 and 2
-C. Neither 1 nor 2
-D. 1 only
+#### MCQ 21. Universals, particulars and the exclusion challenge
 
-**Answer: D. 1 only**
+Which statement correctly represents the Mīmāṃsā position on what words denote?
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. The school treats injunction as the distinctive disclosure of otherwise imperceptible duty.
+A. Words denote the universal primarily, and the individual is reached through it in context
+B. Words denote the individual primarily, with the universal serving only as its qualifier
+C. Words denote neither, since generality is produced by excluding what the word does not apply to
+D. Words denote an indivisible sentence-entity in which universal and individual are undivided
 
-#### Supplemental MCQ 5
+**Answer: A.** Words denote the universal primarily, and the individual is reached through it in context
 
-Which one of the following is the most accurate statement?
+- **A:** Correct — repeatability of "cow" across many animals is explained by the word's relation to cow-ness, with the individual reached as its instance.
+- **B:** States the Nyāya position, which takes the qualified individual as primary and treats the universal as its qualifier.
+- **C:** States the Buddhist exclusion theory, which Mīmāṃsā rejects because pure negation cannot ground stable positive recognition.
+- **D:** States the Grammarian sound-burst theory, which both Mīmāṃsā sub-schools reject as an unnecessary additional entity.
 
-A. Unseen ritual potency (apūrva) mediates between completed action and a temporally remote result.
-B. It is a creator deity.
-C. It is the sound-universal of a word.
-D. It is identical with perceptual contact.
+**Examiner trap 21:** The stem's "or both" is ignored, and the answer caricatures Mīmāṃsā as knowing only universals and Nyāya as knowing only particulars, when the dispute concerns priority alone.
 
-**Answer: A. Unseen ritual potency (apūrva) mediates between completed action and a temporally remote result.**
+#### MCQ 22. How authorlessness secures the Veda
 
-**Explanation:** Unseen ritual potency (apūrva) explains deferred efficacy without requiring divine distribution.
+Which statement gives the Mīmāṃsā ground for Vedic authority?
 
-#### Supplemental MCQ 6 — statement combination
+A. The Veda is authoritative because an omniscient author cannot err, deceive or forget anything
+B. The Veda is authoritative because it has no author and so has no locus for defect at all
+C. The Veda is authoritative because successful ritual results confirm its statements over time
+D. The Veda is authoritative because its sentences are inferred to be true from the world's order
 
-Consider the following statements:
+**Answer: B.** The Veda is authoritative because it has no author and so has no locus for defect at all
 
-1. Unseen ritual potency (apūrva) mediates between completed action and a temporally remote result.
-2. It is a creator deity.
+- **A:** States the Nyāya God-guarantee, which Mīmāṃsā rejects because it requires proving existence, then omniscience, then truthfulness in turn.
+- **B:** Correct — unreliability in testimony is traced to authorial ignorance, deceit, partiality or forgetfulness, and an authorless text supplies no such locus.
+- **C:** Makes validity depend on later confirmation, which is the extrinsic thesis the school refuses on anti-regress grounds.
+- **D:** Turns scriptural authority into an inference from cosmic order, which is a design argument Mīmāṃsā uses against theism rather than for scripture.
 
-Which of the statements given above is/are correct?
+**Examiner trap 22:** "Revealed scripture" is glossed as "revealed by God," and the answer installs precisely the personal author whose removal is the whole point of the doctrine.
 
-A. 2 only
-B. 1 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+#### MCQ 23. Injunction, impelling force and the unseen potency
 
-**Answer: B. 1 only**
+Which statement correctly reports the Bhāṭṭa analysis of "one desiring heaven should sacrifice"?
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. Unseen ritual potency (apūrva) explains deferred efficacy without requiring divine distribution.
+A. Verbal impelling force produces the fruit, while objective impelling force produces the impulse
+B. A single undivided impelling force produces both the impulse and the fruit without any division
+C. Verbal impelling force produces the impulse, and objective impelling force produces the fruit
+D. Obligation binds the agent directly, so no impelling force needs to be posited in the sentence
 
-#### Supplemental MCQ 7
+**Answer: C.** Verbal impelling force produces the impulse, and objective impelling force produces the fruit
 
-Which one of the following is the most accurate statement?
+- **A:** Exchanges the two results, assigning the fruit to the word and the impulse to the act, which reverses the very distinction the doubling was introduced to draw.
+- **B:** Denies the doubling that defines the Bhāṭṭa analysis, whose whole point is that linguistic impelling and real production are different functions.
+- **C:** Correct — the sentence impels the qualified agent to undertake the act, and the act performed with proper means produces the result, mediated by unseen potency.
+- **D:** States Prabhākara's alternative, in which the directly apprehended to-be-done binds the agent without any two-fold analysis of force.
 
-A. Both theories are Grammarian sphoṭa-vāda.
-B. Prabhākara denies sentence meaning.
-C. Kumārila's word-first theory (abhihitānvaya) joins already denoted word-meanings; Prabhākara's connected-designation theory (anvitābhidhāna) takes words to signify only as connected.
-D. Kumārila says words never denote anything independently.
+**Examiner trap 23:** The two forces are memorised as a pair of Sanskrit terms without their two results, so the candidate can name them but cannot say which one reaches heaven.
 
-**Answer: C. Kumārila's word-first theory (abhihitānvaya) joins already denoted word-meanings; Prabhākara's connected-designation theory (anvitābhidhāna) takes words to signify only as connected.**
+#### MCQ 24. Atheism inside an orthodox school
 
-**Explanation:** The dispute concerns the route from words to sentential meaning.
+Which statement best expresses why Mīmāṃsā's rejection of a creator God is consistent with its
+defence of the Veda?
 
-#### Supplemental MCQ 8 — statement combination
+A. Because the school treats the Veda as a human composition whose value lies in its antiquity
+B. Because scriptural authority is grounded in impersonality, which divine authorship would destroy
+C. Because the ritual deities are denied altogether, leaving the sacrifice as the only reality
+D. Because the school accepts a creator for cosmology while denying him any role in scripture
 
-Consider the following statements:
+**Answer: B.** Because scriptural authority is grounded in impersonality, which divine authorship would destroy
 
-1. Kumārila's word-first theory (abhihitānvaya) joins already denoted word-meanings; Prabhākara's connected-designation theory (anvitābhidhāna) takes words to signify only as connected.
-2. Both theories are Grammarian sphoṭa-vāda.
+- **A:** Mīmāṃsā denies human composition as firmly as divine composition, and antiquity is not among the grounds it offers for authority.
+- **B:** Correct — a God-authored Veda would depend on proving that author's competence and sincerity, which is a weaker foundation than authorlessness.
+- **C:** Ritual deities are retained as mantra-denoted entities subordinate to the sacrifice; what is denied is their role as creators or dispensers of fruit.
+- **D:** The school denies a creator in cosmology too, arguing from a beginningless world, the motive problem and the sufficiency of action and unseen potency.
 
-Which of the statements given above is/are correct?
+**Examiner trap 24:** Atheism is reported as an embarrassing inconsistency in an orthodox school, when the sources present it as a consequence of the very doctrine that makes the school orthodox.
 
-A. 2 only
-B. Both 1 and 2
-C. Neither 1 nor 2
-D. 1 only
+#### REMEDIAL DRILLS
 
-**Answer: D. 1 only**
+#### MCQ 25. Repairing the instrument-count
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. The dispute concerns the route from words to sentential meaning.
+A learner writes: "Both Mīmāṃsā sub-schools accept six means of valid knowledge, including
+non-cognition." Which correction is required?
 
-#### Supplemental MCQ 9
+A. None, because the six-item list including non-cognition is common to both sub-schools
+B. The list must be reduced to four for both, since comparison is not accepted in Mīmāṃsā
+C. Postulation should be removed from the Prābhākara list while non-cognition is retained
+D. Prābhākara accepts five and rejects non-cognition as an independent instrument of knowledge
 
-Which one of the following is the most accurate statement?
+**Answer: D.** Prābhākara accepts five and rejects non-cognition as an independent instrument of knowledge
 
-A. Intrinsic validity (svataḥ-prāmāṇya) means cognition presents itself as valid unless defeated; falsity is established extrinsically.
-B. Every cognition remains true after decisive defeat.
-C. Validity requires a second cognition in every case.
-D. Memory is therefore always a fresh valid cognition.
+- **A:** Endorses the error under repair, and the six-item list belongs to Kumārila's line alone rather than to the school as a whole.
+- **B:** Comparison is accepted by both sub-schools and appears in the five-item and six-item lists alike, so the reduction to four is unfounded.
+- **C:** Inverts the actual position, since postulation is precisely the instrument Prabhākara does accept and non-cognition the one he refuses.
+- **D:** Correct — the single point of difference between the two lists is non-cognition, which Prabhākara explains away by perception of the bare locus.
 
-**Answer: A. Intrinsic validity (svataḥ-prāmāṇya) means cognition presents itself as valid unless defeated; falsity is established extrinsically.**
+**Examiner trap 25:** This is the most frequently repeated factual error in the topic, and it is fatal in any question that names Prabhākara, because it misstates his position in the first line.
 
-**Explanation:** Default entitlement is defeasible, not infallibility.
+#### MCQ 26. Repairing the two false-cognition theories
 
-#### Supplemental MCQ 10 — statement combination
+A learner writes: "Bhāṭṭa's contrary apprehension is the same as Nyāya's otherwise-apprehension,
+since both admit a false cognition." Which correction is required?
 
-Consider the following statements:
+A. Neither school admits a false cognition, so both descriptions should be replaced by non-discrimination
+B. Nyāya does not admit a false cognition, and its account should be described as indescribability instead
+C. Both admit a false cognition, but Bhāṭṭa misidentifies this object while Nyāya displaces a real one
+D. Bhāṭṭa does not admit a false cognition, since he explains illusion by conflating perception and memory
 
-1. Intrinsic validity (svataḥ-prāmāṇya) means cognition presents itself as valid unless defeated; falsity is established extrinsically.
-2. Every cognition remains true after decisive defeat.
+**Answer: C.** Both admit a false cognition, but Bhāṭṭa misidentifies this object while Nyāya displaces a real one
 
-Which of the statements given above is/are correct?
+- **A:** Non-discrimination is Prābhākara's theory, and applying it to two schools that expressly admit a false cognition erases three positions at once.
+- **B:** Indescribability is the Advaita account, and Nyāya's theory turns on a real object presented in the wrong place rather than on indeterminate status.
+- **C:** Correct — for Kumārila the shell before the subject is positively miscognised, whereas for Nyāya real silver known elsewhere is presented here.
+- **D:** Attributes Prabhākara's non-discrimination to Kumārila, reversing the two Mīmāṃsā theories that the 2022 question requires to be kept apart.
 
-A. 2 only
-B. 1 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Examiner trap 26:** The shared phrase "false cognition" masks a difference of object, and an answer that merges the two theories cannot deliver the four-column comparison examiners look for.
 
-**Answer: B. 1 only**
+#### MCQ 27. Repairing the account of Vedic authority
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. Default entitlement is defeasible, not infallibility.
+A learner writes: "The Veda is authoritative for Mīmāṃsā because God revealed it to the sages."
+Which correction is required?
 
-#### Supplemental MCQ 11
+A. The Veda is authorless, and its authority rests on the absence of any locus for authorial defect
+B. The Veda is authoritative because the sages who received it were verified as reliable witnesses
+C. The Veda is authoritative because its ritual prescriptions are confirmed by observed results
+D. The Veda is authoritative because inference from the world's order establishes a truthful author
 
-Which one of the following is the most accurate statement?
+**Answer: A.** The Veda is authorless, and its authority rests on the absence of any locus for authorial defect
 
-A. Both reduce it to divine testimony.
-B. Prabhākara alone accepts it independently.
-C. Kumārila accepts non-cognition (anupalabdhi) as an independent means for knowing absence; Prabhākara does not add it as a separate means of valid knowledge (pramāṇa).
-D. Neither school discusses absence cognition.
+- **A:** Correct — the school argues from no remembered author, the natural word-meaning relation and the eternality of word-units to a text free of authorial defect.
+- **B:** Reintroduces personal authority through the sages, whereas Mīmāṃsā treats reciters and teachers as transmitters rather than as authors or guarantors.
+- **C:** Grounds scripture in observed confirmation, which cannot reach a supersensible object and would surrender the school's intrinsic-validity thesis.
+- **D:** Restates the design argument that Mīmāṃsā rejects, since the world as a whole is not observed to be manufactured and a bodiless agent cannot be shown to act.
 
-**Answer: C. Kumārila accepts non-cognition (anupalabdhi) as an independent means for knowing absence; Prabhākara does not add it as a separate means of valid knowledge (pramāṇa).**
+**Examiner trap 27:** The English phrase "revealed scripture" is imported without examination, and one careless sentence converts the most anti-theistic orthodox school into a theistic one.
 
-**Explanation:** This is a standard Bhāṭṭa-Prābhākara distinction.
+#### MCQ 28. Repairing the two semantic labels
 
-#### Supplemental MCQ 12 — statement combination
+A learner writes: "Prabhākara holds connection-of-the-already-denoted and Kumārila holds
+denotation-of-the-connected." Which correction is required?
 
-Consider the following statements:
+A. Both labels belong to Kumārila, since Prabhākara has no distinctive theory of sentence meaning
+B. Both labels belong to Prabhākara, since Kumārila treats sentence meaning as indivisible
+C. Neither label is Mīmāṃsā's, since both were introduced by the Grammarian sound-burst tradition
+D. The labels are exchanged: word-priority is Kumārila's and connected denotation is Prabhākara's
 
-1. Kumārila accepts non-cognition (anupalabdhi) as an independent means for knowing absence; Prabhākara does not add it as a separate means of valid knowledge (pramāṇa).
-2. Both reduce it to divine testimony.
+**Answer: D.** The labels are exchanged: word-priority is Kumārila's and connected denotation is Prabhākara's
 
-Which of the statements given above is/are correct?
+- **A:** Prabhākara's connected-denotation thesis, supported by the learning argument, is one of his most distinctive contributions and cannot be removed.
+- **B:** Kumārila does not treat sentence meaning as indivisible; that is the Grammarian view which both sub-schools reject.
+- **C:** Both labels are internal Mīmāṃsā terms, and the sound-burst theory is a rival that Mīmāṃsā argues against rather than a source of these theses.
+- **D:** Correct — Kumārila's words denote first and are then connected, while Prabhākara's words denote only as already connected in the sentence.
 
-A. 2 only
-B. Both 1 and 2
-C. Neither 1 nor 2
-D. 1 only
+**Examiner trap 28:** The two compound terms differ by a syllable and are memorised phonetically, so under time pressure the candidate reproduces the pair in whichever order comes first.
 
-**Answer: D. 1 only**
+#### MCQ 29. Repairing the self-awareness mechanisms
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. This is a standard Bhāṭṭa-Prābhākara distinction.
+A learner writes: "Bhāṭṭa explains knowledge of cognition by threefold awareness and Prabhākara by
+the object's knownness." Which correction is required?
 
-#### Supplemental MCQ 13
+A. Both explanations belong to Nyāya, which alone addresses how a cognition is itself known
+B. The mechanisms are exchanged: threefold awareness is Prabhākara's and knownness is Kumārila's
+C. Neither mechanism is needed, since both sub-schools accept the second-order after-cognition
+D. Both mechanisms belong to Kumārila, who uses threefold awareness for perception and knownness for memory
 
-Which one of the following is the most accurate statement?
+**Answer: B.** The mechanisms are exchanged: threefold awareness is Prabhākara's and knownness is Kumārila's
 
-A. Kumārila explains error through misapprehension (viparīta-khyāti); Prabhākara through non-apprehension of difference (akhyāti).
-B. Both accept Nyāya's misplacement theory without alteration.
-C. Both hold the illusory object wholly unreal.
-D. Prabhākara explains error by sentence-sphoṭa.
+- **A:** Nyāya's own mechanism is the distinct second-order after-cognition, and it defends neither self-luminosity nor inference from knownness.
+- **B:** Correct — Prabhākara's single act discloses knower, known and knowing, while Kumārila denies self-luminosity and infers cognition from acquired knownness.
+- **C:** The after-cognition is the Nyāya solution that both Mīmāṃsā sub-schools reject, each for its own reasons.
+- **D:** Splits one thinker across two incompatible mechanisms and would leave Prabhākara with no account of self-awareness at all.
 
-**Answer: A. Kumārila explains error through misapprehension (viparīta-khyāti); Prabhākara through non-apprehension of difference (akhyāti).**
+**Examiner trap 29:** Because Prabhākara is the economical thinker elsewhere, candidates expect him to hold the inferential account, when economy is exactly what makes him affirm self-luminosity.
 
-**Explanation:** Their error theories follow different analyses of presentation, memory and discrimination.
+#### MCQ 30. Repairing the claim about inference
 
-#### Supplemental MCQ 14 — statement combination
+A learner writes: "Mīmāṃsā rejects inference, which is why it needs postulation and non-cognition."
+Which correction is required?
 
-Consider the following statements:
+A. Mīmāṃsā rejects inference only in ritual contexts, accepting it freely in ordinary matters
+B. Mīmāṃsā accepts inference but denies that it can be applied to any supersensible object
+C. Mīmāṃsā accepts inference fully and rejects only the claim that all mediate knowing is inferential
+D. Mīmāṃsā accepts inference as its primary instrument and treats perception as derivative from it
 
-1. Kumārila explains error through misapprehension (viparīta-khyāti); Prabhākara through non-apprehension of difference (akhyāti).
-2. Both accept Nyāya's misplacement theory without alteration.
+**Answer: C.** Mīmāṃsā accepts inference fully and rejects only the claim that all mediate knowing is inferential
 
-Which of the statements given above is/are correct?
+- **A:** No such contextual restriction exists; the school uses standard sign-based inference wherever a concomitance is available, ritual or otherwise.
+- **B:** Inference is indeed unable to reach duty, but that is a limitation of its object and not a rejection of the instrument as such.
+- **C:** Correct — the school uses smoke and fire in the ordinary way and opposes only reductionism, which is what licenses postulation and non-cognition.
+- **D:** Perception is the most basic disclosure of sensible objects, and no Mīmāṃsā text makes inference prior to it.
 
-A. 2 only
-B. 1 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Examiner trap 30:** The existence of two extra instruments is read as hostility to inference, and the answer then contradicts the school's own use of the smoke-and-fire example.
 
-**Answer: B. 1 only**
+#### MCQ 31. Repairing the injunction taxonomies
 
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. Their error theories follow different analyses of presentation, memory and discrimination.
+A learner writes: "The three kinds of injunction are the act, its subsidiary application and the
+qualified agent." Which correction is required?
 
-#### Supplemental MCQ 15
+A. Those belong to a separate coordination grid; the three kinds are novel, restrictive and exclusionary
+B. Those are correct, but a fourth kind covering performance-order must be added to complete the list
+C. Those belong to the five-function sentence taxonomy, which also includes mantra and praise passages
+D. Those belong to the three factors of impelling force, namely result, means and procedure
 
-Which one of the following is the most accurate statement?
+**Answer: A.** Those belong to a separate coordination grid; the three kinds are novel, restrictive and exclusionary
 
-A. Sphoṭa is Kumārila's name for unseen ritual potency (apūrva).
-B. Prabhākara makes sphoṭa the only means of valid knowledge (pramāṇa).
-C. Sentence-sphoṭa belongs to the Grammarian comparison; Mīmāṃsā normally explains comprehension through words, wordhood and sentence-conditions.
-D. Mīmāṃsā attributes sphoṭa to Jaimini as ritual potency.
+- **A:** Correct — the act, subsidiary application, performance-order and qualified agent form a four-part scheme for coordinating a complex rite, not the logical classification of injunctions.
+- **B:** Adding performance-order completes the coordination grid but leaves the logical classification of injunctions still unstated.
+- **C:** The five-function taxonomy classifies injunction, prohibition, mantra, name and praise passage, and contains none of the four listed items.
+- **D:** The three factors answer what is to be brought about, by what means and by what procedure, which is a different scheme again.
 
-**Answer: C. Sentence-sphoṭa belongs to the Grammarian comparison; Mīmāṃsā normally explains comprehension through words, wordhood and sentence-conditions.**
+**Examiner trap 31:** Three separate schemes are collapsed into one long list of Sanskrit terms, and the answer then cannot show that Mīmāṃsā's hermeneutics is systematically organised.
 
-**Explanation:** Mentioning sphoṭa requires an explicit attribution firewall.
+#### MCQ 32. Repairing the account of liberation and the self
 
-#### Supplemental MCQ 16 — statement combination
+A learner writes: "Mīmāṃsā holds one universal self, and liberation is realisation of identity with
+Brahman." Which correction is required?
 
-Consider the following statements:
+A. Mīmāṃsā denies any enduring self, and liberation is the cessation of the momentary series
+B. Mīmāṃsā holds many eternal selves, and liberation is release from karmic embodiment and pain
+C. Mīmāṃsā holds one universal self, but liberation is granted by God to the qualified agent
+D. Mīmāṃsā holds many eternal selves, and liberation is the permanent attainment of heaven by ritual
 
-1. Sentence-sphoṭa belongs to the Grammarian comparison; Mīmāṃsā normally explains comprehension through words, wordhood and sentence-conditions.
-2. Sphoṭa is Kumārila's name for unseen ritual potency (apūrva).
+**Answer: B.** Mīmāṃsā holds many eternal selves, and liberation is release from karmic embodiment and pain
 
-Which of the statements given above is/are correct?
+- **A:** A momentary series is the Buddhist position, and it would destroy the agent–enjoyer identity that ritual responsibility requires.
+- **B:** Correct — the school accepts a plurality of eternal selves as knower, agent and enjoyer, and later accounts describe release as the end of fresh merit, demerit and embodiment.
+- **C:** Retains the Advaitic single self and adds a divine grant of liberation, importing exactly the creator the school argues against.
+- **D:** Confuses the ritual fruit with liberation, whereas heaven is a karmically produced result and release is the cessation of such production.
 
-A. 2 only
-B. Both 1 and 2
-C. Neither 1 nor 2
-D. 1 only
+**Examiner trap 32:** The liberation doctrine is late and comparatively thin, so candidates fill the gap with whichever neighbouring school they know best, usually Advaita.
 
-**Answer: D. 1 only**
-
-**Explanation:** Statement 1 is correct; statement 2 confuses a nearby doctrine. Mentioning sphoṭa requires an explicit attribution firewall.
-
-### REVIEW-PROMOTED KNOWLEDGE-SOURCE AND HERMENEUTIC MCQS
-
-#### 49. Which account correctly states comparison in standard later Mīmāṃsā?
-
-A. Perceiving a present gavaya as cow-like produces the new cognition that the remembered absent cow is similar to this gavaya.
-B. Hearing “a gavaya resembles a cow” directly fixes every future individual as gavaya.
-C. Similarity is inferred from a universal rule connecting every cow and gavaya.
-D. Comparison is only another name for verbal testimony.
-
-**Answer: A. Perceiving a present gavaya as cow-like produces the new cognition that the remembered absent cow is similar to this gavaya.**
-
-**Explanation:** The word-reference mechanism in option B is Nyāya's account. Mīmāṃsā makes the fresh cognition concern the absent familiar object's similarity to the presently perceived object.
-
-#### 50. Which sequence correctly describes Mīmāṃsā perception?
-
-A. Determinate awareness first, followed by an objectless state.
-B. Indeterminate non-verbal awareness first, followed by determinate qualified cognition.
-C. Inference first, followed by sense-contact.
-D. Testimony first, followed by denial of the external object.
-
-**Answer: B. Indeterminate non-verbal awareness first, followed by determinate qualified cognition.**
-
-**Explanation:** Determinate perception articulates class, quality, action and name without making the original sensible object unreal.
-
-#### 51. Which pairing is correct?
-
-A. Perceptual postulation—completion of a heard ellipsis; verbal postulation—stout Devadatta.
-B. Both types are ordinary inference from an independently known universal.
-C. Perceptual postulation—reconciliation of perceived facts; verbal postulation—supplementation required by heard words.
-D. Both types are tentative hypotheses with no claim of necessity.
-
-**Answer: C. Perceptual postulation—reconciliation of perceived facts; verbal postulation—supplementation required by heard words.**
-
-**Explanation:** The distinction concerns the source of the explanatory tension, while both remain necessary postulation.
-
-#### 52. Which list gives the standard answer-worthy functions of Vedic sentences?
-
-A. Substance, quality, action, universal and inherence.
-B. Perception, inference, comparison, testimony and memory.
-C. Creation, preservation, destruction, concealment and grace.
-D. Injunction, prohibition, mantra, name and explanatory or praise passage.
-
-**Answer: D. Injunction, prohibition, mantra, name and explanatory or praise passage.**
-
-**Explanation:** Non-injunctive passages retain significance through their role in identifying, assisting or supporting action-guiding text.
-
-#### 53. Which statement best describes the Mīmāṃsā self and liberation?
-
-A. Many enduring selves ground agency and fruit; later liberation ends fresh karmic production, embodiment and painful experience.
-B. One Brahman alone acts ritually through illusory selves.
-C. A momentary cognition-stream receives another stream's ritual fruit.
-D. Liberation is permanent sensory heaven produced directly by a creator.
-
-**Answer: A. Many enduring selves ground agency and fruit; later liberation ends fresh karmic production, embodiment and painful experience.**
-
-**Explanation:** Mīmāṃsā preserves personal continuity without importing Advaita identity or a Nyāya creator-fruit-dispenser.
-
-#### 54. How does Mīmāṃsā answer Buddhist meaning through exclusion?
-
-A. By denying that words can apply repeatedly.
-B. By arguing that stable positive recognition requires a real shared class-character, not exclusion alone.
-C. By treating every universal as a creator God's idea.
-D. By reducing every word to a private memory-image.
-
-**Answer: B. By arguing that stable positive recognition requires a real shared class-character, not exclusion alone.**
-
-**Explanation:** The dispute is between universal realism and the Buddhist attempt to explain word-meaning through exclusion of non-members.
-
-#### 55. Which lineage and ownership statement is accurate?
-
-A. Prabhākara wrote the Mīmāṃsā Sūtra and Jaimini founded Advaita.
-B. Śabara founded Nyāya and Kumārila accepted only perception.
-C. Jaimini supplies the sūtra-frame, Śabara the base commentary, and Kumārila and Prabhākara develop rival Mīmāṃsā lines.
-D. Pūrva-Mīmāṃsā and Vedānta have identical primary textual purposes.
-
-**Answer: C. Jaimini supplies the sūtra-frame, Śabara the base commentary, and Kumārila and Prabhākara develop rival Mīmāṃsā lines.**
-
-**Explanation:** Pūrva-Mīmāṃsā owns duty and ritual hermeneutics; Vedānta owns Brahman-centred Upaniṣadic interpretation.
-
-#### 56. Which distinction about testimony is correct?
-
-A. All testimony is divine speech.
-B. Impersonal testimony depends on a remembered human author.
-C. Personal testimony cannot state ordinary facts.
-D. Personal testimony depends on a competent speaker; impersonal Vedic testimony does not depend on an author and can enjoin supersensible duty.
-
-**Answer: D. Personal testimony depends on a competent speaker; impersonal Vedic testimony does not depend on an author and can enjoin supersensible duty.**
-
-**Explanation:** Mīmāṃsā distinguishes speaker-dependent ordinary testimony from authorless Vedic testimony and also distinguishes fact-stating from action-enjoining sentences.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### EXAM APPLICATION 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)
+> **Ownership.** Mīmāṃsā owns fourteen primary parts in the 2018–2025 Paper I corpus and appears as a
+> primary owner in every year of that window: one part each in 2018, 2019, 2020 and 2021, two each in
+> 2022, 2023 and 2025, and four in 2024. All fourteen are reproduced and solved below.
 
-#### Exam route
+> **Status of the model answers.** UPSC Mains publishes no official answer key or model answer. Every
+> solution below is independent learner practice written to the stated word band and directive, and it
+> is never presented as an official key.
 
-- Open broad answers with **dharma-jijnasa through Vedic injunction**.
-- Connect injunction (codanā) -> impelling force (bhāvanā)/obligation (niyoga) -> action -> unseen ritual potency (apūrva) -> fruit.
-- Distinguish Bhatta result-oriented ritual psychology from Prabhakara's stronger duty emphasis.
-- Do not present Mimamsa as ritualism with unrelated epistemology; show the structural connection.
+> **Declared answer bands.** 10 marks: 150–200 words. 15 marks: 250–300 words. 20 marks: 340–400
+> words. Every solved answer states its exact word count.
 
-### EXAM APPLICATION 2 — Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture
+### VERIFIED PREVIOUS-YEAR QUESTIONS — 14 COMPLETE SOLUTIONS
 
-#### Exam route
+#### Solved PYQ 1 — 2018, Question 8(a), 20 marks
 
-- **2018 Q8(a):** separate self-manifestation from validity and compare Nyaya, both Mimamsa lines and Advaita.
-- **2020 Q5(c), 2024 Q8(c):** memory may be true but is not a means of valid knowledge (pramāṇa) because it lacks novelty.
-- **2025 Q5(c):** compare intrinsic and extrinsic validity by origin, ascertainment, regress and correction.
-- State both: intrinsic validity (svataḥ-prāmāṇya) and externally established invalidity (parataḥ-aprāmāṇya).
+> **Printed question.** Does the admission of Svayaṃprakāśavāda necessarily lead to the admission of
+> Svataḥprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāṃsakas and the Advaita Vedāntins.
 
-### EXAM APPLICATION 3 — Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence
+**Directive read.** "Necessarily" makes this a question about entailment, not about popularity. A
+survey without a verdict fails; a verdict without the survey is unsupported.
 
-#### Exam route
+**Model answer (398 words).**
 
-- **2022 Q6(c):** state Nyaya's inferential reduction fairly, then give incompatibility, missing invariable concomitance (vyāpti) and structural objections.
-- **2024 Q8(b):** apply the candidate-success example without turning postulation (arthāpatti) into loose speculation.
-- **2021 Q6(c), 2023 Q6(b), 2025 Q6(c):** define absence (abhāva), yogyata and the Bhatta-Prabhakara divide.
-- Always state what would be perceived if present.
+Self-luminosity (**svayaṃprakāśatva**) asks whether a cognition is manifest without another
+cognition. Intrinsic validity (**svataḥ-prāmāṇya**) asks whether a cognition is entitled to *prima
+facie* truth without external certification. Manifestation and truth-entitlement are distinct
+questions, so no entailment can be read off the definitions; it would have to be argued, and no
+school argues it.
 
-### EXAM APPLICATION 4 — Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories
+The Naiyāyikas accept neither thesis. A cognition is known through a distinct later cognition
+(**anuvyavasāya**) of the form "I know the pot," and validity is ascertained extrinsically through
+successful activity (**pravṛtti-sāmarthya**) or confirming perception (**saṃvādi-pratyakṣa**). Nyāya
+is therefore not the awkward case of self-luminosity without intrinsic validity; it simply denies
+both.
 
-#### Exam route
+The Mīmāṃsakas divide, and this division decides the question. Prabhākara holds that one cognition
+discloses knower, known and knowing together (**tripuṭī-saṃvit**), comparing cognition to a lamp
+that shows itself while showing the room; he also holds intrinsic validity. Kumārila denies
+self-luminosity: cognition is like a painter who does not paint himself, and its occurrence is
+inferred from the object's acquired knownness (**jñātatā**). Yet Kumārila is among the strongest
+defenders of intrinsic validity, arguing that if every cognition needed another to certify it an
+infinite regress (**anavasthā**) would follow.
 
-- **2022 Q7(a):** explain why shared intrinsic validity permits divergent error theories.
-- **2024 Q8(a):** compare threefold awareness (tripuṭī-saṃvit), knownness (jñātatā) and Nyaya anuvyavasaya.
-- Use shell-silver for both error accounts, but do not confuse Bhatta contrary-cognition theory of error (viparīta-khyāti) with Nyaya anyatha-khyati.
-- The Bhatta view proves intrinsic validity need not entail self-luminous cognition.
+Kumārila is therefore the decisive counterexample. A single actual case of intrinsic validity without
+self-luminosity refutes a claim of necessity. Nor is his combination unstable: cognition is inferred
+from what it leaves behind in the object, while its truth-entitlement is settled by the anti-regress
+argument, so the two issues are handled by different machinery.
 
-### EXAM APPLICATION 5 — Word Meaning, Sentence Meaning and Ritual Hermeneutics
+The Advaita Vedāntins affirm both, but on different ground. Self-luminosity belongs to consciousness
+as such and not merely to cognitive episodes, while empirical cognition carries *prima facie*
+authority until sublated within a doctrine of levels of reality. Their pairing is therefore a
+substantive metaphysical commitment rather than a definitional consequence — which is exactly what
+the question's word "necessarily" is testing.
 
-#### Exam route
+The answer is accordingly negative. The two doctrines travel together in Prābhākara and in Advaita,
+come apart in Bhāṭṭa, and are jointly rejected by Nyāya.
 
-- **2023 Q8(c):** compare universal-first Mimamsa with qualified-individual-first Nyaya.
-- **2024 Q5(d):** distinguish abhihitanvaya from anvitabhidhana through lexical priority and sentence unity.
-- Include akanksa, yogyata and sannidhi.
-- Do not collapse sentence-composition theory into the universal-particular reference debate.
+Two qualifications complete the discussion. First, independence is not irrelevance: a self-luminous
+cognition makes intrinsic validity easier to defend. Second, the standing objection that intrinsic
+validity cannot explain error is answered on both Mīmāṃsā routes — Prabhākara by admitting no false
+cognition, Kumārila by tracing falsity to extrinsic defect and later sublation.
 
-### EXAM APPLICATION 6 — Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)
+The verdict, then, is that manifestation and truth-entitlement are two properties, not one under two
+names.
 
-#### Exam route
+#### Solved PYQ 2 — 2019, Question 5(e), 10 marks
 
-- **2019 Q5(e):** establish Vedic authority through authorlessness, word-eternity and unique access to Vedic duty (dharma).
-- Compare Mimamsa exclusion of author with Nyaya's omniscient author.
-- For anti-theism, explain both redundancy and partiality dilemmas.
-- Qualify liberation (mokṣa) historically: early stress on Vedic duty (dharma) and heaven, later negative liberation.
+> **Printed question.** How does Mīmāṃsā establish the authority of Vedic knowledge?
 
-### EXAM APPLICATION 7 — Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context
+**Directive read.** "How ... establish" asks for the argumentative route, not for the claim. State
+the mechanism, then one line of critical residue.
 
-#### Exam route
+**Model answer (199 words).**
 
-Use a four-column structure: **objection -> Mimamsa reply -> gain -> residual pressure**.
+Mīmāṃsā establishes Vedic authority by removing its author. Duty (**dharma**) is supersensible, and
+the formula **codanā-lakṣaṇo'rtho dharmaḥ** makes Vedic injunction its distinguishing mark, so verbal
+testimony is not a fallback but the only competent instrument.
 
-High-risk checks:
+The argument proceeds by subtraction. Unreliability in testimony is traced to authorial defects: an
+author may err, deceive, be partial or forget. No author of the Veda is remembered, though an author
+of so momentous a text would have been; the word–meaning relation is natural (**autpattika**) rather
+than instituted convention; and word-units possess eternality (**śabda-nityatva**), so utterance
+manifests rather than produces them. A text with no author has no locus for such defect.
 
-1. Prabhakara has five means of valid knowledge (pramāṇas).
-2. Intrinsic validity is defeasible.
-3. Non-cognition (anupalabdhi) belongs independently to Bhatta.
-4. Mimamsa secures Veda without God.
-5. Unseen ritual potency (apūrva) is neither fate nor God in disguise.
+This is reinforced by intrinsic validity (**svataḥ-prāmāṇya**): cognition is authoritative on arrival
+and loses authority only through a defect (**doṣa**) or a defeater (**bādhaka**). Since duty is a
+domain no rival instrument reaches, no defeater arises there — which also blocks the charge that
+rival scriptures become equally self-valid, for those have authors and defect-loci.
 
-### EXAM APPLICATION 8 — PYQ Routing, Answer Architecture and Complete Exam Deployment
+Against Nyāya's omniscient author, Mīmāṃsā objects that one must prove God's existence, omniscience
+and truthfulness in turn.
 
-#### Exam route
+Critically, the defence rests on two contested props: the absence of a remembered author, and the
+naturalness of word-meaning.
 
-The complete practice section contains:
+#### Solved PYQ 3 — 2020, Question 5(c), 10 marks
 
-- **14 verified solved PYQs** from 2018-2025.
-- **32 original MCQs** with strict A-B-C-D rotation.
-- Remedial error-correction drills.
-- Original 10-, 15- and 20-mark questions with model solutions.
-- Final consolidated register notes after all teaching and practice.
+> **Printed question.** Why is memory not a valid knowledge according to Mīmāṃsā?
 
-### Learning Design and Retrieval Map
+**Directive read.** A "why" question with a single-point answer. The mark lies in giving the correct
+reason and naming the condition, not in listing memory's defects.
 
-This package follows the doctrinal chain that actually organizes the topic:
+**Model answer (200 words).**
 
-```text
-VEDIC DUTY (dharma) KNOWN THROUGH VEDIC INJUNCTION
-                |
-                v
-DEFAULT TRUST IN COGNITION
-                |
-                v
-SPECIAL MEANS OF VALID KNOWLEDGE (pramāṇas) FOR WHAT INFERENCE OR PERCEPTION CANNOT EXHAUST
-                |
-                +--> postulation (arthāpatti) -> explanatory supplementation
-                +--> non-cognition (anupalabdhi) -> determinate absence
-                +--> verbal testimony (śabda) -> supersensible duty
-                |
-                v
-LANGUAGE + HERMENEUTICS + ACTION
-                |
-                v
-UNSEEN RITUAL POTENCY (apūrva), ACTION AND MORAL CONSEQUENCE (karma), DUTY, AND LATER LIBERATION
-  (mokṣa)
-```
+Memory (**smṛti**) is excluded not because it is unreliable but because it is unoriginal. A means of
+valid knowledge (**pramāṇa**) is the operative source of a *fresh* true cognition, and memory
+supplies none.
 
-> **Master distinction:** Mīmāṃsā is strongest when read as a theory of **knowledge in the service of duty**. If you separate means of valid knowledge (pramāṇa) theory from injunction, Vedic authority, language and unseen ritual potency (apūrva), the system starts looking like a disconnected list of doctrines.
+Prabhākara's argument runs in five steps. An instrument must generate a new cognition of an object;
+memory depends on an earlier cognition together with its latent impression (**saṃskāra**); it
+reproduces old content; it does not reveal a new object as presently known; therefore it is not an
+instrument. The condition it fails is novelty (**anadhigatatva**) — not-already-ascertained.
 
-### Visual - Hermeneutic Knowledge Map
+The distinction must be stated explicitly, because it is what the question tests. Memory may be true.
+It may be useful. It may guide action successfully. None of this confers instrument-status, because
+the title tracks novel valid disclosure alone. Seeing a temple now is perception; recalling
+yesterday's visit is memory, and the latter is not new knowledge of the temple.
 
-The same map should be mentally reused in answers: validity -> means of valid knowledge (pramāṇa) -> language -> injunction -> unseen ritual potency (apūrva) -> criticism.
+Nyāya reaches the same verdict by the same route, treating memory as re-presentation rather than
+fresh disclosure.
 
-### Rapid Retrieval Matrix
+The exclusion is nevertheless a verdict about status, not about irrelevance. Memory remains
+indispensable within comparison (**upamāna**), within Prabhākara's analysis of error, and within
+ordinary sentence-comprehension. Only retrieval's claim to the title is denied.
 
-| Prompt | One-line recall spine |
-|---|---|
-| Orientation | inquiry into Vedic duty (dharma) through Vedic injunction |
-| Validity | intrinsic validity, extrinsic invalidity |
-| Means of valid knowledge (pramāṇas) | 5 Prābhākara / 6 Bhāṭṭa |
-| Memory | not means of valid knowledge (pramāṇa) because no novelty |
-| Postulation (arthāpatti) | explanatory compulsion, Devadatta case |
-| Non-cognition (anupalabdhi) | non-perception of what would be perceived if present |
-| Self-awareness | threefold awareness (tripuṭī-saṃvit) vs knownness (jñātatā) vs anuvyavasāya |
-| Error | non-discrimination theory of error (akhyāti) vs contrary-cognition theory of error (viparīta-khyāti) |
-| Semantics | abhihitānvaya vs anvitābhidhāna |
-| Veda | apauruṣeya, eternal, self-valid for Vedic duty (dharma) |
-| Anti-theism | action and moral consequence (karma) and unseen ritual potency (apūrva) make creator-God redundant |
-| Liberation (mokṣa) | later negative release, not Brahman-identity |
+#### Solved PYQ 4 — 2021, Question 6(c), 15 marks
 
-### SOLVED PYQ WORKBOOK - ALL 14 VERIFIED QUESTIONS
+> **Printed question.** What, according to Mīmāṃsakas, is the ontological status of abhāva (absence)
+> and how does one know it? Explain and examine.
 
-#### Solved PYQ 1 - 2018 Q8(a), 20 marks
+**Directive read.** Two demands — status and route — plus "examine," which requires the internal
+disagreement and a graded close.
 
-**Question:** Does the admission of Svayaṃprakāśavāda necessarily lead to the admission of Svataḥprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāṃsakas and the Advaita Vedāntins.
+**Model answer (270 words).**
+
+For Bhāṭṭa Mīmāṃsā, absence (**abhāva**) is real. It is not a shadow cast by language but a
+structured content with a counterpositive (**pratiyogin**), the entity whose absence it is; "absence
+of pot" is therefore an ontological item, and negative cognition has a genuine object.
+
+The route to it is a distinct instrument. Kumārila argues that we do know absences — "there is no
+pot on the table" — that the cognition is definite and action-guiding, that it is not perception,
+which yields positive content, not inference, which requires a positive sign, and not memory,
+comparison or testimony in the typical case. An independent source is therefore required, and that
+source is non-cognition (**anupalabdhi**): non-apprehension of what would be apprehended if present.
+
+The instrument is tightly limited by fitness (**yogyatā**). The absent object must be perceptible in
+kind, the locus suitable, the organ functioning, and light, distance and attention proper. Hence "no
+pot on this lit table" is knowledge, while "no atoms here" is not. This limitation answers the charge
+of subjectivism and simultaneously defeats the inferential reduction, since treating non-seeing as a
+sign already presupposes the evidentiary force fitness supplies.
 
-**Model solution**
+Examining the position, the Mīmāṃsakas do not speak with one voice. Prabhākara holds that what is
+known is simply the locus as unqualified by the absent object, so no separate instrument is needed.
+Nyāya accepts absence as real but takes it to be directly perceived — "pot-absence-on-the-floor" —
+so Nyāya and Prābhākara converge against Bhāṭṭa on independence for different reasons.
 
-The relation is close but **not logically necessary**. **Svayaṃprakāśavāda** concerns how cognition or consciousness becomes manifest; **svataḥ-prāmāṇyavāda** concerns whether cognition carries its own prima facie validity. Manifestation and validity therefore address two different questions.
+The graded verdict is that Kumārila preserves the phenomenology of negative cognition most
+faithfully while carrying the heaviest ontology, a cost he expressly accepts.
 
-The **Naiyāyikas** deny both theses. A cognition is known through a later **anuvyavasāya**, and its validity is established extrinsically through correspondence, successful action or later confirmation. For Nyāya, immediate appearance does not yet amount to certified truth.
+#### Solved PYQ 5 — 2022, Question 6(c), 15 marks
 
-Among the **Mīmāṃsakas**, the issue divides sharply. **Prābhākara** supports a strong form of self-revelation through **threefold awareness (tripuṭī-saṃvit)**: knower, known and knowledge appear together. He also supports intrinsic validity, because another validating cognition would generate regress. Here self-luminosity and intrinsic validity travel together.
+> **Printed question.** How do Mīmāṃsakas refute the Nyāya view that Implication (arthāpatti) is
+> reducible to Inference (anumāna) and establish Implication as an independent means of valid
+> knowledge (pramāṇa)? Critically discuss.
 
-But **Kumārila Bhaṭṭa** breaks any claim of necessity. He too accepts intrinsic validity: cognition is trusted unless defeated by later contradiction or defect-awareness. Yet he denies that cognition is self-luminous. Cognition is known through the object's **knownness (jñātatā)** or cognizedness. Thus one may defend intrinsic validity (svataḥ-prāmāṇya) without accepting svayaṃprakāśa.
+**Directive read.** Two tasks — refute, then establish — and "critically" demands that the residual
+Nyāya pressure be recorded.
 
-**Advaita Vedānta** complicates the issue further. Advaita strongly affirms self-luminous consciousness, but its final subject is not merely episodic cognition; it is consciousness as such, ultimately ātman-Brahman. Empirical cognitions function as valid until sublated, but Advaita's deepest self-luminosity thesis is metaphysical rather than merely epistemic. Hence the inference from self-revelation to intrinsic validity still requires argument.
+**Model answer (273 words).**
+
+Postulation (**arthāpatti**) is the necessary postulation of an unperceived fact to remove an
+incompatibility (**anupapatti**) between facts already known. Devadatta is stout; he does not eat by
+day; stoutness cannot stand with total absence of nourishment; therefore night-eating is posited as
+the minimally reconciling supplement. It is neither perceived here nor remembered.
+
+Nyāya attempts a reduction: fatness is the reason (**hetu**), eating the probandum (**sādhya**), and
+the concomitance is "whoever is fat eats." Mīmāṃsā refutes this on three independent grounds.
+
+First, no concomitance is independently established. Inference requires **vyāpti** known beforehand,
+and no prior universal rule about stout day-fasters exists; the cognition arises because the facts
+would otherwise conflict. Second, the direction of reasoning differs: inference moves from observed
+sign to unobserved signified, whereas postulation moves from explanatory tension to a reconciling
+postulate — not "this sign indicates that fact" but "without that postulate, these facts are
+inexplicable." Third, there is no subject–reason–probandum structure at all; there is a clash of
+accepted facts and a demanded supplementation.
 
-| School | Self-luminosity? | Intrinsic validity? | Result |
-|---|---|---|---|
-| Nyāya | No | No | both denied |
-| Prābhākara Mīmāṃsā | Yes | Yes | close linkage |
-| Bhāṭṭa Mīmāṃsā | No | Yes | decisive counterexample to necessity |
-| Advaita | Yes, at the level of consciousness itself | broad presumption of validity until sublation | related, but not a simple entailment |
+The reduction is then shown to be circular. The concomitance Nyāya needs is not independently known;
+if it is claimed as known, it was abstracted from lived cases by exactly the tension-driven move
+under dispute. The reduction consumes its own conclusion.
 
-**Conclusion:** self-luminosity may support intrinsic validity, but it does not necessarily entail it. The Bhāṭṭa position proves that a thinker may deny self-luminosity and still defend intrinsic validity; therefore the two doctrines must be kept conceptually distinct.
+Positively, an instrument is admitted wherever reduction fails without remainder, and this cognition
+is neither sign-based nor positively perceptual — hence its independent standing, accepted by both
+Mīmāṃsā sub-schools.
 
-**Why this earns marks:** It separates manifestation from validity, compares all three requested schools, and uses the Bhāṭṭa position as the decisive argument against any claim of strict entailment.
+Critically, Nyāya can still press that "explanatory necessity" conceals a suppressed general premise.
+Mīmāṃsā's strongest reply is that its claim is stronger than inference to the best explanation: the
+postulate is not merely best, but required.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 1 - 2018 Q8(a), 20 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+#### Solved PYQ 6 — 2022, Question 7(a), 20 marks
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+> **Printed question.** Inspite of accepting the intrinsic validity of knowledge, why and how
+> Prabhākara and Kumārila differ in their interpretation of erroneous cognition? Discuss.
 
-#### Solved PYQ 2 - 2019 Q5(e), 10 marks
+**Directive read.** The "in spite of" clause *is* the question. The answer must show that the two
+error-theories are two defences of one shared thesis.
 
-**Question:** How does Mīmāṃsā establish the authority of Vedic knowledge?
+**Model answer (393 words).**
 
-**Model solution**
+Both Prabhākara and Kumārila hold that validity is intrinsic and invalidity extrinsic: a cognition
+is authoritative on arrival, and falsity requires a defect (**doṣa**) and is detected by a defeater
+(**bādhaka**). Precisely because the thesis is shared, illusion becomes the system's stress-test —
+and each thinker protects the thesis by protecting a different thing.
 
-Mīmāṃsā establishes Vedic authority through **Vedic authorlessness (apauruṣeyatva)**, **eternity of word (śabda-nityatva)**, and the special domain of **Vedic duty (dharma)**. The Veda is authoritative because it is **authorless**, eternal and therefore free from the defects that affect personal testimony - ignorance, deception, forgetfulness or partiality. A human or divine author would introduce precisely the kind of locus of error that Mīmāṃsā wants to exclude.
+Prabhākara defends non-apprehension of difference (**akhyāti**, more precisely
+**vivekākhyāti**). In the shell-silver case the subject validly perceives *this shining thing*; the
+subject also validly recalls previously experienced silver; the failure lies in not apprehending the
+difference between the two. Because of this non-discrimination, the subject reaches for silver. No
+separate false cognition need be posited. The strategy therefore keeps *every constituent cognition
+valid*: the presentational cognition is valid, the memory is valid, and error lies only in their
+conflation.
 
-The school also treats the relation between word and meaning as **autpattika**, natural or inherent, not a convention imposed by an institutor. Words are manifested in utterance rather than created anew. Hence the Veda does not depend for its authority on a historical act of composition.
+Kumārila defends contrary apprehension (**viparīta-khyāti**). The shell is before the subject; bad
+light, distance, similarity of lustre or sensory defect cause it to be miscognised; a single
+erroneous cognition arises — "this is silver" — and it is false. Its falsity, however, is due to
+extrinsic defect and not to cognition's normal nature, and it is discovered extrinsically when the
+subject approaches and sees clearly. The strategy therefore keeps *the principle governing normal
+cognition*, quarantining falsity in abnormal conditions.
 
-Most importantly, the Veda has a unique object: **Vedic duty (dharma)**, which is supersensible. Perception and inference can tell us about ordinary worldly objects, but not about ritual duty and unseen fruit. Therefore Vedic testimony is indispensable in its own sphere. Testimony of a reliable person may also yield knowledge, but Vedic knowledge has a superior status because its object cannot be known otherwise.
+The costs are exactly complementary. Prabhākara must explain the assertive force of "this is silver"
+by a mere failure of discrimination, and critics reply that non-discrimination underrates the
+positive character of the judgement. Kumārila must admit a false cognition into a system built on
+default truth, and critics reply that this grants too much to falsity. Each replies by pointing to
+the price the other pays: Prabhākara's is a psychological implausibility, Kumārila's an apparent
+concession, and neither is a surrender of the shared thesis.
 
-Nyāya tries to secure scripture through God as an omniscient author. Mīmāṃsā rejects this as unnecessary and weaker: one would first have to prove God's existence, omniscience and sincerity. Authorlessness is thus the school's stronger route.
+Both must also be kept distinct from Nyāya's otherwise-apprehension (**anyathā-khyāti**), in which
+real silver known elsewhere is presented here, and from Advaita's indescribable appearance
+(**anirvacanīya-khyāti**), which is neither real nor unreal. The Bhāṭṭa and Nyāya accounts are the
+pair most often conflated, because both admit a false cognition; the difference is that Kumārila
+*misidentifies the object present*, whereas Nyāya *misplaces an object known elsewhere*.
 
-**Why this earns marks:** It states the three core supports - Vedic authorlessness (apauruṣeyatva), eternality and unique revelatory scope - and directly contrasts the Mimamsa strategy with Nyāya's God-author model.
+The difference between the two Mīmāṃsakas is therefore not a lapse from the shared thesis but two
+rival strategies for honouring it — one protecting every constituent cognition, the other protecting
+the principle that governs normal cognition.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 2 - 2019 Q5(e), 10 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+#### Solved PYQ 7 — 2023, Question 6(b), 15 marks
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+> **Printed question.** Present Bhaṭṭa’s view of anupalabdhi (non-cognition) as a valid means of
+> knowledge.
 
-#### Solved PYQ 3 - 2020 Q5(c), 10 marks
+**Directive read.** "Present" asks for a full, structured exposition: definition, argument,
+condition, refusals of reduction, rivals, and a closing evaluation.
 
-**Question:** Why is memory not a valid knowledge according to Mīmāṃsā?
+**Model answer (276 words).**
 
-**Model solution**
+Non-cognition (**anupalabdhi**) is, for Kumārila Bhaṭṭa, the independent means of knowing absence
+through non-apprehension of what would be apprehended if present. It is the sixth instrument by which
+Bhāṭṭa Mīmāṃsā exceeds Nyāya's four, and it is rejected by Prabhākara, whose list stops at five.
 
-Mīmāṃsā denies pramāṇa-status to memory because memory does **not** generate a previously unknown cognition. A valid means of knowledge must disclose an object with novelty and present epistemic force. Memory depends on an earlier cognition and a residual impression; it merely reproduces what has already been known.
+Kumārila's argument is cumulative. We do know absences, such as "there is no pot on the table"; the
+cognition is definite and action-guiding; it is not ordinary perception, since perception delivers
+positive content; it is not inference, since inference requires a positive sign; and it is not
+memory, comparison or testimony in the typical case. An independent source is therefore necessary.
 
-This is why recollection is different from perception or inference. Perception reveals an object directly here and now. Inference yields a fresh mediate cognition. Memory, by contrast, only re-presents past content. It may be true, useful and practically important, but its truth is derivative from the original cognition on which it rests.
+The instrument is disciplined by fitness (**yogyatā**), which is why it is properly called
+**yogyānupalabdhi**. The absent object must be the kind of thing that would be perceived if present;
+the locus must be suitable; the organ must function; light, distance and attention must be proper.
+"No pot on this bare, well-lit table" satisfies these; "no atoms here" does not, because atoms are
+not perceptible in kind.
 
-Both **Prābhākara** and **Nyāya** agree on this point. The dependence of memory on prior apprehension is exactly what disqualifies it from being a fresh source of valid knowledge.
+Bhāṭṭa refuses both reductions. Perception gives the table, its colour, shape and spread; "absence of
+pot" is not a positive sensible datum of that kind, so perceiving an empty table is one thing and
+cognising the pot's absence another. Inference needs a positive sign and known concomitance; offering
+"not-seeing" as the sign requires explaining why not-seeing has evidentiary force, which already
+presupposes fitness — so the reduction is strained or circular.
 
-**Conclusion:** memory is not false simply because it is memory; it is excluded because it lacks the novelty required of a means of valid knowledge (pramāṇa).
+Its object, absence (**abhāva**), is accordingly real, structured by its counterpositive
+(**pratiyogin**). Kumārila accepts the ontological cost in order to preserve a cognition that
+everyday life — no chalk, no key, no bus — constantly presupposes.
 
-**Why this earns marks:** It gives the exact exclusion criterion, distinguishes memory from fresh cognition, and avoids the trap of treating memory as false rather than merely non-pramāṇic.
+---
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 3 - 2020 Q5(c), 10 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+#### Solved PYQ 8 — 2023, Question 8(c), 15 marks
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+> **Printed question.** Do words refer to universals or particulars or both? Present an exposition of
+> Nyāya and Mīmāṃsā position with regard to above question along with suitable examples.
 
-#### Solved PYQ 4 - 2021 Q6(c), 15 marks
+**Directive read.** The "or both" is a warning against caricature, and examples are demanded
+explicitly, so at least two must appear.
 
-**Question:** What, according to Mīmāṃsakas, is the ontological status of absence (abhāva) and how does one know it? Explain and examine.
+**Model answer (273 words).**
 
-**Model solution**
+Both schools hold that language reaches universals *and* individuals. The dispute is about semantic
+priority, not coverage, and an answer that caricatures either side misses the question.
 
-For the **Bhāṭṭa Mīmāṃsakas**, **absence (abhāva)** is real enough to be the object of determinate cognition. When I say, “there is no jar on the floor,” I am not merely ignorant of a jar; I positively know its absence. That cognition is structured by a **pratiyogin**, the counterpositive whose absence is at issue.
+Mīmāṃsā holds that a word primarily denotes the universal (**jāti**). The argument is from
+repeatability: the same word "cow" applies to indefinitely many individual animals, and the most
+economical explanation of this is the word's relation to cow-ness. The individual is then reached
+through the universal as instantiated in a concrete context. Thus "cow" can pick out the animal
+before me because cow-ness is recognisable in it. This coheres with the school's two-stage
+perception, in which determinate perception — "this is a white moving cow" — interprets what the
+indeterminate stage implicitly held rather than imposing an unreal predicate.
 
-Bhāṭṭa therefore accepts **non-cognition (anupalabdhi)** as an independent means of valid knowledge (pramāṇa). The classic formula is: absence is known through **non-apprehension of what would be apprehended if present**. This requires **eligible non-cognition (yogyānupalabdhi)** - fitness conditions such as proper light, functioning sense-organ, available locus and appropriate attention. Only then does non-perception disclose absence.
+Nyāya reverses the priority. The primary denotatum is the individual (**vyakti**) as qualified by
+universal and form, so that the word reaches the qualified particular first and the universal figures
+as its qualifier.
 
-**Prābhākara** resists a separate non-cognition (anupalabdhi). He explains the case as perception of the bare locus unqualified by the absent object. **Nyāya** also rejects an independent non-cognition (anupalabdhi), though it accepts absence as ontologically significant and handles it through perception or inference.
+An objection presses Mīmāṃsā: a universal cannot be milked, brought or sacrificed. The reply
+distinguishes meaning from application — the universal is primary for meaning, while action reaches
+the qualified individual through contextual application. This matters ritually, since "bring the cow"
+must deliver an actual animal.
 
-| View | Status of absence (abhāva) | How known? |
-|---|---|---|
-| Bhāṭṭa | real negative entity/content | non-cognition (anupalabdhi) |
-| Prābhākara | not denied, but no new means of valid knowledge (pramāṇa) required | bare-locus cognition |
-| Nyāya | real category | perception or inference, not separate non-cognition (anupalabdhi) |
+The sharpest challenge is Buddhist exclusion (**apoha**): no real universal is needed, since "cow"
+functions by excluding non-cows. Mīmāṃsā replies that pure exclusion cannot explain stable positive
+recognition and repeatable application unless a shared class-character is already available.
 
-**Examination:** Bhāṭṭa preserves the determinacy of negative cognition very well, but at the price of both a richer ontology and a new means of valid knowledge (pramāṇa). Prābhākara is more economical, but critics ask whether “bare locus” really explains the judgment “the jar is absent.”
+For depth, the Grammarian sound-burst theory (**sphoṭa-vāda**) treats sentence-meaning as an
+indivisible flash; both Mīmāṃsā sub-schools reject it, holding that eternal phonemes with ordered
+manifestation, together with expectancy, fitness and proximity, already suffice.
 
-**Verdict:** the Bhāṭṭa account is stronger if one wants to preserve the full objecthood of absence; the Prābhākara account is stronger if one prioritizes ontological and epistemic economy.
+#### Solved PYQ 9 — 2024, Question 5(d), 10 marks
+
+> **Printed question.** How does Bhaṭṭa’s view of nature of word-meaning and sentential-meaning
+> differ from Prabhākara’s view? Critically discuss.
 
-**Why this earns marks:** It presents both the ontological and epistemic sides of the issue, gives the fitness condition for absence-knowledge, and ends with a balanced evaluative comparison.
+**Directive read.** A ten-mark comparison with a critical tail: shared conditions, the two theses,
+one objection each, and a verdict.
+
+**Model answer (198 words).**
+
+Both sub-schools face the problem of sentence-unity (**ekavākyatā**) and accept the same three
+conditions for it: mutual expectancy (**ākāṅkṣā**), semantic fitness (**yogyatā**) and proximity
+(**sannidhi**). They differ over which unit is semantically primary.
+
+Kumārila holds connection-of-the-already-denoted (**abhihitānvayavāda**). Each word first denotes its
+own meaning (**padārtha**) through its denotative power (**abhidhā**); sentence-meaning then arises
+through a further connecting operation, explained as indirect signification (**lakṣaṇā**) or
+purport-power (**tātparya-śakti**). The word is primary and sentence-meaning derivative, and the two
+stages are logical rather than temporal.
+
+Prabhākara holds denotation-of-the-connected (**anvitābhidhānavāda**). Words denote their meanings
+only as already connected with the other meanings in the sentence. His evidence is the learning
+situation (**vyutpatti**): a child hears an elder command "bring the cow," sees a younger person
+comply, and learns the words in their connected, action-guiding sense.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 4 - 2021 Q6(c), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+Critically, each is charged with what the other explains. Kumārila is charged with positing an
+unobserved isolated-word stage and an extra operation in every sentence; he replies that the
+distinction is explanatory, not introspective. Prabhākara is charged with making a word mean
+differently in every sentence; he replies that recurrent connected uses yield stable competence.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+The verdict is complementary: Bhāṭṭa secures stable lexical meaning, Prābhākara contextual
+action-guidance.
 
-#### Solved PYQ 5 - 2022 Q6(c), 15 marks
+#### Solved PYQ 10 — 2024, Question 8(a), 20 marks
 
-**Question:** How do Mīmāṃsakas refute the Nyāya view that Implication (arthāpatti) is reducible to Inference (anumāna) and establish Implication as an independent means of valid knowledge (pramāṇa)? Critically discuss.
+> **Printed question.** How do I know that I know? Answer this question with reference to the
+> Naiyāyikas, the Bhaṭṭa Mīmāṃsakas and the Prābhākaras.
+
+**Directive read.** Three named columns. The mark-difference lies in naming the shared problem —
+regress — and showing that all three are engineered answers to it.
+
+**Model answer (384 words).**
+
+The question is not psychological but structural. If a cognition is not manifest in itself, another
+cognition must reveal it; that one needs a third; and an infinite regress (**anavasthā**) follows.
+Every classical answer is a device for stopping this regress, and the three schools stop it at
+different places.
+
+The Prābhākaras stop it immediately. Cognition is self-luminous (**svaprakāśa**), and a single act
+discloses knower, known and knowing together — threefold awareness (**tripuṭī-saṃvit**). The lamp
+analogy carries the point: a lamp reveals itself while revealing the room, and needs no second lamp.
+Reflective statements such as "I know that I know" are later conceptual articulations of what was
+already manifest pre-reflectively. Objection: does simultaneous revelation confuse the three? Reply:
+they are disclosed together, not ontologically collapsed. There is no metacognitive gap.
+
+The Bhāṭṭa Mīmāṃsakas deny self-luminosity. An object, once cognised, acquires a new relational
+status — knownness (**jñātatā**); observing that status, we infer that a cognition has occurred.
+Cognition is like a painter who paints objects but not himself, and its occurrence is established by
+what it leaves behind in the object. Objection: knownness looks like a mysterious posit. Reply:
+Kumārila accepts that cost rather than the stronger thesis of self-luminosity. The consequence is a
+temporal and logical gap: I know first, and I know that I know afterwards, inferentially.
+
+The Naiyāyikas stop the regress by permitting exactly one further act. A distinct second-order
+cognition (**anuvyavasāya**) takes the first as its object, in the form "I know the pot." This is
+neither self-luminosity nor inference from knownness. Objection: does the second-order act not
+restart the regress? Reply: Nyāya treats it as sufficient without endless repetition.
+
+The three positions are thus best ranked by the gap they tolerate — none, inferential, reflective —
+and each gap carries a matching cost: the risk of conflating the three items disclosed together, the
+positing of an obscure relational property, and the reappearance of the regress the higher-order act
+was meant to halt. Each school has an answer to its own cost, so the dispute is unresolved rather
+than won.
+
+What can be asserted confidently is narrower and more useful. Kumārila's combination of
+non-self-luminous cognition with intrinsic validity is philosophically stable, and it shows that
+knowing-that-one-knows and being-entitled-to-believe are separate questions: manifestation is settled
+by knownness and inference, truth-entitlement by the anti-regress argument.
+
+#### Solved PYQ 11 — 2024, Question 8(b), 15 marks
+
+> **Printed question.** “A candidate who is never seen to be studying during the day time secures a
+> high position in a competitive exam.” How would the Bhaṭṭa Mīmāṃsakas and the Naiyāyikas explain
+> the success of this candidate? Discuss.
+
+**Directive read.** An applied case requiring *both* explanations to be written out, then compared.
+Stating only the Mīmāṃsā account answers half the question.
+
+**Model answer (285 words).**
+
+The Bhāṭṭa Mīmāṃsakas explain the case by postulation (**arthāpatti**). Two facts are accepted: the
+candidate tops the examination, and the candidate is never seen studying by day. Examination success
+is incompatible with no preparation at all, so the two facts generate explanatory tension. To let
+both stand, some unobserved preparation must be posited, and the minimally reconciling postulate is
+study at night or otherwise outside observed daytime. The night-study is neither perceived here nor
+remembered; it is postulated because otherwise the accepted data remain inexplicable. This is
+postulation from perceived facts (**dṛṣṭārthāpatti**), structurally identical to the canonical case
+of stout Devadatta who does not eat by day.
+
+The Naiyāyikas frame the same case as an inference. Wherever there is examination success there is
+preparation; this candidate has examination success; therefore this candidate had preparation. The
+reason (**hetu**) is success, the probandum (**sādhya**) is preparation, and the transition runs
+through a concomitance (**vyāpti**).
+
+The Bhāṭṭa reply is that the reduction misses what actually generates the cognition. The reasoning
+does not begin from a sign but from a clash of accepted facts; the movement is from explanatory
+tension to a reconciling postulate rather than from sign to signified; and the case shows no
+subject–reason–probandum structure. Above all, the concomitance is slipped in too quickly: "wherever
+there is success there is preparation" is not independently established, and if it is claimed as
+known, it was abstracted from lived cases by exactly the postulating move under dispute. The
+reduction is therefore circular.
+
+Discussion should end even-handedly. Nyāya's account is simpler and keeps the instrument-list short;
+the Bhāṭṭa account is more faithful to how the cognition actually arises, which is why Mīmāṃsā treats
+explanatory necessity as epistemically basic.
+
+#### Solved PYQ 12 — 2024, Question 8(c), 15 marks
+
+> **Printed question.** On what grounds do the Prābhākaras and the Naiyāyikas reject memory as a
+> source of knowledge? Discuss.
+
+**Directive read.** "On what grounds" and two named schools: give the shared ground, show the
+convergence explicitly, and mark what the exclusion does not claim.
+
+**Model answer (277 words).**
+
+Both schools reject memory (**smṛti**) on a single shared ground: an instrument of valid knowledge
+must produce a *fresh* cognition, and memory produces none. The technical name of the failed
+condition is novelty (**anadhigatatva**) — not-already-ascertained.
+
+Prabhākara's argument runs in five steps. A means of valid knowledge (**pramāṇa**) must generate a
+new cognition of an object. Memory depends on an earlier cognition together with its latent
+impression (**saṃskāra**). It reproduces old content. It does not reveal a new object as presently
+known. Therefore it is not an instrument.
+
+The Naiyāyikas reach the identical verdict by the identical route: memory presents what was already
+known, and is re-presentation rather than fresh disclosure. This convergence is philosophically
+notable, since the two schools are opposed on almost everything else in epistemology — intrinsic
+versus extrinsic validity, non-discrimination versus displacement in error, self-luminosity versus
+the second-order after-cognition. That they agree here shows that the exclusion follows from the
+definition of an instrument rather than from any school-specific commitment.
 
-**Model solution**
+Three clarifications are essential. First, the ground is not unreliability: memory may be true,
+useful and successfully action-guiding, and none of this confers instrument-status. Second, the
+exclusion is definitional, which is its strength — it concedes everything a defender of memory might
+want to say while denying only the title. Third, it is a verdict about status and not about
+irrelevance, since memory remains indispensable within comparison (**upamāna**), within Prabhākara's
+own analysis of error, and within ordinary sentence-comprehension.
 
-Mīmāṃsā treats **postulation (arthāpatti)** as a distinct means of valid knowledge (pramāṇa) because it arises from **explanatory compulsion**, not from the sign-based structure of inference. The standard case is: “Devadatta is stout, and Devadatta does not eat during the day.” To preserve both accepted facts, one must postulate that Devadatta eats at night.
+Discussion may note the cost: because the exclusion turns on a definition, a rival could contest the
+definition itself. The standing reply is that it is not arbitrary, since it tracks a real difference
+between disclosing and retrieving.
 
-The Nyāya reduction attempts to turn this into inference:
+#### Solved PYQ 13 — 2025, Question 5(c), 10 marks
 
-- all stout persons who do not eat by day eat by night;
-- Devadatta is stout and does not eat by day;
-- therefore Devadatta eats by night.
+> **Printed question.** Delineate the main points of difference between the theory of intrinsic
+> validation (svataḥ prāmāṇyavāda) and theory of extrinsic validation (parataḥ prāmāṇyavāda) in
+> classical Indian philosophy.
 
-Mīmāṃsā objects on three grounds. First, the alleged **invariable concomitance (vyāpti)** is not independently known; it is abstracted from the very explanatory tension that postulation (arthāpatti) is supposed to solve. Second, inference moves from **hetu** to **sādhya**, whereas postulation (arthāpatti) moves from **incompatible accepted facts** to a postulate that alone makes them coherent. Third, the postulation (arthāpatti) case lacks the normal **pakṣa-hetu-sādhya** structure.
+**Directive read.** "Delineate the main points of difference" wants discrete contrasts; "in classical
+Indian philosophy" wants more than two schools.
 
-Kumārila therefore insists that postulation (arthāpatti) is not a weak guess or provisional hypothesis. It yields the one fact without which the data remain untenable. Chatterjee and Datta put the point sharply: a hypothesis remains tentative, but postulation (arthāpatti) carries conviction as the only viable explanation.
+**Model answer (200 words).**
 
-**Critical discussion:** Nyāya can often reconstruct such cases inferentially, and that is why the debate survives. But the Mimamsa claim is that the inferential reconstruction is parasitic on a prior recognition of explanatory incompatibility. If that is right, postulation (arthāpatti) deserves independent status.
+The two theories divide on four cells, not one. Intrinsic validation, held by Mīmāṃsā, treats both
+the origin (**utpatti**) and the ascertainment (**jñapti**) of validity as intrinsic: the conditions
+that generate a cognition generate its validity, and the cognition presents itself as trustworthy
+unaided. Invalidity, by contrast, is extrinsic in both respects, arising from a defect (**doṣa**) and
+becoming known through a defeater (**bādhaka**), contradiction or practical failure. Extrinsic
+validation, held by Nyāya, treats both the origin and the ascertainment of validity as extrinsic
+relative to the mere occurrence of the cognition.
 
-**Verdict:** postulation (arthāpatti) is best defended as the epistemic form of explanatory necessity; whether one grants it full independence depends on whether one thinks inferential reformulation captures or merely redescribes that necessity.
+The points of difference follow. First, burden of proof: Mīmāṃsā places it on the challenger, Nyāya
+on the cognition. Second, mechanism: Nyāya certifies by successful activity
+(**pravṛtti-sāmarthya**) or confirming perception (**saṃvādi-pratyakṣa**), while Mīmāṃsā denies that
+later success can generate validity. Third, regress: a validating cognition would itself need
+validation, producing **anavasthā**. Fourth, the decisive distinction: validity itself versus our
+ascertainment of it.
 
-**Why this earns marks:** It states the Nyāya reduction fairly, gives the three standard Mimamsa objections, uses the Devadatta case correctly, and ends with a qualified critical verdict.
+Placed more widely, Sāṃkhya is presented as intrinsic on both counts, and Buddhist epistemology as
+the mirror-image, extrinsic validity with intrinsic invalidity — which Mīmāṃsā rejects, since illusion
+does not announce itself as illusion.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 5 - 2022 Q6(c), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+The essential qualification is that intrinsic validity is *defeasible default warrant*, not
+infallibility.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+#### Solved PYQ 14 — 2025, Question 6(c), 15 marks
 
-#### Solved PYQ 6 - 2022 Q7(a), 20 marks
+> **Printed question.** Discuss the debate between the Bhaṭṭa and the Prabhākara mīmāṃsakas with
+> reference to the nature of Non-existence (Abhāva) and its knowledge.
 
-**Question:** Inspite of accepting the intrinsic validity of knowledge, why and how Prabhākara and Kumārila differ in their interpretation of erroneous cognition? Discuss.
+**Directive read.** An *internal* Mīmāṃsā debate. Answering it as Mīmāṃsā versus Nyāya is off-target,
+though Nyāya may enter as a comparison.
 
-**Model solution**
+**Model answer (296 words).**
 
-Both Prabhākara and Kumārila accept **intrinsic validity (svataḥ-prāmāṇya)**: cognition is prima facie valid and does not need prior external certification. Yet they diverge because they explain error in different ways.
+The debate is intra-Mīmāṃsā and runs on two connected questions: what absence (**abhāva**) is, and how
+it is known.
 
-For **Prabhākara**, the central issue is to preserve the truth of each constituent cognition. In shell-silver illusion, the present shining object is genuinely perceived as “this,” while previously seen silver is genuinely remembered. The error lies in **non-discrimination** between these two valid cognitions. This is **non-discrimination theory of error (akhyāti)** or, more precisely, **vivekākhyāti** - failure to apprehend the difference. No single false cognition needs to be posited.
+Kumārila Bhaṭṭa treats absence as real. It is not a feature of language but a structured content
+determined by its counterpositive (**pratiyogin**), so that "absence of pot" has genuine ontological
+standing and negative cognition has a genuine object. Correspondingly, he admits a sixth instrument,
+non-cognition (**anupalabdhi**), defined as non-apprehension of what would be apprehended if present
+and limited by fitness (**yogyatā**): the object must be perceptible in kind, the locus suitable, the
+organ functioning, and light, distance and attention proper.
 
-For **Kumārila**, this is too weak to explain the assertive force of illusion. The subject does not merely have a perception plus a memory; the subject really judges, “this is silver.” Bhāṭṭa Mīmāṃsā therefore accepts a positive misapprehension, **contrary-cognition theory of error (viparīta-khyāti)**. A false cognition occurs, but only under defective conditions - poor light, similarity, distance or other causal disturbance. Intrinsic validity is preserved because falsity is not basic; it is **extrinsically occasioned** and later disclosed through correction.
+His reasons are two refusals. Perception yields positive content — table, colour, shape — whereas
+"absence of pot" is not a positive datum of that kind, so perceiving the empty table is not yet
+cognising the pot's absence. Inference needs a positive sign and a known concomitance; if
+"not-seeing" is offered as the sign, its evidentiary force already presupposes non-apprehension under
+fit conditions, so the reduction is strained or circular.
 
-| Issue | Prabhākara | Kumārila |
-|---|---|---|
-| Status of constituents | both perception and memory remain valid | a false synthetic cognition occurs |
-| Name of theory | non-discrimination theory of error (akhyāti) / vivekākhyāti | contrary-cognition theory of error (viparīta-khyāti) |
-| Strategy for saving intrinsic validity | error lies in non-discrimination, not false cognition | normal cognition remains self-valid; error belongs to defective conditions |
-| Strength | strong anti-skeptical economy | better explanation of the lived assertiveness of illusion |
-| Weakness | seems too weak for “this is silver” | admits real falsity and must explain how default validity survives |
+Prabhākara declines both the ontology and the instrument. What is known, he holds, is simply the
+locus as unqualified by the absent object: we perceive the table as bare, not as occupied by the pot,
+and the bare-locus cognition already carries the negative differentiation required. No special
+faculty for what is not there need be posited. His position is an economy thesis, not a denial that
+absences are known. Kumārila's counter is that economy purchased by flattening a determinate negative
+judgement into a positive perception is false economy.
 
-Nyāya and Advaita help sharpen the point. Nyāya's **anyathākhyāti** relocates the real silver elsewhere; Advaita's **anirvacanīya-khyāti** treats the illusory object as neither real nor unreal. By contrast, both Mimamsa sub-schools remain broadly realist and anti-skeptical.
+For comparison, Nyāya converges with Prabhākara against Kumārila on independence while diverging in
+its reason, since it holds that absence is itself directly perceived. The graded verdict is that
+Kumārila is the more faithful phenomenologist and Prabhākara the more economical metaphysician.
 
-**Conclusion:** the disagreement does not cancel intrinsic validity. It shows two different ways of protecting it - Prabhākara by minimizing falsity, Kumārila by localizing falsity in defect-ridden conditions.
+### ORIGINAL SOLVED MAINS PRACTICE
 
-**Why this earns marks:** It explains why the paradox arises, reconstructs both theories through the shell-silver case, compares their strengths and weaknesses, and ties the whole debate back to intrinsic validity.
+> These six questions are written in the style and directive-vocabulary of the paper. They are
+> original practice items, not previous-year questions.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 6 - 2022 Q7(a), 20 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+#### Original 1 — 10 marks
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+> **Question.** Explain why Mīmāṃsā treats Vedic testimony as the only competent means of knowing
+> dharma rather than as a source of last resort. Answer in about 175 words.
 
-#### Solved PYQ 7 - 2023 Q6(b), 15 marks
+**Model answer (172 words).**
 
-**Question:** Present Bhaṭṭa’s view of non-cognition (anupalabdhi) as a valid means of knowledge.
+In most systems testimony is a convenience: it saves labour where perception or inference could in
+principle have done the work. In Mīmāṃsā it is nothing of the kind, and the difference follows from
+the object rather than from any preference for scripture.
 
-**Model solution**
+Duty (**dharma**) is supersensible. It is not a present sensible object, so perception is
+structurally disqualified. It is not reached by any sign standing in a known concomitance with it, so
+inference is disqualified too. The school's defining formula makes this explicit: duty is that whose
+distinguishing mark is Vedic injunction — **codanā-lakṣaṇo'rtho dharmaḥ**.
 
-Bhāṭṭa Mīmāṃsā accepts **non-cognition (anupalabdhi)** as an independent means of valid knowledge (pramāṇa) because determinate absence-cognition cannot, in its view, be reduced either to perception or to inference. When I judge, “the jar is not on the floor,” I do not merely fail to see a jar; I positively know its absence.
+An instrument is individuated in Mīmāṃsā by the manner in which it generates cognition, and matched to
+the kind of object it can disclose. Since only verbal testimony can disclose an object of this kind,
+testimony here is not second-best; it is the sole competent witness.
 
-The key formula is **eligible non-cognition (yogyānupalabdhi)**: non-apprehension of an object that **would** be apprehended if it were present. Four features matter - perceptibility of the object, availability of the locus, functioning sense-organ, and fit conditions such as light and attention. Under these conditions, non-perception becomes cognitively significant.
+Two consequences follow. Vedic testimony must be impersonal, since a human speaker would import
+defect. And its authority must be intrinsic, since no external certifier for a supersensible domain
+exists.
 
-Bhāṭṭa denies reduction to perception because perception requires contact with a present object. Absence is not a positive sensible object in that way. He denies reduction to inference because the evidentiary force of not-seeing the jar already presupposes the principle that non-apprehension under fit conditions reveals absence; inferential reduction thus becomes circular.
+#### Original 2 — 10 marks
 
-| Claim | Bhāṭṭa position |
-|---|---|
-| What is known? | a real absence with a counterpositive |
-| How known? | by an independent means of valid knowledge (pramāṇa), non-cognition (anupalabdhi) |
-| Limiting condition | only under yogyatā / fitness |
-| Why not perception? | no present positive object is contacted |
-| Why not inference? | inferential force already presupposes non-cognition (anupalabdhi) |
+> **Question.** Discuss the significance of the claim that non-cognition operates only under
+> conditions of fitness. Answer in about 175 words.
 
-**Critical note:** the theory preserves ordinary negative judgments very well, but it multiplies both ontology and means of valid knowledge (pramāṇas). This is why Prābhākara and Nyāya resist it.
+**Model answer (168 words).**
 
-**Verdict:** Bhaṭṭa's non-cognition (anupalabdhi) is strongest when one insists that absence-cognition is both determinate and irreducible.
+The fitness condition (**yogyatā**) is not a technical footnote to non-cognition
+(**anupalabdhi**) but the clause that makes the doctrine defensible, and its significance is
+threefold.
 
-**Why this earns marks:** It states the exact defining formula, explains the fitness condition, answers both reduction attempts, and ends with the standard critical qualification.
+First, it converts a non-event into evidence. Non-apprehension is informative only where the
+conditional holds that the object *would* have been apprehended if present: the thing must be
+perceptible in kind, the locus suitable, the organ functioning, and light, distance and attention
+proper. "No pot on this bare, well-lit table" satisfies this; "no atoms here" does not.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 7 - 2023 Q6(b), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+Second, it answers the standing objection that non-perception is too subjective. Careless overlooking
+is excluded by the same clause that admits genuine absence-cognition, so the instrument cannot be
+used to license an argument from ignorance.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+Third, it defeats the inferential reduction. If "not-seeing" is offered as a positive sign, one must
+explain why not-seeing carries evidentiary force — and that force is exactly what fitness supplies.
+The reduction therefore presupposes the doctrine it was meant to replace.
 
-#### Solved PYQ 8 - 2023 Q8(c), 15 marks
+Fitness thus does simultaneous work as definition, defence and refutation.
 
-**Question:** Do words refer to universals or particulars or both? Present an exposition of Nyāya and Mīmāṃsā position with regard to above question along with suitable examples.
+#### Original 3 — 15 marks
 
-**Model solution**
+> **Question.** Examine the view that Mīmāṃsā's rejection of a creator God strengthens rather than
+> weakens its defence of the Veda. Answer in about 275 words.
 
-The dispute is not over whether language can finally guide us to individuals; it is over **semantic priority**. **Mīmāṃsā** generally holds that words primarily denote **universals (jāti)**, while **Nyāya** gives priority to the **qualified individual (vyakti)**.
+**Model answer (283 words).**
 
-Mīmāṃsā argues that one and the same word - for example, “cow” - applies across many individual cows. This repeatability is best explained if the word first denotes **cow-ness**. In a concrete context, the universal becomes instantiated in this or that cow, and action then concerns the qualified individual. The school therefore preserves practical reference without surrendering universal meaning.
+The view is well founded, though it must be stated with two qualifications.
 
-Nyāya reverses the order. A word refers to an individual that is qualified by universal, form and relational features. This better suits action-language. One milks or brings **this cow**, not a bare universal. The universal is not denied, but it is not the primary referent.
+The strengthening argument is straightforward. Mīmāṃsā grounds Vedic authority in authorlessness
+(**apauruṣeyatva**): unreliability in testimony is traced to authorial defects — error, deceit,
+partiality, forgetfulness — and a text with no author has no locus for them. If God authored the
+Veda, the Veda would have an author, and its authority would then depend on establishing that
+author's existence, omniscience and truthfulness. Nyāya's three-stage burden is exactly this. By
+removing the author entirely, Mīmāṃsā removes the burden, and the text becomes self-valid in the
+domain of duty, where no rival instrument supplies a defeater.
 
-| Issue | Mīmāṃsā | Nyāya |
-|---|---|---|
-| Primary denotation | jāti / universal | qualified individual |
-| Main reason | explains repeatable use across many cases | explains concrete action and reference |
-| What is not denied | contextual reach to individuals | role of universals in cognition |
+The rejection is also independently argued rather than merely convenient. God is not perceptually
+given; the inference from world to maker fails, since pots are observed to be made by embodied
+artisans while worlds are not observed to be made by bodiless creators; a beginning of creation
+raises an unanswerable question about divine motive; and moral order is already regulated by action,
+merit, demerit and unseen potency (**apūrva**). Against the demand for a giver of karmic fruits, the
+decisive move is a dilemma: a God who distributes strictly by karma is redundant, and one who
+distributes otherwise is partial.
 
-**Example:** in a Vedic sentence about sacrifice, Mīmāṃsā can say the word first conveys the class-character needed for repeatable rule-application; Nyāya insists that actual ritual performance requires a determinate qualified individual.
+The first qualification is that the deities of ritual are not abolished. They remain mantra-denoted
+entities to whom offerings are made, subordinate to the sacrifice, with the fruit produced by act and
+unseen potency rather than by divine favour.
 
-**Conclusion:** both schools can reach both universal and individual, but they differ on where semantic explanation should begin. Mīmāṃsā starts from repeatability; Nyāya starts from concrete qualified reference.
+The second is that the strengthening is internal. Critics who find an unconscious potency less
+intelligible than a conscious Lord are unmoved, and it remains genuinely contested whether the
+atheism is a considered metaphysics or a by-product of exegetical necessity.
 
-**Why this earns marks:** It gives both positions without caricature, explains the idea of semantic priority, and uses examples that connect ordinary language with ritual application.
+#### Original 4 — 15 marks
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 8 - 2023 Q8(c), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+> **Question.** Critically discuss whether Mīmāṃsā's theory of intrinsic validity can be defended
+> without collapsing into credulity. Answer in about 275 words.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+**Model answer (285 words).**
 
-#### Solved PYQ 9 - 2024 Q5(d), 10 marks
+The charge of credulity is the most persistent objection to intrinsic validity
+(**svataḥ-prāmāṇya**), and the defence succeeds only partially.
 
-**Question:** How does Bhaṭṭa’s view of nature of word-meaning and sentential-meaning differ from Prabhākara’s view? Critically discuss.
+The doctrine is that a cognition is valid by its own occurrence under normal conditions, while
+invalidity requires a defect (**doṣa**) and is disclosed by a defeater (**bādhaka**). Three
+considerations support it. The regress argument: if every cognition required another for validation,
+the validator would need a validator, generating **anavasthā**. The argument from practice: crossing
+a road, reading a page or obeying an instruction presupposes immediate trust, and no first action
+could be launched if certification came first. And economy: doubt is parasitic on a more basic trust.
 
-**Model solution**
+Against credulity, the school makes two further moves. It insists that the thesis is defeasible
+default warrant and not infallibilism, so correction is welcomed rather than resisted. And it
+presupposes realism — cognitions are directed at real objects and normal causes tend toward truth —
+which prevents the doctrine from reducing to mere self-certification by the mind.
 
-The difference is captured by the two classic labels **designation-then-connection theory (abhihitānvayavāda)** and **connected-designation theory (anvitābhidhānavāda)**.
+The dream and mirage objection is met by distinguishing the appearance of normalcy from normalcy
+itself: exhaustion and sleep in one case, heated air and optical distortion in the other, are
+extrinsic defects, so these cognitions do not arise from fully normal truth-producing conditions.
 
-For **Bhāṭṭa Mīmāṃsā**, words first denote their own separate meanings. Sentence-meaning arises later by connecting those already-denoted meanings. Hence the word is the primary semantic unit and the sentence is compositional.
+Critically, however, the reply relocates the difficulty rather than dissolving it. Everything now
+turns on identifying a genuine defect, and Nyāya can press that "abnormal conditions" is a label
+applied retrospectively whenever a cognition proves false. Whether the doctrine escapes circularity
+or merely shifts it into the notions of defect and defeater is genuinely contested.
 
-For **Prābhākara**, words do not first present isolated meanings. They signify meanings only as **already connected** within a sentence. The sentence is primary, and isolated lexical meaning is an abstraction from living use.
+The defensible verdict is that intrinsic validity avoids credulity in principle, provided defect is
+independently specifiable — which is precisely the point still under dispute.
 
-| Issue | Bhāṭṭa | Prābhākara |
-|---|---|---|
-| Theory name | designation-then-connection theory (abhihitānvayavāda) | connected-designation theory (anvitābhidhānavāda) |
-| First semantic unit | word | connected sentence-use |
-| Strength | preserves stable lexical meaning | preserves contextual and action-guiding meaning |
-| Main criticism | requires an additional connecting step | risks making isolated word-meaning too dependent on context |
+#### Original 5 — 20 marks
 
-Both accept **ākāṅkṣā**, **yogyatā** and **sannidhi** as conditions of sentence-unity. The critical issue is whether sentence meaning is built from prior word-meanings or directly grasped as connected.
+> **Question.** Analyse the claim that Mīmāṃsā's philosophy of language is shaped throughout by the
+> requirement that an authorless text must be able to command. Answer in about 375 words.
 
-**Verdict:** Bhāṭṭa is stronger on compositional stability; Prābhākara is stronger on lived contextual comprehension.
+**Model answer (368 words).**
 
-**Why this earns marks:** It states both technical terms correctly, gives the difference in one clean table, and ends with a real critical contrast instead of mere paraphrase.
+The claim is largely correct, and tracing it explains why Mīmāṃsā's semantics takes the unusual shape
+it does.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 9 - 2024 Q5(d), 10 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+Begin with the requirement. The Veda is authorless (**apauruṣeyatva**), and its central function is
+injunction (**vidhi / codanā**). A text with no speaker must therefore generate obligation out of its
+own structure. Every major semantic doctrine of the school can be read as a condition of that
+possibility.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+First, sentence-unity. Obligation is carried by sentences, not by words, so the school must explain
+how a word-sequence yields one cognition (**ekavākyatā**). Both sub-schools accept expectancy
+(**ākāṅkṣā**), fitness (**yogyatā**) and proximity (**sannidhi**) as the conditions of that unity.
 
-#### Solved PYQ 10 - 2024 Q8(a), 20 marks
+Second, the treatment of purport. Naiyāyikas add purport (**tātparya**), the speaker's intended
+thrust. Mīmāṃsā cannot use it, because there is no speaker; purport must be relocated into textual
+force, contextual unity and subordination to injunction. This is a direct consequence of the
+requirement.
 
-**Question:** How do I know that I know? Answer this question with reference to the Naiyāyikas, the Bhaṭṭa Mīmāṃsakas and the Prābhākaras.
+Third, the two rival semantics. Kumārila's connection-of-the-already-denoted secures stable lexical
+meaning across contexts, which an eternal text needs if its words are not to shift with usage.
+Prabhākara's denotation-of-the-connected, supported by the learning argument (**vyutpatti**), secures
+that words are grasped in action-guiding wholes — which fits an injunction-centred scripture even more
+snugly.
 
-**Model solution**
+Fourth, the theory of injunctive force. Kumārila locates imperative force in verbal impelling force
+(**śābdī bhāvanā**), whose result is the agent's impulse, distinguished from objective productive
+force (**ārthī bhāvanā**), whose result is the fruit; Prabhākara locates bindingness in the directly
+apprehended to-be-done (**niyoga**). Both answers exist because the command must issue from the
+sentence rather than from a commander.
 
-The problem is reflexive awareness: once an object is known, how is the **cognition itself** known? Nyāya, Bhāṭṭa Mīmāṃsā and Prābhākara offer three distinct answers.
+Fifth, the eternal word and the rejection of the sound-burst. If word-units are eternal and merely
+manifested by utterance, the text does not depend on temporal composition; and the Grammarian
+sound-burst is rejected because phonemes with ordered manifestation already suffice.
 
-**Prābhākara** accepts **threefold awareness (tripuṭī-saṃvit)**. In every cognition, three things are simultaneously revealed: the knower, the known and the cognition. Awareness is self-manifest in the very act of presenting the object. This blocks regress: if cognition required another cognition to reveal it, an infinite chain would follow.
+Two qualifications are needed. The shaping is not total: the universal–particular dispute has its own
+motivations in the theory of perception and in the debate with Buddhist exclusion. And the
+requirement generates the school's most contested commitments — the naturalness of word-meaning and
+the eternality of the word — which Nyāya and the Dharmakīrti line both deny.
 
-**Bhāṭṭa Mīmāṃsā** denies that cognition is self-luminous. What becomes directly available is the object's **knownness (jñātatā)** or cognizedness - its being-known. From that state one infers that a cognition has occurred. Reflexive awareness is therefore mediated, not immediate.
+The claim is therefore best stated as strong explanatory pressure rather than as complete
+determination.
 
-**Nyāya** rejects both self-luminosity and jñātatā-inference as the final account. It explains metacognition through **anuvyavasāya**, a higher-order cognition that takes the first cognition as its object. I first know the pot, and then I have a second cognition of the form “I know the pot.”
+#### Original 6 — 20 marks
 
-| School | First-order cognition | How second-order awareness arises | Main advantage | Main difficulty |
-|---|---|---|---|---|
-| Prābhākara | object, self and cognition appear together | immediate self-revelation | anti-regress and phenomenological economy | critics say the triad is packed too tightly |
-| Bhāṭṭa | object is known; cognition leaves cognizedness in the object | cognition inferred from knownness (jñātatā) | preserves object-realism and avoids self-luminous episodes | critics call knownness (jñātatā) an unnecessary extra entity |
-| Nyāya | object is known in the first act | anuvyavasāya reflects on that act | clear distinction between object-knowledge and metacognition | critics say regress pressure is only postponed |
+> **Question.** Evaluate Mīmāṃsā's expansion of the list of means of valid knowledge to six, with
+> reference to postulation, non-cognition and the exclusion of memory. Answer in about 375 words.
 
-A good comparison also shows what each school fears most. Prābhākara fears regress, Bhāṭṭa fears collapse into self-luminous idealism or unnecessary subjectivism, and Nyāya fears making every cognition self-certifying.
+**Model answer (372 words).**
 
-**Conclusion:** the three schools answer the same question by privileging different epistemic goods - immediacy, mediated realism and reflective structure. The sharpest Mimamsa insight is that cognition cannot be both necessary for all knowing and completely invisible to itself.
+The expansion is principled rather than promiscuous, but it is not uniformly successful, and the
+evaluation must be graded.
 
-**Why this earns marks:** It covers all three requested schools in a structured comparison, uses the exact technical terms, and explains the philosophical motivation behind each account instead of merely naming them.
+The governing rule is irreducibility: an instrument is admitted only where a type of knowledge cannot
+be reduced to another without remainder or without circularity. Perception handles the directly
+given, inference the sign-based, testimony the verbally transmitted, comparison the resemblance-based.
+The question is whether two further kinds of cognition resist all four.
 
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 10 - 2024 Q8(a), 20 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
+Postulation (**arthāpatti**) has the stronger case, and both sub-schools accept it. Stout Devadatta
+who does not eat by day yields night-eating, not through a sign but through explanatory tension. Three
+arguments block reduction to inference: no concomitance (**vyāpti**) is independently established;
+the movement runs from tension to reconciling postulate rather than from sign to signified; and there
+is no subject–reason–probandum structure. The Nyāya reduction is further shown to be circular, since
+the concomitance it needs is itself abstracted from postulating moves. The claim is also stronger
+than modern inference to the best explanation: the postulate is required, not merely preferred.
 
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
+Non-cognition (**anupalabdhi**) is the harder case, and only Kumārila accepts it. Its strength is
+phenomenological: "there is no pot on the table" is definite and action-guiding, and reducing it to
+perception of a bare locus flattens a negative judgement into a positive one. Its discipline is the
+fitness condition (**yogyatā**), which excludes careless overlooking and imperceptible objects alike.
+Its cost is ontological, since absence (**abhāva**) must be real and structured by a counterpositive
+(**pratiyogin**) — a cost Prabhākara and Nyāya both refuse, converging against Bhāṭṭa on independence
+while diverging in their reasons.
 
-#### Solved PYQ 11 - 2024 Q8(b), 15 marks
+The exclusion of memory shows that the rule cuts both ways. Memory reproduces already-cognised
+content and fails the novelty condition (**anadhigatatva**), so it is denied instrument-status even
+though it may be true, useful and action-guiding — and Nyāya agrees. A school that merely wished to
+inflate its list would not have exercised this restraint.
 
-**Question:** “A candidate who is never seen to be studying during the day time secures a high position in a competitive exam.” How would the Bhaṭṭa Mīmāṃsakas and the Naiyāyikas explain the success of this candidate? Discuss.
+The graded verdict is therefore that the expansion is defensible in method and unequal in result.
+Postulation is Mīmāṃsā's most robust epistemological contribution; non-cognition is its most faithful
+and most expensive; and the exclusion of memory is the clearest evidence that the school's longer
+list is the product of a rule rather than of appetite.
 
-**Model solution**
-
-The example is a modernized **postulation (arthāpatti)** case. The **Bhāṭṭa Mīmāṃsaka** begins with two accepted facts: the candidate is never seen studying in the daytime, and yet secures a high rank. These facts are not jointly intelligible unless some unobserved preparation is postulated. Therefore the candidate must be studying at night, very early morning, or in another unobserved period. The knowledge is not inferential in the ordinary sense; it is a compelled explanatory postulation.
-
-The **Naiyāyika** attempts to restate the case as an inference. Success in a competitive examination is regularly connected with adequate preparation. This candidate is successful. Therefore this candidate must have prepared. The unobserved preparation is established inferentially from a known relation between success and study.
-
-| School | Logical movement | Strength | Weakness |
-|---|---|---|---|
-| Bhāṭṭa Mīmāṃsā | incompatible accepted facts -> necessary postulate | captures the “must be so” force of the case | critics say it can be re-described as inference |
-| Nyāya | known relation -> inferential conclusion | keeps one unified theory of mediate knowledge | critics say the explanatory tension is being hidden inside the universal premise |
-
-**Discussion:** the Bhāṭṭa claims that the Naiyāyika universal is not independently available; it is extracted from the very explanatory need at issue. Nyāya replies that once the relation between success and preparation is allowed, inference is enough.
-
-**Verdict:** the case is philosophically useful precisely because it sits at the boundary between postulation and inference; Bhāṭṭa says that boundary is real, Nyāya says it is reducible.
-
-**Why this earns marks:** It recognizes the example as a modern postulation (arthāpatti) test-case, presents both explanations fairly, and explains why the dispute survives instead of giving a one-line winner.
-
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 11 - 2024 Q8(b), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-#### Solved PYQ 12 - 2024 Q8(c), 15 marks
-
-**Question:** On what grounds do the Prābhākaras and the Naiyāyikas reject memory as a source of knowledge? Discuss.
-
-**Model solution**
-
-Both Prābhākaras and Naiyāyikas reject memory as a means of valid knowledge (pramāṇa) because memory lacks the **novel presentational force** that belongs to genuine means of knowledge. It depends on a prior cognition and a residual mental trace.
-
-For the **Prābhākaras**, a means of valid knowledge (pramāṇa) must produce fresh cognition of an object. Memory simply reproduces what has already been known. It does not disclose an object as presently given; rather, it recalls what was previously apprehended. Its dependence on earlier knowledge is therefore intrinsic to its non-pramāṇic character.
-
-The **Naiyāyikas** reach a similar conclusion from a different angle. Valid cognition must arise from the proper operation of a means of valid knowledge (pramāṇa) such as perception, inference, comparison or testimony. Memory does not arise from present contact with an object, a current inferential mark, a live comparison or a fresh utterance. It arises from a **saṃskāra** left by earlier cognition. Therefore it may be true, but it is not knowledge newly generated by a means of valid knowledge (pramāṇa).
-
-| Ground of rejection | Prābhākara emphasis | Nyāya emphasis |
-|---|---|---|
-| lack of novelty | decisive | decisive |
-| dependence on prior cognition | explicit criterion | implicit through saṃskāra theory |
-| present disclosure | absent | absent |
-| truth-value | memory may be true | memory may be true |
-
-**Conclusion:** both schools reject memory not because it is false, but because it is derivative and non-originative. The shared criterion is novelty; the main difference lies in the wider epistemological systems in which that criterion is embedded.
-
-**Why this earns marks:** It answers the exact “grounds” asked for, gives both schools separately, and avoids the common mistake of calling memory invalid simply because it looks backward.
-
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 12 - 2024 Q8(c), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-#### Solved PYQ 13 - 2025 Q5(c), 10 marks
-
-**Question:** Delineate the main points of difference between the theory of intrinsic validation (svataḥ prāmāṇyavāda) and theory of extrinsic validation (parataḥ prāmāṇyavāda) in classical Indian philosophy.
-
-**Model solution**
-
-The difference concerns both the **source** of validity and the **way** validity becomes known.
-
-In **svataḥ-prāmāṇyavāda**, defended classically by Mīmāṃsā, cognition is valid by its own occurrence under normal conditions. It presents itself as trustworthy and is acted upon unless defeated by later contradiction or discovery of defect. Invalidity is therefore extrinsic and subsequent.
-
-In **parataḥ-prāmāṇyavāda**, associated in the standard contrast with Nyāya, the mere occurrence of cognition does not suffice for its validation. Truth is secured through something outside the cognition itself - successful action, later confirming cognition, or reflective assessment.
-
-| Issue | Intrinsic validity (svataḥ-prāmāṇya) | External validation (parataḥ-prāmāṇya) |
-|---|---|---|
-| initial status | prima facie valid | not fully validated by bare occurrence |
-| need for external certificate | no | yes |
-| invalidity | discovered through later defect or contradiction | built into validation process through external checks |
-| strongest Mimamsa argument | avoids infinite regress and matches practical life | Nyāya says this leaves cognition under-verified |
-| strongest Nyāya concern | Mimamsa says it risks regress and hidden prior trust | avoids gullibility and demands verification |
-
-**Conclusion:** the first begins with trust and allows correction later; the second begins with the need for validation and risks regress unless it can explain how validating cognition itself becomes acceptable.
-
-**Why this earns marks:** It delineates the doctrine on exactly the requested axis, uses the standard school contrast, and states the decisive strength of each side in one compact answer.
-
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 13 - 2025 Q5(c), 10 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-#### Solved PYQ 14 - 2025 Q6(c), 15 marks
-
-**Question:** Discuss the debate between the Bhaṭṭa and the Prabhākara mīmāṃsakas with reference to the nature of Non-existence (Abhāva) and its knowledge.
-
-**Model solution**
-
-The debate turns on two linked questions: **what is absence (abhāva)?** and **how is it known?**
-
-The **Bhāṭṭa Mīmāṃsakas** hold that non-existence is a real negative content capable of cognition. If I know that the jar is absent from the floor, the absence is not merely a linguistic convenience; it is an object structured by the relation to its counterpositive, the jar. Since perception requires contact with a present object, and inference requires a sign, Bhāṭṭa treats absence-cognition as requiring a distinct means of valid knowledge (pramāṇa): **non-cognition (anupalabdhi)**.
-
-The **Prābhākaras** refuse both the extra ontology and the extra means of valid knowledge (pramāṇa). What is directly cognized is the locus itself, unqualified by the absent object. The floor is simply presented as jar-less. Hence there is no need to introduce a separate means of knowledge.
-
-| Issue | Bhāṭṭa | Prābhākara |
-|---|---|---|
-| nature of absence (abhāva) | real negative content | no denial of the judgment, but no independent negative entity is needed |
-| knowledge of absence | non-cognition (anupalabdhi) | ordinary cognition of the bare locus |
-| motivation | preserve the determinacy of negative cognition | preserve epistemic and ontological economy |
-| main problem | multiplies means of valid knowledge (pramāṇas) and objects | may not fully explain the determinacy of “absence of X” |
-
-The deepest disagreement is methodological. Bhāṭṭa is willing to posit new epistemic resources when experience demands them. Prābhākara is more austere and prefers to avoid multiplication unless reduction fails completely.
-
-**Verdict:** Bhāṭṭa offers the fuller account of negative cognition; Prābhākara offers the leaner account. The choice depends on whether explanatory adequacy or economy is treated as philosophically decisive.
-
-**Why this earns marks:** It centers the answer on the exact two-fold debate - nature and knowledge of absence (abhāva) - and concludes with the underlying methodological contrast between the two sub-schools.
-
-**How to improve this answer:** Re-check the exact directive in *Solved PYQ 14 - 2025 Q6(c), 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-### Original Mains Practice
-
-#### Practice 1 - 10 marks
-
-**Question:** Explain how injunction (codanā), impelling force (bhāvanā) and unseen ritual potency (apūrva) together make Mīmāṃsā a theory of duty rather than a mere theory of knowledge.
-
-**Model solution**
-
-**Injunction (codanā)** makes Vedic language prescriptive: Vedic duty (dharma) is known as what the Veda enjoins. **Impelling force (bhāvanā)** explains how that injunction works. In Bhāṭṭa terms, **śābdī impelling force (bhāvanā)** impels the qualified agent to act, while **ārthī impelling force (bhāvanā)** belongs to the actual performance that produces the result. **Unseen ritual potency (apūrva)** then links the visible but perishing act to a later unseen fruit.
-
-These three ideas therefore form one chain. Injunction (codanā) gives duty its linguistic form, impelling force (bhāvanā) gives injunction its motivational and productive structure, and unseen ritual potency (apūrva) secures delayed efficacy without requiring a creator-God. Without injunction (codanā), the Veda would become descriptive; without impelling force (bhāvanā), command would not generate action; without unseen ritual potency (apūrva), the gap between act and fruit would remain unexplained.
-
-A Vedāntin may object that this subordinates too much scriptural meaning to action. Mīmāṃsā accepts the price because its project is not metaphysical disclosure first, but the determination of Vedic duty (dharma).
-
-**Why this earns marks:** It answers the directive through one integrated chain, uses the exact technical terms, and shows how language, action and unseen efficacy fit together.
-
-**How to improve this answer:** Re-check the exact directive in *Practice 1 - 10 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-#### Practice 2 - 15 marks
-
-**Question:** Is Prābhākara's threefold awareness (tripuṭī-saṃvit) a stronger account of self-awareness than Nyāya anuvyavasāya and Bhāṭṭa knownness (jñātatā)? Evaluate.
-
-**Model solution**
-
-Prābhākara's **threefold awareness (tripuṭī-saṃvit)** is powerful because it meets the regress objection most directly. If cognition were not somehow manifest in the very act of knowing, another cognition would be needed to reveal it, and that second cognition would need a third. By holding that knower, known and cognition are given together, Prābhākara preserves immediacy.
-
-Against this, **Nyāya** offers **anuvyavasāya** - a second-order cognition of the form “I know the pot.” Its strength is analytic clarity: it sharply separates object-knowledge from reflective awareness. Its weakness is that the regress worry does not fully disappear; one must explain why the higher-order cognition does not require a further one.
-
-**Bhāṭṭa** avoids both full self-luminosity and explicit second-order reflection by appealing to **knownness (jñātatā)**. Cognition is inferred from the object's cognizedness. This preserves a stronger object-realism, but critics complain that knownness (jñātatā) looks like an extra entity introduced only to avoid self-manifest cognition.
-
-**Evaluation:** threefold awareness (tripuṭī-saṃvit) is strongest if anti-regress economy is treated as decisive. Nyāya is strongest if reflective structure is prioritized. Bhāṭṭa is strongest if one wants reflexive awareness without granting self-luminous episodes. No single theory is cost-free.
-
-**Why this earns marks:** It evaluates rather than merely lists, explains the different philosophical motivations, and gives a balanced verdict instead of a one-sided assertion.
-
-**How to improve this answer:** Re-check the exact directive in *Practice 2 - 15 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-#### Practice 3 - 20 marks
-
-**Question:** Can Mīmāṃsā consistently defend an authorless Veda, deny God, and still claim objective normativity? Discuss.
-
-**Model solution**
-
-Mīmāṃsā answers this challenge by shifting the ground of normativity away from divine will and toward the objective authority of an **apauruṣeya** text. The Veda is authorless, eternal and free from the defects that plague personal testimony. Because Vedic duty (dharma) is supersensible, no ordinary means of valid knowledge (pramāṇa) can independently generate it; Vedic injunction is therefore uniquely authoritative in its own domain.
-
-Normativity enters through **injunction (codanā)** and **obligation (niyoga) / impelling force (bhāvanā)**. A Vedic sentence is not merely descriptive but action-guiding. Duty binds because the injunction itself presents an act as to-be-done for a qualified agent. This impersonal model removes dependence on a lawgiver. The later fruit of obedience is explained by **unseen ritual potency (apūrva)**, the unseen potency produced by correct action. Thus Mīmāṃsā can deny a creator-God while still offering a structured account of obligation and efficacy.
-
-The position is internally coherent, but not unproblematic. **Nyāya** objects that meaning and authority are easier to understand if grounded in an omniscient author. **Buddhist** critics deny eternal words and natural word-meaning relations. **Advaita** objects that not all Vedic meaning is injunctive, since Upaniṣadic statements reveal an accomplished reality. Further, critics may ask whether unseen ritual potency (apūrva) and authorless language are explanatory successes or theoretical devices designed to rescue ritualism.
-
-Yet Mīmāṃsā has a real philosophical achievement: it shows that objective normativity need not be equated with divine command. A text can bind, on this model, because of its impersonal validity, stable semantic force and exclusive access to a supersensible domain.
-
-**Verdict:** within its own realist and hermeneutic presuppositions, Mīmāṃsā can consistently defend objective normativity without God. Its deepest vulnerability lies not in inconsistency, but in the contested assumptions of eternal language and unseen efficacy.
-
-**Why this earns marks:** It reconstructs the system's internal coherence, brings in rival objections, and ends with a graded verdict that distinguishes inconsistency from contestability.
-
-**How to improve this answer:** Re-check the exact directive in *Practice 3 - 20 marks*, add one named canonical text or school-specific argument, state the strongest objection and reply, and end with a qualified verdict rather than a generic summary.
-
-**Exam-length execution:** For 10/15/20 marks, compress this into roughly 150/250/250 words respectively: definition and thesis; two or three claim → named evidence → analysis units; one objection/reply; then a one-sentence qualified conclusion.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-### OPTIONAL DEPTH 1 — The Mimamsa Project: Knowledge in the Service of Vedic duty (dharma)
-
-#### Advanced normativity without divine command
-
-The school's unity lies in its governing problem. Vedic duty (dharma) cannot be perceived, while ordinary inference cannot independently establish ritual obligation. Vedic injunction therefore supplies normative knowledge, semantics explains sentence-unity, and unseen ritual potency (apūrva) explains delayed efficacy.
-
-Bhatta *bhavana-vada* stresses linguistic impulsion, action and desired fruit; Prabhakara *niyoga-vada* gives greater priority to the binding character of the act as to-be-done. The difference resembles consequential and deontological emphasis only loosely because both remain grounded in impersonal Vedic authority.
-
-Vedanta presses the deepest textual objection: some Vedic sentences reveal an accomplished reality rather than command action. Mimamsa resists detaching scriptural meaning from practical function, exposing the fault line between Purva and Uttara Mimamsa.
-
-### OPTIONAL DEPTH 2 — Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture
-
-#### Advanced regress and self-luminosity distinction
-
-If every cognition needs another cognition to certify it, the validator itself needs certification and regress follows. Mimamsa therefore locates authority in the original cognition under normal conditions while locating falsity in later-discovered defect or contradiction.
-
-Nyaya replies that successful action and correspondence provide external validation. Mimamsa counters that one must already trust cognition enough to initiate the validating action. The dispute concerns epistemic starting-point, not whether correction is possible.
-
-Validity and manifestation must remain distinct. Prabhakara combines triputi self-manifestation with intrinsic validity, but Kumarila knows cognition through *knownness (jñātatā)* while still defending intrinsic validity. The Bhatta position decisively blocks any claim of logical entailment between self-luminosity and default authority.
-
-### OPTIONAL DEPTH 3 — Postulation (arthāpatti) and Non-cognition (anupalabdhi): Explanatory Necessity and Absence
-
-#### Advanced reduction debates
-
-Nyaya reconstructs postulation (arthāpatti) as inference, but Mimamsa argues that the alleged universal relation is extracted from the very explanatory tension that needs resolution. The cognition moves from incompatible accepted facts to a necessary supplement rather than from a known sign to a probandum.
-
-Bhatta grants absence structured objecthood and an independent means of knowledge. *Eligible non-cognition (yogyānupalabdhi)* limits the claim: only an object perceptible under available conditions can be known absent through non-apprehension. This blocks arguments from failure to perceive intrinsically imperceptible entities.
-
-Prabhakara explains the same case through cognition of the bare locus, while Nyaya accepts absence but resists a new means of valid knowledge (pramāṇa). Bhatta best preserves determinate negative judgment; the rivals purchase greater economy.
-
-### OPTIONAL DEPTH 4 — Self-Awareness and Error: Triputi, Knownness (jñātatā) and Two Mimamsa Theories
-
-#### Advanced anti-regress and assertiveness problems
-
-Threefold awareness (tripuṭī-saṃvit) directly blocks regress by making cognition manifest with knower and object. Nyaya gains analytic clarity through second-order awareness but must explain why reflection does not require endless reflection. Bhatta's *knownness (jñātatā)* preserves object-centred realism but may look like an extra posit.
-
-Prabhakara's non-discrimination theory of error (akhyāti) protects the truth of each constituent: present "this" perception and remembered silver. Error is failure to discriminate. Its weakness is the assertive force of "this is silver." Bhatta's contrary-cognition theory of error (viparīta-khyāti) explains that force through a genuinely false synthesis caused by defects while retaining default validity under normal conditions.
-
-The underlying methodological contrast is economy versus phenomenological adequacy: minimize false cognition or explain illusion as actually experienced.
-
-### OPTIONAL DEPTH 5 — Word Meaning, Sentence Meaning and Ritual Hermeneutics
-
-#### Advanced semantics without a speaker
-
-Mimamsa cannot ground Vedic sentence-unity primarily in an author's intention because the Veda is authorless. It therefore develops textual and semantic conditions that operate without psychological authorship.
-
-The Bhatta theory secures stable lexical meaning but must explain the additional compositional act. Prabhakara captures contextual and action-guiding unity but risks making isolated word meaning difficult to explain.
-
-The universal-particular debate is separate. Mimamsa generally gives semantic priority to universals to explain repeatable use; Nyaya starts from the qualified individual to explain concrete action. Both can reach both levels but disagree about explanatory priority.
-
-### OPTIONAL DEPTH 6 — Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)
-
-#### Advanced objective normativity without God
-
-Vedic authorlessness (apauruṣeyatva), word-eternity and an inherent word-meaning relation secure Vedic testimony in its special domain of supersensible duty. The strategy is anti-sceptical but historically and linguistically demanding: conventionalists challenge eternal language and natural semantic relations.
-
-The school remains orthodox because orthodoxy means Vedic fidelity, not creator-theism. Action and moral consequence (karma) and unseen ritual potency (apūrva) explain fruit; God either becomes redundant if he follows action and moral consequence (karma) or partial if he overrides it. Ritual deities remain procedure-bound rather than sovereign creators.
-
-An enduring self is required to connect action and later experience. Later Mimamsa liberation (mokṣa) is largely cessation of pain, embodiment and karmic entanglement; it should not be transformed into Advaitic Brahman-identity.
-
-### OPTIONAL DEPTH 7 — Comparisons, Criticisms, Traps and the Contemporary Sanskrit Context
-
-#### Advanced critical balance
-
-Intrinsic validity avoids regress and explains ordinary epistemic confidence, but critics ask whether default authority merely postpones certification. Postulation (arthāpatti) captures explanatory compulsion, yet Nyaya can often simulate it inferentially. Non-cognition (anupalabdhi) preserves negative judgments at the cost of a new means of valid knowledge (pramāṇa) and richer ontology.
-
-Authorless language removes authorial defect but leaves the problem of how meaning and normativity arise without intention. Unseen ritual potency (apūrva) links act and fruit but can look like a theoretical placeholder replacing divine administration.
-
-The official 2026-27 Central Sanskrit University programmes and Sanskrit-promotion schemes provide a legitimate educational linkage: they sustain shastra teaching, publication and interpretive training. They do not prove classical doctrines such as authorlessness or ritual efficacy.
-
-### OPTIONAL DEPTH 8 — PYQ Routing, Answer Architecture and Complete Exam Deployment
-
-#### Advanced corpus strategy
-
-Mimamsa appears in every year from 2018 through 2025. The recurrence is structured rather than random: validity, memory, postulation (arthāpatti), absence, self-awareness, error, semantics and Vedic authority form reusable modules.
-
-Master one example for each module—Devadatta, empty table, shell-silver, "cow", and Vedic injunction. Then attach the correct sub-school, rival reduction and residual difficulty.
-
-The final register notes should be used after solving practice. They preserve the integrated chain from validity and language to duty and unseen ritual potency (apūrva) rather than replacing the arguments.
-
-## CONSOLIDATED REGISTER NOTES
-
-### FINAL CONSOLIDATED REGISTER NOTES
-
-#### Orientation and textual base
-
-- Pūrva-Mīmāṃsā = inquiry into **Vedic duty (dharma)**, not first into Brahman or God.
-- Jaimini gives the sūtra-frame; Śabara grounds classical exegesis.
-- Kumārila = Bhāṭṭa line; Prabhākara = Prābhākara line.
-- Chatterjee-Datta formula: Mīmāṃsā serves ritualism by **method of interpretation + philosophical defense**.
-- Fast identity line: **knowledge in the service of duty**.
-
-#### Vedic duty (dharma), injunction (codanā) and ritual efficacy
-
-- `codana-laksano'rtho dharmah` = Vedic duty (dharma) is known through Vedic injunction.
-- **Prescriptive injunction (vidhi)** enjoins; **niṣedha** prohibits.
-- **Śābdī impelling force (bhāvanā)** impels the agent; **ārthī impelling force (bhāvanā)** is productive activity.
-- **Unseen ritual potency (apūrva)** links act and future fruit.
-- **Obligation (niyoga)** = directly binding “to-be-done,” especially in Prābhākara.
-- **Aṃśa-traya** = what, by what means, and how.
-
-#### Validity and means of valid knowledge (pramāṇas)
-
-- **Intrinsic validity (svataḥ-prāmāṇya)** = intrinsic validity; **externally established invalidity (parataḥ-aprāmāṇya)** = extrinsic invalidity.
-- Belief is normal; disbelief is exceptional.
-- Nyāya counter = external validation (parataḥ-prāmāṇya) through validation.
-- Means of valid knowledge (pramāṇas):
-  - Prābhākara = 5
-  - Bhāṭṭa = 6
-- Memory is excluded because it lacks novelty, not because it is always false.
-
-#### Postulation (arthāpatti) and non-cognition (anupalabdhi)
-
-- **Postulation (arthāpatti)** = explanatory necessity, not guess.
-- Standard example: stout Devadatta who does not eat by day -> must eat at night.
-- **Non-cognition (anupalabdhi)** = non-perception of what would be perceived if present.
-- **Yogyatā** is decisive.
-- Bhāṭṭa grants absence (abhāva) real objecthood and a separate means of valid knowledge (pramāṇa); Prābhākara chooses economy.
-
-#### Self-awareness and error
-
-| Problem | Prābhākara | Bhāṭṭa | Nyāya |
-|---|---|---|---|
-| cognition of cognition | threefold awareness (tripuṭī-saṃvit) | jñātatā-inference | anuvyavasāya |
-| illusion | non-discrimination theory of error (akhyāti) | contrary-cognition theory of error (viparīta-khyāti) | anyathā-khyāti |
-
-- Non-discrimination theory of error (akhyāti) = non-discrimination between valid perception and valid memory.
-- Contrary-cognition theory of error (viparīta-khyāti) = positive misapprehension under defect.
-- Shell-silver is the standard test-case.
-
-#### Word and sentence meaning
-
-- Sentence-unity depends on **ākāṅkṣā**, **yogyatā**, **sannidhi**.
-- **Designation-then-connection theory (abhihitānvayavāda)**: words first denote separately, then connect.
-- **Connected-designation theory (anvitābhidhānavāda)**: words denote already-connected meanings.
-- Mīmāṃsā generally prioritizes **jāti**; Nyāya prioritizes qualified **vyakti**.
-- Ritual hermeneutics: **śruti, liṅga, vākya, prakaraṇa, sthāna, samākhyā**, plus **utsarga-apavāda**.
-
-#### Veda, God and normativity
-
-- Veda = **apauruṣeya** and, in the relevant sense, eternal.
-- Word-meaning relation = **autpattika**, not merely conventional.
-- Mīmāṃsā rejects creator-God and fruit-dispenser God.
-- Action and moral consequence (karma) + unseen ritual potency (apūrva) do the explanatory work.
-- Ritual deities remain inside procedure, but are not sovereign dispensers of result.
-
-#### Self, world, action and moral consequence (karma) and liberation (mokṣa)
-
-- World is real.
-- Self is enduring knower, agent and enjoyer.
-- Ritual fruit presupposes continuity of self.
-- Later liberation (mokṣa) = cessation of pain and embodiment; do not import Advaita's Brahman-identity.
-- Early stress remains stronger on **Vedic duty (dharma)** and **svarga**.
-
-#### Review-promoted taxonomy controls
-
-- Textual spine: Jaimini's sūtra -> Śabara's commentary -> Kumārila's Bhāṭṭa and Prabhākara's Prābhākara lines.
-- Perception: indeterminate perception (nirvikalpaka-pratyakṣa) -> determinate perception (savikalpaka-pratyakṣa).
-- Mīmāṃsā comparison (upamāna): present gavaya resembles remembered absent cow; do not use Nyāya's word-reference definition.
-- Testimony: personal testimony (pauruṣeya-śabda) versus impersonal testimony (apauruṣeya-śabda); fact-stating versus action-enjoining sentences.
-- Postulation: perceptual postulation (dṛṣṭārthāpatti) versus verbal postulation (śrutārthāpatti).
-- Vedic sentence functions: injunction, prohibition, mantra, name and explanatory/praise passage.
-- Injunction types: novel, restrictive and exclusionary; keep these distinct from act, application, order and qualified-agent functions.
-- Buddhist exclusion (apoha) denies real universals; Mīmāṃsā defends a positive shared class-character.
-- Many enduring selves ground agency and fruit; later liberation ends fresh karmic production, embodiment and pain.
-
-#### PYQ route map
-
-- 2018: self-luminosity versus intrinsic validity.
-- 2019: Vedic authority.
-- 2020: memory not means of valid knowledge (pramāṇa).
-- 2021: absence (abhāva) and its knowledge.
-- 2022: postulation (arthāpatti) vs inference; error within intrinsic validity.
-- 2023: non-cognition (anupalabdhi); universals versus particulars.
-- 2024: sentence meaning; metacognition; candidate-success case; memory again.
-- 2025: intrinsic vs extrinsic validation; Bhāṭṭa-Prābhākara absence debate.
-
-#### Answer spines
-
-**10 marks:** define -> standard example -> rival contrast -> one-line criticism -> direct verdict.
-
-**15 marks:** frame the issue -> mechanism in steps -> example -> objection/reply -> qualified conclusion.
-
-**20 marks:** conceptual distinction -> full reconstruction -> Bhāṭṭa/Prābhākara split -> Nyāya/Advaita comparison -> deepest criticism -> graded verdict.
-
-#### Final traps
-
-1. Prābhākara is **five-pramāṇa**, not six-pramāṇa.
-2. Intrinsic validity is not infallibility.
-3. Bhāṭṭa denies self-luminous cognition but keeps intrinsic validity.
-4. Postulation (arthāpatti) is not mere guess.
-5. Non-cognition (anupalabdhi) is Bhāṭṭa's distinct contribution.
-6. Non-discrimination theory of error (akhyāti) is not no-cognition.
-7. Mīmāṃsā does not need God to ground Veda.
-8. Sentence meaning debate and universal-particular debate must not be collapsed.
-9. Unseen ritual potency (apūrva) is not visible causation and not God-in-disguise.
-10. Mimamsa optional answers score best when they keep **epistemology, language and duty** together.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/9: Textual lineage and Vedic duty
-
-```ascii-master
-JAIMINI -> SABARA -> KUMARILA / PRABHAKARA
-Purva-Mimamsa owns duty, injunction and ritual interpretation
-Vedanta owns the Brahman-centred Upanisadic inquiry
-Vedic duty (dharma) is known through injunction (codanā), not perception
-prescriptive sentence -> impelling force (bhāvanā) -> ritual action
--> unseen ritual potency (apūrva) -> delayed result
-```
-
-#### ASCII MASTER FLOW — PANEL 2/9: Validity and knowledge sources
-
-```ascii-master
-INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA)
-cognition presents itself as true unless a later defeater establishes error
-Bhatta accepts six sources; Prabhakara does not treat non-cognition independently
-Nyaya contrast -> external validation (parataḥ-prāmāṇya)
-regress pressure supports first-trust, but correction still requires defeat
-```
-
-#### ASCII MASTER FLOW — PANEL 3/9: Perception, comparison and testimony
-
-```ascii-master
-INDETERMINATE PERCEPTION -> DETERMINATE PERCEPTION
-comparison: present gavaya resembles remembered absent cow
-Nyaya contrast: word-reference learning is not the Mimamsa definition
-personal testimony depends on a speaker; Vedic testimony is impersonal
-testimony may state a fact or enjoin an action
-```
-
-#### ASCII MASTER FLOW — PANEL 4/9: Postulation and non-cognition
-
-```ascii-master
-POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS
-Devadatta is stout + does not eat by day -> he eats at night
-perceived-fact postulation differs from heard-sentence postulation
-NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE
-empty floor is seen under conditions in which the pot would have been seen
-trap: postulation is not loose guessing; non-cognition is not simple inattention
-```
-
-#### ASCII MASTER FLOW — PANEL 5/9: Self-awareness and error
-
-```ascii-master
-PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT)
-one cognition discloses knower, known and knowing together
-BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED
-error -> non-discrimination theory versus contrary-cognition theory
-both avoid an infinite second-cognition regress by different strategies
-```
-
-#### ASCII MASTER FLOW — PANEL 6/9: Word and sentence meaning
-
-```ascii-master
-SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY
-designation-then-connection: words first denote, then meanings combine
-connected-designation: words directly present meanings already related
-word universal realism answers Buddhist meaning-through-exclusion
-Vedic functions: injunction, prohibition, mantra, name, explanatory praise
-semantic theory protects action-guiding scripture without an original speaker
-```
-
-#### ASCII MASTER FLOW — PANEL 7/9: Vedic authorlessness and God
-
-```ascii-master
-VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE
-eternity of word supports an uncreated relation between word and meaning
-Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not
-God is unnecessary for Vedic authority, ritual efficacy or karmic distribution
-pressure: removing an author secures autonomy but complicates semantic intention
-```
-
-#### ASCII MASTER FLOW — PANEL 8/9: Self, liberation and criticism
-
-```ascii-master
-MANY ENDURING SELVES SUPPORT MEMORY, AGENCY, DESERT AND REBIRTH
-cognition is episodic; self persists across body, senses and action
-liberation = end of new merit/demerit, embodiment and painful experience
-strength: sophisticated epistemology, semantics and non-theistic normativity
-Buddhist and Carvaka objections target self, universals and non-perceptual claims
-```
-
-#### ASCII MASTER FLOW — PANEL 9/9: PYQ answer synthesis
-
-```ascii-master
-IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING
-state doctrine -> give canonical example -> contrast Nyaya -> assess residual issue
-link intrinsic validity to postulation, non-cognition and Vedic authority
-use exact terminology only after the English concept
-verdict: powerful theory of knowledge and duty, contested ritual metaphysics
-```
+---

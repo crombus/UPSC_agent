@@ -1,237 +1,558 @@
-ASCII MASTER FLOW — PANEL 1/12: The central question and the analytical axes of sovereignty
-CENTRAL QUESTION -> where is final authority LOCATED, how is it STRUCTURED, how far
-                    is it LIMITED?
+ASCII MASTER FLOW — PANEL 1/19: The printed clause, the concept of final authority and the fence
+SYLLABUS (verbatim) -> "Sovereignty : Austin, Bodin, Laski, Kautilya."
+        |            four thinkers are printed, and only four
+        v
+CENTRAL QUESTION -> every political order must be able to DECIDE FINALLY: to make binding
+                    rules, settle disputes, keep order and speak outward. Who or what decides?
         |
         v
-ROOT CONCEPT: supreme, final and authoritative power within a political community
-  NOT mere force (a bandit coerces)  |  NOT the government of the day  |  NOT the state
-        |
-  +-----+------------+-------------------+--------------------+
-  v                  v                   v                    v
-INTERNAL/EXTERNAL  LEGAL/POLITICAL   DE JURE/DE FACTO   TITULAR/ACTUAL
-supremacy within   competent law-    lawful title vs    formal dignity vs
-vs independence    maker vs the      effective          real power of
-among states       real power        obedience          decision
+SOVEREIGNTY = the SUPREME, FINAL and AUTHORITATIVE power within a political community
+  PRESUPPOSES  an organised political community | ruler-ruled relation | ordinary vs
+               HIGHEST authority
+  IS NOT       mere force (a bandit coerces, he does not decide finally)
+               the government of the day (real but derived authority)
+  +-----------------+------------------------+
+  v                 v                        v
+WHERE?            HOW?                     HOW FAR?
+who or what       is final authority       what limits it -- higher law, morality,
+holds final       ONE and UNDIVIDED,       associations, welfare duty, other states?
+authority?        or SHARED?
         |
         v
-CONTROL: distinguish the axes FIRST, locate the thinker SECOND, adjudicate LAST.
+FIVE PRESSURE POINTS THAT MAKE THE CONCEPT CONTROVERSIAL
+  liberty -> finality can crush the protected sphere
+  plurality -> churches, unions, universities command real loyalty
+  federalism -> competence is constitutionally split
+  morality -> a legally valid command may be monstrous
+  interdependence -> treaty, market and security pressure narrow real choice
+        |
+        v
+THE SPECTRUM  ABSOLUTE LEGAL SUPREMACY <---------------> DISTRIBUTED, MORALLY
+              Bodin ... Austin        Kautilya ... Laski   CONDITIONED AUTHORITY
+        |
+        v
+OWNERSHIP FENCE  social contract, state of nature, rights, political obligation, Dworkin
+  -> Individual and State | forms of democracy -> Forms of Government | equality, justice,
+  liberty -> Social and Political Ideals | institutions and current disputes -> International
+  Relations | article-by-article doctrine -> Polity
+BRIDGES ADMITTED  Hobbes (absolutist foil) | Rousseau (popular-sovereignty counterpoint) |
+  Kelsen and Hart (the two INTERNAL repairs of Austin)
+CORPUS SHARE -> 11 of 112 parts (2018:2 2019:1 2020:2 2021:2 2022:1 2023:1 2024:1 2025:1)
 
-ASCII MASTER FLOW — PANEL 2/12: Bodin: absolute, perpetual, undivided - and still bounded
-CONDITION: confessional civil war; churches, estates and feudal lords each claim finality
+ASCII MASTER FLOW — PANEL 2/19: The taxonomy and the five classical attributes
+FOUR PAIRS -- FIX THE AXIS BEFORE GRADING ANY THINKER
+PAIR              FIRST TERM                       SECOND TERM
+----------------  -------------------------------  ---------------------------------
+INTERNAL /        supremacy over persons and       independence from outside control
+  EXTERNAL        associations INSIDE the state    in the society of states
+LEGAL /           authority the law recognises     the real power that can compel or
+  POLITICAL       as COMPETENT to make law         SHAPE the law-maker
+DE JURE /         lawful in TITLE and formal       actually OBEYED in practice,
+  DE FACTO        right                            whatever the title
+TITULAR /         vested formally in an OFFICE     effectively exercised by those who
+  ACTUAL          or symbol                        really govern
         |
         v
-DEFINITION -> sovereignty is the ABSOLUTE and PERPETUAL power of a commonwealth
-        |
-  +-----+---------------------+---------------------------+
-  v                           v                           v
-ABSOLUTE                   PERPETUAL                   UNDIVIDED
-no human superior          attached to the OFFICE,     two final wills would
-inside the realm           not to a magistrate         revive civil war
-  |                                                        |
-  v                                                        v
-PRE-EMINENT MARK -> power to MAKE and UNMAKE law for all subjects in general,
-                    without the consent of any superior
+POPULAR SOVEREIGNTY -> the people in their corporate capacity are the SOURCE of public
+  authority; government is their AGENT. Rousseau: the GENERAL WILL is a claim about the
+  COMMON GOOD, not the sum of private preferences.
+NATIONAL SOVEREIGNTY -> a national community claims COLLECTIVE SELF-DETERMINATION.
+  CONTROL -> nation, people and state may not coincide; NO majority is thereby morally
+  sovereign; the two expressions are NOT interchangeable.
         |
         v
-LIMITS THAT SURVIVE -> divine law | natural law | fundamental laws (leges imperii)
-LEGIBUS SOLUTUS -> released from ORDINARY POSITIVE LAW only; not from higher law
-TRAP -> Bodin is not Hobbes before Hobbes; supreme is not morally empty
-VERDICT -> first systematic theory and indispensable vocabulary; institutional
-           guarantees against abuse remain weak.
-
-ASCII MASTER FLOW — PANEL 3/12: Austin's command theory: the mechanism of legal sovereignty
-PROJECT -> analytical jurisprudence: define law and sovereignty with juristic precision
+FIVE CLASSICAL ATTRIBUTES -- EACH ONLY DEFENSIBLE QUALIFIED
+ATTRIBUTE          EXAM-SAFE MEANING                 REQUIRED QUALIFICATION
+-----------------  --------------------------------  --------------------------------
+ABSOLUTENESS       no superior human LAW-MAKER       not moral infallibility or
+                   commands it within                practical omnipotence
+PERMANENCE /       governments change; the state's   continuity while independent,
+  CONTINUITY       authority continues               NOT literal eternity
+UNIVERSALITY       reaches persons and associations  recognised immunities and
+                   within the territory              autonomous spheres may exist
+INALIENABILITY     cannot be given away without      DELEGATION, devolution, treaty
+                   ceasing to be sovereign           commitment are NOT alienation
+INDIVISIBILITY     one final LEGAL SOURCE            COMPETENCES may still be
+                                                     distributed
         |
         v
-DETERMINATE HUMAN SUPERIOR  (an identifiable person or body, never an abstraction)
-        |
-        v  receives
-HABITUAL OBEDIENCE from the BULK of a given society
-        |
-        v  and renders
-OBEDIENCE TO NO OTHER SUPERIOR
-        |
-        v  therefore
-COMMAND --> SANCTION --> DUTY --> POSITIVE LAW
-        |
-  +-----+--------+---------+-----------+------------+
-  v              v         v           v            v
-DETERMINATE   ABSOLUTE  INDIVISIBLE ILLIMITABLE  INALIENABLE
-identifiable  no legal  finality    no superior  transfer ends
-              limit     unpartitionable          sovereignty
-SOURCE -> The Province of Jurisprudence Determined, 1832
-TRAP -> Austin's sovereign is NOT the state; it is a determinate superior.
+PLACEMENT -> Bodin supplies ABSOLUTE + PERPETUAL. Austin supplies the sharpest DETERMINATE-
+  SUPERIOR formulation. The five-part list is a CONSOLIDATION of the monist tradition, not
+  five claims uniquely invented by either man.
+BRIDGE FORWARD -> Austin's habit theory cannot explain SUCCESSION or PERSISTENCE, i.e. the
+  PERMANENCE attribute. Kelsen and Hart repair that WITHOUT restoring a personal sovereign.
 
-ASCII MASTER FLOW — PANEL 4/12: The external critique of Austin and the democracy verdict
-+----------------+---------------------------+------------------------------+
-| HEAD           | OBJECTION                 | MONIST REPLY / RESIDUAL      |
-+----------------+---------------------------+------------------------------+
-| federalism     | no single determinate     | finality relocated to the    |
-|                | superior in a federation  | constituent power; that      |
-|                |                           | SHIFTS the problem           |
-| international  | binding rules exist with  | conceptual purity preserved, |
-| law            | no world sovereign        | but law is over-narrowed     |
-| custom         | obedience can PRECEDE     | tacit adoption by courts;    |
-|                | command                   | widely judged artificial     |
-| popular        | the people rule but are   | legal indeterminacy admitted;|
-| sovereignty    | legally indeterminate     | political finality conceded  |
-| Maine: Ranjit  | despotic power coexisted  | authority is often personal  |
-| Singh          | with untouched custom     | and socially embedded        |
-+----------------+---------------------------+------------------------------+
-DEMOCRACY -> narrow legal sense: compatible in form
-          -> deeper political sense: derivative, divided, rights-bound = uneasy
-CONTROL -> answer by DEGREE-JUDGMENT, never by a flat yes or no.
-
-ASCII MASTER FLOW — PANEL 5/12: Kelsen and Hart: the internal repair of supreme legal authority
-DIAGNOSIS -> the command theory fails on SUCCESSION, PERSISTENCE and
-             POWER-CONFERRING RULES
-        |
-  +-----+-------------------------------+
-  v                                     v
-KELSEN (General Theory, 1945)      HART (The Concept of Law, 1961)
-  GRUNDNORM  (presupposed)           RULE OF RECOGNITION
-      ^                                  ^ official convergent practice
-      | validity descends                | + INTERNAL POINT OF VIEW
-  CONSTITUTION                       SECONDARY RULES
-      ^                              recognition | change | adjudication
-      |                                  ^ cure uncertainty | static
-  STATUTES                               | character | inefficiency
-      ^                                  |
-      |                              PRIMARY RULES (duties)
-  ORDERS AND JUDGMENTS
-TERMINOLOGY -> having an obligation (internal) vs being obliged (gunman coercion)
-PLACEMENT -> both keep SUPREME LEGAL AUTHORITY and discard the PERSONAL sovereign
-TRAP -> never merge Kelsen, Hart and Laski; never date Kelsen to 1961.
-
-ASCII MASTER FLOW — PANEL 6/12: Laski's pluralism: the rejection and its replacement
-TARGET -> the monistic doctrine of absolute, indivisible, unlimited state sovereignty
-        |
-  +-----+----------------------+----------------------------+
-  v                            v                            v
-PHILOSOPHICALLY FALSE      POLITICALLY DANGEROUS       SOCIOLOGICALLY UNREAL
-loyalty is plural; no      supplies a doctrine of      churches, unions,
-single will exhausts       unquestioned power          universities and local
-obligation                 against liberty             bodies really decide
+ASCII MASTER FLOW — PANEL 3/19: Bodin -- absolute, perpetual, undivided, and bound
+CONTEXT -> 16th-century France; religious civil war; rival churches, estates and feudal
+  powers each claim finality -> no procedure for closure -> the commonwealth disintegrates
         |
         v
-REPLACEMENT ARCHITECTURE
-  +--> the state is ONE ASSOCIATION AMONG MANY, though uniquely important
-  +--> authority is DIVIDED AND SHARED with functional associations
-  +--> the state must COMPETE FOR ALLEGIANCE by what it does
+DEFINITION -> SOVEREIGNTY IS THE ABSOLUTE AND PERPETUAL POWER OF A COMMONWEALTH
+  ABSOLUTE   -> not subject to any HUMAN SUPERIOR within the commonwealth
+  PERPETUAL  -> enduring, attached to the OFFICE, not to a temporary magistrate or
+                delegated official
+  PRE-EMINENT MARK -> the power to MAKE and UNMAKE LAW for all subjects in general,
+                without needing consent from a superior
+  PRESUPPOSITION -> law needs a source not itself legally derivative from another
+                earthly authority
         |
         v
-TRAP -> pluralist, NOT anarchist: he limits the state, he does not abolish it
-VERDICT -> decisive corrective on liberty; incomplete on coordination, which is
-           why examiners ask whether it is a satisfactory position.
-
-ASCII MASTER FLOW — PANEL 7/12: Kautilya inside the state: seven limbs and the calibrated rod
-CLAIM -> sovereignty is the CAPACITY of a state organism, not one man's bare will
+INDIVISIBILITY -> if two authorities are each FINAL, conflict is insoluble and civil
+  disorder returns
+  PERMITTED  -> division of GOVERNMENTAL FUNCTIONS (advisory estates, subordinate courts)
+  FORBIDDEN  -> division of SOVEREIGN TITLE
         |
         v
-SAPTĀṄGA (seven limbs)
-  svāmī     ruler            -> headship and direction
-  amātya    ministers        -> counsel, administration, execution
-  janapada  territory/people -> the productive social base
-  durga     fortified place  -> security and protection
-  kośa      treasury         -> the material basis of rule
-  daṇḍa     coercive force   -> enforcement, punishment, defence
-  mitra     ally             -> external support in the interstate order
+THE THREE LIMITS -- ABOVE POSITIVE LAW, NOT ABOVE ALL LAW
+  DIVINE LAW ................ cannot validly command what offends divine order
+  NATURAL LAW ............... justice and right reason remain normative limits
+  LEGES IMPERII ............. the fundamental constitutive laws of the realm structure
+                              the sovereign OFFICE
+  FORMULA -> LEGIBUS SOLUTUS ("freed from the laws") of ORDINARY POSITIVE LAW ONLY
+  WORKED CASE -> arbitrary confiscation of property is commonly discussed as
+                 incompatible with his own limiting framework
         |
         v
-DAṆḌANĪTI, THE CALIBRATION DIAL
-  too little <----------------- proper ------------------> too much
-  MĀTSYA-NYĀYA                order + welfare              TYRANNY
-  the strong devour the weak  (yogakṣema)                  revolt, ruined
-                                                           janapada, empty kośa
-TRAP -> the svāmī is DHARMA-BOUND; he is not Austin's illimitable superior.
+WHY HE MATTERS -> shifts thought from MEDIEVAL PLURAL and FEUDAL claims to a UNIFIED
+  concept of state authority; supplies the vocabulary -- absolute, perpetual, undivided --
+  that AUSTIN radicalises and LASKI attacks
+OBJECTION -> if sovereignty is absolute it negates rights and liberties
+REPLY -> juristic absolutism, not caprice; higher-law limits remain
+RESIDUAL -> the sovereign is also the judge of what those limits require; no institution
+  enforces them -> conceptually real, practically thin
+VERDICT -> HISTORICALLY FOUNDATIONAL, NORMATIVELY PROBLEMATIC
+TRAP -> Bodin is NOT Hobbes. TRAP -> "perpetual" is NOT "eternal"; it means OFFICE.
 
-ASCII MASTER FLOW — PANEL 8/12: Kautilya outside the state: circle, six-fold policy and relevance
-SPATIAL LAYER -> the MAṆḌALA: authority is measured against neighbours
-   [ neighbour's neighbour ]  = natural ALLY (shares a rival)
-              ^
-   [ immediate neighbour   ]  = natural RIVAL (shares a border)
-              ^
-   [ the aspiring ruler    ]  = vijigīṣu
-2025 PYQ LINE -> prompt framing, NOT a verified Kautilya quotation
-SUPPORTED THESIS -> alliances and policies change with position, power and interest
+ASCII MASTER FLOW — PANEL 4/19: Austin -- the determinate superior, command and sanction
+PROJECT -> ANALYTICAL JURISPRUDENCE: define law and sovereignty with conceptual precision;
+  separate what law IS from what law OUGHT TO BE
         |
         v
-ṢĀḌGUṆYA, the six-fold operational policy
-  sandhi peace | vigraha hostility | yāna advance
-  āsana poised inaction | saṃśraya shelter | dvaidhībhāva dual policy
+DEFINITION -> A SOVEREIGN IS A DETERMINATE HUMAN SUPERIOR who
+  (1) is IDENTIFIABLE -- not vague or mystical
+  (2) receives HABITUAL OBEDIENCE from the BULK of a given society
+  (3) habitually OBEYS NO ONE else
+  CORRECTION -> the sovereign is NOT "the state" in the abstract. It is a DETERMINATE
+  PERSON OR BODY; a legislature or monarch fits better than diffuse democratic opinion.
         |
         v
-ETHICAL FRAME -> YOGAKṢEMA: security plus well-being is the ruler's duty
+LAW = COMMAND + SANCTION
+  COMMAND -> an expression of DESIRE by a SUPERIOR
+  SANCTION -> the EVIL or PAIN attached to NON-COMPLIANCE
+  => law is a SPECIES OF IMPERATIVE inside a structure of superiority and obedience
+  SEPARATED FROM -> morality, custom, divine law
+  BEST FIT -> penal law   WORST FIT -> enabling, permissive and procedural rules
         |
         v
-MODERN RELEVANCE -> by THEME: state capacity, fiscal strength, intelligence,
-  calibrated enforcement, strategic autonomy, welfare obligation
-LIMIT -> SELECTIVE APPROPRIATION of principles, never reproduction of monarchy.
+FIVE ATTRIBUTES -- D-A-I-I-I, AND WHY THE LIST IS FORCED
+  DETERMINATE ..... otherwise the ORIGIN of validity is unlocatable
+  ABSOLUTE ........ otherwise a superior law-maker exists above it
+  INDIVISIBLE ..... otherwise two rival origins conflict with no resolution
+  ILLIMITABLE ..... otherwise validity is pushed to a further source
+  INALIENABLE ..... otherwise finality is transferable and therefore not final
+  => each attribute CLOSES A GAP in the chain of legal validity
+        |
+        v
+HONEST CONCESSION -> Austinian indivisibility is STRICTER than empirical political
+  reality. It is a LOGICAL feature of the scheme, not an observation about states.
+        |
+        v
+THE INTERNAL DEFECT AUSTIN CANNOT ANSWER -> POWER-CONFERRING RULES.
+  Rules for making a valid will, contract or marriage confer FACILITIES; a defective
+  will is a NULLITY, and nullity is NOT a sanction. -> doorway to Kelsen and Hart.
+TRAP -> calling Austin's sovereign "the state". TRAP -> calling nullity a sanction.
 
-ASCII MASTER FLOW — PANEL 9/12: Comparison grid and the objection-reply-residual engine
-+---------------+------------+-------------+-----------+---------------+
-| AXIS          | BODIN      | AUSTIN      | LASKI     | KAUTILYA      |
-+---------------+------------+-------------+-----------+---------------+
-| located in    | supreme    | determinate | no single | svāmī within  |
-|               | law-giver  | superior    | locus     | saptāṅga      |
-| absolute?     | yes, with  | yes, in     | no        | strong but    |
-|               | higher law | legal form  |           | dharma-bound  |
-| divisible?    | no         | no          | yes       | organically   |
-|               |            |             |           | coordinated   |
-| associations  | secondary  | subordinate | autonomous| constitutive  |
-| core anxiety  | civil war  | juristic    | liberty   | survival and  |
-|               |            | clarity     |           | welfare       |
-+---------------+------------+-------------+-----------+---------------+
-AUSTIN vs KAUTILYA -> command/obedience/sanction  against  rule/administration/
-                      welfare/coercion/strategy
-CRITICAL ENGINE -> OBJECTION -> MONIST REPLY -> RESIDUAL DIFFICULTY
-  democracy  -> legal finality retained -> authority still derivative and divided
-  federalism -> constituent power       -> relocation is not proof of one superior
-  pluralism  -> shared is not sovereign -> monism may misdescribe plural life
-ORDERING RULE -> internal critique (Kelsen, Hart) first, external critique second.
+ASCII MASTER FLOW — PANEL 5/19: The criticisms of Austin and the two-level democracy verdict
+THREE STRUCTURAL CRITICISMS -- ONE OBJECTION APPLIED THREE TIMES
+CRITICISM         WHAT IT ATTACKS      AUSTINIAN RELOCATION        THE COST
+----------------  -------------------  --------------------------  --------------------
+FEDERALISM        indivisibility       "the CONSTITUTION-MAKING    the constitution may
+                  competence is         authority is sovereign"    itself embody shared
+                  constitutionally                                 or entrenched power
+                  distributed                                      -> shifts, not solves
+INTERNATIONAL     the SCOPE of "law"   "not truly law -- there is  excludes norms states
+  LAW             treaty, custom and    no world sovereign"        argue about in legal
+                  institutions bind                                terms and enforce by
+                  without a superior                               reciprocity
+CUSTOMARY LAW     the DIRECTION of     "customs are TACITLY        artificial: recognition
+                  authority; practice   ADOPTED by the sovereign"  and obedience PRECEDE
+                  precedes command                                 enactment
+        |
+        v
+MAINE -> Ranjit Singh: actual authority may be PERSONAL, UNSTABLE and SOCIALLY EMBEDDED.
+  Austinian reply: exceptional cases do not defeat a general theory.
+  Counter: the problem is the WIDER MISMATCH, not one odd case.
+        |
+        v
+DEMOCRACY -- THE TWO-LEVEL VERDICT (2021 Q1(c))
+  YES, in a NARROW LEGAL sense ....... a law-making body can always be named
+  NO, in the CONSTITUTIONAL-POLITICAL sense .. democracy makes authority DERIVATIVE,
+      REVISABLE and ANSWERABLE, which illimitability forbids
+  SHARPEST FORM -> "the people" are indeterminate, changing and institutionally mediated
+      -> either the sovereign is not the people, or the sovereign is not determinate
+        |
+        v
+JURISDICTION CONTROL -- PARLIAMENTARY SOVEREIGNTY IS NOT A UNIVERSAL DOCTRINE
+  UNITED KINGDOM -> Parliament is the SUPREME LEGAL AUTHORITY; courts generally cannot
+    overrule primary legislation; one Parliament cannot entrench against a future one
+  INDIA -> the WRITTEN CONSTITUTION is supreme; Parliament exercises CONSTITUTIONALLY
+    CONFERRED powers (Article 368); judicial review enforces limits; KESAVANANDA BHARATI
+    (Supreme Court judgment, 1973) limits the amending power via the BASIC STRUCTURE
+  DO NOT OVERCLAIM -> the UK order is not unconstrained in every practical sense, and
+    India's judiciary is NOT "sovereign" merely because it reviews legislation
+  STATUS CAUTION -> a judgment is a DATED JUDICIAL DECISION, never philosophical proof
 
-ASCII MASTER FLOW — PANEL 10/12: Globalization, standing traps and the reusable answer spine
-SAME EVIDENCE -> treaties | trade regimes | supranational adjudication | flows
-        |                                        |
-        v                                        v
-EROSION THESIS                          TRANSFORMATION / RESILIENCE THESIS
-authority leaks upward and outward      sovereignty is pooled, constrained,
-                                        negotiated and networked
-        +------------------+--------------------+
-                           v
-DECISIVE DISTINCTION -> legal independence  vs  practical interdependence
-MECHANISMS -> treaty constraint | delegated competence | pooled decision | dependence
-PERSISTENT CLAIMS    -> war | treaty | currency | membership
-VERDICT -> RECONFIGURED, not abolished
-TRAP CHECK -> Austin's sovereign is not the state | Laski is not an anarchist |
-  Bodin is not lawless | svāmī is not illimitable | Kelsen 1945, Hart 1961 |
-  sovereignty has not disappeared
-ANSWER SPINE -> 1 decode the directive and name the owner-thinker
-                2 open with the taxonomy of sovereignty
-                3 state the doctrine in the thinker's own terms
-                4 objection and reply, objector named
-                5 graded verdict
-TIERS -> 10 marks: steps 1-3 and a verdict; 15: full spine and one objection;
-         20: full spine, internal then external critique, and a comparison close.
+ASCII MASTER FLOW — PANEL 6/19: Kelsen -- the hierarchy of norms and the basic norm, 1945
+THREE PROBLEMS AUSTIN CANNOT SOLVE FROM INSIDE HIS OWN SYSTEM
+  (1) SUCCESSION ..... why is the new sovereign's FIRST command law, before any habit of
+                       obedience has formed?
+  (2) PERSISTENCE .... why does a centuries-old statute, made by a sovereign long dead and
+                       never habitually obeyed by anyone alive, remain valid?
+  (3) POWER-CONFERRING ... rules of will, contract and marriage confer FACILITIES, not
+                       orders; a defective will is a NULLITY, not a punishment
+  => each points the same way: legal authority is carried by RULES, not by HABITS or the
+     PERSON of a commander
+        |
+        v
+THE PYRAMID -- VALIDITY DERIVES FROM A HIGHER NORM, NEVER FROM A FACT
+        BASIC NORM (GRUNDNORM)  -- presupposed, not enacted
+                 | authorises
+        CONSTITUTION
+                 | authorises
+        STATUTE
+                 | authorises
+        ADMINISTRATIVE ORDER
+        |
+        v
+THE FIVE-STEP ARGUMENT
+  1 a norm's validity cannot derive from a FACT -- "is" does not yield "ought"
+  2 therefore validity must derive from a FURTHER NORM
+  3 an infinite regress would leave nothing valid
+  4 therefore the chain TERMINATES in a norm PRESUPPOSED rather than derived
+  5 law is a SELF-REFERRING HIERARCHY of validity, distinct from morality AND brute power
+PRESUPPOSITION -> a PURE theory of law is possible: describe validity while excluding
+  morality, sociology, politics and psychology
+PROVENANCE -> General Theory of Law and State, first English edition 1945. NEVER 1961.
 
-ASCII MASTER FLOW — PANEL 11/12: Five classical attributes and two sovereignty-of-the-people claims
-CLASSICAL LEGAL ATTRIBUTES -> absoluteness | permanence | universality |
-                              inalienability | indivisibility
-PERMANENCE -> government changes while state sovereignty continues
-UNIVERSALITY -> jurisdiction reaches persons and associations in the territory
-INALIENABILITY -> powers may be delegated; sovereign status is not merely transferred
-POPULAR SOVEREIGNTY -> people are the internal source of legitimate authority
-ROUSSEAU -> general will claims common good; government remains an agent
-NATIONAL SOVEREIGNTY -> collective self-determination and territorial independence
-TRAP -> popular source, national self-rule and majority preference are not synonyms
+ASCII MASTER FLOW — PANEL 7/19: Kelsen -- the dissolution of the personal sovereign
+EFFECT ON SOVEREIGNTY -> KELSEN DISSOLVES the Austinian sovereign. No determinate human
+  superior stands above the law; the "sovereign" is the PERSONIFICATION of the order's
+  HIGHEST NORM-CREATING COMPETENCE. Sovereignty belongs to the NORMATIVE ORDER.
+        |
+        v
+OBJECTION -> the Grundnorm is a fiction doing Austin's work less honestly
+REPLY -> it is not claimed as a FACT but as a TRANSCENDENTAL-LOGICAL CONDITION of treating
+  anything as valid law; it confers VALIDITY, not moral obligation -> still positivist
+OBJECTION -> revolution replaces a constitution with no authorising norm
+REPLY -> when a new order is BY AND LARGE EFFECTIVE, jurists presuppose a NEW basic norm;
+  efficacy is a CONDITION of validity, not its SOURCE
+RESIDUAL -> this quietly readmits the fact of power the theory excluded -- CONCEDE IT
+PROVENANCE -> General Theory of Law and State, first English edition 1945. NEVER 1961.
 
-ASCII MASTER FLOW — PANEL 12/12: Pluralist lineage and jurisdiction-safe constitutional comparison
-PLURALIST SCHOOL -> Figgis: real associations | Cole: functional groups |
-                    MacIver: law, constitution and residual coordination
-LASKI REMAINS THE OWNER -> early legal-fiction attack; mature limited sovereignty
-UNITED KINGDOM -> Parliament is the supreme legal authority in its jurisdiction
-INDIA -> Parliament exercises powers conferred and limited by a supreme Constitution
-JUDICIAL REVIEW -> enforces constitutional limits; it does not make courts sovereign
-FEDERALISM -> distribute competences without assuming legal and political finality coincide
-GLOBAL LINK -> pooling/delegation moves exercise of power, not universal sovereignty
-VERDICT -> modern sovereignty is competence-distributed and morally contestable
+ASCII MASTER FLOW — PANEL 8/19: Hart -- primary and secondary rules, rule of recognition, 1961
+PRIMARY RULES -> impose DUTIES on conduct: do not steal, do not assault, pay tax
+        |
+        v
+A REGIME OF PRIMARY RULES ALONE SUFFERS THREE DEFECTS -- AND EACH HAS ITS CURE
+  DEFECT              CURE (SECONDARY RULE)     WHAT IT ANSWERS
+  ------------------  ------------------------  --------------------------------
+  UNCERTAINTY         RULE OF RECOGNITION       which rules are law?
+  STATIC CHARACTER    RULES OF CHANGE           how is law created, amended, repealed?
+  INEFFICIENCY        RULES OF ADJUDICATION     who determines breach and remedy?
+  => the UNION of primary with secondary rules is what distinguishes a LEGAL SYSTEM from
+     a set of SOCIAL HABITS
+        |
+        v
+THE APEX -> the RULE OF RECOGNITION is neither valid nor invalid. It EXISTS AS A SOCIAL
+  FACT, in the CONVERGENT PRACTICE OF OFFICIALS who treat it as the common public standard
+  FROM AN INTERNAL POINT OF VIEW.
+        |
+        v
+INTERNAL vs EXTERNAL POINT OF VIEW
+  EXTERNAL observer .... records REGULARITIES OF BEHAVIOUR
+  INTERNAL participant . treats the rule as a REASON for conduct and a GROUND FOR
+                         CRITICISING deviation
+  => Austin's HABIT captures only the external aspect, so it cannot distinguish a LEGAL
+     OBLIGATION from a GUNMAN'S THREAT, or a RULE from a HABIT
+
+ASCII MASTER FLOW — PANEL 9/19: Hart -- four strikes against Austin, and the Indian illustration
+FOUR STRIKES AGAINST AUSTIN
+  AUSTIN'S CLAIM                    HART'S OBJECTION
+  --------------------------------  ------------------------------------------------
+  law = command + sanction          ignores power-conferring rules; NULLITY is not a
+                                    sanction
+  sovereign habitually obeyed       habit cannot explain CONTINUITY on succession or
+                                    PERSISTENCE of old statutes
+  sovereign obeys no one            the law-maker is itself CONSTITUTED and LIMITED by
+                                    rules of change
+  obligation = being obliged        conflates BEING OBLIGED (gunman) with HAVING AN
+                                    OBLIGATION (internal point of view)
+        |
+        v
+HART AGAINST KELSEN -> an ultimate criterion is needed, but it is a SOCIAL FACT, not a
+  presupposed norm standing outside the system
+OBJECTION (DWORKIN) -> hard cases are decided by PRINCIPLES that no pedigree test finds
+REPLY -> bounded DISCRETION at the penumbra; a rich rule of recognition may admit
+  principles -> DISPUTE UNRESOLVED; state it as LIVE and ROUTE Dworkin to Individual
+  and State
+INDIA (illustration only) -> a written supreme Constitution with an amendment procedure
+  (rules of change) and a judicial hierarchy with writ jurisdiction (rules of adjudication)
+  => COMPETENCE-DISTRIBUTED, RULE-GOVERNED authority. NEVER call any Indian institution
+  "the sovereign", and NEVER attribute a Grundnorm to a named document.
+
+ASCII MASTER FLOW — PANEL 10/19: Laski -- pluralism, the thesis and the supported lineage
+STARTING-POINT -> human beings live in MANY ASSOCIATIONS: family, church, union, guild,
+  cooperative, profession, locality -- and each commands REAL LOYALTY
+  => the state cannot claim that ALL obligation derives from IT ALONE
+        |
+        v
+THESIS -> THE STATE IS ONE ASSOCIATION AMONG MANY, though a uniquely important one
+  DENIES -> that the state is the SOLE and morally UNLIMITED source of authority
+  DENIES -> that associations are mere PERMISSIONS granted by sovereignty
+  DOES NOT DENY -> the need for a central public authority, or its COORDINATING and
+                   COERCIVE capacities
+  CONTROL -> PLURALIST, NOT ANARCHIST; and NOT mere administrative decentralisation
+        |
+        v
+THE SUPPORTED LINEAGE -- LOCATE THE SCHOOL, DO NOT REPLACE LASKI
+  FIGGIS ...... real associations expose the danger of an ABSOLUTE STATE allied with
+                economic concentration -> group personality, anti-absorption
+  COLE ........ forerunner associated with FUNCTIONAL / GUILD representation
+                -> boundary: do not turn the answer into guild socialism
+  MacIVER ..... LAW and CONSTITUTION, not a mysterious sovereign WILL, ground legitimate
+                public force; the state COORDINATES without creating all purposes
+                -> the strongest sociological supplement AND the residual coordination role
+
+ASCII MASTER FLOW — PANEL 11/19: Laski -- the threefold rejection, earned allegiance, verdict
+WHY ABSOLUTE SOVEREIGNTY IS REJECTED -- THREE GROUNDS OF THREE DIFFERENT KINDS
+  PHILOSOPHICALLY FALSE ....... no human institution is entitled to UNLIMITED MORAL
+                                OBEDIENCE
+  POLITICALLY DANGEROUS ....... it LEGITIMISES TYRANNY and SUPPRESSES LIBERTY
+  SOCIOLOGICALLY UNREALISTIC .. real societies DISTRIBUTE power among many groups
+  => independence is the strength: answering one leaves the others standing
+        |
+        v
+POSITIVE PROPOSAL -> authority must be DIVIDED and SHARED because modern society is
+  FUNCTIONALLY DIFFERENTIATED; the state must COMPETE FOR ALLEGIANCE by protecting
+  rights, securing welfare and enabling meaningful life -> authority is FUNCTIONAL and
+  MORAL, not MYSTICAL
+        |
+        v
+OBJECTION -> without a final sovereign, conflict between associations is insoluble
+REPLY -> legal finality does not eliminate conflict; it often SUPPRESSES legitimate
+  diversity. Modern orders need a FINAL PROCEDURE, not an unanswerable WILL.
+RESIDUAL -> emergencies, defence and redistribution still need an INTEGRATING authority;
+  MacIver's coordination role concedes exactly this -- the COORDINATION DEBT
+PHASE CAUTION -> EARLY Laski: sovereignty is a legal fiction. MATURE Laski: important for
+  state power, but NOT omnipotent. "Laski abolishes sovereignty" is as wrong as "Laski
+  accepts Austin."
+VERDICT -> decisive as CRITIQUE, incomplete as REPLACEMENT
+
+ASCII MASTER FLOW — PANEL 12/19: Kautilya I -- the seven-limbed state and calibrated coercion
+THE STATE AS AN ORGANISM -- SAPTANGA / PRAKRTIS
+  SVAMI ....... the ruler ................. headship, direction, decision
+  AMATYA ...... ministers and officials ... counsel, administration, execution
+  JANAPADA .... territory WITH its people . productive social base
+  DURGA ....... fortified capital/defence . security and protection
+  KOSA ........ treasury .................. material basis of rule
+  DANDA ....... coercive force, army ...... enforcement, punishment, defence
+  MITRA ....... ally ...................... external support in the interstate order
+        |
+        v
+THE ARGUMENT -> the ruler is the HEAD but cannot function without ministers, treasury,
+  territory, force and allies -> SOVEREIGNTY IS SYSTEMIC, NOT MERELY PERSONAL
+  WORKED CASE -> a ruler without KOSA or AMATYA holds TITLE but not EFFECTIVE sovereignty
+        |
+        v
+THE RULER, EXACTLY -> highest place, but NOT Austinian unlimitedness. He governs through
+  COUNSEL, PRUDENCE, DISCIPLINE and REGARD FOR THE WELL-BEING OF SUBJECTS.
+  Rulership is a DUTY-BEARING OFFICE; the state is not the king's private will.
+        |
+        v
+DANDANITI -- CALIBRATED COERCION
+  NO DANDA .......... society falls into DISORDER
+  CALIBRATED DANDA .. order preserved, subjects secure, rule durable
+  EXCESSIVE DANDA ... RESENTMENT and INSTABILITY
+  => the ART of sovereignty lies in the middle column
+  DANDA = the force | NITI = the policy/science governing its use
+  NOT blind terror | NOT arbitrary cruelty | NOT private vengeance
+  STRUCTURAL POINT -> danda is a CONSTITUENT of the state, so coercive capacity is a
+  PERMANENT feature of rule, never an emergency supplement
+        |
+        v
+THE COMPARISON THAT PAYS (2019 Q3(a))
+  AUSTIN seeks the LEGAL SOURCE OF COMMAND -> analyses the FORM of authority
+  KAUTILYA explains the OPERATIONAL ANATOMY OF RULE -> prescribes its FUNCTION
+  => they answer DIFFERENT QUESTIONS; saying so IS the comparison mark
+OBJECTION -> centring the king makes him a premodern authoritarian
+REPLY -> the seven limbs, welfare obligations and strategic constraints show an
+  INSTITUTIONAL and PURPOSIVE theory; MISRULE WEAKENS SOVEREIGNTY ITSELF
+RESIDUAL -> the checks are PRUDENTIAL, not enforceable; no limb may remove a ruler
+TRAP -> translating JANAPADA as "territory" alone drops its PEOPLE, and with them the
+  productive base that connects the limbs to the welfare argument
+
+ASCII MASTER FLOW — PANEL 13/19: Kautilya II -- the circle of states and the six-fold policy
+EXTERNAL SOVEREIGNTY -> the MANDALA (circle of states) locates friends and enemies
+  RELATIONALLY, by POSITION rather than sentiment, in a competitive and unstable world
+        |
+        v
+SADGUNYA -- THE SIX-FOLD POLICY
+  SANDHI .......... making peace / treaty
+  VIGRAHA ......... hostility / war
+  YANA ............ marching / preparation / expedition
+  ASANA ........... staying quiet / remaining poised
+  SAMSRAYA ........ seeking shelter / alliance
+  DVAIDHIBHAVA .... dual policy / combination strategy
+  => policy changes with CIRCUMSTANCE, RELATIVE POWER and INTEREST
+  THESIS SUPPORTED -> STRATEGIC FLEXIBILITY. NOT a verified verbatim maxim.
+        |
+        v
+WHY PERMANENCE IS CONCEPTUALLY UNAVAILABLE -> if alignment is fixed by relative POSITION,
+  a state that gains or loses power CHANGES POSITION, and a change of position changes
+  which measure is prudent -> CONDITIONALITY FALLS OUT OF THE MODEL
+        |
+        v
+2025 PROVENANCE CONTROL -> the paper PRINTS "There is no permanent friend or permanent
+  enemy." Treat it as the EXAMINER'S FRAMING. The wording is NOT verified in the local
+  Arthasastra synopsis or the checked Shamasastry passages. DO NOT call it a Kautilya
+  quotation. DO answer through the verified MANDALA and SADGUNYA doctrines.
+
+ASCII MASTER FLOW — PANEL 14/19: Kautilya III -- welfare, democratic applicability, relevance
+YOGAKSEMA -- SECURITY AND WELFARE, THE INTERNAL COUNTERPART
+  the ruler's welfare is TIED TO the people's; durability depends on PROSPERITY,
+  SECURITY and JUSTICE IN ADMINISTRATION -> moves Kautilya BEYOND pure force theory
+  treasury, territory and administration are CONDITIONS of stable rule, not merely
+  instruments of EXTRACTION
+  CONTRAST -> Austin's sovereign is legally unlimited and NOT normatively constituted by
+  public welfare; Kautilya's ruler is MEASURED BY WELFARE CONSEQUENCES
+        |
+        v
+DEMOCRACY AND MODERN RELEVANCE (2021 Q3(c), 2024 Q4(b))
+  NOT TRANSFERABLE -> the monarchical FORM
+  TRANSFERABLE ..... institutional interdependence | prudent, proportionate use of force |
+                     treasury discipline | strategic diplomacy | welfare-centred governance
+  THE RULE -> SELECTIVE APPROPRIATION; relevance is shown through THEMES, never by
+  pretending ancient monarchy equals modern democracy
+OBJECTION -> such realism is cynical and amoral
+REPLY -> realistic but NOT NORMLESS; flexibility operates alongside the internal duty to
+  order and welfare
+RESIDUAL -> prudential statecraft is NOT consent-based legitimacy; welfare is a CONDITION
+  of durable rule, not a RIGHT held by subjects
+TRAP -> reducing Kautilya to foreign policy loses four of his five owned PYQ parts
+
+ASCII MASTER FLOW — PANEL 15/19: Globalisation -- four mechanisms of constraint and change
+THESIS -> GLOBALISATION MODIFIES SOVEREIGNTY BUT DOES NOT ABOLISH IT. The issue is POOLED,
+  NEGOTIATED and NETWORKED sovereignty, not its disappearance.
+FOUR MECHANISMS -- KEEP THEM APART; THE DIFFERENTIATION IS THE ANSWER
+  MECHANISM              WHAT HAPPENS                    SOVEREIGNTY CONSEQUENCE
+  ---------------------  ------------------------------  ----------------------------
+  TREATY COMMITMENT      a state accepts binding rules   SELF-LIMITATION; constrains
+                         through its own recognised      future action WITHOUT creating
+                         treaty-making capacity          a global Austinian sovereign
+  DELEGATION             an institution is authorised    EXERCISE moves outward; legal
+                         to perform a defined function   SOURCE and LIMITS stay treaty-
+                                                         based
+  POOLING                a competence is exercised       FINALITY becomes SHARED for the
+                         JOINTLY under common voting     agreed field, not universally
+                         or bargaining rules             transferred
+  MATERIAL DEPENDENCE    finance, markets, technology    LEGAL INDEPENDENCE may survive
+    / CONDITIONALITY     or security asymmetry narrows   while EFFECTIVE AUTONOMY
+                         feasible choices                DECLINES
+  CAUTION -> not every international organisation is supranational, and no supranational
+  institution is automatically sovereign in Austin's sense. ASK: which competence? by what
+  instrument? with what exit or review rule? is consent SUBSTANTIVELY equal?
+
+ASCII MASTER FLOW — PANEL 16/19: The master comparison grid and the four-way structure
+THE MASTER GRID -- READ DOWN FOR A THINKER, ACROSS FOR A DEBATE
+  ISSUE            BODIN            AUSTIN           LASKI            KAUTILYA
+  ---------------  ---------------  ---------------  ---------------  ----------------
+  WHERE LOCATED    commonwealth's   determinate      no single        the svami as head
+                   supreme law-     human superior   unlimited locus  within a seven-
+                   giving power                      -> plural        limbed state
+  ABSOLUTE?        yes vs positive  yes, strict      NO -- false AND  strong but bound
+                   law, with        legal sense;     dangerous        by dharma, welfare
+                   higher-law       formally                          and prudence
+                   limits           unlimited
+  INDIVISIBLE?     yes              yes              no -- shared     organically
+                                                     and distributed  coordinated
+  ASSOCIATIONS     secondary to     subordinate to   real autonomy    institutions and
+                   sovereign unity  command          and loyalty      allies are LIMBS
+  MAIN ANXIETY     civil war        juristic         liberty against  survival, order,
+                                    clarity          absolutism       prosperity, strategy
+  MAIN WEAKNESS    weak guard on    unrealistic for  understates      monarchical frame;
+                   concentration    democracy,       coordination     elastic realism
+                                    federalism,
+                                    custom, int. law
+        |
+        v
+THE FOUR-WAY STRUCTURE THAT LOOKS LIKE PHILOSOPHY, NOT SUMMARY
+  BODIN and AUSTIN ask WHO is sovereign
+  KELSEN and HART deny the question and ask WHAT MAKES A NORM VALID
+  LASKI denies that any single answer is possible
+  KAUTILYA asks what the holder of authority is FOR
+  => personal sovereign -> normative order -> official practice -> plural allegiance,
+     with Kautilya's DUTY-BOUND variant
+CONVERGENCE WITH DIVERGENCE -> Kelsen, Hart and Laski each dissolve the PERSONAL sovereign
+  but replace him with a NORM-HIERARCHY, an OFFICIAL PRACTICE and a PLURALITY OF
+  ASSOCIATIONS respectively. DO NOT MERGE THEM.
+
+ASCII MASTER FLOW — PANEL 17/19: The nineteen standing traps -- final pre-submission check
+NINETEEN STANDING TRAPS -- FINAL PRE-SUBMISSION CHECK
+  1 Austin's sovereign is NOT "the state" in the abstract
+  2 Laski is a PLURALIST, not an anarchist
+  3 Bodin is NOT lawless -- divine law, natural law, leges imperii
+  4 Kautilya is NOT Austinian absolutism -- dharma, welfare, prudence, interdependence
+  5 Kautilya is NOT only foreign policy -- saptanga, dandaniti, yogaksema
+  6 sovereignty does not "disappear" -- it is RECONFIGURED, constrained, pooled, negotiated
+  7 do not confuse LEGAL and POLITICAL sovereignty
+  8 Bodin and Austin are NOT identical -- higher-law limits vs formal illimitability
+  9 pluralism is NOT mere decentralisation
+ 10 do not turn examples into fabricated historical detail
+ 11 Kelsen = General Theory of Law and State, 1945. NEVER 1961.
+ 12 Hart REJECTS the command model -- nullity is not a sanction
+ 13 the Grundnorm is NOT a moral standard
+ 14 do not MERGE Kelsen, Hart and Laski into one critique
+ 15 do not develop DWORKIN here -- name and route to Individual and State
+ 16 do not omit PERMANENCE and UNIVERSALITY from the classical attributes
+ 17 popular sovereignty is NOT national sovereignty
+ 18 India is NOT parliamentary sovereignty; the judiciary is NOT sovereign
+ 19 the 2025 printed maxim is PROMPT WORDING, not a verified quotation
+
+ASCII MASTER FLOW — PANEL 18/19: PYQ anchors and the answer spine
+PYQ ANCHORS -- 11 OWNED PARTS, 2018-2025
+  2018 Q1(d) 10 .. Kautilya in the light of danda-neety -> PANEL 9
+  2018 Q2(b) 15 .. Laski as a satisfactory position -> PANEL 8
+  2019 Q3(a) 20 .. how far Austin goes with Kautilya -> PANELS 4, 9, 11
+  2020 Q1(d) 10 .. importance of Bodin -> PANEL 3
+  2020 Q4(b) 15 .. sovereignty in times of globalisation -> PANEL 11
+  2021 Q1(c) 10 .. Austin and democracy -> PANEL 5
+  2021 Q3(c) 15 .. Kautilya's contribution; applicable to democracy? -> PANELS 9, 10
+  2022 Q2(a) 20 .. Bodin's arguments; compatible with equality, justice, liberty? -> PANEL 3
+  2023 Q2(a) 20 .. why Laski rejected the absolute nature -> PANEL 8
+  2024 Q4(b) 15 .. Arthasastra insights; modern relevance -> PANELS 9, 10
+  2025 Q2(c) 15 .. "no permanent friend or enemy" -> PANEL 10
+        |
+        v
+THE ANSWER SPINE -- SAME FIVE MOVES AT EVERY MARK WEIGHT
+  1 FIX THE AXIS the stem tests (internal/external, legal/political, monist/pluralist)
+  2 STATE THE DOCTRINE in the thinker's own vocabulary
+  3 RUN ONE COMPARISON on shared axes, never two sequential summaries
+  4 WORK ONE OBJECTION -> REPLY -> RESIDUAL PROBLEM
+  5 CLOSE WITH A GRADED VERDICT that concedes something to the losing side
+  10 marks -> ONE repair, fully worked. 15 -> one comparison table + one worked objection.
+  20 -> INTERNAL critique first (Kelsen, Hart), EXTERNAL critique second (Laski,
+  federalism, custom, international law), then one dated Indian illustration.
+
+ASCII MASTER FLOW — PANEL 19/19: Graded verdicts -- the closing lines to adapt
+GRADED VERDICTS -- ADAPT, NEVER REPRODUCE MECHANICALLY
+  FORM-SURVIVES ... "the CONCEPT of a supreme legal authority survives every criticism
+                     examined; the IMAGE of a determinate personal sovereign does not"
+  INTERNAL-REPAIR . "Austin is not refuted from outside so much as REBUILT FROM INSIDE"
+  ASYMMETRIC ...... "his analysis of legal FORM is unmatched; his account of political
+                     REALITY is not"
+  FUNCTION-OVER-FORM (Kautilya) "strong precisely because DUTY-BOUND: authority is
+                     justified by yogaksema, not by the absence of a legal superior"
+  PLURALIST-LIMIT (Laski) "an indispensable corrective, yet a polity that can never speak
+                     with one voice cannot discharge the COORDINATING task"
+  DEGREE .......... "illimitable in legal FORM, limited in political FACT, negotiated in
+                     international PRACTICE"

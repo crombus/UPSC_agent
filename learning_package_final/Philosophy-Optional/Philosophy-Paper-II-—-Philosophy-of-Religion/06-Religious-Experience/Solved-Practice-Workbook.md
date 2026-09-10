@@ -1,505 +1,762 @@
 ---
 title: "Religious Experience: Nature and Object — Solved Practice Workbook"
 topic_key: philosophy-paper-ii-philosophy-of-religion-06
+variant: learner-v2
 ---
-# Religious Experience: Nature and Object — Learner-v2 Source-Complete Learning Session
+# Religious Experience: Nature and Object — Solved Practice Workbook
+
+> **Philosophy Optional · Philosophy Paper II — Philosophy of Religion · Topic 06**
+> A standalone practice document. It is designed to be worked without the learning session open beside it, and it repeats no teaching prose.
+
+### How to use this workbook
+
+Attempt every item before reading its key. The correct option position was fixed **independently for each question** using a length-balanced, non-patterned assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+
+### What is inside
+
+| Part | Content | Count |
+|---|---|---:|
+| 1 | Core diagnostic MCQs | 24 |
+| 2 | Remedial diagnostic MCQs | 8 |
+| — | Question-specific option explanations | 128 |
+| — | Unique examiner traps | 32 |
+| 3 | Verified previous-year questions, fully solved | 8 |
+| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+
+### Marking and timing conventions
+
+- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Every model answer follows **claim → named evidence → analysis → qualification**.
+- Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
+- **Standing penalties in this clause:** an ungraded four-mark list; an unanswered second deliverable; a verdict that summarises instead of deciding; and any invented year for Schleiermacher, Swinburne, Hick, Forman or Teresa.
+
+### Terminology rule
+
+English-first throughout. The English concept leads; the accurate Sanskrit, Pali, Latin or German term follows in parentheses.
 
 ## BASIC MCQS / REMEDIATION
 
+### Practice protocol
 
-### Practice protocol — [CORE ANSWER]
+Attempt every item before reading its key. The correct option position was fixed **independently for each question** using a length-balanced, non-patterned assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and the four positions each carry exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
 
-Attempt each item before reading its key. Answer placement is balanced, deterministic and non-patterned using a stable topic seed. across all forty-eight diagnostics.
+#### CORE DIAGNOSTIC MCQS — 24
 
-#### CORE DIAGNOSTIC MCQS — 40
+#### MCQ 1. The four analytical layers, and the jump that is illegitimate
 
-#### 1. Which analytical sequence best prevents a category mistake while evaluating a religious experience?
+A candidate writes: "The experience was overwhelming and life-changing, so its object must be real." Which analytical failure does this best illustrate?
 
-A. Describe its phenomenology, identify its claimed object, and then assess the warrant for believing that object real
-B. Test its moral fruits, infer its object, and omit the subject’s report
-C. Establish its object first, infer its phenomenology, and treat intensity as warrant
-D. Classify its ritual setting, assume its veridicality, and then describe its content
+A. It confuses doctrinal authenticity with psychological genuineness, since the tradition's own recognition test has not yet been consulted at all.
 
-**Answer: A.**
+B. It denies mediation, since a state of that intensity could not have been shaped by the concepts and expectations the subject already possessed.
 
-Phenomenology asks what the experience is like; object asks what it purports to be of; warrant asks whether belief in that object is justified. An accurate description does not itself prove that the apparent object exists.
-#### 2. Which pair does James treat as the defining marks that entitle a state to be called mystical?
+C. It confuses interpretation with claimed object, since the tradition's naming of the ultimate has simply been read back into what was presented.
 
-A. Conversion and saintliness
-B. Ineffability and noetic quality
-
-C. Unity and blessedness
-D. Transiency and passivity
-**Answer: B.**
-
-In *The Varieties of Religious Experience*, ineffability and noetic quality are the primary marks. Transiency and passivity are usual, less sharply marked accompaniments, not co-equal defining conditions.
-#### 3. What follows from James’s grading of transiency and passivity?
-
-A. Every passive state is mystical even if it has no noetic quality
-B. Indian *jñāna* cannot count as mystical because it aims at permanence
-C. A stable, disciplined realisation may still be mystical if the defining marks are present
-
-D. A mystical state must be both brief and involuntary
-**Answer: C.**
-
-Because transiency and passivity are usual rather than defining, stable Advaitic *jñāna* is not excluded merely for being cultivated and enduring. The classification turns principally on ineffability and noetic quality.
-#### 4. James’s criticism of “medical materialism” is best understood as the claim that:
-
-A. science is incapable of studying religious subjects
-
-B. religious experience has no physiological conditions
-C. pathological experiences are invariably true
-D. tracing an experience to a causal origin does not by itself settle its truth or value
-**Answer: D.**
-
-James rejects the genetic fallacy of discrediting a state solely through its neurological, temperamental or pathological origin. He does not deny causation; he denies that causal explanation alone is an epistemic refutation.
-#### 5. What is James’s most defensible position on the authority of mystical states?
-
-A. They may authorise the experiencer but impose no unconditional authority on outsiders
-B. They are public proofs once they produce good conduct
-C. They have no authority even for the experiencer
-D. They bind outsiders whenever the experiencer reports certainty
-
-**Answer: A.**
-
-James grants first-person authority while restricting transferability. Moral fruits may strengthen an authenticity judgement, but neither certainty nor transformation automatically creates publicly compelling proof.
-#### 6. Otto’s *mysterium tremendum et fascinans* refers to:
-
-A. the social separation of sacred objects from profane ones
-B. the numinous as mysterious, overwhelming and attracting
-C. a moral inference from duty to God
-D. non-dual recognition of Brahman as self
-
-**Answer: B.**
-
-Otto’s numinous object evokes mystery, dread or overpowering creature-feeling, and fascination. Durkheim’s sacred/profane classification and Advaita’s identity-realisation are different accounts.
-#### 7. When Otto calls the numinous “non-rational,” he most nearly means:
-
-A. produced by unconscious irrational impulses alone
-B. incapable of later ethical or theological interpretation
-C. not exhaustively reducible to moral and conceptual judgement
-D. logically contradictory and therefore false
-
-**Answer: C.**
-
-“Non-rational” is not “irrational.” Otto means that the numinous has a distinctive felt quality prior to full conceptual and moral schematisation, though rational and ethical ideas may subsequently interpret it.
-#### 8. Schleiermacher locates the essence of religion primarily in:
-
-A. assent to ecclesiastical propositions
-
-B. fear of supernatural punishment
-C. belief in miracles
-D. the feeling of absolute dependence
-**Answer: D.**
-
-Schleiermacher’s “feeling of absolute dependence” identifies a pre-theoretical consciousness of dependence upon the Infinite, contrasting religion with both mere doctrine and morality.
-#### 9. In Stace’s typology, extrovertive mysticism is:
-
-A. a unifying vision attained through the senses while multiplicity remains perceptible
-B. an altered state necessarily caused by drugs
-C. loving communion with a personal God alone
-D. the exclusion of all sensory and conceptual content
-
-**Answer: A.**
-
-Extrovertive mysticism perceives unity through the world of sensory multiplicity. Introvertive mysticism, by contrast, excludes sensory and conceptual content in favour of unitary consciousness.
-#### 10. Stace’s introvertive mysticism is best characterised as:
-
-A. a socially imposed sacred/profane distinction
-B. non-spatial, non-temporal, contentless unitary consciousness
-
-C. a heightened perception of unity within nature
-D. ritual worship without petition
-**Answer: B.**
-
-Introvertive experience withdraws from external and conceptual content, leaving pure undifferentiated unity. Stace treats it as the more complete mystical type.
-#### 11. Which claim is central to Stace’s perennialist method?
-
-A. Only Christian mystical reports possess noetic force
-B. Theistic mysticism is superior to monistic mysticism
-C. A common experiential core can be distinguished from divergent doctrinal interpretations
-D. Traditions create wholly different experiences with no common features
-
-**Answer: C.**
-
-Stace separates experience from interpretation: reported marks such as unity, objectivity, blessedness, sacredness, paradox and ineffability support a cross-cultural core, while doctrines differ.
-#### 12. Which classification belongs to R. C. Zaehner?
-
-A. Healthy-mindedness, sick soul, conversion and saintliness
-
-B. Extrovertive and introvertive mysticism with one common core
-C. Numinous, moral and rational consciousness
-D. Nature, monistic and theistic mysticism
-**Answer: D.**
-
-Zaehner distinguishes nature mysticism, monistic mysticism and theistic mysticism. He denies Stace’s flat common core and controversially ranks the theistic type highest.
-#### 13. Zaehner’s *pan-en-henic* category denotes:
-
-A. an “all-in-one” experience of unity with nature
-B. identity of the individual self with Brahman
-C. permanent isolation of *puruṣa* from *prakṛti*
-D. loving relation between creature and creator
-
-**Answer: A.**
-
-*Pan-en-henic* names Zaehner’s nature mysticism, the sense of all things as one in nature. Monistic and theistic forms are separate categories in his scheme.
-#### 14. What is the strongest defensible treatment of Zaehner’s ranking?
-
-A. Accept both the classification and the superiority of theism as neutral phenomenology
-B. Retain the distinction among types while rejecting the confessionally loaded hierarchy
-
-C. Replace it with James’s four marks, which classify objects rather than states
-D. Reject the typology because every mystical report is identical
-**Answer: B.**
-
-Zaehner insightfully preserves the logical difference between identity and relation, but his ranking of theistic mysticism is vulnerable to confessional bias. Classification need not entail hierarchy.
-#### 15. Steven Katz’s constructivism holds that:
-
-A. mystical experience is always veridical but described differently
-B. language affects only reports made long after an unmediated event
-C. traditions, expectations and concepts shape the experience itself
-D. contentless awareness proves all religions share one object
-
-**Answer: C.**
-
-Katz denies unmediated experience. B Jewish, Buddhist or Advaitic mystic does not merely label one neutral episode differently; the tradition helps constitute what is experienced.
-#### 16. Robert Forman’s Pure Consciousness Event is intended mainly to challenge constructivism by claiming that:
-
-A. only sensory perception can be concept-free
-
-B. every experience contains detailed doctrinal imagery
-C. neural mediation guarantees objectivity
-D. a contentless state leaves no experiential content for concepts to shape
-**Answer: D.**
-
-Forman presses the introvertive limit against Katz: if an episode is genuinely contentless, constructivist shaping appears to lack material on which to operate. Whether such complete contentlessness is possible remains disputed.
-#### 17. Alston’s “M-perception” is:
-
-A. a non-sensory, perception-like awareness in which God appears to the subject
-
-B. the moral transformation produced by worship
-C. a deductive proof from mystical testimony to God
-D. a neuroscientific measurement of religious states
-**Answer: A.**
-
-In *Perceiving God*, Alston uses a theory of appearing to argue that sensory content is not essential to perceptual structure. Some awareness of God may therefore be genuinely perception-like.
-#### 18. Why are doxastic practices important in Alston’s argument?
-
-A. They show that every religious tradition tracks the same object
-B. Beliefs arise within socially established practices with inputs, outputs and override procedures
-C. They eliminate all circularity in justifying belief
-D. They make mystical experiences repeatable laboratory observations
-
-**Answer: B.**
-
-Alston compares Christian mystical practice with sense perception and memory as socially established belief-forming practices. None is validated from nowhere; each uses internal support and correction.
-#### 19. Alston’s conclusion is most accurately stated as:
-
-A. every M-belief is *ultima facie* justified
-B. religious experience proves God more strongly than sense perception proves physical objects
-C. engagement in an established mystical practice can be practically rational absent adequate defeaters
-
-D. Christian mystical practice is infallible
-**Answer: C.**
-
-Alston defends practical rationality and *prima facie* justification, not demonstrated reliability or infallibility. His modest conclusion is often overstated.
-#### 20. What does Alston regard as the most serious pressure on his account?
-
-A. Sense perception is never socially established
-B. Circular support occurs only in religion
-C. Mystical experience has no phenomenological content
-D. mutually incompatible religious doxastic practices may each appear internally rational
+D. It jumps from phenomenology directly to epistemic force, since the felt intensity of the state is being treated by itself as warrant for its claimed object.
 
 **Answer: D.**
 
-Religious diversity threatens neutral adjudication: Christian, Advaitic, Buddhist and Islamic practices may support incompatible outputs. Alston’s “sit tight” response acknowledges rather than dissolves the discomfort.
-#### 21. Swinburne’s principle of credulity states, roughly, that:
+**Option explanations:**
+- **A:** Incorrect: this names a real distinction, but the candidate's sentence says nothing about conformity to a tradition; the fault is in the inference from felt intensity, not in a missing doctrinal test.
+- **B:** Incorrect: nothing in the sentence denies mediation; it could be granted entirely and the inference from intensity to reality would still be invalid.
+- **C:** Incorrect: that describes the naming-to-meeting jump, in which a tradition's vocabulary is treated as identifying the object; here the premise offered is intensity, not vocabulary.
+- **D:** Correct: layer one is what the experience is like and layer four is what it justifies, and "overwhelming, therefore real" moves from the first to the fourth without passing through claimed object or interpretation.
 
-A. if it seems to a subject that something is present, it probably is, unless there are defeaters
-B. all testimony is false unless independently verified
-C. religious seemings are justified only within a doxastic practice
-D. moral fruits deductively establish a transcendent cause
+**Examiner trap 1:** Scripts that begin with a vivid narration of a mystical episode almost always commit this jump in their second paragraph; open instead by naming which of the four layers the stem is buying.
 
-**Answer: A.**
+#### MCQ 2. Which marks entitle a state to be called mystical
 
-Swinburne begins from the general trust normally given to appearances, subject to defeating conditions such as unreliability, conflicting evidence or alternative explanations. This differs from Alston’s practice-based defence.
-#### 22. Which statement correctly handles neural correlations of mystical states?
+In *The Varieties of Religious Experience*, which pair does James treat as jointly sufficient to entitle a state to be called mystical?
 
-A. Brain activity is irrelevant to any philosophical assessment
-B. Causal mediation and epistemic defeat are distinct; a mechanism may carry either veridical or non-veridical experience
-C. A unique neural pattern would by itself prove God
-D. Any neural cause proves the transcendent object unreal
+A. Transiency and passivity, since brevity and receptivity are the two features that separate a mystical state from ordinary discursive reasoning.
 
-**Answer: B.**
+B. Ineffability and noetic quality, since defiance of adequate expression and presented insight together settle the classification.
 
-Ordinary perception also has neural mechanisms. To explain how an experience occurs is not yet to show that its apparent object is absent; further evidence is needed for an explaining-away defeater.
-#### 23. Hick’s response to conflicting religious experiences is that:
+C. Passivity and noetic quality, since being grasped by a superior power is what marks a genuine disclosure.
 
-A. contradictions disappear because doctrines have no cognitive content
-B. every experience is a direct perception of the same personal God
-C. traditions may be culturally shaped responses to the one “Real”
-D. only theistic reports are genuine
-
-**Answer: C.**
-
-Hick distinguishes the Real in itself from its diverse human apprehensions. The proposal accommodates plurality, though critics ask how an unknowable Real can ground determinate religious claims.
-#### 24. Which claim best distinguishes ineffability from unintelligibility?
-
-A. An ineffable state cannot be remembered
-
-B. Ineffability means that no statement whatsoever may refer to the experience
-C. An unintelligible state is always veridical
-D. Ineffability limits exhaustive or adequate expression without making every partial description meaningless
-**Answer: D.**
-
-Mystics can report that an experience was unitary, peaceful or transformative while denying that words capture its quality fully. Otherwise the very classification “ineffable” could not enter discourse.
-#### 25. What is the central structure of Advaitic *aparokṣānubhūti*?
-
-A. non-dual recognition of Brahman as one’s own self rather than perception of an external object
-
-B. sensory vision of Brahman possessing finite attributes
-C. an emotional relation between two permanently distinct persons
-D. social classification of certain objects as sacred
-**Answer: A.**
-
-Advaita treats liberating knowledge as identity-recognition: the subject–object division is sublated. This differs logically from theistic mystical encounter, which retains relation.
-#### 26. Which use of *anirvacanīya* is technically correct in Advaita?
-
-A. It names James’s ineffability
-B. It characterises māyā or world-appearance as neither simply real nor unreal
-C. It is the standard name for Brahman’s non-dual self-realisation
-D. It means that Brahman is irrational
+D. Ineffability and transiency, since a state that could be adequately stated, or sustained at will, would be an ordinary episode of cognition.
 
 **Answer: B.**
 
-The common trap is to call Advaitic experience *anirvacanīya*. Advaita technically applies the term to māyā/world-appearance; Brahman-realisation is better described as non-objective and beyond exhaustive speech.
-#### 27. Why does stable Advaitic *jñāna* matter in comparison with James?
+**Option explanations:**
+- **A:** Incorrect: these are the two marks James describes as "less sharply marked" and merely usual; promoting them to definitional status is exactly the error his grading is designed to prevent.
+- **B:** Correct: James's own grading makes ineffability, "the handiest" mark, and noetic quality, insight into depths of truth unplumbed by the discursive intellect, the two marks that entitle a state to the name.
+- **C:** Incorrect: it pairs one defining mark with one usual mark, which reproduces the flat-list error in a subtler form and would exclude states that are not felt as passive.
+- **D:** Incorrect: transiency is a usual accompaniment, not a criterion, and treating brevity as definitional would disqualify stable realisation from the category altogether.
 
-A. It shows no Indian state can be mystical
-B. It proves passivity is James’s sole defining mark
-C. It shows that religious realisation may be established knowledge rather than a merely transient episode
+**Examiner trap 2:** The flat four-mark list is the single commonest error in this clause; write the two-plus-two grading in the first body paragraph of any James answer.
 
-D. It converts noetic quality into ordinary inference
-**Answer: C.**
+#### MCQ 3. What James's grading makes possible
 
-Advaita emphasises stable removal of ignorance through knowledge. James’s hierarchy permits this comparison because transiency is a usual accompaniment, not a necessary defining mark.
-#### 28. Radhakrishnan’s “integral intuition” is best described as:
+Why does the grading of James's marks matter for the Indian–Western comparison?
 
-A. an arbitrary feeling exempt from reason
+A. Because transiency is only a usual mark, a stable and established liberating knowledge (*jñāna*) can still count as a mystical state.
 
-B. sensory perception of a supernatural object
-C. assent to inherited dogma before experience
-D. disciplined awareness integrating cognition, feeling and will in apprehension of the spiritual Real
-**Answer: D.**
+B. Because passivity is definitional, only those experiences produced entirely by grace, with no preparatory discipline at all, count as mystical states.
 
-Radhakrishnan gives direct *anubhava* priority over creeds and institutions, but his intuition is claimed as noetic, transformative and disciplined, not a mere hunch.
-#### 29. What is the essential act in prayer?
+C. Because ineffability is only usual, traditions that describe their highest experiences in elaborate technical detail remain fully classifiable as mystical.
 
-A. address or communication directed toward the divine
-B. ascription of supreme worth without any direction to an addressee
-C. public classification of an object as sacred
-D. non-dual elimination of every relation
+D. Because noetic quality is only usual, an experience carrying no sense of insight or disclosure whatever can still be classified as a mystical state.
 
 **Answer: A.**
 
-Prayer is fundamentally communicative—petition, confession, thanksgiving, praise or contemplation directed toward an addressee. This makes a responsive ultimate more central to prayer than to worship.
-#### 30. What is the essential act in worship?
+**Option explanations:**
+- **A:** Correct: since duration is a statistical accompaniment rather than a criterion, Advaitic *jñāna* — settled knowledge rather than an episode — is not disqualified, and the comparison the paper rewards becomes possible.
+- **B:** Incorrect: passivity is one of the two usual marks, and James expressly allows that voluntary preliminary operations may facilitate the onset.
+- **C:** Incorrect: ineffability is one of the two defining marks, so the option inverts James's grading and would make the classification depend on descriptive richness.
+- **D:** Incorrect: noetic quality is the second defining mark, and removing it would leave a mere feeling with no claim to disclosure at all.
 
-A. requesting that a divine plan be changed
-B. acknowledging and enacting the supreme worth of the sacred
-C. reporting a private mystical episode
-D. proving that a deity exists
+**Examiner trap 3:** Candidates who list four equal marks have, without noticing, defined the Indian case out of the mystical category and then cannot run the comparison the question wants.
+
+#### MCQ 4. Medical materialism and the maxim about fruits
+
+Which statement about James's method is accurate?
+
+A. He coined the maxim about fruits himself and then used medical materialism as his working test of religious authenticity in the case histories.
+
+B. He rejects medical materialism as a fallacy about origins and adopts the scriptural maxim about fruits as the criterion in its place.
+
+C. He accepts medical materialism for the clearly pathological cases and rejects the appeal to fruits on the ground that it is pragmatically circular.
+
+D. He treats medical materialism as a method of discernment and derives the maxim about fruits from his own psychology.
 
 **Answer: B.**
 
-Worship is homage or ascription of unsurpassable worth, usually embodied and communal. It can persist in Jain, Buddhist or Mīmāṃsā settings where answered petition is absent.
-#### 31. Why is adoration a useful boundary case?
+**Option explanations:**
+- **A:** Incorrect: it reverses both attributions — the maxim is Matthew 7:16/20, which James adopts, and medical materialism is the fallacy he names in order to reject it.
+- **B:** Correct: medical materialism is James's own term in Lecture I for discrediting a state by its physiological or pathological origin, and the biblical maxim is the consequential criterion he adopts in its place.
+- **C:** Incorrect: James makes no such concession, and the appeal to fruits is precisely the test he retains after refusing origin-based dismissal.
+- **D:** Incorrect: medical materialism is a fallacy for James, not a procedure, and the maxim is scriptural rather than a product of his psychology.
 
-A. It is neither prayer nor worship
-B. It occurs only in non-theistic religion
-C. As address it is prayer, and as ascription of worth it is worship
-D. It is always a request for material benefit
+**Examiner trap 4:** Attributing "by their fruits ye shall know them" to James rather than to Matthew is a small error that a well-read examiner reads as a large one.
+
+#### MCQ 5. The second deliverable of the 2022 stem
+
+The 2022 stem asks for the nature *and variety* of religious experiences as presented by James. Which set correctly supplies the "variety" half?
+
+A. Extrovertive and introvertive mysticism, together with the five phenomenological marks that are shared between the two types.
+
+B. Nature mysticism, monistic mysticism and theistic mysticism, ranked in ascending order of completeness and adequacy.
+
+C. Healthy-mindedness and the sick soul, the divided self resolved in conversion, saintliness as durable fruits, and mysticism.
+
+D. Propositional revelation, non-propositional revelation, and the faithful experiencing-as of a religiously ambiguous event.
 
 **Answer: C.**
 
-Adoration demonstrates overlap without erasing distinction. Its communicative direction makes it prayer; its recognition of supreme value makes it worship.
-#### 32. Aquinas answers the apparent pointlessness of petitionary prayer by arguing that:
+**Option explanations:**
+- **A:** Incorrect: this is Stace's classification from *Mysticism and Philosophy*, not James's survey of the forms of personal religion.
+- **B:** Incorrect: this is Zaehner's threefold scheme with its contested ranking, and attributing it to James confuses two authors writing half a century apart.
+- **C:** Correct: these are the varieties of personal religion James actually studies — two temperaments before evil, the divided self resolved by conversion, the durable fruits of saintliness, and the experiential pole of mysticism.
+- **D:** Incorrect: this belongs to the analysis of revelation and derives from Hick's model, not from James's psychological survey.
 
-A. petition overrides an immutable providential order
+**Examiner trap 5:** A script that answers 2022 with the four marks alone has completed one of two printed deliverables and has capped its own marks.
 
-B. divine goodness changes whenever a request is sincere
-C. prayer gives God information previously unknown
-D. God may ordain that certain goods be obtained through prayer as a secondary cause
-**Answer: D.**
+#### MCQ 6. The anatomy of the numinous
 
-Aquinas does not make prayer alter God. Prayer can be included within providence as the means through which an ordained outcome occurs.
-#### 33. Eleonore Stump’s distinctive defence of petitionary prayer stresses:
+Which reading of *mysterium tremendum et fascinans* is correct?
 
-A. the relational or friendship value of asking before receiving
-B. proof that every petition changes external events
-C. the logical mutability of a perfect God
-D. the superiority of petition over worship
+A. Wholly other and incommensurable with ordinary categories, at once overpowering in its majesty and irresistibly attractive.
+
+B. Mysterious in its origin, terrifying in the moral demand it imposes, and delightful in the reward that it holds out to the obedient.
+
+C. Unknown for the present, dreadful in the judgement it pronounces, and fascinating precisely because it can never in principle be understood.
+
+D. Incomprehensible by definition, frightening to the ignorant and the unprepared, and pleasing only to those who have already been made holy.
 
 **Answer: A.**
 
-Stump argues that asking can protect the interpersonal structure of divine giving, especially where unsolicited benefaction by an overwhelmingly superior giver could compromise relationship. This does not prove outcome-dependence.
-#### 34. James Rachels’ objection to worship is based on a tension between:
+**Option explanations:**
+- **A:** Correct: Otto's three components are the mystery of the wholly other, the *tremendum* of awefulness, overpoweringness and energy, and the *fascinans* that attracts even while it terrifies.
+- **B:** Incorrect: it moralises the *tremendum* into a demand and the *fascinans* into a reward, which is exactly the rational-ethical schematisation Otto says comes *after* the numinous datum.
+- **C:** Incorrect: the *mysterium* is not merely what is not yet known but what is incommensurable with ordinary categories, and permanent unintelligibility is not what *fascinans* names.
+- **D:** Incorrect: it distributes dread and attraction across two different classes of person, whereas Otto's point is that both are present in one state, in one subject, at once.
 
-A. sacred time and profane space
-B. unconditional obedience and moral autonomy
-C. ineffability and public language
-D. non-dual awareness and sensory perception
+**Examiner trap 6:** Write the Latin in full once and then translate it; a script that uses the phrase without unpacking all three components has quoted rather than explained.
 
-**Answer: B.**
+#### MCQ 7. Non-rational, schematisation, and the Schleiermacher comparison
 
-Rachels argues that worship appears to require abdication of final moral judgement. Replies distinguish recognition of perfect worth from blind obedience and deny that perfect goodness could command evil.
-#### 35. Why is Jain worship a decisive test case for the prayer/worship distinction?
+Which statement about Otto is most accurate?
 
-A. Jainism regards every petition as infallibly answered
-B. Jain ritual denies that any reality has supreme value
-C. a *vītarāga* Tīrthaṅkara may be worshipped despite being unable to respond to petitions
-D. Tīrthaṅkaras create the world but refuse worship
+A. The numinous is irrational, so moral and rational predicates contradict it and must be dropped from theology altogether as category mistakes.
+
+B. The numinous is identical with Schleiermacher's feeling of absolute dependence, restated in Latin vocabulary for a twentieth-century readership.
+
+C. The numinous is non-rational — not reducible to conceptual or moral judgement — and is later schematised by rational and ethical concepts alike.
+
+D. The numinous is a rational intuition of perfect goodness from which the accompanying feelings of awe and fascination are subsequently derived.
 
 **Answer: C.**
 
-Jain *caitya-vandana* demonstrates worship without a responsive deity. The practice honours liberation and cultivates the worshipper’s disposition rather than soliciting intervention.
-#### 36. In the Mīmāṃsā example, ritual efficacy is chiefly associated with:
+**Option explanations:**
+- **A:** Incorrect: Otto claims non-rationality and denies irrationality, and he retains moral and rational predicates as later schematisations rather than discarding them.
+- **B:** Incorrect: dependence characterises the subject's own condition, whereas the numinous is constituted by its directedness to a wholly other; Otto's account is usually read as a correction of Schleiermacher, not a translation of him.
+- **C:** Correct: non-rational means not exhausted by conceptual-moral judgement, and Otto holds that rational and ethical predicates are applied to the holy afterwards, in schematisation.
+- **D:** Incorrect: it inverts the order of Otto's analysis by making the moral intuition primary and the numinous derivative, which is the position he wrote *The Idea of the Holy* to refute.
 
-A. a Tīrthaṅkara’s gracious response
-B. the moral fruits of conversion
-C. an emotional vision of a personal God
-D. *apūrva* generated by correct performance rather than a deity’s discretionary grant
+**Examiner trap 7:** Glossing "non-rational" as "irrational" converts Otto's central claim into one he explicitly denies, and examiners treat it as a comprehension failure rather than a slip.
+
+#### MCQ 8. Stace's introvertive type and his methodological move
+
+Which description of Stace's position is correct?
+
+A. Introvertive mysticism perceives the One shining through the many, while extrovertive mysticism excludes all sensory and conceptual content whatever.
+
+B. Both types are equally complete, and Stace declines to rank them at all on the ground that any ranking would be confessionally motivated.
+
+C. The two types share no phenomenological marks, and whatever unity they have is asserted at the level of doctrine rather than of experience.
+
+D. Introvertive mysticism excludes all sensory and conceptual content, leaving a unitary contentless consciousness that Stace treats as the higher type.
 
 **Answer: D.**
 
-Mīmāṃsā allows ritual orientation without a responsive divine agent. This is why worship or sacred observance has broader religious availability than petitionary prayer.
-#### 37. Which claim best captures the proper public-discourse verdict?
+**Option explanations:**
+- **A:** Incorrect: the descriptions are transposed — perceiving the One through the multiplicity of sensed objects is the extrovertive type, not the introvertive.
+- **B:** Incorrect: Stace does rank, treating introvertive mysticism as the higher and more complete type; the confessional-ranking charge is levelled at Zaehner.
+- **C:** Incorrect: Stace's whole argument depends on shared marks — objectivity, blessedness, holiness, paradoxicality and ineffability — reported within the descriptions themselves.
+- **D:** Correct: the introvertive type is defined by the exclusion of sensory and conceptual content, and Stace's separation of experience from interpretation then grounds the common-core thesis.
 
-A. Religious experience can be publicly discussed and assessed for coherence and fruits without becoming publicly demonstrated
-B. Private certainty automatically transfers to all rational observers
-C. Ineffability prevents any meaningful public description
-D. Public discussion is possible only after proving the transcendent object
+**Examiner trap 8:** The extrovertive and introvertive labels are frequently transposed under time pressure; anchor them by remembering that extrovertive looks *outward* through the senses.
+
+#### MCQ 9. Zaehner's typology and how to handle his ranking
+
+Which treatment of Zaehner is defensible?
+
+A. Retain the ranking, since theistic mysticism preserves the creature–creator distinction and is on that ground the more complete and adequate type.
+
+B. Reject the whole scheme, since a classification produced by a religious convert with a confessional commitment can carry no philosophical content.
+
+C. Retain the nature, monistic and theistic classification while dropping the ranking, since monistic and theistic reports genuinely differ in logical form.
+
+D. Merge his three types with Stace's two, since taken together they yield a comprehensive fivefold classification of the varieties of mystical state.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: preserving a distinction is a structural feature, not a measure of completeness, and the ranking is the element most widely criticised as confessionally motivated.
+- **B:** Incorrect: this is a genetic fallacy of the same shape James condemned as medical materialism, and it discards a classification that does real comparative work.
+- **C:** Correct: the classification survives the criticism because identity-reports and relation-reports differ in logical form, and a common-core theory owes an explanation of that difference.
+- **D:** Incorrect: the two schemes are rivals answering opposite questions about a common core, so adding them together produces confusion rather than a fivefold typology.
+
+**Examiner trap 9:** Merging Stace and Zaehner into one "typology of mysticism" destroys the very disagreement the topic exists to examine.
+
+#### MCQ 10. Katz, Forman and where the dispute is decided
+
+Which statement about the constructivism debate is accurate?
+
+A. Katz holds that there are no unmediated experiences at all, and Forman's Pure Consciousness Event contests that thesis at the contentless limit.
+
+B. Katz holds that all mystics undergo one and the same experience, and Forman argues that they undergo many experiences that are differently described.
+
+C. Forman holds that tradition constitutes the experience itself, and Katz replies that a contentless state refutes that claim.
+
+D. Both hold that mediation makes mystical reports fabrications, and they differ only over which traditions are most heavily implicated in the fabrication.
 
 **Answer: A.**
 
-First-person reports, typologies, practices and effects are discussable. What remains non-transferable is the full evidential force that the episode has for the subject.
-#### 38. Habermas’s translation proviso is relevant because it permits:
+**Option explanations:**
+- **A:** Correct: Katz's 1978 thesis makes tradition, expectation and practice constitutive of the experience, and Forman's contentless state is offered as the one case that offers nothing for concepts to shape.
+- **B:** Incorrect: it reverses the positions, assigning the common-core thesis to the constructivist and constructivism to his critic.
+- **C:** Incorrect: the names are transposed; Forman is the defender of the contentless case, not the proponent of constitution by tradition.
+- **D:** Incorrect: neither concludes that mediation entails fabrication, and mediated perception is still perception, which is precisely why the debate concerns an inference rather than the reports.
 
-A. mystical certainty to replace constitutional argument
-B. religious expression in the informal public sphere while requiring generally accessible reasons for formal state decisions
-C. only secular citizens to participate in public debate
-D. the state to enforce private revelation without reasons
+**Examiner trap 10:** Constructivism attacks the *inference* from cross-cultural similarity to a shared object; treating it as a proof that mystical experience is invented overstates it in a way the examiner will mark down.
+
+#### MCQ 11. The structure of Advaitic realisation
+
+Which formulation states the main structural feature of Advaitic religious experience?
+
+A. A purified subject perceives Brahman as a supremely subtle object presented to the inner sense after long preparatory discipline.
+
+B. A devotee enters into loving union with Brahman while the distinction between worshipper and worshipped is carefully preserved throughout.
+
+C. A meditator isolates consciousness from materiality, so that the self remains alone, unrelated and free of every further modification.
+
+D. Subject–object duality collapses in a non-dual recognition in which the realiser *is* Brahman.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: describing the realisation as a subject perceiving Brahman as an object is precisely the error the doctrine of self-luminosity is designed to exclude.
+- **B:** Incorrect: preserved distinction in loving union is Rāmānuja's Viśiṣṭādvaita and Zaehner's theistic type, not Śaṅkara's non-dualism.
+- **C:** Incorrect: the isolation of consciousness from matter is Sāṃkhya-Yoga's aloneness (*kaivalya*), a different structure with a different terminus.
+- **D:** Correct: the non-dual (*nirvikalpa*) recognition abolishes the subject–object structure, which is why "I am Brahman" states an identity rather than a relation.
+
+**Examiner trap 11:** Any sentence of the form "experience *of* Brahman" invites the objection that Advaita has been dualised; prefer "recognition that the self is Brahman".
+
+#### MCQ 12. The correct technical use of *anirvacanīya*
+
+In Advaita's technical vocabulary, *anirvacanīya* is properly predicated of which of the following?
+
+A. *Māyā* and the world-appearance, as indescribable in the terms of either reality or unreality alike.
+
+B. Brahman itself, understood as the one reality from which all words turn back without ever having grasped what they were reaching for.
+
+C. The liberating realisation itself, understood as a state whose quality cannot be conveyed to anyone who has not already undergone it.
+
+D. The qualified Lord, understood as a form that is neither straightforwardly identical with Brahman nor straightforwardly different from Brahman.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the term marks the status of *māyā* and the world-appearance as distinct from both the real and the unreal (*sad-asad-vilakṣaṇa*), which is its settled technical use.
+- **B:** Incorrect: Brahman's inexpressibility is carried by different vocabulary — beyond objectifying speech (*avācya*), "from which words turn back" — and using *anirvacanīya* here is the scripted error.
+- **C:** Incorrect: that is James's ineffability transposed into Sanskrit; the realisation's incommunicability is not what the technical term denotes.
+- **D:** Incorrect: the qualified Lord's status is handled by other categories, and the option quietly imports a distinct doctrinal dispute.
+
+**Examiner trap 12:** A 2025 Religious Language question prints *anirvacanīyatā* in its correct sense; importing it into an Advaita experience answer shows an examiner exactly where the reading stopped.
+
+#### MCQ 13. Radhakrishnan's inversion
+
+Which statement best represents Radhakrishnan's position in *The Hindu View of Life*?
+
+A. Creeds generate the very experiences that later appear to confirm them, so doctrine is epistemically prior to intuition in every developed religion.
+
+B. Direct spiritual experience of the Real is primary and self-certifying, while dogma, creed and ritual are secondary interpretations of that experience.
+
+C. Religious intuition is a private feeling with no cognitive content at all, so the resulting tolerance follows simply from mutual ignorance of the Real.
+
+D. Institutional religion is the only reliable route to intuition, which cannot be reached by individual discipline outside an established community.
 
 **Answer: B.**
 
-The distinction supplies a graded account of publicity: religious language need not be excluded from civic life, yet coercive institutions require reasons accessible beyond one faith community.
-#### 39. Which distinction between Otto and Durkheim is correct?
+**Option explanations:**
+- **A:** Incorrect: it reverses the inversion that defines his position, in which experience generates doctrine rather than being generated by it.
+- **B:** Correct: religion is grounded in direct, intuitive experience of the Real, which is self-certifying and claimed universal, with creed and ritual as secondary interpretations.
+- **C:** Incorrect: integral intuition is explicitly a mode of *knowing* that unites cognition, feeling and will, and his tolerance rests on a shared depth, not on shared ignorance.
+- **D:** Incorrect: it makes institutions primary, which is the position his account subordinates to experience.
 
-A. Both define the sacred only as a personal God
-B. Otto gives a social classification, whereas Durkheim describes creature-feeling
-C. Otto’s holy is a phenomenological quality; Durkheim’s sacred is defined relationally against the profane
-D. Both regard non-theistic religion as impossible
+**Examiner trap 13:** In a stem that names *The Hindu View of Life*, generic "Indian spirituality" content scores poorly; name the work's own theses before evaluating them.
+
+#### MCQ 14. "In the light of the Vedāntic tradition"
+
+Why is it a mistake to answer a Vedāntic-experience stem with Advaita alone?
+
+A. Because Advaita denies that religious experience occurs at all, so another school in the tradition must supply the account.
+
+B. Because the Vedāntic schools agree entirely on the structure of the experience and differ only over the technical vocabulary that each of them prefers.
+
+C. Because Advaita is a comparatively later development and therefore cannot be taken to represent the classical position of the tradition as a whole.
+
+D. Because Rāmānuja and Madhva belong to the tradition and report relation rather than identity, so the tradition contains both of the structures.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Advaita's entire soteriology culminates in direct realisation, so it plainly affirms rather than denies that such experience occurs.
+- **B:** Incorrect: the disagreement is structural, since Viśiṣṭādvaita and Dvaita preserve the worshipper whom Advaita's identity-claim dissolves.
+- **C:** Incorrect: the chronological claim is neither accurate as stated nor the reason the reduction fails; the reason is internal plurality.
+- **D:** Correct: Viśiṣṭādvaita makes selves and world real modes dependent on a personal Brahman and Dvaita hardens the difference further, so "the tradition" contains identity-recognition and intentional encounter together.
+
+**Examiner trap 14:** The printed word is "tradition", not "Advaita"; reducing the one to the other forfeits the internal comparison that the stem is designed to elicit.
+
+#### MCQ 15. Four Indian structures and their termini
+
+Which pairing of tradition and claimed terminus is correct throughout?
+
+A. Advaita — a personal Lord; Yoga — Brahman as the self; devotion — cessation; Buddhism — isolated consciousness alone.
+
+B. Advaita — the self as Brahman; Yoga — isolated consciousness; devotion — a personal Lord; Buddhism — cessation.
+
+C. Advaita — cessation; Yoga — a personal Lord; devotion — isolated consciousness; Buddhism — the self as Brahman throughout.
+
+D. Advaita — isolated consciousness; Yoga — cessation; devotion — the self as Brahman; Buddhism — a personal creator Lord.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: every pairing is displaced, and giving Buddhism the isolation of consciousness attributes a Sāṃkhya-Yoga terminus to a tradition that denies a permanent self.
+- **B:** Correct: Advaita's terminus is the self as Brahman, Yoga's is isolated consciousness (*puruṣa*), devotion's is a personal Lord, and Buddhism's is Dharma and cessation (*nirvāṇa*) rather than a creator.
+- **C:** Incorrect: assigning cessation to Advaita and Brahman to Buddhism inverts the two traditions whose difference the comparison most needs.
+- **D:** Incorrect: it gives Buddhism a personal Lord, which contradicts the standard control that its terminus is not encounter with a creator God.
+
+**Examiner trap 15:** Writing "Indian mysticism" as a single position is the Indian counterpart of the flat four-mark error; name the structure and the terminus.
+
+#### MCQ 16. The genus and the species in the 2018 stem
+
+What is the defensible answer to whether one can have God as the object of religion?
+
+A. No, because the sacred is purely a social classification whereas God is a phenomenological quality disclosed only in numinous awe.
+
+B. Yes without qualification, since every religion in fact directs its worship toward some supreme personal being under one description or another.
+
+C. Yes for theistic traditions, in which God is the source and the measure of all holiness, but not as a generic definition of religion.
+
+D. No, because the non-theistic traditions are more numerous than the theistic ones and their categories should therefore prevail in any definition.
 
 **Answer: C.**
 
-Otto focuses on the numinous mode of appearance; Durkheim focuses on social separation and communal practice. Their terms overlap in ordinary use but perform different explanatory jobs.
-#### 40. What is the best way to prevent “the sacred” from becoming so broad that any collectively valued object counts as religious?
+**Option explanations:**
+- **A:** Incorrect: it misassigns the two analyses, since the social classification is Durkheim's sacred and the phenomenological quality is Otto's holy, and neither yields a flat negative.
+- **B:** Incorrect: it is falsified by Buddhism, Jainism and Mīmāṃsā, which sustain a sacred without a responsive personal deity.
+- **C:** Correct: God is the paradigm species for theistic traditions and the source and measure of everything else held holy, while a God-centred *definition* would stipulate whole religions out of the category.
+- **D:** Incorrect: the argument is conceptual rather than statistical, and counting traditions is not how the adequacy of a definition is decided.
 
-A. Count only objects named in scriptures
+**Examiner trap 16:** The stem grants the generic category and asks about the specific one, so a flat yes or no answers a question that was not printed.
 
-B. Require belief in a creator
-C. Restrict it to objects producing fear
-D. add a soteriological relation to the diagnosis and overcoming of the fundamental human predicament
+#### MCQ 17. Otto's holy against Durkheim's sacred
+
+Which statement expresses the discriminating difference correctly?
+
+A. Otto's holy is defined by the prohibitions that separate it from the profane, whereas Durkheim's sacred is a quality disclosed to the subject in numinous awe.
+
+B. Otto's holy is a phenomenological quality of an object disclosed in awe, while Durkheim's sacred is a social classification defined by separation from the profane.
+
+C. Both are social classifications, differing only over whether the community doing the classifying is a tribal one or a modern industrial one.
+
+D. Both are phenomenological qualities of the object, differing only over whether it is dread or fascination that predominates in the resulting state.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the two accounts have been transposed, since prohibition and separation are Durkheim's apparatus and numinous disclosure is Otto's.
+- **B:** Correct: Otto analyses how an object appears in awe, whereas Durkheim analyses how a community sets something apart, and treating them as one word misses the strongest objection to each.
+- **C:** Incorrect: it erases Otto's phenomenology entirely and turns his central category into sociology.
+- **D:** Incorrect: it erases Durkheim's functional definition, which is precisely the account that requires no deity at all.
+
+**Examiner trap 17:** This is the highest-yield discriminator in the 2018 module; a script that uses "sacred" and "holy" interchangeably has forfeited it.
+
+#### MCQ 18. Credulity, testimony and the serious defeater
+
+Which statement is the most defensible summary of the veridicality debate?
+
+A. The principle of credulity establishes the object publicly, since a seeming is evidence for everyone who hears of it and not merely for the subject.
+
+B. Neuroscience is the decisive defeater, since a state possessing an identifiable neural correlate stands in need of no further object to explain it.
+
+C. Fruits demonstrate the object, since a durable moral transformation of the kind James describes could not possibly follow from a false belief.
+
+D. Experience gives *prima facie* warrant to the subject and testimonial weight to the hearer, with diversity rather than neurology the serious defeater.
+
 **Answer: D.**
 
-B soteriological condition excludes merely patriotic or recreational objects while preserving non-theistic religious ultimates such as nirvāṇa, Dharma and liberation.
+**Option explanations:**
+- **A:** Incorrect: credulity yields defeasible warrant for the one to whom it seems, extended only by testimony, and it never converts a seeming into a public demonstration.
+- **B:** Incorrect: correlation identifies mediation, and a defeat additionally requires showing that the mechanism is unreliable or fully explains the seeming without the object.
+- **C:** Incorrect: fruits are a criterion of authenticity rather than a proof, and beneficial consequences plainly can follow from beliefs that are false.
+- **D:** Correct: this is the graded verdict the clause supports, and diversity outranks neurology because it needs only incompatibility, not a demonstration of unreliability.
+
+**Examiner trap 18:** Spending the critique on brain regions attacks the weaker defeater; the diversity of incompatible objects is where the argument actually bites.
+
+#### MCQ 19. The burden carried by a naturalistic explanation
+
+What must a naturalistic explanation establish before it counts as an epistemic defeater?
+
+A. That the experience was reported by a subject who had an antecedent interest in its turning out to be true rather than illusory.
+
+B. That the experience can be induced artificially, at least in some subjects, under controlled laboratory conditions.
+
+C. That the mechanism is unreliable, or that it fully explains the seeming without the proposed object.
+
+D. That the tradition supplying the interpretation is historically later than the experience it purports to describe and interpret.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: interest is a reason for caution, not a defeater, and applied consistently it would disqualify most testimony including scientific testimony.
+- **B:** Incorrect: inducibility shows a sufficient cause, not an unreliable one; ordinary perception can also be induced artificially without becoming non-veridical.
+- **C:** Correct: causal explanation and epistemic defeat are different things, so the critic must attack reliability or show that the seeming is fully accounted for without the object.
+- **D:** Incorrect: the relative dating of a tradition bears on interpretation rather than on the reliability of the experience-producing mechanism.
+
+**Examiner trap 19:** "It has a neural correlate, therefore it is nothing" is the mirror image of "it felt overwhelming, therefore it is real"; both skip the burden the argument requires.
+
+#### MCQ 20. What Alston actually concludes
+
+Alston's conclusion in *Perceiving God* is most accurately stated as which of the following?
+
+A. Mystical perception has been shown to be reliable, so the beliefs formed within it are justified all things considered and not merely defeasibly.
+
+B. Religious experience proves God's existence, since the theory of appearing applies to non-sensory presentations as much as to sensory ones.
+
+C. No belief-forming practice whatever is rational, since not one of them can be validated without falling into epistemic circularity.
+
+D. Engagement in a socially established religious practice is practically rational, and beliefs formed in it are *prima facie* justified.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Alston expressly denies that reliability has been shown, and his justification is *prima facie* rather than *ultima facie*.
+- **B:** Incorrect: the theory of appearing is a claim about the structure of perception, not a proof of an object's existence.
+- **C:** Incorrect: it inverts the argument, which uses the circularity of sense perception to defend rather than to condemn practice-based belief.
+- **D:** Correct: the conclusion is the practical rationality of engaging in a socially established doxastic practice, with M-beliefs enjoying defeasible justification absent sufficient reason to think the practice unreliable.
+
+**Examiner trap 20:** Reporting Alston as proving religious experience reliable is the standard overstatement in this clause and is easy for an examiner to detect.
+
+#### MCQ 21. Alston's own concession, and Hick's price
+
+Which pairing of objection and response is correctly stated?
+
+A. Alston concedes that incompatible practices cannot all track one reality and answers only that one may rationally "sit tight"; Hick's Real is charged with indeterminacy.
+
+B. Alston resolves the diversity problem by ranking the competing practices against one another; Hick avoids indeterminacy by describing the Real in detail.
+
+C. Alston denies that the rival mystical practices are genuinely socially established; Hick denies that the traditions conflict with one another at all.
+
+D. Alston abandons the parity argument as soon as diversity is raised against him; Hick abandons the Real altogether in favour of a modest exclusivism.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Alston treats diversity as the most serious objection and offers only rational persistence absent neutral adjudication, while the standing objection to Hick is that an unknowable Real cannot support determinate doctrine.
+- **B:** Incorrect: Alston explicitly declines to rank practices, and detailed description of the Real is precisely what Hick's position forbids.
+- **C:** Incorrect: he affirms that rival practices are established, which is exactly what generates the objection, and Hick's whole theory is built on the fact of conflict.
+- **D:** Incorrect: neither retreats in that way; Alston keeps the parity argument and Hick keeps the Real, each paying a stated price.
+
+**Examiner trap 21:** Including Alston's own concession is what separates a strong script from a merely correct one; omitting it makes the exposition look second-hand.
+
+#### MCQ 22. Mystical experience and revelation
+
+Which consideration best shows that mystical experience and revelation are not identical?
+
+A. Mystical states are ineffable, whereas revelation is by definition fully expressible in a determinate set of communicated propositions.
+
+B. Revelation always occurs in a public setting before witnesses, whereas mystical experience always occurs in solitude and without observers.
+
+C. A unitive state may be reported with no disclosure-claim, and truths may be held revealed through a text with no unitive state at all.
+
+D. Mystical experience concerns the sacred as such, whereas revelation concerns only the moral commands that are issued to a community.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: revelation is not by definition propositional, since the non-propositional model treats it as divine self-disclosure received in an event.
+- **B:** Incorrect: the locations are not fixed in that way, and the contrast between public and solitary does not track the distinction at issue.
+- **C:** Correct: each case is actual, and each refutes one direction of the identification, which is why the relation is contingent and functional rather than definitional.
+- **D:** Incorrect: it narrows revelation arbitrarily to moral content and ignores its standard doctrinal and self-disclosing forms.
+
+**Examiner trap 22:** The 2023 stem has a second deliverable — the significance of the relation in religious life — and origination, renewal and the risk of unchecked private authority are the three functions to name.
+
+#### MCQ 23. Prayer, worship, and the cases that decide between them
+
+Which statement captures the essential distinction and its decisive test cases?
+
+A. Prayer is address presupposing a responsive God; worship is ascription of supreme worth, which Jain and Mīmāṃsā practice retain without petition.
+
+B. Prayer is characteristically public and worship characteristically private, and the Indian material merely illustrates that difference without deciding it.
+
+C. Prayer and worship are synonyms in actual practice, and the distinction survives only as a Western liturgical convention.
+
+D. Worship requires a responsive deity and prayer does not, which is precisely why the non-theistic traditions retain prayer alone and abandon worship.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the essential acts differ — address against ascription of worth — and the Tīrthaṅkara who is free of passion and Mīmāṃsā's unseen potency (*apūrva*) supply full ritual worship where petition can obtain nothing.
+- **B:** Incorrect: the locations are reversed, since prayer is often private and worship characteristically corporate, and the Indian cases decide rather than merely illustrate.
+- **C:** Incorrect: the distinction generates correct predictions about which traditions retain which practice, so it is not merely verbal or liturgical.
+- **D:** Incorrect: it inverts the presuppositions, since responsiveness is what prayer-as-request needs and supreme value is all that worship needs.
+
+**Examiner trap 23:** The 2020 stem prints two tasks — distinguish, and determine their place — so an answer that stops after the differentia has completed half the question.
+
+#### MCQ 24. The graded answer on public discourse
+
+Which conclusion answers "how far can religious experience be made a topic of public discourse?" most defensibly?
+
+A. Fully, since disciplined practices such as meditation and contemplation constitute a genuinely repeatable public experiment open to any observer.
+
+B. Publicly discussable as description, coherence, tradition-conformity, fruits and practice, but privately probative, since these test authenticity rather than truth.
+
+C. Not at all, since ineffability and privileged access together make any informative public statement about the experience strictly impossible.
+
+D. Only politically, since the sole legitimate public question is whether religious reasons may lawfully enter formal state decision-making at all.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the replicability claim must be reported as Vivekananda's and Radhakrishnan's claim and carries its own limit, since the procedure cannot be run by an uncommitted observer.
+- **B:** Correct: the six intersubjective criteria are genuinely public and genuinely limited, so the required "how far" is answered by a line drawn between authenticity and evidential transfer.
+- **C:** Incorrect: even ineffability is reportable, and James, Otto, Stace and Zaehner built public typologies out of first-person documents.
+- **D:** Incorrect: Habermas's translation proviso settles the political sub-question only, leaving the descriptive, doctrinal and practical criteria untouched.
+
+**Examiner trap 24:** "How far ... Analyse" forbids a yes or a no; the marks are in the line you draw and in your defence of where you drew it.
 
 #### REMEDIAL DIAGNOSTIC MCQS — 8
-#### 41. A candidate writes, “James gives four equally necessary marks of every religious experience.” Which correction is best?
 
-A. The four concern mystical states; ineffability and noetic quality are defining, while transiency and passivity are usual accompaniments
+#### MCQ 25. Remedial — "James gives four equally necessary marks of every religious experience"
 
-B. James rejects every attempt to classify experience
-C. The four concern revelation; all are optional
-D. The four concern worship; only passivity is defining
-**Answer: A.**
+Which correction is best?
 
-This corrects both errors: James is classifying mystical states rather than all religion, and he explicitly grades the marks. Treating all four as equally necessary misrepresents him and wrongly excludes stable, cultivated realisation.
-#### 42. Which reformulation best corrects the claim “If a mystical experience is ineffable, it is meaningless”?
+A. Two marks are defining and two are usual, and all four of them describe mystical states rather than religious experience as such.
 
-A. Ineffability applies only to bodily sensations
-B. Ineffability denies exhaustive expression, not all intelligible reference, comparison or report
-C. Ineffability guarantees that every metaphysical interpretation is true
-D. Ineffability and logical contradiction are identical
+B. All four marks are jointly necessary, but they apply only to conversion experiences rather than to mystical states as James classifies them.
 
-**Answer: B.**
+C. Only one mark is strictly necessary, namely passivity, and the remaining three are optional refinements that some reports happen to add.
 
-An experience may resist adequate transmission while remaining partially describable as unitary, peaceful, noetic or transformative. The concept limits language; it does not abolish language.
-#### 43. What is the correct response to “If tradition mediates experience, tradition must fabricate it”?
-
-A. Religious experience is uniquely free from concepts
-B. All mediated experiences are false
-C. Mediation shapes access and interpretation but does not by itself establish that no independent object is disclosed
-D. Fabrication is guaranteed whenever practices precede an experience
-
-**Answer: C.**
-
-Katz shows that mediation is epistemically important, but the move from “concept-laden” to “invented” is invalid. Ordinary perception is also mediated; objectivity depends on constraints, correction and defeaters.
-#### 44. Which correction best addresses the equation of Otto’s “holy” with Durkheim’s “sacred”?
-
-A. Otto and Durkheim offer the same theory in different languages
-
-B. Both terms refer exclusively to moral goodness
-C. Both are names for Advaita’s Brahman
-D. Otto analyses a numinous phenomenological quality, whereas Durkheim analyses a social separation from the profane
-**Answer: D.**
-
-Their concepts can overlap in religious life but answer different questions. Otto asks how the object appears; Durkheim asks how sacred classification and community function.
-#### 45. Which statement correctly distinguishes prayer from worship?
-
-A. Prayer is address and normally presupposes a responsive addressee; worship is ascription of supreme worth and can occur without answered petition
-B. Non-theistic traditions can have neither prayer nor worship
-C. Prayer is always private, whereas worship is always public
-D. Prayer is necessarily petition, whereas worship excludes praise
+D. The four marks are jointly necessary for religious experience in general, but not for the mystical states that form one variety within it.
 
 **Answer: A.**
 
-Form and location vary, so private/public is not the essence. Adoration overlaps both practices, but Jain and Mīmāṃsā cases show that worship survives without a deity who answers requests.
-#### 46. Why is it misleading to say that Advaita is an experience “of Brahman” in exactly the same sense that Otto describes experience “of the Holy”?
+**Option explanations:**
+- **A:** Correct: it repairs both halves of the error at once — the grading of the marks and the restriction of their scope to mystical states.
+- **B:** Incorrect: it keeps the flat list and then narrows it to the wrong class, since conversion is a separate variety in James's survey.
+- **C:** Incorrect: passivity is one of the two merely usual marks and is the least suitable candidate for a single necessary condition.
+- **D:** Incorrect: it inverts the scope restriction, extending the marks to religious experience at large while withdrawing them from the states they were formulated for.
 
-A. Both accounts reduce religion to social ritual
-B. Advaita’s highest realisation sublates subject–object duality, whereas Otto retains intentional encounter with the wholly other
+**Examiner trap 25:** Correcting only the scope, or only the grading, leaves half the error standing; state both in one sentence.
 
-C. Advaita denies consciousness
-D. Otto teaches identity of ātman and Brahman
-**Answer: B.**
+#### MCQ 26. Remedial — "If a mystical experience is ineffable, it is meaningless"
 
-The logical forms differ: Advaita is identity-recognition, while Otto’s numinous experience has an experiencer directed toward an other. “Object” must therefore be used carefully.
-#### 47. Which inference illegitimately moves from phenomenology to warrant?
+Which reformulation is correct?
 
-A. “The report contains a sense of unity; therefore unity belongs to its phenomenology.”
-B. “The subject felt passive; therefore the state resembles James’s usual mystical marks.”
-C. “The experience felt absolutely real; therefore its transcendent object certainly exists.”
-D. “The report is culturally shaped; therefore its interpretation requires analysis.”
+A. Ineffability entails that no true statement whatever can be made about the state, so a disciplined silence is the only honest response available.
+
+B. Ineffability is a rhetorical exaggeration on the mystic's part, since mystics in fact describe their states at very considerable length.
+
+C. Ineffability limits the exhaustiveness of report, not the possibility of every statement, so partial and analogical description remains available.
+
+D. Ineffability applies to the claimed object rather than to the state, so the state itself can in principle be described completely and exactly.
 
 **Answer: C.**
 
-C sense of objectivity is itself phenomenological evidence, not proof that the apparent object exists. Veridicality requires separate assessment of reliability, defeaters and competing explanations.
-#### 48. Which comparison between Swinburne and Alston is accurate?
+**Option explanations:**
+- **A:** Incorrect: it treats a limit on adequacy as a prohibition on speech, which would make James's own two lectures of description impossible.
+- **B:** Incorrect: dismissing the mark as exaggeration removes one of the two marks James makes definitional rather than explaining it.
+- **C:** Correct: the mark restricts adequacy rather than intelligibility, which is why comparative typologies could be built from first-person reports at all.
+- **D:** Incorrect: it relocates the mark to the object and then over-claims, since complete description of the state is not what any account here asserts.
 
-A. Both offer deductive proofs from mystical reports
+**Examiner trap 26:** Equating ineffability with meaninglessness also destroys the public-discourse answer, because it removes the phenomenological description that the "yes" case is built on.
 
-B. Both conclude that religious diversity is irrelevant
-C. Alston formulates the principle of credulity, while Swinburne analyses doxastic practices
-D. Swinburne starts from a general presumption in favour of seemings; Alston defends rational engagement in socially established belief-forming practices
+#### MCQ 27. Remedial — "Advaita is the perception of Brahman as an object"
+
+Which correction is best?
+
+A. Advaita treats Brahman as an object of inference rather than of perception, so the correct vocabulary for the realisation is inferential throughout.
+
+B. Advaita treats the realisation as a non-objective recognition of the self as Brahman, since self-luminous consciousness cannot be an object at all.
+
+C. Advaita treats Brahman as an object presented within a specially purified perception that becomes available only after very long preparatory discipline.
+
+D. Advaita treats Brahman as an object throughout the period of practice and as a subject only at the final moment of liberation itself.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: substituting inference for perception keeps the objectifying structure that the doctrine of self-luminosity rejects.
+- **B:** Correct: witnessing consciousness is presupposed by subject–object cognition and therefore cannot itself be objectified, so the realisation is recognition rather than presentation.
+- **C:** Incorrect: purifying the perception does not remove the objectification; it merely refines it, leaving the same structural error in place.
+- **D:** Incorrect: the two-stage account is not Advaita's, and it would make the decisive structural claim depend on a change of standpoint at the last moment.
+
+**Examiner trap 27:** Answers that say "experience of Brahman" invite the dualising objection even when the surrounding paragraph is correct; change the phrase, not just the argument.
+
+#### MCQ 28. Remedial — "Otto's holy and Durkheim's sacred are the same idea"
+
+Which correction is best?
+
+A. They are one and the same idea expressed in two different disciplinary vocabularies, so nothing philosophical whatever turns on the difference between them.
+
+B. They differ only in their intended scope, since Otto's account covers the theistic religions and Durkheim's covers the tribal and totemic ones.
+
+C. Otto analyses a phenomenological quality disclosed in awe, while Durkheim analyses a social classification defined by separation and by prohibition.
+
+D. Otto analyses a social classification and Durkheim a phenomenological quality, so the attribution usually made in textbooks is exactly reversed.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the difference determines which objection each account faces, so treating it as terminological removes the evaluative content of the module.
+- **B:** Incorrect: the contrast is one of method rather than of coverage, and Durkheim's definition is designed to be perfectly general.
+- **C:** Correct: one describes how an object appears to a subject in numinous awe, the other describes how a community sets something apart, and each attracts a different criticism.
+- **D:** Incorrect: it simply transposes the two authors, which is the same error in a different direction.
+
+**Examiner trap 28:** This distinction is worth stating explicitly even in answers that are not about 2018, because it also disciplines the use of "sacred" as the generic object-term.
+
+#### MCQ 29. Remedial — "Alston proved that religious experience is reliable"
+
+Which correction is best?
+
+A. Alston proved reliability for one practice only, namely the Christian mystical one, and left every other established religious practice unexamined.
+
+B. Alston proved that religious experience is in fact unreliable, and therefore defends religious belief entirely on grounds that are not experiential.
+
+C. Alston abandoned the reliability question altogether and defended religious belief instead as properly basic in Plantinga's Reformed-epistemology sense.
+
+D. Alston argues only for the practical rationality of engaging in an established practice, since no practice at all can ever be validated non-circularly.
+
 **Answer: D.**
 
-Swinburne’s argument is appearance-based and defeasible; Alston’s is practice-based and culminates in practical rationality and *prima facie* justification. Neither yields infallibility.
+**Option explanations:**
+- **A:** Incorrect: no reliability proof is offered for any practice, and rival practices are precisely what he concedes he cannot adjudicate.
+- **B:** Incorrect: it inverts his conclusion, since he defends the rationality of engagement rather than attacking the practice.
+- **C:** Incorrect: proper basicality is Plantinga's apparatus in the Reformed-epistemology debate; Alston's route is the parity of doxastic practices.
+- **D:** Correct: the parity argument yields practical rationality and *prima facie* justification for M-beliefs, not a demonstration of reliability.
+
+**Examiner trap 29:** Overstating Alston also weakens the answer, because the overstated version is easy to refute while the accurate version shifts the burden onto the sceptic.
+
+#### MCQ 30. Remedial — "The experience has a neural correlate, so it is nothing"
+
+Which correction is best?
+
+A. Neural correlates are wholly absent in the genuine mystical states, and that absence is what distinguishes them from episodes of ordinary perception.
+
+B. Neural correlation shows mediation; a defeat further requires showing unreliability, or a full explanation of the seeming without the object.
+
+C. Neural correlation is wholly irrelevant to philosophy of religion and should therefore be excluded from any philosophical answer entirely.
+
+D. Neural correlation proves veridicality, since the presence of a physical basis shows that the experience in question was not merely imagined.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the empirical claim is unsupported, and the position would make mystical states uniquely disembodied for no stated reason.
+- **B:** Correct: causal explanation and epistemic defeat are different things, so the critic must attack reliability or show that the seeming is fully accounted for without the proposed object.
+- **C:** Incorrect: the material is legitimate as a form of the naturalistic critique; what is illegitimate is treating correlation as conclusion.
+- **D:** Incorrect: it commits the mirror error, converting a mechanism into a warrant instead of into a defeat.
+
+**Examiner trap 30:** The clause's own guidance restricts dated news anchors and warns against filling answers with brain-region catalogues; one accurate sentence on mediation is worth more than a paragraph of neuroscience.
+
+#### MCQ 31. Remedial — "Indian mysticism is one thing"
+
+Which correction is best?
+
+A. Indian traditions differ only over the deity that is named, since every one of them culminates in a loving union with some personal Lord.
+
+B. Indian traditions differ only over the method employed, since every one of them culminates in the same non-dual realisation of one reality.
+
+C. Indian traditions all agree with Zaehner's monistic type, so the whole comparison can safely be run on a single row of the bench.
+
+D. Indian traditions report at least four different structures — identity, isolation, relation and insight — with four different termini.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: union with a personal Lord is the devotional structure alone and is explicitly denied by Advaita's identity-claim and by Buddhist analysis.
+- **B:** Incorrect: it assimilates Yoga, devotion and Buddhism to Advaita, which is the very assimilation charge pressed against Radhakrishnan.
+- **C:** Incorrect: Zaehner's monistic type does not accommodate devotional relation or Buddhist insight, so a single row cannot carry the comparison.
+- **D:** Correct: Advaita reports identity, Sāṃkhya-Yoga isolation, devotional traditions a graced relation and Buddhism insight terminating in cessation, and each carries its own control.
+
+**Examiner trap 31:** A comparison paragraph that says "Indian mysticism" without naming a structure reads as second-hand even when its individual facts are correct.
+
+#### MCQ 32. Remedial — answering only one of two printed deliverables
+
+A stem reads: "Distinguish between prayer and worship and determine their place in religion." A script gives an excellent six-axis distinction and stops. What is the correct diagnosis?
+
+A. The script has completed one of two separately marked tasks, so its ceiling is set by the missing placement analysis.
+
+B. The script is complete as it stands, since determining their place in religion follows automatically once the essential distinction has been drawn.
+
+C. The script has failed outright, because a distinction offered without supporting examples cannot be credited by an examiner at all.
+
+D. The script should have omitted the distinction entirely, since the instruction to determine their place already subsumes the earlier task.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: six of the eight printed stems in this clause carry two deliverables, and a complete treatment of the first alone caps the script below its content value.
+- **B:** Incorrect: placement requires a further argument about the relational and evaluative functions of each practice, which no distinction supplies by itself.
+- **C:** Incorrect: an excellent distinction is creditable work; the defect is incompleteness, not worthlessness.
+- **D:** Incorrect: the stem prints both tasks, and dropping the first would forfeit the marks allocated to it.
+
+**Examiner trap 32:** Decode the directive before writing: "distinguish ... and determine", "examine ... and expound", "nature and variety", "nature and object" are all double-barrelled, and the second barrel is where scripts most often fail.
+
+---
+
 ## PYQS AND ANSWER PRACTICE
 
-#### VERIFIED PYQS — 8 COMPLETE SOLUTIONS
+### Verified previous-year questions — 8 complete solutions
 
-These are independent practice models prepared from the verified question ledger; they are not official UPSC answers or marking keys.
+**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its **exact printed wording** from the audited Philosophy of Religion previous-year ledger, 2018–2025, in which this clause owns exactly one part in every paper. **The model answers are independent learner practice and are never official UPSC keys.**
+
+**Timing skeleton.** 10 marks — 1 minute to decode, 1 to outline, 6 to write, 1 to check. 15 marks — 1 / 2 / 10 / 2. 20 marks — 2 / 3 / 13 / 2. **Standing penalties in this clause:** an ungraded four-mark list; an unanswered second deliverable; a verdict that summarises instead of deciding; and any invented year for Schleiermacher, Swinburne, Hick, Forman or Teresa.
 
 #### PYQ 1 — 2018, Q7(a), 20 marks
 
@@ -689,11 +946,11 @@ Radhakrishnan is therefore strongest as a phenomenology and philosophy of lived 
 
 **Why this earns marks:** Anchors the answer in *The Hindu View of Life*; separates nature from object; explains integral intuition and secondary dogma; compares James, Otto and Advaita; tests universality, constructivism and warrant; delivers an evaluative verdict.
 
-#### ORIGINAL SOLVED MAINS PRACTICE — 6 MODELS
+### Original solved Mains practice — 6 models
 
 The following are original, independently prepared practice questions and model answers, not UPSC PYQs or official solutions.
 
-#### ORIGINAL 1 — 10 marks
+#### Original 1 · 10 marks
 
 **Question:** Does the ineffability of religious experience prevent it from yielding knowledge? Examine.
 
@@ -712,7 +969,7 @@ Therefore ineffability does not reduce religious experience to unintelligibility
 
 **Why this earns marks:** Direct thesis; James correctly graded; acquaintance/proposition/public-proof distinction; diversity objection; Advaita comparison; qualified verdict.
 
-#### ORIGINAL 2 — 10 marks
+#### Original 2 · 10 marks
 
 **Question:** Compare Otto’s numinous encounter with Advaita’s non-dual awareness as two accounts of religious experience.
 
@@ -731,7 +988,7 @@ Thus the accounts are comparable as non-discursive phenomenologies, but not inte
 
 **Why this earns marks:** Clear comparator; precise doctrines; non-rational clarified; identity-versus-relation made decisive; matched objections and replies; concise verdict.
 
-#### ORIGINAL 3 — 15 marks
+#### Original 3 · 15 marks
 
 **Question:** “The moral fruits of a religious experience authenticate the subject but do not verify the transcendent object.” Critically discuss.
 
@@ -752,7 +1009,7 @@ Therefore moral fruits have genuine but bounded epistemic value. They publicly c
 
 **Why this earns marks:** Tests both halves of the statement; uses James and Indian discernment; distinguishes utility, authenticity and truth; offers a cumulative reply; gives a calibrated verdict.
 
-#### ORIGINAL 4 — 15 marks
+#### Original 4 · 15 marks
 
 **Question:** Is mystical experience best understood through a common core or through irreducible religious diversity? Discuss with reference to Stace, Zaehner and constructivism.
 
@@ -777,7 +1034,7 @@ Thus mystical experience is neither simply one nor wholly many. It consists of o
 
 **Why this earns marks:** Reconstructs all three positions; avoids accepting Zaehner’s ranking; uses identity-versus-relation; includes Forman’s reply; reaches a discriminating synthesis.
 
-#### ORIGINAL 5 — 20 marks
+#### Original 5 · 20 marks
 
 **Question:** Can religious experience provide *prima facie* justification for belief in a transcendent reality? Evaluate with reference to Swinburne, Alston and Indian claims of direct realisation.
 
@@ -804,7 +1061,7 @@ Thus religious experience can provide *prima facie* justification, especially pe
 
 **Why this earns marks:** Defines the exact epistemic level; reconstructs Swinburne and Alston without overclaiming; supplies Indian parity; ranks naturalism, cross-checking and diversity objections; differentiates subject, testimony and public proof.
 
-#### ORIGINAL 6 — 20 marks
+#### Original 6 · 20 marks
 
 **Question:** “Religious experience is always mediated, but mediation does not necessarily amount to fabrication.” Critically evaluate.
 
@@ -830,3 +1087,18 @@ The opposite error is neuro-reduction. Showing neural or psychological mediation
 Therefore mediation is unavoidable and philosophically informative: it qualifies claims of pure, universal experience and requires humility about interpretation. But fabrication is a further conclusion demanding evidence of systematic unreliability or unconstrained projection. The best verdict rejects both naïve immediacy and total constructivism: religious experience may be mediated disclosure, though its object receives only defeasible, tradition-situated warrant.
 
 **Why this earns marks:** Defines the key terms; reconstructs Katz; compares Stace, Zaehner, Forman, Alston and Radhakrishnan; integrates Indian practice; distinguishes causal mechanism from epistemic defeat; finishes with a graded middle position.
+
+### Self-scoring and next steps
+
+| Diagnostic score (out of 32) | Reading it | What to do next |
+|---:|---|---|
+| 28–32 | the discriminations are secure | practise under time: two 15-markers back to back, 40 minutes total |
+| 22–27 | content is present, discriminations are soft | re-run the traps for every item missed, then rewrite one model answer from memory |
+| 15–21 | the layer separation is not yet automatic | re-read the four-layer card and the graded verdict ladder before attempting more questions |
+| below 15 | the marks or the object-question are being confused | return to the learning session's Basic block; do not attempt timed answers yet |
+
+**Trap census by cluster.** Of the thirty-two examiner traps in this workbook, seven concern James's grading and scope, five concern the sacred/holy/God module, five concern the Indian structures and the *anirvacanīya* firewall, four concern Alston and the warrant apparatus, four concern the two double-deliverable stems, three concern the typologies, and four concern the naturalistic and diversity defeaters. A candidate who repeatedly misses one cluster should revise that cluster rather than attempt more mixed practice.
+
+### Independence note
+
+Every model answer in Parts 3 and 4 is independent learner practice written to the repository's examiner-grade standard. UPSC does not publish official Mains answers or marking keys, and nothing here should be presented as one. The previous-year stems themselves are reproduced verbatim from the audited 2018–2025 Philosophy of Religion ledger.

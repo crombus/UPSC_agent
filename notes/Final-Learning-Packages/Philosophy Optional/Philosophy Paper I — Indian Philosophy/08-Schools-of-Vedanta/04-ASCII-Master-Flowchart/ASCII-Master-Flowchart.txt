@@ -1,64 +1,1294 @@
-ASCII MASTER FLOW — PANEL 1/9: Canon and school taxonomy
-THREEFOLD CANON: UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA
-Badarayana systematizes; rival commentaries build distinct schools
-Advaita: non-dual ultimate reality; difference belongs to ignorance
-Visistadvaita: qualified unity; selves and world are real modes
-Dvaita: God, selves and world are eternally different realities
+ASCII MASTER FLOW — PANEL 1/22: Syllabus item 19, the controlling question, and the plural
 
-ASCII MASTER FLOW — PANEL 2/9: Ultimate reality, Lord and self
-ULTIMATE REALITY (BRAHMAN) / LORD (ĪŚVARA) / TRUE SELF (ĀTMAN)
-Advaita -> qualityless ultimate reality; empirical Lord under illusion
-Visistadvaita -> personal qualified ultimate reality with inseparable modes
-Dvaita -> independent Lord and permanently dependent selves
-trap: the three schools do not use the same word with the same ontology
+  SYLLABUS ITEM 19, PRINTED VERBATIM:
+  "Schools of Vedanta : Brahman; Isvara; Atman; Jiva; Jagat; Maya; Avida; Adhyasa;
+   Moksa; Aprthaksiddhi; Pancavidhabheda."
+  normalised: ultimate reality (brahman) · the Lord (īśvara) · true self (ātman) ·
+  individual self (jīva) · world (jagat) · indescribable illusion (māyā) ·
+  ignorance (avidyā, printed "Avida") · superimposition (adhyāsa) · liberation (mokṣa) ·
+  inseparable dependence (apṛthaksiddhi) · fivefold difference (pañcavidhabheda)
+                                  |
+  THE PLURAL IS THE EXAMINATION: this is the ONLY Paper I clause beginning with
+  "Schools". Not one of the eleven terms has a single Vedāntic meaning.
+                                  |
+  CONTROLLING QUESTION ...... is the relation of the FINITE to the ABSOLUTE
+                              IDENTITY, QUALIFICATION, or DIFFERENCE?
+                                  |
+  +---- THE THUMB-RULE ------------------------------------------------------------+
+  |  every printed term must be answered in THREE-SCHOOL COMPARATIVE MODE, even    |
+  |  when the question names only one school, because a shared term's meaning is   |
+  |  fixed only by contrast                                                        |
+  +--------------------------------------------------------------------------------+
+                                  |
+  CORPUS SIGNAL .... 20 primary-owned parts of 112 in the 2018-2025 corpus, second
+                     only to Nyāya-Vaiśeṣika. Owned in EVERY year of the window:
+                     2018×3 · 2019×1 · 2020×3 · 2021×3 · 2022×3 · 2023×3 · 2024×1 ·
+                     2025×3
+  SUPPORTING ONLY .. 2018 Q7(b) real transformation (owner: Sāṃkhya) ·
+                     2018 Q8(a) self-luminosity and intrinsic validity (owner: Mīmāṃsā)
 
-ASCII MASTER FLOW — PANEL 3/9: Witness, reflection and knowledge
-WAKING -> DREAM -> DEEP SLEEP -> NON-DUAL WITNESS
-original-reflection is a later explanatory family, not literal optics
-hearing -> reflection -> deep contemplation stabilizes identity-knowledge
-Ramanuja: atomic knower with expanding attributive consciousness
-trap: do not call Lord (īśvara) both original and reflection without naming the model
+  +--------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                          |
+  |  Vedānta is not one doctrine but three answers to one question, and every       |
+  |  printed syllabus term is that same fork applied to a different object.         |
+  +--------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/9: World, causation and ignorance
-ADVAITA: APPARENT TRANSFORMATION (VIVARTAVĀDA)
-Ramanuja: real transformation of dependent modes within Ultimate reality (Brahman)'s body
-Madhva: God efficient cause; dependent primordial matter material cause
-indescribable illusion (māyā) projects; ignorance (avidyā) misidentifies
-vivarta develops causal dependence but rejects real transformation
+  ! TRAP 1: do not reduce "Vedānta" to Advaita; two-thirds of the owned questions
+    require Rāmānuja, Madhva or a wider school.
+  ! TRAP 2: do not treat the eleven terms as eleven topics; they are one dispute
+    applied eleven times.
 
-ASCII MASTER FLOW — PANEL 5/9: Superimposition and great statement
-SUPERIMPOSITION (ADHYĀSA) -> SELF/NON-SELF CONFUSION -> BONDAGE
-great statement 'That Thou Art' requires discarding incompatible attributes
-indescribable-error theory explains rope-snake without making error unreal
-knowledge removes ignorance; it does not produce the already-real self
-pressure: if ignorance is indefinable, its locus and removal remain contested
+ASCII MASTER FLOW — PANEL 2/22: The threefold canon and the six commentarial schools
 
-ASCII MASTER FLOW — PANEL 6/9: Qualified non-dualism
-INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI)
-selves and world are real but cannot exist apart from ultimate reality
-body-soul relation: the whole controls and supports its real modes
-action and knowledge prepare; devotion/surrender and grace liberate
-attributive consciousness expands without loss of individuality
-strength: unity without illusionism; limit: plurality may qualify absoluteness
+                  THE THREEFOLD CANON (prasthāna-trayī)
+   principal Upaniṣads   +   Bhagavad Gītā   +   Brahma Sūtra of Bādarāyaṇa
+   revealed foundation       remembered           reasoned systematization
+   (śruti-prasthāna)         synthesis            (nyāya-prasthāna)
+                             (smṛti-prasthāna)
+                                    |
+   the Sūtra is COMPACT: aphorisms, NOT finished doctrine
+   => the common site of COMPETING COMMENTARIES rather than a settlement of them
+                                    |
+  +--------------------------------------------------------------------------------+
+  | SCHOOL                    | TEACHER / TEXT                | ROOT RELATION       |
+  |---------------------------|-------------------------------|---------------------|
+  | non-dualism               | Śaṅkara, Brahma-sūtra-bhāṣya  | identity; difference|
+  | (advaita)                 | + Upaniṣad and Gītā comms.    | is ignorance-       |
+  |                           |                               | conditioned         |
+  | qualified non-dualism     | Rāmānuja, Śrī-bhāṣya,         | real selves/world   |
+  | (viśiṣṭādvaita)           | Vedārthasaṅgraha, Gītā comm.  | inseparably qualify |
+  | dualism                   | Madhva, Brahma-sūtra-bhāṣya,  | really different;   |
+  | (dvaita)                  | Anuvyākhyāna, Gītā comm.      | only God independent|
+  | dualistic non-dualism     | Nimbārka, Vedānta-pārijāta-   | difference AND non- |
+  | (dvaitādvaita)            | saurabha                      | difference both real|
+  | pure non-dualism          | Vallabha, Aṇubhāṣya           | world is a REAL     |
+  | (śuddhādvaita)            |                               | UNCHANGED manifest. |
+  | inconceivable difference- | Caitanya tradition; Rūpa,     | real difference and |
+  | non-difference            | Jīva and Baladeva Gosvāmin    | non-difference by   |
+  | (acintyabhedābheda)       |                               | divine powers       |
+  +--------------------------------------------------------------------------------+
+                                    |
+  OWNERSHIP FIREWALL
+    HELD HERE ..... Brahman-centred Upaniṣadic interpretation · accomplished reality
+                    (siddha-vastu) as independently disclosive · the eleven terms
+    OWNED THERE ... earlier Mīmāṃsā: injunction (vidhi), duty, authorless verbal
+                    authority, ritual interpretation, act-to-be-done (kārya)
+    => the boundary is itself examinable: can Vedic sentences reveal a NON-ACTIONAL
+      accomplished reality?
 
-ASCII MASTER FLOW — PANEL 7/9: Dualism and fivefold difference
-FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)
-God-self | God-world | self-self | self-world | world-world
-difference is real, eternal and constitutive rather than ignorance-produced
-God is efficient, not material cause; souls and matter remain dependent
-liberation preserves hierarchy, difference and blissful service
-strength: robust realism; limit: permanent hierarchy and pluralism need defence
+  PRICE PAID BY EACH BRANCH (the comparative spine in one strip)
+    identity ....... world, individuality, ethics and devotion become lower-order
+    qualification .. real modes press on divine simplicity and changelessness
+    difference ..... non-dual Upaniṣadic sentences become harder to read; hierarchy
 
-ASCII MASTER FLOW — PANEL 8/9: Wider Vedanta and liberation
-VISISTADVAITA -> COMMUNION; DVAITA -> GRADED ETERNAL SERVICE
-Vallabha: unchanged real manifestation + grace-nourished devotion
-Caitanya: inconceivable difference-non-difference + divine love
-Nimbarka matter: ordinary matter + divine matter + time
-never collapse the 2018 liberation comparison into generic devotion
+  ! TRAP: "the schools differ about scripture" is FALSE and unrewarded. They agree
+    about scripture and differ about its interpretation.
 
-ASCII MASTER FLOW — PANEL 9/9: PYQ answer synthesis
-DEFINE COMMON QUESTION -> BUILD THREE-COLUMN CONTRAST -> TEST OBJECTIONS
-ultimate reality -> Lord/self -> world -> ignorance/error -> liberation
-use one precise doctrine and one rival criticism for each school
-state what each theory preserves and what explanatory cost it pays
-qualified verdict: unity, qualified unity and difference solve different pressures
+ASCII MASTER FLOW — PANEL 3/22: Ultimate reality — two definitions and the attributes fork
+
+        ULTIMATE REALITY (brahman) — DEFINED TWICE
+  +--------------------------------+----------------------------------------------+
+  | ESSENTIAL (svarūpa-lakṣaṇa)    | RELATIONAL (taṭastha-lakṣaṇa)                |
+  | being-consciousness-bliss      | janmādyasya yataḥ — that from which origin,  |
+  | (sat-cit-ānanda)               | sustenance and dissolution proceed           |
+  | = WHAT IT IS in itself         | = WHY it is called the ground of the world   |
+  +--------------------------------+----------------------------------------------+
+                    |
+     "Does the absolute HAVE determinate attributes?"
+                    |
+   NO — qualityless (nirguṇa)              |  YES — qualified (saguṇa)
+   ADVAITA                                  |
+    * sole ULTIMATELY REAL (pāramārthika)   |  VIŚIṢṬĀDVAITA — Rāmānuja
+    * nirguṇa ≠ blankness; it means FREE OF |   * saguṇa in the HIGHEST sense:
+      LIMITING, relational, empirical,      |     ananta-kalyāṇa-guṇa-viśiṣṭa
+      objectifiable attributes              |     endowed with infinite auspicious
+    * sat-cit-ānanda = ESSENCE, not a list  |     qualities
+      of accidental predicates              |   * qualities are PERFECTIONS, not
+    * creatorhood, omniscience, lordship,   |     limiting adjuncts
+      moral governance => belong to the LORD |   * identified with Viṣṇu-Nārāyaṇa
+      (īśvara) at the EMPIRICAL level       |   * NO qualityless level above him
+                                            |
+                                            |  DVAITA — Madhva
+                                            |   * personal Viṣṇu, perfect infinite
+                                            |     attributes
+                                            |   * alone INDEPENDENT (svatantra);
+                                            |     selves and world DEPENDENT
+                                            |     (paratantra)
+                                            |   * difference itself is ULTIMATE —
+                                            |     not absorbed into qualified unity
+
+  RĀMĀNUJA'S CRITIQUE OF THE QUALITYLESS ABSOLUTE — asked 2023 Q6(a), 20 marks
+    an entity WITHOUT attributes cannot be known
+    if utterly indeterminate => cannot be the referent of scriptural description
+    if no internal intelligibility => cannot cause a richly qualified world
+    scriptural passages that NEGATE DEFECTS do not negate ALL qualities
+    => Śaṅkara's absolute becomes unknowable emptiness OR an abstraction too thin to
+      ground religion, devotion, causality or ethics
+  ADVAITA'S REPLY: it is not known as an OBJECT with predicates; it is SELF-REVEALED
+    as the ground of all knowing. Denying limiting predicates ≠ denying nature.
+
+  CONSEQUENCE CASCADE (why this panel governs all the others)
+    nirguṇa read => world becomes appearance · the Lord becomes lower truth ·
+                   liberation becomes identity-recognition · scripture finally sublatable
+    saguṇa read  => world and devotion become central · liberation becomes communion or
+                   service · scripture stays final
+
+  ! TRAP 1: "Brahman has no nature at all" destroys the answer at the outset.
+  ! TRAP 2: "Rāmānuja accepts both nirguṇa and saguṇa Brahman" inverts his whole critique.
+
+ASCII MASTER FLOW — PANEL 4/22: Efficient and material causality across the schools
+
+  QUESTION: is ultimate reality the world's MATERIAL cause as well as its EFFICIENT
+  cause?   — asked 2025 Q6(b), 15 marks, "with suitable examples"
+
+  DEFINITIONS
+    efficient cause (nimitta-kāraṇa) .... the intelligent agency that brings about
+    material cause (upādāna-kāraṇa) ..... that OUT OF WHICH the effect is constituted
+
+  ADVAITA ------------------------------------------------------------------------
+    premise .... nothing exists independently of ultimate reality
+    therefore .. there is NO SECOND MATERIAL out of which the world is made
+    so ......... it is BOTH the intelligence behind the world AND the material basis
+                 of its APPEARANCE
+    image ...... the SPIDER spinning the web out of itself
+    qualified by APPARENT TRANSFORMATION (vivarta): it does NOT really become the
+    world; the world is an appearance dependent on it
+    image ...... the ROPE and the SNAKE — substrate supports what it never becomes
+    net ........ "material cause" = SUBSTRATE, not transformed stuff
+
+  VIŚIṢṬĀDVAITA -------------------------------------------------------------------
+    both causes, but causation is REAL
+    subtle conscious (cit) and non-conscious (acit) modes => gross manifestation
+    ultimate reality remains their controlling SUBSTANTIVE WHOLE
+    the transformation belongs to it THROUGH the real transformation of the
+    NON-CONSCIOUS mode — NOT through corruption of God's auspicious essence
+    cause-state = SUBTLE · effect-state = GROSS
+
+  DVAITA --------------------------------------------------------------------------
+    God = EFFICIENT cause (nimitta-kāraṇa) ONLY
+    primordial matter (prakṛti) = REAL DEPENDENT material cause, energised and
+    governed by God
+    dependence on God is universal — YET God, souls and matter remain really and
+    eternally different
+    ! therefore "brahman is both efficient and material cause" is TRUE of Advaita and
+      Viśiṣṭādvaita IN DIFFERENT SENSES, and FALSE of Dvaita
+
+  RIVAL SCHOOLS OUTSIDE VEDĀNTA — one-line contrast bank
+    Sāṃkhya .... prakṛti is material cause; NO efficient creator-God
+    Nyāya ...... God is primarily EFFICIENT; eternal atoms are MATERIAL
+    formula .... Sāṃkhya splits material causality from intelligence; Nyāya splits
+                 efficient from material causality; Vedānta REUNITES both
+
+  ! TRAP: "all Vedānta schools hold Brahman is both causes" — Madhva denies it
+    explicitly.
+
+ASCII MASTER FLOW — PANEL 5/22: Six means of valid knowledge and the primacy of testimony
+
+  ADVAITA'S SIX INSTRUMENTS (following the Bhāṭṭa Mīmāṃsā list)
+  +------------------+--------------------------------------+------------------------+
+  | perception       | immediate cognition through sense-   | "this pot is blue"     |
+  | (pratyakṣa)      | contact with a PRESENT object        |                        |
+  | inference        | unperceived fact via a perceived     | smoke on the hill =>    |
+  | (anumāna)        | mark (liṅga) + concomitance (vyāpti) | fire                   |
+  | comparison       | fresh cognition of an ABSENT         | gavaya seen => the      |
+  | (upamāna)        | familiar object's similarity         | remembered cow is like |
+  | verbal testimony | valid cognition from reliable words, | the great sentence     |
+  | (śabda)          | supremely the AUTHORLESS             | teaches self-absolute  |
+  |                  | (apauruṣeya) Veda                    | identity               |
+  | postulation      | presumption of an unseen fact to     | fat Devadatta does not |
+  | (arthāpatti)     | reconcile incompatible known facts   | eat by day => eats at   |
+  |                  |                                      | night                  |
+  | non-apprehension | cognition of ABSENCE through non-    | "there is no pot on    |
+  | (anupalabdhi)    | perception under proper conditions   | the floor"             |
+  +------------------+--------------------------------------+------------------------+
+                                     |
+     EVERY instrument presupposes the triad KNOWER - MEANS - KNOWN
+                 (pramātṛ - pramāṇa - prameya)
+                                     |
+     that triad presupposes DUALITY => all six work ONLY at the EMPIRICAL level
+     (vyāvahārika); at the ULTIMATE level (pāramārthika) there is no second object,
+     no separate knower, no instrument — the whole apparatus is sublated
+                                     |
+  REFLEXIVE PUZZLE ─► if all instruments are only empirically valid, how does
+                      testimony establish the ULTIMATE truth?
+  REPLY ───────────► scripture REMOVES IGNORANCE and then loses operative relevance
+                      ALONG WITH the ignorance it removed
+  IMAGES ──────────► the CLEARING-NUT (kataka) that settles the mud and settles with
+                      it · the STICK that stirs the pyre and is consumed in it
+  => scripture is NOT an eternal second reality alongside the absolute; it is the
+    EMPIRICAL LADDER by which the non-empirical truth is recognised
+
+  WHY NOT THE OTHER FIVE?
+    perception ..... the absolute is qualityless, non-objectifiable, not sensed
+    inference ...... no perceived instance, no mark uniquely co-present; and an
+                     inferred absolute becomes an inferred OBJECT (prameya)
+    comparison, postulation, non-apprehension ..... derivative / empirically
+                     parasitic: similarity, presumption and absence all operate
+                     INSIDE the field of knowable objects
+  => Śaṅkara: the absolute is ŚĀSTRA-YONI / ŚĀSTRA-PRAMĀṆAKA — known through scripture
+  => FOUR GREAT SENTENCES: tat tvam asi · ahaṃ brahmāsmi · prajñānaṃ brahma ·
+    ayam ātmā brahma
+
+  FAULT-LINE WITH EARLIER MĪMĀṂSĀ
+    Mīmāṃsā ..... Vedic authority is primarily authority for INJUNCTION (vidhi) about
+                  duty; statements of fact are subordinate to ritual action
+    Advaita ..... Upaniṣadic statements about ACCOMPLISHED REALITY (siddha-vastu) are
+                  independently and supremely valid; knowledge (jñāna) is NOT an act
+                  to be performed (kārya)
+    OBJ ......... if the Veda is for action, how can a sentence stating identity
+                  produce liberation?
+    REPLY ....... bondage is IGNORANCE, not absence of ritual; therefore the direct
+                  remover must be KNOWLEDGE
+    => the divide is not ritual-versus-metaphysics but whether Vedic sentences can
+      independently reveal a NON-ACTIONAL accomplished reality
+
+  ! TRAP: "Advaita rejects perception and inference" — it denies ULTIMACY, not
+    empirical validity.
+
+ASCII MASTER FLOW — PANEL 6/22: Three-school contrast on the means of knowledge
+
+  +---------------+-----+-------------------------------+--------------------------+
+  | SCHOOL        |COUNT| ACCEPTED INSTRUMENTS          | CONSEQUENCE              |
+  +---------------+-----+-------------------------------+--------------------------+
+  | ADVAITA       |  6  | perception · inference ·      | wide epistemology kept   |
+  |               |     | comparison · testimony ·      | EMPIRICALLY, but only    |
+  |               |     | postulation · non-apprehension| testimony reveals the    |
+  |               |     |                               | non-objective absolute,  |
+  |               |     |                               | and is then SUBLATED     |
+  +---------------+-----+-------------------------------+--------------------------+
+  | VIŚIṢṬĀDVAITA |  3  | perception · inference ·      | ACCEPTS indeterminate    |
+  |               |     | testimony (rest reduced to    | perception (nirvikalpaka)|
+  |               |     | these)                        | but REDEFINES it: the    |
+  |               |     |                               | FIRST cognition of an    |
+  |               |     |                               | individual already       |
+  |               |     |                               | apprehended with its     |
+  |               |     |                               | configuration (saṃsthāna)|
+  |               |     |                               | determinate (savikalpaka)|
+  |               |     |                               | = second cognition that  |
+  |               |     |                               | recognises the GENERIC   |
+  |               |     |                               | character as recurrent   |
+  |               |     |                               | REJECTS cognition of a   |
+  |               |     |                               | WHOLLY QUALIFIERLESS     |
+  |               |     |                               | (nirviśeṣa) object:      |
+  |               |     |                               | sarvaṃ vijñānaṃ saviśeṣam|
+  |               |     |                               | => a qualityless absolute |
+  |               |     |                               | is NOT establishable     |
+  +---------------+-----+-------------------------------+--------------------------+
+  | DVAITA        |  3  | perception · inference ·      | realist theism: the      |
+  |               |     | scriptural tradition (āgama); | independent ultimate     |
+  |               |     | special weight to scripture,  | standard of truth is     |
+  |               |     | the kevala-pramāṇa /          | separated from dependent |
+  |               |     | anu-pramāṇa distinction, and  | instruments; expositions |
+  |               |     | the WITNESS (sākṣin) as       | of that distinction VARY |
+  |               |     | ultimate internal validator   |                          |
+  +---------------+-----+-------------------------------+--------------------------+
+
+  COMPARATIVE INSIGHT
+    a school's instrument-count TRACKS its metaphysics:
+      Advaita needs testimony to disclose a NON-OBJECTIVE absolute
+      Viśiṣṭādvaita's qualified realism requires ALL cognition to be of the qualified
+      Dvaita's realist theism requires instruments that SECURE REAL DIFFERENCE
+
+  ! TRAP 1: "Rāmānuja denies nirvikalpaka perception" misstates a REDEFINITION as a
+    rejection.
+  ! TRAP 2: Madhva's witness (sākṣin) is NOT Advaita's witness (sākṣī) — same word,
+    opposed metaphysics: for Madhva it VALIDATES real difference.
+
+ASCII MASTER FLOW — PANEL 7/22: The Lord — three placements and Rāmānuja's critique
+
+  ADVAITA ........ the Lord = ultimate reality CONDITIONED BY illusion
+                   (māyā-upahita brahman / māyā-viśiṣṭa brahman)
+                   omniscient · omnipotent · moral governor · creator of the empirical
+                   world · FULLY REAL at the empirical level (vyāvahārika)
+                   YET sublated into the qualityless absolute at the ultimate level
+                   => theism is NEITHER false in a crude sense NOR final in the last
+  VIŚIṢṬĀDVAITA .. the Lord IS ultimate reality — supreme personal Viṣṇu-Nārāyaṇa
+                   no qualityless level above him · qualities REAL and ETERNAL
+                   IMMANENT because world and souls are his BODY
+                   TRANSCENDENT because he EXCEEDS them
+  DVAITA ......... Viṣṇu absolutely supreme, ALONE independent and self-sufficient
+                   all selves and the world depend on him ontologically, morally,
+                   soteriologically · difference NEVER erased by liberation
+
+  RĀMĀNUJA'S CRITIQUE OF ADVAITA'S LORD — the second half of 2023 Q6(a)
+    if the Lord belongs ONLY to the empirical level => devotion becomes MERELY
+    PREPARATORY · scriptural descriptions of God become LOWER TRUTH · religious life
+    is STRUCTURALLY SUBORDINATED to non-personal absolutism
+    => this hollows out devotion and makes scriptural theism PROVISIONAL
+
+  THE 2022 HIERARCHY — Q8(a), 20 marks
+    witness (sākṣī) ..... pure witnessing consciousness · unaffected · immediate ·
+                          non-objectifiable — CLOSEST to the ultimate standpoint
+    individual (jīva) ... consciousness reflected/limited by ignorance — empirical
+                          BONDAGE
+    the Lord (īśvara) ... consciousness conditioned by illusion — empirical COSMIC
+                          ORDER
+    => NOT three substances but ONE consciousness under THREE DESCRIPTIONS
+    => the printed verse "Brahma satyaṃ jagan-mithyā, jīvo brahmaiva nāparaḥ" is a
+      TRADITIONAL ADVAITA SUMMARY, not one of the four Upaniṣadic great sentences
+
+  ! TRAP: "Advaita denies God" ignores that the Lord is FULLY REAL at the empirical
+    level; only ULTIMACY is denied.
+
+ASCII MASTER FLOW — PANEL 8/22: Original-reflection, and the three models of individuation
+
+  ORIGINAL-REFLECTION MODEL (bimba-pratibimba-vāda) — asked 2025 Q8(a), 20 marks
+       ORIGINAL (bimba) = pure consciousness / ultimate reality
+                   |
+       reflected in v a conditioning medium (internal organ under ignorance)
+       REFLECTION (pratibimba) = the empirical self
+       * the original is UNAFFECTED by defect, motion or multiplicity in the media,
+         as ONE FACE is unchanged though many mirrors — cracked, tilted, moving —
+         yield differently conditioned images
+       * SOME later formulations: reflection in TOTAL COSMIC appearance = the Lord;
+         reflections in INDIVIDUAL ignorance / internal organs = the selves
+       ? OTHER formulations make the Lord the ORIGINAL relative to the self, or
+         prefer LIMITATION or SEMBLANCE models instead
+       ! do NOT write that the Lord is simultaneously "the original" and
+         "consciousness reflected in illusion" WITHOUT NAMING the relative or later
+         model being used; these are LATER explanatory alternatives, not one uniform
+         proposition attributable without qualification to Śaṅkara
+
+  SOTERIOLOGICAL SIGNIFICANCE — the half of the 2025 question most answers miss
+    the reflected image has only DERIVATIVE reality
+    => when ignorance is removed the finite self is known NEVER to have possessed
+      independent reality apart from original consciousness
+    => liberation = RECOGNITION of non-difference, NOT movement, merging or the
+      destruction of one substance by another
+    => this is why liberation can be ATTAINMENT OF WHAT IS ALREADY ATTAINED
+      (prāptasya prāptiḥ) and why LIBERATION WHILE LIVING (jīvanmukti) is possible
+    ! LIMIT: a formless original, a formless medium and a non-dual reality make
+      LITERAL reflection impossible; reflection also normally needs a spatial gap.
+      Use the model for SUGGESTIVE value, not optical physics.
+    ! Madhva uses the SAME metaphor for the OPPOSITE conclusion — that the dependent
+      image is REALLY DIFFERENT from its original — which shows how far the metaphor
+      under-determines the metaphysics.
+
+  THREE MODELS OF ONE PROBLEM
+    limitation (avaccheda-vāda) ...... one space appearing as pot-space (ghaṭākāśa);
+                                       emphasis on DELIMITATION
+                                       associated with VĀCASPATI MIŚRA
+    reflection (pratibimba-vāda) ..... consciousness reflected in ignorance;
+                                       emphasis on DERIVATIVE APPEARANCE and
+                                       phenomenological vividness
+                                       associated with PADMAPĀDA and the VIVARAṆA line
+    semblance (ābhāsa-vāda) .......... the self is a mere SEMBLANCE (ābhāsa);
+                                       emphasis on ONTOLOGICAL THINNESS
+    COMMON CONCLUSION: individuality LACKS ULTIMATE REALITY
+
+  ! TRAP: swapping the names — limitation is Vācaspati Miśra with pot-space,
+    reflection is Padmapāda with the mirrored face.
+
+ASCII MASTER FLOW — PANEL 9/22: The true self, the witness, and the three states
+
+  THE STATE-ANALYSIS ARGUMENT (Advaita)
+    waking (jāgrat) ......... an EXTERNAL object-world is presented
+    dream (svapna) .......... INTERNALLY generated objects are presented
+    deep sleep (suṣupti) .... NO manifest subject-object cognition
+                                   |
+    report on waking: "I slept peacefully; I knew nothing"
+    => presupposes CONTINUITY through deep sleep
+    => supports a WITNESS not identical with any particular mental mode
+                                   |
+    the FOURTH standpoint (turīya) is NOT a fourth episode after the three;
+    it is the non-dual consciousness that UNDERLIES and ILLUMINES all three
+                                   |
+    ! HONEST QUALIFICATION: this is an argument WITHIN Advaita, not a neutral proof.
+      Rāmānuja and Nyāya retain an ENDURING SELF while REJECTING its identity with
+      the non-dual absolute. The argument establishes an enduring witness more
+      securely than it establishes identity.
+
+  WITNESS-CONSCIOUSNESS (sākṣī) — WHAT IT IS AND IS NOT
+    + illumines all mental states, never altered by them
+    + pleasure, pain, doubt, memory, desire are WITNESSED, not essential to it
+    + not a passive blank but the CONDITION for all experience
+    + self-luminous (svayaṃ-prakāśa): manifestation belongs to consciousness as its
+      very nature
+    - NOT one more knower sitting inside the person
+    => Advaita's elegant split: CHANGING PSYCHOLOGY vs CHANGELESS CONSCIOUSNESS
+    => episodic cognitions, objects and the empirical knower remain INSIDE the
+      subject-object structure
+
+  THREE SETTLEMENTS OF ONE ENDURING SELF
+  +----------------+---------------------------+-------------------------------+
+  | Advaita        | pure consciousness        | IDENTICAL in essence          |
+  | Viśiṣṭādvaita  | real eternal conscious    | INSEPARABLE MODE, not         |
+  |                | self, ATOMIC (aṇu)        | identical                     |
+  | Dvaita         | real eternal dependent    | ETERNALLY DIFFERENT           |
+  |                | self                      |                               |
+  +----------------+---------------------------+-------------------------------+
+
+  RĀMĀNUJA'S MECHANISM — how an ATOMIC self knows a WIDE world
+    substantive knower = ATOMIC (aṇu), self-luminous
+    ATTRIBUTIVE CONSCIOUSNESS (dharma-bhūta-jñāna) = its quality, which REVEALS
+    objects · CONTRACTS under karmic obstruction · EXPANDS without obstruction in
+    liberation
+    => atomic size does NOT confine cognitive range
+    in deep sleep the self PERSISTS, but object-manifesting cognition is UNEXPRESSED
+    because no object is presented
+
+  WHY THIS DECIDES EVERYTHING DOWNSTREAM
+    self IS the absolute ............ liberation = RECOGNITION
+    self is a MODE of it ............ liberation = COMMUNION
+    self is permanently DIFFERENT ... liberation = ETERNAL SERVICE
+
+ASCII MASTER FLOW — PANEL 10/22: The individual self — three non-dual models, two realist rivals
+
+  MARK THIS FIRST
+    true self (ātman) ..... the self in its ESSENTIAL metaphysical nature
+    individual (jīva) ..... the EMBODIED empirical individual in bondage, agency and
+                            transmigration
+    => many answers improve immediately just by stating this distinction
+
+  ADVAITA — three models, one conclusion (see Panel 8 for the images)
+    limitation ....... the absolute appears as individual when DELIMITED by ignorance
+                       or internal adjuncts; NOT a real fragment — apparent limitation
+                       alone produces plurality
+    reflection ....... the individual is the REFLECTION of consciousness in ignorance;
+                       explains dependence AND phenomenological individuality
+    semblance ........ the individual is a MERE SEMBLANCE; pushes derivative status
+                       further than reflection
+    => naming all three shows INTERNAL PLURALITY without losing the shared conclusion
+
+  VIŚIṢṬĀDVAITA — real conscious mode
+    a REAL conscious MODE (prakāra) of ultimate reality
+    NEITHER an illusion NOR a detached independent substance
+    body-soul analogy (śarīra-śarīrī): depends entirely on God for EXISTENCE, SUPPORT
+    and ACTIVITY
+    ! "body" does NOT mean gross physical body; it means THAT WHICH IS CONTROLLED,
+      SUSTAINED AND USED by an indwelling self
+
+  DVAITA — real distinct dependent substance
+    never reducible to God · never a mere mode · never illusory
+    difference AMONG individuals is ALSO real
+    taxonomy: eternally free (nitya) · liberated (mukta) · bound (baddha)
+    bound souls further described as liberation-eligible (mukti-yogya) · eternal
+    transmigrators (nitya-saṃsārin) · darkness-eligible (tamo-yogya)
+    ! a REAL Madhva doctrine, but NOT needed in every fivefold-difference answer.
+      Use it where hierarchy, grace or differentiated liberation is relevant, and
+      EVALUATE its severe ethical implications rather than reporting predestination
+      casually.
+
+  COMPACT STATEMENT BANK — use verbatim
+    Advaita ......... the individual is the absolute APPEARING FINITE through ignorance
+    Viśiṣṭādvaita ... the individual is a REAL CONSCIOUS MODE of the absolute
+    Dvaita .......... the individual is a REAL DEPENDENT SELF ETERNALLY DIFFERENT
+                      from God
+
+  PYQ ANCHORS: 2021 Q8(c) Madhva's individual and world · 2022 Q8(a) the ontological
+  status of Lord, individual and witness · 2020 Q8(c) individual and witness
+
+ASCII MASTER FLOW — PANEL 11/22: The world — three levels of reality and three verdicts
+
+  THE THREE LEVELS OF REALITY (Advaita)
+    ULTIMATE (pāramārthika) ..... the absolute alone; NEVER SUBLATED (trikālābādhita)
+    EMPIRICAL (vyāvahārika) ..... the world, the Lord and individual selves — VALID,
+                                  coherent, PUBLIC, law-governed, INTERSUBJECTIVE;
+                                  sublated only by knowledge of the absolute
+    APPARENT (prātibhāsika) ..... dream, rope-snake, shell-silver — PRIVATE, cancelled
+                                  within empirical experience itself
+    => the world is denied ABSOLUTE reality, NOT empirical functioning
+    => DEPENDENTLY REAL (mithyā) ≠ WHOLLY NON-EXISTENT (tuccha, e.g. a hare's horn)
+    => sublation (bādha) is what GRADES the three levels
+
+  THREE VERDICTS ON THE WORLD
+    ADVAITA ......... APPARENT TRANSFORMATION (vivarta); the rope-snake substrate is
+                      real, the appearance dependent and sublatable; mithyā not tuccha
+    VIŚIṢṬĀDVAITA ... the world is REAL and forms the NON-CONSCIOUS (acit) dimension
+                      of the absolute's BODY; creation is a real manifestation
+                      involving the non-conscious mode (prakṛti); cause-state SUBTLE,
+                      effect-state GROSS; because effects are real, the universe is a
+                      MEANINGFUL FIELD of duty, devotion and divine manifestation
+    DVAITA .......... the world is REAL; dependence does NOT cancel distinctness;
+                      God is its EFFICIENT governor, dependent primordial matter its
+                      MATERIAL cause; matter is NOT absorbed into identity by
+                      knowledge => the STRONGEST realist posture among the three
+
+  ŚAṄKARA vs RĀMĀNUJA ON WORLD-STATUS — asked 2021 Q8(b), 15 marks
+  +----------------------+--------------------------+---------------------------+
+  | ISSUE                | ŚAṄKARA                  | RĀMĀNUJA                  |
+  +----------------------+--------------------------+---------------------------+
+  | reality of the world | mithyā, dependent        | real manifestation        |
+  |                      | appearance               |                           |
+  | change in the        | DENIED                   | ACCEPTED in a qualified   |
+  | absolute             |                          | sense, through modes      |
+  | soteriology          | world SUBLATED in        | world MEANINGFUL in       |
+  |                      | knowledge                | devotion                  |
+  | God-world relation   | empirical                | intrinsic BODY-SOUL       |
+  |                      |                          | relation                  |
+  +----------------------+--------------------------+---------------------------+
+    EVALUATIVE LINE: Śaṅkara protects ABSOLUTENESS by reducing world-status;
+                     Rāmānuja protects WORLD-STATUS by qualifying absoluteness.
+    SHARED GROUND (state it first): total dependence on the absolute · no second
+    independent principle · scripture as final authority
+
+  MADHVA ON INDIVIDUAL AND WORLD — asked 2021 Q8(c), 15 marks
+    both are REAL and DISTINCT from God · difference is not merely practical but
+    METAPHYSICAL · prepares directly for FIVEFOLD DIFFERENCE (Panel 20)
+
+  ! TRAP: equating mithyā with tuccha converts a graded ontology into nihilism.
+
+ASCII MASTER FLOW — PANEL 12/22: Apparent transformation versus real transformation
+
+  THE CAUSATION FORK — asked 2022 Q5(e), 10 marks:
+  "Do you agree that Vivartavāda is the logical development of Pariṇāmavāda?"
+
+  SĀṂKHYA .... REAL transformation (pariṇāma-vāda): the effect is a REAL MODIFICATION
+               of the cause .................... MILK => CURD
+  ADVAITA .... APPARENT transformation (vivarta): the substrate is UNCHANGED and the
+               effect is a SUBLATABLE APPEARANCE .... ROPE => SNAKE
+
+  ARGUMENT FOR "logical development"
+    both refuse production FROM NOTHING and both make the effect CAUSE-DEPENDENT
+    if the cause is the ABSOLUTE, and the absolute admits NO real modification,
+    then the effect cannot be equally real AS TRANSFORMATION
+    => transformation must be only APPARENT: not pariṇāma but vivarta
+    => vivarta PRESERVES causal dependence while PREVENTING real change in the absolute
+
+  ARGUMENT AGAINST
+    real transformation and apparent transformation assign CONTRARY ONTOLOGICAL STATUS
+    to the effect
+    what real transformation MOST INSISTS ON — genuine change in the cause — is
+    precisely what apparent transformation ABANDONS
+    => a doctrine that denies the core commitment of another is a REJECTION, not a
+      completion
+
+  GRADED VERDICT — the mark-winning line
+    apparent transformation DEVELOPS the search for an effect DEPENDENT on its cause,
+    but ABANDONS real transformation's central commitment to REAL transformation.
+    AGREEMENT IS STRUCTURAL; DISAGREEMENT IS ONTOLOGICAL.
+
+  FIVE-POSITION TRANSFORMATION BANK (one line each, high comparative value)
+    Advaita ......... APPARENT transformation — substrate unchanged, effect sublatable
+    Sāṃkhya ......... REAL transformation of primordial matter
+    Rāmānuja ........ REAL transformation OF MODES; essence uncorrupted
+    Nimbārka ........ REAL transformation of the absolute's DEPENDENT POWERS
+    Vallabha ........ UNCHANGED REAL MANIFESTATION (avikṛta-pariṇāma) — effect real,
+                      cause unaltered; NEITHER vivarta NOR ordinary pariṇāma
+
+  ! TRAP: answering "yes" or "no" flatly. The word in the stem is DEVELOPMENT, and it
+    is the graded verdict that is being tested.
+
+ASCII MASTER FLOW — PANEL 13/22: Illusion, ignorance, two indescribabilities, the locus problem
+
+  TWO SENSES OF INDESCRIBABILITY — asked 2018 Q5(c), 10 marks
+  +---------------------------------------+---------------------------------------+
+  | ULTIMATE REALITY (brahman)            | INDESCRIBABLE ILLUSION (māyā)         |
+  +---------------------------------------+---------------------------------------+
+  | non-dual, non-objectifiable reality   | appearance that CANNOT BE CLASSIFIED  |
+  | EXCEEDS limiting subject-predicate    | as ultimately real (it is SUBLATED)   |
+  | description                           | NOR as sheer non-being (it is         |
+  |                                       | EXPERIENCED)                          |
+  | does NOT mean uncertain reality       | DOES mean indeterminate ontological   |
+  |                                       | status                                |
+  | the UNSUBLATED reality BECAUSE OF     | a DEPENDENT and SUBLATABLE            |
+  | which description and experience are  | explanatory principle                 |
+  | possible                              |                                       |
+  | => a SURPLUS: too real to be predicated| => an INDETERMINACY: falls BETWEEN the |
+  |                                       |   two ultimate ontological heads      |
+  +---------------------------------------+---------------------------------------+
+    X THE TWO USES ARE NOT IDENTICAL
+    ! critical add-on: realist schools accept the absolute's TRANSCENDENCE far more
+      readily than they accept an alleged THIRD ONTOLOGICAL STATUS for illusion
+
+  TWO POWERS OF ILLUSION
+    concealment (āvaraṇa-śakti) ..... HIDES the absolute's true nature
+    projection (vikṣepa-śakti) ...... THROWS UP the world of names and forms
+    => together they explain how ignorance can both COVER and FABRICATE
+    => they reappear as the TWO COMPONENTS of superimposition (Panel 16)
+
+  ILLUSION AND IGNORANCE — IDENTITY OR DISTINCTION?  (? genuinely non-uniform)
+    ? some formulations treat them as broadly INTERCHANGEABLE
+    ? others: illusion = COSMIC / OBJECTIVE, associated with the LORD
+              ignorance = INDIVIDUAL / SUBJECTIVE, associated with the INDIVIDUAL
+    + both are usually regarded as INDESCRIBABLE
+    => EXAM FORMULA: state the distinction carefully AND note that usage varies
+
+  IGNORANCE (avidyā) IN THE THREE SCHOOLS
+    ADVAITA ......... BEGINNINGLESS (anādi) yet TERMINABLE (sānta) by knowledge; NOT
+                      eternal as the absolute is eternal; POSITIVE IN FORM
+                      (bhāva-rūpa), else it could not both conceal and project;
+                      through it the self identifies with body, mind, senses,
+                      DOERSHIP and ENJOYERSHIP => empirical existence is structured by
+                      ignorance, NOT by a real transformation of the self
+    VIŚIṢṬĀDVAITA ... NO indescribable cosmic principle; REAL ignorance of God's
+                      nature and of the soul's dependence; tied to karma; removed by
+                      right knowledge with devotion and especially SELF-SURRENDER
+                      (prapatti)
+    DVAITA .......... ignorance is REAL; not a metaphysical veil over identity;
+                      overcome by correct knowledge, devotion and divine GRACE
+                      => Madhva's realism preserves stronger continuity between
+                        ignorance, ethics, devotion and salvation
+
+  THE LOCUS-AND-OBJECT PROBLEM (āśraya / viṣaya)
+    whose is ignorance?
+      in the INDIVIDUAL => CIRCULAR, since the individual arises WITHIN ignorance
+      in the ABSOLUTE => the absolute appears COMPROMISED
+    => the doorway to Rāmānuja's seven objections (Panels 14-15)
+
+  ! TRAP: flattening illusion and ignorance into a synonym-pair, OR asserting the
+    distinction as universal. State it, then record the variation.
+
+ASCII MASTER FLOW — PANEL 14/22: The seven objections, part one — locus to indefinability
+
+  RĀMĀNUJA'S SEVENFOLD CHARGE (sapta-anupapatti / sapta-vidhā-anupapatti)
+  asked 2025 Q5(d), 10 marks · names and sequence VARY slightly across expositions
+
+  1 LOCUS (āśraya-anupapatti) — untenable locus of ignorance
+    OBJ ..... in the absolute => it ceases to be pure consciousness;
+              in the individual => the individual is itself a PRODUCT of ignorance
+              => MUTUAL DEPENDENCE (anyonyāśraya)
+    REPLY ... VIVARAṆA: the absolute is the LOCUS (āśraya) WITHOUT being modified or
+              tainted, since ignorance is not a real modification of it
+    REPLY ... BHĀMATĪ: ignorance is located in the individual, and the
+              individual-ignorance relation is BEGINNINGLESS (anāditva); a
+              beginningless seed-sprout dependence is not automatically vicious
+    RESIDUE . THE HARDEST OBJECTION: two Advaita sub-schools give TWO DIFFERENT
+              answers, which is itself a dialectical opening
+
+  2 CONCEALMENT (tirodhāna-anupapatti)
+    OBJ ..... the absolute is SELF-LUMINOUS (svayaṃ-prakāśa); to conceal it is to
+              destroy its very nature as light / consciousness
+    REPLY ... ignorance does not conceal the absolute AS SUCH; it conceals it AS
+              RECOGNISED BY the individual, and the concealment is itself only
+              apparent from the standpoint of ignorance
+    EXAMPLE . a CLOUD does not extinguish the SUN; it obstructs the VIEWER'S vision
+    RESIDUE . the analogy helps against literal concealment, but one may still ask
+              how ANY obstruction arises when the absolute alone is ultimately real
+
+  3 NATURE (svarūpa-anupapatti)
+    OBJ ..... the nature of ignorance is incoherent if it is NEITHER real NOR unreal
+    REPLY ... the being / non-being / indescribable TRICHOTOMY: experienced => not
+              non-being; sublated => not being; therefore INDESCRIBABLE
+    RESIDUE . works ONLY if SUBLATABILITY is accepted as a criterion of degrees of
+              reality — which realist schools DENY OUTRIGHT
+
+  4 INDEFINABILITY (anirvacanīyatva-anupapatti)
+    OBJ ..... whatever exists must be real or unreal; a THIRD CATEGORY is a refusal
+              to answer, and seems to violate the excluded middle
+    REPLY ... the contrast is NOT being versus non-being as bare contradictories but
+              ONTOLOGICAL GRADES measured by sublatability; and the claim is not that
+              illusion lacks a determinate nature altogether, only that it cannot be
+              filed under EITHER ultimate head
+    REPLY ... TU QUOQUE: Rāmānuja's NON-CONSCIOUS (acit), real-but-dependent BODY of
+              the absolute, ALSO occupies a status that is neither independent
+              absolutism nor non-being
+    RESIDUE . Rāmānuja and Madhva call this VERBAL unless the third grade is
+              INDEPENDENTLY GROUNDED by a means of valid knowledge
+
+ASCII MASTER FLOW — PANEL 15/22: The seven objections, part two — and the realist alternative
+
+  5 MEANS OF KNOWING (pramāṇa-anupapatti)
+    OBJ ..... perception gives an OBJECT, not a positive ignorance; inference lacks a
+              valid mark; scripture does not straightforwardly teach a POSITIVE
+              INDEFINABLE ENTITY
+    REPLY ... WITNESS-PERCEPTION (sākṣi-pratyakṣa): the immediate experience
+              "I DO NOT KNOW" presents ignorance POSITIVELY, not as blank absence
+    REPLY ... POSTULATION (arthāpatti): if knowledge REMOVES bondage, there must be
+              something POSITIVE to remove
+    REPLY ... scripture itself teaches illusion / ignorance as a DEPENDENT POWER
+              responsible for appearance
+    RESIDUE . Rāmānuja: "I do not know" reports an ABSENCE of knowledge, not a
+              mysterious positive entity => with (1), THE MOST DANGEROUS OBJECTION
+
+  6 REMOVER (nivartaka-anupapatti)
+    OBJ ..... what KIND of knowledge removes ignorance? Qualityless knowledge seems
+              CONTENTLESS; determinate knowledge is itself WITHIN ignorance
+    REPLY ... UNDIVIDED-FORM MENTAL MODE (akhaṇḍākāra-vṛtti): the great-sentence-
+              generated cognition that takes the absolute as content by SUBLATING all
+              limiting adjuncts
+    REPLY ... knowledge does NOT act on ignorance as one object acts on another; TRUE
+              cognition SUBLATES the false, then the mental mode SUBSIDES like the
+              stick consumed in the fire it stirs
+    RESIDUE . strong inside Advaita's LADDER-MODEL; a critic still asks how a mental
+              mode WITHIN the empirical order can TERMINATE that order
+    ! ATTRIBUTION: the undivided-form mental mode is a LATER systematic explanation;
+      do not present it as Śaṅkara's verbatim formula
+
+  7 CESSATION (nivṛtti-anupapatti)
+    OBJ ..... if ignorance is REAL it cannot be removed; if UNREAL there is nothing to
+              remove; and if removed, the status of its CESSATION is obscure
+    REPLY ... cessation is NOT a fifth entity produced after ignorance; it is simply
+              the absolute REMAINING AS IT ALWAYS WAS once superimposition is sublated
+    EXAMPLE . asking where ignorance WENT is like asking where the SNAKE went when the
+              ROPE was recognised
+    RESIDUE . elegant IF superimposition is granted; QUESTION-BEGGING if the opponent
+              rejects the rope-snake model for world-experience
+
+  FORCE OF THE SEVEN — three levels of attack
+    (a) the STATUS of ignorance
+    (b) the POSSIBILITY of concealment and projection
+    (c) the COHERENCE of liberation as removal of ignorance
+    => Advaita answers MOST convincingly where SUBLATION-LOGIC applies — CESSATION and
+      CONCEALMENT; it is MOST VULNERABLE on LOCUS and MEANS OF KNOWING, because the
+      locus and proof of ignorance are not settled without granting Advaita's own
+      standpoint
+    => the seven are NOT a list; they are a systematic attack on the EXPLANATORY COST
+      of making the world indescribable
+
+  RĀMĀNUJA'S POSITIVE ALTERNATIVE — what replaces illusion-doctrine
+    INSEPARABLE DEPENDENCE (apṛthaksiddhi) ... conscious (cit) and non-conscious
+      (acit) are INSEPARABLE from the absolute yet REALLY DISTINCT as MODES
+    BODY-SOUL RELATION (śarīra-śarīrī-bhāva) ... world and selves are the absolute's
+      BODY; the absolute is their INDWELLING CONTROLLER
+    ERROR-THEORY: APPREHENSION OF THE REAL (satkhyāti) ... cognition is ALWAYS of the
+      real; error is mistaking ONE REAL FOR ANOTHER
+    MECHANISM: ELEMENTAL INTERMIXTURE (pañcīkaraṇa / trivṛtkaraṇa) — every object
+      contains a portion of every element, so a REAL silver-element in the shell can
+      be misapprehended
+
+  DVAITA'S POSITION
+    does NOT accept illusion in the Advaita sense of ontological illusion; the world
+    is REAL and ignorance is REAL ignorance
+    error = APPREHENSION OTHERWISE, NEWLY ANALYSED (abhinava-anyathā-khyāti)
+    Madhva's critique is SHARPER in one respect: it does not try to absorb plurality
+    into qualified unity but makes REAL DIFFERENCE FUNDAMENTAL
+
+  THE 2018 PRINTED ANOMALY — Q7(c), 15 marks
+    the paper asks how Rāmānuja REFUTES illusion AND why illusion is "NEEDED BY BOTH".
+    The second sentence is philosophically unusual and is RETAINED AS PRINTED.
+    ROUTE: FLAG the anomaly · state that Rāmānuja REJECTS Advaitic illusion · read the
+    demand as comparing HOW EACH SYSTEM EXPLAINS PLURALITY — Śaṅkara by a sublatable
+    indescribable power, Rāmānuja by REAL INSEPARABLE MODES.
+    ! do NOT rationalise it into a false doctrine; do NOT skip the printed demand.
+
+ASCII MASTER FLOW — PANEL 16/22: Superimposition, the four error-theories, the ledger
+
+  SUPERIMPOSITION (adhyāsa) — Śaṅkara's opening move
+    definition ... MUTUAL superimposition of subject and object
+    shorthand .... ATASMIN TAD-BUDDHIḤ — cognition of one thing in what is NOT that
+    fuller ....... attributes of the OBJECT put on the SUBJECT, and vice versa
+    character .... NATURAL (naisargika) and BEGINNINGLESS (anādi)
+                   => ordinary life is ALREADY structured by misidentification BEFORE
+                     any philosophical reflection
+    components ... CONCEALMENT (āvaraṇa) hides the true nature ·
+                   PROJECTION (vikṣepa) throws up the false appearance
+                   (mirrors the two powers of illusion — Panel 13)
+    root of all empirical dealing (vyavahāra):
+      "I am tall" · "I am happy" · "I act" · "I know"
+      => bodily and mental predicates FALSELY ATTRIBUTED to the self, and consciousness
+        falsely attributed to body and mind
+      => worldly experience is not OCCASIONALLY mistaken; it is STRUCTURALLY pervaded
+    examples ..... ROPE-SNAKE · SHELL-SILVER · DESERT-MIRAGE
+    PROCESS vs STATUS: superimposition is the PROCESS; indescribable-error theory
+      states the STATUS of the object thereby presented => CONNECT, never CONFUSE
+    comparative force: for NYĀYA error is wrong cognition OF OBJECTS; for ADVAITA the
+      EGOIC STANDPOINT ITSELF is already infected by primordial superimposition
+
+  THE PROBLEM OF ERROR — asked 2021 Q7(a), 20 marks, "critically discuss"
+  +------------------+------------------------------------------------------------+
+  | NYĀYA            | APPREHENSION OTHERWISE (anyathā-khyāti): the silver is REAL |
+  |                  | silver known ELSEWHERE, wrongly connected with this locus   |
+  | ADVAITA REFUTES  | sublation takes the form "THIS IS A SHELL" and cancels the  |
+  |                  | silver AT THAT VERY LOCUS; it does NOT relocate it. Had it  |
+  |                  | been real silver merely misconnected, correction would      |
+  |                  | dissolve a RELATION, not annihilate OBJECTHOOD so radically.|
+  |                  | Also, the illusory silver is PRACTICALLY EFFECTIVE — one    |
+  |                  | reaches for it — which a bare memory-image should not be.   |
+  | VIŚIṢṬĀDVAITA    | APPREHENSION OF THE REAL (satkhyāti) + elemental            |
+  |                  | intermixture supplies a REAL silver-element in the shell    |
+  | BUDDHIST         | APPREHENSION OF THE NON-EXISTENT (asat-khyāti) — REJECTED:  |
+  |                  | the illusory silver APPEARS, and sheer non-being cannot     |
+  | ADVAITA          | INDESCRIBABLE-ERROR THEORY (anirvacanīya-khyāti):           |
+  |                  | REAL? then it would survive sublation — it does not         |
+  |                  | UNREAL? then it could never appear — but it did             |
+  |                  | => dependent, provisional, INDESCRIBABLE status              |
+  +------------------+------------------------------------------------------------+
+
+  PRESUPPOSITION-LED DEFENCE OF INDESCRIBABILITY — the 20-mark spine
+    P1 .. being (sat) / non-being (asat) / indescribable are EXHAUSTIVE and MUTUALLY
+          EXCLUSIVE grades within Advaita's scheme
+    D  .. sat = NEVER SUBLATED (trikālābādhita) · asat = NEVER PRESENTED at all
+          (hare's horn, square circle) · anirvacanīya = PRESENTED, then SUBLATED
+    A  .. illusion and world fall in the THIRD grade
+    P2 .. SUBLATION (bādha) is the criterion of degrees of reality
+    A  .. without bādha the three-tier scheme COLLAPSES into realism or nihilism
+    P3 .. experience of an object gives it SOME positive status
+    A  .. hence Advaita prefers indescribable-error theory over asat-khyāti
+    P4 .. ignorance is POSITIVE IN FORM (bhāva-rūpa), not merely privative
+    A  .. a bare absence could not perform BOTH concealment AND projection
+    OBJ . "indescribable" seems to violate the excluded middle
+    REP . the trichotomy is GRADES of sublatability, not bare contradictories
+    RES . Rāmānuja and Madhva call it VERBAL unless the third grade is independently
+          established
+    NOTE  ŚRĪHARṢA's strategy in the Khaṇḍanakhaṇḍakhādya is DIALECTICAL, not
+          constructive: he refuses a positive definition of the real and shows that
+          the opponent's definitions FAIL
+
+  CRITICAL LIMIT: the refutation establishes an ANOMALY for Nyāya rather than a PROOF
+  of the third grade — the Naiyāyika can reply that cancellation removes only the
+  WRONG CONNECTION.
+
+ASCII MASTER FLOW — PANEL 17/22: The great sentence "that thou art"
+
+              TAT   TVAM   ASI    —   "THAT   THOU   ART"
+                    asked 2023 Q5(c), 10 marks
+  +---------------------------------+---------------------------------------------+
+  | TAT ("that")                    | TVAM ("thou")                               |
+  +---------------------------------+---------------------------------------------+
+  | DIRECT MEANING (vācyārtha)      | DIRECT MEANING (vācyārtha)                  |
+  | the LORD (īśvara) associated    | the INDIVIDUAL (jīva) associated with       |
+  | with illusion: OMNISCIENT ·     | ignorance and limitation: FINITE ·          |
+  | REMOTE · COSMIC CAUSE · LORDSHIP| IMMEDIATE · AGENT · IGNORANT                |
+  +---------------------------------+---------------------------------------------+
+  | IMPLIED MEANING (lakṣyārtha)    | IMPLIED MEANING (lakṣyārtha)                |
+  | PURE CONSCIOUSNESS              | PURE CONSCIOUSNESS                          |
+  +---------------------------------+---------------------------------------------+
+                    |
+    the DIRECT meanings CONFLICT: omniscience, lordship and cosmic causality cannot
+    literally be identical with finitude, ignorance and empirical agency
+                    |
+    PART-ABANDONING IMPLICATION (bhāga-tyāga-lakṣaṇā)
+    = ABANDONING-AND-RETAINING IMPLICATION (jahad-ajahal-lakṣaṇā)
+      ► ABANDON the incompatible portions of BOTH direct meanings
+      ► RETAIN the COMMON IMPLIED MEANING
+                    |
+                    v
+    IDENTITY AT THE LEVEL OF ESSENCE, not crude sameness of empirical conditions
+
+  THE CANONICAL PARALLEL
+    so'yaṃ devadattaḥ — "THIS is THAT Devadatta"
+    drop: then / there / youth        drop: now / here / age
+    keep: THE IDENTICAL PERSON
+    => likewise the Lord-individual contradiction is resolved by dropping ADJUNCTS
+      (upādhi) and retaining underlying CONSCIOUSNESS
+    => implication (lakṣaṇā) is a RECOGNISED semantic operation; Advaita claims only
+      that THIS sentence needs the MIXED variety — neither total abandonment
+      (jahal-lakṣaṇā) nor total retention (ajahal-lakṣaṇā)
+
+  THE FOUR STANDARD GREAT SENTENCES (name one; do not recite the list)
+    tat tvam asi · ahaṃ brahmāsmi · prajñānaṃ brahma · ayam ātmā brahma
+
+  RIVAL READINGS
+    VIŚIṢṬĀDVAITA and DVAITA REJECT the identity-reading; for them the great sentences
+    indicate DEPENDENCE, PARTICIPATION or SPECIAL RELATION
+    for Rāmānuja "thou" names a self whose very nature is to be an INSEPARABLE MODE of
+    "that" => the sentence asserts INSEPARABILITY, not sameness
+    => the interpretation of ONE SENTENCE becomes the battleground for the WHOLE
+      architecture of Vedānta
+
+  ! TEXTUAL CAUTION — high value, frequently missed
+    distinguish an UPANIṢADIC GREAT SENTENCE from a later DOCTRINAL SLOGAN.
+    "Brahma satyaṃ jagan-mithyā, jīvo brahmaiva nāparaḥ" — used in the printed 2022
+    question — is a TRADITIONAL ADVAITA SUMMARY, NOT one of the four standard
+    Upaniṣadic great sentences. Quote it as a summary verse and SAY SO.
+
+ASCII MASTER FLOW — PANEL 18/22: Liberation — recognition, communion, service
+
+  ADVAITA — liberation as RECOGNITION — asked 2023 Q7(b), 15 marks
+    definition ... PRĀPTASYA PRĀPTIḤ — attainment of what is ALREADY ATTAINED
+    because ...... the self is ALWAYS the absolute; bondage is IGNORANCE ALONE
+    therefore .... liberation is simply REMOVAL of ignorance through knowledge
+    images ....... a NECKLACE already hanging round one's own neck · the ROPE-SNAKE
+                   correction in which NOTHING is created or destroyed
+    argument ..... if liberation were PRODUCED it would be an EFFECT, and every effect
+                   is impermanent => liberation would be TEMPORARY
+    ONLY KNOWLEDGE LIBERATES
+      action (karma) and worship (upāsanā) PURIFY but do not DIRECTLY produce
+      liberation => rejection of JÑĀNA-KARMA-SAMUCCAYA-VĀDA
+    FOURFOLD QUALIFICATION (sādhana-catuṣṭaya)
+      1 discrimination (viveka) — eternal vs non-eternal
+      2 detachment (vairāgya)
+      3 sixfold discipline (ṣaṭ-sampatti)
+      4 desire for liberation (mumukṣutva)
+    FROM PREPARATION TO STABLE KNOWLEDGE
+      HEARING (śravaṇa) ......... establishes the intended non-dual teaching under a
+                                  competent teacher
+      REFLECTION (manana) ....... removes intellectual doubt; tests against contrary
+                                  reasoning
+      CONTEMPLATION (nididhyāsana) removes entrenched contrary habits of identification
+      pedagogy: SUPERIMPOSITION AND RESCISSION (adhyāropa-apavāda) — provisional
+      distinctions first employed for instruction, then WITHDRAWN
+    LIBERATION WHILE LIVING (jīvanmukti)
+      the body continues by COMMENCED KARMA (prārabdha) — an ARROW ALREADY RELEASED
+      DISEMBODIED LIBERATION (videhamukti) adds NO NEW liberation
+      no new binding karma accrues because DOERSHIP has been dissolved
+
+  VIŚIṢṬĀDVAITA — liberation as COMMUNION
+    recovery of the self's UNOBSTRUCTED nature, LIKENESS to God, eternal loving
+    communion and service WITHOUT numerical identity; the liberated self remains REAL
+    and DISTINCT
+    disinterested action and scriptural knowledge PREPARE; contemplation matures as
+    DEVOTION (bhakti); SELF-SURRENDER (prapatti / śaraṇāgati) is the INCLUSIVE route;
+    GRACE (prasāda) is indispensable
+    karmic obstruction ENDS; ATTRIBUTIVE CONSCIOUSNESS (dharma-bhūta-jñāna) becomes
+    UNRESTRICTED
+    X NO Advaitic liberation-while-living in the strict sense: embodiment remains a
+      condition of bondage
+
+  DVAITA — liberation as SERVICE — asked 2022 Q8(c), 15 marks
+    eternal blissful SERVICE of Viṣṇu in Vaikuṇṭha; right knowledge of his supremacy,
+    devotion and GRACE indispensable; difference NEVER abolished
+    GRADATION (tāratamya): released souls do NOT enjoy identical bliss or rank
+    standard sources also classify some bound souls as eternal transmigrators or
+    darkness-eligible — doctrinally supportable, PHILOSOPHICALLY CONTESTED
+
+  MADHVA vs RĀMĀNUJA — the 2022 comparison
+  +-------------------------+----------------------------+------------------------+
+  | ISSUE                   | RĀMĀNUJA                   | MADHVA                 |
+  +-------------------------+----------------------------+------------------------+
+  | shared theistic ground  | real God, soul, world;     | real God, soul, world; |
+  |                         | devotion + grace           | devotion + grace       |
+  | God-self relation       | inseparable MODE / BODY    | DISTINCT dependent     |
+  |                         | of the absolute            | substance, NOT God's   |
+  |                         |                            | body                   |
+  | liberated individuality | retained in communion and  | retained in ETERNAL    |
+  |                         | service                    | DIFFERENCE and service |
+  | knowledge and bliss     | obstruction removed;       | degree follows a REAL  |
+  |                         | attributive knowledge      | HIERARCHY              |
+  |                         | unrestricted               |                        |
+  | equality of the         | alike in essential type;   | retain GRADATION       |
+  | liberated               | NO intrinsic gradation     | (tāratamya)            |
+  | causal background       | efficient AND material     | God efficient;         |
+  |                         | cause through real modes   | primordial matter      |
+  |                         |                            | material               |
+  +-------------------------+----------------------------+------------------------+
+    ! the highest-scoring conclusion is NOT "both are devotional". Rāmānuja resolves
+      plurality through INSEPARABLE QUALIFICATION; Madhva treats QUALITATIVE
+      DIFFERENCE AND HIERARCHY as permanent even in liberation.
+    ! costs differ too: DIVINE SIMPLICITY for Rāmānuja, MORAL UNIVERSALITY for Madhva.
+
+  ONE-LINE SYNTHESIS
+    non-dual ontology ............ liberation as RECOGNITION
+    qualified non-dual ontology .. liberation as COMMUNION
+    dualist ontology ............. liberation as SERVICE
+
+ASCII MASTER FLOW — PANEL 19/22: Inseparable dependence and the body-soul relation
+
+  THE PROBLEM RĀMĀNUJA IS SOLVING
+    ADVAITA .... unity real, plurality appearance => world and devotion downgraded
+    DVAITA ..... plurality real, unity only dependence => non-dual sentences strained
+    RĀMĀNUJA ... can plurality be REAL and yet INSIDE unity?
+
+  INSEPARABLE DEPENDENCE (apṛthaksiddhi)
+    conscious selves (cit) + non-conscious matter (acit)
+      ► exist in an INSEPARABLE relation with ultimate reality
+      ► CANNOT exist or be conceived INDEPENDENTLY of it
+      ► are NOT IDENTICAL with it
+    => the central conceptual instrument by which qualified non-dualism combines UNITY
+      and PLURALITY
+
+  INSEPARABLE QUALIFIER (apṛthaksiddha-viśeṣaṇa)
+    a qualifier that CANNOT STAND APART from the substance it qualifies
+    the attribute is REAL and DISTINCT — but INSEPARABLE
+    STRONGER than a mere conceptual relation · WEAKER than identity
+    ! a MODE is not a PART: parts can be separated, modes cannot
+
+  BODY-SOUL RELATION (śarīra-śarīrī-bhāva) — asked 2024 Q5(e), 10 marks
+    selves and world = the absolute's BODY (śarīra)
+    the absolute = their indwelling SOUL (śarīrin / antaryāmin)
+    THREE CONDITIONS OF BEING A BODY — state ALL THREE; this is the answer's spine
+      1 entirely SUPPORTED by it
+      2 entirely CONTROLLED by it
+      3 exists FOR ITS PURPOSES
+    ! "body" is FUNCTIONAL, not physical: whatever is SUPPORTED, CONTROLLED and USED
+      by an indwelling self — which is why CONSCIOUS SELVES can also be called God's
+      body
+    ! THE ANALOGY IS ASYMMETRIC: an ordinary self is AFFECTED, limited and pained by
+      its body's defects; God's essential auspicious nature is UNTOUCHED. The parallel
+      holds for SUPPORT-CONTROL-PURPOSE and FAILS for VULNERABILITY.
+      => this asymmetry is how "critically discuss" is answered in 2024
+
+  WHAT THE DOCTRINE BUYS
+    preserves NON-DUALITY ...... there is only ONE ultimate substantive whole
+    preserves REAL DIFFERENCE .. cit and acit are GENUINE MODES, not illusory
+    preserves DEVOTION ......... the God-soul relation remains MEANINGFUL
+    => in one stroke it answers Advaita's MONISM and Dvaita's PLURALISM
+
+  MADHVA'S REPLY
+    calling souls God's BODY already concedes too much: a body is an INSTRUMENT of its
+    soul, and a REAL self cannot be another self's instrument without loss of its own
+    substantiality => Madhva keeps DEPENDENCE and DROPS the body-relation
+
+  FORMULA FOR QUICK RECALL
+    Advaita ......... IDENTITY without real plurality
+    Viśiṣṭādvaita ... INSEPARABLE PLURALITY within unity
+    Dvaita .......... ETERNAL PLURALITY with dependence
+
+  ! MAJOR TRAP: apṛthaksiddhi is NOT identity. Do not paraphrase it as "a kind of
+    oneness"; that silently converts an inseparable qualifier into an identity.
+
+ASCII MASTER FLOW — PANEL 20/22: Fivefold difference and Dvaita's realism
+
+  FIVEFOLD DIFFERENCE (pañcavidhabheda) — asked 2020 Q5(d), 10 marks
+  NOT practical distinctions generated by ignorance — METAPHYSICALLY ULTIMATE
+
+    1  jīva-īśvara-bheda ........ soul   vs  God
+    2  jīva-jīva-bheda .......... soul   vs  soul
+    3  jīva-jaḍa-bheda .......... soul   vs  matter
+    4  īśvara-jaḍa-bheda ........ God    vs  matter
+    5  jaḍa-jaḍa-bheda .......... matter vs  matter
+
+  WHAT THE DOCTRINE DOES
+    + directly REJECTS Advaita's claim of IDENTITY
+    + ALSO rejects Rāmānuja's attempt to retain unity through QUALIFIED INSEPARABILITY
+    + difference is NEITHER epistemic NOR merely empirical: it is REAL and ETERNAL
+
+  CONSEQUENCES — where "significance" answers separate from list answers
+    from (1) ... the soul remains ETERNALLY DIFFERENT from God => DEVOTION IS NEVER
+                 TRANSCENDED; it is the PERMANENT FORM of the relation
+    from (2) ... soul-soul difference is real => HIERARCHY AMONG SOULS IS POSSIBLE
+                 => gradation (tāratamya) in liberation, and the severe classifications
+                   of bound souls
+    from (5) ... matter-matter difference is real => the PLURAL WORLD IS ONTOLOGICALLY
+                 ROBUST; no reduction to one substance
+    overall .... God alone INDEPENDENT (svatantra); everything else DEPENDENT
+                 (paratantra) — difference does NOT threaten supremacy, because
+                 supremacy is defined by INDEPENDENCE, not by ABSORPTION
+
+  SUPPORTING APPARATUS
+    ? UNIQUE DIFFERENTIATOR (viśeṣa) — invoked so that real distinctions, e.g. between
+      a substance and its attribute, can be secured WITHOUT requiring a further
+      difference AD INFINITUM. Commonly presented this way; EXPOSITIONS VARY. Without
+      some such device Dvaita faces a REGRESS problem.
+    WITNESS (sākṣin) — the ultimate internal validator of cognition, which for Madhva
+      CONFIRMS real difference rather than dissolving it
+      ! same word as Advaita's witness, OPPOSED metaphysics
+
+  CRITICISM AND REPLY
+    OBJ ..... eternal difference risks ULTIMATE PLURALISM and a hierarchy that offends
+              MORAL UNIVERSALITY; and non-dual Upaniṣadic sentences become harder to
+              read
+    REPLY ... plurality is NOT a defect; it is reality AS CREATED AND SUSTAINED BY GOD,
+              and devotion is STRONGEST when ontological distinction is preserved
+    RESIDUE . the GRADED DESTINY of souls remains the sharpest normative difficulty and
+              should be EVALUATED, not reported casually
+
+  ! TRAP: reducing the doctrine to "difference between God and world" — that much is
+    compatible with qualified non-dualism and proves nothing distinctive.
+
+ASCII MASTER FLOW — PANEL 21/22: The wider Vedānta, and Śaṃkara against Sāṃkhya
+
+  NIMBĀRKA — DUALISTIC NON-DUALISM (dvaitādvaita) · matter asked 2020 Q5(e), 10 marks
+    God, conscious selves (cit) and non-conscious reality (acit) are ALL REAL
+    selves and matter DIFFER from the absolute because they are LIMITED
+    selves and matter are NON-DIFFERENT because they have NO INDEPENDENT EXISTENCE
+    => difference and non-difference are EQUALLY REAL ASPECTS OF ONE RELATION
+    NON-CONSCIOUS REALITY (acit) — the three types demanded in 2020:
+      1 ordinary primordial matter (prākṛta) ..... material nature and its products
+      2 non-prakritic divine substance (aprākṛta)  substance associated with the
+                                                   divine realm / body
+      3 time (kāla)
+      ? terminology and the PLACEMENT OF TIME vary across expositions => STATE the
+        classification adopted; do NOT invent further subtypes
+    matter is NEITHER illusion NOR an independent second absolute: REAL ·
+    TRANSFORMABLE · DEPENDENT — related to the absolute as POWER/ATTRIBUTE to POSSESSOR
+    creation is a REAL TRANSFORMATION of the absolute's DEPENDENT POWERS
+    liberation: knowledge enabled by devotion and grace, WITHOUT destroying
+    individuality
+
+  VALLABHA — PURE NON-DUALISM (śuddhādvaita)
+    the supreme is KṚṢṆA; souls and world are REAL MANIFESTATIONS, not products of an
+    indefinable illusion
+    UNCHANGED REAL MANIFESTATION (avikṛta-pariṇāma): NEITHER merely apparent
+    transformation NOR an ordinary transformation that ALTERS the absolute — the
+    EFFECT IS REAL while the absolute remains UNCHANGED
+    the world remains a DIVINE MANIFESTATION; the cycle of possessive bondage
+    (saṃsāra) arises from ignorance and EGOIC IDENTIFICATION
+    PATH OF GRACE (puṣṭi-mārga): grace, loving devotion and service are CENTRAL, not
+    provisional aids to identity-knowledge
+    ! liberation = PARTICIPATION in Kṛṣṇa's bliss and loving service. Do NOT describe
+      it as the disappearance of the real world or as loss of individuality.
+    ! COST: "real effect from an unaltered cause" needs its own account of how
+      MANIFESTATION differs from MODIFICATION — the position is named clearly and the
+      mechanism is more asserted than argued
+
+  CAITANYA TRADITION — INCONCEIVABLE DIFFERENCE-NON-DIFFERENCE (acintyabhedābheda)
+    Kṛṣṇa, souls and world are REALLY NON-DIFFERENT as dependent divine powers and
+    REALLY DIFFERENT as distinct manifestations
+    "INCONCEIVABLE" (acintya) marks the inability of FINITE REASONING to reduce the
+    relation to identity alone or difference alone
+    ! it is NOT permission for contradiction without doctrine
+    souls remain ATOMIC, REAL and DEPENDENT; the world is a real manifestation of
+    divine EXTERNAL POWER, not an illusion
+    LOVING DEVOTION (bhakti / prema) is the SOLE DIRECT PATH
+
+  FOUR-SCHOOL LIBERATION MATRIX — asked 2018 Q7(a), 20 marks
+  +-----------------+------------------------+---------------+---------------------+
+  | SCHOOL          | METAPHYSICAL RELATION  | DIRECT PATH   | LIBERATED CONDITION |
+  +-----------------+------------------------+---------------+---------------------+
+  | qualified non-  | real inseparable       | devotion or   | unobstructed        |
+  | dualism         | mode / body of the     | surrender     | knowledge, bliss,   |
+  |                 | absolute               | with grace    | communion, service  |
+  |                 |                        |               | WITHOUT identity    |
+  | dualism         | distinct dependent     | knowledge,    | eternal service,    |
+  |                 | reality                | devotion,     | GRADED bliss,       |
+  |                 |                        | grace         | permanent difference|
+  | pure non-       | real UNCHANGED         | grace-        | participation in    |
+  | dualism         | manifestations of      | nourished     | divine bliss and    |
+  |                 | Kṛṣṇa                  | loving        | loving service;     |
+  |                 |                        | devotion      | world NOT sublated  |
+  | inconceivable   | simultaneously         | loving        | eternal loving      |
+  | difference-non- | dependent non-         | devotion      | relation;           |
+  | difference      | difference AND real    | culminating   | INDIVIDUALITY       |
+  |                 | difference             | in divine love| REMAINS             |
+  +-----------------+------------------------+---------------+---------------------+
+    COMMON GROUND ..... theistic devotion and grace
+    DECISIVE DIFFERENCE  whether the soul is an INSEPARABLE MODE, an ETERNALLY
+                        DISTINCT DEPENDENT, a REAL UNCHANGED MANIFESTATION, or an
+                        INCONCEIVABLY DIFFERENT-NON-DIFFERENT POWER
+    ! never collapse this into "all four are devotional"
+
+  ŚAṂKARA AGAINST SĀṂKHYA — THE CHIEF-WRESTLER (pradhāna-malla) DEBATE
+    WHY THE NEAREST RIVAL IS THE MOST DANGEROUS
+      + accepts EFFECT-PRE-EXISTENT-IN-CAUSE (satkāryavāda), as Advaita broadly does
+        in transformed fashion
+      + posits a SINGLE material principle (prakṛti / pradhāna)
+      + makes liberation turn on DISCRIMINATIVE KNOWLEDGE, not ritual
+      - BUT makes that principle UNCONSCIOUS
+    FOUR ARGUMENTS
+      1 THE CAUSE MUST BE CONSCIOUS — the Upaniṣads describe the world-cause as being
+        (sat), KNOWING, WILLING and PURPOSIVE; an unconscious principle cannot satisfy
+        those descriptions
+      2 TELEOLOGY REQUIRES INTELLIGENCE — mere equilibrium and disturbance of the
+        constituents (guṇa) do not explain MEANINGFUL ORDERED creation
+      3 THE WITNESS-MATTER RELATION IS UNINTELLIGIBLE — how does the mere PROXIMITY of
+        an inactive conscious subject (puruṣa) set unconscious matter into purposive
+        motion?
+      4 THE UPANIṢADIC CAUSE IS ONE, NOT DUAL — Sāṃkhya divides the ultimate, so it
+        cannot claim full scriptural support
+    SĀṂKHYA'S REPLY (state it in a 15/20-marker)
+      scriptural appeal is INTERNAL to Vedānta · purposiveness is the CONSTITUTIONAL
+      TENDENCY of matter towards the subject's experience and release · proximity-
+      causation is no more obscure than an UNCHANGING absolute grounding a world it
+      does not enter
+    ! OWNERSHIP: the 2018 Q7(b) question on the Advaita reaction to real transformation
+      is PRIMARY-OWNED BY SĀṂKHYA; Vedānta supplies only the Advaita side
+
+ASCII MASTER FLOW — PANEL 22/22: Consequences, verdicts, PYQ routing and answer architecture
+
+  FIVE CONSEQUENCES OF NON-DUAL ABSOLUTISM — asked 2019 Q8(a), 20 marks
+    THESIS: the absolute ALONE is ultimately real
+    1 WORLD REDUCED TO APPEARANCE ...... dependently real (mithyā), sublatable; NOT
+                                         wholly non-existent
+    2 INDIVIDUALITY AND AGENCY BECOME PROVISIONAL ... moral agency AFFIRMED
+                                         empirically, DENIED ultimacy
+    3 ETHICS AND KARMA BECOME EMPIRICAL  duty, merit, sin, karmic causality remain
+                                         VALID but NOT FINAL => charge of downgrading
+    4 DEVOTION BECOMES PREPARATORY ..... if the Lord is empirical, devotion is
+                                         PEDAGOGIC, not final consummation
+    5 INSTRUMENTS ARE EMPIRICALLY VALID ONLY ... perception, inference and even
+                                         scripture are transcended on realisation
+    ╔══════════════════════════════════════════════════════════════════════════════╗
+    ║ SELF-REFERENTIAL TENSION — where 20-mark answers are won                     ║
+    ║ Is Advaita SELF-DEFEATING, relying on reason and scripture only to           ║
+    ║ subordinate them? Or is this a LADDER-MODEL in which means are valid until   ║
+    ║ the highest insight dawns? (clearing-nut · stick consumed in the pyre)       ║
+    ║ => self-cancellation is ORDERLY because it COINCIDES with the removal of the  ║
+    ║   ignorance that made the instrument necessary                               ║
+    ╚══════════════════════════════════════════════════════════════════════════════╝
+    BALANCED ASSESSMENT: absolutism purchases METAPHYSICAL PURITY at the cost of
+    reclassifying ordinary life as LOWER TRUTH — the highest wisdom to admirers,
+    ontological austerity bought by practical instability to critics.
+    DEFENSIVE REPLY: nothing is ABOLISHED, only RECLASSIFIED.
+
+  CRITICISM BANK WITH REPLIES (reusable in every evaluative paragraph)
+    qualityless absolute unknowable ...... not known as an OBJECT; SELF-REVEALED as
+                                          the ground of knowing
+    illusion self-contradictory .......... empirical contradiction belongs to the level
+                                          generated WITHIN ignorance
+    ethics collapses ..................... binding at the empirical level; RESIDUE:
+                                          ultimate sublation still weakens moral realism
+    bondage inexplicable if self IS the    bondage is ignorance-born SUPERIMPOSITION;
+    absolute ............................. RESIDUE: relocates rather than solves
+    real modes compromise absoluteness ... qualifications express PLENITUDE; a
+                                          qualified whole is absolute if NOTHING lies
+                                          outside it
+    eternal difference risks pluralism ... plurality is CREATED REALITY, not defect;
+                                          devotion strongest when distinction preserved
+    CRYPTO-BUDDHIST CHARGE (pracchanna-bauddha)
+      FAILS as identification: the absolute is POSITIVE and SELF-LUMINOUS, unlike
+      emptiness as ABSENCE OF OWN-BEING; and Advaita ACCEPTS scripture; Śaṃkara
+      REFUTES consciousness-only doctrine in the Brahma-sūtra-bhāṣya
+      SUCCEEDS as pressure: the shared denial of ULTIMATE world-reality remains a
+      polemical pressure-point
+      => ADVAITA IS NOT SUBJECTIVE IDEALISM: the world is not "my idea", it has
+        empirical objectivity and is INTERSUBJECTIVE
+
+  GRADED VERDICT BANK — memorise these three
+    ADVAITA ......... STRONG: most rigorous account of non-duality, self-luminosity,
+                      sublation, liberation as recognition not production
+                      WEAK: world, individuality, ethics and devotion become
+                      lower-order
+                      ? CONTESTED: the LOCUS and PROOF of ignorance
+    VIŚIṢṬĀDVAITA ... STRONG: divine personality, real world, real selves, devotion and
+                      scriptural theism preserved through inseparable dependence
+                      WEAK: real modes press on divine simplicity and changelessness
+                      ? CONTESTED: whether qualification enriches or limits absoluteness
+    DVAITA .......... STRONG: clearest realist basis for devotion, moral responsibility
+                      and a permanent God-soul relation
+                      WEAK: eternal difference risks ultimate pluralism; non-dual
+                      sentences harder to interpret
+                      ? CONTESTED: hierarchy among souls; the unique differentiator
+
+  READY COMPARATIVE CLOSES BY MARKS
+    10 ... Advaita SUBLATES plurality, Viśiṣṭādvaita QUALIFIES unity, Dvaita
+           ABSOLUTISES difference.
+    15 ... Śaṃkara strongest on METAPHYSICAL UNITY, Rāmānuja on RELIGIOUS REALISM,
+           Madhva on DEVOTIONAL DIFFERENCE; judge them by their DIFFERENT CRITERIA OF
+           REALITY.
+    20 ... a three-way contest between SUBLATION, INSEPARABILITY and REAL DIFFERENCE as
+           rival ways of preserving the absolute, world, self and liberation.
+
+  TWENTY-QUESTION ROUTING GRID (2018-2025, all primary-owned)
+    2018 Q5(c) 10 ... two indescribabilities ................ Panels 13
+    2018 Q7(a) 20 ... liberation in four schools ............. Panels 18, 21
+    2018 Q7(c) 15 ... refutation of illusion + printed anomaly  Panels 14, 15, 19
+    2019 Q8(a) 20 ... consequences of absolutism ............. Panel 22
+    2020 Q5(d) 10 ... significance of fivefold difference .... Panel 20
+    2020 Q5(e) 10 ... Nimbārka on matter ..................... Panel 21
+    2020 Q8(c) 15 ... individual and witness ................. Panels 9, 10
+    2021 Q7(a) 20 ... indescribable-error theory ............. Panel 16
+    2021 Q8(b) 15 ... Śaṅkara vs Rāmānuja on the world ....... Panel 11
+    2021 Q8(c) 15 ... individual and world in Madhva ......... Panels 10, 11, 20
+    2022 Q5(e) 10 ... apparent vs real transformation ........ Panel 12
+    2022 Q8(a) 20 ... Lord, individual, witness .............. Panels 7, 8, 9
+    2022 Q8(c) 15 ... Madhva vs Rāmānuja on liberation ....... Panel 18
+    2023 Q5(c) 10 ... the great sentence ..................... Panel 17
+    2023 Q6(a) 20 ... Rāmānuja on Brahman and Īśvara ......... Panels 3, 7
+    2023 Q7(b) 15 ... already-attained liberation ............ Panel 18
+    2024 Q5(e) 10 ... body-soul parallel ..................... Panel 19
+    2025 Q5(d) 10 ... seven objections ....................... Panels 14, 15
+    2025 Q6(b) 15 ... efficient and material cause ........... Panels 4, 12
+    2025 Q8(a) 20 ... original-reflection + soteriology ...... Panel 8
+
+  ANSWER ARCHITECTURE
+    10 MARKS ... define in ONE crisp sentence · place the school · 3-5 doctrinal points
+                 with one technical term · ONE rival contrast line · ONE evaluative
+                 conclusion
+    15 MARKS ... intro naming the issue and schools · doctrine in the primary thinker ·
+                 conceptual mechanism · contrast with ONE rival · assessment ·
+                 conclusion returning to the syllabus term
+    20 MARKS ... frame the central metaphysical issue · primary doctrine in detail ·
+                 internal distinctions and models · criticism from a rival · reply and
+                 evaluative defence · implications for world, self, God, liberation ·
+                 balanced judgement with ONE comparative line
+
+  DIRECTIVE DECODER
+    Discuss ............. define · mechanism · example · one rival contrast · balanced
+    Examine ............. thesis · presuppositions · internal logic · coherence verdict
+    Critically examine .. siddhānta · NAMED pūrvapakṣa · reply · GRADED verdict
+    Analyse ............. break into absolute / self / world / instrument / liberation
+    Evaluate ............ explanatory gain vs unresolved tension: "strong in, weak in"
+    Compare ............. table or paired paragraphs; close with identity /
+                          qualification / difference
+    Distinguish ......... definition · locus · example · consequence for EACH term
+    Elucidate ........... explain THROUGH the example; end by linking to liberation
+    Comment ............. doctrine · one objection · one defence · sharp judgement
+    Bring out ........... derive consequences using "therefore" language
+    Do you agree? ....... partial agreement · reasons · qualification through a rival
+
+  FINAL TRAP LIST
+    1 mithyā is NOT tuccha
+    2 nirguṇa is NOT blankness
+    3 Rāmānuja does NOT accept a qualityless level
+    4 apṛthaksiddhi is NOT identity
+    5 fivefold difference is FIVE, not "God and world"
+    6 illusion and ignorance are not simply identical — state the distinction and the
+      variation
+    7 Madhva's liberated souls are NOT equal — gradation is doctrinal
+    8 liberation-while-living is ADVAITA's, not the realist theisms'
+    9 "Brahma satyaṃ jagan-mithyā" is a SUMMARY VERSE, not a great sentence
+   10 Madhva makes God the EFFICIENT cause only
+   11 the 2018 "Māyā needed by both" sentence is a printed ANOMALY — flag it
+   12 Advaita is NOT subjective idealism

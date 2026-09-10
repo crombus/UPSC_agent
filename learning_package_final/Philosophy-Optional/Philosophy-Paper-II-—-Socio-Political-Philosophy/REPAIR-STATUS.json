@@ -1,0 +1,635 @@
+{
+  "schema_version": 1,
+  "subject": "Philosophy Optional",
+  "section": "Philosophy Paper II — Socio-Political Philosophy",
+  "active": false,
+  "processing_mode": "sequential-one-topic",
+  "next_incomplete": null,
+  "topics": [
+    {
+      "number": 1,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "title": "Social and Political Ideals",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g7",
+      "notes": "Repaired in place; 20 teaching sessions, 32 MCQs with 128 explanations and 32 traps, 14 solved owned PYQs, 6 original Mains models, 12-panel ASCII master, 15-card graphical rail, quick-glance tree chart. Awaiting user review."
+    },
+    {
+      "number": 2,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+      "title": "Sovereignty",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g7",
+      "notes": "Repaired in place; 20 teaching sessions, 32 randomized balanced MCQs with 128 unique option explanations and 32 unique traps, 11 solved owned PYQs, 6 original Mains models, 19-panel ASCII master, 18-card graphical rail, quick-glance tree chart. Awaiting user review."
+    },
+    {
+      "number": 3,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+      "title": "Individual and State",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g6",
+      "notes": "Repaired in place; 20 teaching sessions, 32 randomized balanced MCQs with 128 unique option explanations and 32 unique traps, 9 solved owned PYQs, 6 original Mains models, 25-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review."
+    },
+    {
+      "number": 4,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+      "title": "Forms of Government",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g6",
+      "notes": "Repaired in place; 20 teaching sessions, 32 randomized balanced MCQs with 128 unique option explanations and 32 unique traps, 10 solved owned PYQs, 6 original Mains models, 24-panel ASCII master, 22-card graphical rail, quick-glance tree chart. Awaiting user review."
+    },
+    {
+      "number": 5,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+      "title": "Political Ideologies",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g5",
+      "notes": "Repaired in place; 20 teaching sessions, 32 randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 13 solved owned PYQs, 6 original Mains models, 24-panel ASCII master, 25-card graphical rail, quick-glance tree chart. Awaiting user review."
+    },
+    {
+      "number": 6,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+      "title": "Humanism, Secularism and Multiculturalism",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g5",
+      "notes": "Repaired in place; 20 teaching sessions, 32 randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 16 solved owned PYQs, 6 original Mains models, 22-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review.",
+      "validation": {
+        "checked_on": "2026-09-09",
+        "scope": "standalone workbook PDF running header/footer remediation",
+        "defect": "The workbook PDF carried the learning-session running banner 'UPSC Complete Learning Session' on every page instead of the required workbook chrome.",
+        "resolution": "Re-rendered the same workbook Markdown through the unmodified tools\\markdown_learning_pdf.py renderer at driver level, supplying only its already-supported footer_label argument. No tool source, Markdown or other artifact was changed.",
+        "renderer": "tools\\markdown_learning_pdf.py build_pdf(mode='workbook', variant='learner-v2', standalone_workbook=True, footer_label='UPSC Solved Practice Workbook')",
+        "source_markdown": "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\06-Humanism,-Secularism-and-Multiculturalism\\Solved-Practice-Workbook.md",
+        "output_pdf": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\06-Humanis-6aa41cdb-ralism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+        "workbook_running_chrome": "UPSC Solved Practice Workbook",
+        "running_chrome_pages": "47 of 47",
+        "learning_session_banner_pages": 0,
+        "pages": 47,
+        "pages_before": 47,
+        "bookmarks": 9,
+        "extracted_characters": 168848,
+        "extracted_content_parity": "byte-for-byte identical page-body text against the pre-repair PDF after masking the running chrome; 167,070 normalised characters on both, identical 9-entry outline and identical PDF title metadata",
+        "internal_index": "CONTENTS / WORKBOOK INDEX retained on page 2 with accurate page numbers",
+        "mcqs": 32,
+        "option_explanations": 128,
+        "examiner_traps": 32,
+        "solved_pyqs": 16,
+        "original_mains_models": 6,
+        "blank_or_near_empty_pages": 0,
+        "clipped_or_out_of_page_blocks": 0,
+        "replacement_or_tofu_glyphs": 0,
+        "page_count_plausibility": "47 pages for 168,848 extracted characters, 3,593 characters per page",
+        "protected_file_isolation": "5,038 baselined files across notes\\Final-Learning-Packages Socio-Political, learning_package_final Socio-Political, quick_galance, tools, upsc-ai-kit\\knowledge\\Philosophy and notes\\Philosophy re-hashed after the repair; exactly one changed file, the Topic 06 workbook PDF, and zero violations",
+        "checks_passed": 28,
+        "checks_failed": 0,
+        "files_modified": [
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\06-Humanis-6aa41cdb-ralism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf"
+        ],
+        "workbook_markdown_modified": false,
+        "tools_modified": false,
+        "result": "PASS"
+      }
+    },
+    {
+      "number": 7,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+      "title": "Crime and Punishment",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g8",
+      "notes": "Repaired in place; 20 teaching sessions, 32 independently randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 12 solved owned PYQs, 6 original Mains models, 22-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review.",
+      "validation": {
+        "checked_on": "2026-09-09",
+        "scope": "full Topic 07 repair and revalidation under the locked file set",
+        "defects_repaired": [
+          "Ten teaching sessions rebuilt as twenty, each with the full learner-v2 visual-first block set; free will and determinism, the elements-and-defences ladder, Feinberg, Duff, Foucault, Braithwaite and genocide were previously compressed or merged.",
+          "The 48-question MCQ set with a predictable A->B->C->D rotation and one generic explanation per question was replaced by 32 questions with independently randomised, length-balanced keys, 128 question-specific option explanations and 32 unique examiner traps.",
+          "Three original Mains models were replaced by six (two each at 10, 15 and 20 marks), and every model answer was brought inside its declared word band.",
+          "Reusable template artefacts (internal 'canonical 1.2' references and repeated memory-tag lines) were removed in favour of taught doctrine and named evidence.",
+          "The 12-panel ASCII master was rebuilt as 22 panels covering the complete examinable spine, and the embedded copy in the register notes was made byte-identical to the standalone file.",
+          "The graphical rail was regenerated from the same authored panels, giving 23 cards across seven distinct card layouts instead of a repeated generic card.",
+          "The quick-glance tree chart was rewritten to match both master flows and now carries the custody distinction, the specific-intent test and the classified Indian legal facts."
+        ],
+        "renderers": [
+          "tools\\markdown_learning_pdf.py build_pdf(mode='main', variant='learner-v2')",
+          "tools\\markdown_learning_pdf.py build_pdf(mode='workbook', variant='learner-v2', standalone_workbook=True, footer_label='UPSC Solved Practice Workbook')",
+          "tools\\carvaka_flowchart.py author_topic_spec + render_master + build_poster + build_tiled",
+          "reportlab driver for the paginated ASCII master PDF"
+        ],
+        "source_owners": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Crime-and-Punishment.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+        ],
+        "teaching_sessions": 20,
+        "mcqs": 32,
+        "mcq_key_sequence": "BDACABDACDBCDACBADBCADCBDABCBADC",
+        "mcq_key_balance": "8 A, 8 B, 8 C, 8 D; independently randomized; no consecutive repeat; no ABCD or DCBA run",
+        "mcq_option_length_spread": "within 1.20x per question",
+        "option_explanations": 128,
+        "examiner_traps": 32,
+        "solved_pyqs": 12,
+        "pyq_ledger": "2018 Q1(e) 10, 2019 Q1(d) 10, 2019 Q4(c) 15, 2020 Q3(c) 15, 2020 Q4(c) 15, 2021 Q2(b) 15, 2022 Q1(c) 10, 2022 Q1(e) 10, 2023 Q4(a) 20, 2024 Q3(b) 15, 2025 Q1(a) 10, 2025 Q3(a) 20",
+        "original_mains_models": 6,
+        "register_parts": "A-Q, register notes last, ASCII master embedded byte-identically as part Q",
+        "learning_session_pdf": {
+          "pages": 171,
+          "extracted_characters": 666340,
+          "bookmarks": 61
+        },
+        "workbook_pdf": {
+          "pages": 45,
+          "extracted_characters": 156802,
+          "bookmarks": 9,
+          "standalone": true,
+          "running_chrome": "UPSC Solved Practice Workbook",
+          "running_chrome_pages": "45 of 45",
+          "learning_session_banner_pages": 0
+        },
+        "ascii_flowchart": {
+          "panels": 22,
+          "pdf_pages": 29,
+          "widest_authored_line": 94,
+          "embedded_matches_standalone": true,
+          "pdf_text_matches_authored_text": true
+        },
+        "graphical_flowchart": {
+          "cards": 23,
+          "core_stages": 22,
+          "optional_advanced_cards": 1,
+          "layouts_used": [
+            "columns",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "master_pixels": [
+            4800,
+            25668
+          ],
+          "poster_pages": 1,
+          "poster_points": [
+            2558.2,
+            13680
+          ],
+          "tiled_pages": 9,
+          "poster_identity": "PASS",
+          "tiled_identity": "PASS",
+          "rail_pixels": "PASS"
+        },
+        "blank_or_near_empty_pages": 0,
+        "clipped_or_out_of_page_blocks": 0,
+        "replacement_or_tofu_glyphs": 0,
+        "evidence_discipline": "no year asserted outside 1944, 1948, 1951, 1975, 1977, 1980, 1988, 2013, 2015 and the 2018-2025 corpus; no country, community, party, government, movement, technology or historical episode named; Gandhi and Rawls appear only in routing and trap statements",
+        "protected_file_isolation": "6,103 baselined files across notes\\Final-Learning-Packages Socio-Political, learning_package_final Socio-Political, quick_galance, tools, upsc-ai-kit\\knowledge\\Philosophy and notes\\Philosophy re-hashed after the repair; every change inside the audited scope is a Topic 07 locked artifact and there are zero violations",
+        "concurrent_external_writes": "four quick-glance charts under quick_galance\\Polity and quick_galance\\Economy changed during the session from a concurrent atlas worker in this shared workspace; they belong to other subjects and were not written by this repair",
+        "checks_passed": 70,
+        "checks_failed": 0,
+        "files_modified": [
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\07-Crime-and-Punishment\\Learning-Session.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\07-Crime-and-Punishment\\Solved-Practice-Workbook.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\REPAIR-STATUS.json",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\README.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-07_Tree-Chart.md"
+        ],
+        "tools_modified": false,
+        "manifests_or_shared_trackers_modified": false,
+        "other_topics_modified": false,
+        "result": "PASS"
+      }
+    },
+    {
+      "number": 8,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+      "title": "Development and Social Progress",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g9",
+      "notes": "Repaired in place; 20 teaching sessions, 32 independently randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 6 solved owned PYQs, 6 original Mains models, 22-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review.",
+      "validation": {
+        "checked_on": "2026-09-09",
+        "scope": "full Topic 08 repair and revalidation under the locked file set",
+        "defects_repaired": [
+          "Ten teaching sessions rebuilt as twenty, each with the full learner-v2 visual-first block set; measurement and informational spaces, modernisation's five assumptions, Sen's two halves, Nussbaum's threshold, the four conceptions of progress, redistribution against recognition, the agency ladder and the ecological module were previously compressed or merged.",
+          "The 48-question MCQ set with a predictable A->B->C->D rotation was replaced by 32 questions with independently randomised, length-balanced keys, 128 question-specific option explanations and 32 unique examiner traps.",
+          "The original Mains practice was rebuilt as six models (two each at 10, 15 and 20 marks) and every model answer was brought inside its declared word band.",
+          "The 12-panel ASCII master was rebuilt as 22 panels covering the complete examinable spine, and the embedded copy in the register notes was made byte-identical to the standalone file.",
+          "The graphical rail was regenerated from the same authored panels, giving 23 cards across eight distinct card layouts.",
+          "The register notes were rebuilt as sixteen topic-specific parts A-P, placed last, with the ASCII master embedded byte-identically as part P.",
+          "The quick-glance tree chart was rewritten to match both master flows and now carries the five-rung ladder, the threshold formulation of necessity, the four joint tribal tests and the classified Indian legal facts.",
+          "Every unsourceable measure token was removed; the package now names no index, growth rate, income figure, poverty count, emission quantum, scheme, project, company, movement, region or country anywhere."
+        ],
+        "renderers": [
+          "tools\\markdown_learning_pdf.py build_pdf(mode='main', variant='learner-v2')",
+          "tools\\markdown_learning_pdf.py build_pdf(mode='workbook', variant='learner-v2', standalone_workbook=True, footer_label='UPSC Solved Practice Workbook')",
+          "tools\\carvaka_flowchart.py author_topic_spec + render_master + build_poster + build_tiled",
+          "reportlab driver for the paginated ASCII master PDF"
+        ],
+        "source_owners": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+        ],
+        "teaching_sessions": 20,
+        "mcqs": 32,
+        "mcq_key_sequence": "CADBACBDBACDADCBDCABCBDABDACDBCA",
+        "mcq_key_balance": "8 A, 8 B, 8 C, 8 D; independently randomized; no consecutive repeat; no ABCD or DCBA run",
+        "mcq_option_length_spread": "within 1.20x per question",
+        "option_explanations": 128,
+        "examiner_traps": 32,
+        "solved_pyqs": 6,
+        "pyq_ledger": "2019 Q2(c) 15, 2020 Q2(a) 20, 2022 Q3(a) 20, 2023 Q2(c) 15, 2024 Q3(c) 10+5=15, 2025 Q3(c) 15",
+        "original_mains_models": 6,
+        "register_parts": "A-P, register notes last, ASCII master embedded byte-identically as part P",
+        "learning_session_pdf": {
+          "pages": 150,
+          "extracted_characters": 574587,
+          "bookmarks": 60
+        },
+        "workbook_pdf": {
+          "pages": 38,
+          "extracted_characters": 131687,
+          "bookmarks": 9,
+          "standalone": true,
+          "running_chrome": "UPSC Solved Practice Workbook",
+          "running_chrome_pages": "38 of 38",
+          "learning_session_banner_pages": 0
+        },
+        "ascii_flowchart": {
+          "panels": 22,
+          "pdf_pages": 47,
+          "widest_authored_line": 84,
+          "embedded_matches_standalone": true,
+          "pdf_text_matches_authored_text": true
+        },
+        "graphical_flowchart": {
+          "cards": 23,
+          "core_stages": 22,
+          "optional_advanced_cards": 1,
+          "layouts_used": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "master_pixels": [
+            4800,
+            24914
+          ],
+          "poster_pages": 1,
+          "poster_points": [
+            2635.6,
+            13680
+          ],
+          "tiled_pages": 9,
+          "poster_identity": "PASS",
+          "tiled_identity": "PASS",
+          "rail_pixels": "PASS"
+        },
+        "blank_or_near_empty_pages": 0,
+        "clipped_or_out_of_page_blocks": 0,
+        "replacement_or_tofu_glyphs": 0,
+        "evidence_discipline": "no year asserted outside 1973, 1987, 1996, 1997, 2006, 2013 and the 2018-2025 corpus; no index score, growth rate, income figure, poverty count, emission quantum, target, scheme, project, company, movement, region or country named anywhere; PESA 1996 and the Forest Rights Act 2006 classified as enacted statutes, the 2013 case as a Supreme Court judgment and Articles 48A and 51A(g) as non-justiciable, each used as a dated institutional illustration only",
+        "protected_file_isolation": "6,103 baselined files across notes\\Final-Learning-Packages Socio-Political, learning_package_final Socio-Political, quick_galance, tools, upsc-ai-kit\\knowledge\\Philosophy and notes\\Philosophy re-hashed after the repair; every baseline path still resolves, no untracked file was added, and every change inside the audited scope is a Topic 08 locked artifact",
+        "concurrent_external_writes": "three quick-glance charts under quick_galance\\Economy changed during the session from a concurrent atlas worker in this shared workspace; they belong to another subject and were not written by this repair",
+        "checks_passed": 65,
+        "checks_failed": 0,
+        "files_modified": [
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\08-Development-and-Social-Progress\\Learning-Session.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\08-Development-and-Social-Progress\\Solved-Practice-Workbook.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\REPAIR-STATUS.json",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\README.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\08-Develop-92002af4-ogress\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-08_Tree-Chart.md"
+        ],
+        "tools_modified": false,
+        "manifests_or_shared_trackers_modified": false,
+        "other_topics_modified": false,
+        "result": "PASS"
+      }
+    },
+    {
+      "number": 9,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+      "title": "Gender Discrimination",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g5",
+      "notes": "Repaired in place; 20 teaching sessions, 32 independently randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 12 solved owned PYQs, 6 original Mains models, 22-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review.",
+      "validation": {
+        "checked_on": "2026-09-09",
+        "scope": "full Topic 09 repair and revalidation under the locked file set",
+        "defects_repaired": [
+          "Ten teaching sessions were rebuilt as twenty, each carrying the full learner-v2 visual-first block set; the sex/gender inference claim, Beauvoir's Other, Butler's performativity, category scope, the discrimination mechanism, the diagnoses grid, the derivative/autonomous dispute, structural injustice, the public/private boundary, the sameness/difference dilemma, the three foeticide sessions, the two property sessions and the two empowerment sessions were previously compressed or merged.",
+          "The previous MCQ set was replaced by 32 questions with independently randomised, length-balanced keys, 128 question-specific option explanations and 32 unique examiner traps. No MCQ 33 exists.",
+          "All twelve directly owned 2018-2025 previous-year parts are now solved in full in ledger order with demand decoding, why-this-earns-marks and answer-specific how-to-improve guidance.",
+          "The original Mains practice was rebuilt as six models (two each at 10, 15 and 20 marks), and every model answer was brought inside its declared word band.",
+          "The ASCII master was rebuilt as 22 panels covering the complete examinable spine, and the embedded copy in the register notes was made byte-identical to the standalone file.",
+          "The graphical rail was regenerated from the same authored panels, giving 23 cards across eight distinct card layouts and twelve distinct layout signatures.",
+          "The register notes were rebuilt as eighteen topic-specific parts A-R, placed last, with the ASCII master embedded byte-identically as part R and the Optional-Advanced residue recorded separately inside part Q.",
+          "The quick-glance tree chart was rewritten to match both master flows and now carries the five-level conversion ladder, the four contests, the ordered foeticide architecture, the twenty-three traps and the classified Indian legal record.",
+          "Every unsourceable measure token was removed: the package names no sex ratio, birth count, survey result, ownership percentage, wage gap, representation share, State, district, community or region anywhere."
+        ],
+        "renderers": [
+          "tools\\markdown_learning_pdf.py build_pdf(mode='main', variant='learner-v2')",
+          "tools\\markdown_learning_pdf.py build_pdf(mode='workbook', variant='learner-v2', standalone_workbook=True, footer_label='UPSC Solved Practice Workbook')",
+          "tools\\carvaka_flowchart.py render_package (render_master + build_poster + build_tiled + render_previews)",
+          "reportlab driver for the paginated ASCII master PDF"
+        ],
+        "source_owners": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+        ],
+        "teaching_sessions": 20,
+        "mcqs": 32,
+        "mcq_key_sequence": "DCBDBABCBACDBDCACDACADACBCABDBAD",
+        "mcq_key_balance": "8 A, 8 B, 8 C, 8 D; independently randomized; no consecutive repeat; no ABCD or DCBA run; no two-letter alternation",
+        "mcq_option_length_spread": "within 1.18x per question",
+        "option_explanations": 128,
+        "examiner_traps": 32,
+        "solved_pyqs": 12,
+        "pyq_ledger": "2018 Q4(b) 15, 2018 Q4(c) 15, 2019 Q1(e) 10, 2019 Q3(b) 15, 2020 Q4(a) 20, 2021 Q1(e) 10, 2021 Q4(b) 15, 2022 Q3(b) 15, 2023 Q1(c) 10, 2023 Q3(c) 15, 2024 Q4(a) 20, 2025 Q1(b) 10",
+        "original_mains_models": 6,
+        "register_parts": "A-R, register notes last, ASCII master embedded byte-identically as part R",
+        "learning_session_pdf": {
+          "pages": 177,
+          "extracted_characters": 642877,
+          "bookmarks": 62
+        },
+        "workbook_pdf": {
+          "pages": 45,
+          "extracted_characters": 156432,
+          "bookmarks": 9,
+          "standalone": true,
+          "running_chrome": "UPSC Solved Practice Workbook",
+          "running_chrome_pages": "45 of 45",
+          "learning_session_banner_pages": 0
+        },
+        "ascii_flowchart": {
+          "panels": 22,
+          "pdf_pages": 42,
+          "widest_authored_line": 96,
+          "embedded_matches_standalone": true,
+          "pdf_text_matches_authored_text": true
+        },
+        "graphical_flowchart": {
+          "cards": 23,
+          "core_stages": 22,
+          "optional_advanced_cards": 1,
+          "layouts_used": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "distinct_layout_signatures": 12,
+          "master_pixels": [
+            4800,
+            22228
+          ],
+          "master_dpi": [
+            300,
+            300
+          ],
+          "poster_pages": 1,
+          "poster_points": [
+            2834.64,
+            13126.745399999998
+          ],
+          "tiled_pages": 8,
+          "overlap_px": [
+            520,
+            521
+          ],
+          "previews": 8,
+          "contact_sheets": 2,
+          "overflow_events": [],
+          "poster_identity": "PASS",
+          "tiled_identity": "PASS",
+          "rail_pixels": "PASS"
+        },
+        "markdown_metrics": {
+          "learning_session_characters": 636473,
+          "learning_session_bytes": 642368,
+          "workbook_characters": 156740,
+          "workbook_bytes": 157960,
+          "quick_glance_characters": 37896,
+          "ascii_source_characters": 62071
+        },
+        "blank_or_near_empty_pages": 0,
+        "clipped_or_out_of_page_blocks": 0,
+        "replacement_or_tofu_glyphs": 0,
+        "evidence_discipline": "no year asserted outside 1982, 1988, 1989, 1990, 1994, 2005, 2015, 2020, 2023, 2026 and the 2018-2025 corpus; no sex ratio, birth count, survey result, ownership percentage, wage gap, representation share, State, district, community or region named anywhere; the numeral inside Sen's essay title and the numeral inside Gazette notification S.O. 1922(E) are citations rather than asserted measurements; PCPNDT 1994 classified as an enacted regulatory and penal statute, the Hindu Succession (Amendment) Act 2005 as an enacted amendment, Beti Bachao Beti Padhao 2015 as a Union government programme, Vineeta Sharma (2020) as a Supreme Court judgment, and the Constitution (106th Amendment) Act 2023 as an enacted amendment in force 16 April 2026 with reservation linked to census-based delimitation under Article 334A and seat-level operation pending as checked 3 September 2026; no statute, judgment or programme used as philosophical proof",
+        "protected_file_isolation": "5,038 baselined files across notes\\Final-Learning-Packages Socio-Political, learning_package_final Socio-Political, quick_galance, tools, upsc-ai-kit\\knowledge\\Philosophy and notes\\Philosophy re-hashed after the repair; every baseline path still resolves, no untracked file was added, and every change inside the audited scope is a Topic 09 locked artifact",
+        "concurrent_external_writes": "two quick-glance charts under quick_galance\\Economy changed during the session from a concurrent atlas worker in this shared workspace; they belong to another subject and were not written by this repair",
+        "checks_passed": 62,
+        "checks_failed": 0,
+        "files_modified": [
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\09-Gender-Discrimination\\Learning-Session.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\09-Gender-Discrimination\\Solved-Practice-Workbook.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\REPAIR-STATUS.json",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\README.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\09-Gender-Discrimination\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-09_Tree-Chart.md"
+        ],
+        "tools_modified": false,
+        "manifests_or_shared_trackers_modified": false,
+        "other_topics_modified": false,
+        "result": "PASS"
+      }
+    },
+    {
+      "number": 10,
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+      "title": "Caste Discrimination: Gandhi and Ambedkar",
+      "status": "complete",
+      "approved": false,
+      "repaired_on": "2026-09-09",
+      "generation": "learner-v2:g9",
+      "notes": "Repaired in place; 20 teaching sessions, 32 independently randomized length-balanced MCQs with 128 unique option explanations and 32 unique traps, 9 solved owned PYQs, 6 original Mains models, 22-panel ASCII master, 23-card graphical rail, quick-glance tree chart. Awaiting user review.",
+      "validation": {
+        "checked_on": "2026-09-09",
+        "scope": "full Topic 10 repair and revalidation under the locked file set",
+        "defects_repaired": [
+          "Ten teaching sessions were rebuilt as twenty, each carrying the full learner-v2 visual-first block set; the conceptual grammar, the reproduction engine, the division-of-labourers argument, graded inequality, the body politic, the four dimensions, the three-phase Gandhi periodisation, his five-step argument, his six-instrument method, the four objection chains, the 1916 endogamy mechanism, the 1936 five moves, ranked separation, the triad, constitutional morality, the beyond-reservation grid, the comparison matrix, the 1932 dispute and the affirmative-action apparatus were previously compressed into ten merged sessions.",
+          "Every teaching session previously ended with a raw CANONICAL OWNER COVERAGE dump that pasted the canonical owner verbatim instead of teaching it; all ten dumps were removed and the material was rewritten as taught doctrine, named evidence, paragraph demonstrations and objection-reply-residue chains.",
+          "The Session 1 trap block repeated owner traps 11-20 four consecutive times as residue; the duplication was removed and the twenty traps now appear once, compressed, in register part Q.",
+          "The forty-eight-question MCQ bank used a strict predictable ABCD rotation with short, visually identifiable stems; it was replaced by 32 questions whose keys were fixed independently, with 128 question-specific option explanations, 32 unique examiner traps, an option-length spread within 1.19x per question and no key that is uniquely longest or uniquely shortest.",
+          "The nine owned 2018-2025 previous-year parts previously carried bullet-point answer skeletons rather than answers; all nine are now solved in full prose in ledger order with demand decoding, why-this-earns-marks and answer-specific how-to-improve guidance, each inside its declared word band.",
+          "The original Mains practice was rebuilt from three partial models to six full models, two each at 10, 15 and 20 marks, deliberately covering the conceptual grammar, the division-of-labourers argument, the four dimensions, fraternity in the triad, the village-and-modernity test and the justification of affirmative action, none of which carries a directly owned part.",
+          "A separate 'answer-specific execution and compression upgrades' tail duplicated every solution as a second stub list; it was removed and the compression plan was folded into each solution's why-this-earns-marks block.",
+          "The ASCII master was rebuilt from 12 thin panels to 22 panels covering the complete examinable spine, and the copy embedded in the register notes was made byte-identical to the standalone artifact.",
+          "The graphical rail was regenerated from the same authored spine as a bespoke 23-card package with eight distinct card layouts and fifteen distinct layout signatures, replacing the previous auto-derived 13-card rail whose every stage repeated a generic SOURCE/ARGUMENT/IMPLICATION three-column card.",
+          "The register notes were rebuilt as eighteen topic-specific parts A-R, placed last, with the ASCII master embedded byte-identically as part R and the Optional-Advanced residue recorded separately inside part Q.",
+          "The quick-glance tree chart was rewritten to match both master flows and now carries the four contests, the five separations, the reproduction engine with its intervention map, the periodisation with its residue, the beyond-reservation grid, the 1932 representation dispute, the classified Indian record, the twenty traps and all nine PYQ answer routes.",
+          "A broken cover-image reference to an asset that does not exist inside the learning package was removed from the front matter.",
+          "Evidence discipline was tightened: no caste name, community, region, State, district, population share, literacy figure, land-holding percentage, atrocity count, survey result or dataset is named anywhere, no Poona Pact figure or negotiating detail beyond the substitution, the primary-election mechanism and the increase in reserved seats is asserted, and no year is asserted outside 1916, 1932, 1936, 1956, 1979, 1980, 1989, 1990, 1992, 2019, 2022 and the 2018-2025 corpus."
+        ],
+        "renderers": [
+          "tools\\markdown_learning_pdf.py build_pdf(mode='main', variant='learner-v2')",
+          "tools\\markdown_learning_pdf.py build_pdf(mode='workbook', variant='learner-v2', standalone_workbook=True, footer_label='UPSC Solved Practice Workbook')",
+          "tools\\carvaka_flowchart.py render_master + build_poster + build_tiled + render_previews",
+          "reportlab driver for the paginated ASCII master PDF"
+        ],
+        "source_owners": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+        ],
+        "teaching_sessions": 20,
+        "mcqs": 32,
+        "mcq_key_sequence": "BDACDBCACDBADCABACDBCABDADCBDABC",
+        "mcq_key_balance": "8 A, 8 B, 8 C, 8 D; independently randomized; no consecutive repeat; no ABCD or DCBA run; no two-letter alternation",
+        "mcq_option_length_spread": "within 1.19x per question; no key uniquely longest or shortest",
+        "option_explanations": 128,
+        "examiner_traps": 32,
+        "solved_pyqs": 9,
+        "pyq_ledger": "2018 Q1(c) 10, 2019 Q4(a) 20, 2020 Q3(a) 20, 2021 Q4(a) 20, 2022 Q1(b) 10, 2022 Q2(b) 15, 2023 Q3(b) 15, 2024 Q1(c) 10, 2025 Q2(a) 20",
+        "original_mains_models": 6,
+        "register_parts": "A-R, register notes last, ASCII master embedded byte-identically as part R",
+        "learning_session_pdf": {
+          "pages": 137,
+          "extracted_characters": 519051,
+          "bookmarks": 62
+        },
+        "workbook_pdf": {
+          "pages": 39,
+          "extracted_characters": 136481,
+          "bookmarks": 9,
+          "standalone": true,
+          "running_chrome": "UPSC Solved Practice Workbook",
+          "running_chrome_pages": "39 of 39",
+          "learning_session_banner_pages": 0
+        },
+        "ascii_flowchart": {
+          "panels": 22,
+          "pdf_pages": 39,
+          "widest_authored_line": 80,
+          "embedded_matches_standalone": true,
+          "pdf_text_matches_authored_text": true
+        },
+        "graphical_flowchart": {
+          "cards": 23,
+          "core_stages": 22,
+          "optional_advanced_cards": 1,
+          "layouts_used": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "distinct_layout_signatures": 15,
+          "master_pixels": [
+            4800,
+            22220
+          ],
+          "master_dpi": [
+            300,
+            300
+          ],
+          "poster_pages": 1,
+          "poster_points": [
+            2834.64,
+            13122.02
+          ],
+          "tiled_pages": 8,
+          "overlap_px": [
+            521,
+            522
+          ],
+          "previews": 8,
+          "contact_sheets": 2,
+          "overflow_events": [],
+          "poster_identity": "PASS",
+          "tiled_identity": "PASS",
+          "rail_pixels": "PASS"
+        },
+        "markdown_metrics": {
+          "learning_session_characters": 512468,
+          "workbook_characters": 136275,
+          "quick_glance_characters": 23506,
+          "ascii_source_characters": 57200
+        },
+        "blank_or_near_empty_pages": 0,
+        "clipped_or_out_of_page_blocks": 0,
+        "replacement_or_tofu_glyphs": 0,
+        "evidence_discipline": "no year asserted outside 1916, 1932, 1936, 1956, 1979, 1980, 1989, 1990, 1992, 2019, 2022 and the 2018-2025 corpus; no caste name, community, region, State, district, population share, literacy figure, land-holding percentage, atrocity count, survey result or dataset named anywhere; no Poona Pact figure or negotiating detail asserted beyond the substitution of reserved seats in joint electorates, the primary-election mechanism and the increase in reserved seats; Article 17 classified as a constitutional rule, the 1989 Act as an enacted penal and protective statute in force from 1990, the Second Backward Classes Commission (1979/1980) as a commission report, Indra Sawhney (1992) as a nine-judge Supreme Court judgment cited only for its three recorded holdings, and the Constitution (103rd Amendment) Act 2019 as an enabling amendment inserting Articles 15(6) and 16(6) upheld by a majority in Janhit Abhiyan (2022); no statute, judgment, commission report or amendment used as philosophical proof",
+        "protected_file_isolation": "2803 baselined files across learning_package_final Philosophy-Optional, notes\\Final-Learning-Packages Philosophy Optional, quick_galance\\Philosophy, upsc-ai-kit\\knowledge\\Philosophy and tools were re-hashed after the repair; every changed path is a Topic 10 locked artifact, zero violations were recorded, every baseline path still resolves and no untracked file was added",
+        "baseline_topics_01_09": "hashed before the repair and re-hashed after it; Topics 01-09 of this section are byte-identical in both learning_package_final and notes",
+        "checks_passed": 67,
+        "checks_failed": 0,
+        "files_modified": [
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\10-Caste-Discrimination-Gandhi-and-Ambedkar\\Learning-Session.md",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\10-Caste-Discrimination-Gandhi-and-Ambedkar\\Solved-Practice-Workbook.md",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Tree-Chart.md",
+          "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\10-Caste-ebebb858-bedkar\\README.txt",
+          "learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Socio-Political-Philosophy\\REPAIR-STATUS.json"
+        ]
+      }
+    }
+  ],
+  "section_status": "complete",
+  "section_completed_on": "2026-09-09",
+  "section_completion_note": "All ten Socio-Political Philosophy topics are repaired and validated in place. Every topic remains approved=false pending explicit user review. No global tracker, index, manifest, tool or source file was updated by this repair, and the next section was not started."
+}

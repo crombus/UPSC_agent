@@ -1,94 +1,1076 @@
-ASCII MASTER FLOW — PANEL 1/12: Self / Other Construction
-  MALE NORM (Self/Subject)
-        |  defines by negation
-        v
-  FEMALE (constructed as Other)
+ASCII MASTER FLOW — PANEL 1/22: The printed clause, the central question and the ownership fence
+SYLLABUS (verbatim) -> "Gender Discrimination : Female Foeticide, Land and
+                        Property Rights; Empowerment."
+        |             ONE CONCEPT + THREE APPLICATIONS. THE APPLICATIONS ARE
+        v             TESTS OF THE CONCEPT, NOT EXAMPLES BOLTED ON TO IT.
+THE CENTRAL QUESTION -> WHAT TURNS A DIFFERENCE INTO A HIERARCHY -- AND WHAT
+                        WOULD HAVE TO CHANGE BEFORE ANYONE COULD SAY THE
+                        HIERARCHY HAD ENDED?
         |
         v
-  relational deficit read as 'natural' inferiority
-
-ASCII MASTER FLOW — PANEL 2/12: Performative Repetition Loop
-   stylised act --> read as natural --> repeated
-        ^                                   |
-        |___________________________________|
-        (regulatory norm reinforced each cycle)
-
-ASCII MASTER FLOW — PANEL 3/12: Equality Typology Table
-  TYPE          | REMEDY               | RISK
-  formal        | equal rule            | ignores start-point gap
-  substantive   | targeted correction   | reverse-discrimination charge
-  relational    | restructure relations | hardest to operationalise
-
-ASCII MASTER FLOW — PANEL 4/12: Foeticide Causal Chain
-  son preference (discriminatory attitude)
+WHY THESE THREE APPLICATIONS AND NOT ANY OTHER THREE -- A LIFE-COURSE
+  +----------------+----------------------------+-----------------------+
+  | APPLICATION    | WHAT IT TESTS              | THE MOMENT            |
+  +----------------+----------------------------+-----------------------+
+  | FEMALE         | does hierarchy reach the   | BEFORE BIRTH -- prior |
+  | FOETICIDE      | VALUATION OF LIFE itself?  | to any personal act   |
+  +----------------+----------------------------+-----------------------+
+  | LAND AND       | does formal ENTITLEMENT    | ACROSS A LIFETIME --  |
+  | PROPERTY       | become effective CONTROL?  | inherit, use, secure  |
+  +----------------+----------------------------+-----------------------+
+  | EMPOWERMENT    | has AGENCY -- authorship   | THE WHOLE LIFE as a   |
+  |                | of one's life -- expanded? | sequence of choices   |
+  +----------------+----------------------------+-----------------------+
+  VALUATION -> CONTROL -> AUTHORSHIP. ONE ARGUMENT AT THREE MOMENTS.
         |
         v
-  demand for sex determination
-        |         (PCPNDT Act 1994 prohibits)
-        v
-  sex-selective abortion  -->  skewed sex ratio at birth
-
-ASCII MASTER FLOW — PANEL 5/12: Agarwal's Five-Level Analysis
-   LEGAL TITLE   (recognised in law or record)
-   ACCESS / USE  (practical ability to use the asset)
-   CONTROL       (decide cropping, leasing, sale or investment)
-   RETURN        (receive the income and benefit)
-   EXIT/SECURITY (fall-back protection against abandonment or violence)
-
-ASCII MASTER FLOW — PANEL 6/12: Indian Legal Instruments on Inheritance -- Status Table
-  INSTRUMENT                         | KIND      | STATUS
-  Hindu Succession Act 2005 amendment| statute   | enacted, coparcenary right
-  Vineeta Sharma v Rakesh Sharma 2020| SC ruling | father alive not required
-  Ram Charan & Ors v Sukhram & Ors   | SC ruling | illustration only, ST context,
-  [2025] 8 SCR 272 / 2025 INSC 865   |           | decided 17-Jul-2025, distinct bench
-
-ASCII MASTER FLOW — PANEL 7/12: Kabeer's Empowerment Chain
-  RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS
- (material,      (ability to     (improved
-  human, social)  choose & act)   functioning)
-
-  break at any link = no real empowerment gain
-
-ASCII MASTER FLOW — PANEL 8/12: Legal vs Effective Empowerment Gap
-  106th Amendment: enacted 2023; commenced 16-Apr-2026
-        |
-        v  (conditional on)
-  ARTICLE 334A CENSUS/DELIMITATION SEQUENCE
+MASTER THESIS -> GENDER HIERARCHY IS REPRODUCED BY NORMS AND INSTITUTIONS,
+  NOT ENTAILED BY BIOLOGY. LEGAL EQUALITY IS THE NECESSARY ANCHOR AND NEVER
+  THE SUFFICIENT CONDITION. EVERY VERDICT HERE IS CONVERSION-SPECIFYING.
         |
         v
-  seat allocation / effective representation: PENDING 03-Sep-2026
+OWNERSHIP FENCE  equality/justice/liberty AS IDEALS -> Social and Political
+  Ideals | full liberalism, Marxism, socialism -> Political Ideologies |
+  recognition and multiculturalism AS DOCTRINE -> Humanism, Secularism and
+  Multiculturalism | the general capability framework -> Development and
+  Social Progress | caste doctrine and annihilation -> Caste Discrimination |
+  rights and accountability AS DOCTRINE -> Individual and State | succession
+  law, medical technique, scheme design and ANY DATASET -> OUTSIDE THE
+  PHILOSOPHY PAPER ENTIRELY
+EXCLUDED BY NAME  Friedan, Firestone, psychoanalytic feminism and ECOFEMINISM
+  are NOT independently routed by the 2018-2025 corpus and are NEVER imported
+  as a generic list of feminisms.
+CORPUS SHARE -> 12 of 112 parts, PRESENT IN EVERY YEAR 2018-2025
+  (2018:2 2019:2 2020:1 2021:2 2022:1 2023:2 2024:1 2025:1).
 
-ASCII MASTER FLOW — PANEL 9/12: Feminist Schools -- Root-Cause Comparison
-  SCHOOL      | ROOT CAUSE                | IMPLICATION
-  marxist     | capitalism                | end capitalism -> end oppression
-  radical     | patriarchy (autonomous)   | end patriarchy directly
-  socialist   | capitalism + patriarchy   | must address both systems
-  pateman/okin| contract & family design  | justice must reach the household
-
-ASCII MASTER FLOW — PANEL 10/12: Intersection of Caste and Gender
-        GENDER axis  ---------->
-  CASTE   |  low-caste woman: compounded, distinct harm
-  axis    |  (not simply 'caste harm' + 'gender harm')
-    |
-    v
-  single-axis policy (gender-only OR caste-only) misses this cell
-
-ASCII MASTER FLOW — PANEL 11/12: Okin's Multiculturalism Dilemma Test
-  group practice claims cultural protection
+ASCII MASTER FLOW — PANEL 2/22: The four contests and the owned part each generates
+NAME THE CONTEST IN LINE ONE. THE SAME MATERIAL ANSWERS FOUR DIFFERENT
+QUESTIONS, AND A SCRIPT THAT DOES NOT CHOOSE WRITES ONE ESSAY TWELVE TIMES.
+  +--------------+-----------------------------+------------------------+
+  | CONTEST      | THE QUESTION IT ASKS        | OWNED PARTS            |
+  +--------------+-----------------------------+------------------------+
+  | CONSTITUTION | is the hierarchy natural,   | 2019 Q3(b) 15          |
+  |              | cultural, or produced by    | 2022 Q3(b) 15          |
+  |              | compelled repetition?       | 2025 Q1(b) 10          |
+  +--------------+-----------------------------+------------------------+
+  | CONVERSION   | does an entitlement become  | 2021 Q1(e) 10          |
+  |              | effective power?            | 2023 Q1(c) 10          |
+  +--------------+-----------------------------+------------------------+
+  | VALUATION    | what makes discriminatory   | 2018 Q4(b) 15          |
+  |              | selection wrong -- the      | 2021 Q4(b) 15          |
+  |              | discrimination or the       | 2023 Q3(c) 15          |
+  |              | consequence?                |                        |
+  +--------------+-----------------------------+------------------------+
+  | AGENCY       | can equality or empowerment | 2018 Q4(c) 15          |
+  |              | eliminate the discrimination| 2019 Q1(e) 10          |
+  |              | that produced them as       | 2020 Q4(a) 20          |
+  |              | demands?                    | 2024 Q4(a) 10+10=20    |
+  +--------------+-----------------------------+------------------------+
         |
         v
-  does it entrench internal gender hierarchy?
-     /            \
-   NO              YES
-    |                |
- accommodate    equality claim overrides accommodation
+THE FIVE-LEVEL CONVERSION LADDER -- NEVER COLLAPSE IT
+  L1 TITLE / FORMAL EQUALITY .. is her claim recognised in law or record?
+     FAILS: law amended while RECORDS, CUSTOM and FAMILY PRACTICE are not
+  L2 ACCESS / USE ............. can she physically reach and use it?
+     FAILS: distance, safety, seclusion norms, male kin
+  L3 CONTROL / DECISION ....... can she decide cropping, leasing, sale?
+     FAILS: decision-power follows HOUSEHOLD AUTHORITY, not the record
+  L4 RETURN / BENEFIT ......... does the income actually reach her?
+     FAILS: proceeds POOLED and ALLOCATED BY OTHERS
+  L5 EXIT / SECURITY .......... does it protect her against abandonment or
+     violence? THIS is where an asset becomes BARGAINING POWER
+        |
+        v
+THE DISCRIMINATING TEST -- ONE SENTENCE, ANY OWNED STEM
+  +--------------------------------------------------------------------+
+  | IF LEGAL ENTITLEMENT RISES WHILE ACCESS, DECISION-POWER, RETURN AND |
+  | A CREDIBLE EXIT DO NOT, THERE IS FORMAL EQUALITY WITHOUT            |
+  | EMPOWERMENT. THIS IS THE ORDINARY CASE, NOT THE EXOTIC ONE.         |
+  +--------------------------------------------------------------------+
+FIVE FAILURE MODES  entitlement without control | provision without agency |
+  presence without voice | recognition without redistribution | prohibition
+  without revaluation
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ Keyword Router
-  PROMPT KEYWORD           -> PRIMARY SESSION
-  foeticide                -> 4
-  land / property          -> 5
-  empowerment              -> 6 / 7
-  man-made / cultural cat. -> 1 / 2
-  equality vs empowerment  -> 3
-  socialist regime         -> 8
-  caste / synthesis        -> 9
+ASCII MASTER FLOW — PANEL 3/22: Sex and gender -- the inference claim and the two wrecks
+  +-----------------+--------------------------+-------------------------+
+  | TERM            | BASIC MEANING            | COMPULSORY QUALIFIER    |
+  +-----------------+--------------------------+-------------------------+
+  | SEX             | bodily and reproductive  | biological variation is |
+  |                 | characteristics          | more complex than a     |
+  |                 |                          | rigid social binary     |
+  +-----------------+--------------------------+-------------------------+
+  | GENDER          | socially produced roles, | embodiment and social   |
+  |                 | expectations, identities | interpretation INTERACT |
+  +-----------------+--------------------------+-------------------------+
+  | GENDER          | patterned ranking of     | NOT every difference is |
+  | HIERARCHY       | masculinised over        | discriminatory -- UNJUST|
+  |                 | feminised roles/persons  | SUBORDINATION is the    |
+  |                 |                          | issue                   |
+  +-----------------+--------------------------+-------------------------+
+        |
+        v
+WHAT THE DISTINCTION ACTUALLY CLAIMS -- ONE SENTENCE
+  +--------------------------------------------------------------------+
+  | BODILY DIFFERENCE DOES NOT ENTAIL SOCIAL ROLE, AUTHORITY OR         |
+  | PROPERTY. THE INFERENCE FROM BODY TO HIERARCHY IS AN INFERENCE, AND |
+  | IT REQUIRES A JUSTIFICATION THAT IS NEVER SUPPLIED.                 |
+  +--------------------------------------------------------------------+
+        |
+   +----+-----------------------------+-----------------------------+
+   | WRECK 1: TWO ESSENCES            | WRECK 2: UNREALITY          |
+   | "sex PURELY natural, gender      | "a construct, therefore     |
+   |  PURELY artificial"              |  imaginary / freely chosen" |
+   | FAILS: replaces one crude        | FAILS: MONEY, CITIZENSHIP   |
+   | essence with two and denies the  | and CASTE are constructed   |
+   | interaction the distinction was  | AND enforceable. CONSTRUCT- |
+   | built to see                     | ION LOCATES THE CAUSE, NOT  |
+   |                                  | THE DIFFICULTY.             |
+   +----------------------------------+-----------------------------+
+        |
+        v
+BIOLOGICAL-DIFFERENCE OBJECTION -> some role differences reflect reproduction
+  REPLY -> biological facts do not determine WHO CONTROLS PROPERTY, WHOSE
+  WORK IS VALUED or WHO HAS AUTHORITY; social conclusions need an independent
+  justification. RESIDUE -> the reply clears the ground; WHICH accommodations
+  are legitimate needs the sameness/difference test of Panel 14.
+
+ASCII MASTER FLOW — PANEL 4/22: The five-step argument and the self-confirming circle
+  1. societies assign different MEANINGS and ROLES to bodily difference
+        |
+        v
+  2. those roles structure EDUCATION, WORK, CARE, MOBILITY, INHERITANCE
+     and AUTHORITY
+        |
+        v
+  3. repeated expectation is INTERNALISED and begins to appear NATURAL
+     PRESUPPOSITION: social practice shapes preferences, capacities and
+     self-conception. DENY IT AND STEP 3 COLLAPSES. SAY IT ALOUD.
+        |
+        v
+  4. institutional OUTCOMES then reinforce the original norm
+        |
+        v
+  5. THEREFORE observed inequality CANNOT be inferred to be biologically
+     necessary
+        |
+        v
+THE LOOP -- AND WHY IT IS THE ARGUMENT
+  +--------------------------------------------------------------------+
+  | EVERY OBSERVATION OFFERED AS PROOF THAT THE ARRANGEMENT IS NATURAL  |
+  | WAS PRODUCED BY THE ARRANGEMENT. THE EVIDENCE IS DOWNSTREAM OF THE  |
+  | CLAIM IT IS SUPPOSED TO SUPPORT.                                    |
+  | THE CIRCLE IS SELF-CONFIRMING, NOT SELF-JUSTIFYING.                  |
+  | THEREFORE "LOOK AT THE FACTS" IS NOT AN ARGUMENT HERE -- AND SAYING |
+  | SO EARNS MARKS ON 2019 Q3(b) AND 2025 Q1(b).                        |
+  +--------------------------------------------------------------------+
+        |
+        v
+CONSTANCY OBJECTION -> if the pattern recurs across radically different
+  societies, is that not evidence of nature?
+  REPLY -> the CONTENT of roles varies while the FUNCTION -- assigning
+  immanence -- recurs. Constancy is INSTITUTIONAL, not biological.
+  RESIDUE -> WHY such different institutions converge on one function is
+  contested: Marxist feminism answers with property, radical feminism with
+  the control of reproduction, socialist feminism with their interaction.
+
+ASCII MASTER FLOW — PANEL 5/22: Beauvoir -- the Other, situation, immanence and transcendence
+THE ASYMMETRY -- STRUCTURAL, NOT EMOTIVE
+  +--------------------------------------------------------------------+
+  | MAN is posited as the ESSENTIAL, the SUBJECT, the NORM -- the       |
+  | UNMARKED case, simply "the human being".                            |
+  | WOMAN is posited relative to him as the INESSENTIAL, the OTHER --   |
+  | the MARKED case, "the human being, female".                         |
+  | The asymmetry is that ONE TERM IS THE STANDARD BY WHICH THE OTHER   |
+  | IS DESCRIBED. It is DEFINITIONAL before it is DISTRIBUTIVE.          |
+  +--------------------------------------------------------------------+
+        |
+   MAN                                WOMAN
+   defines the situation        ->    is defined WITHIN it
+   acts as subject              ->    appears as object of description
+   needs no qualifier           ->    is always the qualified case
+   TRANSCENDENCE: projects      ->    IMMANENCE: repetition, maintenance,
+   outward into the world             the same day done again
+        |
+        v
+THE FAMOUS FORMULATION, DECODED IN THREE MOVES
+  IT DENIES ....... that "woman" as a SOCIAL POSITION is deducible from a
+                    body. It does NOT deny that bodies exist or differ.
+  IT ASSERTS ...... that femininity is a SITUATION and a PROJECT -- lived
+                    out under conditions not chosen and not individually
+                    revocable.
+  IT IS NOT ....... a claim that gender is CHOSEN. A SITUATION IS NOT A
+                    DECISION. This is the commonest misreading in the clause.
+        |
+        v
+THE COMPULSORY FORMULATION ON IMMANENCE
+  +--------------------------------------------------------------------+
+  | THE INEQUALITY LIES IN THE ASSIGNMENT, NOT IN THE CAPACITY.         |
+  | Say it this way and the objection that Beauvoir denigrates domestic |
+  | labour is foreclosed before it can be raised.                        |
+  +--------------------------------------------------------------------+
+        |
+        v
+WHY SHE IS THE FOUNDATION -- EVERY LATER POSITION REPAIRS SOMETHING
+  BUTLER -> the BODY too is read through gendered categories
+  GILLIGAN -> the assigned position generates a MORAL ORIENTATION
+  PATEMAN and OKIN -> the CONTRACT and the FAMILY enforce the assignment
+  CRENSHAW and hooks -> "woman" is not ONE situation
+  AGARWAL and KABEER -> what would have to CONVERT for it to change
+  NAME THE REPAIR AND THE ANSWER LOOKS ORDERED RATHER THAN ENCYCLOPAEDIC.
+LIMIT -> the existential framework can UNDERSTATE material and institutional
+  constraint, which is why Beauvoir opens this clause and does not close it.
+
+ASCII MASTER FLOW — PANEL 6/22: Gender as a cultural category -- six embodiment channels
+THE 2022 STEM PRINTS "AS OPPOSED TO". READ IT AS **CONTRASTED**, NEVER AS
+PARTITIONED. CONTRAST THE CATEGORIES, THEN STATE THE INTERACTION.
+        |
+        v
+SIX CHANNELS -- THE PARAGRAPH THAT SEPARATES A STRONG 2022 ANSWER
+  +-------------+-----------------------------------------------------+
+  | FAMILY      | who eats first, who is educated, who inherits, who  |
+  |             | moves at marriage, whose labour is called "help"    |
+  +-------------+-----------------------------------------------------+
+  | LANGUAGE    | the unmarked default; kinship terms; the vocabulary |
+  |             | available for describing a woman's authority        |
+  +-------------+-----------------------------------------------------+
+  | LABOUR      | which work is PAID and which is "natural"; the      |
+  |             | boundary between production and social reproduction |
+  +-------------+-----------------------------------------------------+
+  | LAW         | succession, guardianship, marriage, evidence,       |
+  |             | personal-law regimes and what they presuppose       |
+  +-------------+-----------------------------------------------------+
+  | MEDIA       | who is shown deciding and who is shown serving;     |
+  |             | the repertoire of imaginable lives                  |
+  +-------------+-----------------------------------------------------+
+  | SANCTION    | ridicule, shame, exclusion, coercion, violence      |
+  |             | <-- THE CHANNEL THAT SUPPLIES **COST**              |
+  +-------------+-----------------------------------------------------+
+  FIVE CHANNELS EXPLAIN TRANSMISSION. SANCTION EXPLAINS COMPULSION. AN
+  ANSWER WITHOUT IT CANNOT SAY WHY A NORM CONSTRAINS RATHER THAN DESCRIBES.
+        |
+        v
+FOUR ANALYTICAL GAINS OF THE CULTURAL READING
+  1. CONTESTABILITY -- a nature cannot be argued with; a norm can
+  2. LOCATION OF REMEDY -- institutional, not exhortation and not biology
+  3. EXPLAINS VARIATION -- different content on the same bodily difference
+  4. EXPLAINS PERSISTENCE -- internalisation + sanction + reinforcement
+        |
+        v
+VERDICT FORMULA FOR 2022 AND 2025
+  +--------------------------------------------------------------------+
+  | GENDER IS CULTURAL IN ORIGIN AND MATERIAL IN EFFECT: MADE BY        |
+  | INSTITUTIONS, AND DISTRIBUTING OPPORTUNITY, RIGHTS AND RESOURCES AS |
+  | RELIABLY AS ANY LAW OF NATURE WOULD HAVE DONE.                      |
+  +--------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 7/22: Butler -- performativity, three cautions, one live exchange
+THREE POSITIONS ON ONE LINE -- BUTLER IS THE THIRD, NOT A RESTATEMENT
+  P1 ESSENTIALISM ....... natural sex produces natural gender
+        | defeated by the five-step argument and by cross-social variation
+        v
+  P2 STANDARD SEX/GENDER  a NATURAL SUBSTRATE carries a CULTURAL
+     DISTINCTION ........ INTERPRETATION -- two layers
+        | pressed by Butler: the categories through which bodies are READ
+        | as sexed are THEMSELVES produced in a gendered discourse
+        v
+  P3 PERFORMATIVITY ..... gender PRODUCED by repeated stylised acts --
+     (Gender Trouble, 1990) speech, gesture, dress, gait, comportment --
+                          whose REITERATION manufactures the appearance of
+                          a natural, pre-existing gendered self
+        |
+        v
+FIVE-STEP RECONSTRUCTION
+  1. the standard framework assumes a natural substrate + interpretation
+  2. the reading categories are themselves discursively produced
+  3. what looks like EXPRESSION of an inner identity is its CONSTITUTION
+     -- THERE IS NO DOER BEHIND THE DEED
+  4. gender is sustained by REITERATION UNDER SOCIAL COMPULSION
+  5. because it depends on repetition, FAILED and PARODIC repetition is
+     where the possibility of change lies
+  PRESUPPOSITION: identity categories are EFFECTS of discursive and social
+  practices, not their preconditions.
+        |
+        v
+THREE CAUTIONS -- ALL COMPULSORY, EACH SEPARATELY EXAMINABLE
+  X1 NOT the textbook sex/gender distinction -- it CONTESTS that distinction
+  X2 NOT a denial that bodies or biological differences exist -- the claim
+     concerns how MEANING and CATEGORISATION are produced
+  X3 "PERFORMATIVE" is NOT "performance" -- compelled reiteration inside a
+     normative order, which is what makes it HARD TO ESCAPE
+        |
+        v
+THE EXCHANGE THAT MUST TRAVEL WITH HER
+  OBJECTION (category problem) -> if "woman" is wholly an effect of
+    discourse, feminism loses the stable subject in whose name it claims;
+    mobilisation, anti-discrimination law and measurement all presuppose it
+  REPLY (strategic essentialism) -> claims can be built on PROVISIONALLY
+    and STRATEGICALLY stabilised categories while conceding construction;
+    legal sex-discrimination categories already work this way
+  RESIDUE -> a category adopted for LEVERAGE HARDENS INTO A DESCRIPTION and
+    marginalises those it fits badly. PRESENT THE EXCHANGE AS LIVE.
+ROUTING -> USE on constitution stems (2019, 2022, 2025). DO NOT USE on
+  property, empowerment or foeticide stems -- the space belongs to mechanism.
+
+ASCII MASTER FLOW — PANEL 8/22: Category scope and the inference rule
+FIVE JOBS, FIVE WORDS -- ONE BINARY LABEL CANNOT DO ALL OF THEM
+  BODILY SEX CHARACTERISTICS .. the physical and reproductive facts
+  ASSIGNED CLASSIFICATION ..... the category recorded by an institution
+  GENDER IDENTITY ............. a person's own sense of their gender
+  GENDER EXPRESSION ........... how that is presented and read
+  SOCIAL ROLE ................. what a society expects, permits, forbids
+  ONE WORD DOING FIVE JOBS PRODUCES FIVE CONFUSIONS.
+        |
+        v
+THE SAME THREE MECHANISMS, APPLIED CONSISTENTLY
+  ENFORCED ROLE -> STIGMA -> INSTITUTIONAL EXCLUSION
+  Transgender, non-binary and gender-nonconforming persons may face
+  discrimination THROUGH THESE SAME MECHANISMS. NO SECOND THEORY IS NEEDED;
+  THE FIRST THEORY APPLIED WITHOUT EXCEPTION IS THE ARGUMENT.
+        |
+        v
+THE BALANCE THIS OWNER REQUIRES -- BOTH HALVES LOAD-BEARING
+  +---------------------------------+---------------------------------+
+  | EXTEND the account of gender    | WITHOUT ERASING sex-specific    |
+  | hierarchy to everyone subjected | discrimination in REPRODUCTION, |
+  | to enforced role, stigma and    | PROPERTY, CARE and VIOLENCE --  |
+  | institutional exclusion         | where the PRINTED applications  |
+  |                                 | live                            |
+  +---------------------------------+---------------------------------+
+        |
+        v
+THE WORKING CRITERION -- STATED AS A CRITERION, NOT A SOLUTION
+  Anti-discrimination argument may use "WOMEN" as a STRATEGICALLY NECESSARY
+  political and legal category while keeping it INTERNALLY DIVERSE,
+  HISTORICALLY CONSTRUCTED and OPEN to those affected by misogyny and
+  feminised subordination.
+  THIS IS A WORKING CRITERION. IT DOES NOT RESOLVE THE CATEGORY DEBATE.
+        |
+        v
+THE INFERENCE RULE
+  +--------------------------------------------------------------------+
+  | NO CLAIM ABOUT A PERSON'S IDENTITY SHOULD BE INFERRED FROM ANATOMY, |
+  | DRESS OR SOCIAL ROLE. Each column is a SEPARATE fact, and reading   |
+  | one off another is exactly the inference this clause exists to deny.|
+  +--------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 9/22: The discrimination mechanism -- five links
+THE MOST PORTABLE PARAGRAPH IN THE CLAUSE. IT ANSWERS 2019 Q3(b),
+2021 Q4(b), 2023 Q3(c) AND 2025 Q1(b) WITH ONLY THE TERMINAL BRANCH CHANGED.
+
+  NORM ............. a socially organised meaning attached to sex: who
+       inherits, who leads, who serves, whose work is "help", whose safety
+       justifies restricting whose movement
+            |
+            v
+  INSTITUTION ...... family and kinship . marriage and residence .
+       inheritance and record . the paid/unpaid boundary . schooling .
+       personal-law regimes . candidate selection
+            |
+            v
+  ALLOCATION ....... FOOD . HEALTH CARE . SCHOOLING . TIME . MOBILITY .
+       PROPERTY . INCOME . SAFETY . AUTHORITY . AND AT THE LIMIT --
+       CONTINUED LIFE  <-- THIS IS WHERE FOETICIDE ENTERS THE MECHANISM
+            |
+            v
+  OUTCOME .......... observable inequality in each of those goods
+            |
+            v
+  INTERNALISATION .. experienced as ordinary, expected, even chosen;
+       PREFERENCES ADAPT to what has been made available
+            |
+            v
+  JUSTIFICATION .... "they do not farm", "they do not lead", "they prefer
+       to stay" -> AND THE LOOP CLOSES BACK ON THE NORM
+        |
+        v
+FIVE SEPARATELY ALTERABLE LINKS -> FIVE INTERVENTIONS
+  at NORM ............ public contestation, education, visibility
+  at INSTITUTION ..... legal reform, record reform, care infrastructure,
+                       candidate-selection rules
+  at ALLOCATION ...... entitlement, transfer, service, protection
+  at OUTCOME ......... remedial and compensatory measures
+  at INTERNALISATION . organisation, exposure to alternatives, collective
+                       voice -- THE SLOWEST, AND THE ONE WITHOUT WHICH THE
+                       OTHER FOUR ARE PROGRESSIVELY REVERSED
+        |
+        v
+TERMINAL BRANCH FOR 2025 Q1(b) -- USE THE STEM'S OWN THREE OBJECTS
+  OPPORTUNITIES <- schooling, mobility, time, the paid/unpaid boundary
+  RIGHTS ....... <- recognition in law and record, standing to claim,
+                    capacity to enforce WITHOUT FAMILY RUPTURE
+  RESOURCES .... <- property, income, credit, land -- and the five-level
+                    ladder that decides whether any of it becomes power
+
+ASCII MASTER FLOW — PANEL 10/22: The six feminist diagnoses -- use to adjudicate, never to list
+A DIAGNOSIS ANSWERS: WHERE DOES THE SUBORDINATION ORIGINATE?
+AN IDEOLOGY ANSWERS: WHAT SHOULD THE WHOLE SOCIAL ORDER LOOK LIKE?
+THIS OWNER OWNS THE FIRST QUESTION ONLY.
+  +--------------+------------------+----------------+-----------------+
+  | APPROACH     | PRIMARY SOURCE   | REMEDY         | STANDARD        |
+  |              | OF OPPRESSION    |                | OBJECTION       |
+  +--------------+------------------+----------------+-----------------+
+  | LIBERAL      | unequal rights   | legal equality,| underestimates  |
+  |              | and opportunity  | education,     | family and      |
+  |              |                  | access         | structure       |
+  +--------------+------------------+----------------+-----------------+
+  | MARXIST      | private property | transform      | patriarchy not  |
+  |              | and class        | production and | reducible to    |
+  |              | exploitation     | property       | class           |
+  +--------------+------------------+----------------+-----------------+
+  | SOCIALIST    | INTERACTION of   | alter          | explanatory     |
+  |              | capitalism AND   | production AND | complexity      |
+  |              | patriarchy       | reproduction   |                 |
+  +--------------+------------------+----------------+-----------------+
+  | RADICAL      | patriarchy;      | transform      | may universalise|
+  |              | control of       | power and      | women's         |
+  |              | sexuality/body   | gender relations| experience     |
+  +--------------+------------------+----------------+-----------------+
+  | INTERSECT-   | intersecting     | context-       | categories can  |
+  | IONAL        | caste, class,    | sensitive anti-| multiply without|
+  |              | race, gender     | domination     | clear priority  |
+  +--------------+------------------+----------------+-----------------+
+  | CAPABILITY   | deprivation of   | secure         | list and        |
+  |              | real opportunity | threshold      | measurement     |
+  |              | and bodily       | capabilities   | disputes        |
+  |              | integrity        | and agency     |                 |
+  +--------------+------------------+----------------+-----------------+
+        |
+        v
+FOUR-MOVE PROCEDURE -- THE DIFFERENCE BETWEEN A 10 AND A 6
+  1. IDENTIFY which diagnosis the stem's own wording assumes
+  2. STATE the rival in its STRONGEST form -- never a caricature
+  3. ADJUDICATE using the case the stem is about, not in the abstract
+  4. CONCEDE the winning diagnosis's OWN standard objection
+        |
+        v
+BOUNDED THINKER MAP -- ONE JOB EACH
+  WOLLSTONECRAFT ... equal rational and moral standing requires SERIOUS
+                     EDUCATION rather than cultivated dependence
+  MILL and HARRIET   LAW and CUSTOM JOINTLY manufacture the subjection;
+  TAYLOR MILL ...... legal equality must be joined to SOCIAL LIBERTY
+  BEAUVOIR ......... woman constituted as the OTHER
+  GILLIGAN ......... CARE exposes dependency, relationship and context
+  CRENSHAW/hooks ... gender MEDIATED by social location; the centre
+                     universalises privileged experience
+  BUTLER ........... compelled reiteration produces apparent naturalness
+
+ASCII MASTER FLOW — PANEL 11/22: Derivative, autonomous or primary -- and the 2019 route
+  +----------------+---------------------------+------------------------+
+  | AXIS           | MARXIST FEMINISM          | SOCIALIST FEMINISM     |
+  +----------------+---------------------------+------------------------+
+  | ORIGIN         | private property and class| the INTERACTION of two |
+  |                | society; oppression is    | systems, each with its |
+  |                | FUNCTIONAL to the         | own logic              |
+  |                | property-owning family    |                        |
+  +----------------+---------------------------+------------------------+
+  | STATUS of      | DERIVATIVE -- a form of   | AUTONOMOUS -- predates |
+  | patriarchy     | class oppression          | capitalism and would   |
+  |                |                           | survive its abolition  |
+  +----------------+---------------------------+------------------------+
+  | SITE           | PRODUCTION; exclusion and | PRODUCTION *AND* SOCIAL|
+  |                | confinement to the private| REPRODUCTION -- domestic|
+  |                | household                 | labour, sexuality,     |
+  |                |                           | childbearing, care     |
+  +----------------+---------------------------+------------------------+
+  | REMEDY         | abolish private property, | transform property AND |
+  |                | socialise domestic labour,| the sexual division of |
+  |                | draw women into social    | labour, family,        |
+  |                | production                | sexuality and care     |
+  +----------------+---------------------------+------------------------+
+  | WEAKNESS       | cannot explain persistence| explanatory complexity |
+  |                | in avowedly socialist     | -- how do two systems  |
+  |                | economies or across pre-  | interact without one   |
+  |                | and non-capitalist orders | collapsing into the    |
+  |                |                           | other?                 |
+  +----------------+---------------------------+------------------------+
+  THIRD POSITION -> RADICAL FEMINISM: patriarchy is PRIMARY -- the original
+  and most fundamental domination, through control of sexuality,
+  reproduction and the body, and through violence. WEAKNESS: universalises
+  a particular experience, which INTERSECTIONAL analysis corrects.
+        |
+        v
+2019 Q1(e) ROUTE -- "Can gender equality be realised within a socialist
+regime? Analyse."  FIVE MOVES, NOT A YES OR A NO
+  1. STATE the Marxist prediction: abolish private property and the
+     property-owning family -> the material basis is removed
+  2. CONCEDE what it gets right: the property/inheritance mechanism is real;
+     economic dependence is a lever; social production alters bargaining
+  3. DEFEATER: dominance ACROSS radically different modes of production and
+     PERSISTENCE where private property in production was abolished
+  4. RESIDUE it cannot reach: unpaid care, bodily decision, authority INSIDE
+     the household, violence and stigma -- i.e. SOCIAL REPRODUCTION
+  5. CONDITIONAL VERDICT: NECESSARY on the material axis; NOT SUFFICIENT
+     without transforming the sexual division of labour, family, sexuality
+     and care. THE CONDITION IS THE ANSWER.
+
+ASCII MASTER FLOW — PANEL 12/22: Structural injustice -- responsibility without an author
+IF NO ONE DESIGNED THE OUTCOME, IS ANYONE RESPONSIBLE FOR IT?
+  +--------------------------------+--------------------------------+
+  | BAD ANSWER 1: COLLECTIVE GUILT | BAD ANSWER 2: UNIVERSAL EXCUSE |
+  | "all men are to blame"         | "it's the system, so no one is |
+  |                                |  responsible"                  |
+  | FAILS: blame attaches to ACTS; | FAILS: the system IS a very    |
+  | an undifferentiated charge     | large number of ordinary       |
+  | cannot distinguish the         | choices; if none carries a     |
+  | powerful from the powerless    | duty, nothing can be required  |
+  +--------------------------------+--------------------------------+
+        |
+        v
+DEFINITION -- EACH WORD LOAD-BEARING
+  GENDER OPPRESSION IS STRUCTURAL WHERE **NORMAL** RULES, INSTITUTIONS AND
+  **REPEATED** CHOICES **COMBINE** TO CONSTRAIN A GROUP **WITHOUT ONE ACTOR
+  DESIGNING THE WHOLE RESULT**.
+        |
+        v
+THE SOCIAL-CONNECTION MODEL -- FOUR STEPS
+  1. many ordinary agents PARTICIPATE in processes reproducing unequal work,
+     care, property, representation or bodily security
+  2. absence of a sole perpetrator does NOT mean absence of responsibility
+  3. responsibility is FORWARD-LOOKING and SHARED, not identical to blame
+  4. duties VARY with POWER, PRIVILEGE, INTEREST and COLLECTIVE CAPACITY
+        |
+        v
+  +------------------------+------------------------------------------+
+  | BACKWARD-LOOKING BLAME | FORWARD-LOOKING RESPONSIBILITY           |
+  | attaches to MY ACTS    | attaches to MY PARTICIPATION in a process|
+  | asks: what did you do? | asks: what can you help change?          |
+  | individual, retro-     | shared, prospective, GRADED              |
+  | spective, adjudicated  |                                          |
+  +------------------------+------------------------------------------+
+  AN AGENT CAN BEAR NO BLAME AND STILL CARRY REAL DUTIES.
+  OBJECTION -> diffuse responsibility lets everyone blame the system.
+  REPLY -> shared duties must be SPECIFIED BY ROLE AND POWER; an
+  unspecified duty is no duty. RESIDUE -> the four gradients are
+  qualitative and yield no determinate quantum of duty.
+        |
+        v
+WHY THIS IS THE HINGE OF 2020 Q4(a) AND 2024 Q4(a)
+  +--------------------------------------------------------------------+
+  | AN INJUSTICE SUSTAINED BY MANY AGENTS' ORDINARY CHOICES CANNOT BE   |
+  | DISSOLVED BY CHANGING THE POSITION OF THE DISADVANTAGED GROUP       |
+  | ALONE. "NECESSARY BUT NOT SUFFICIENT" IS THEREFORE A CONSEQUENCE OF |
+  | THE DIAGNOSIS -- NOT A CAUTIOUS HEDGE.                              |
+  +--------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 13/22: The public/private boundary -- Pateman and Okin
+THE BOUNDARY BOTH ATTACK
+  PUBLIC: contract, citizenship, rights, justice, state, market
+          -- WHERE JUSTICE APPLIES
+  PRIVATE: marriage, household, care, intimacy, upbringing
+          -- TREATED AS PRE-POLITICAL, OUTSIDE THE SCOPE OF JUSTICE
+  SHARED CLAIM: THE BOUNDARY IS NOT NEUTRAL. IT IS ITSELF A POLITICAL
+  ARRANGEMENT, AND IT WORKS TO ONE SIDE'S BENEFIT.
+        |
+   +----+---------------------------+----------------------------+
+   | PATEMAN (The Sexual Contract, | OKIN (Justice, Gender, and  |
+   | 1988) -- FOUNDATIONAL ATTACK  | the Family, 1989) --        |
+   |                               | INTERNAL REFORM             |
+   | CLAIM: contract theory        | CLAIM: theories of justice  |
+   | presupposes a prior SEXUAL    | treat the FAMILY as a PRE-  |
+   | CONTRACT securing men's       | POLITICAL GIVEN rather than |
+   | access to women's bodies and  | as an institution justice   |
+   | labour; the public contract   | must itself examine         |
+   | RESTS on an unmentioned       |                             |
+   | private subordination         | EVIDENCE: the unequal       |
+   |                               | domestic burden restricts   |
+   | EVIDENCE: contract narratives | access to the PRIMARY GOODS |
+   | are SILENT on the marriage    | public justice distributes  |
+   | contract and on the domestic  | -- TIME, INCOME, POSITION,  |
+   | subordination that makes male | SELF-RESPECT; and the family|
+   | civic equality practicable    | is where a SENSE OF JUSTICE |
+   |                               | is first formed or fails to |
+   | LIMIT: an INTERPRETIVE        |                             |
+   | RECONSTRUCTION of theoretical | LIMIT: risks over-extending |
+   | SILENCES -- **NOT** a         | justice into every intimate |
+   | historical event. NEVER       | relation; most syntheses    |
+   | PRESENT IT AS ONE.            | retain family autonomy      |
+   +-------------------------------+-----------------------------+
+        |
+        v
+THE CONNECTION THAT TURNS TWO NAMES INTO PHILOSOPHY
+  PATEMAN ATTACKS THE FOUNDATION. OKIN WORKS WITHIN THE FRAMEWORK TO EXTEND
+  IT. NAMING BOTH **AND MARKING THE DIFFERENCE** IS THE SCORED MOVE.
+        |
+        v
+PRIVACY OBJECTION -> intimacy depends on trust, not adjudication
+  REPLY -> justice can operate through BACKGROUND CONDITIONS -- marriage and
+  divorce rules, succession, independent income, recognition of unpaid work,
+  accessible exit -- WITHOUT adjudicating individual interactions
+  RESIDUE -> the line between background conditions and internal
+  adjudication is not sharp; FAMILY VIOLENCE stresses it hardest
+OPERATIVE RULE -> THE HOUSEHOLD IS A PROTECTED SPHERE OF INTIMACY BUT NOT
+  AN IMMUNITY ZONE FOR DOMINATION. PUBLIC EQUALITY IS PARTLY PRODUCED INSIDE
+  THE "PRIVATE" SPHERE -- WHICH IS WHERE CONVERSION LEVELS 2-5 ARE DECIDED.
+
+ASCII MASTER FLOW — PANEL 14/22: Equality -- three conceptions and a genuine dilemma
+  +---------------+--------------------------+------------------------+
+  | FORMAL        | the SAME RULE for all    | cannot see unequal     |
+  |               |                          | starting positions     |
+  +---------------+--------------------------+------------------------+
+  | SUBSTANTIVE   | unequal starting         | requires contested     |
+  |               | positions, social        | judgments about        |
+  |               | burdens, EFFECTIVE       | disadvantage and remedy|
+  |               | OUTCOMES                 |                        |
+  +---------------+--------------------------+------------------------+
+  | RELATIONAL    | citizens MEET WITHOUT    | says less about        |
+  |               | DOMINATION, STIGMA OR    | distribution; needs the|
+  |               | SERVILITY                | other two to bite      |
+  +---------------+--------------------------+------------------------+
+  EQUALITY NEED NOT MEAN IDENTICAL TREATMENT. Pregnancy, unpaid care,
+  inherited exclusion and violence may require DIFFERENTIATED SUPPORT to
+  achieve EQUAL STANDING and CAPABILITY.
+        |
+        v
+THE SAMENESS / DIFFERENCE DILEMMA -- BOTH HORNS ARE REAL
+  SAMENESS ....... one SEX-NEUTRAL rule, because women and men are equal
+                   persons. RISK: the MALE LIFE-PATTERN remains the HIDDEN
+                   NORM inside the rule -- uninterrupted employment, no
+                   caring responsibility, mobility without safety limits
+  DIFFERENCE ..... recognise pregnancy, care burdens, inherited exclusion.
+                   RISK: difference ESSENTIALISED and used to REASSIGN
+                   women to traditional roles. Protection becomes confinement
+  TRANSFORMATIVE . ask whether rules ALTER CAPABILITY, STATUS and POWER
+                   rather than merely CLASSIFY ALIKE
+        |
+        v
+MILL AND HARRIET TAYLOR MILL SAW THE STRUCTURE FIRST
+  LAW AND CUSTOM **JOINTLY** MANUFACTURE THE SUBJECTION -- WHICH IS WHY
+  REMOVING A LEGAL DISABILITY LEAVES THE CUSTOM INTACT.
+        |
+        v
+THE 2018 Q4(c) DISJUNCTION IS FALSE -- AND SAYING WHY IS THE ANSWER
+  +--------------------------------------------------------------------+
+  | EQUALITY WITHOUT AGENCY can be merely FORMAL.                       |
+  | AGENCY WITHOUT STRUCTURAL EQUALITY becomes EXCEPTIONAL INDIVIDUAL   |
+  |   SUCCESS -- one woman's achievement, no change in the rule.         |
+  | EMPOWERMENT LINKS RIGHTS TO ACTUAL CONTROL AND COLLECTIVE           |
+  |   TRANSFORMATION.                                                   |
+  | THEREFORE FEMINISM IS AN IDEOLOGY FOR **EQUAL STANDING, PURSUED     |
+  | THROUGH EMPOWERMENT**.                                              |
+  +--------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 15/22: The three-question test for differential treatment
+THE RESOLUTION -- NOT "SAMENESS", NOT "DIFFERENCE"
+  +--------------------------------------------------------------------+
+  | DIFFERENTIAL TREATMENT IS JUSTIFIED WHERE IT REMOVES A SOCIALLY     |
+  | PRODUCED BURDEN AND ENLARGES EQUAL STANDING WITHOUT FIXING A        |
+  | PERMANENT GENDER ESSENCE.                                           |
+  +--------------------------------------------------------------------+
+        |
+        v
+THE TEST, IN THREE QUESTIONS
+  Q1. Is the burden being removed SOCIALLY PRODUCED -- or is the measure
+      premised on a NATURAL INCAPACITY?
+  Q2. Does the measure ENLARGE STANDING AND CAPABILITY -- or does it
+      PROTECT BY CONFINING?
+  Q3. Is the measure PROPORTIONATE and REVISABLE -- or does it FIX A
+      PERMANENT CATEGORY?
+        |
+   +----+---------------------------------+-------------------------+
+   | A MATERNITY PROVISION                | AN INHERITANCE EXCLUSION|
+   | Q1 socially produced burden .. PASS  | Q1 premised on          |
+   | Q2 enlarges standing ......... PASS  |    incapacity ..... FAIL|
+   | Q3 proportionate, revisable .. PASS  | Q2 protects by          |
+   |                                      |    confining ...... FAIL|
+   |                                      | Q3 fixes a permanent    |
+   |                                      |    category ....... FAIL|
+   +--------------------------------------+-------------------------+
+        |
+        v
+REVERSE-DISCRIMINATION OBJECTION -> targeted measures violate equality
+  REPLY -> remedial differentiation is justified where it DISMANTLES STATUS
+  HIERARCHY and EXPANDS EQUAL CITIZENSHIP, because the principle protects
+  EQUAL STANDING rather than SYMMETRICAL CLASSIFICATION
+  BOUND -> it must remain PROPORTIONATE and REVIEWABLE
+  RESIDUE -> which burdens are socially produced, and which measures enlarge
+  rather than confine, are CONTESTED judgments with no settling procedure.
+  THAT IS WHY REVISABILITY MATTERS: A WRONG JUDGMENT MUST STAY CORRECTABLE.
+        |
+        v
+CLOSING RULE -> AN UNREVISABLE REMEDIAL CATEGORY HAS BECOME THE ESSENCE IT
+  WAS DESIGNED TO DISMANTLE.
+
+ASCII MASTER FLOW — PANEL 16/22: Female foeticide I -- the separation and the definition
+THE FIRST MOVE IN EVERY FOETICIDE ANSWER IS A SEPARATION. THREE OWNED PARTS
+TURN ON IT: 2018 Q4(b), 2021 Q4(b), 2023 Q3(c).
+  +----------------------+--------------------------------------------+
+  | ISSUE                | THE PHILOSOPHICAL QUESTION IT RAISES       |
+  +----------------------+--------------------------------------------+
+  | ABORTION GENERALLY   | moral status, bodily autonomy, state       |
+  |                      | coercion                                   |
+  +----------------------+--------------------------------------------+
+  | SEX-SELECTIVE        | the DISCRIMINATORY REASON for selection    |
+  | ABORTION             | and the SOCIAL PATTERN it composes         |
+  |                      | <-- THIS IS WHAT THE SYLLABUS OWNS         |
+  +----------------------+--------------------------------------------+
+  | PRENATAL DIAGNOSTIC  | legitimate medical use against             |
+  | TECHNOLOGY           | discriminatory misuse                      |
+  +----------------------+--------------------------------------------+
+  | FEMALE INFANTICIDE   | killing AFTER birth -- legally and         |
+  |                      | conceptually DISTINCT                      |
+  +----------------------+--------------------------------------------+
+        |
+        v
+THE PROTECTIVE SENTENCE -- WRITE IT EARLY
+  OPPOSITION TO FEMALE FOETICIDE SHOULD NOT ERASE WOMEN'S BODILY AUTONOMY OR
+  EQUATE EVERY ABORTION WITH SEX DISCRIMINATION. THE TARGET IS A PATRIARCHAL
+  CHOICE-STRUCTURE IN WHICH FAMILY AND SOCIAL PRESSURE DEVALUE FEMALE LIFE.
+        |
+        v
+THE DEFINITION -- EXACTLY
+  +--------------------------------------------------------------------+
+  | FEMALE FOETICIDE IS THE SEX-SELECTIVE TERMINATION OF A PREGNANCY    |
+  | BECAUSE THE FOETUS IS **IDENTIFIED OR PRESUMED** TO BE FEMALE.      |
+  | THE MORAL WRONG ADDRESSED BY THE SYLLABUS IS DISCRIMINATORY         |
+  | SELECTION ROOTED IN THE DEVALUATION OF DAUGHTERS.                   |
+  | "OR PRESUMED" -> THE WRONG DOES NOT REQUIRE A DIAGNOSTIC TEST.      |
+  | THAT SINGLE PHRASE ALREADY BEGINS TO ANSWER THE 2021 STEM.          |
+  +--------------------------------------------------------------------+
+        |
+        v
+WHERE IT SITS IN THE MECHANISM -> the ALLOCATION link of Panel 9, operating
+  on the most basic good (CONTINUED LIFE) at the EARLIEST possible moment.
+  NOT A SEPARATE TOPIC. THE MECHANISM'S EXTREME CASE.
+
+ASCII MASTER FLOW — PANEL 17/22: Female foeticide II -- causes as an architecture
+THE 2021 STEM ASKS FOR "MAIN CAUSES" AND THEN OFFERS A DECOY: "IS IT THE
+RESULT OF DEMONIC APPLICATION OF TECHNOLOGY ONLY?"
+THE ANSWER IS AN ARCHITECTURE. THE DECOY IS THE LAST STOREY.
+
+  1 STRUCTURAL FOUNDATION
+    PATRILINEAL INHERITANCE AND LINEAGE -- the daughter leaves; the son
+    continues line and property -> A DAUGHTER IS A TRANSFER, A SON AN
+    ADDITION
+        |
+        v
+  2 ECONOMIC AND RITUAL EXPECTATION
+    EXPECTATIONS OF SONS AS ECONOMIC OR RITUAL SUPPORT -- old-age security
+    and ritual duty ASSIGNED BY SEX
+        |
+        v
+  3 THE PRICE ATTACHED TO A DAUGHTER
+    DOWRY AND MARRIAGE COSTS -- a daughter constituted as a FUTURE LIABILITY
+        |
+        v
+  4 THE MATERIAL BASE THAT MAKES ALL THREE STICK
+    UNEQUAL PROPERTY AND EARNING POWER -- if she cannot own, earn or
+    control, the expectation that she cannot support is SELF-FULFILLING.
+    THIS IS PANEL 4'S LOOP AT ITS MOST CONSEQUENTIAL.
+        |
+        v
+  5 THE DECISION CONTEXT
+    FAMILY PRESSURE AND CONSTRAINED REPRODUCTIVE AGENCY -- THE WOMAN
+    DECIDING IS OFTEN NOT THE WOMAN CHOOSING
+        |
+        v
+  6 THE INSTRUMENT -- AND ONLY THE INSTRUMENT
+    TECHNOLOGY FUNCTIONING AS AN INSTRUMENT OF PRE-EXISTING BIAS, NOT ITS
+    SOLE CAUSE
+        |
+        v
+THE ONE-LINE REPLY TO THE DECOY
+  +--------------------------------------------------------------------+
+  | TECHNOLOGY SUPPLIES THE MEANS OF SELECTION; PATRIARCHY SUPPLIES THE |
+  | REASON. THE SAME EQUIPMENT HAS ENTIRELY LEGITIMATE DIAGNOSTIC USES, |
+  | SO AN INSTRUMENT CANNOT EXPLAIN A DISCRIMINATORY PATTERN ITS OWN    |
+  | ORDINARY APPLICATIONS DO NOT PRODUCE.                               |
+  +--------------------------------------------------------------------+
+ORDERING RULE -> causes 1-4 explain WHY the preference exists; cause 5
+  explains WHY IT IS ACTED UPON even by those it harms; cause 6 explains
+  only HOW it is executed. INVERTING THE ORDER ADOPTS THE STEM'S DECOY.
+
+ASCII MASTER FLOW — PANEL 18/22: Female foeticide III -- the moral argument
+THE FIVE-STEP MORAL ARGUMENT
+  1. SEX SELECTION TREATS FEMALE STATUS AS A REASON FOR EXCLUSION FROM
+     BIRTH -- the ground of exclusion is the very characteristic whose
+     irrelevance the whole clause has been establishing
+        |
+        v
+  2. REPEATED INDIVIDUAL DECISIONS CREATE A SOCIAL MEANING THAT DAUGHTERS
+     ARE LESS WORTHY -- the wrong is in the PUBLIC MEANING many acts
+     jointly compose, and it reaches DAUGHTERS WHO ARE BORN
+        |
+        v
+  3. WOMEN MAY MAKE SUCH DECISIONS UNDER COERCIVE FAMILY AND ECONOMIC
+     CONDITIONS -- the agent may herself be a subject of the structure
+        |
+        v
+  4. THE WRONG THEREFORE INCLUDES **BOTH** DISCRIMINATORY VALUATION **AND**
+     CONSTRAINED AGENCY -- TWO wrongs, requiring TWO remedies
+        |
+        v
+  5. REFORM MUST ADDRESS NORMS, PROPERTY, SECURITY AND ACCOUNTABILITY --
+     NOT TECHNOLOGY ALONE
+        |
+        v
+THE MISSING-WOMEN LENS -- WHAT IT SUPPLIES AND WHAT IT DOES NOT
+  SUPPLIES -> a STRUCTURAL LENS: discrimination operates ACROSS BIRTH,
+  NUTRITION, HEALTH and SURVIVAL. A CONTINUUM, NOT ONE ACT AT ONE MOMENT.
+  DOES NOT SUPPLY -> a number. DO NOT INVENT OR REPRODUCE A FIGURE. The
+  philosophical point does not depend on a statistic, and the number inside
+  the essay's title is a CITATION, not an asserted measurement.
+        |
+        v
+SOCIAL IMBALANCE AND THE TRAP INSIDE 2023 Q3(c)
+  A distorted sex composition CAN intensify trafficking, coerced marriage
+  and violence. BUT:
+  +--------------------------------------------------------------------+
+  | CONSEQUENCES ARE NOT THE PRIMARY REASON IT IS WRONG. IT IS WRONG    |
+  | FIRST BECAUSE EQUAL DIGNITY IS DENIED.                              |
+  | THE CONSEQUENTIALIST TRAP: arguing only that society "NEEDS WOMEN"  |
+  | INSTRUMENTALISES WOMEN AGAIN -- valuing them for what their         |
+  | presence does for others is the SAME STRUCTURE OF VALUATION that    |
+  | produced the practice.                                              |
+  +--------------------------------------------------------------------+
+        |
+        v
+THE 2023 CHAIN, WITH ITS DECISIVE FINAL ARROW
+  DISCRIMINATION -> ALLOCATION (care, nutrition, health, selection) ->
+  FOETICIDE -> ALTERED SEX COMPOSITION -> TRAFFICKING, COERCED MARRIAGE,
+  VIOLENCE -> **WHICH FALL AGAIN ON WOMEN**
+  THE CONSEQUENCE REDISTRIBUTES HARM ONTO THE SAME GROUP, SO IT AGGRAVATES
+  THE ORIGINAL WRONG RATHER THAN CONSTITUTING IT.
+
+ASCII MASTER FLOW — PANEL 19/22: Land and property -- the five levels
+ATTRIBUTION -> BINA AGARWAL, *A Field of One's Own: Gender and Land Rights
+in South Asia* (1994): OWNERSHIP, EFFECTIVE CONTROL and REALISED BENEFIT.
+CENTRAL CLAIM -> LEGAL TITLE IS NEITHER NECESSARY NOR SUFFICIENT FOR ACTUAL
+COMMAND OVER LAND, AND THE GAP BETWEEN TITLE AND CONTROL IS WHERE
+GENDER-BLIND LAND POLICY FAILS. PARAPHRASE; NEVER QUOTE; NO PAGE REFERENCE.
+  +-----------+---------------------------+--------------------------+
+  | LEVEL     | THE QUESTION              | WHY TITLE ALONE FAILS    |
+  +-----------+---------------------------+--------------------------+
+  | TITLE     | is her name recognised in | law amended while RECORDS|
+  |           | law or record?            | CUSTOM and FAMILY        |
+  |           |                           | PRACTICE are not         |
+  +-----------+---------------------------+--------------------------+
+  | ACCESS    | can she actually USE it?  | DISTANCE, SAFETY,        |
+  |           |                           | SECLUSION NORMS, MALE KIN|
+  +-----------+---------------------------+--------------------------+
+  | CONTROL   | can she DECIDE cropping,  | decision-power follows   |
+  |           | leasing, sale, investment?| HOUSEHOLD AUTHORITY      |
+  +-----------+---------------------------+--------------------------+
+  | RETURN    | does she RECEIVE income?  | proceeds POOLED and      |
+  |           |                           | ALLOCATED BY OTHERS      |
+  +-----------+---------------------------+--------------------------+
+  | EXIT /    | does it PROTECT her       | THIS is where land       |
+  | SECURITY  | against abandonment or    | becomes BARGAINING POWER |
+  |           | violence?                 |                          |
+  +-----------+---------------------------+--------------------------+
+        |
+        v
+TWO INDEPENDENT ARGUMENTS FOR WHY PROPERTY MATTERS
+  CAPABILITY -> resources affect security, shelter, livelihood and
+    bargaining; independent property reduces COMPLETE dependence; control
+    improves the ability to EXIT VIOLENCE and PARTICIPATE; therefore
+    property is a CAPABILITY-CONVERSION RESOURCE, not merely an asset
+  RECOGNITION -> equal inheritance MARKS DAUGHTERS AS FULL MEMBERS rather
+    than TEMPORARY DEPENDANTS. A claim about STATUS, not income -- which is
+    why a purely economic property answer has lost half its content.
+        |
+        v
+AGARWAL'S ARGUMENT, RECONSTRUCTED
+  1. a woman's position depends on her FALL-BACK POSITION -- what she could
+     command IF THE RELATIONSHIP ENDED
+  2. INDEPENDENT rights strengthen it as MEDIATED access cannot
+  3. therefore land is BARGAINING POWER, VOICE and PROTECTION, not income
+  4. BUT title confers this ONLY joined to access, control, return, exit
+  5. hence the policy object is THE WHOLE CHAIN, not registration
+  PRESUPPOSITION -> intra-household allocation is a site of BARGAINING, not
+  of UNIFIED ALTRUISTIC DECISION. STATE IT; IT IS WHAT MAKES THIS PHILOSOPHY.
+OBJECTION -> if title does not convert, legal reform is misdirected effort.
+  REPLY -> title is NECESSARY BUT INSUFFICIENT: the legal precondition on
+  which access, credit and enforcement are built. RESIDUE -> the intervening
+  conditions are SLOWER, MORE DIFFUSE and HARDER TO LEGISLATE than title.
+
+ASCII MASTER FLOW — PANEL 20/22: The dated Indian record -- classified, never proof
+STANDING RULE -> STATE THE **STATUS**. STATE THE **DATE**. THEN STATE THE
+**CONVERSION CAVEAT**. AN ANSWER THAT TREATS A STATUTE AS EVIDENCE OF SOCIAL
+CHANGE HAS MADE THE ERROR THIS WHOLE CLAUSE IS ABOUT.
+  1994 . PCPNDT ACT ......... ENACTED REGULATORY AND PENAL STATUTE, later
+         (Pre-Conception and  expanded by amendment to PRE-CONCEPTION sex
+         Pre-Natal Diagnostic selection. REACHES supply and signalling.
+         Techniques)          DOES NOT establish that son preference weakened
+  2005 . HINDU SUCCESSION ... ENACTED AMENDMENT: daughters in a Mitakshara
+         (AMENDMENT) ACT      joint family take COPARCENARY STATUS BY BIRTH
+                              on the statutory terms. SETTLES entitlement.
+                              DOES NOT settle possession, control, return
+                              or exit
+  2015 . BETI BACHAO ........ UNION GOVERNMENT PROGRAMME, launched 2015.
+         BETI PADHAO          AN ADMINISTRATIVE INITIATIVE -- NOT a right,
+                              NOT proof of changed norms
+  2020 . VINEETA SHARMA ..... SUPREME COURT JUDGMENT clarifying the amended
+         v. RAKESH SHARMA     coparcenary right, INCLUDING that the father
+                              need not have been alive at commencement.
+                              SETTLES interpretation, not possession
+  2023 . CONSTITUTION ....... ENACTED CONSTITUTIONAL AMENDMENT associated
+         (106th AMENDMENT)    with women's reservation in the Lok Sabha and
+         ACT                  State Legislative Assemblies
+  2026 . S.O. 1922(E) ....... GAZETTE NOTIFICATION bringing it into force on
+         16 APRIL 2026        16 April 2026. Reservation provisions remain
+                              linked to a POST-ACT CENSUS-BASED DELIMITATION
+                              SEQUENCE under ARTICLE 334A. SEAT-LEVEL
+                              OPERATION PENDING as checked 3 SEPTEMBER 2026
+        |
+        v
+FOUR STAGES MOST SCRIPTS COLLAPSE
+  ENACTMENT -> NOTIFICATION -> ENFORCEMENT -> SOCIAL IMPLEMENTATION
+  FOUR DIFFERENT ACHIEVEMENTS. THE DISTANCE BETWEEN THE FIRST AND THE LAST
+  IS WHAT THIS CLAUSE EXAMINES.
+        |
+        v
+FOUR CONVERSION FAILURES -- NONE OF THEM A DEFECT IN THE LAW
+  WAIVER PRESSURE ..... asked, expected or induced to relinquish, framed as
+                        family loyalty
+  INFORMAL PARTITION .. divided outside the record, so the record is never
+                        contested
+  RECORD PRACTICES .... names, mutation and revenue entries LAG the law and
+                        are maintained by the order the law was to change
+  FEAR OF FAMILY ...... claiming has a PRICE: rupture, loss of natal
+  RUPTURE               support, isolation. A right whose exercise costs the
+                        relationship it was to secure her against is a RIGHT
+                        UNDER DURESS
+  ALL FOUR SIT AT LEVELS 2-5, INSIDE THE HOUSEHOLD -> PANEL 13 IS THEREFORE
+  A PREREQUISITE FOR ANY PROPERTY ANSWER.
+
+ASCII MASTER FLOW — PANEL 21/22: Empowerment -- four dimensions, three parts, one test
+DEFINITION -> EMPOWERMENT IS THE EXPANSION OF RESOURCES, CAPABILITIES,
+AGENCY, RECOGNITION AND INSTITUTIONAL INFLUENCE THROUGH WHICH WOMEN CAN
+**MAKE AND ACT UPON** SIGNIFICANT CHOICES.
+  FOUR DIMENSIONS OF POWER
+    POWER OVER ..... domination or control of others
+    POWER TO ....... capacity to act and achieve
+    POWER WITH ..... collective organisation and solidarity
+    POWER WITHIN ... self-respect and critical consciousness
+  EMPOWERMENT ENLARGES THE LATTER THREE WHILE CONSTRAINING UNJUST "POWER
+  OVER". IT IS NOT A TRANSFER OF DOMINATION FROM ONE GROUP TO ANOTHER.
+        |
+        v
+ATTRIBUTION -> NAILA KABEER: empowerment as the EXPANSION OF THE ABILITY TO
+MAKE STRATEGIC LIFE CHOICES IN A CONTEXT WHERE THAT ABILITY WAS PREVIOUSLY
+DENIED. Cite by name and position; paraphrase; no page reference.
+  RESOURCES (preconditions)
+  education . health . TIME . income . property . networks
+        |  converted through social conditions
+        v
+  AGENCY (process)
+  voice . choice . bargaining . mobility . bodily decision
+        |
+        v
+  ACHIEVEMENTS (outcomes)  functionings actually realised
+        |
+        v
+TWO SYMMETRICAL MEASUREMENT FAILURES
+  RESOURCE-COUNTING -> enrolment, accounts, asset transfers and scheme
+    coverage measure PRECONDITIONS. They record what has been SUPPLIED, not
+    what can be EXERCISED.
+  OUTCOME-COUNTING -> achievements can rise from household income, a
+    benevolent husband or an administrative order. AN IMPROVEMENT IN
+    OUTCOMES WITHOUT EXPANDED AGENCY IS **BETTER PROVISION**, NOT
+    EMPOWERMENT.
+        |
+        v
+THEREFORE THE DECISIVE COMPONENT IS **AGENCY** -- AND THE TEST IS
+ALTERNATIVES
+  +--------------------------------------------------------------------+
+  | A CHOICE MADE WHERE NO ALTERNATIVE WAS AVAILABLE, OR WHERE THE      |
+  | ALTERNATIVE CARRIED UNACCEPTABLE COST, IS NOT THE EXERCISE OF       |
+  | STRATEGIC CHOICE.                                                   |
+  +--------------------------------------------------------------------+
+  STRATEGIC LIFE CHOICES -> marriage . childbearing . whether and where to
+  work . freedom of movement . control over one's body
+  SECOND-ORDER CHOICES -> those that FOLLOW. EXPANDED CONSUMER CHOICE
+  WITHIN AN UNCHANGED STRUCTURE IS NOT EMPOWERMENT.
+  PRESUPPOSITION -> agency is INDIVIDUAL **AND** COLLECTIVE; one woman
+  cannot privately negotiate away every structural barrier.
+        |
+        v
+CAPABILITY LAYER -> SEN on REAL FREEDOMS; NUSSBAUM on BODILY HEALTH, BODILY
+  INTEGRITY, PRACTICAL REASON, AFFILIATION and CONTROL OVER ONE'S
+  ENVIRONMENT. ADAPTIVE PREFERENCE -> satisfaction reported under RESTRICTED
+  HORIZONS cannot measure empowerment. PATERNALISM -> answered by SECURING
+  CAPABILITIES, INFORMATION AND EXIT WHILE RESPECTING PLURAL CHOSEN
+  FUNCTIONINGS. RESIDUE -> judging which alternatives were GENUINELY
+  available requires interpretation. Concede it; do not dissolve it.
+
+ASCII MASTER FLOW — PANEL 22/22: Three dimensions and the answer spine
+  +---------------+------------------+----------------+----------------+
+  | DIMENSION     | GENDERED WRONG   | REMEDY         | FAILURE IF     |
+  |               |                  |                | ISOLATED       |
+  +---------------+------------------+----------------+----------------+
+  | REDISTRIBUTION| unequal income,  | resources,     | leaves stigma, |
+  |               | property, TIME,  | services,      | voice and      |
+  |               | CARE BURDEN,     | property and   | hierarchy      |
+  |               | material security| control, fair  | INTACT         |
+  |               |                  | division of    |                |
+  |               |                  | labour         |                |
+  +---------------+------------------+----------------+----------------+
+  | RECOGNITION   | devaluation,     | equal status;  | becomes        |
+  |               | stereotyping,    | transformation | SYMBOLIC       |
+  |               | humiliation;     | of cultural    | without        |
+  |               | feminised work   | value          | resources      |
+  |               | treated as lesser|                |                |
+  +---------------+------------------+----------------+----------------+
+  | REPRESENTATION| exclusion from   | voice, presence| PRESENCE ALONE |
+  |               | AGENDA-SETTING   | organisation,  | may not alter  |
+  |               | and authoritative| accountable    | policy or      |
+  |               | decision         | power          | internal        |
+  |               |                  |                | hierarchy      |
+  +---------------+------------------+----------------+----------------+
+  THREE NAMED FAILURES -> TOKENISM | CELEBRATION WITHOUT REDISTRIBUTION |
+  PATERNALISTIC PROVISION. EMPOWERMENT REQUIRES ALL THREE TOGETHER.
+        |
+        v
+CARE -- THE POLITICAL QUESTION INSIDE THE PRIVATE ONE (GILLIGAN, 1982)
+  JUSTICE asks WHAT IS FAIR / WHOSE RIGHT PREVAILS; CARE asks WHO IS
+  VULNERABLE HERE / WHAT DOES THIS RELATIONSHIP REQUIRE. FAILURE MODES:
+  INDIFFERENCE AND FORMALISM against SELF-EFFACEMENT.
+  WHY IT BELONGS HERE -> (1) the UNPAID CARE ECONOMY is a political question,
+  since the burden constraining education, employment, mobility and public
+  office IS CARE WORK; (2) it supplies a vocabulary for DEPENDENCY, which
+  contract theories handle badly BECAUSE DEPENDANTS CANNOT BARGAIN; (3) TIME
+  IS A RESOURCE and unequal care DEPLETES IT.
+  ESSENTIALISM OBJECTION -> a distinctive moral voice re-inscribes the
+  stereotype. REPLY -> the orientation arises from SOCIALLY ASSIGNED
+  POSITION, not nature, and is available to anyone so positioned. RESIDUE ->
+  the empirical gender division is CONTESTED and the reply reduces the thesis.
+  COMPLEMENTARITY -> justice supplies the LIMITS that prevent care becoming
+  self-erasure; care supplies the ATTENTIVENESS that prevents justice
+  becoming formalism.
+        |
+        v
+INTERSECTIONAL MEDIATION -- NOT ARITHMETIC
+  CASTE -> endogamy, labour, property, status, control of marriage/sexuality
+  CLASS -> insecure work, unpaid labour, services, bargaining resources
+  RELIGION/COMMUNITY -> minority vulnerability WITH internal authority and
+    personal-law disputes
+  DISABILITY -> dependency arrangements, accessibility, substituted decision
+  SEXUALITY/GENDER IDENTITY -> compulsory heterosexuality, stigma, policing
+  INTERSECTIONALITY ASKS HOW INSTITUTIONS PRODUCE A **DISTINCT MECHANISM**
+  AT THEIR INTERSECTION. A GENDER-ONLY REMEDY CAN MISS IT ENTIRELY.
+  CASTE DOCTRINE IS OWNED ELSEWHERE -- NAME THE MECHANISM AND ROUTE IT.
+        |
+        v
+THE INTEGRATED ANSWER SPINE -- USE ON ANY OWNED PART
+  1 NAME THE CONTEST (constitution / conversion / valuation / agency)
+  2 DEFINE AND DISTINGUISH -- the distinction IS the opening move
+  3 RUN THE MECHANISM (norm -> institution -> allocation -> outcome ->
+    internalisation -> justification)
+  4 APPLY THE LADDER OR THE TRIAD (title/access/control/return/exit OR
+    resources/agency/achievements)
+  5 ONE INDIAN ILLUSTRATION, CLASSIFIED, WITH ITS CONVERSION CAVEAT
+  6 ONE OBJECTION -> REPLY -> RESIDUAL PROBLEM
+  7 THE THREE DIMENSIONS as the completeness test on any remedy
+  8 CONVERSION-SPECIFYING VERDICT
+        |
+        v
+THE QUALIFIED CONCLUSION THAT CLOSES ANY OWNED PART
+  +--------------------------------------------------------------------+
+  | LEGAL ENTITLEMENT IS THE NECESSARY ANCHOR AND NOT THE SUFFICIENT    |
+  | CONDITION; WHAT CONVERTS IT INTO STANDING IS ACCESS, CONTROL,       |
+  | RETURN, EXIT, AGENCY AND VOICE. EMPOWERMENT IS NECESSARY AND        |
+  | TRANSFORMATIVE, AND MUST BE JOINED TO INSTITUTIONAL REFORM AND      |
+  | MEN'S PARTICIPATION IN CHANGING GENDERED POWER -- BECAUSE AN        |
+  | INJUSTICE SUSTAINED BY MANY AGENTS' ORDINARY CHOICES CANNOT BE      |
+  | DISSOLVED FROM ONE SIDE ALONE.                                      |
+  +--------------------------------------------------------------------+

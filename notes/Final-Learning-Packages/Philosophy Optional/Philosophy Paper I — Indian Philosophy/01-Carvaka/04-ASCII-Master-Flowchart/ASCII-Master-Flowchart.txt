@@ -1,98 +1,383 @@
-ASCII MASTER FLOW — PANEL 1/8: Source-critical entry
-CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE
-                         |
-     +-------------------+-------------------+
-     v                   v                   v
- lost Bṛhaspati-sūtra  opponent reports   quoted fragments
-                       (Mādhava, Jayanta,  (often polemical)
-                        Śāntarakṣita)
-     +-------------------+-------------------+
-                         v
- RULE: distinguish attested thesis from hostile caricature
- Lokāyata = this-worldly orientation; Cārvāka = materialist school label.
+ASCII MASTER FLOW — PANEL 1/12: Identity, names and the source problem
+ CENTRAL QUESTION: what may be affirmed about a school whose own books are lost?
+                                   |
+                                   v
+ NAMES OF ONE TRADITION (all three are used of the same materialist stream)
+   Cārvāka       -> standard school label; etymologies from "to chew" / "pleasant speech"
+                    are doxographers' explanations, NOT settled history
+   Lokāyata      -> "the worldly / popular doctrine"; this-worldly, not world-renouncing
+   Bārhaspatya   -> "of Bṛhaspati", the traditional founder; the attributed
+                    Bṛhaspati-sūtra is LOST
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ LOST PRIMARY CORPUS         OPPONENT DOXOGRAPHY            QUOTED FRAGMENTS
+ no systematic               Mādhava's Sarva-darśana-       about a dozen sūtras
+ materialist treatise        saṃgraha; Śaṃkara; Jayanta     and verses, preserved
+ survives                    Bhaṭṭa; Śāntarakṣita;          only inside refutations
+                             Haribhadra; Kṛṣṇa Miśra's
+                             Prabodhacandrodaya
+     +-----------------------------+-----------------------------+
+                                   v
+ ONE SURVIVING TEXT-WITNESS: Jayarāśi Bhaṭṭa, Tattvopaplavasiṃha
+   radical scepticism, not positive materialism -> LIMIT-CASE, not spokesman
+   school-affiliation contested ([CONTESTED]); never use him to state the defining thesis
+                                   |
+                                   v
+ METHOD RULE -> state doctrine as "the standard doxographical reconstruction"
+   convergence across independent hostile witnesses fixes a recoverable core
+   hostile transmission exaggerates weak points and omits strong ones
+ TRAP -> "sources are hostile, so nothing can be said" is as wrong as
+         "the Bṛhaspati-sūtra proves it".
 
-ASCII MASTER FLOW — PANEL 2/8: Epistemic gate
-VALID KNOWLEDGE (PRAMĀ)                     REJECTED INDEPENDENT SOURCES
-          |                                             |
-          v                                             v
- PERCEPTION (pratyakṣa) / PERCEPTION              inference (anumāna)     verbal testimony
-   (śabda)      comparison (upamāna)
- direct, sense-grounded              inference   testimony  comparison
-          |                              |
-          v                              v
- observed conjunction is finite; universal invariable concomitance (vyāpti) outruns perception
- smoke seen with fire in kitchens != smoke is invariably fire-linked.
+ASCII MASTER FLOW — PANEL 2/12: Classification, location and evidence grading
+ WHY IS CĀRVĀKA CALLED VEDA-REJECTING (nāstika)?
+   PRIMARY criterion  -> rejects the authority of the Veda
+   SECONDARY sense    -> denies existence after death
+   Cārvāka is nāstika in BOTH senses; Jaina and Bauddha schools are nāstika on the
+   first criterion only, since they accept life after death
+                                   |
+ +-----------------------------+---------------------------------+
+ v                             v                                 v
+ ORTHODOX (āstika)        UNORTHODOX (nāstika)             COMMON ERROR
+ Nyāya, Vaiśeṣika,        Cārvāka, Buddhism, Jainism       "nāstika = atheist"
+ Sāṃkhya, Yoga,                                            fails: Sāṃkhya and
+ Mīmāṃsā, Vedānta                                          Mīmāṃsā are non-theistic
+                                                           yet Veda-accepting
+                                   |
+                                   v
+ HISTORICAL LOCATION ([CONTESTED] handle with care)
+   anti-ritual and naturalist currents are old: epic, Buddhist, Jaina and
+   Brahmanical reports precede later doxographical systematisation
+   Ajita Kesakambalī = important early materialist comparator, NOT proof that every
+   early naturalist belonged to one organised Cārvāka school
+                                   |
+                                   v
+ EVIDENCE GRADING USED THROUGHOUT THIS TOPIC
+   [ATTESTED] convergent doctrine  [ANALYSIS] reconstruction  [CONTESTED] disputed
+ ANSWER LINE -> "Cārvāka, also called Lokāyata or Bārhaspatya, is the Veda-rejecting
+ materialist tradition; its positive system survives only through its critics."
 
-ASCII MASTER FLOW — PANEL 3/8: Inference controversy
-CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti)
- invariable concomitance (vyāpti) known by inference -> circularity | by perception -> incomplete
-   survey
- hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters
-                         |
- NYĀYA REPLY: repeated agreement + absence of counter-instance + hypothetical reasoning (tarka)
- agreement in presence (anvaya) (presence) + agreement in absence (vyatireka) (absence) ->
-   defeasible but rational invariable concomitance (vyāpti)
-                         |
- CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty
- SELF-REFUTATION CHARGE: arguing against inference already employs inference.
+ASCII MASTER FLOW — PANEL 3/12: The epistemic gate — perception alone
+ DEFINING THESIS: perception (pratyakṣa) is the ONLY independent means of valid
+ knowledge (pramāṇa).  Stronger than "perception is primary".
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ ADMITTED                                                   REFUSED AS INDEPENDENT
+ external perception (bāhya-pratyakṣa)                      inference (anumāna)
+   colours, sounds, tastes, smells, touches, bodies         verbal testimony (śabda)
+ internal perception (mānasa / antara-pratyakṣa)            comparison (upamāna)
+   pleasure, pain, desire, conscious states                 postulation (arthāpatti)
+                                                            non-cognition
+                                                              (anupalabdhi)
+                                   |
+                                   v
+ ARGUMENT IN FIVE STEPS
+   1 knowledge must be grounded in what is directly given
+   2 perception alone gives its object immediately
+   3 inference goes beyond the given, so it outruns certainty
+   4 testimony = trust in a speaker + an inference from words to facts
+   5 therefore perception alone is an independent means of valid knowledge
+                                   |
+                                   v
+ WHAT IS *NOT* DENIED
+   consciousness occurs and is internally perceived
+   what is refused is the further inference from awareness to an imperceptible bearer
+ TRAP -> "Cārvāka denies consciousness" is FALSE; it denies a transcendental self
+ PRESUPPOSITION [ANALYSIS] -> epistemic access fixes ontological commitment: admit into being
+ only what can in principle be presented in perception.
 
-ASCII MASTER FLOW — PANEL 4/8: Material ontology
-ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED
- earth + water + fire + air -> organised living body -> consciousness
-                         |
- consciousness is a body-property, not an immaterial substance
- analogy: fermentation ingredients -> intoxicating power not present separately
-                         |
- SELF = living conscious body (dehātma-vāda)
- death -> elemental dissolution -> no surviving enduring self (ātman), rebirth or afterlife
- QUALIFICATION: emergence is asserted; a full mechanism is not supplied.
+ASCII MASTER FLOW — PANEL 4/12: The attack on inference — three closed doors
+ EVERY INFERENCE NEEDS INVARIABLE CONCOMITANCE (vyāpti): "wherever smoke, there fire"
+                                   |
+                                   v
+                 HOW COULD THAT UNRESTRICTED UNIVERSAL BE KNOWN?
+                                   |
+     +-------------------+-------------------+-------------------+
+     v                   v                   v                   v
+ DOOR 1: PERCEPTION  DOOR 2: INFERENCE   DOOR 3: TESTIMONY   DOOR 4: (later lists)
+ finite survey only  needs a further     its own validity    comparison, postulation
+ past, future and    vyāpti -> circular  is unproved and     and non-cognition either
+ distant cases are   or infinite         itself inferred     add nothing new or
+ never observed      regress                                 borrow the same universal
+     +-------------------+-------------------+-------------------+
+                                   v
+ RESULT: vyāpti never rises above habit, expectation or probability
+         -> inference is not an independent means of valid knowledge
+                                   |
+                                   v
+ SHARMA'S REDUCTIO ON TESTIMONY -> if testimony established vyāpti,
+   "none would be able to infer anything by himself"
+ ACCIDENTAL TRUTH -> some inferences are true, others fail; truth is a separable
+   accident of the practice, so predictive success proves nothing about status
+                                   |
+                                   v
+ WHAT IS CONCEDED -> movement from sign to signified happens constantly
+ WHAT IS DENIED   -> that such movement yields necessary, exceptionless knowledge
+ EXAM CONTROL -> state the doors as THREE. A vague "vyāpti cannot be proved"
+ throws away the marks that this argument is designed to carry.
 
-ASCII MASTER FLOW — PANEL 5/8: Transcendent denials
-NO PERCEPTUAL WARRANT
-       |
-       +-> no immortal soul -> no rebirth
-       +-> no action and moral consequence (karma) as supersensible moral force
-       +-> no heaven/hell -> no post-mortem reward or punishment
-       +-> no creator God -> world needs no transcendent planner
-       +-> no Vedic infallibility -> priestly testimony lacks intrinsic authority
- RESULT: metaphysics is cut back to perceptible nature and embodied life.
+ASCII MASTER FLOW — PANEL 5/12: Hidden limiting condition and self-refutation
+ HIDDEN LIMITING CONDITION (upādhi)
+   observed: smoke with fire, many times  ->  hasty universal: smoke proves fire
+   but what was constant may have been fire-PLUS-WET-FUEL, or combustion under an
+   unnoticed qualifier -> the supposed universal was too broad all along
+   STRUCTURAL, not quantitative: it survives however many cases are collected
+ TRAP -> upādhi is NOT the same as "too few instances observed"
+                                   |
+                                   v
+ THE SOCRATES SYLLOGISM (2019, 15 marks) — where the objection lands
+   "All men are mortal / Socrates is a man / therefore Socrates is mortal"
+   FORM is conceded valid.  The target is the MAJOR PREMISE, which is a vyāpti:
+   no one has perceived all men; relocating the relation to man-ness and mortality
+   does not help, because class-characters are not perceived either
+   VERDICT -> valid but epistemically empty: it transmits a certainty never acquired
+                                   |
+                                   v
+ SELF-REFUTATION CHARGE (2019, 2025)
+   1 "no inference is a means of valid knowledge" quantifies over all inferences
+   2 no single perception delivers a universal
+   3 so the thesis is inferred (self-defeating) or undefended (unassertable)
+   4 Sharma presses further: thoughts and other minds are never perceived, so the
+     Cārvāka "can understand others only through inference"
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ REPLY A: vitaṇḍā            REPLY B: softened thesis      REPLY C: level-distinction
+ assert nothing, only        deny apodictic certainty,     concede practical
+ destroy the opponent —      especially about the          validity, deny ultimate —
+ but four elements and a     transcendent — a weaker       but that distinction is
+ body-self ARE asserted      but defensible doctrine       "unknown to the Cārvāka"
+                                   v
+ VERDICT [ANALYSIS] -> radical or consistent, but not both.
 
-ASCII MASTER FLOW — PANEL 6/8: Ethics without caricature
-PURUṢĀRTHA FILTER
- dharma: rejected when grounded in unseen reward or Vedic command
- liberation (mokṣa): rejected as liberation of a separable soul
- material well-being (artha) + pleasure (kāma): intelligible goods within one embodied life
-                         |
- prudent enjoyment != reckless indulgence
- pleasure sought -> weigh pain, social consequence and attainable means
-                         |
- EXAM CONTROL: call it naturalistic hedonism or this-worldliness;
- do not reduce the school to the hostile slogan “eat, drink and borrow.”
+ASCII MASTER FLOW — PANEL 6/12: The Nyāya defence and a balanced verdict
+ NYĀYA REBUILDS INVARIABLE CONCOMITANCE WITHOUT OMNISCIENT SURVEY
+   agreement in presence (anvaya)      -> repeated positive co-observation
+   agreement in absence (vyatireka)    -> no counter-instance where the probandum
+                                          is absent
+   elimination of suspected upādhis    -> known qualifiers identified and excluded
+   hypothetical reasoning (tarka)      -> denial of the relation makes experience
+                                          incoherent; tarka removes doubt but is
+                                          NOT itself a means of valid knowledge
+   perception of the universal         -> sāmānyalakṣaṇa-pratyakṣa in later Nyāya
+   the mark as qualified (parāmarśa)   -> no "leap" occurs; the sign is cognised
+                                          together with the concomitance
+                                   |
+                                   v
+ THE REAL LOCUS OF THE DISPUTE
+   BOTH sides agree finite observation cannot ENTAIL an unrestricted universal
+   Cārvāka: entailment fails -> no knowledge -> no means-of-valid-knowledge status
+   Nyāya  : entailment fails -> warrant does not require entailment -> status stands
+   So the quarrel is about the CONCEPT OF KNOWLEDGE, not about the logic of induction
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ WHY NYĀYA WINS AGAINST THE STRONG THESIS         HONEST RESIDUE AGAINST NYĀYA [ANALYSIS]
+ universal denial is itself a universal;          tarka establishes nothing alone;
+ other minds and ideas are never perceived;       sāmānyalakṣaṇa works only inside
+ the school still asserts elements and a self     Nyāya realism about universals;
+                                                  elimination removes only SUSPECTED
+                                                  conditions, never proves that none
+                                                  remains
+                                   v
+ GRADED VERDICT -> justified against the strong thesis, but Nyāya answers by
+ replacing omniscient certainty with disciplined, defeasible warrant — which
+ concedes the Cārvāka's logical point while refusing his epistemological conclusion.
 
-ASCII MASTER FLOW — PANEL 7/8: Comparative pressure map
-ISSUE          CĀRVĀKA             NYĀYA              BUDDHISM
-means of valid knowledge (pramāṇa)        perception only     four means of valid knowledge
-  (pramāṇas)      perception + inference
-self           conscious body      enduring enduring self (ātman)     anātman stream
-causation      observed sequence   realist relation   dependent origination
-transcendent   denied              God, soul, action and moral consequence (karma)   action and
-  moral consequence (karma) without creator
-liberation     death ends person    release (apavarga)           cessation of conditioned
-  suffering (nirvāṇa)
-                         |
- STRENGTH: anti-dogmatic evidential discipline
- LIMIT: perception-only rule struggles to justify science, memory and its own critique.
+ASCII MASTER FLOW — PANEL 7/12: Testimony, the wider list, and the school ledger
+ WHY VERBAL TESTIMONY (śabda) IS REFUSED
+   1 testimony reports only that someone uttered something
+   2 the step from utterance to truth assumes competence and honesty
+   3 that assumption is not in the words; it is inferred
+   4 inference is already denied independent status -> testimony collapses
+   5 Vedic authorlessness and infallibility are not perceptually available
+ NOT DENIED -> ordinary communication; language may guide action until perception
+ checks it.  Usefulness is separated from means-of-valid-knowledge status.
+                                   |
+                                   v
+ THE SAME CRITERION APPLIED TO THE LATER LIST [ANALYSIS] (systematic reconstruction)
+   comparison (upamāna)      -> resemblance is perceived; the stable word-kind
+                                relation needs generalisation
+   postulation (arthāpatti)  -> the postulated fact is unperceived and needs a
+                                universal rule excluding alternatives
+   non-cognition             -> "if it existed here it would be perceived" is a
+   (anupalabdhi)                universal conditional, not one perception
+                                   |
+                                   v
+ LEDGER OF ADMITTED MEANS OF VALID KNOWLEDGE — CĀRVĀKA FIXES THE LOWER BOUND
+   1  Cārvāka                   perception
+   2  Vaiśeṣika, Buddhism       + inference
+   3  Sāṃkhya-Yoga              + testimony
+   4  Nyāya                     + comparison
+   5  Prābhākara Mīmāṃsā        + postulation
+   6  Bhāṭṭa Mīmāṃsā, Advaita   + non-apprehension
+ STRUCTURAL POINT -> every richer epistemology must justify its additions against
+ Cārvāka; that is why he is the standing pūrvapakṣa of Indian philosophy.
 
-ASCII MASTER FLOW — PANEL 8/8: PYQ answer rail
-DEFINE source problem -> STATE perception thesis -> RECONSTRUCT inference attack
-        |                         |                         |
-        v                         v                         v
- explain hidden limiting condition (upādhi)/circularity -> give Nyāya reply -> assess
-   self-refutation
-        |
-        v
- derive materialism -> embodied self -> transcendent denials -> ethical result
-        |
-        v
- QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive
- perception (pratyakṣa) criterion is narrower than the reasoning needed to defend that challenge.
+ASCII MASTER FLOW — PANEL 8/12: Material ontology — four elements and own-nature
+ ONTOLOGICAL MINIMALISM: admit only what perception can present
+                                   |
+                                   v
+ FOUR ELEMENTS (bhūtas): EARTH + WATER + FIRE + AIR
+   eternal material bases; their combination and dissolution produce bodies,
+   sense organs, objects and living organisms
+ ĀKĀŚA IS REJECTED -> it is not perceived; the Nyāya inference from sound to an
+   imperceptible substratum inherits the disputed vyāpti problem
+ TRAP -> writing "five elements" is the single most punished factual slip here
+ PYQ ANCHOR -> 2020 Q6(b), 15 marks: rejection of ākāśa + criticism of transmigration
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ OWN NATURE (svabhāvavāda) [ATTESTED]                 ACCIDENTALISM (yadṛcchāvāda) [CONTESTED]
+ fire burns, water flows down, thorns are sharp,      events occur by chance, with
+ the peacock is variegated, stone is hard             no determining cause at all
+ REGULARITY IS REAL; only TRANSCENDENT causation      DETERMINATE CAUSATION IS
+ is denied — no karma, no adṛṣṭa, no divine will      DENIED; listed by doxographers
+ explanation stops at an OBSERVABLE nature            among ahetuvāda positions and
+                                                      attacked by Buddhists, Jainas
+                                                      and Naiyāyikas alike;
+                                                      the Cārvāka link is CONTESTED
+                                   v
+ OBJECTION -> "burns by its own nature" is a refusal to explain, not an explanation
+ REPLY [ANALYSIS] -> every explanatory chain terminates somewhere; "God willed it" is also
+ terminal and far less observable.  RESIDUAL FORCE [ANALYSIS] -> the school still gives no
+ account of WHY natures stay stable, which is precisely what vyāpti-theory supplies.
+
+ASCII MASTER FLOW — PANEL 9/12: Self, body and emergent consciousness
+ THE LIVING BODY IS THE SELF (dehātmavāda)
+   1 conscious life is only ever met with as embodied
+   2 no self is perceived apart from bodily states
+   3 so an extra substance called ātman is an unwarranted addition
+   4 explain awareness instead as a property of the bodily complex
+ IDENTITY-LANGUAGE ARGUMENT -> "I am stout", "I am thin" predicate bodily properties
+   directly of the person.  Opponent: "my body" separates possessor from possessed.
+   Reply: possessive grammar alone does not prove a separable substance.
+ EVIDENCE -> injury, intoxication, age, sleep and disease visibly alter awareness
+                                   |
+                                   v
+ CONSCIOUSNESS FROM THE ELEMENTS (bhūta-caitanya)
+   betel analogy      -> leaf + lime + areca nut give a RED not present in any part
+   fermentation       -> kiṇvādibhyo madaśaktivad vijñānam: intoxicating power
+                         arises from fermenting agents that lack it separately
+   CLAIM -> an organised whole can display a NOVEL property absent from ingredients
+   NOT the claim that consciousness is identical with any one element
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ FOUR MATERIALIST SELF-MODELS [CONTESTED] (Sadānanda, Vedāntasāra)   OBJECTIONS AND REPLIES
+   gross body (sthūla-śarīra) / senses (indriya) /          Jaina: an emergent
+   vital processes (prāṇa) / mental organ (manas)           property needs a bearer
+   SHARED CORE -> none survives bodily dissolution          Advaita: consciousness is
+   BOUNDARY -> this is NOT the crude/refined contrast       self-luminous; the body
+                                                            is known BY it
+                                                            Reply [ANALYSIS] -> positing an
+                                                            immaterial soul renames
+                                                            rather than explains
+                                   v
+ HONEST LIMIT [ANALYSIS] -> emergence is asserted, not explained: redness and intoxicating
+ power are third-personal, whereas awareness is first-personal.
+
+ASCII MASTER FLOW — PANEL 10/12: The rejection of transcendent entities
+ ONE TEMPLATE, APPLIED REPEATEDLY
+   X is imperceptible -> only inference or testimony could reach X -> neither is an
+   independent means of valid knowledge -> X is not admitted
+                                   |
+     +---------+---------+---------+---------+---------+---------+
+     v         v         v         v         v         v
+ immortal   rebirth   karma as   heaven    creator   Vedic infallibility
+ soul       and       unseen     and hell  God       and priestly authority
+            trans-    moral      (unseen   (world
+            migration force,     ritual    needs no
+                      adṛṣṭa     result)   planner)
+     +---------+---------+---------+---------+---------+---------+
+                                   v
+ LIBERATION (mokṣa) IS CANCELLED, NOT REDESCRIBED
+   opponent-preserved formula [CONTESTED] "death itself is liberation"
+   (maraṇam eva apavargaḥ) -> dissolution ends the person and so ends suffering;
+   it describes no positive post-mortem state
+                                   |
+                                   v
+ RITUAL CRITIQUE -> sacrifice and ancestral offerings promise unseen results that
+   cannot be verified; the satire that ritual sustains priestly livelihood is
+   SUPPLEMENTARY to the epistemological argument, never a substitute for it
+   e.g. the mocking challenge that if the sacrificial victim goes to heaven, the
+   sacrificer should offer his own father — a polemical fragment, not a treatise
+                                   |
+                                   v
+ OBJECTION -> without karma and rebirth the moral order collapses
+ REPLY [ANALYSIS] -> morality need not be underwritten by cosmic bookkeeping; pleasure,
+ pain, prudence and social consequence are enough for conduct
+ STRUCTURAL VERDICT -> Cārvāka is the only Indian school whose atheism follows from
+ its EPISTEMOLOGY rather than from cosmology or soteriology; non-theism is common in
+ India, but this-worldliness is Cārvāka's alone.  PYQ ANCHOR -> 2021 Q5(e).
+
+ASCII MASTER FLOW — PANEL 11/12: Ethics, society and anti-caricature control
+ THE FOUR HUMAN ENDS, FILTERED
+   dharma    -> rejected where it rests on scriptural command or unseen reward
+   mokṣa     -> rejected: it presupposes a separable self and a post-mortem destiny
+   artha     -> ADMITTED as the INSTRUMENT
+   kāma      -> ADMITTED as the END
+ HIERARCHY MATTERS -> pleasure is the end, wealth its means; they are not co-equal
+                                   |
+                                   v
+ PRUDENTIAL STRUCTURE, NOT RECKLESS APPETITE
+   husk-and-grain image -> do not discard grain because it carries a husk;
+   secure pleasure while limiting foreseeable pain
+   traditional verse [ANALYSIS] "as long as one lives, let one live happily"
+   (yāvat jīvet sukhaṃ jīvet) -> cite as a DOXOGRAPHICAL verse associated with the
+   school's image, never as a line from an extant primary text
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ SOCIAL AND POLITICAL SIDE [CONTESTED] (thin evidence)          CRUDE vs REFINED [CONTESTED]
+ statecraft (daṇḍanīti) and livelihood (vārttā)       dhūrta -> the caricatured,
+ reported inside the Lokāyata curriculum;             everything-is-body version
+ some Cārvākas "regard the king as God"               suśikṣita -> allows practical
+ READING [ANALYSIS] -> a secular theory of authority:         inference (lokasiddha), and is
+ order comes from the sovereign, not from cosmic      the strongest reply to the
+ dharma; prosperity from the productive arts          self-refutation charge
+                                                      BOUNDARY -> doxographical and
+                                                      indirect; NOT two documented
+                                                      schools with surviving texts
+                                   v
+ EVALUATION [ANALYSIS] -> two things the rivals supply are missing: a QUALITATIVE ranking of
+ pleasures and an account of OTHER-REGARDING obligation.  Honest verdict: a coherent
+ theory of PRUDENCE and an incomplete theory of MORALITY.
+ CONTROL -> call it naturalistic hedonism or this-worldliness; do not reduce a
+ serious epistemological school to a slogan about eating and drinking.
+
+ASCII MASTER FLOW — PANEL 12/12: Comparative map, PYQ rail and answer spine
+ COMPARATIVE AXES — USE THESE FIVE, NEVER A VAGUE "MATTER vs SPIRIT"
+ AXIS          CĀRVĀKA            NYĀYA              BUDDHISM          JAINISM
+ knowledge     perception only    four means         perception +      many means +
+                                                     inference         standpoints
+ self          living body        enduring ātman     no substantial    plural jīvas
+ causation     observed nature    real relation      dependent orig.   persisting
+ transcendent  all denied         God, soul, karma   karma, no creator karma as matter
+ liberation    death ends person  apavarga           nirvāṇa           mokṣa of jīva
+ KEY DISTINCTIONS -> Cārvāka denies TRANSCENDENCE but keeps a MATERIAL BEARER;
+ Buddhism denies SUBSTANTIALITY but keeps MORAL CONTINUITY, and rules out the
+ body-self by name, since material form is itself an aggregate declared not-self.
+                                   |
+                                   v
+ DIRECTLY OWNED PYQ RAIL (Paper I, Section B)
+   2018 Q8(b) 15  cross-school acceptability of the rejection of inference
+   2019 Q5(c) 10  consistency of the rejection of inference
+   2019 Q6(c) 15  what is wrong with the Socrates syllogism
+   2020 Q6(b) 15  rejection of ākāśa + criticism of transmigration
+   2020 Q7(c) 15  Cārvāka and Jaina conceptions of reality
+   2021 Q5(e) 10  bearing of epistemology on the rejection of transcendent entities
+   2024 Q5(a) 10  is the philosophy positivistic?
+   2024 Q6(a) 20  Cārvāka refutation of self vs Buddhist rejection of ātman
+   2025 Q5(a) 10  grounds for rejecting inference
+   SUPPORTING 2022 Q7(c) 15 (Nyāya-owned): the Naiyāyika reply to these objections
+                                   |
+                                   v
+ ANSWER SPINE -> define + flag reconstruction -> perception-only thesis ->
+ three doors + upādhi -> Nyāya reply -> derive ontology (four elements, body-self,
+ emergent awareness) -> transcendent denials -> ethics -> ONE comparison ->
+ QUALIFIED VERDICT: a rigorous empiricist protest and a decisive standing
+ pūrvapakṣa, but not a complete theory of knowledge, since the exclusive perceptual
+ criterion is narrower than the reasoning needed to defend it.

@@ -1,87 +1,938 @@
-ASCII MASTER FLOW — PANEL 1/12: The central question and conceptual grammar
-CENTRAL QUESTION -> how does birth-based hierarchy reproduce itself,
-and how do Gandhi and Ambedkar differently seek its transformation?
-TEXTUAL FOURFOLD ORDER (VARNA) != LIVED BIRTH-GROUP (JATI)
-!= CASTE SYSTEM != UNTOUCHABILITY
-caste: order of birth, rank, occupation and closure
-untouchability: intensified stigma and exclusion
+ASCII MASTER FLOW — PANEL 1/22: The printed clause, the central question and the ownership fence
+SYLLABUS (verbatim) -> "Caste Discrimination : Gandhi and Ambedkar."
+        |            ONE SOCIAL STRUCTURE + TWO NAMED RIVAL DIAGNOSES.
+        v            THE TWO NAMES ARE NOT DECORATION: THE CLAUSE IS A CONTEST.
+THE CENTRAL QUESTION -> WHAT REPRODUCES BIRTH-BASED GRADED INEQUALITY, AND WHICH
+                        METHOD -- MORAL REFORM FROM WITHIN OR STRUCTURAL
+                        ANNIHILATION -- CAN ACTUALLY END IT?
+        |
+        v
+WHY TWO THINKERS AND NOT ONE DOCTRINE -- THE CLAUSE IS BUILT AS A DISPUTE
+  +---------------+-----------------------------+--------------------------+
+  | THINKER       | WHAT HE IDENTIFIES AS THE   | WHAT HE MAKES THE        |
+  |               | PRIMARY EVIL                | DECISIVE INSTRUMENT      |
+  +---------------+-----------------------------+--------------------------+
+  | GANDHI        | untouchability and moral    | conscience, penance,     |
+  |               | degradation; later, wider   | truth-force, constructive|
+  |               | birth barriers              | work, reform from within |
+  +---------------+-----------------------------+--------------------------+
+  | AMBEDKAR      | CASTE ITSELF as graded      | rights, representation,  |
+  |               | inequality sustained by     | law, organisation,       |
+  |               | endogamy, sanction, power   | annihilation, conversion |
+  +---------------+-----------------------------+--------------------------+
+  SHARED TARGET, RIVAL DIAGNOSIS. A SCRIPT THAT DIVIDES CREDIT EQUALLY HAS
+  NOT ANSWERED THE QUESTION THE PAPER ACTUALLY PRINTS.
+        |
+        v
+MASTER THESIS -> CASTE IS A HEREDITARY, ENDOGAMOUS, RITUALLY SANCTIONED AND
+  GRADED RANKING OF PERSONS, NOT A DIVISION OF WORK. MORAL TRANSFORMATION
+  REACHES THE CONSCIENCE OF THE DOMINANT, WHICH LAW CANNOT COMPEL; RIGHTS AND
+  REPRESENTATION REACH THE STRUCTURE OF POWER, WHICH CONSCIENCE CANNOT BE
+  RELIED UPON TO SURRENDER. THE DEFENSIBLE POSITION IS AMBEDKARITE IN
+  STRUCTURE AND RIGHTS, GANDHIAN ONLY WHERE MORAL TRANSFORMATION SERVES --
+  AND NEVER SUBSTITUTES FOR -- ANNIHILATION.
+        |
+        v
+OWNERSHIP FENCE  historical chronology and regional sociology of caste ->
+  History/Sociology | Gandhian socialism and the development doctrine ->
+  Political Ideologies and Development and Social Progress | full Buddhist
+  doctrine -> Buddhism (Paper I) | complete constitutional case-law ->
+  Polity and Social Justice | gender doctrine as such -> Gender Discrimination
+  | recognition/multiculturalism AS DOCTRINE -> Humanism, Secularism and
+  Multiculturalism | liberty, equality, justice AS IDEALS -> Social and
+  Political Ideals | full Marxism -> Political Ideologies
+CORPUS SHARE -> 9 of 112 Socio-Political parts, 2018-2025, PRESENT IN EVERY
+  YEAR EXCEPT 2019-ONLY-ONCE PATTERN: 2018:1 2019:1 2020:1 2021:1 2022:2
+  2023:1 2024:1 2025:1. THE MOST SUSTAINED NAMED INDIAN REFORM DEBATE.
 
-ASCII MASTER FLOW — PANEL 2/12: Reproduction: endogamy to graded inequality
-endogamy -> inherited membership -> hereditary status
--> occupational closure + purity/pollution + sanction
--> division of labourers -> graded inequality
--> fractured solidarity and restricted free association
-TRAP -> caste is not merely work division, class or prejudice.
+ASCII MASTER FLOW — PANEL 2/22: The four contests and the owned part each generates
+NAME THE CONTEST IN LINE ONE. THE SAME MATERIAL ANSWERS FOUR DIFFERENT
+QUESTIONS, AND A SCRIPT THAT DOES NOT CHOOSE WRITES ONE ESSAY NINE TIMES.
+  +---------------+------------------------------+-----------------------+
+  | CONTEST       | THE QUESTION IT ASKS         | OWNED PARTS           |
+  +---------------+------------------------------+-----------------------+
+  | MECHANISM     | what reproduces caste, and   | 2024 Q1(c) 10         |
+  |               | is it work, class or rank?   |                       |
+  +---------------+------------------------------+-----------------------+
+  | METHOD        | reform from within or        | 2022 Q2(b) 15         |
+  |               | annihilation of the sanction?| 2023 Q3(b) 15         |
+  |               |                              | 2021 Q4(a) 20         |
+  +---------------+------------------------------+-----------------------+
+  | COMPARISON    | do the two thinkers actually | 2019 Q4(a) 20         |
+  |               | differ, and on what axis?    | 2025 Q2(a) 20         |
+  +---------------+------------------------------+-----------------------+
+  | PERSISTENCE   | why does caste survive equal | 2018 Q1(c) 10         |
+  |               | citizenship and franchise?   | 2020 Q3(a) 20         |
+  |               |                              | 2022 Q1(b) 10         |
+  +---------------+------------------------------+-----------------------+
+        |
+        v
+THE FIVE SEPARATIONS THAT MUST NEVER BE COLLAPSED
+  S1 . VARNA is not JATI is not CASTE is not UNTOUCHABILITY
+       FAILS: a script that uses the four words as synonyms cannot state
+       what Gandhi defended early or what Ambedkar attacked throughout.
+  S2 . DIVISION OF LABOUR is not DIVISION OF LABOURERS
+       FAILS: the functional-efficiency defence survives untouched.
+  S3 . REFORM OF UNTOUCHABILITY is not ANNIHILATION OF CASTE
+       FAILS: Gandhi and Ambedkar become two styles of the same programme.
+  S4 . ENACTMENT is not NOTIFICATION is not ENFORCEMENT is not SOCIAL CHANGE
+       FAILS: Article 17 or a statute is offered as proof that caste ended.
+  S5 . ASSERTION BY OPPRESSED CASTES is not DEFENCE OF HEREDITARY SUPREMACY
+       FAILS: democratic claim-making is condemned as "casteism".
+        |
+        v
+THE DISCRIMINATING TEST -- ONE SENTENCE, ANY OWNED STEM
+  +--------------------------------------------------------------------+
+  | IF THE OUTWARD PRACTICE IS REFORMED WHILE BIRTH STILL ALLOCATES     |
+  | MARRIAGE, RANK, OCCUPATION AND SOCIAL WORTH, THE SANCTION SURVIVES  |
+  | THE REFORM. THAT IS THE ORDINARY CASE, NOT THE EXOTIC ONE.          |
+  +--------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Caste in democracy and the body politic
-universal franchise -> political voice, representation, bargaining
-caste power -> patronage, candidate selection, social blocs
-ASSERTION for equal citizenship != DEFENCE of hereditary supremacy
-class + gender interact with caste; neither erases its mechanism.
-JUSTICE -> redistribution + recognition/status + representation
-RELIGION -> belief is free; sacred sanction cannot impose civic disability.
+ASCII MASTER FLOW — PANEL 3/22: Conceptual grammar -- four terms, four scopes, one target
+  +------------------+---------------------------+------------------------+
+  | TERM             | WHAT IT NAMES             | COMPULSORY QUALIFIER   |
+  +------------------+---------------------------+------------------------+
+  | TEXTUAL FOURFOLD | a normative classification| NOT identical with the |
+  | ORDER (VARNA)    | in Brahmanical texts      | lived social order     |
+  +------------------+---------------------------+------------------------+
+  | LIVED BIRTH-     | birth-based, generally    | thousands of groups,   |
+  | GROUP (JATI)     | endogamous, locally       | wide regional variation|
+  |                  | organised group           |                        |
+  +------------------+---------------------------+------------------------+
+  | CASTE SYSTEM     | the institutional order   | NOT merely a division  |
+  |                  | joining birth, endogamy,  | of labour, and not     |
+  |                  | status, occupation and    | reducible to class     |
+  |                  | social closure            |                        |
+  +------------------+---------------------------+------------------------+
+  | UNTOUCHABILITY   | practices imposing extreme| a SYMPTOM AND          |
+  |                  | exclusion and stigma on   | INTENSIFICATION of the |
+  |                  | designated groups         | hierarchy, not its     |
+  |                  |                           | whole                  |
+  +------------------+---------------------------+------------------------+
+        |
+        v
+WHAT THE PHILOSOPHICAL TARGET ACTUALLY IS -- ONE SENTENCE
+  +--------------------------------------------------------------------+
+  | THE TARGET IS NOT A LIST OF CUSTOMS BUT THE JUSTIFICATION AND       |
+  | REPRODUCTION OF BIRTH-BASED GRADED INEQUALITY. CUSTOMS CHANGE;      |
+  | THE PRINCIPLE THAT BIRTH FIXES WORTH IS WHAT IS UNDER ATTACK.       |
+  +--------------------------------------------------------------------+
+        |
+   +----+----------------------------+-----------------------------+
+   | WRECK 1: FLATTENING             | WRECK 2: FREEZING           |
+   | all four words used as one, so  | caste described as a single |
+   | Gandhi's early defence of an    | unchanged institution across|
+   | idealised duty-order cannot be  | all of Indian history, which|
+   | distinguished from his lifelong | makes both reform and its   |
+   | attack on untouchability        | failure inexplicable        |
+   +---------------------------------+-----------------------------+
+TRAP -> "Caste means the four varnas" is the single fastest way to lose the
+  first three marks of any ten-marker on this clause.
 
-ASCII MASTER FLOW — PANEL 4/12: Gandhi's staged position
-EARLIER -> idealised hereditary duty-order (varna), no asserted rank
-CAMPAIGN -> untouchability condemned; temple entry and common service
-LATER -> increasingly critical of birth barriers; inter-caste marriage
-RESIDUE -> inherited allocation can preserve closure despite denied rank
-TERM -> 'Harijan' is historical usage and contested, not neutral.
+ASCII MASTER FLOW — PANEL 4/22: The reproduction engine -- seven mechanisms, one causal chain
+CASTE IS NOT A STATE OF AFFAIRS; IT IS A REPRODUCING SYSTEM. WRITE IT AS A
+CHAIN, NEVER AS A BULLET LIST OF SOCIAL FEATURES.
+  M1 ENDOGAMY .............. the enforced marriage boundary closes the group
+       and carries membership across generations
+                 |
+                 v
+  M2 HEREDITARY STATUS ..... membership assigns social worth BY BIRTH,
+       before any act, aptitude or choice of the person ranked
+                 |
+                 v
+  M3 OCCUPATIONAL CLOSURE .. work is allocated by birth-group, mobility is
+       restricted, and stigma attaches to the labour itself
+                 |
+                 v
+  M4 PURITY / POLLUTION .... ritual rules MORALISE distance, so exclusion is
+       experienced as duty rather than as injury
+                 |
+                 v
+  M5 RELIGIOUS SANCTION .... hierarchy is presented as SACRED, which converts
+       a social arrangement into an obligation
+                 |
+                 v
+  M6 SOCIAL + ECONOMIC POWER  land, credit, employment, dependence and the
+       threat of violence enforce the norm where persuasion fails
+                 |
+                 v
+  M7 POLITICAL MOBILISATION  AMBIVALENT: it can democratise subordinated
+       groups AND harden competitive identities. Judge by programme, not label
+                 |
+                 v
+  RESULT -> GRADED INEQUALITY: a ranked, closed, self-legitimating order
+        |
+        v
+WHY THE CHAIN MATTERS FOR MARKS
+  +--------------------------------------------------------------------+
+  | EACH LINK IS A SEPARATE INTERVENTION POINT. INTER-CASTE MARRIAGE    |
+  | ATTACKS M1; RESERVATION ATTACKS M3; ARTICLE 17 ATTACKS M4;          |
+  | ANNIHILATION ATTACKS M5; LAND AND EDUCATION ATTACK M6. AN ANSWER    |
+  | THAT NAMES THE LINK ITS REMEDY REACHES HAS AN ARGUMENT.             |
+  +--------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Gandhian moral reform: argument and method
-equal spiritual worth -> untouchability violates truth + non-violence (ahimsa)
--> privileged caste responsibility, repentance, self-purification
--> truth-force (satyagraha) + constructive programme + reinterpretation
-STRENGTH -> moral responsibility and changed daily practice
-LIMIT -> conscience does not guarantee rights, power or voice.
+ASCII MASTER FLOW — PANEL 5/22: Division of labour against division of labourers
+THE FUNCTIONAL DEFENCE, STATED AT ITS STRONGEST -- THEN DISMANTLED
+  DEFENCE -> "Every complex society divides work. Caste is only India's
+             traditional occupational specialisation, and specialisation is
+             efficient. Condemning it is therefore a modern prejudice."
+        |
+        v
+AMBEDKAR'S DECISIVE DISTINCTION -- THE FASTEST ROUTE PAST DESCRIPTION
+  +-------------------------------+-----------------------------------+
+  | DIVISION OF LABOUR            | DIVISION OF LABOURERS             |
+  +-------------------------------+-----------------------------------+
+  | allocates TASKS               | allocates and RANKS PERSONS       |
+  | permits entry and exit        | fixes occupation BY BIRTH         |
+  | tracks aptitude and choice    | ignores aptitude and choice       |
+  | leaves the worker's standing  | attaches HEREDITARY WORTH to the  |
+  | untouched                     | worker, not to the work           |
+  | compatible with free          | requires a closed marriage circle |
+  | association                   | and restricted association        |
+  +-------------------------------+-----------------------------------+
+        |
+        v
+THE THREE-STEP REPLY THAT ENDS THE DEFENCE
+  1. EFFICIENCY CANNOT JUSTIFY ASCRIPTION. A division that ignores aptitude
+     is not even efficient on its own terms.
+  2. THE RANKING IS OF PERSONS. Caste subdivides the labouring population
+     into hierarchically graded compartments, which no functional account of
+     tasks requires or explains.
+  3. THE STIGMA IS THE POINT. Where work is degrading BECAUSE OF WHO DOES IT,
+     the hierarchy is doing the work, not the division.
+        |
+        v
+LIMIT, CONCEDED -> The labour argument alone does not reach the ritual and
+  purity dimension. PAIR IT WITH GRADED INEQUALITY (Panel 6) or the answer
+  explains the economics of caste and misses its sacred sanction.
 
-ASCII MASTER FLOW — PANEL 6/12: Ambedkar's caste diagnosis
-Castes in India (1916) -> endogamy closes the marriage circle
-closed circle -> caste reproduction -> status hierarchy
-graded inequality -> each level has stake in distinction below
-RESULT -> caste is anti-social and weakens public spirit.
+ASCII MASTER FLOW — PANEL 6/22: Graded inequality and the failure of anti-caste solidarity
+NOT A BINARY. AN ASCENDING SCALE OF REVERENCE AND A DESCENDING SCALE OF
+CONTEMPT, IN WHICH ALMOST EVERY STRATUM HAS SOMETHING TO LOSE.
+        highest reverence
+              ^
+              |   each level: subordinated to those above
+              |               SUPERIOR to those below
+              |               -> a stake in the order's continuance
+              v
+        deepest contempt
+        |
+        v
+THE POLITICAL CONSEQUENCE THAT EARNS THE MARK
+  +--------------------------------------------------------------------+
+  | THE OPPRESSED DO NOT UNITE BECAUSE OPPRESSION IS DISTRIBUTED THROUGH|
+  | A LADDER RATHER THAN CONCENTRATED IN A BINARY. GRADED INEQUALITY IS |
+  | THEREFORE AN EXPLANATION OF CASTE'S DURABILITY, NOT MERELY A        |
+  | DESCRIPTION OF ITS SHAPE.                                          |
+  +--------------------------------------------------------------------+
+        |
+   +----+---------------------------+------------------------------+
+   | WHAT IT EXPLAINS               | WHAT IT DOES NOT SUPPLY      |
+   | why isolated reforms are       | a remedy. It names a         |
+   | absorbed; why class solidarity | structural obstacle and      |
+   | is obstructed; why appeals to  | leaves open whether rights,  |
+   | common humanity are sincerely  | representation or conversion |
+   | made and structurally defeated | is the correct response      |
+   +--------------------------------+------------------------------+
+TRAP -> Do not convert graded inequality into a two-class model borrowed from
+  class analysis. The ladder, not the binary, is the load-bearing claim.
 
-ASCII MASTER FLOW — PANEL 7/12: Annihilation rather than adjustment
-Annihilation of Caste (1936) -> isolated reform leaves sanction intact
-caste-sanctioning authority + endogamy + power must be confronted
-inter-caste marriage attacks closure; EDUCATE -> AGITATE -> ORGANISE
-CONTROL -> reject imposed civic inferiority, not individual belief as such.
+ASCII MASTER FLOW — PANEL 7/22: Caste in the body politic under universal franchise
+2022 Q1(b) ROUTE -> "In the age of individualism and universal franchise,
+what role does caste play in body-politic?"
+        |
+   +----+--------------------------------+---------------------------+
+   | WHAT THE FRANCHISE ENABLES          | WHAT IT DOES NOT DISSOLVE |
+   | subordinated populations become     | candidate selection,      |
+   | political CONSTITUENCIES; voice,    | patronage, symbolic       |
+   | bargaining, representation and      | mobilisation, social      |
+   | policy attention become available   | blocs, unequal STATUS     |
+   +-------------------------------------+---------------------------+
+        |
+        v
+THE NORMATIVE SEPARATION THAT MUST BE STATED -- NOT ALL CASTE POLITICS IS ONE
+  +--------------+-------------------------------+----------------------+
+  | ASSERTION    | seeks equality, voice and     | normatively           |
+  |              | equal citizenship             | DEFENSIBLE            |
+  +--------------+-------------------------------+----------------------+
+  | SUPREMACY    | seeks inherited privilege and | normatively           |
+  |              | preserved rank                | INDEFENSIBLE          |
+  +--------------+-------------------------------+----------------------+
+  | ELECTORAL    | ordinarily contains elements  | JUDGE BY PROGRAMME    |
+  | MOBILISATION | of both                       | AND EFFECT, not label |
+  +--------------+-------------------------------+----------------------+
+        |
+        v
+AMBEDKAR'S CONTRADICTION -- THE CLOSING MOVE OF ALMOST EVERY 20-MARKER
+  +--------------------------------------------------------------------+
+  | ONE PERSON ONE VOTE AND ONE VOTE ONE VALUE, SET AGAINST A SOCIAL    |
+  | ORDER OF GRADED WORTH, IS A CONTRADICTION A POLITY CANNOT           |
+  | INDEFINITELY BEAR. POLITICAL DEMOCRACY REQUIRES SOCIAL DEMOCRACY.   |
+  +--------------------------------------------------------------------+
+2018 Q1(c) BRIDGE -> caste survives alternate identities because the FRANCHISE
+  reaches the citizen while ENDOGAMY, RITUAL RANK AND DEPENDENCE reach the
+  household. Gandhi's answer is transformed social conduct; the residue is
+  that conduct without rights leaves the change revocable.
 
-ASCII MASTER FLOW — PANEL 8/12: Ambedkar's social-democratic programme
-rights + remedies -> protected action
-representation -> autonomous political voice
-constitutional morality -> civic norms above inherited authority
-liberty + equality + fraternity -> social democracy
-conversion (1956) -> Buddhism as new vehicle (Navayana),
-ethical reconstruction rather than mere ritual change.
+ASCII MASTER FLOW — PANEL 8/22: The four dimensions of caste injustice and their distinct remedies
+DO NOT TREAT THESE AS SUBSTITUTES. EACH ANSWERS A DIFFERENT MECHANISM.
+  +----------------+------------------------------+---------------------+
+  | DIMENSION      | THE CASTE MECHANISM          | THE REQUIRED        |
+  |                |                              | RESPONSE            |
+  +----------------+------------------------------+---------------------+
+  | REDISTRIBUTION | unequal land, labour,        | resources and       |
+  |                | education, networks, security| institutional access|
+  +----------------+------------------------------+---------------------+
+  | RECOGNITION /  | stigma, purity/pollution,    | repudiation of      |
+  | STATUS         | humiliation, graded worth    | inherited rank      |
+  +----------------+------------------------------+---------------------+
+  | REPRESENTATION | others speak for the group;  | autonomous voice    |
+  |                | candidate and office access  | and political       |
+  |                | controlled elsewhere         | safeguards          |
+  +----------------+------------------------------+---------------------+
+  | RELIGION       | hierarchy presented as       | freedom of          |
+  |                | sacred authority             | conscience PLUS no  |
+  |                |                              | civic disability    |
+  +----------------+------------------------------+---------------------+
+  | GENDER         | endogamy regulates marriage, | anti-caste and      |
+  |                | sexuality and property       | gender analysis     |
+  |                |                              | JOINTLY structured  |
+  +----------------+------------------------------+---------------------+
+  | CLASS          | exploitation interacts with, | material analysis   |
+  |                | but does not exhaust, status | WITHOUT reduction   |
+  |                | closure                      | of caste to class   |
+  +----------------+------------------------------+---------------------+
+        |
+        v
+THE TWO FAILURE MODES THIS GRID NAMES
+  IDENTITY WITHOUT REDISTRIBUTION -> material power is left intact
+  REDISTRIBUTION WITHOUT RECOGNITION -> humiliation is preserved
+TRAP -> Dalit women's position is NOT the arithmetic sum of caste plus
+  gender analysed separately; endogamy makes the two structurally joint.
 
-ASCII MASTER FLOW — PANEL 9/12: The Gandhi-Ambedkar matrix
-TARGET: Gandhi untouchability/later barriers | Ambedkar caste itself
-ROOT: corrupted conscience | endogamy, sanction, closure, power
-AGENT: reformed society | autonomous oppressed organisation
-METHOD: reform and non-violence | rights, representation, annihilation
-DEMOCRACY: ethical fellowship | constitutional/social democracy
-CONVERGENCE: anti-untouchability, worth, social reform
-CONTROL: common ends do not erase unequal diagnosis or autonomous power.
+ASCII MASTER FLOW — PANEL 9/22: Gandhi periodised -- three phases and the residue that survives
+NEVER FLATTEN GANDHI INTO ONE TIMELESS POSITION. THE PERIODISATION IS ITSELF
+A MARK-BEARING MOVE, AND IT IS THE FIRST THING A 2022 OR 2025 STEM REWARDS.
+  P1 . EARLIER PHASE
+       distinguishes an IDEALISED HEREDITARY DUTY-ORDER (VARNA) from caste
+       hierarchy; presents it as non-competitive, without superiority,
+       a scheme of duties rather than of ranks
+              |
+              v
+  P2 . ANTI-UNTOUCHABILITY CAMPAIGN
+       condemns exclusion as sin; temple entry; shared sanitation work and
+       common service; the term "HARIJAN" is introduced -- LATER REJECTED BY
+       MANY DALIT THINKERS AS PATERNALISTIC
+              |
+              v
+  P3 . LATER MOVEMENT
+       increasingly critical of birth-based caste barriers; increasingly
+       supportive of INTER-CASTE MARRIAGE
+              |
+              v
+  RESIDUE -> AN IDEALISED DUTY-ORDER CAN STILL ALLOCATE BY BIRTH EVEN AFTER
+        EXPLICIT RANKING IS DENIED. THAT IS A GENUINE THEORETICAL LIABILITY
+        AND IT IS NOT CANCELLED BY THE LATER POSITION.
+        |
+        v
+PERIODISATION CONTROL -- THE QUALIFICATION THAT MUST BE WRITTEN
+  +--------------------------------------------------------------------+
+  | THIS IS A TRAJECTORY RECONSTRUCTED ACROSS DECADES OF WRITING AND    |
+  | PRACTICE. IT IS NOT A CLAIM THAT ONE DATE OR ONE SENTENCE CLEANLY   |
+  | REPLACED EVERY EARLIER COMMITMENT. STATE THE LATER OPPOSITION TO    |
+  | BIRTH BARRIERS TOGETHER WITH -- NOT INSTEAD OF -- THE EARLIER       |
+  | LIABILITY.                                                          |
+  +--------------------------------------------------------------------+
+TERM CONTROL -> "Harijan" is GANDHI'S HISTORICAL USAGE, contested at the time
+  and since. It is never the narrator's neutral term.
 
-ASCII MASTER FLOW — PANEL 10/12: Poona Pact and secular democracy
-Communal Award (1932) -> separate electoral arrangements
-Poona Pact (1932) -> joint electorate + reserved seats + primary-election mechanism
-Gandhi: feared lasting separation | Ambedkar: feared dependent representatives
-QUESTION -> who can choose a subordinated group's representatives?
-TRAP -> interpret autonomy; do not narrate figures or harmony.
+ASCII MASTER FLOW — PANEL 10/22: Gandhi's argument against untouchability -- five steps
+THE DOCTRINE, STATED AS AN ARGUMENT RATHER THAN AS A SENTIMENT
+  1. ALL LIFE PARTICIPATES IN A MORAL-SPIRITUAL UNITY, so persons are of
+     equal spiritual worth whatever their birth-group.
+                 |
+                 v
+  2. DEGRADING ANOTHER PERSON VIOLATES NON-VIOLENCE (AHIMSA) AND TRUTH.
+     Untouchability is therefore not merely unkind; it is a breach of the
+     two commitments on which the whole Gandhian ethic rests.
+                 |
+                 v
+  3. INHERITED EXCLUSION CORRUPTS BOTH PARTIES -- the excluded and the caste
+     Hindu conscience that practises the exclusion.
+                 |
+                 v
+  4. THEREFORE REFORM MUST INVOLVE REPENTANCE AND CHANGED CONDUCT BY THE
+     PRIVILEGED. Responsibility is placed on the dominant, not on the victim.
+                 |
+                 v
+  5. LEGAL PROHIBITION IS NECESSARY BUT CANNOT BY ITSELF GENERATE FELLOWSHIP.
+     Law can forbid an act; it cannot manufacture regard.
+        |
+        v
+THE STRONGEST FORM OF THE GANDHIAN CLAIM -- WORTH QUOTING AS A POSITION
+  +--------------------------------------------------------------------+
+  | UNTOUCHABILITY IS A SIN AGAINST HUMANITY AND AGAINST RELIGION       |
+  | ITSELF, TO BE EXPIATED BY THE PRACTISING COMMUNITY THROUGH PENANCE, |
+  | SERVICE AND SELF-PURIFICATION. NO RELIGIOUS SANCTION CAN ATTACH TO  |
+  | THE DEGRADATION OF A HUMAN BEING.                                   |
+  +--------------------------------------------------------------------+
+LIMIT, STATED IMMEDIATELY -> This places the initiative with the dominant
+  group's conscience. That is precisely Ambedkar's central objection, and an
+  answer that states the argument without the limit has written half of it.
 
-ASCII MASTER FLOW — PANEL 11/12: Safeguards, affirmative action and legal-status discipline
-Article 17 -> constitutional rule abolishing untouchability
-1989 Act, in force 1990 -> enacted protective penal statute
-grounds -> compensatory | distributive | representational | anti-domination
-Mandal = report | Indra Sawhney (1992) = judgment
-103rd Amendment (2019) = enabling amendment | Janhit Abhiyan (2022) = judgment
+ASCII MASTER FLOW — PANEL 11/22: Gandhi's method, presuppositions and achievement
+METHOD IS WHERE GANDHI AND AMBEDKAR MOST SHARPLY DIVERGE, AND IT IS THE
+COMPONENT MOST ROUTINELY OMITTED FROM SCRIPTS.
+  +---------------------------+---------------------------------------+
+  | INSTRUMENT                | WHAT IT IS SUPPOSED TO DO             |
+  +---------------------------+---------------------------------------+
+  | CHANGE OF HEART AND       | remove the inner assent on which the  |
+  | SELF-PURIFICATION         | practice depends                      |
+  +---------------------------+---------------------------------------+
+  | TRUTH-FORCE (SATYAGRAHA)  | contest unjust practice without        |
+  |                           | converting the opponent into an enemy |
+  +---------------------------+---------------------------------------+
+  | CONSTRUCTIVE PROGRAMME    | education, sanitation, common service  |
+  |                           | and village work as DAILY PRACTICE    |
+  +---------------------------+---------------------------------------+
+  | RELIGIOUS REINTERPRETATION| separate living ethical religion from |
+  |                           | unjust accretion, FROM WITHIN         |
+  +---------------------------+---------------------------------------+
+  | NON-VIOLENT PERSUASION    | refuse class war and coercive hatred  |
+  +---------------------------+---------------------------------------+
+  | TRUSTEESHIP AND ECONOMIC  | reduce the DEPENDENCE through which   |
+  | REFORM                    | caste power is actually exercised     |
+  +---------------------------+---------------------------------------+
+        |
+        v
+PRESUPPOSITIONS -> traditions contain resources for self-criticism | the
+  privileged can be morally transformed | means must EMBODY the fellowship
+  sought | social unity must not be purchased through coercive hatred
+        |
+        v
+ACHIEVEMENT, STATED FAIRLY BEFORE THE CRITIQUE
+  +--------------------------------------------------------------------+
+  | GANDHI BROUGHT CASTE HUMILIATION INTO MASS MORAL AND POLITICAL      |
+  | DISCOURSE, MADE CASTE HINDU RESPONSIBILITY CENTRAL, TIED REFORM TO  |
+  | EVERYDAY PRACTICE, AND INSISTED THAT POLITICAL FREEDOM WITHOUT      |
+  | INTERNAL MORAL REFORM WAS INCOMPLETE.                               |
+  +--------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: PYQ answer spine and qualified conclusion
-DEFINE -> name the exact caste mechanism or thinker-axis
-DISTINGUISH -> varna/jati/caste; reform/annihilation; law/social change
-ARGUE -> named anchor -> analysis -> objection/reply -> residual limit
-COMPARE -> run common axes, never two biographies
-CONCLUDE -> Ambedkarite structure and rights; moral transformation serves it
-PYQ ROUTES -> factors, Gandhi, Ambedkar, annihilation, body politic, debate.
+ASCII MASTER FLOW — PANEL 12/22: Four objections to Gandhi, four replies, four residues
+GIVE EACH OBJECTION AT ITS STRONGEST. A REPLY TO A WEAK OBJECTION EARNS
+NOTHING, AND THE RESIDUE IS WHERE THE CRITICAL MARK ACTUALLY SITS.
+  +---------------+-------------------------+-------------------------+
+  | OBJECTION     | GANDHIAN REPLY          | RESIDUE THAT SURVIVES   |
+  +---------------+-------------------------+-------------------------+
+  | PATERNALISM   | the moral responsibility| the objection STANDS    |
+  | privileged    | of oppressors is        | unless oppressed        |
+  | reformers     | indispensable and cannot| communities hold        |
+  | speak for the | be delegated            | AUTONOMOUS voice and    |
+  | oppressed and |                         | leadership; renaming is |
+  | rename them   |                         | not transfer of power   |
+  +---------------+-------------------------+-------------------------+
+  | STRUCTURAL    | the constructive        | ENFORCEABLE RIGHTS are  |
+  | heart-change  | programme and satyagraha| still required; justice |
+  | leaves        | are social practices,   | that depends on         |
+  | property,     | not private sentiment   | benevolence is          |
+  | office and    |                         | revocable               |
+  | exclusion     |                         |                         |
+  | untouched     |                         |                         |
+  +---------------+-------------------------+-------------------------+
+  | VARNA         | the later trajectory    | the EARLY DEFENCES      |
+  | hereditary    | weakens birth hierarchy | remain a genuine        |
+  | duty          | and supports inter-caste| theoretical liability   |
+  | reproduces    | marriage                | and cannot be argued    |
+  | caste even    |                         | away by chronology      |
+  | without rank  |                         |                         |
+  +---------------+-------------------------+-------------------------+
+  | RELIGIOUS     | living ethical religion | AMBEDKAR REPLIES that   |
+  | REFORM        | is distinguishable from | the AUTHORITY STRUCTURE |
+  | reinterpreting| unjust accretion        | itself must be broken,  |
+  | scripture     |                         | not reinterpreted       |
+  | preserves the |                         |                         |
+  | authority     |                         |                         |
+  +---------------+-------------------------+-------------------------+
+2022 Q2(b) ROUTE -> "Critically evaluate" means the objection-reply-residue
+  layer IS the answer. Two chains, fully worked, beat six listed criticisms.
+
+ASCII MASTER FLOW — PANEL 13/22: Ambedkar I -- endogamy as the mechanism (Castes in India, 1916)
+THE ORIGIN QUESTION IS DISPUTED; THE MECHANISM IS THE LOAD-BEARING CLAIM.
+USE THE MECHANISM, NOT THE HISTORICAL GENESIS, AS THE ANCHOR.
+  STEP 1 -> A CASTE MUST PRESERVE A CLOSED MARRIAGE CIRCLE. Endogamy is not
+     one feature among many; it is the condition of the group's existence.
+              |
+              v
+  STEP 2 -> DEMOGRAPHIC IMBALANCE INSIDE THE GROUP THREATENS THAT CLOSURE.
+     A surplus of unmarried men or women opens the boundary.
+              |
+              v
+  STEP 3 -> SOCIAL PRACTICES REGULATING WIDOWS, WIDOWERS AND MARRIAGE ARISE
+     TO MAINTAIN THE CIRCLE. The control of women is structurally required.
+              |
+              v
+  STEP 4 -> THEREFORE CASTE IS REPRODUCED THROUGH THE CONTROL OF SEXUALITY
+     AND FAMILY, NOT ONLY THROUGH OCCUPATION.
+        |
+        v
+THE BRIDGE TO GENDER -- WRITE IT, IT IS A DISTINGUISHING SENTENCE
+  +--------------------------------------------------------------------+
+  | CASTE CONTINUITY DEPENDS ON REGULATING WOMEN'S MARRIAGE AND         |
+  | SEXUALITY. ANTI-CASTE AND GENDER ANALYSIS ARE THEREFORE JOINTLY     |
+  | STRUCTURED RATHER THAN SEPARATELY ADDED. THE FULL GENDER DOCTRINE   |
+  | IS ROUTED TO ITS OWN OWNER AND NEVER DEVELOPED HERE.                |
+  +--------------------------------------------------------------------+
+        |
+        v
+WHY THIS BEATS EVERY DESCRIPTIVE OPENING
+  a script that opens "caste is a hereditary system of social stratification"
+  has said nothing an examiner cannot supply. A script that opens with the
+  CLOSED MARRIAGE CIRCLE has already named the reproduction mechanism, and
+  every subsequent remedy can be tested against it.
+LIMIT -> the 1916 account of ORIGIN is one hypothesis among several. Do not
+  assert it as settled history; assert the mechanism.
+
+ASCII MASTER FLOW — PANEL 14/22: Ambedkar II -- Annihilation of Caste (1936), the five moves
+THE TARGET IS THE SANCTION, NOT THE PRACTICE. REFORM OF UNTOUCHABILITY ALONE
+IS EXPLICITLY REJECTED AS INSUFFICIENT.
+  1. CASTE IS SUSTAINED BY BELIEF IN THE SACRED AUTHORITY OF RULES THAT RANK
+     AND SEPARATE. The system rests on a sanctified belief-system.
+                 |
+                 v
+  2. ISOLATED REFORMS LEAVE THAT NORMATIVE FOUNDATION INTACT, which is why
+     the hierarchy survives every reform of its outward practice.
+                 |
+                 v
+  3. INTER-DINING ALONE DOES NOT RELIABLY BREAK THE SYSTEM. A shared meal
+     does not open the marriage circle.
+                 |
+                 v
+  4. INTER-CASTE MARRIAGE ATTACKS ENDOGAMY AND CREATES SOCIAL KINSHIP. It
+     reaches the mechanism identified in 1916.
+                 |
+                 v
+  5. ANNIHILATION THEREFORE REQUIRES REJECTION OR RADICAL RECONSTRUCTION OF
+     SCRIPTURAL AUTHORITY, SOCIAL RIGHTS AND MATERIAL RELATIONS.
+        |
+        v
+CASTE AS ANTI-SOCIAL AND ANTI-NATIONAL
+  +--------------------------------+---------------------------------+
+  | CULTURAL PLURALITY              | CASTE                          |
+  | interaction among EQUAL groups; | RANKED SEPARATION; loyalty     |
+  | difference without ranking      | narrowed to the group; public  |
+  |                                 | spirit and common action       |
+  |                                 | obstructed                     |
+  +---------------------------------+--------------------------------+
+  CASTE IS NOT DIVERSITY. IT IS RANKED SEPARATION -- SAY THIS EXPLICITLY.
+        |
+        v
+2023 Q3(b) ROUTE -> "social and political significance of annihilation":
+  SOCIAL = the marriage circle, association and the valuation of persons;
+  POLITICAL = the sanction, representation and the conditions of democracy.
+  A script that treats annihilation as a slogan for "removing caste feeling"
+  has lost both halves.
+LIMIT, CONCEDED -> The state's competence to alter religious BELIEF is
+  limited. That limit is exactly why conversion and constitutional morality
+  enter the programme.
+
+ASCII MASTER FLOW — PANEL 15/22: Ambedkar III -- liberty, equality and fraternity as one triad
+NOT THREE SEPARATE IDEALS. AN INSEPARABLE SOCIAL-DEMOCRATIC TRIAD IN WHICH
+EACH TERM FAILS WITHOUT THE OTHER TWO.
+   LIBERTY WITHOUT EQUALITY -> permits DOMINATION by the already powerful
+   EQUALITY WITHOUT LIBERTY -> suppresses INDIVIDUALITY
+   BOTH WITHOUT FRATERNITY  -> lack the SOCIAL DISPOSITION to recognise
+                               others as equals at all
+        |
+        v
+FRATERNITY, DEFINED AGAINST THE COMMONEST MISREADING
+  +--------------------------------------------------------------------+
+  | FRATERNITY IS NOT SENTIMENTALITY OR GOODWILL. IT IS THE SOCIAL      |
+  | BASIS OF DEMOCRACY: A SENSE OF COMMON ASSOCIATED LIFE AMONG SOCIAL  |
+  | EQUALS, SUPPORTED BY RIGHTS AND INSTITUTIONS. IT IS THE LEAST       |
+  | ATTENDED AND MOST NECESSARY OF THE THREE, AND NO QUOTA PRODUCES IT. |
+  +--------------------------------------------------------------------+
+        |
+        v
+SOCIAL DEMOCRACY -- THE CONCEPT THAT CLOSES ALMOST EVERY 20-MARKER
+  political democracy = periodic voting and formal equal citizenship
+  SOCIAL DEMOCRACY   = liberty, equality and fraternity AS A WAY OF LIFE;
+                       democracy as a MODE OF ASSOCIATED LIVING
+  A POLITICAL DEMOCRACY RESTING ON A SOCIAL ORDER OF GRADED INEQUALITY IS
+  UNSTABLE. THAT INSTABILITY, NOT A SHORTAGE OF GOODWILL, IS THE DIAGNOSIS.
+        |
+        v
+CONSTITUTIONAL MORALITY -- WHY LEGAL ABOLITION IS NOT ENOUGH
+  the FORM of administration can be perverted WITHOUT ALTERING THE TEXT;
+  therefore a DIFFUSED PUBLIC COMMITMENT to constitutional norms must be
+  cultivated. A safeguard is inert without the disposition that sustains it.
+LIMIT -> constitutional morality names a CONDITION without specifying how it
+  is produced. Concede this; it is Ambedkar's own diagnosis, not a defeat.
+
+ASCII MASTER FLOW — PANEL 16/22: Ambedkar IV -- rights, representation and the argument for power
+THE ARGUMENT FROM SOCIAL POWER, IN FIVE MOVES
+  1. CASTE IS ENFORCED THROUGH SOCIAL POWER, not merely private prejudice.
+  2. VICTIMS THEREFORE NEED RIGHTS AND REMEDIES INDEPENDENT OF DOMINANT
+     GOODWILL. A benefit that can be withdrawn is not a right.
+  3. POLITICAL REPRESENTATION ENABLES SUBORDINATED GROUPS TO SPEAK FOR
+     THEMSELVES rather than be spoken for.
+  4. CONSTITUTIONAL MORALITY RESTRAINS INHERITED SOCIAL AUTHORITY, including
+     the authority of a social majority.
+  5. DEMOCRACY MUST BECOME A MODE OF ASSOCIATED LIVING, not only periodic
+     voting.
+        |
+        v
+EDUCATE -- AGITATE -- ORGANISE: A POWER PROGRAMME, NOT SELF-HELP
+  +-------------+------------------------------------------------------+
+  | EDUCATE     | produces CRITICAL SELF-RESPECT and enlarged agency    |
+  | AGITATE     | CONTESTS public injustice through collective action  |
+  | ORGANISE    | builds AUTONOMOUS COLLECTIVE POWER                    |
+  +-------------+------------------------------------------------------+
+  READ AS AN INTEGRATED PROGRAMME OF EMANCIPATION AND REPRESENTATION.
+  NEVER as a motivational slogan detached from rights and material power.
+        |
+        v
+CONVERSION AND BUDDHISM AS A NEW VEHICLE (NAVAYANA), 1956
+  emancipation required DEPARTURE from a religious-social order judged
+  inseparable from caste authority; the conversion expresses an ETHICAL
+  RECONSTRUCTION around reason, compassion, equality and fraternity
+  IT IS BOTH personal freedom of conscience AND collective social critique.
+  IT IS NOT a change of ritual label, and it PLACES THE REMEDY OUTSIDE THE
+  STATE ALTOGETHER.
+TRAP -> Do not develop classical Buddhist doctrine here; it is another
+  owner's property. Name Navayana's ethical-social reconstruction and stop.
+
+ASCII MASTER FLOW — PANEL 17/22: Ambedkar beyond reservation, and the Marx comparison
+THE MOST DAMAGING SINGLE ERROR ON THIS CLAUSE IS TO PRESENT AMBEDKAR AS A
+THEORIST OF RESERVATION. RESERVATION IS A SAFEGUARD, AND BY HIS OWN ACCOUNT
+AN INSUFFICIENT ONE.
+  +----------------------+----------------------------------------------+
+  | ELEMENT              | WHY IT EXCEEDS ANY QUOTA                     |
+  +----------------------+----------------------------------------------+
+  | ANNIHILATION         | reservation redistributes positions inside a |
+  |                      | hierarchy it does not dissolve               |
+  +----------------------+----------------------------------------------+
+  | ENDOGAMY             | no quota touches the marriage circle          |
+  +----------------------+----------------------------------------------+
+  | CONSTITUTIONAL       | a legal safeguard is inert without the       |
+  | MORALITY             | disposition that sustains it                 |
+  +----------------------+----------------------------------------------+
+  | SOCIAL DEMOCRACY     | representation without it leaves the         |
+  |                      | one-vote-one-value contradiction standing    |
+  +----------------------+----------------------------------------------+
+  | FRATERNITY           | cannot be legislated; no quota produces it   |
+  +----------------------+----------------------------------------------+
+  | EDUCATE, AGITATE,    | reservation without organised capacity is a  |
+  | ORGANISE             | benefit RECEIVED rather than power HELD      |
+  +----------------------+----------------------------------------------+
+  | CONVERSION           | places the remedy outside the state entirely |
+  +----------------------+----------------------------------------------+
+  | STATE-DIRECTED       | political safeguards do not touch economic   |
+  | ECONOMIC POWER       | dependence on dominant-caste landowners and  |
+  |                      | employers (his States and Minorities         |
+  |                      | proposals)                                   |
+  +----------------------+----------------------------------------------+
+  ONE-LINE THESIS -> RESERVATION ADDRESSES ACCESS TO POSITIONS; ANNIHILATION
+  ADDRESSES THE VALUATION OF PERSONS, AND ONLY THE SECOND PRODUCES SOCIAL
+  DEMOCRACY.
+        |
+        v
+AMBEDKAR AND MARX -- STATE IT PRECISELY, NEITHER FUSED NOR OPPOSED
+  +-------------+---------------------------+--------------------------+
+  | AXIS        | MARXIAN EMPHASIS          | AMBEDKARITE EMPHASIS     |
+  +-------------+---------------------------+--------------------------+
+  | HIERARCHY   | ownership and class       | caste status, endogamy,  |
+  |             | relation                  | religion AND class       |
+  +-------------+---------------------------+--------------------------+
+  | AGENCY      | the proletarian class     | oppressed castes through |
+  |             |                           | rights and organisation  |
+  +-------------+---------------------------+--------------------------+
+  | METHOD      | revolutionary             | constitutional democracy |
+  |             | transformation            | plus social struggle     |
+  +-------------+---------------------------+--------------------------+
+  | IDEAL       | classless society         | social democracy of      |
+  |             |                           | liberty, equality,       |
+  |             |                           | fraternity               |
+  +-------------+---------------------------+--------------------------+
+  THE PRECISE POINT -> he ACCEPTS that economic power matters and that the
+  state must act on property, but DENIES that caste is a form of class. An
+  economic revolution that leaves the valuation of persons intact reproduces
+  hierarchy in a new form.
+
+ASCII MASTER FLOW — PANEL 18/22: Three objections to Ambedkar, three replies, three residues
+  +---------------+--------------------------+--------------------------+
+  | OBJECTION     | REPLY                    | RESIDUE                  |
+  +---------------+--------------------------+--------------------------+
+  | LEGALISM      | he NEVER relies on law   | implementation, evasion  |
+  | law cannot    | alone: law changes power,| and everyday caste       |
+  | abolish social| protects action and      | consciousness remain     |
+  | attitudes     | enables social movements | live problems            |
+  +---------------+--------------------------+--------------------------+
+  | FRAGMENTATION | unity built on the       | elite capture and        |
+  | separate      | SILENCE of the oppressed | permanent bloc politics  |
+  | organisation  | is domination; equal     | are genuine risks;       |
+  | divides       | representation is a      | organisation needs       |
+  | national unity| CONDITION of legitimate  | internal democratic      |
+  |               | common life              | accountability           |
+  +---------------+--------------------------+--------------------------+
+  | RELIGIOUS     | the target is authority  | believers may experience |
+  | HOSTILITY     | INSOFAR AS it sanctifies | the critique as hostile; |
+  | rejecting     | graded inequality;       | the distinction between  |
+  | scriptural    | freedom of belief cannot | doctrine and civic       |
+  | authority     | entail the power to      | disability must be       |
+  | attacks       | impose CIVIC DISABILITY  | argued, not assumed      |
+  | believers     |                          |                          |
+  +---------------+--------------------------+--------------------------+
+        |
+        v
+TWO FURTHER STANDARD CRITICISMS, WITH THEIR REPLIES
+  "AMBEDKAR OVERSTATES SCRIPTURAL CAUSATION" -> he also analyses endogamy,
+     power, occupation and representation. RESIDUE: regional diversity of
+     caste is not fully captured by any single causal story.
+  "INTER-CASTE MARRIAGE IS INSUFFICIENT" -> it attacks endogamy but needs
+     economic, legal and cultural change. RESIDUE: coercion and family
+     violence against couples are real and unresolved by exhortation.
+
+ASCII MASTER FLOW — PANEL 19/22: The comparison matrix -- run the axes, never two biographies
+THE SINGLE COMMONEST WAY TO LOSE MARKS ON THE 2019 AND 2025 STEMS IS TO
+WRITE TWO SEQUENTIAL MINI-ESSAYS. FIX THE AXES AND RUN BOTH DOWN EACH.
+  +--------------+---------------------------+--------------------------+
+  | AXIS         | GANDHI                    | AMBEDKAR                 |
+  +--------------+---------------------------+--------------------------+
+  | PRIMARY EVIL | untouchability and moral  | CASTE ITSELF as graded   |
+  |              | degradation; later, wider | inequality               |
+  |              | caste barriers            |                          |
+  +--------------+---------------------------+--------------------------+
+  | HEREDITARY   | idealised duty/division   | birth-based division is  |
+  | DUTY (VARNA) | WITHOUT rank              | INTRINSICALLY unjust     |
+  +--------------+---------------------------+--------------------------+
+  | ROOT         | corrupted religion,       | endogamy, scripture,     |
+  | MECHANISM    | prejudice, lost           | social closure and power |
+  |              | conscience                |                          |
+  +--------------+---------------------------+--------------------------+
+  | AGENT OF     | transformed caste Hindu   | the oppressed people's   |
+  | REFORM       | conscience plus oppressed | AUTONOMOUS organisation  |
+  |              | participation             | and representation       |
+  +--------------+---------------------------+--------------------------+
+  | METHOD       | non-violence, self-       | rights, law, education,  |
+  |              | purification, constructive| organisation,            |
+  |              | work, reform              | representation, marriage |
+  +--------------+---------------------------+--------------------------+
+  | RELIGION     | reform FROM WITHIN        | reject caste-sanctioning |
+  |              |                           | authority; conversion    |
+  +--------------+---------------------------+--------------------------+
+  | DEMOCRACY    | ethical fellowship and    | constitutional morality  |
+  |              | self-rule (SWARAJ)        | and social democracy     |
+  +--------------+---------------------------+--------------------------+
+  | MAIN RISK    | paternalism and structural| legal and institutional  |
+  |              | insufficiency             | reform without social    |
+  |              |                           | fraternity               |
+  +--------------+---------------------------+--------------------------+
+        |
+        v
+CONVERGENCE WITHOUT FALSE EQUIVALENCE
+  +-------------------------------+---------------------------------+
+  | GENUINE CONVERGENCE           | IRREDUCIBLE DISAGREEMENT        |
+  +-------------------------------+---------------------------------+
+  | untouchability is morally     | is caste itself, or only its    |
+  | indefensible                  | degraded form, the disease?     |
+  | equal human worth and social  | can a hereditary duty-order be  |
+  | fellowship matter             | purified at all?                |
+  | political freedom without     | can reform rely on dominant-    |
+  | social reform is incomplete   | caste conscience?               |
+  | institutions AND conduct must | do oppressed groups require     |
+  | both change                   | AUTONOMOUS electoral safeguards?|
+  | violence cannot found stable  | is EXIT from caste-sanctioning  |
+  | equality                      | religion necessary?             |
+  +-------------------------------+---------------------------------+
+  CONTROL -> convergence identifies COMMON ENDS. It does not equalise
+  diagnostic adequacy or political power, and a synthesis is defensible only
+  when moral conversion SUPPORTS autonomous rights rather than postponing them.
+
+ASCII MASTER FLOW — PANEL 20/22: Poona Pact 1932, secular democracy, village and modernity
+INTERPRET THE PACT. DO NOT NARRATE IT, AND DO NOT ASSERT FIGURES OR
+NEGOTIATING DETAIL BEYOND WHAT THE OWNER STATES.
+  THE COMMUNAL AWARD (1932) provided SEPARATE ELECTORAL ARRANGEMENTS for the
+  Depressed Classes
+              |
+              v
+  GANDHI OPPOSED separate electorates and began a FAST
+              |
+              v
+  NEGOTIATIONS WITH AMBEDKAR AND OTHER LEADERS produced the POONA PACT (1932),
+  substituting RESERVED SEATS IN JOINT ELECTORATES with a PRIMARY-ELECTION
+  MECHANISM, and INCREASING the number of reserved seats
+              |
+              v
+  THE PHILOSOPHICAL CONFLICT, WHICH IS THE ACTUAL ANSWER
+  +--------------------------------+---------------------------------+
+  | GANDHI FEARED                  | AMBEDKAR FEARED                 |
+  | permanent political separation | that joint electorates would    |
+  | and the fragmentation of Hindu | leave Depressed Class            |
+  | society                        | representatives DEPENDENT ON    |
+  |                                | DOMINANT-CASTE VOTES            |
+  +--------------------------------+---------------------------------+
+  THE ISSUE WAS NOT SEAT NUMBERS. IT WAS WHETHER A SUBORDINATED GROUP
+  REQUIRES AUTONOMOUS POLITICAL VOICE AGAINST A SOCIAL MAJORITY -- AND WHO
+  MAY CHOOSE ITS REPRESENTATIVES.
+  COERCION CONTROL -> the Pact was a COMPROMISE REACHED UNDER MORALLY AND
+  POLITICALLY COERCIVE CIRCUMSTANCES. Never narrate it as harmonious consensus.
+        |
+        v
+SECULAR DEMOCRACY -- THE 2019 Q4(a) AXIS
+  GANDHI grounds secular fellowship in EQUAL REGARD FOR RELIGIONS,
+     non-violence and conscience -> AN ETHIC OF COEXISTENCE
+  AMBEDKAR grounds democracy in CONSTITUTIONAL MORALITY, equal citizenship
+     and freedom from religiously sanctioned hierarchy -> AN INSTITUTIONAL
+     TEST: no religious community may convert internal doctrine into CIVIC
+     INFERIORITY
+        |
+        v
+VILLAGE, COMMUNITY AND MODERNITY -- NOT "TRADITION VERSUS MODERNITY"
+  GANDHI: decentralised community as a possible school of responsibility,
+     meaningful labour and self-rule
+  AMBEDKAR: the ACTUALLY EXISTING village can concentrate caste authority,
+     dependency and exclusion
+  THE TEST -> does scale, technology or community ENLARGE mobility, equal
+  status, constitutional rights and EXIT from inherited occupation?
+  CENTRALISED MODERN INSTITUTIONS CAN REPRODUCE CASTE; LOCAL COMMUNITY CAN
+  DO SO AS WELL. NEITHER SCALE IS EMANCIPATORY WITHOUT ANTI-CASTE POWER.
+
+ASCII MASTER FLOW — PANEL 21/22: Affirmative action -- four grounds, the objection, the record
+NAMING THE JUSTIFICATION IS THE MARK-BEARING MOVE. RUNNING ALL FOUR TOGETHER
+LETS AN OBJECTION THAT APPLIES TO ONLY ONE OF THEM DEFEAT THE WHOLE ANSWER.
+  +----------------+--------------------------+------------------------+
+  | GROUND         | CORE CLAIM               | TERMINATES WHEN        |
+  +----------------+--------------------------+------------------------+
+  | COMPENSATORY   | positive measures rectify| the transmitted        |
+  |                | a historically           | disadvantage no longer |
+  |                | identifiable, legally    | operates               |
+  |                | sanctioned exclusion     |                        |
+  |                | whose effects transmit   |                        |
+  +----------------+--------------------------+------------------------+
+  | DISTRIBUTIVE / | formal equality from     | disadvantage in access |
+  | EQUAL          | today ratifies an unequal| is removed             |
+  | OPPORTUNITY    | starting line            |                        |
+  +----------------+--------------------------+------------------------+
+  | REPRESENTATION-| institutions excluding   | institutions are       |
+  | AL / DEMOCRATIC| whole social groups lack | genuinely              |
+  |                | legitimacy               | representative         |
+  +----------------+--------------------------+------------------------+
+  | ANTI-DOMINATION| reservation breaks a     | rank-based valuation   |
+  | / RECOGNITIVE  | monopoly of social power | ceases to organise     |
+  |                | and publicly repudiates  | social life            |
+  |                | ascribed inferiority     |                        |
+  +----------------+--------------------------+------------------------+
+  THE DEFENSIBLE JOIN -> COMPENSATORY IN GROUND, DISTRIBUTIVE IN MECHANISM,
+  REPRESENTATIONAL IN INSTITUTIONAL JUSTIFICATION, ANTI-DOMINATION IN AIM.
+        |
+        v
+REVERSE DISCRIMINATION -- OBJECTION AT ITS STRONGEST, THEN FIVE REPLIES
+  OBJECTION: persons must be treated as individuals; selection should track
+  qualification; reservation allocates by ascriptive membership; the excluded
+  individual is personally innocent; so a fresh injustice is inflicted using
+  the very logic -- allocation by birth-group -- that is being condemned.
+  R1 SYMMETRY ...... the unreserved baseline is not neutral; qualifications
+       are themselves unequally producible. Two group-inflected systems, one
+       candid about it.
+  R2 MERIT AS PROXY  merit is FUNCTIONAL capacity for the role; examination
+       performance is a PROXY whose reliability varies with coaching,
+       nutrition, language and schooling. CONTEST THE MEASURE, NOT THE VALUE.
+  R3 ADVANTAGE, NOT GUILT  no culpability is attributed; the claim is that
+       some are UNJUSTLY ADVANTAGED by a continuing distribution.
+  R4 GROUP HARM, GROUP REMEDY  a group-inflicted, group-transmitted
+       disadvantage cannot be reached by a purely individualised remedy.
+  R5 THE RESIDUE, CONCEDED  (i) OVER-INCLUSION of the already-advantaged
+       within the beneficiary group; (ii) the cost falls UNEVENLY, near the
+       margin rather than on the most advantaged. NAME BOTH.
+  STIGMA PAIR -> objection: preference stigmatises beneficiaries. Reply: the
+       stigma tracks the assumption that the unreserved baseline measured
+       worth; representation is claimed as RIGHT AND POWER, not concession.
+        |
+        v
+THE INDIAN RECORD -- STATE THE TYPE, THE DATE AND THE LIMIT OF EACH
+  ARTICLE 17 ......... constitutional rule ABOLISHING untouchability and
+       forbidding its practice. NOT evidence the practice has disappeared.
+  SC/ST (PREVENTION OF ATROCITIES) ACT, 1989, in force 1990 ... an ENACTED
+       penal and protective STATUTE.
+  MANDAL COMMISSION ... the Second Backward Classes Commission, appointed
+       1979, reported 1980. A COMMISSION REPORT RECOMMENDS; IT DOES NOT
+       ENACT. Government action on OBC reservation in central services
+       followed in 1990.
+  INDRA SAWHNEY v. UNION OF INDIA (1992) ... a nine-judge SUPREME COURT
+       JUDGMENT: upheld OBC reservation in central services under Article
+       16(4); directed EXCLUSION OF THE CREAMY LAYER; held reservation should
+       ORDINARILY NOT EXCEED 50 PER CENT save in extraordinary situations.
+       ATTRIBUTE NOTHING FURTHER TO IT.
+  CONSTITUTION (103rd AMENDMENT) ACT, 2019 ... an ENABLING AMENDMENT
+       inserting ARTICLES 15(6) AND 16(6), permitting special provision
+       including reservation UP TO TEN PER CENT for economically weaker
+       sections OTHER THAN the classes already covered, upheld by a majority
+       in JANHIT ABHIYAN v. UNION OF INDIA (2022).
+  CREAMY LAYER ....... the INTERNAL FILTER answering over-inclusion; it
+       concedes the group marker is a PROXY. COST: it strengthens the
+       distributive ground and WEAKENS the purely representational one.
+  THE 2019 PHILOSOPHICAL POINT -> an ECONOMIC criterion inside a framework
+       built on SOCIAL AND EDUCATIONAL backwardness reopens the foundational
+       question: is the wrong DEPRIVATION or ASCRIPTIVE EXCLUSION?
+  FOUR-STAGE CAUTION -> ENACTMENT, NOTIFICATION, ENFORCEMENT AND SOCIAL
+       TRANSFORMATION ARE FOUR DIFFERENT STAGES. NONE MAY BE INFERRED FROM
+       ANOTHER, AND NO INSTRUMENT PROVES A PHILOSOPHICAL POSITION.
+
+ASCII MASTER FLOW — PANEL 22/22: Answer spine, the twenty traps and the qualified verdict
+THE DIRECTIVE FIXES THE STRUCTURE -- DECODE IT BEFORE WRITING A WORD
+  EXPLAIN / ELUCIDATE ...... doctrine -> mechanism -> key distinction ->
+       example. FAILURE: narrating a life or the Pact as a story.
+  DISCUSS .................. position -> rival -> objection -> reply ->
+       verdict. FAILURE: two biographies side by side.
+  CRITICALLY EXAMINE ....... TWO objection-reply chains, each ending in a
+       RESIDUE. The critical layer IS the answer. FAILURE: denunciation.
+  COMPARE / CONTRAST ....... fix 5-6 axes, run both down each, then
+       adjudicate. FAILURE: sequential mini-essays.
+  IS X JUSTIFIED? .......... NAME the ground first, then defend, then meet
+       reverse discrimination. FAILURE: justification with no ground.
+  HOW FAR / TO WHAT EXTENT . a DEGREE judgment is compulsory: conditions of
+       holding and of failing. FAILURE: evasive balance.
+        |
+        v
+THE FOUR-MOVE SPINE THAT FITS EVERY OWNED STEM
+  1. DEFINE the exact mechanism or thinker-axis -- graded, birth-based social
+     closure sustained by endogamy. Never "social stratification".
+  2. DISTINGUISH -- varna/jati/caste; reform/annihilation; law/social change;
+     assertion/supremacy; enactment/transformation.
+  3. ARGUE -- named anchor -> analysis -> objection -> reply -> RESIDUE.
+  4. CONCLUDE with a GRADED verdict, never a social-justice slogan.
+        |
+        v
+THE TWENTY TRAPS, COMPRESSED
+  1 equating varna, jati, caste, untouchability | 2 a timeless Gandhi |
+  3 inferring blanket anti-varna from anti-untouchability | 4 Ambedkar
+  reduced to untouchability | 5 Ambedkar reduced to reservation | 6 caste
+  reduced to class or occupation | 7 Poona Pact narrated without autonomy or
+  coercion | 8 "Harijan" treated as uncontested | 9 Article 17 or the 1989
+  Act read as proof caste ended | 10 Gandhi-as-conscience plus
+  Ambedkar-as-law complementarity | 11 flattening the periodisation |
+  12 "Harijan" used as the narrator's neutral term | 13 Ambedkar reduced to
+  constitutional drafting | 14 educate-agitate-organise as self-help |
+  15 the Pact without the representation question | 16 romanticising village
+  or central modernity | 17 collapsing caste into class or adding caste and
+  gender arithmetically | 18 equating oppressed-caste assertion with
+  hereditary supremacy | 19 treating redistribution, recognition and
+  representation as substitutes | 20 letting convergence erase annihilation
+  and autonomous rights.
+        |
+        v
+THE QUALIFIED VERDICT -- ADAPT, NEVER REPRODUCE MECHANICALLY
+  +--------------------------------------------------------------------+
+  | GANDHI'S METHOD REACHED THE CONSCIENCE OF THE DOMINANT, WHICH LAW   |
+  | CANNOT COMPEL; AMBEDKAR'S REACHED THE STRUCTURE OF POWER, WHICH     |
+  | CONSCIENCE CANNOT BE RELIED UPON TO SURRENDER. SOCIAL DEMOCRACY     |
+  | REQUIRES BOTH, BUT ONLY THE SECOND CAN BE INSTITUTIONALLY SECURED.  |
+  +--------------------------------------------------------------------+
+  ASYMMETRIC FORM -> the moral condemnation of untouchability is common
+  ground; the disagreement is whether caste ITSELF is the disease -- and on
+  that question the reform-from-within position cannot explain why the
+  hierarchy survives every reform of its outward practice.
+  BEYOND-SAFEGUARD FORM -> reservation addresses access to positions;
+  annihilation addresses the valuation of persons. Safeguards without
+  constitutional morality, fraternity and economic independence remain
+  formal -- which is Ambedkar's own diagnosis, not a criticism of him.

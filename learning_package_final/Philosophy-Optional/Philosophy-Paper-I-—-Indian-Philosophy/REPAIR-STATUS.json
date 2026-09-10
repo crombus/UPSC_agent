@@ -1,0 +1,844 @@
+{
+  "schema_version": 1,
+  "subject": "Philosophy Optional",
+  "section": "Philosophy Paper I — Indian Philosophy",
+  "active": false,
+  "processing_mode": "sequential-one-topic",
+  "next_incomplete": null,
+  "topics": [
+    {
+      "number": 1,
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "title": "Carvaka",
+      "status": "complete",
+      "completed": "2026-09-07",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md (Basic/Core owner)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md (Advanced owner)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger)",
+          "books\\philosophy_optional official Paper I question papers 2018-2025 (exact PYQ wording)",
+          "books\\philosophy_optional\\1656490273_Philosophy Syllabus_Final.pdf (verbatim syllabus)"
+        ],
+        "learning_session": "9 progressive visual-first sessions; learner-v2 H2 order verified; consolidated register notes remain the final H2",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+          "key_sequence": "CADBACBDBDACBDCADCDABACBCBDABCAD",
+          "distribution": "A8 B8 C8 D8, no adjacent repeats, no ABCD rotation",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32
+        },
+        "pyqs": {
+          "directly_owned": 9,
+          "supporting_routed": 1,
+          "supporting_detail": "2022 Q7(c), 15 marks, primary owner Nyaya-Vaisesika",
+          "original_mains": 6
+        },
+        "answer_lengths": "All 16 solved answers sit inside the declared bands: 10 marks 150-200, 15 marks 250-300, 20 marks 340-400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 115,
+          "solved_practice_workbook_pages": 36,
+          "ascii_master_flowchart_pages": 12,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 5,
+          "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            13361
+          ],
+          "master_dpi": 300,
+          "core_stages": 13,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 11,
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "5 pixel-identical overlapping crops of the same master, 702-703 px overlap, rows 0-13361 fully covered"
+        },
+        "ascii_master": "12 authored panels; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages",
+        "quick_glance": "Rewritten as a 17-part self-contained English-first revision tree with central thesis, objections and replies, traps, PYQ route and qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on every audited fact",
+        "residue_audit": "No generation identity, approval language, regeneration-ledger residue, preview/contact-sheet references, placeholders, broken image links or unrelated-subject residue",
+        "later_topics": "All 88 baseline SHA-256 hashes for Topics 02-09 across the three locked trees are unchanged",
+        "limitations": [
+          "Cārvāka primary texts are lost, so every doctrinal claim is presented as the standard doxographical reconstruction",
+          "Contested attributions (chance-theory, the crude/refined contrast, Jayarasi's school affiliation) are flagged rather than asserted",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "title": "Jainism",
+      "status": "complete",
+      "completed": "2026-09-07",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md (Basic/Core owner, complete file)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §2 Jainism (Advanced owner, optional only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 13, verbatim)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\ANSWER-WORTHINESS-AUDIT.md and learning-sessions\\Jainism legacy layered session (retention check)"
+        ],
+        "learning_session": "10 progressive visual-first sessions covering sources, the three-term definition of the real, six substances, soul and matter, epistemology, seven standpoints, conditional predication and the sevenfold schema, evaluation of non-absolutism, bondage mechanics, the path and fourteen stages, and named criticisms; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+          "key_sequence": "BACABCBDCDCADACDBDADBABACDCBDBCA",
+          "distribution": "A8 B8 C8 D8, longest run 1, no repeated 4-gram, no ABCD rotation window",
+          "visual_balance": "mean option length A 90.9 / B 89.8 / C 89.6 / D 88.7; correct 92.2 vs distractor 88.9",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32
+        },
+        "pyqs": {
+          "directly_owned": 9,
+          "supporting_routed": 1,
+          "supporting_detail": "2020 Q7(c), 15 marks, primary owner Cārvāka",
+          "original_mains": 6
+        },
+        "answer_lengths": "All 16 solved answers sit inside the declared bands: 10 marks 150-200, 15 marks 250-300, 20 marks 340-400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 91,
+          "solved_practice_workbook_pages": 28,
+          "ascii_master_flowchart_pages": 12,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 5,
+          "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            13759
+          ],
+          "master_dpi": 300,
+          "core_stages": 13,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 12,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "5 pixel-identical overlapping crops of the same master, 602-603 px overlap, rows 0-13759 fully covered"
+        },
+        "ascii_master": "12 authored panels rewritten from the same factual spine; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages and a 9.15 pt minimum type size",
+        "quick_glance": "Rewritten as a 13-part self-contained English-first revision tree with central thesis, evidence status, doctrine branches, set-pieces, PYQ route, a 17-item trap list and a qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on 19 shared doctrinal anchors, 8 numeric facts, 7 contradiction guards and all ten PYQ years",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, placeholders, broken links, unresolved image references or unrelated-subject residue in any learner-facing artifact",
+        "later_topics": "All 120 baseline SHA-256 hashes for Topic 01 and Topics 03-09 across the three locked trees are unchanged",
+        "limitations": [
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source; the spec-controlled status line now carries no generation or approval wording",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Jainism Graphical Flowchart",
+          "Sectarian treatment of time as an independent substance, the dating of Jaina thinkers and the modern legal status of sallekhanā are reported as contested rather than resolved",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "title": "Schools of Buddhism",
+      "status": "complete",
+      "completed": "2026-09-07",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Buddhism.md (Basic/Core owner, complete file including 0A orientation, 9A pramāṇa depth, 9B avyākṛta, 9C–9H ledgers)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §3 Buddhism (Advanced owner, optional only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording, 2018–2025)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 14, verbatim)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md §2.11 and §3.9 (Nyāya half of the two routed questions)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md and Jainism.md (routed 2024 contrast and the close-option comparison)"
+        ],
+        "defects_repaired": [
+          "Solved-Practice-Workbook.md was a byte-identical duplicate of Learning-Session.md; a genuine standalone workbook was authored",
+          "Learning session carried scrambled legacy LAYER 1/2/4/5 markers, source-dump section numbering, a broken cover-image link, triplicated captions, truncated closure-flow lines, empty 'Why this earns marks' blocks and generic 'How to improve this answer' filler",
+          "Package counts contradicted themselves (44+8 vs 'forty-eight' vs '40+8'); counts are now single-sourced and true",
+          "Three previously owned PYQs were reproduced with straight quotes instead of the printed curly quotes; all sixteen are now byte-exact against the ledger",
+          "Quick-glance tree was a 2070-line one-word-per-line dump; rewritten as a 332-line revision tree",
+          "ASCII master held only ten thin panels; rewritten as fourteen data-complete panels",
+          "Graphical spec carried auto-derived truncated phrases and 'LAYER 3' residue; a bespoke fourteen-stage spec was authored",
+          "Package README carried generation identity, approval wording and a wrong Cārvāka deliverable label"
+        ],
+        "learning_session": "15 progressive visual-first sessions covering the therapeutic architecture, both senses of the Middle Path, tradition placement and labels, dependent origination, the twelve links, momentariness, no-self and the two no-selves, karma/memory/rebirth, cessation and the Three Jewels, Vaibhāṣika and Sautrāntika, Yogācāra, Mādhyamika, the means of valid knowledge with exclusion theory, the undeclared questions with the creator-God critique, and the named-objection verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "per_subtopic_completeness": "All 15 sessions carry a definition, a unique answer-grabbing line, must-write keywords, a simple-start gateway, a topic-specific fenced visual, named evidence, a claim → named evidence → analysis → qualification paragraph model, a trap list and rapid revision; 32 fenced visuals inside the Basic block; 15 of 15 answer-grabbing lines unique",
+        "buddhism_conceptual_completeness": "Both senses of the Middle Path are taught in full — the practical middle between sensual indulgence and self-mortification concretised in the Noble Eightfold Path under the three trainings, and the doctrinal middle between eternalism and annihilationism — and both are connected to the Four Noble Truths, dependent origination, no-self, momentariness and liberation, including the structural test that eternalism defeats the third truth while annihilationism defeats the fourth",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+          "key_sequence": "CADBCABCADCADACDBADBDCABDBACBCDB",
+          "distribution": "A8 B8 C8 D8, longest run 1, no repeated 4-gram, no ABCD rotation window",
+          "visual_balance": "mean option length A 100.1 / B 98.6 / C 98.8 / D 99.6; correct 103.6 vs distractor 97.8",
+          "formats": "statement-set, elimination, sequence/order, application, evidence, inference, definition-precision and comparison items",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32,
+          "unique_stems": 32
+        },
+        "pyqs": {
+          "directly_owned": 13,
+          "supporting_routed": 3,
+          "supporting_detail": "2018 Q5(d) 10 marks and 2025 Q5(b) 10 marks primary-owned by Nyāya–Vaiśeṣika; 2024 Q6(a) 20 marks primary-owned by Cārvāka",
+          "original_mains": 6,
+          "objective_keys": "none asserted — every routed Buddhism PYQ is descriptive and no official or local official key exists"
+        },
+        "answer_lengths": "All 22 solved answers sit inside the declared bands: 10 marks 150–200, 15 marks 250–300, 20 marks 340–400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 110,
+          "solved_practice_workbook_pages": 35,
+          "ascii_master_flowchart_pages": 14,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 5,
+          "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs",
+          "extraction": "every H2/H3/H4 heading of both Markdown sources is recoverable from its rendered PDF; workbook chrome and internal workbook index verified"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            14083
+          ],
+          "master_dpi": 300,
+          "core_stages": 13,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 14,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "5 pixel-identical overlapping crops of the same master, 521–522 px overlap, rows 0–14083 fully covered"
+        },
+        "ascii_master": "14 authored panels rewritten from the same factual spine; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages and a 10.5 pt uniform type size; maximum authored line 90 characters",
+        "quick_glance": "Rewritten as a 332-line, 16-part self-contained revision tree with central thesis, the double Middle Path, the twelve links and the cut, the elimination argument, the two no-selves, the four-school escalation, a 16-item PYQ route, a 25-item trap list and a qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on the shared doctrinal spine (both Middle Paths, the four-clause formula, the twelve links and their cut, yat sat tat kṣaṇikam, na sa eva na cānyaḥ, the two no-selves, the two truths, the four-school escalation) and on all sixteen routed PYQ years",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, placeholders, broken image links, preview/contact-sheet references or unrelated-subject residue in any learner-facing artifact; package README corrected to the Schools of Buddhism deliverable labels with the verbatim syllabus item and the quick-glance companion path",
+        "later_topics": "All 122 baseline SHA-256 hashes for Topics 01–02 and 04–09 across the three locked trees are unchanged; only the eleven in-scope Topic 03 artifacts changed",
+        "limitations": [
+          "The learner-v2 renderer enforces a canonical upsc-ai-kit\\knowledge source path that conflicts with the locked learning_package_final scope; the path check was neutralised at driver level only and tools\\markdown_learning_pdf.py was not modified",
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Schools of Buddhism Graphical Flowchart",
+          "The authored fourteen-stage graphical topic-spec is a driver-level artifact; the historical spec folder under notes\\Philosophy\\flowcharts is outside the locked modification scope and was left untouched",
+          "The quick-glance tree uses ASCII transliteration inside its fixed-width diagram to preserve alignment, with an explicit IAST mapping note above the chart",
+          "Twelve āyatanas and eighteen dhātus are not owned by the canonical Buddhism file; only the six sense-bases (ṣaḍāyatana) as link five are taught, and no unowned Abhidharma taxonomy was invented",
+          "The four-school matrix, the interpretation of Madhyamaka negation, the reading of the Buddha's silence and the dating relation between early impermanence and later momentariness are reported as doxographic or contested rather than resolved",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "title": "Nyaya–Vaisesika",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md (Basic/Core owner, complete file including §1A two category systems, §2.7 jāti-bādhaka, §2.11 absence-cognition, §3.4 vyāpti-grahaṇa, §8.6–8.7 Udayana and the Yoga contrast, the restored 2018/2020 dossier and ledgers 14A–14F)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §4 Nyāya–Vaiśeṣika (Advanced owner, optional only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording, 2018–2025; all 22 primary-owned parts extracted programmatically)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 15, verbatim, printed misspelling retained)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\ANSWER-WORTHINESS-AUDIT.md and the repository-level plus section-local review-and-repair control files"
+        ],
+        "defects_repaired": [
+          "Solved-Practice-Workbook.md was a byte-identical duplicate of Learning-Session.md; a genuine standalone workbook was authored",
+          "The MCQ answer key was a pure repeated A→B→C→D rotation across 56 items ('ABCDABCD...' fourteen times); it is replaced by 32 independently randomized keys",
+          "Only one explanation existed per question and no examiner traps at all; the workbook now carries 128 unique option-specific explanations and 32 unique traps",
+          "Package counts contradicted themselves three ways (48+8=56 in the table, 'forty-eight' in the protocol text, '40+8 with strict rotation' in the ledger); counts are now single-sourced and true at 24+8",
+          "Front matter carried generation identity 'g15, 29 August 2026', 'Approval: pending explicit topic approval' and an 'Approval | false' table row; all generation and approval residue is removed",
+          "The cover image link pointed at a missing assets/philosophy-paper-i-indian-philosophy-04/ file and its caption was triplicated; both are removed",
+          "The session carried scrambled legacy LAYER 1/2/4/5 markers and source-dump section numbering; it is rewritten as 15 progressive visual-first sessions",
+          "The quick-glance tree was a 2,536-line one-word-per-line dump; it is rewritten as a 489-line, 17-part revision tree with normalised box rules",
+          "The ASCII master held only nine thin panels and omitted sāmānya from the seven-category list in panel 2; it is rewritten as 15 data-complete panels",
+          "The graphical spec and master were regenerated from a bespoke authored 14-core-stage specification instead of auto-derived phrases",
+          "Package README carried 'Source record ID ...:g15', 'Source generation: 15', 'Approval: Approval pending' and a wrong 'Carvaka Graphical Flowchart' deliverable label; all four are corrected"
+        ],
+        "learning_session": "15 progressive visual-first sessions covering the two allied schools and the liberation ladder, the sixteen topics of inquiry and twelve knowables, the seven categories with substance/quality/motion, universal with the six blockers and ultimate particularity, inherence versus conjunction, the four absences and absence-cognition, the four instruments with Gautama's definition, the six contacts and three extraordinary perceptions, inference with five members/three grids/five marks, the acquisition of concomitance with the five fallacies, comparison/testimony/memory/validity/fruit, the misplacement theory of error, self and mind and release, God with Udayana's cumulative proofs and the Yoga contrast, causation and atomism, and the graded verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "per_subtopic_completeness": "All 15 sessions carry a plain and technical definition, a unique answer-grabbing line, must-write keywords, a simple-start gateway, at least one topic-specific fenced visual, named evidence, a claim → named evidence → analysis → qualification paragraph model, a trap list and rapid revision; 34 fenced visuals sit inside the Basic block and all 15 answer-grabbing lines are unique",
+        "owned_framework_coverage": "114 audited owner anchors are all present, spanning Nyāya's purpose and sixteen topics, the twelve knowables, valid cognition and error, perception including the six contacts and both ordinary and extraordinary kinds and the indeterminate/determinate pair, the full inference architecture (for-self/for-others, five members, three grids, concomitance, the five marks and all five fallacies with named subtypes), comparison and testimony with the four sentence conditions, the reduction of postulation and non-cognition, self and mind and body-complex and liberation, God with the four proofs plus the extended list and every named objection, the Vaiśeṣika categories with nine substances, twenty-four qualities, five motions, universal, particularity, inherence and four absences, atomism, causation and the relation between the two schools, plus the Buddhist, Jaina, Mīmāṃsā, Sāṃkhya, Advaita and Cārvāka comparisons required by the sources and the routed questions",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth placed after the practice sections",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics + 8 remedial error-targeting drills",
+          "key_sequence": "DABDACBCADCDBABCBDABACDCBCDCABAD",
+          "distribution": "A8 B8 C8 D8 overall and 2/2/2/2 in every consecutive block of eight; longest run 1; all 29 four-grams distinct; no A→B→C→D rotation window and no ABAB window",
+          "visual_balance": "mean option length A 60.3 / B 60.0 / C 60.0 / D 57.1; correct 60.4 versus distractor 59.0",
+          "formats": "statement-set, matching, elimination, application, definition-precision, comparison, correction-of-a-half-remembered-position and counting/sequence items",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32,
+          "unique_stems": 32
+        },
+        "pyqs": {
+          "directly_owned": 22,
+          "supporting_routed": 0,
+          "supporting_detail": "All 22 primary-owned parts were extracted programmatically from the ledger and verified as the complete Nyāya–Vaiśeṣika ownership set of 22 out of 112; no additional routed question was needed",
+          "original_mains": 6,
+          "objective_keys": "none asserted — every routed question is descriptive and no official or local official key exists"
+        },
+        "answer_lengths": "All 28 solved answers sit inside the declared bands: 10 marks 150–200, 15 marks 250–300, 20 marks 340–400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 122,
+          "solved_practice_workbook_pages": 37,
+          "ascii_master_flowchart_pages": 15,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 6,
+          "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs",
+          "extraction": "all 330 learning-session and 68 workbook H2/H3/H4 headings are recoverable from their rendered PDFs after typographic normalisation; workbook chrome and both internal contents indexes verified"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            15678
+          ],
+          "master_dpi": 300,
+          "core_stages": 14,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 15,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "6 pixel-identical overlapping crops of the same master, 745–746 px overlap, rows 0–15678 fully covered"
+        },
+        "ascii_master": "15 authored panels rewritten from the same factual spine; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages, a 9.6–10.5 pt type size and a maximum authored line of 82 characters",
+        "quick_glance": "Rewritten as a 489-line, 17-part self-contained English-first revision tree with central thesis, the division of labour, the liberation ladder, both category lists, the one-and-the-many pair, the table test, the four absences, the four exclusion gates, the inference engine, the acquisition chain, testimony and validity, the five error theories, self and release, the God grid, causation and atomism, a 22-item PYQ answer route, a 36-item trap list and a qualified conclusion; every ASCII box rule normalised to a single width",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on ten audited shared anchors (nine substances, twenty-four qualities, three dyads to a triad, extrinsic validity both ways, efficient cause only, the six blockers, the six marks of the self, release as cessation of pain, the wet-fuel adjunct and the qualifier–qualified contact) and on all twenty-two routed question years",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, placeholders, broken image links, preview or contact-sheet references, replacement glyphs or unrelated-subject residue in any of the five learner-facing artifacts; previews and contact sheets remain in the out-of-scope build directory and are not installed in the package folder",
+        "later_topics": "All 122 baseline SHA-256 hashes for Topics 01–03 and 05–09 across the three locked trees are unchanged; only the eleven in-scope Topic 04 artifacts changed",
+        "limitations": [
+          "The learner-v2 renderer enforces a canonical upsc-ai-kit\\knowledge source path that conflicts with the locked learning_package_final scope; the path check was neutralised at driver level only and tools\\markdown_learning_pdf.py was not modified",
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Nyāya–Vaiśeṣika Graphical Flowchart",
+          "The renderer transliterates the visual emoji into a 'VISUAL:' chip and renders the arrow as '->'; heading recovery therefore required typographic normalisation, and no replacement glyph was produced",
+          "The quick-glance tree uses ASCII transliteration inside its fixed-width diagram to preserve alignment, with an explicit IAST mapping note above the chart",
+          "The repository-level learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md changed during this session through concurrent parallel subject work on a Polity topic; no script or tool used by this repair references that file, and per the section-local shared-file rule only this status file was updated",
+          "Whether Nyāya and Vaiśeṣika are one system or two, whether Kāṇāda's list is six or seven categories, whether universal-mediated perception is genuine perception, and whether the pot–potter analogy can bear a bodiless maker are reported as contested rather than resolved",
+          "The developed creator-God apparatus is attributed to Praśastapāda, Śrīdhara and Udayana rather than unambiguously to Kāṇāda, and the exact naming and count of the proofs is flagged as varying across presentations",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "title": "Samkhya",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md (Basic/Core owner, complete file including §0A epistemology and cognition, §0B historical-source identity and canonical scope, §1–2 prakṛti and puruṣa with all ten proofs, §3 the twenty-five principles with §3.2A–3.2B taxonomy and §3.10 subtle body, §4 satkāryavāda and its rivals, §5 kaivalya and nirīśvara, §6–7 the contact problem and pradhāna malla, §8–10 debates traps, §11A–11F the presupposition, pūrvapakṣa, inter-school, western, directive and graded-verdict ledgers, §12–13 PYQ routing and answer architecture, and the restored 2018/2020 dossier)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §5 Sāṃkhya (Advanced owner; used for optional enrichment only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording, 2018–2025; all 10 primary-owned parts plus 3 routed parts extracted and verified programmatically against the ledger)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 16, verbatim, printed spelling retained)",
+          "The repository-level learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the section-local REVIEW-AND-REPAIR-INSTRUCTIONS.md control files"
+        ],
+        "defects_repaired": [
+          "Solved-Practice-Workbook.md was a byte-identical duplicate of Learning-Session.md (both SHA-256 E21F90F7…, both 237,520 bytes); a genuine standalone workbook was authored",
+          "The MCQ answer key was a pure repeated A→B→C→D rotation across 56 items ('ABCD' fourteen times); it is replaced by 32 independently randomized keys",
+          "Only one explanation existed per question and there were no examiner traps at all; the workbook now carries 128 unique option-specific explanations and 32 unique traps",
+          "Package counts contradicted themselves three ways (48+8=56 in the table, 'forty-eight' in the protocol text, 'legacy 24+8 expanded to genuine 40+8 with strict rotation' in the ledger, and a 'Questions 1–40' sub-heading); counts are now single-sourced and true at 24+8",
+          "Front matter carried generation identity 'generation: 15', 'g15, 29 August 2026', 'Approval: pending explicit topic approval' and an 'Approval | false' table row; all generation and approval residue is removed",
+          "The cover image link pointed at a missing assets/philosophy-paper-i-indian-philosophy-05/ file and its caption was triplicated; both are removed",
+          "The Optional Advanced block carried eight scrambled 'LAYER 3 - ADVANCED' markers and forty legacy layer markers survived across the session; it is rewritten as three labelled enrichment modules",
+          "The session was a ten-part source-dump sequence; it is rewritten as fifteen progressive visual-first teaching sessions, each with a definition, gateway, visual, named evidence, unique answer-grabbing line, must-write keywords, a claim → evidence → analysis → qualification model, exam route, traps and rapid revision",
+          "The ASCII master held only nine thin panels (7,168 bytes); it is rewritten as fourteen data-complete panels (36,679 bytes)",
+          "The graphical master was regenerated from a bespoke authored fifteen-core-stage specification instead of the previous package",
+          "The quick-glance tree disagreed with the owner on three doctrinal points (proof five framed as reabsorption at dissolution rather than the undivided source of a diversified universe, samanvayāt framed through the guṇa-character of experience rather than uniformity across effects, and anupalabdhi reduced to perception/inference rather than to perception's failure-conditions), used the Yoga term viveka-khyāti for Sāṃkhya's viveka-jñāna, conflated apavarga with kaivalya, carried a malformed 'ANTỊḤKARAṆA' heading and used a name spelling inconsistent with the session; all are corrected",
+          "Package README carried 'Source record ID …:learner-v2:g15', 'Source generation: 15', 'Approval: Approval pending' and a wrong 'Carvaka Graphical Flowchart' deliverable label; all four are corrected"
+        ],
+        "learning_session": "15 progressive visual-first sessions covering the threefold suffering and the demand for final cessation, system identity and the four-rung textual ladder, the three means of valid knowledge with the five reductions and the inferential burden, cognition through the inner instrument and reflection, primordial material nature with its four names and scope, the five proofs and the one-nature verdict, the three qualities with equilibrium and both modifications, the conscious witness with its five proofs, plurality with the Kārikā 18 arguments and the empirical self, the twenty-five principles in exact order with the fourfold classification, subtle body and transmigration, the pre-existence of the effect with five arguments and five counters, real transformation against three rival causal theories, bondage/discrimination/isolation with the five non-theistic arguments, and the contact problem with Śaṃkara's critique and the graded verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "per_subtopic_completeness": "All 15 sessions carry a plain and technical definition, a simple-start gateway, at least one topic-specific fenced visual with a caption, a full core argument, named evidence, a unique answer-grabbing line, must-write keywords, a unique claim → named evidence → analysis → qualification paragraph model, an exam-application route, a trap list and rapid revision; 15 fenced visuals sit inside the Basic block, and all 15 answer-grabbing lines and all 15 paragraph-model claims are unique",
+        "owned_framework_coverage": "108 audited owner anchors are all present, spanning the verbatim syllabus clause, the threefold suffering, the textual ladder from Kapila to Vijñānabhikṣu, the three means of valid knowledge with all five reductions and the threefold inference, the eight causes of non-perception with saukṣmya, the inner instrument and thirteenfold instrument with reflection and false appropriation, all four names of primordial nature, all five proofs of nature with the Sāṃkhyakārikā 15 textual control, the three qualities with equilibrium and both modifications, all five proofs of the witness with the not-a-God-proof marking, Kārikā 18 plurality with the supplementary argument and the upādhi, arthakriyā and moral-desert objections, the four teleology images, the empirical self, the twenty-five principles with the 1/7/16/1 classification and the elemental correspondence, the eighteen-constituent subtle body with the eight tendencies, all five satkāryavāda arguments with their Nyāya counters and replies, real transformation against apparent transformation, prior non-existence and dependent origination, bondage/discrimination/isolation with the two release stages and the five non-theistic arguments, mere proximity with both analogies, the pradhāna malla grounds, all four Śaṃkara objections including the knowing-cause texts, and the Cārvāka, Yoga, Nyāya, Buddhist and Advaita comparisons required by the sources and the routed questions",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth placed after both practice sections and before the register notes",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics covering all fifteen sessions + 8 remedial error-targeting drills",
+          "key_sequence": "ADABDCBCDBCACBDACABADBCDCABDBACD",
+          "distribution": "A8 B8 C8 D8 overall and 2/2/2/2 in every consecutive block of eight; longest run 1; all 29 four-grams distinct; no A→B→C→D rotation window and no ABAB window",
+          "visual_balance": "mean option length A 88.2 / B 88.2 / C 87.6 / D 87.9; correct 89.4 versus distractor 87.5",
+          "formats": "statement-set, matching, elimination, application, definition-precision, comparison, counting/sequence and correction-of-a-half-remembered-position items",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32,
+          "unique_stems": 32
+        },
+        "pyqs": {
+          "directly_owned": 10,
+          "supporting_routed": 3,
+          "supporting_detail": "All 10 primary-owned parts (2018 Q5(e), 2018 Q7(b), 2019 Q5(d), 2019 Q8(c), 2020 Q7(a), 2021 Q6(b), 2022 Q5(a), 2023 Q5(b), 2024 Q7(a), 2025 Q7(a)) were verified programmatically against the ledger as the complete Sāṃkhya ownership set of 10 out of 112. Three further questions are routed and fully solved because Sāṃkhya's causal doctrine is the subject under examination: 2021 Q5(a) [Nyāya–Vaiśeṣika], 2022 Q5(e) [Vedānta] and 2023 Q8(b) [Nyāya–Vaiśeṣika]",
+          "original_mains": 6,
+          "objective_keys": "none asserted — every routed question is descriptive and no official or local official key exists"
+        },
+        "answer_lengths": "All 19 solved answers sit inside the declared bands: 10 marks 150–200, 15 marks 250–300, 20 marks 340–400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 99,
+          "solved_practice_workbook_pages": 29,
+          "ascii_master_flowchart_pages": 14,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 6,
+          "defects": "zero blank, replacement-glyph and out-of-page pages across all five PDFs",
+          "extraction": "all 279 learning-session and 58 workbook H2/H3/H4 headings are recoverable from their rendered PDFs after typographic normalisation; both internal contents indexes and both header/footer chromes verified"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            16517
+          ],
+          "master_dpi": 300,
+          "core_stages": 15,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 16,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "6 pixel-identical overlapping crops of the same master, 577–578 px overlap, rows 0–16517 fully covered"
+        },
+        "ascii_master": "14 authored panels rewritten from the same factual spine; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages, a 9.37–10.5 pt type size and a maximum authored line of 99 characters within the 100-character frame",
+        "quick_glance": "Repaired in place as a 580-line, 24-part revision tree with a central principle, ownership firewall, attribution caution, the epistemological frame with the reductions and non-perception list, both proof sets, the qualities and their modifications, plurality with source control, the empirical self, the twenty-five principles with the fourfold classification, the subtle body count, causation and its rivals, bondage and liberation with the three-goal distinction, the relation problem, non-theism with five arguments, the pradhāna malla analysis, objections and replies, a comparative grid, a text and example bank, a 24-item trap ledger, the complete PYQ ownership and routing list, the revision chain and a qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on ten audited shared anchors (the one-nature proof avibhāgāt vaiśvarūpyasya, the śaktitaḥ pravṛtteś ca reading of Sāṃkhyakārikā 15, mahat and buddhi as one principle, the active quality as energiser only, the eighteen-constituent subtle body, mere proximity, the chief-wrestler designation, isolation as disentanglement rather than merger, the non-theistic framing, and differential liberation as a supplementary rather than a Kārikā 18 argument) and on all thirteen solved question years",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, count contradictions, placeholders, broken image links, preview or contact-sheet references, replacement glyphs or unrelated-subject residue in any of the five learner-facing artifacts or the package README; previews and contact sheets remain in the out-of-scope session build directory and are not installed in the package folder",
+        "later_topics": "All 122 baseline SHA-256 hashes for Topics 01–04 and 06–09 across the three locked trees are unchanged, and no file was added to or removed from those trees; only the eleven in-scope Topic 05 artifacts changed",
+        "limitations": [
+          "The learner-v2 renderer enforces a canonical upsc-ai-kit\\knowledge source path that conflicts with the locked learning_package_final scope; the path check was neutralised at driver level only and tools\\markdown_learning_pdf.py was not modified",
+          "carvaka_flowchart.relative() requires the specification path to sit inside the repository root; because every temporary working file was kept in the session folder outside the repository, the helper was relaxed at driver level only and tools\\carvaka_flowchart.py was not modified",
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Sāṃkhya Graphical Flowchart and a folder note was added",
+          "The ASCII master is rendered in Consolas, which lacks U+21D2, U+2605 and U+26A0; those three glyphs were replaced with '=>', '*' and '!' so that the PDF normalises equal to the text with no replacement glyph",
+          "The quick-glance tree uses ASCII transliteration inside its fixed-width diagram to preserve alignment, and writes Śaṃkara throughout; the printed 2023 and 2025 papers spell the same name Śaṅkara, and that printed spelling is preserved only inside quoted question text",
+          "Whether early Sāṃkhya was originally theistic or consistently non-theistic, whether isolation is purely negative or has a positive phenomenological character, and how the Kārikā tradition relates to the later Sūtra tradition are reported as contested rather than resolved",
+          "The individuation of qualitatively identical conscious witnesses, the beginning of bondage and the intelligibility of unconscious teleology are stated as unresolved pressure points of the school rather than defended",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "topic_key": "philosophy-paper-i-indian-philosophy-06",
+      "title": "Yoga",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md (Basic/Core owner, complete file including §0 one-screen map, §0A textual identity and the four chapters, §0A.1 ownership and answer-worthiness, §1 citta with §1.4A the reflection presuppositions and §1.6-§1.9 the mind-levels, §2 cittavṛtti with §2.12A practice and dispassion and §2.16 citta-pariṇāma, §3 kleśas with §3.13 karma and vipāka, §4 aṣṭāṅga-yoga, §5 samādhi with §5.3-§5.7 the two schemes, §5.8 ṛtambharā, §5.9-§5.9B asamprajñāta, nirbīja and the two routes, §5.12 siddhis and §5.14 the obstacles, §6 kaivalya with §6.8 the three images, §7 Īśvara with §7.3A the grounds, §8 inter-school debates with §8.5 the Kaivalya-pāda realism, §9 criticisms and replies, §10 traps, §11 keyword and statement bank, §11A-§11F the presupposition, pūrvapakṣa, inter-school, western, directive and graded-verdict ledgers, §12 PYQ routing and §13 answer architecture)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §6 Yoga (Advanced owner; used for optional enrichment only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording, 2018–2025; all 7 primary-owned parts plus 1 routed part extracted and verified programmatically against the ledger)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 17, verbatim, printed spelling retained)",
+          "The repository-level learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the section-local REVIEW-AND-REPAIR-INSTRUCTIONS.md control files"
+        ],
+        "defects_repaired": [
+          "Solved-Practice-Workbook.md was a byte-identical duplicate of Learning-Session.md (both SHA-256 99C64C00…, both 202,490 bytes); a genuine standalone workbook was authored",
+          "The MCQ answer keys were three separate pure A→B→C→D rotations — 'ABCD' six times across the 24-item integrated loop, twice across the 8 remedial items and four times across a 16-item advanced loop; they are replaced by 32 independently randomized keys",
+          "Package practice counts were self-contradictory at 24+8+16 = 48 items against a declared 24+8 protocol; counts are now single-sourced and true at 24+8 = 32",
+          "Only one explanation existed per question and there were no examiner traps at all; the workbook now carries 128 unique option-specific explanations and 32 unique traps",
+          "Front matter carried generation identity 'generation: 4' and 'generation_date: 2026-09-02'; all generation residue is removed",
+          "The cover image link pointed at a missing assets/philosophy-paper-i-indian-philosophy-06/english-first-concept-spine.png file inside the package folder; the link and its caption are removed",
+          "English-first substitution had been applied mechanically, producing malformed doublings such as 'Mind-field (citta) (citta)', 'Conscious witness (puruṣa)s' and 'Restless mind (kṣipta) | Restless'; the terminology is rewritten as English-first with a single accurate IAST gloss",
+          "The session was a nine-part source-dump sequence carrying eight scrambled 'LAYER 3 - ADVANCED' markers; it is rewritten as seventeen progressive visual-first teaching sessions, each with a definition, gateway, visual, named evidence, unique answer-grabbing line, must-write keywords, a claim → evidence → analysis → qualification model, exam route, traps and rapid revision",
+          "The Optional Advanced block was eight thin 'OPTIONAL DEPTH' stubs restating session titles; it is rewritten as three labelled enrichment modules with a prerequisite note, an over-study list, a promotion trigger and three contested matters",
+          "The ASCII master held only nine thin panels (4,448 bytes); it is rewritten as twenty-four data-complete panels (51,481 bytes)",
+          "The graphical master was auto-derived from those thin ASCII panels, repeating one generic three-column card with pills cut mid-phrase; it is regenerated from a bespoke authored eighteen-core-stage specification with eight distinct layouts",
+          "The quick-glance tree contradicted the owner on the 2019 application, classifying the scientist as capable of ekāgra concentration where the owner assigns vikṣipta; it also reported the asamprajñāta impression-residue as optional in 'some commentarial readings' when YS 1.18 defines the state by saṃskāra-śeṣa, asserted a five-source list for the siddhis and an unbounded-knowledge claim for dharmamegha that the owner does not carry, and omitted the three pramāṇas, the derivation precision for manas, the fourfold colour of karma, the nine antarāyas and the Kaivalya-pāda realist arguments; all are corrected or supplied",
+          "Package README carried 'Source record ID …:learner-v2:g4', 'Source generation: 4', 'Approval: Approval pending' and a wrong 'Carvaka Graphical Flowchart' deliverable label; all four are corrected and the syllabus clause and companion-artifact path are added"
+        ],
+        "learning_session": "17 progressive visual-first sessions covering the definition of Yoga and the Sāṃkhya inheritance, textual identity and source control across the four chapters, the mind-field's constitution and derivation, reflection and the birth of egoity, the five mind-levels with the 2019 application, the five modifications and the afflicted division, the five-step argument for restraint with the three instruments of knowledge, practice and the two grades of dispassion, real transformation of the mind-substrate against momentariness, the five afflictions and their four states, the causal engine of bondage with preparatory discipline, the eight-limbed discipline with combined discipline and the nine obstacles, the two absorption classifications, truth-bearing insight with powers and the cloud of dharma, the Lord as special witness within a bounded theism, isolation with involution and self-abidance, and the Kaivalya-pāda realist polemic with the inter-school debates and the graded verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "per_subtopic_completeness": "All 17 sessions carry a plain and technical definition, a simple-start gateway, one topic-specific fenced visual with a caption, a full core argument, named evidence, a unique answer-grabbing line, must-write keywords, a unique claim → named evidence → analysis → qualification paragraph model, an exam-application route, a trap list and rapid revision; 17 fenced visuals sit inside the Basic block, and all 17 answer-grabbing lines and all 17 paragraph-model claims are unique",
+        "owned_framework_coverage": "160 audited owner anchors are all present in the learning session and all 160 are also present in the quick-glance tree, spanning the verbatim syllabus clause, the YS 1.2–1.4 definition triad, the seśvara-sāṃkhya and sāṃkhya-pravacana labels, the four chapters with their commentarial ladder, the three instruments of knowledge with yogi-pratyakṣa, the mind-field's threefold constitution with the manas-only derivation control, the reflection apparatus of pratibimba, chāyā, sannidhi-mātra, uparāga, apariṇāmin, sva-svāmi-śakti and the sphaṭika image, all five mind-levels with the fitness rule and the 2019 triad, all five modifications with the kliṣṭa/akliṣṭa cut, abhyāsa with its three conditions and both grades of vairāgya including the four commentarial stages, the three yogic and three general transformations on a dharmin against kṣaṇikavāda and vivartavāda, all five afflictions with the four reversals and the four states, karmāśaya as kleśa-mūla with the threefold vipāka of jāti, āyus and bhoga, saṃskāra and vāsanā, the four colours of action, kriyā-yoga with its stated purpose, all eight limbs with the five yamas, five niyamas, the sārvabhauma-mahāvrata of YS 2.31 and saṃyama, the nine antarāyas with their four symptoms and the remedies, the YS 1.17 fourfold characterisation kept apart from the YS 1.42–1.46 samāpatti-bhedas with aliṅga and śabda-artha-jñāna-vikalpa, ṛtambharā prajñā with viśeṣa-artha and its non-pramāṇa status, asamprajñāta as saṃskāra-śeṣa against nirbīja, both the bhava-pratyaya and upāya-pratyaya routes, the siddhis with YS 3.37, dharmamegha, Īśvara as puruṣa-viśeṣa with praṇava and the āśaya exclusion, viveka-khyāti, para-vairāgya, pratiprasava, svarūpa-pratiṣṭhā, the kṣetrika, dagdha-bīja and potter's-wheel images with the jīvanmukti qualification, the apavarga and Advaita contrasts, and the four Kaivalya-pāda realist arguments against vijñānavāda/yogācāra with ekacitta-tantra, na tat svābhāsam, dṛśya and uparakta",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth placed after both practice sections and before the register notes",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics covering all seventeen sessions + 8 remedial error-targeting drills",
+          "key_sequence": "ABCBDCDACADCDBABDABACDCBCDBDACBA",
+          "distribution": "A8 B8 C8 D8 overall and 2/2/2/2 in every consecutive block of eight; longest run 1; all 29 four-grams distinct; no A→B→C→D rotation window and no ABAB window",
+          "visual_balance": "mean option length A 94.0 / B 94.5 / C 95.9 / D 94.8; correct 99.2 versus distractor 93.3",
+          "formats": "statement-set, matching, elimination, application, definition-precision, comparison and correction-of-a-written-sentence items",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32,
+          "unique_stems": 32
+        },
+        "pyqs": {
+          "directly_owned": 7,
+          "supporting_routed": 1,
+          "supporting_detail": "All 7 primary-owned parts (2019 Q7(b), 2020 Q5(b), 2021 Q6(a), 2022 Q5(c), 2023 Q7(c), 2024 Q7(b), 2025 Q7(b)) were verified programmatically against the ledger as the complete Yoga ownership set of 7 out of 112; 2018 is the only year with no primary-owned Yoga part. One further question is routed and fully solved because Yoga's proof of God is expressly the comparative subject under examination: 2018 Q6(a) [Nyāya–Vaiśeṣika]",
+          "original_mains": 6,
+          "objective_keys": "none asserted — every solved question is descriptive and no official or local official key exists"
+        },
+        "answer_lengths": "All 14 solved answers sit inside the declared bands: 10 marks 150–200 (181, 189, 168, 168), 15 marks 250–300 (282, 294, 286, 263, 275, 255), 20 marks 340–400 (358, 383, 345, 360) words",
+        "pdfs": {
+          "complete_learning_session_pages": 108,
+          "solved_practice_workbook_pages": 27,
+          "ascii_master_flowchart_pages": 24,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 7,
+          "defects": "zero blank, near-empty, clipped and replacement-glyph pages across all five PDFs",
+          "extraction": "all 311 learning-session and 53 workbook H2/H3/H4 headings are recoverable from their rendered PDFs after typographic normalisation; both internal contents indexes validate"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            18948
+          ],
+          "master_dpi": 300,
+          "core_stages": 18,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 15,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "7 pixel-identical overlapping crops of the same master, 615 px overlap, rows 0–18948 fully covered"
+        },
+        "ascii_master": "24 authored panels rewritten from the same factual spine; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages, a 9.37–10.5 pt type size and a maximum authored line of 96 characters within the 100-character frame",
+        "quick_glance": "Repaired in place as a 593-line, 31-part revision tree with a central principle, ownership firewall, attribution caution naming the three commentarial items, the four-chapter map, the three-pramāṇa frame with yogi-pratyakṣa, citta with the manas-only derivation control, the reflection apparatus, the five mind-levels with the corrected vikṣipta reading of the 2019 scientist, nirodha and the five vṛttis, the five-step argument for cessation, practice and both grades of dispassion, citta-pariṇāma, the five kleśas and four states, the bondage chain with the threefold vipāka and the four colours of karma, kriyā-yoga, the eight limbs, the nine antarāyas with remedies, both absorption grids kept apart, ṛtambharā, asamprajñāta defined by saṃskāra-śeṣa against nirbīja, dharmamegha, the siddhis with the YS 3.37 demotion, Īśvara with five roles and five negations, the grounds and the instrumental-not-constitutive formula, kaivalya with four negations, the three images, the Kaivalya-pāda realist arguments, seven inter-school comparisons, eight objections with replies, a text and term bank, a 24-item trap ledger, the complete PYQ ownership and routing list with section cross-references, the revision chain, the answer spine and a qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on ten audited shared anchors (the vikṣipta classification of the scientist, saṃskāra-śeṣa as the defining mark of asamprajñāta, nirbīja as the restraint of that residue, the instrumental-not-constitutive formula for the Lord, the threefold fruition of jāti/āyus/bhoga, the sārvabhauma-mahāvrata, mere proximity, pratiprasava, truth-bearing insight as not a fourth instrument, and the powers as obstacles to absorption) and on all eight solved question years",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, count contradictions, placeholders, broken image links, progress navigation, truncation ellipses, replacement glyphs or unrelated-subject residue in any of the five learner-facing artifacts or the package README; previews and contact sheets remain in the out-of-scope session build directory and are not installed in the package folder",
+        "later_topics": "All 122 baseline SHA-256 hashes for Topics 01–05 and 07–09 across the three locked trees are unchanged, and no file was added to or removed from those trees; only the eleven in-scope Topic 06 artifacts changed",
+        "limitations": [
+          "The learner-v2 renderer enforces a canonical upsc-ai-kit\\knowledge source path that conflicts with the locked learning_package_final scope; the path check was neutralised at driver level only and tools\\markdown_learning_pdf.py was not modified",
+          "carvaka_flowchart.relative() requires the specification path to sit inside the repository root; because every temporary working file was kept in the session folder outside the repository, the helper was relaxed at driver level only and tools\\carvaka_flowchart.py was not modified",
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Yoga Graphical Flowchart and a folder note was added",
+          "The ASCII master is rendered in Consolas; the three glyphs Consolas lacks (U+21D2, U+2605, U+26A0) were avoided entirely, so the PDF normalises equal to the text with no replacement glyph",
+          "The five citta-bhūmis, the four-stage analysis of lower dispassion and the expanded theoretical proof-set for Īśvara are used but labelled throughout as commentarial rather than aphoristic",
+          "Whether Īśvara is philosophically necessary or only uniquely useful, how sharply asamprajñāta, nirbīja and dharmamegha should be distinguished, and whether absorption or discriminative knowledge does the liberating work are reported as contested rather than resolved",
+          "The commentarial status of ānanda and asmitā within the absorption taxonomy, whether kaivalya is austere aloneness or blissful self-abidance, and the unity and layering of the sūtra tradition are stated as unresolved rather than adjudicated",
+          "Siddhi claims are reported as text-owned doctrinal exposition and are never presented as independently verified fact",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "topic_key": "philosophy-paper-i-indian-philosophy-07",
+      "title": "Mimamsa",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md (Basic/Core owner, complete file: §0 one-screen map, §1 dharma-jijñāsā with §1.2–§1.3 the sub-school split, §1.4 minimum metaphysics and §1.5 the lineage and Pūrva/Uttara boundary, §2 svataḥ-prāmāṇya with the fourfold formulation, the eleven-step argument, §2.5 the Nyāya rival, §2.6 the Sāṃkhya and Buddhist placements and §2.7 the dream objection, §3 the six pramāṇas with §3.4A means/true cognition/success, §3.5A the two perception stages, §3.7 upamāna with the Nyāya contrast, §3.8 the testimony classifications and §3.10 the exclusion of memory, §4 arthāpatti with §4.3 Devadatta, §4.3A the two forms, §4.4 the candidate case and §4.5–§4.6 the three arguments and the circularity reply, §5 anupalabdhi with §5.3 yogyatā, §5.8–§5.9 the ontology of abhāva and the intra-Mīmāṃsā debate, §6 the four khyāti theories with §6.5 the 2022 puzzle, §7 tripuṭī-saṃvit and jñātatā with §7.11 the entailment grid, §8 sentence-unity with §8.2 the shared conditions, §8.3–§8.5 the two semantics and cross-objections, §8.6 universals and apoha and §8.7 sphoṭa-vāda, §9 apauruṣeyatva with the six replies and §9.6A the sentence taxonomy, §10 ethics with §10.6 self and liberation, §10A bhāvanā with aṃśa-traya and niyoga and the Vedānta seam, §10B nirīśvaravāda, §11 inter-school debates, §12 criticisms and replies, §13 traps, §14 keyword bank, §14A–§14G the presupposition, pūrvapakṣa, master-table, positioning, western-comparison, directive and graded-verdict ledgers, §15 PYQ routing and §16 answer architecture)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §7 Mīmāṃsā (Advanced owner; used for optional enrichment only, including the promotion ledger recording that apūrva, bhāvanā/niyoga and the full Bhāṭṭa–Prābhākara grid are already Core)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording; all 14 primary-owned parts extracted and verified programmatically against the ledger, including its curly-quote typography)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 18, verbatim, printed spelling retained)",
+          "The repository-level learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the section-local REVIEW-AND-REPAIR-INSTRUCTIONS.md control files"
+        ],
+        "defects_repaired": [
+          "Solved-Practice-Workbook.md was a byte-identical duplicate of Learning-Session.md (both SHA-256 FC040304…, both 155,661 bytes); a genuine standalone workbook was authored",
+          "Package practice counts were self-contradictory: a declared 32-question bank coexisted with a separate remedial block, a 16-item advanced close-distinction loop and a further review-promoted loop; counts are now single-sourced and true at 24+8 = 32",
+          "Front matter carried generation identity 'generation: 4' and 'generation_date: 2026-09-02'; all generation residue is removed",
+          "The cover image link pointed at a missing assets/philosophy-paper-i-indian-philosophy-07/english-first-concept-spine.png file, and its caption was triplicated; the link and the duplicated captions are removed",
+          "English-first substitution had been applied mechanically, producing malformed headings such as 'Authorless Veda, Anti-Theism, Action and moral consequence (karma) and Later Liberation (mokṣa)' and 'Intrinsic Validity and the Means of valid knowledge (pramāṇa) Architecture'; terminology is rewritten as English-first with a single accurate IAST gloss",
+          "The session was a nine-part source-dump sequence with scrambled layer markers and a machine-generated 'closure-flow' block; it is rewritten as nineteen progressive visual-first teaching sessions, each with a definition, gateway, visual, named evidence, unique answer-grabbing line, must-write keywords, a claim → named evidence → analysis → qualification model, exam route, traps and rapid revision",
+          "The Optional Advanced block was eight thin 'OPTIONAL DEPTH' stubs restating session titles; it is rewritten as three labelled enrichment modules with a prerequisite note, an over-study list, a promotion trigger and three contested matters",
+          "The ASCII master held only nine thin panels (3,800 bytes) and used unaccented transliteration; it is rewritten as twenty-four data-complete panels in accurate IAST (87,138 bytes)",
+          "The graphical master was auto-derived from those thin ASCII panels, repeating one generic three-column card; it is regenerated from a bespoke authored nineteen-core-stage specification with eight distinct layouts and fifteen distinct layout signatures",
+          "The quick-glance tree misassigned Śālikanātha's line, carried a Maṇḍana Miśra caution the owner does not hold, split the universal/particular question between Bhāṭṭa and Prābhākara where the owner assigns universal-priority to Mīmāṃsā generally against Nyāya, stated the Bhāṭṭa/Nyāya error contrast only vaguely, and omitted the third anti-reduction argument, the six replies to the circularity charge, the natural word-meaning relation, the three injunction kinds, the ritual-coordination grid, the hermeneutic canons, the aṃśa-traya terminology, the redundant-or-unjust dilemma, the sarvajña denial, the Vedānta seam and the four-school validity strip; all are corrected or supplied and the fourteen PYQ parts now carry their exact question numbers",
+          "Package README carried 'Source record ID …:learner-v2:g4', 'Source generation: 4', 'Approval: Approval pending' and a wrong 'Carvaka Graphical Flowchart' deliverable label; all four are corrected and the syllabus clause, companion-artifact path and folder note are added"
+        ],
+        "learning_session": "19 progressive visual-first sessions covering the inquiry into duty and the formula codaṇā-lakṣaṇo'rtho dharmaḥ, the lineage and the Pūrva/Uttara ownership firewall, the two sub-schools as one instinct with six consequences, intrinsic validity with its fourfold formulation and eleven-step argument, the extrinsic rival with the dream objection and the four-school strip, the instrument list with its irreducibility rule, the four shared instruments with the two-stage perception and the correctly stated comparison, the exclusion of memory by the novelty condition, postulation with the Devadatta case and the three anti-reduction arguments, non-cognition with the fitness filter and the ontology of absence, the four theories of error stated precisely, the three accounts of knowing that one knows, the self-luminosity entailment question, sentence-unity with the two rival semantics, universals against exclusion and the rejected sound-burst, the authorless Veda with the circularity charge and six replies, injunction with impelling force, obligation, unseen potency and the hermeneutic canons, the rejection of a creator God with the redundant-or-unjust dilemma, and self, liberation, five inter-school fronts and the graded verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "per_subtopic_completeness": "All 19 sessions carry a plain and technical definition, a simple-start gateway, exactly one topic-specific fenced visual with a caption, a full core argument, named evidence, a unique answer-grabbing line, must-write keywords, a unique claim → named evidence → analysis → qualification paragraph model, an exam-application route, a trap list and rapid revision; 19 fenced visuals sit inside the Basic block, and all 19 answer-grabbing lines and all 19 paragraph-model claims are unique",
+        "owned_framework_coverage": "The complete owned framework is restored: Vedic authority and apauruṣeyatva with śabda-nityatva, the autpattika relation, the Kaṭha/Kauṣītaki reply and the six replies to circularity; dharma and codaṇā with the defining formula; sentence-meaning and word-meaning with ākāṅkṣā, yogyatā, sannidhi, the tātparya problem for an authorless text and the owner-held hermeneutic canons śruti–liṅga–vākya–prakaraṇa–sthāna–samākhyā and utsarga–apavāda kept at their stated comparative level; intrinsic validity with utpatti/jñapti, doṣa/bādhaka, anavasthā and the realism presupposition; the complete pramāṇa treatment with the Sāṃkhya 3 / Nyāya 4 / Prābhākara 5 / Bhāṭṭa 6 grid, the irreducibility rule, the pramāṇa–pramā–pravrtti-sāmarthya vocabulary, nirvikalpaka/savikalpaka perception, the Mīmāṃsā gavaya account against the Nyāya word-reference account, pauruṣeya/apauruṣeya and siddhārtha/vidhāyaka testimony, and the anadhigatatva exclusion of memory with the Nyāya concurrence; arthāpatti with anupapatti, the minimally reconciling postulate, dṛṣṭārthāpatti and śrutārthāpatti, the three anti-reduction arguments and the circularity reply; anupalabdhi with yogyānupalabdhi, both refusals, abhāva with its pratiyogin, and the Bhāṭṭa/Prābhākara/Nyāya three-way dispute; abhihitānvaya and anvitābhidhāna with abhidhā, lakṣaṇā, vyutpatti and four cross-objections; the four khyāti theories with akhyāti/vivekākhyāti and viparīta-khyāti kept distinct from anyathā-khyāti and anirvacanīya-khyāti; the five sentence functions, the three logical injunction kinds and the separate utpatti/viniyoga/prayoga/adhikāra grid, śābdī and ārthī bhāvanā with aṃśa-traya, niyoga and apūrva established by arthāpatti; the enduring plural self, agency and the late liberation doctrine; the God question with eight arguments, the redundant-or-unjust dilemma, the devatā qualification and the sarvajña denial; duty and ethics through vidhi and niṣedha; relations to Vedānta, Nyāya, Buddhism, Sāṃkhya and Cārvāka; and all objection–reply sets and PYQ-tested distinctions. 45 audited owner anchors are present in the learning session, the quick-glance tree and the ASCII master alike",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth placed after both practice sections and before the register notes",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics covering all nineteen sessions + 8 remedial error-targeting drills",
+          "key_sequence": "BCACBDADBDCBADACDADCABCBDCADBCAB",
+          "distribution": "A8 B8 C8 D8 overall and 2/2/2/2 in every consecutive block of eight; longest run 1; all 29 four-grams distinct; no A→B→C→D rotation window and no ABAB window",
+          "visual_balance": "mean option length A 86.3 / B 86.3 / C 88.0 / D 89.0; correct 88.0 versus distractor 87.2; no option set spans more than 20 characters",
+          "formats": "statement-set, matching, elimination, application, definition-precision, comparison and correction-of-a-written-sentence items",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32,
+          "unique_stems": 32
+        },
+        "pyqs": {
+          "directly_owned": 14,
+          "supporting_routed": 0,
+          "supporting_detail": "All 14 primary-owned parts (2018 Q8(a), 2019 Q5(e), 2020 Q5(c), 2021 Q6(c), 2022 Q6(c), 2022 Q7(a), 2023 Q6(b), 2023 Q8(c), 2024 Q5(d), 2024 Q8(a), 2024 Q8(b), 2024 Q8(c), 2025 Q5(c), 2025 Q6(c)) were verified programmatically against the ledger as the complete Mīmāṃsā ownership set of 14 out of 112, and every year from 2018 to 2025 is represented, so no routed question was required",
+          "original_mains": 6,
+          "objective_keys": "none asserted — every solved question is descriptive and no official or local official key exists"
+        },
+        "answer_lengths": "All 20 solved answers sit inside the declared bands: 10 marks 150–200 (199, 200, 198, 200, 172, 168), 15 marks 250–300 (270, 273, 276, 273, 285, 277, 296, 283, 285), 20 marks 340–400 (398, 393, 384, 368, 372) words",
+        "pdfs": {
+          "complete_learning_session_pages": 137,
+          "solved_practice_workbook_pages": 31,
+          "ascii_master_flowchart_pages": 26,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 6,
+          "defects": "zero blank, near-empty, clipped and replacement-glyph pages across all five PDFs",
+          "extraction": "all 343 learning-session and 59 workbook H2/H3/H4 headings are recoverable from their rendered PDFs after typographic normalisation; both internal contents indexes validate"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            17523
+          ],
+          "master_dpi": 300,
+          "core_stages": 19,
+          "subordinate_extra_stages": 1,
+          "distinct_layout_signatures": 15,
+          "distinct_layouts": [
+            "columns",
+            "dialectic",
+            "hierarchy",
+            "matrix",
+            "process",
+            "spatial",
+            "synthesis",
+            "timeline"
+          ],
+          "overflow_events": 0,
+          "poster": "embeds the corrected master pixel-identically",
+          "tiles": "6 pixel-identical overlapping crops of the same master, 376 px minimum overlap, rows 0–17523 fully covered"
+        },
+        "ascii_master": "24 authored panels rewritten from the same factual spine in accurate IAST; text and PDF normalise equal with zero blank, replacement-glyph or clipped pages, a 9.95 pt Consolas type size and a maximum authored line of 96 characters within the 100-character frame",
+        "quick_glance": "Repaired in place as an 816-line revision tree with 35 numbered parts and 9 framing branches with a central principle, ownership firewall, corrected attribution caution, dharma-jijñāsā, the sub-school grid, minimum metaphysics, the fourfold formulation, the not-infallibility rule, the Nyāya contrast with the four-school strip, the self-luminosity entailment grid, the pramāṇa count with its admission rule, perception, the three other shared instruments with the corrected upamāna, the memory exclusion, arthāpatti with its two forms and three anti-reduction arguments, anupalabdhi with the fitness filter, the ontology of abhāva, the three-way absence dispute, both error theories with the four-theory grid, tripuṭī-saṃvit and jñātatā, the sentence conditions, both semantic theories, universals with apoha and sphoṭa, Vedic authority with the eight-step argument and six replies, the three injunction taxonomies with the hermeneutic canons, apūrva, bhāvanā with aṃśa-traya, niyoga with the Vedānta seam, nirīśvaravāda with the dilemma and the devatā qualification, self and liberation, eleven objection–reply pairs, a five-front comparative grid, a text and term bank, a 25-item trap ledger, the complete PYQ ownership list with exact question numbers and part cross-references, the revision chain, the answer spine and a qualified conclusion",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical spec agree on 45 audited term anchors and on the complete fourteen-part PYQ ownership set with its exact question numbers and marks; the counts six/five/fourteen are identical in all four text artifacts",
+        "residue_audit": "No generation identity, approval language, legacy layer markers, count contradictions, placeholders, broken image links, progress navigation, truncation ellipses, replacement glyphs or unrelated-subject residue in any of the five learner-facing artifacts or the package README; previews, contact sheets and build audits remain in the out-of-scope session build directory and are not installed in the package folder",
+        "later_topics": "All 121 baseline SHA-256 hashes for Topics 01–06 and 08–09 across the three locked trees are unchanged, and no file was added to or removed from those trees; the immutable Cārvāka reference flowchart package verified byte-identical; only the eleven in-scope Topic 07 artifacts and this section-local status file changed",
+        "limitations": [
+          "The learner-v2 renderer enforces a canonical upsc-ai-kit\\knowledge source path that conflicts with the locked learning_package_final scope; the path check was neutralised at driver level only and tools\\markdown_learning_pdf.py was not modified",
+          "carvaka_flowchart.relative() requires the specification path to sit inside the repository root; because every temporary working file was kept in the session folder outside the repository, the helper was relaxed at driver level only and tools\\carvaka_flowchart.py was not modified",
+          "The renderer's fixed header chrome still prints a legend chip and a fixed provenance strip that this repair cannot remove without editing tool source",
+          "The graphical folder retains its historical name 03-Carvaka-Graphical-Flowchart because the section INDEX.md links to that exact path and index files are outside this repair's modification scope; the README deliverable label was corrected to Mimamsa Graphical Flowchart and a folder note was added",
+          "The ASCII master is rendered in Consolas; every glyph used was verified present in the font, and the three characters Consolas lacks in comparable packages (U+21D2, U+2605, U+26A0) were avoided entirely, so the PDF normalises equal to the text",
+          "ASCII panels 23 and 24 are longer than one A4 sheet and continue onto a second numbered sheet, so the PDF has 26 pages for 24 panels; each panel is still complete and contiguous",
+          "The hermeneutic canons śruti–liṅga–vākya–prakaraṇa–sthāna–samākhyā and utsarga–apavāda are held by the owner only inside a controlled western-comparison ledger; they are therefore named at that level and not expanded into a doctrinal list",
+          "The Sāṃkhya intrinsic/intrinsic and Buddhist extrinsic/intrinsic placements, and the wider analogical reading of Śabara on comparison, are reported as standard survey presentation or as a possible reading rather than as adjudicated fact",
+          "Whether intrinsic validity avoids circularity or merely relocates it, whether Mīmāṃsā atheism is considered metaphysics or exegetical necessity, and how the development of the mokṣa doctrine should be placed are reported as contested rather than resolved",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "topic_key": "philosophy-paper-i-indian-philosophy-08",
+      "title": "Schools of Vedanta",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md (Basic/Core owner, complete file)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §8 Vedānta (Advanced owner, optional only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 19, verbatim)",
+          "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Indian Philosophy section-local control file"
+        ],
+        "defects_repaired": [
+          "The workbook Markdown was byte-identical to the learning session; a genuine standalone workbook now exists",
+          "Mechanical English-first glossing had corrupted the prose, broken the one-screen ASCII map and mangled the verbatim syllabus line; the session was re-authored and the printed syllabus restored exactly",
+          "Source-owned doctrine that the earlier file had compressed away was restored, including Madhva's efficient-cause-only causation with dependent primordial matter as material cause",
+          "The terminology key held a single entry and duplicate captions; the front matter carried generation identity and a broken cover-image link",
+          "The ASCII master was a nine-panel stub of 3,756 bytes; it is now a 22-panel data-complete master of 83,406 bytes",
+          "The graphical master, poster and tiles were regenerated with a bespoke stage-by-stage design instead of the previous short canvas"
+        ],
+        "learning_session": "19 progressive visual-first sessions covering the threefold canon and school taxonomy, ultimate reality and its two definitions, efficient and material causality, the six means of valid knowledge, the Lord and the original-reflection model, the true self and the witness, the individual self, the world and the levels of reality, illusion and ignorance, the seven objections, superimposition and error, the great sentence, liberation, inseparable dependence, fivefold difference, the wider Vedānta, the Sāṃkhya debate, the consequences of absolutism and the graded verdict; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth; every session also carries a definition, a topic-specific visual, named evidence, an answer-grabbing line, must-write keywords, a claim-evidence-analysis-qualification paragraph demonstration and traps",
+        "core_completeness": "Core is independently answer-complete for all twenty owned previous-year questions; the four Optional Advanced modules are enrichment only and no core answer depends on them",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics covering all nineteen sessions + 8 remedial error-targeting drills",
+          "key_sequence": "DBACABDCACBCADBDCDACBDBADABDBCAC",
+          "distribution": "A8 B8 C8 D8; two of each position in every consecutive block of eight; longest run 1; no A-B-C-D rotation window; no ABAB alternation",
+          "visual_balance": "mean key option length 98.1 characters against 98.4 for distractors; the key is the longest option in 6 of 32 items and the shortest in 8 of 32",
+          "formats": "statement-set, matching, elimination, application, evidence, inference, sequence-pairing and printed-stem interpretation",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32
+        },
+        "pyqs": {
+          "directly_owned": 20,
+          "distribution": "2018×3, 2019×1, 2020×3, 2021×3, 2022×3, 2023×3, 2024×1, 2025×3",
+          "printed_wording": "reproduced character-for-character from the verified ledger and machine-compared against it",
+          "supporting_routed": 2,
+          "supporting_detail": "2018 Q7(b) 15 marks primary owner Sāṃkhya; 2018 Q8(a) 20 marks primary owner Mīmāṃsā — both flagged as supporting routes only",
+          "original_mains": 6
+        },
+        "answer_lengths": "All 26 solved answers sit inside the declared bands and state their exact counts: 10 marks 150-200, 15 marks 250-300, 20 marks 340-400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 139,
+          "solved_practice_workbook_pages": 37,
+          "ascii_master_flowchart_pages": 26,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 7,
+          "defects": "zero blank, near-empty, replacement-glyph and out-of-page pages across all five PDFs; every character in every text artifact is covered by the rendering fonts"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            19834
+          ],
+          "master_dpi": 300,
+          "core_stages": 16,
+          "subordinate_extra_stages": 1,
+          "layout_kinds": "chain, coloured-header panels, comparison table, numbered ladder, keyword-pill rows, mechanism band, answer band and trap band, mixed differently in every stage",
+          "overflow_events": 0,
+          "poster": "single page of 2834.6 × 11713.0 pt embedding the corrected master at its full 4800 × 19834 resolution",
+          "tiles": "7 A3-landscape pages cropped from that same master, 654 px overlap, rows 0-19834 fully covered, each crop verified pixel-identical to the master region"
+        },
+        "ascii_master": "22 authored panels; the standalone text and the panels embedded in the learning session normalise equal; the PDF renders all 1,229 body lines with zero blank, replacement-glyph or clipped pages",
+        "quick_glance": "Repaired in place: unsupported liberation term removed, causation branch aligned to the owner including Madhva's efficient-cause-only position, original-reflection image and variants corrected, superimposition shorthand and process-versus-status distinction added, Vallabha's unchanged real manifestation and path of grace named, example bank extended, and four missing high-risk traps added",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on every audited fact, including the mithyā/tuccha distinction, Madhva's efficient-cause-only causation, the seven objections, fivefold difference, inseparable dependence, gradation, the original-reflection model, the definition of liberation, Nimbārka's threefold matter and Vallabha's unchanged real manifestation",
+        "residue_audit": "No generation identity, approval language, regeneration-ledger residue, preview or contact-sheet references, placeholders, broken image links or unrelated-subject residue in any artifact; the package README no longer carries a generation record",
+        "later_topics": "All 441 baseline SHA-256 hashes for every inactive artifact across the three locked trees are unchanged after the repair",
+        "limitations": [
+          "The identity or distinction of illusion (māyā) and ignorance (avidyā) is reported as genuinely non-uniform across Advaita formulations rather than settled",
+          "The original-reflection family, the limitation model and the undivided-form mental mode are presented as later systematic explanations and are not attributed as verbatim Śaṅkara formulations",
+          "Dvaita's unique differentiator (viśeṣa) and the graded destinies of souls are reported with their interpretive variation and evaluated rather than asserted",
+          "The printed 2018 Q7(c) claim that illusion is 'needed' by Rāmānuja is flagged as a printed anomaly and answered as a comparison of explanatory strategies, never rationalised into a false doctrine",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "topic_key": "philosophy-paper-i-indian-philosophy-09",
+      "title": "Aurobindo",
+      "status": "complete",
+      "completed": "2026-09-08",
+      "approved": false,
+      "validation": {
+        "sources_checked": [
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Aurobindo.md (Basic/Core owner, complete file)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md §9 Aurobindo (Advanced owner, optional only)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md (routing ledger and printed wording)",
+          "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md (item 20, verbatim)",
+          "learning_package_final\\REVIEW-AND-REPAIR-INSTRUCTIONS.md and the Indian Philosophy section-local control file",
+          "AGENT_MEMORY.md and AGENTS.md learner-v2, workbook, flowchart and validation rules"
+        ],
+        "defects_repaired": [
+          "The workbook Markdown was byte-identical to the learning session (both SHA-256 7CECC44D230AC1A5D1389B857315E6648BE3803D6F372A164074173C97C9F96D); a genuine standalone workbook now exists",
+          "The session was a layered source dump rather than taught material; it has been re-authored as 22 progressive visual-first teaching sessions, each with a definition, gateway, topic-specific visual, named evidence, answer-grabbing line, must-write keywords, a claim-evidence-analysis-qualification paragraph demonstration, exam route, traps and rapid revision",
+          "Mechanical English-first glossing had corrupted the prose, producing strings such as 'Existence-consciousness-bliss (sat-cit-ānanda) (sat-cit-ānanda)'; terminology is now English-first once, with accurate IAST following, and the printed syllabus line is restored exactly",
+          "The front matter carried generation identity (generation 4, generation_date) and a cover_image link, and the terminology key was duplicated with a single entry and repeated captions; all of that residue is gone",
+          "Source-owned framework that the earlier file had left unbuilt is now taught in full: involution and evolution, consciousness as fundamental (cit-śakti), the complete gradation of planes, the Supermind and its three poises, knowledge by identity and separation, ignorance as divided consciousness, the fourfold individual, triple transformation, Integral Yoga, the double movement, the gnostic being, divine life as possibility and inevitability, the problem of evil and the graded verdict",
+          "The ASCII master was a nine-panel stub of 3,579 bytes; it is now a 22-panel data-complete master of 77,028 bytes rendering to 44 pages",
+          "The graphical master, poster and tiles were regenerated from a bespoke 16-core-stage design with eight distinct internal layouts instead of the previous short canvas",
+          "The package README carried a generation record, an approval-pending line and a mis-named graphical deliverable; it now states the syllabus item and explains the historical folder name"
+        ],
+        "learning_session": "22 progressive visual-first sessions covering Aurobindo's place and the two denials, the dynamic Absolute, consciousness-force, the Supermind, the three poises, the gradation of planes, knowledge by identity and separation, involution and the Inconscient, ignorance as division, evolution and the transitional being, the Darwin comparison, the fourfold individual, the triple transformation, Integral Yoga, the double movement, the contrast with world-negating liberation, the gnostic being and the two partial negations, divine life as possibility and inevitability, the problem of evil, criticisms and the graded verdict, inter-thinker and controlled Western comparison, and the PYQ/directive/answer apparatus; learner-v2 H2 order verified and consolidated register notes remain the final H2",
+        "content_kinds": "All five Philosophy kinds preserved package-wide: Simple Start gateways, Core UPSC teaching, Exam Application routing, Rapid Revision recall, and separately labelled Optional Advanced depth; every session also carries a definition, a topic-specific visual, named evidence, a unique answer-grabbing line, must-write keywords, a unique claim-evidence-analysis-qualification paragraph demonstration and traps",
+        "core_completeness": "Core is independently answer-complete for all eight owned previous-year questions; the four Optional Advanced modules are enrichment only and no core answer depends on them",
+        "mcqs": {
+          "count": 32,
+          "composition": "24 core diagnostics covering all twenty-two sessions + 8 remedial error-targeting drills",
+          "key_sequence": "DBCACBDACBACADBDACABDCDBDCDBABCA",
+          "distribution": "A8 B8 C8 D8; two of each position in every consecutive block of eight; longest run 1; no A-B-C-D rotation window; no ABAB alternation",
+          "visual_balance": "mean key option length 88.9 characters against 87.5 for distractors; the key is strictly the longest option in 0 of 32 items and strictly the shortest in 6 of 32",
+          "formats": "statement-set, matching, sequence-ordering, elimination, application, printed-stem interpretation, evidence and inference",
+          "option_explanations": 128,
+          "unique_option_explanations": 128,
+          "examiner_traps": 32,
+          "unique_examiner_traps": 32
+        },
+        "pyqs": {
+          "directly_owned": 8,
+          "distribution": "2018×1, 2019×1, 2020×1, 2021×1, 2022×1, 2023×1, 2024×1, 2025×1 — one primary-owned part in every year of the window",
+          "printed_wording": "reproduced character-for-character from the verified ledger and machine-compared against it",
+          "supporting_routed": 0,
+          "supporting_detail": "no supporting cross-routed parts; syllabus item 20 owns exactly one part per year and cross-links create no duplicate ownership",
+          "original_mains": 6
+        },
+        "answer_lengths": "All 14 solved answers sit inside the declared bands and state their exact counts: 10 marks 150-200, 15 marks 250-300, 20 marks 340-400 words",
+        "pdfs": {
+          "complete_learning_session_pages": 140,
+          "solved_practice_workbook_pages": 29,
+          "ascii_master_flowchart_pages": 44,
+          "at_a_glance_poster_pages": 1,
+          "printable_tiled_version_pages": 6,
+          "defects": "zero blank, near-empty and replacement-glyph pages across all five PDFs; every character in every text artifact is covered by the rendering fonts"
+        },
+        "graphical": {
+          "master_px": [
+            4800,
+            16768
+          ],
+          "master_dpi": 300,
+          "core_stages": 16,
+          "subordinate_extra_stages": 1,
+          "layout_kinds": "spatial, matrix, dialectic, hierarchy, process, timeline, columns and synthesis, mixed differently in every stage with bespoke pill, group, sequence and matrix content",
+          "overflow_events": 0,
+          "poster": "single page of 2834.64 × 9902.34 pt embedding the corrected master at its full 4800 × 16768 resolution",
+          "tiles": "6 A3-landscape pages cropped from that same master, 527-528 px overlap, rows 0-16768 fully covered, each crop verified byte-identical to the master region"
+        },
+        "ascii_master": "22 authored panels and 1,211 body lines; the standalone text and the panels embedded in the learning session normalise equal; the PDF renders 44 pages with zero blank, replacement-glyph or missing authored lines, and every authored line is recoverable from the extraction",
+        "quick_glance": "Repaired in place: the unsupported sevenfold ignorance list was replaced by the owner's fourfold loss and the Inconscience/mental-ignorance distinction; the three poises were corrected so that the creative poise is the Lord and separateness begins only below the Supermind, with the naming caution added; the Overmind was marked as the last plane before ignorance becomes possible; involved possibility was distinguished from preformationism; the inevitability calibration line and the call-from-below/sanction-from-above requirement were added; the truth-bearing-insight caution was expanded to its three axes; a controlled Western comparison section with disanalogies and rubric was added; nine high-risk traps, the source caution on the local survey text and the answer word-budgets were added",
+        "cross_artifact": "Learning session, workbook, quick-glance tree, ASCII master and graphical master agree on every audited fact, including the Overmind/Supermind structural distinction, the three poises, the involution principle, involved possibility against preformationism, the fourfold individual, the order of the triple transformation, the two failure modes of the double movement, the truth-bearing-insight caution, the four negations of divine life and the graded verdict",
+        "residue_audit": "No generation identity, approval language, regeneration-ledger residue, placeholders, broken image links, replacement glyphs or unrelated-subject residue in any artifact; the package README no longer carries a generation record",
+        "later_topics": "All 121 baseline SHA-256 hashes for every inactive Indian Philosophy artifact across the three locked trees are unchanged after the repair, and the file count is unchanged at 133",
+        "limitations": [
+          "The involution premise is reported as load-bearing and close to question-begging against an emergentist rather than as an established result",
+          "The supramental descent, the gnostic being and collective divine life are presented as the systematic culmination of Aurobindo's philosophy and never as publicly verified events",
+          "The three poises and the graded scheme of knowledge are reported with their naming and enumeration cautions, because Aurobindo's own presentations vary",
+          "The theodicy is reported as integrated into the involution-evolution metaphysics and explicitly not as solved, with the moral cost to suffering individuals retained",
+          "Whether Aurobindo's readings of the Veda, Upaniṣads and Gītā are exegesis or reconstruction, and how the system should be classified, are reported as genuinely contested",
+          "Western parallels are carried only with their disanalogies and are never asserted as historical influence",
+          "Model answers are independent learner practice and are never presented as official UPSC keys"
+        ]
+      }
+    }
+  ],
+  "section_status": "complete",
+  "section_completed": "2026-09-08",
+  "section_completion_note": "All nine Indian Philosophy topics are repaired and validated. Every topic record remains approved: false pending user review. Repository-wide completion records and indexes are deliberately left untouched and must be consolidated later by one designated writer."
+}

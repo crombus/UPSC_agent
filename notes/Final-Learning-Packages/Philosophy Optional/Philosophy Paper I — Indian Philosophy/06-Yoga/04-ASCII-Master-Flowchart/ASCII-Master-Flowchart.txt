@@ -1,72 +1,779 @@
-ASCII MASTER FLOW — PANEL 1/9: Textual map and source-controlled practice
-PATAÑJALI'S YOGA SŪTRA -> 4 CHAPTERS
-absorption chapter -> mind, practice/dispassion, Lord, absorption
-practice chapter -> afflictions, action, eight limbs, discrimination
-powers chapter -> integrated concentration, transformations, extraordinary powers
-isolation chapter -> realism, cloud-of-virtue absorption, reverse evolution, freedom
-Vyāsa supplies the standard five mind-levels; uncertain chronology stays optional
-Yoga owns practice/theism; Sāṃkhya owns the shared 25-principle foundation
+ASCII MASTER FLOW — PANEL 1/24: The controlling question, the definition and the inheritance
 
-ASCII MASTER FLOW — PANEL 2/9: Mind-field architecture
-YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA)
-objects -> senses -> mind-field (citta) -> conscious witness (puruṣa)
-determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas)
-intellect -> ego-maker -> sensory mind; only sensory mind arises from sattva-predominant ego-maker
-bondage = the witness mistakes reflected mental states for itself
-core aim -> restraint of mental modifications (citta-vṛtti-nirodha)
+  SYLLABUS ITEM 17, PRINTED VERBATIM: "Yoga; Citta; Cittavrtti; Klesas; Samadhi; Kaivalya."
+  normalised: Yoga · citta · citta-vṛtti · kleśa · samādhi · kaivalya
+                                  |
+  CONTROLLING QUESTION ...... how does a mind stop handing the witness something to be?
+                                  |
+  +---- THE DEFINITION AND ITS TWO COMPANIONS (Yoga-sūtra 1.2 - 1.4) -------------------+
+  |  1.2  yogaś-citta-vṛtti-nirodhaḥ ..... Yoga = restraint of the modifications of the |
+  |                                        mind-field. A STATE, not an activity.        |
+  |  1.3  tadā draṣṭuḥ svarūpe'vasthānam . then the seer abides in its own nature.      |
+  |  1.4  otherwise ...................... the seer takes the FORM of the modifications |
+  |                                        => this is what bondage IS.                  |
+  +------------------------------------------------------------------------------------+
+                                  |
+  WHAT IS INHERITED (Sāṃkhya owns; Yoga restates only what its psychology needs)
+     many conscious witnesses (puruṣa) · one primordial material nature (prakṛti)
+     three constituent qualities (guṇa) · twenty-five principles (tattva)
+     effect pre-exists in cause (satkāryavāda) · real transformation (pariṇāmavāda)
+     bondage = non-discrimination · release = discriminative knowledge
+                                  |
+  WHAT YOGA OWNS (this is the answerable syllabus item)
+     mind-field psychology · five modifications · afflicted / unafflicted division
+     practice + dispassion · five afflictions · moral causation of action · eight limbs
+     absorption taxonomies · combined discipline · the Lord · discriminative discernment
+     cloud-of-dharma absorption · isolation
+                                  |
+  THE PUBLIC SIGNATURE
+     Sāṃkhya = nirīśvara (Godless)      Yoga = seśvara-sāṃkhya (theistic Sāṃkhya)
+     also called sāṃkhya-pravacana (Sāṃkhya-exposition)
+                                  |
+  +------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                              |
+  |  Yoga does not add a new world to Sāṃkhya's world; it adds a discipline to          |
+  |  Sāṃkhya's argument — which is why its definition is a psychological state and      |
+  |  not a metaphysical thesis.                                                         |
+  +------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/9: Mental modifications and restraint
-FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS)
-perception/inference/testimony | error | construction | sleep | memory
-each may be afflicted or unafflicted; even valid cognition is a modification
-sustained practice (abhyāsa) + dispassion (vairāgya) -> progressive restraint
-lower dispassion masters seen/heard objects; higher dispassion relinquishes the qualities
-trap: restraint is disciplined lucidity, not unconscious blankness
+  ! TRAP 1: do not define Yoga as union with God. Patañjali defines it by cessation.
+  ! TRAP 2: do not write that Yoga rejects Sāṃkhya. It operationalises Sāṃkhya.
 
-ASCII MASTER FLOW — PANEL 4/9: Afflictions and karmic chain
-ignorance (avidyā) -> ego-identification (asmitā)
--> attachment (rāga) / aversion (dveṣa) -> clinging to life (abhiniveśa)
-afflictions (kleśas) -> action -> latent deposit -> fruition -> rebirth
-preparatory discipline (kriyā-yoga) thins afflictions
-meditation burns the remaining seeds and makes discriminative insight possible
+ASCII MASTER FLOW — PANEL 2/24: Textual identity, the four chapters and source control
 
-ASCII MASTER FLOW — PANEL 5/9: Eight-limbed discipline
-EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA)
-ethical restraint -> observance -> posture -> breath regulation
--> sense withdrawal -> concentration -> meditation -> absorption
-ethical restraints become the universal great vow beyond place, time, birth or exception
-first five prepare body, conduct and attention; final three form integrated concentration
-trap: posture is one limb, not the definition or final goal of Yoga
+  PATAÑJALI, YOGA-SŪTRA — four chapters (pāda), each with a centre of gravity
+  ---------------------------  --------------------------------------------------------
+  1. SAMĀDHI-PĀDA              definition · five modifications · practice and dispassion
+     (absorption)              · the Lord · object-supported and seedless absorption
+  ---------------------------  --------------------------------------------------------
+  2. SĀDHANA-PĀDA              preparatory discipline · five afflictions and four states
+     (practice)                · action, deposit, fruition · the seen and the seer
+                               · the eight limbs
+  ---------------------------  --------------------------------------------------------
+  3. VIBHŪTI-PĀDA              combined discipline (dhāraṇā + dhyāna + samādhi)
+     (powers)                  · three transformations of the mind
+                               · extraordinary capacities AND their demotion
+  ---------------------------  --------------------------------------------------------
+  4. KAIVALYA-PĀDA             mind / object realism against idealism · latent tendencies
+     (isolation)               · discriminative knowledge · cloud-of-dharma absorption
+                               · involution of the qualities · isolation
 
-ASCII MASTER FLOW — PANEL 6/9: Absorption ladder
-OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI)
-gross reasoning -> subtle reflection -> joy -> I-am-ness
-truth-bearing insight -> objectless absorption -> seedless absorption
-condition-based route: videha/prakṛtilaya | means-based route:
-  faith/energy/memory/absorption/wisdom
-cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action
-nine obstacles disrupt practice; powers are attainments outwardly but obstacles to absorption
-do not conflate the four YS 1.17 supports with the separate absorption taxonomy
+  THE READING TRADITION (the operative form in which the system is taught)
+     Vyāsa, YOGA-BHĀṢYA  ->  Vācaspati Miśra, TATTVAVAIŚĀRADĪ  ->  Vijñānabhikṣu,
+     YOGAVĀRTTIKA
 
-ASCII MASTER FLOW — PANEL 7/9: Lord and discriminative insight
-LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION
-dedication to the Lord -> concentration aid + timeless teacher
-not the material creator of Nyaya and not a substitute for practice
-Patañjali: special witness + unsurpassed omniscience + timeless teacher + praṇava
-later commentators add theoretical proofs; do not project all of them backward
-decisive knowledge = discriminative insight (viveka-khyāti)
-Yoga is theistic Samkhya in method, while liberation remains discriminative
+  +---- SOURCE-CONTROL LEDGER — label the layer you are quoting -----------------------+
+  |  COMMENTARIAL, NOT A SŪTRA LIST     WHY IT MATTERS                                 |
+  |  the five mind-levels (citta-bhūmi)  usable, incl. for the 2019 paper; attribute   |
+  |                                      to Vyāsa-onward exposition, not to Patañjali  |
+  |  the four stages of lower dispassion Patañjali's own definition (1.15) is mastery  |
+  |  (yatamāna, vyatireka, ekendriya,    over thirst for seen and heard-of objects     |
+  |   vaśīkāra)                                                                        |
+  |  the expanded theoretical proof-set  Patañjali's grounds are compact and           |
+  |  for the Lord                        practice-facing; do not project later proofs  |
+  +------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/9: Isolation and the relation problem
-ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE
-reverse evolution returns constituent qualities to primordial material nature
-objection: how can inactive consciousness relate to insentient mind?
-reply: reflection and mere proximity protect the witness from change
-residual limit: proximity names the relation more clearly than it explains it
+  ! TRAP 3: the historical layering and dating of the sūtra tradition are DISPUTED.
+    Identify the received Pātañjala system; never build an answer on a date.
 
-ASCII MASTER FLOW — PANEL 9/9: PYQ answer synthesis
-DEFINE -> CLASSIFY -> EXPLAIN MECHANISM -> CONNECT PRACTICE -> EVALUATE
-mind-field -> modifications -> afflictions -> eight limbs -> absorption -> isolation
-use the exact question's doctrine; distinguish Lord, witness and mind
-add one named objection and the strongest Yoga reply
-qualified verdict: rigorous psychology and praxis, contested dualist relation
+  ANSWER-GRABBING SPINE: the Yoga-sūtra is a text of headings and the tradition that reads
+  it is a text of paragraphs; a Yoga answer earns authority by never confusing the two.
+
+ASCII MASTER FLOW — PANEL 3/24: The mind-field — constitution, derivation and contrasts
+
+  PRIMORDIAL MATERIAL NATURE (prakṛti)
+        |  evolution
+        v
+  DETERMINATIVE INTELLECT (buddhi / mahat)
+        |
+        v
+  EGO-MAKER (ahaṃkāra)
+        |   from its LUCID (sattva-predominant) side only
+        v
+  SENSORY MIND (manas)
+
+  ALL THREE TAKEN TOGETHER AS ONE OPERATIVE CONTINUUM = THE MIND-FIELD (citta)
+
+  COMPONENT                ROLE                          WHY YOGA FILES IT UNDER citta
+  ----------------------   ---------------------------   ---------------------------------
+  buddhi (intellect)       ascertainment, decision       discrimination and resolve here
+  ahaṃkāra (ego-maker)     appropriation as "I"          ownership and doership arise here
+  manas (sensory mind)     co-ordination, doubt          sense-data received and arranged
+
+  NATURE OF THE MIND-FIELD
+     a product of prakṛti  =>  jaḍa (insentient) in itself
+     lucid-predominant as a WORKING WHOLE  =>  transparent, able to take object-form
+                                               and to mirror consciousness
+     therefore: the PSYCHICAL INSTRUMENT of experience, NOT the self
+
+  ! TRAP 4: only manas derives DIRECTLY from lucid ahaṃkāra. Sattva-predominance is a
+    property of the whole; it is not a derivation of intellect and ego from lucid ego.
+
+  CONTRAST GRID
+  SCHOOL                 INTERNAL ORGAN                    KEY DIFFERENCE FROM YOGA
+  --------------------   -------------------------------   ------------------------------
+  Sāṃkhya                buddhi / ahaṃkāra / manas kept    Yoga gathers them functionally
+                         analytically distinct              into one field
+  Nyāya-Vaiśeṣika        manas: atomic, partless internal  Yoga's citta is broad,
+                         sense + a separate self-substance composite, transformable
+  Advaita Vedānta        antaḥkaraṇa under avidyā within   Yoga keeps many puruṣas and
+                         a Brahman framework                has NO Brahman doctrine
+
+  ANSWER-GRABBING SPINE: gathering intellect, ego and sense-mind under one name is a claim
+  that bondage is suffered by the WHOLE interior and cannot be cured faculty by faculty.
+
+ASCII MASTER FLOW — PANEL 4/24: Reflection, mere proximity and the birth of egoity
+
+     OBJECT (viṣaya)              MIND-FIELD (citta)              WITNESS (puruṣa)
+     real, external               insentient · transparent        conscious · INACTIVE
+                                  · lucid-predominant             · apariṇāmin (unchanging)
+         |                              |                                |
+         |  colours it (uparāga)        |         reflects its light     |
+         +----------------------------->|<-------------------------------+
+                                        |            (pratibimba / chāyā)
+                                        v
+                       ONE APPARENT EVENT: "I am seeing this pot."
+                                        |
+          +-----------------------------+------------------------------+
+          |                                                            |
+   WITH DISCRIMINATION                                     WITHOUT DISCRIMINATION
+   object  = seen                                          borrowed light read as OWNED
+   mind    = instrument, modified                          witnesshood read as AGENCY
+   witness = seer, unmodified                              => EGOITY (asmitā)
+   => no bondage                                           => sva-svāmi-śakti confusion
+                                                           => THIS IS BONDAGE
+
+  THE PROTECTED CLAIM
+     relation = SANNIDHI-MĀTRA (mere proximity). ALL transformation is on the mind's side.
+     the witness neither acts nor changes. Bondage is phenomenological and epistemic.
+
+  IMAGES THAT DO THE WORK
+     sphaṭika (clear crystal) beside a red flower -> looks red; neither is altered
+     magnet and iron ........................... -> mere presence moves the iron
+
+  OBJECTION -> reflection normally presupposes a REAL relation between mirror and original;
+               ontologically disjoint principles have none.
+  REPLY     -> all change is on the citta side; the witness is untouched.
+  RESIDUE ! -> mere proximity NAMES the relation more clearly than it EXPLAINS it.
+               Advaita presses by collapsing the duality; Nyāya by making consciousness an
+               adventitious property of a substantial self.
+
+  2024 ANCHOR: "So long as there are changes and modifications in citta, the self is
+  reflected therein, and, in the absence of discriminative knowledge, identifies itself
+  with them."  ->  this panel IS that question.
+
+  ANSWER-GRABBING SPINE: bondage is devastating in experience and unreal in metaphysics —
+  the mirror is in trouble; the lamp never was.
+
+ASCII MASTER FLOW — PANEL 5/24: The five levels of the mind-field and the 2019 application
+
+  LEVEL (citta-bhūmi)   RULING QUALITY          CHARACTER                      FIT FOR YOGA?
+  -------------------   ---------------------   ----------------------------   -------------
+  kṣipta (scattered)    rajas (active)          runs object to object;         NO
+                                                activity without integration   pre-yogic
+  -------------------   ---------------------   ----------------------------   -------------
+  mūḍha (dull)          tamas (inert)           torpor, delusion, inertia:     NO
+                                                OBSCURATION, not calm          pre-yogic
+  -------------------   ---------------------   ----------------------------   -------------
+  vikṣipta              mixed, occasional       attends, infers, analyses,     NO
+  (distracted)          sattva flashes          briefly concentrates; cannot   only partly
+                                                remain inwardly collected      prepared
+  -------------------   ---------------------   ----------------------------   -------------
+  ekāgra (one-pointed)  sattva (lucid)          sustained one-pointedness on   YES
+                                                a chosen support               yoga-fit
+  -------------------   ---------------------   ----------------------------   -------------
+  niruddha (restrained) modifications           consummation of disciplined    YES
+                        arrested                inwardness; NOT blankness      culmination
+
+     kṣipta -> mūḍha -> vikṣipta ==||== ekāgra -> niruddha
+                                   ||
+                        THE DECISIVE STEP: occasional concentration
+                        becomes SUSTAINED one-pointedness
+
+  2019 APPLIED READING (Q7(b), 15 marks — "justify your answer")
+     SCIENTIST ............ vikṣipta. Intense but OUTWARD-directed, result-attached,
+                            interrupted. High intellectual focus is NOT yogic restraint.
+     GOD-REALISED DEVOTEE .. ekāgra. Lucid-dominant mind on a single support; dedication
+                            to the Lord stabilises the field and removes the obstacles.
+     SELF-REALISED YOGIN ... niruddha. Modifications stilled; correlated with the highest
+                            absorption and the approach to isolation.
+
+  ! TRAP 5: the criterion is RULING QUALITY and stability of inward collection, never the
+    force of attention. A distracted genius sits below a one-pointed devotee.
+  ! TRAP 6: the fivefold scheme is Vyāsa-onward commentarial exposition, not a sūtra list.
+
+ASCII MASTER FLOW — PANEL 6/24: The five modifications and the afflicted / unafflicted cut
+
+  ALL MENTAL EVENTS = FIVE MODIFICATIONS (citta-vṛtti) — claimed EXHAUSTIVE
+  --------------------   ---------------------------------   --------------------------------
+  pramāṇa                cognition via perception,           smoke seen -> fire correctly
+  (valid cognition)      inference, authoritative testimony  inferred
+  --------------------   ---------------------------------   --------------------------------
+  viparyaya (error)      false cognition not matching the    nacre taken for silver
+                         object as it is
+  --------------------   ---------------------------------   --------------------------------
+  vikalpa (verbal        cognition from WORDS ALONE with no  "the horn of a hare";
+  construction)          corresponding object                intelligible without referent
+  --------------------   ---------------------------------   --------------------------------
+  nidrā (sleep)          a POSITIVE mode grounded on         waking report: "I slept and
+                         absence-content                     knew nothing"
+  --------------------   ---------------------------------   --------------------------------
+  smṛti (memory)         non-loss and re-presentation of     recollection of past pain or
+                         experienced content                 pleasure
+
+                       EACH OF THE FIVE SPLITS ORTHOGONALLY
+        +--------------------------------+---------------------------------+
+        v                                                                  v
+   KLIṢṬA (afflicted)                                        AKLIṢṬA (unafflicted)
+   coloured by avidyā and the other                          purified, redirected toward
+   afflictions; bondage-producing                            discrimination and detachment
+   e.g. memory feeding a grievance                           e.g. valid cognition of
+        testimony used for vanity                                 impermanence
+
+  THE LADDER RULE
+     unafflicted modifications CANCEL afflicted ones and then THEMSELVES SUBSIDE.
+     a ladder is climbed and left behind; it is not carried to the top floor.
+
+  WHY VALID COGNITION IS ON THE LIST
+     what binds the seer is not the FALSITY of a mental form but the fact that it is a FORM.
+     Yoga accepts three instruments of knowledge; it simply denies that truth exempts a
+     mental form from being a mental form.
+
+  ! TRAP 7: the kliṣṭa / akliṣṭa division qualifies MODIFICATIONS only. Afflictions are
+    inherently afflictive; there is no "unafflicted ignorance".
+  ! TRAP 8: sleep is a modification, not the absence of modification, and not liberation.
+
+ASCII MASTER FLOW — PANEL 7/24: Why cessation is prescribed, and the epistemology that limits it
+
+  THE FIVE-STEP DERIVATION (this is the 2023 "give reasons" answer, numbered)
+     STEP 1  the mind-field takes the FORM of whatever it attends to
+                |
+     STEP 2  the witness's consciousness is REFLECTED in that form
+                |
+     STEP 3  in ignorance the changing form is APPROPRIATED in the first person:
+             "I know" · "I suffer" · "I desire" · "I remember"
+                |
+     STEP 4  therefore the stream of modifications SUSTAINS bondage —
+             it is the running MECHANISM, not a symptom
+                |
+     STEP 5  therefore restraint UNCOVERS the already-free seer
+
+  +------------------------------------------------------------------------------------+
+  |  NIRODHA IS REVELATORY, NOT DESTRUCTIVE: it removes concealment, not consciousness. |
+  |  IMAGE: when ripples settle, the pool reflects one clear sky. Nothing was added to  |
+  |  the water and nothing was taken from the sky.                                      |
+  +------------------------------------------------------------------------------------+
+
+  EPISTEMOLOGY IN THE SAME FRAME — THE SCHOOL POLICING ITS OWN ENTHUSIASM
+     THREE INSTRUMENTS ADMITTED           WHAT IS NOT ADDED
+     pratyakṣa  (perception)              NO fourth instrument for yogic insight
+     anumāna    (inference)               truth-bearing insight = PERFECTED PERCEPTION
+     āgama / śabda (testimony)            (yogi-pratyakṣa), and it is STILL a modification,
+                                          so it too must finally cease
+
+     count check: Yoga 3 · Sāṃkhya 3 · Nyāya-Vaiśeṣika 4 · Buddhist epistemologists 2
+                  · Advaita commonly 6
+
+  ! TRAP 9: do not give Yoga four or six instruments, and do not promote ṛtambharā prajñā
+    into an independent means of knowledge.
+  ! TRAP 10: restraint is not the destruction of the mind as a substance.
+
+  ANSWER-GRABBING SPINE: Yoga prescribes cessation not because thought is bad but because
+  thought is the running machinery of a mistake.
+
+ASCII MASTER FLOW — PANEL 8/24: Practice and dispassion — the two handles of restraint
+
+                          RESTRAINT OF THE MODIFICATIONS
+                                       ^
+                    +------------------+------------------+
+                    |                                     |
+        SUSTAINED PRACTICE (abhyāsa)            DISPASSION (vairāgya)
+        effort to remain stable in restraint    mastery over thirst
+                    |                                     |
+   THREE CONDITIONS OF FIRMNESS (1.14)      TWO GRADES
+     + long time                              + LOWER (apara- / vaśīkāra-vairāgya, 1.15)
+     + without interruption                       thirst for objects SEEN and objects
+     + with devoted seriousness                   SCRIPTURALLY PROMISED has ceased
+                    |                             (heavenly reward is included!)
+   FUNCTION                                   + HIGHER (para-vairāgya, 1.16)
+     supplies CONTINUITY against old              non-thirst even for the constituent
+     impressions (saṃskāra)                       QUALITIES, following knowledge of
+                                                  the witness; releases attachment to
+                                                  subtle states, insight and POWERS
+
+  JOINT RESPONSIBILITY (1.12): neither repetition without detachment nor detachment
+  without stabilised practice is sufficient.
+
+  FAILURE MODES
+     practice without dispassion .... strain, tug-of-war, relapse
+     dispassion without practice .... mood without capacity
+
+  +---- COMMENTARIAL LADDER INSIDE LOWER DISPASSION — label it as commentarial ---------+
+  |  yatamāna   effort toward control                                                   |
+  |  vyatireka  separation of subdued from unsubdued tendencies                          |
+  |  ekendriya  withdrawal to a single residual mental desire                            |
+  |  vaśīkāra   mastery                                                                  |
+  +------------------------------------------------------------------------------------+
+
+  ! TRAP 11: higher dispassion is discernment-generated non-thirst, NOT apathy, boredom
+    or world-hatred; and it is not merely a stronger grade of the lower.
+
+ASCII MASTER FLOW — PANEL 9/24: Real transformation of the mind-substrate
+
+  GENERAL FRAME — any substrate of nature
+  +------------------------------------------------------------------------------------+
+  |  PERSISTING SUBSTRATE (dharmin)                                                     |
+  |    dharma-pariṇāma   change of PROPERTY                                             |
+  |    lakṣaṇa-pariṇāma  change of TEMPORAL PHASE (past / present / future)             |
+  |    avasthā-pariṇāma  change of CONDITION (intensity, maturity)                      |
+  +------------------------------------------------------------------------------------+
+
+  THE THREE SPECIFICALLY YOGIC TRANSFORMATIONS OF THE MIND (Vibhūti-pāda)
+  -----------------------------  ------------------------------------------------------
+  nirodha-pariṇāma               impressions of RESTRAINT progressively overpower
+  (restraint-transformation)     impressions of emergence; the mind becomes habituated
+                                 to cessation rather than to dispersion
+  -----------------------------  ------------------------------------------------------
+  samādhi-pariṇāma               many-pointedness declines and unified absorption rises;
+  (absorption-transformation)    distracting multiplicity weakens as one object dominates
+  -----------------------------  ------------------------------------------------------
+  ekāgratā-pariṇāma              similar cognitive moments arise and subside in an
+  (one-pointedness-              UNBROKEN STREAM toward the same object
+   transformation)               (even the highest stability is a stream, not a freeze)
+
+  WHY A BEARER IS NEEDED: practice ACCUMULATES · impressions are DEPOSITED and RETRIEVED
+                          · a practitioner ACQUIRES a stable capacity. None of these is a
+                          feature of a mere succession.
+  IMAGE: one lake — stormy, then calming, then still. Three states, one lake.
+
+  THE CONTESTED JOINT
+     Buddhist kṣaṇikavādin  ->  a stream of momentary events suffices; the substrate is an
+                                unnecessary fiction
+     Yoga's reply           ->  graded discipline, memory and impression-continuity need
+                                more than disconnected flashes
+     RESIDUE !              ->  a sufficiently rich causal series may reproduce much of
+                                what Yoga assigns to a substrate
+     Advaita vivartavāda    ->  change is only APPARENT; Yoga insists the change is REAL
+
+  ! TRAP 12: the persisting citta is a substrate of NATURE, not a self. The witness stands
+    outside every one of these transformations.
+
+ASCII MASTER FLOW — PANEL 10/24: The five afflictions, the four reversals and the four states
+
+  +---- IGNORANCE (avidyā) — THE ROOT, not merely the first item ----------------------+
+  |   FOUR REVERSALS (each separately markable)                                        |
+  |      non-eternal  -> taken as ->  eternal                                          |
+  |      impure       -> taken as ->  pure                                             |
+  |      painful      -> taken as ->  pleasant                                         |
+  |      non-self     -> taken as ->  self                                             |
+  +------------------------------------------------------------------------------------+
+                        |  is the FIELD in which the other four grow
+      +-----------------+---------------+------------------+---------------------+
+      v                                 v                  v                     v
+  ASMITĀ (egoity)              RĀGA (attachment)   DVEṢA (aversion)   ABHINIVEŚA (clinging
+  seer identified with the     pursuit following   flight following   to life) instinctive
+  INSTRUMENT of seeing         remembered PLEASURE remembered PAIN    self-preservation,
+  -> "I think, I act, I suffer"                                       PRESENT EVEN IN THE
+                                                                      LEARNED
+
+  FOUR STATES OF ANY AFFLICTION
+  --------------   -----------   ---------------------------------------------------------
+  prasupta         dormant       seed-like, not presently manifest; DORMANCY IS NOT
+                                 DESTRUCTION — favourable conditions reactivate it
+  --------------   -----------   ---------------------------------------------------------
+  tanu             attenuated    thinned by practice, austerity, meditation, discernment;
+                                 the only state that represents genuine progress
+  --------------   -----------   ---------------------------------------------------------
+  vicchinna        interrupted   temporarily overridden by an opposing tendency —
+                                 attachment may look absent only because fear is louder
+  --------------   -----------   ---------------------------------------------------------
+  udāra            fully active  visibly governing speech, action and affect
+
+  DIAGNOSTIC RULE: "I no longer feel it" is compatible with dormant, attenuated AND
+                   interrupted. Only destruction of the seed removes an affliction.
+
+  THERAPY LADDER: gross expression -> ethical and practical discipline
+                  subtle form (sūkṣma) -> dhyāna burns it
+                  the seed -> discriminative discernment destroys it
+
+  ! TRAP 13: do not list five PARALLEL afflictions. Ignorance is the root of the other four.
+  ! TRAP 14: abhiniveśa survives learning; it is not an intellectual error.
+
+ASCII MASTER FLOW — PANEL 11/24: The engine of bondage — chain, carriers and action-colours
+
+  AFFLICTIONS (kleśa)
+        |  motivate
+        v
+  ACTION (karma)
+        |  deposits
+        v
+  KARMIC DEPOSIT (karmāśaya) ..... kleśa-mūla: rooted in the afflictions
+        |  ripens as
+        v
+  FRUITION (vipāka), THREEFOLD:  jāti (birth / species-condition)
+                                 āyus (life-span)
+                                 bhoga (experience: enjoyment and suffering)
+        |  generates fresh reaction
+        v
+  REBIRTH (punarjanma) ---------------> loop closes and runs again
+
+  CARRIED BY: saṃskāra (impression) and vāsanā (latent tendency) — cognition and action
+              leave traces; traces dispose future cognition and action; the cycle becomes
+              MORALLY STRUCTURED rather than merely repetitive.
+
+  FOUR COLOURS OF ACTION
+     śukla (white) ................... meritorious
+     kṛṣṇa (black) ................... demeritorious
+     śukla-kṛṣṇa (mixed) ............. the ordinary human mixture
+     aśukla-akṛṣṇa (neither) ......... the practitioner whose action no longer produces
+                                       ordinary bondage
+
+ASCII MASTER FLOW — PANEL 12/24: Jamming the engine — preparatory discipline and the burnt seed
+
+  WHERE THE ENGINE IS JAMMED
+     (1) AT THE ROOT — PREPARATORY DISCIPLINE (kriyā-yoga), stated purpose: attenuate the
+         afflictions (tanū-karaṇa) and cultivate absorption
+             tapas ............. disciplined, heat-generating effort
+             svādhyāya ......... study and recitation of sacred teaching + self-examination
+             īśvara-praṇidhāna . surrender of the fruits and of the ego's proprietary claim
+                                 (also a niyama AND an independent means to absorption)
+     (2) AT THE SEED — dhyāna burns subtle forms; viveka-khyāti destroys the seed;
+         pratiprasava reabsorbs the residue
+
+  OBJECTION -> if release requires exhausting an unsurveyable stock of deposit, release is
+               indefinitely postponed.
+  REPLY     -> liberating knowledge and absorption burn the seeds of FUTURE bondage.
+     dagdha-bīja (burnt seed) .... keeps its shape; cannot germinate
+     potter's wheel .............. after the push stops the wheel turns until momentum is
+                                   spent = residual embodiment WITHOUT fresh bondage
+
+  ! TRAP 15: fruition is THREEFOLD. Writing "vipāka" as a single item loses the precision.
+  ! TRAP 16: kriyā-yoga (3 items) is NOT saṃyama (limbs 6-8) and NOT the eight limbs.
+
+ASCII MASTER FLOW — PANEL 13/24: The eight-limbed discipline — the five external limbs
+
+  EXTERNAL LIMBS (bahiraṅga) — preparatory with respect to subtler operations
+  --   ---------------------   --------------------------------------------------------
+  1    YAMA (restraints)       ahiṃsā (non-violence) · satya (truthfulness)
+                               · asteya (non-stealing) · brahmacarya (disciplined
+                               continence) · aparigraha (non-possessiveness)
+                               YS 2.31: unrestricted by birth/class, place, time or
+                               circumstance => SĀRVABHAUMA-MAHĀVRATA, the universal great
+                               vow. No exceptional context licenses violence or falsehood.
+  --   ---------------------   --------------------------------------------------------
+  2    NIYAMA (observances)    śauca (purity) · santoṣa (contentment) · tapas (austerity)
+                               · svādhyāya (self-study) · īśvara-praṇidhāna (dedication)
+                               NOTE the overlap with kriyā-yoga in the last three.
+  --   ---------------------   --------------------------------------------------------
+  3    ĀSANA (posture)         a STEADY and COMFORTABLE seat; freedom from bodily
+                               distraction, not gymnastic display
+  --   ---------------------   --------------------------------------------------------
+  4    PRĀṆĀYĀMA (breath)      regulation of breath and the psycho-physical economy;
+                               breath is the hinge between body and mind
+  --   ---------------------   --------------------------------------------------------
+  5    PRATYĀHĀRA (withdrawal) senses released from compulsive extroversion; the BRIDGE
+                               into explicitly internal work
+
+ASCII MASTER FLOW — PANEL 14/24: Internal limbs, combined discipline, obstacles and remedies
+
+  ============================================================================
+  INTERNAL LIMBS (antaraṅga) — graded, NOT synonymous
+  --   ---------------------   --------------------------------------------------------
+  6    DHĀRAṆĀ                 binding citta to ONE chosen locus; first clear sign of
+       (concentration)         one-pointedness (ekāgratā)
+  --   ---------------------   --------------------------------------------------------
+  7    DHYĀNA (meditation)     UNINTERRUPTED FLOW of cognition toward that same object;
+                               also the burner of subtle afflictions
+  --   ---------------------   --------------------------------------------------------
+  8    SAMĀDHI (absorption)    the object alone shines; discursiveness recedes
+
+           6 + 7 + 8 APPLIED TO ONE OBJECT = SAṂYAMA (combined discipline)
+
+  NINE OBSTACLES (antarāya): vyādhi (disease) · styāna (mental stagnation) · saṃśaya
+  (doubt) · pramāda (carelessness) · ālasya (laziness) · avirati (sensual non-restraint)
+  · bhrānti-darśana (false vision) · alabdha-bhūmikatva (failure to attain a stage)
+  · anavasthitatva (instability in an attained stage)
+  FOUR SYMPTOMS: duḥkha (suffering) · daurmanasya (dejection) · aṅgamejayatva (bodily
+  tremor) · śvāsa-praśvāsa (disturbed inhalation and exhalation)
+  REMEDIES: īśvara-praṇidhāna · practice of ONE principle · friendliness, compassion,
+  gladness and equanimity · breath regulation · suitable meditative supports
+     => THIS is why questions on samādhi open into the role of God: Yoga's God is a
+        PRACTICE-ENABLING doctrine, not a creation-first one.
+
+  ! TRAP 17: "external" means PREPARATORY, not unimportant. Yoga's answer to "is dhyāna
+    enough without ethics?" is NO: meditative power can coexist with affliction and egoity.
+
+ASCII MASTER FLOW — PANEL 15/24: Absorption — the two grids that must not be conflated
+
+  OBJECT-SUPPORTED ABSORPTION (samprajñāta) = WITH SEED (sabīja, YS 1.46)
+  +---- GRID A — YS 1.17: WHICH FACTOR ACCOMPANIES THE ABSORPTION ---------------------+
+  |  vitarka   gross object-level deliberative grasp                                    |
+  |  vicāra    subtle object-level reflection                                           |
+  |  ānanda    refined LUCID joy — NOT ordinary pleasure                                |
+  |  asmitā    bare I-am-ness — NOT the binding affliction, but an extremely subtle     |
+  |            objectification of the I-sense                                           |
+  |  => ānanda and asmitā are NOT a contested later addition; they are IN the sūtra.    |
+  +------------------------------------------------------------------------------------+
+  +---- GRID B — YS 1.42-1.44: COALESCENCE (samāpatti) BY OBJECT AND OVERLAY -----------+
+  |  savitarkā   gross (sthūla) object · mixed with śabda-artha-jñāna-vikalpa           |
+  |  nirvitarkā  gross object · memory and verbal construction purified                 |
+  |  savicārā    subtle (sūkṣma) object · subtle reflective consideration remains       |
+  |  nirvicārā   subtle object · even subtle reflective overlay stilled                 |
+  |  YS 1.45 extends the subtle domain up to the undifferentiated (aliṅga)              |
+  |  YS 1.46 declares ALL of these sabīja                                               |
+  +------------------------------------------------------------------------------------+
+     GRID A asks: WHAT ACCOMPANIES IT?     GRID B asks: WHAT IS IT ON, AND HOW CLEAN?
+     commentators MAP the two grids; they do NOT IDENTIFY them.
+     example: the crystal takes the colour of the flower — citta becomes so object-coloured
+     that the object seems to shine through it.
+
+ASCII MASTER FLOW — PANEL 16/24: Absorption — seed senses, residue and the two routes
+
+  THE MOVE BEYOND
+     YS 1.47  vaiśāradya (clarity) of nirvicārā -> adhyātma-prasāda (inner clarity)
+     YS 1.48  therein the insight is ṛtambharā (truth-bearing)
+     YS 1.18  ASAMPRAJÑĀTA: preceded by virāma-pratyaya (practice of the idea of
+              cessation) AND having SAṂSKĀRA-ŚEṢA (impression-residue)
+     YS 1.51  when THAT TOO is restrained, everything being restrained => NIRBĪJA
+
+  TWO SENSES OF "SEED" — THE TERMINOLOGY TRAP
+     sabīja  (1.46) = with OBJECT-SUPPORT
+     nirbīja (1.51) = without the residual IMPRESSION
+     => losing the object-support does NOT by itself make an absorption seedless.
+     SAFE FORMULA: asamprajñāta = vṛttis stopped, saṃskāra-śeṣa remains;
+                   nirbīja      = even that residue restrained.
+
+  TWO ROUTES (bases, NOT a third classification)
+     YS 1.19 bhava-pratyaya .. condition-based; videha / prakṛti-laya beings.
+                               Commentators warn: nature-mergence need not equal final
+                               discriminative isolation.
+     YS 1.20 upāya-pratyaya .. means-based; śraddhā · vīrya · smṛti · samādhi · prajñā
+
+  ! TRAP 18: NEVER write "the four types of samprajñāta given by Patañjali are savitarka,
+    nirvitarka, savicāra and nirvicāra."
+  ! TRAP 19: asamprajñāta is not sleep — nidrā is itself one of the five modifications.
+
+ASCII MASTER FLOW — PANEL 17/24: Truth-bearing insight, seedlessness and the cloud of dharma
+
+  nirvicārā coalescence perfected
+        |  its clarity (vaiśāradya)
+        v
+  ADHYĀTMA-PRASĀDA — inner clarity of the self-field                          [YS 1.47]
+        |
+        v
+  +---- ṚTAMBHARĀ PRAJÑĀ — TRUTH-BEARING INSIGHT ------------------------- [YS 1.48] ---+
+  |  FIELD ...... a PARTICULAR object (viśeṣa-artha)                                    |
+  |  CONTRAST ... śruta (testimony) and anumāna (inference) reach universals and        |
+  |               general relations; this reaches the individual                        |
+  |  STATUS ..... NOT a fourth pramāṇa. Yoga admits three. Best classified as perfected |
+  |               extraordinary yogic perception (yogi-pratyakṣa)                       |
+  |  FUNCTION ... its saṃskāra OBSTRUCTS other saṃskāras                     [YS 1.50]  |
+  |  OBJECTION .. if it is still a vṛtti, how can it help rather than bind?             |
+  |  REPLY ...... akliṣṭa cancels kliṣṭa, then itself ceases. A LADDER, left behind.    |
+  |  CAUTION ! .. do NOT equate it with later "knowledge by identity" or supermind;     |
+  |               the resemblance is thematic only. Here it must finally CEASE.         |
+  +------------------------------------------------------------------------------------+
+        |  and then it too must cease
+        v
+  NIRBĪJA SAMĀDHI — seedless absorption                                       [YS 1.51]
+        |
+        v
+  DHARMAMEGHA-SAMĀDHI — the cloud of dharma rains down the fullness of discriminative
+  knowledge; even FASCINATION with extraordinary knowledge or power is relinquished.
+  The yogin no longer seeks omniscience, attainment or display.
+
+ASCII MASTER FLOW — PANEL 18/24: Extraordinary capacities — attainments and obstacles
+
+  THE SIDE-BRANCH: EXTRAORDINARY CAPACITIES
+     saṃyama (combined discipline) -> siddhi (extraordinary capacities)
+     YS 3.37: attainments in the OUTWARD-TURNED state, but SAMĀDHĀV UPASARGĀḤ —
+              OBSTACLES TO ABSORPTION when they attract appropriation
+     WHY: they reactivate egoity, attachment and pride
+     STATUS: side-effects of discipline, NOT the essence of isolation
+     GOVERNOR: para-vairāgya (higher dispassion) releases attachment to subtle states,
+               knowledge and powers
+
+  ! TRAP 20: reporting the capacities is doctrinal exposition, not empirical endorsement.
+    Say the text owns and subordinates them; do not certify them as verified fact.
+
+  ANSWER-GRABBING SPINE: the most disciplined thing about Yoga is what it says about its
+  own successes — the highest insight is a ladder and the powers are obstacles.
+
+ASCII MASTER FLOW — PANEL 19/24: The Lord — definition, roles, negations and source control
+
+  +---- WHAT HE IS ---------------------------------------------------------------------+
+  |  ĪŚVARA = PURUṢA-VIŚEṢA, a SPECIAL conscious witness                     [YS 1.24]  |
+  |     untouched by kleśa (affliction) · karma (action) · vipāka (fruition)             |
+  |                  · āśaya (karmic deposit)                                            |
+  |  in him lies the UNSURPASSED SEED OF OMNISCIENCE                         [YS 1.25]   |
+  |  TEACHER OF THE ANCIENTS, not limited by time                            [YS 1.26]   |
+  |  denoted by PRAṆAVA (OṂ)                                                 [YS 1.27]   |
+  |  practice: repetition of it WITH CONTEMPLATION OF ITS MEANING            [YS 1.28]   |
+  |  SPECIAL, not different in kind: he belongs to the category of witness; his          |
+  |  distinction is that he was NEVER ENTANGLED.                                         |
+  +------------------------------------------------------------------------------------+
+
+  WHAT HE DOES (five roles)               WHAT HE IS NOT (five negations)
+  --------------------------------------  --------------------------------------------
+  object of meditation -> one-pointed     NOT the material cause — prakṛti remains that
+    devotion stabilises the mind-field    NOT the Nyāya creator / efficient cause and
+  aid through īśvara-praṇidhāna ->          moral governor of the world-order
+    surrender reduces egoity              NOT a devotional saviour granting liberation
+  remover of the nine antarāyas             arbitrarily
+  perfect model of untouched status       NOT one of the ordinary BOUND witnesses
+  teacher-principle anchoring timeless    NOT a substitute for viveka-khyāti
+    transmission and authority
+
+  SOURCE CONTROL
+     PATAÑJALI'S OWN GROUNDS are compact and practice-facing: special witness · unsurpassed
+     omniscience · timeless teacherhood · praṇava-mediated contemplation.
+     LATER YOGA COMMENTATORS add scripture, maximal degrees of knowledge and power, and the
+     need for intelligent coordination of witness and nature.
+     ! Do NOT project the full later creator / administrator proof-set back onto Patañjali.
+
+  OBJECTION (from nirīśvara Sāṃkhya) -> if the ontology already explains liberation, why
+                                        add a Lord?
+  REPLY                              -> pragmatic and soteriological: a unique focus of
+                                        devotion, obstacle-removal, support for absorption
+  OBJECTION (redundancy)             -> if viveka-khyāti liberates, is he not redundant?
+  REPLY                              -> NOT redundant, but NON-FINAL.
+
+  THE FORMULA THAT ANSWERS BOTH: THE LORD IS INSTRUMENTAL, NOT CONSTITUTIVE, IN LIBERATION.
+  This is why the school is seśvara-sāṃkhya: real theism, bounded theism.
+
+ASCII MASTER FLOW — PANEL 20/24: Isolation — the road from practice to self-abidance
+
+  abhyāsa + vairāgya
+        v
+  kriyā-yoga and aṣṭāṅga-yoga
+        v
+  attenuation and destruction of the kleśas
+        v
+  stable samādhi
+        v
+  VIVEKA-KHYĀTI — uninterrupted discernment of the ABSOLUTE DIFFERENCE between the
+  conscious witness and primordial nature. Yoga stays COGNITIVIST at the summit:
+  absorption is indispensable, but its function is to MATURE discernment.
+        v
+  PARA-VAIRĀGYA — no craving even for powers, experiences or exalted cognitive states.
+  Without it, subtle egoity survives advanced practice.
+        v
+  DHARMAMEGHA-SAMĀDHI — ripened summit of perfected discipline and discernment.
+  NOT a divine grace replacing effort.
+        v
+  +---- KAIVALYA -----------------------------------------------------------------------+
+  |  DEFINITION: aloneness / isolation / absolute distinctness — the isolation of the    |
+  |  witness from prakṛti and its evolutes.                                              |
+  |  ON NATURE'S SIDE: PRATIPRASAVA — the guṇas cease to function for that witness and   |
+  |  resolve back toward their source; citta's function is exhausted.                    |
+  |  ON THE WITNESS'S SIDE: SVARŪPA-PRATIṢṬHĀ — consciousness abides in its own nature,  |
+  |  completing the promise of YS 1.3.                                                   |
+  +------------------------------------------------------------------------------------+
+
+ASCII MASTER FLOW — PANEL 21/24: Isolation — the four negations, images and contrasts
+
+  FOUR NEGATIONS (UPSC tests this term almost entirely through contrasts)
+     NOT union with God in the devotional sense
+     NOT identity with Brahman in the Advaita sense
+     NOT annihilation of consciousness
+     NOT mere painlessness abstracted from the self's own luminosity
+     (and NOT destruction of mind as a substance — its binding vṛttis cease)
+
+  THREE IMAGES
+     kṣetrika (FARMER) .... breaches the embankment; water flows by its own nature.
+                            Discipline removes obstruction; it does not MAKE freedom.
+     DAGDHA-BĪJA .......... destroyed kleśas keep their shape and cannot germinate.
+     POTTER'S WHEEL ....... after the push stops the wheel turns until momentum is spent
+                            => the careful basis for jīvanmukti language.
+
+  CONTRAST GRID
+  YOGA KAIVALYA                          ADVAITA MOKṢA
+  many puruṣas                           one Brahman as ultimate reality
+  isolation of puruṣa from prakṛti       realisation of ātman-Brahman identity
+  no Brahman-doctrine; DISENTANGLEMENT   non-dual realisation; IDENTITY
+  ------------------------------------   ------------------------------------------------
+  YOGA KAIVALYA                          NYĀYA APAVARGA
+  positive isolation and self-abidance   often described as cessation of pain and bondage
+  rooted in puruṣa-prakṛti discrimination rooted in true knowledge of categories and self
+  citta resolves, puruṣa shines          self remains; liberation characterised negatively
+
+  ! TRAP 21: the Lord assists but does NOT grant kaivalya. Liberation follows viveka-khyāti.
+  ! TRAP 22: whether kaivalya is blissful self-abidance or austere aloneness is CONTESTED.
+
+ASCII MASTER FLOW — PANEL 22/24: The realist polemic of the isolation chapter
+
+  PŪRVAPAKṢA (vijñānavāda / yogācāra): what is taken as an external object is explicable
+  as cognition-only; the object need not be admitted as independently real.
+  SIDDHĀNTA (Kaivalya-pāda realism), in four moves:
+     1 OBJECT-INDEPENDENCE  an object is not EKACITTA-TANTRA (dependent on a single mind);
+                            otherwise it would vanish when that mind ceased to cognise it
+     2 THE MIND'S KNOWNNESS citta is NA TAT SVĀBHĀSAM (not self-illuminating) because it is
+                            itself DṚŚYA (seen) for puruṣa; mind-only struggles to
+                            terminate the regress of cognitions cognising cognitions
+     3 NO SIMULTANEOUS      the mind cannot apprehend itself and its object in one act, as
+       SELF-COGNITION       though it were both lamp and illuminated object
+     4 UPARĀGA (colouring)  an object is known when citta is UPARAKTA by it; known-versus-
+                            unknown depends on citta's colouring => object is not identical
+                            with the cognition
+  THREE-TERM REALISM: viṣaya (object) · citta-vṛtti (modification) · puruṣa (witness)
+  COUNTER  -> shared karmic traces explain intersubjective appearance without external
+              objects
+  REJOINDER-> a common object plus many cittas explains shared appearance better
+  RESIDUE !-> Yoga must still say HOW an external object colours an insentient citta
+
+ASCII MASTER FLOW — PANEL 23/24: Inter-school comparison, criticisms and graded verdict
+
+  COMPARISON AXES: self · God · causation · liberation · pramāṇa count
+     vs SĀṂKHYA ....... same ontology; nirīśvara there, seśvara here; explanatory
+                        metaphysics there, practical psychology and samādhi here
+     vs NYĀYA-VAIŚEṢIKA broad citta vs atomic manas + self-substance; meditative Lord vs
+                        creator; kaivalya vs apavarga; 3 pramāṇas vs 4
+     vs ADVAITA ....... many puruṣas + real prakṛti vs non-dual Brahman; isolation vs
+                        identity-realisation
+     vs BUDDHISM ...... enduring puruṣa vs nairātmyavāda; discrimination-aimed meditation
+                        vs impermanence-aimed insight; kaivalya vs nirvāṇa
+
+  EIGHT CRITICISMS -> REPLIES
+     inactive puruṣa bound?      -> misidentification through reflection, not alteration
+     insentient citta cognising? -> it becomes luminous by reflecting puruṣa
+     restrain TRUE cognition?    -> form binds, not falsity; akliṣṭa is a ladder
+     asamprajñāta = sleep?       -> genesis and value differ; nidrā is itself a vṛtti
+     why add a Lord?             -> practical efficacy, not metaphysical necessity
+     is the Lord redundant?      -> non-final rather than redundant
+     is kaivalya merely negative?-> svarūpa-pratiṣṭhā is its positive side
+     is dhyāna enough?           -> no; without yama-niyama, power coexists with affliction
+
+  GRADED VERDICT
+     STRONG    rigorous phenomenology of mental process · integration of psychology,
+               ethics and metaphysics · an operational path · genuine metaphysical
+               commitment shown by the realist arguments
+     WEAK      the puruṣa-prakṛti interaction problem · the Lord's limited explanatory
+               role · the contestable value of contentless pure consciousness
+     CONTESTED status of ānanda and asmitā in the taxonomy · character of kaivalya
+               · unity and layering of the sūtra tradition
+
+ASCII MASTER FLOW — PANEL 24/24: PYQ ownership, the answer route and the qualified conclusion
+
+  PYQ OWNERSHIP AND ANSWER ROUTE (7 primary-owned parts, 2019-2025; no 2018 owner)
+     2019 Q7(b) 15 .. citta-levels of scientist / devotee / yogin  -> PANEL 5
+     2020 Q5(b) 10 .. samprajñāta vs asamprajñāta                  -> PANELS 15, 16
+     2021 Q6(a) 20 .. nature of kleśas; removal leads to kaivalya  -> PANELS 10-12, 20
+     2022 Q5(c) 10 .. nature and stages of samādhi; role of Īśvara -> PANELS 15-19
+     2023 Q7(c) 15 .. citta and its modifications; why cessation   -> PANELS 3, 6, 7
+     2024 Q7(b) 15 .. reflection, misidentification, appraisal     -> PANELS 4, 9, 22-24
+     2025 Q7(b) 15 .. nature of God and its role in kaivalya       -> PANELS 19-21
+     ROUTED 2018 Q6(a) 20 [Nyāya-Vaiśeṣika primary] .. Nyāya vs Yoga proofs of God
+                                                                   -> PANELS 19, 22-24
+
+  ANSWER SPINE: define in Pātañjala terms -> classify without conflating schemes ->
+  give the causal pathway -> use one accurate analogy -> distinguish from Sāṃkhya, Nyāya,
+  Buddhism or Advaita as demanded -> state objection, reply and residual pressure ->
+  add the textual / commentarial caution -> conclude by relating discipline to discernment.
+
+  QUALIFIED CONCLUSION: Yoga turns Sāṃkhya's dualism into a disciplined psychology of
+  liberation in which ethics, attention, absorption and insight progressively dismantle the
+  causal machinery of bondage. Its account of citta and saṃskāra explains why intellectual
+  assent alone cannot liberate. Yet reflected consciousness, the relation among the highest
+  absorptions and the necessity of the Lord remain debated. Kaivalya therefore rests not on
+  trance but on irreversible discrimination between the witness and every transformation of
+  nature.

@@ -1,127 +1,1652 @@
-ASCII MASTER FLOW — PANEL 1/10: Existentialism as a family: common problem, distinct projects
-START -> concrete lived existence resists reduction to abstract system or fixed nature.
-EXISTING INDIVIDUAL -> situated, finite, choosing and self-interpreting existence.
-KIERKEGAARD -> Christian inwardness, anti-Hegelian individual and self before God.
-HEIDEGGER -> fundamental ontology through Dasein and finite being-in-the-world.
-SARTRE -> atheistic consciousness, nothingness, situated freedom and responsibility.
-COMMON THEMES -> individuality, choice, anxiety, finitude and authentic existence.
-NOT ONE DOCTRINE -> the grounds, methods and conclusions remain sharply different.
-NOT PESSIMISM / NIHILISM -> no claim that life is simply meaningless or hopeless.
-NOT SUBJECTIVE WHIM / SELF-HELP -> choice remains situated and answerable.
-BRIDGE -> begin with Kierkegaard's existing individual against the System.
+EXISTENTIALISM (KIERKEGAARD, SARTRE, HEIDEGGER) - ASCII MASTER FLOW DIAGRAM
+UPSC PHILOSOPHY OPTIONAL | PAPER I, SECTION A | SYLLABUS ITEM 10
+==============================================================================
+READ TOP TO BOTTOM. 53 PANELS. PURE ASCII. EVERY DATE, SECTION NUMBER,
+PSEUDONYM AND TECHNICAL TERM IS EXAMINABLE AS PRINTED.
+==============================================================================
 
-ASCII MASTER FLOW — PANEL 2/10: Kierkegaard: individual, subjectivity, spheres, anxiety, despair and faith
-SYSTEM -> universal mediation loses the particular person who must exist and choose.
-EXISTING INDIVIDUAL -> temporal, passionate, responsible and irreducibly singular.
-TRUTH IS SUBJECTIVITY -> existential appropriation; NOT whatever I feel is true.
-SPHERES -> aesthetic immediacy; ethical duty; religious selfhood before God.
-SPHERES -> qualitative orientations crossed by decision, not automatic age-phases.
-POSSIBILITY -> anxiety / dread -> dizziness of freedom -> choice -> becoming a self.
-DESPAIR -> not willing to be oneself OR defiantly willing without one's ground.
-LEAP / FAITH -> lived God-relation; not mere caprice or evidence-free opinion.
-ABRAHAM -> teleological suspension clarifies faith and creates an ethical problem.
-VERDICT -> responsible inwardness is powerful; public criteria remain incomplete.
+ASCII MASTER FLOW - PANEL 1/53: THE CENTRAL QUESTION AND THE THREE PRINTED LIMBS
+------------------------------------------------------------------------------
+  SYLLABUS, VERBATIM
+    'Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence;
+     Choice, Responsibility and Authentic Existence; Being-in-the-world and
+     Temporality.'
+    NOTE: the paper prints 'Sarte'.  The philosopher is Jean-Paul SARTRE.
+    Preserve the misprint ONLY inside a verbatim quotation of the syllabus.
+                                   |
+  THE ONE MOVE THIS CLAUSE MAKES
+    STOP asking what a human being IS IN GENERAL.
+    START asking how THIS finite, situated, dying individual has to TAKE UP
+    an existence that was never handed over ready-made.
+                                   |
+  THE THREE PRINTED LIMBS, AND WHAT EACH ONE DOES
+    LIMB 1  EXISTENCE AND ESSENCE ............ removes the BLUEPRINT
+    LIMB 2  CHOICE, RESPONSIBILITY AND
+            AUTHENTIC EXISTENCE .............. asks what a person must DO
+                                               once the blueprint is gone
+    LIMB 3  BEING-IN-THE-WORLD AND
+            TEMPORALITY ..................... HEIDEGGER'S refusal to let
+                                               limbs 1-2 be answered by a
+                                               SUBJECT facing a WORLD
+    ASYMMETRY: limb 3 is ALMOST ENTIRELY HEIDEGGER'S.  That is why 2019 Q3(a)
+    and 2022 Q2(a) are Heidegger questions and 2024 Q4(a) is a comparison.
 
-ASCII MASTER FLOW — PANEL 3/10: Heidegger: Dasein, being-in-the-world, equipment and care
-PROJECT -> fundamental ontology; Heidegger resists Sartrean humanistic existentialism.
-DASEIN -> the being for whom Being is an issue; not mind or biological object.
-BEING-IN-THE-WORLD -> unitary structure; not subject inside a container-world.
-WORLDHOOD -> meaningful referential context of concern, projects and being-with.
-READY-TO-HAND -> absorbed equipment; breakdown reveals the in-order-to nexus.
-PRESENT-AT-HAND -> detached object of theory; derivative from practical involvement.
-CARE -> ahead-of-itself + already-in a world + alongside entities.
-THROWNNESS -> unchosen given; PROJECTION -> possibilities; FALLENNESS -> absorption.
-DAS MAN -> ordinary public intelligibility; inauthenticity is not simple moral evil.
-BRIDGE -> anxiety interrupts familiar significance and discloses finite possibility.
 
-ASCII MASTER FLOW — PANEL 4/10: Heidegger: the They, anxiety, death, resoluteness and authenticity
-DAS MAN -> received meanings and average everydayness; structural, not wickedness.
-FEAR -> determinate threat; ANXIETY -> familiar significance recedes without one object.
-ANXIETY -> discloses being-in-the-world and Dasein's ownmost finite possibility.
-DEATH -> ownmost, non-relational, certain and indefinite possibility.
-NOT -> suicide, death-seeking, morbid heroism or biological event alone.
-ANTICIPATION -> individualises Dasein and exposes the finitude of every possibility.
-RESOLUTENESS -> owning thrown possibilities within, not outside, the shared world.
-AUTHENTICITY -> formal modification; not moral superiority or social isolation.
-OBJECTION -> normatively empty, death-centred and politically vulnerable resoluteness.
-VERDICT -> strong ontology of ownership; thin guidance about which possibilities to own.
+ASCII MASTER FLOW - PANEL 2/53: THE FAMILY-LABEL WARNING - SAY THIS BEFORE ANYTHING ELSE
+------------------------------------------------------------------------------
+  'EXISTENTIALISM' IS A RETROSPECTIVE FAMILY LABEL, NOT A SCHOOL.
+    KIERKEGAARD  died 1855.  Never met the word.
+    HEIDEGGER    DENIED he was an existentialist - 'Letter on Humanism',
+                 written 1946, published 1947.
+    SARTRE       ACCEPTED the label and DEFINED it - lecture October 1945,
+                 published 1946.
+                                   |
+  WHAT ACTUALLY UNITES THEM IS A REFUSAL, NOT A THESIS
+    Each DENIES that the being of a human individual is settled in advance by
+    a general nature.
+      KIERKEGAARD  against Hegel's MEDIATING SYSTEM
+      HEIDEGGER    against the CARTESIAN SUBJECT who is first a thinking
+                   thing and only then in a world
+      SARTRE       against the DIVINE ARTISAN and the DETERMINIST
+    UNITY = FAMILY RESEMBLANCE.  Overlapping problems, NOT a common creed.
+                                   |
+  WHAT THE CLAUSE IS NOT
+    NOT PESSIMISM ... anxiety, despair, death are DISCLOSIVE STRUCTURES
+    NOT NIHILISM .... K grounds value in faith; S in the responsibility free
+                      commitment generates; H in formal ownership of finitude
+    NOT WHIM ........ appropriation, choice and resoluteness are SITUATED and
+                      RESPONSIBILITY-LADEN
+    NOT SELF-HELP ... the clause is ontology, ethics and religious thought
+  FATAL OPENING: 'The existentialists held that ...'
 
-ASCII MASTER FLOW — PANEL 5/10: Heidegger: temporality, future priority, historicality and limit
-TEMPORALITY -> meaning of care; not external clock-time surrounding Dasein.
-FUTURE -> projection, anticipation and ahead-of-itself; structurally primary.
-HAVING-BEEN -> thrownness and the inherited past Dasein still is.
-PRESENT -> involvement, making-present and being alongside entities.
-ECSTASES -> one finite unity, not compartments arranged on a time-line.
-ANTICIPATION -> gathers thrown existence into a whole and links time to authenticity.
-VULGAR TIME -> derivative public sequence of measurable nows.
-HISTORICALITY -> inherited possibilities projected anew; history is how Dasein exists.
-LIMIT -> Division III was not published; Dasein's time does not complete ontology.
-BRIDGE -> Sartre grounds open self-making in the for-itself's nothingness.
 
-ASCII MASTER FLOW — PANEL 6/10: Sartre: existence, in-itself, for-itself and nothingness
-ARTEFACT -> design or essence precedes manufactured existence.
-HUMAN REALITY -> no divine blueprint; existence precedes self-made essence.
-SCOPE -> Sartre's formula for human beings; not unchanged Kierkegaard or Heidegger.
-BEING-IN-ITSELF -> full, opaque, self-identical and simply what it is.
-BEING-FOR-ITSELF -> intentional consciousness, lack and non-self-coincidence.
-NOTHINGNESS / NIHILATION -> distance, absence, negation, questions and alternatives.
-SELF-TRANSCENDENCE -> consciousness exceeds past, role and present identity.
-PROJECT -> provisional self-definition through action; never a completed fixed essence.
-NOT MIND-BODY DUALISM -> the contrast is ontological, not two substances.
-BRIDGE -> the for-itself is free only within facticity and situation.
+ASCII MASTER FLOW - PANEL 3/53: THREE PROJECTS SIDE BY SIDE - THE ORIENTATION TABLE
+------------------------------------------------------------------------------
+                 KIERKEGAARD        SARTRE              HEIDEGGER
+                 1813-1855          1905-1980           1889-1976
+                 THEISTIC           ATHEISTIC           ONTOLOGICAL
+  ---------------------------------------------------------------------------
+  CORE TERM      the single         being-for-itself    Dasein - the entity
+  FOR THE        individual         (pour-soi) -        for whom its OWN
+  HUMAN BEING    (den Enkelte)      nihilating          BEING IS AT ISSUE
+                                    consciousness
+  ---------------------------------------------------------------------------
+  AIM            how does a SELF    an ontology of      to REOPEN THE
+                 exist BEFORE GOD?  consciousness,      QUESTION OF THE
+                                    nothingness and     MEANING OF BEING
+                                    situated freedom
+  ---------------------------------------------------------------------------
+  ENEMY          Hegel's SYSTEM     determinism, bad    Cartesian subject-
+                 and the CROWD      faith, the          object dualism,
+                                    'serious spirit'    das Man
+  ---------------------------------------------------------------------------
+  METHOD         indirect           phenomenological    existential analytic
+                 communication,     ontology of the     of Dasein
+                 pseudonyms         for-itself
+  ---------------------------------------------------------------------------
+  GOD            CENTRAL            DENIED - AS A       NOT SETTLED by the
+                                    PREMISE             ontology
+  ---------------------------------------------------------------------------
+  THE SLOGAN     never wrote it     COINED it           REPUDIATED it
+  ---------------------------------------------------------------------------
+  AUTHENTICITY   faith, by a LEAP   NO positive         owning THROWN
+                                    doctrine - only     PROJECTION.  A FORMAL
+                                    the CRITIQUE of     modification.  NOT a
+                                    BAD FAITH           virtue
+  ---------------------------------------------------------------------------
+  MOOD THAT      anxiety (Angest),  anguish (angoisse), anxiety (Angst)
+  DISCLOSES      despair            nausea (la nausee)
 
-ASCII MASTER FLOW — PANEL 7/10: Sartre: situated freedom, choice, responsibility and anguish
-FACTICITY -> body, past, social position, situation and events already suffered.
-TRANSCENDENCE -> surpassing the given through interpretation, projects and action.
-SITUATED FREEDOM -> constraints are real; no fact determines its own meaning.
-FREEDOM != POWER -> inability to alter every condition does not erase self-positioning.
-CHOICE -> even refusal, conformity or delay can position the self and its project.
-RESPONSIBILITY -> for meanings and projects; NOT blame for every inflicted event.
-ANGUISH -> no nature or rule guarantees what I choose and make of myself.
-ABANDONMENT -> no divine value-giver; values cannot be outsourced to God.
-DESPAIR -> act without assuming history, luck or others will guarantee the outcome.
-LIMIT -> early radicalism is qualified by later attention to material social constraints.
 
-ASCII MASTER FLOW — PANEL 8/10: Sartre: in-itself, for-itself, facticity and bad faith
-IN-ITSELF -> full, opaque and self-identical; simply what it is.
-FOR-ITSELF -> intentional, nihilating and non-self-coincident consciousness.
-FACTICITY -> body, past, role and situation; TRANSCENDENCE -> projected possibility.
-BAD FAITH -> flight from this tension; not ordinary lying alone.
-ROLE FIXATION -> pretend I am only my facticity and deny transcendence.
-PURE FREEDOM CLAIM -> deny facticity and pretend no situation binds.
-WAITER -> role-essentialism example; not proof that workers are inauthentic.
-DATE EXAMPLE -> evasion of a gesture's meaning and the need to choose.
-AUTHENTICITY -> lucid ownership of both poles; less systematic than bad faith.
-LIMIT -> self-deception paradox and thin ethics remain unresolved.
+ASCII MASTER FLOW - PANEL 4/53: CHRONOLOGY RAIL - THE DATES THAT ARE WORTH MARKS
+------------------------------------------------------------------------------
+  1813  Soren Kierkegaard born, Copenhagen
+  1843  EITHER/OR (ed. Victor Eremita) - aesthetic 'A' and ethical Judge
+          William printed side by side WITHOUT a decision
+        FEAR AND TREMBLING (Johannes de Silentio) - Abraham, the teleological
+          suspension of the ethical, the knight of faith
+        REPETITION (Constantin Constantius)
+  1844  THE CONCEPT OF ANXIETY (Vigilius Haufniensis) - 'the dizziness of
+          freedom'.  LOWRIE titles it 'The Concept of DREAD'; HONG 'ANXIETY'
+        PHILOSOPHICAL FRAGMENTS (Johannes Climacus)
+  1846  CONCLUDING UNSCIENTIFIC POSTSCRIPT (Johannes Climacus) - 'truth is
+          subjectivity'; the FIRST AND LAST DECLARATION is appended
+  1848  THE POINT OF VIEW FOR MY WORK AS AN AUTHOR - WRITTEN 1848,
+          PUBLISHED POSTHUMOUSLY 1859.  Retrospective; disputed as evidence
+  1849  THE SICKNESS UNTO DEATH (Anti-Climacus) - despair as MISRELATION
+  1850  PRACTICE IN CHRISTIANITY (Anti-Climacus)
+  1855  Kierkegaard dies
+  1927  BEING AND TIME (Sein und Zeit) - PUBLISHED UNFINISHED.  Only
+          Divisions One and Two of PART ONE appeared.  Division III ('Time
+          and Being') and the whole of Part Two were NEVER PUBLISHED
+  1929  WHAT IS METAPHYSICS? - anxiety reveals the NOTHING (das Nichts).
+          'Nothing noths' / 'the nothing nothings'.  NEVER 'nothing noughts'
+  1932  Carnap's attack on that sentence - see Topic 07, one clause only
+  1943  BEING AND NOTHINGNESS (L'Etre et le Neant) - the ONTOLOGY.  Eng. tr.
+          Hazel Barnes 1956; Sarah Richmond 2018
+  1944  HUIS CLOS / NO EXIT - 'L'enfer, c'est les autres'
+  1945  EXISTENTIALISM IS A HUMANISM - DELIVERED October 1945; PUBLISHED
+          1946.  ALL THE SLOGANS COME FROM HERE.  Sartre later regretted it
+  1946  LETTER ON HUMANISM written; PUBLISHED 1947
+  1960  CRITIQUE OF DIALECTICAL REASON - scarcity, seriality, practico-inert,
+          group-in-fusion.  A CONCESSION, never the doctrine of 1943
+  1962  Macquarrie and Robinson translate Being and Time
+  1965  Sartre's recorded preface CORRECTING 'hell is other people'
+  1976  Heidegger dies          1980  Sartre dies
+  1996  Stambaugh translation of Being and Time (rev. Schmidt 2010)
 
-ASCII MASTER FLOW — PANEL 9/10: Sartre: the Look, shame, being-for-others and social limit
-BEING-FOR-OTHERS -> the self as object for another free subject.
-KEYHOLE -> absorbed project; footsteps interrupt and reveal that I am seen.
-SHAME -> recognition of myself as the Other sees me; not private embarrassment alone.
-THE LOOK -> another subject is lived through objectification, not merely inferred.
-OBJECT-FOR-ANOTHER -> I acquire an outside and meanings I do not control.
-CONFLICT -> possess the Other's freedom or reduce the Other to an object; both fail.
-ALIENATION -> freedom is exposed to another freedom's meanings and judgments.
-OBJECTION -> love, care, trust and solidarity challenge universal conflict.
-LATER SARTRE -> group-in-fusion admits forms of collective, non-isolated agency.
-PYQ 2018 -> inauthenticity + bad faith -> alienation across Heidegger and Sartre.
-PYQ 2023 -> for-itself, nihilation and non-self-identity ground the bad-faith route.
-ADVANCED -> Levinas, care and collective agency qualify conflict; optional, not core.
-VERDICT -> decisive account of shame; incomplete theory of reciprocal social life.
 
-ASCII MASTER FLOW — PANEL 10/10: Comparison, exact distinctions, criticism and answer spine
-KIERKEGAARD -> religious inward commitment and the self responsibly before God.
-HEIDEGGER -> ontological analysis of finite, thrown being-in-the-world.
-SARTRE -> atheistic freedom, nothingness, responsibility, bad faith and the Look.
-ANXIETY -> possibility / world-collapse / unsupported freedom across the three projects.
-EXACT PAIRS -> fear/anxiety; facticity/determinism; freedom/power.
-EXACT PAIRS -> authenticity/nonconformity; subjectivity/arbitrariness.
-EXACT PAIRS -> being-in-world/containment; bad faith/lying; death/biological event.
-PYQ 2019/2022 -> Dasein, authenticity, temporality and being-in-the-world.
-PYQ 2020/2022/2023/2024 -> Kierkegaard: subjectivity, stages and anti-Hegelian self.
-PYQ 2019-2021/2024/2025 -> Sartre: freedom, essence and in-itself/for-itself.
-CORE -> three projects plus the syllabus triad; sufficient without optional depth.
-ADVANCED -> provenance, critics and later revisions sharpen a qualified evaluation.
-CRITIQUE -> fideism; empty resoluteness; exaggerated freedom and thin ethics.
-ANSWER SPINE -> define -> locate project -> argue -> distinguish -> object -> reply -> limit.
-VERDICT -> one problem-field, three irreducible projects; preserve insight and difference.
+ASCII MASTER FLOW - PANEL 5/53: PROVENANCE AND ATTRIBUTION - FOUR CHEAP MARKS
+------------------------------------------------------------------------------
+  RULE 1  CITE THE PSEUDONYM.
+          'Johannes Climacus argues in the Postscript ...', NOT 'Kierkegaard
+          says'.  Kierkegaard PRINTED the request himself, calling himself
+          only the 'AUTHOR'S AUTHOR' and a PROMPTER (souffleur).
+  RULE 2  CITE BEING AND TIME BY SECTION - section numbers survive BOTH
+          translations; page numbers do not.
+            SECTION 9 ...... the essence of Dasein lies in its existence
+            SECTION 26 ..... being-with (Mitsein)
+            SECTIONS 27,
+              35-38 ........ das Man, idle talk, curiosity, ambiguity,
+                             falling
+            SECTION 40 ..... anxiety
+            SECTION 41 ..... care (Sorge)
+            SECTIONS 46-53 . being-toward-death
+            SECTIONS 54-60 . the call of conscience
+            SECTION 65 ..... temporality
+  RULE 3  NAME THE TRANSLATION, OR USE THE SOURCE WORD ONCE.
+            Angest = 'dread' (Lowrie) / 'anxiety' (Hong)
+            Zuhandenheit = 'readiness-to-hand' (Macquarrie and Robinson) /
+              'handiness' (Stambaugh)
+            Being and Nothingness: Barnes 1956 vs Richmond 2018 differ
+              throughout
+  RULE 4  SAY WHERE A SLOGAN COMES FROM.
+            'Condemned to be free', 'existence precedes essence' and 'man is
+            nothing else but what he makes of himself' ALL come from the
+            LECTURE of October 1945, PUBLISHED 1946 - NOT from Being and
+            Nothingness (1943).
+  FORBIDDEN: 'leap of faith' as Kierkegaard's own phrase; 'nothing noughts';
+  'Being and Time completes the analysis of Being'.
+
+
+ASCII MASTER FLOW - PANEL 6/53: KIERKEGAARD - THE TARGET AND THE STRUCTURAL COUNTER
+------------------------------------------------------------------------------
+  THE TARGET: HEGEL'S SYSTEM, AS KIERKEGAARD RECEIVES IT
+    Reality is the self-development of ABSOLUTE SPIRIT (Geist).
+    Every opposition is MEDIATED (aufgehoben) into a higher unity.
+    The individual is a MOMENT in a total rational process.
+    'The truth is the whole.'
+    FENCE: the dialectic and Absolute Spirit belong to TOPIC 05.  Two clauses
+    of target-setting here, then the counter.
+                                   |
+  THE COUNTER - STRUCTURAL, NOT A COMPLAINT ABOUT DIFFICULTY
+    The system explains everything EXCEPT THE EXISTING INDIVIDUAL WHO IS
+    SUPPOSED TO UNDERSTAND IT.
+    To exist is to be PARTICULAR, TEMPORAL, PASSIONATE and DECIDING - none of
+    which is a category the system can accommodate without CANCELLING it.
+    THE SENTENCE TO DEPLOY:
+      'A LOGICAL SYSTEM IS POSSIBLE; AN EXISTENTIAL SYSTEM IS IMPOSSIBLE.'
+    NO SYSTEM CAN CONTAIN THE ONE WHO BUILDS IT: the systematiser must still
+    EXIST, CHOOSE and DIE.
+                                   |
+  THE THREE CONTRAST PAIRS THAT CARRY IT
+    EITHER/OR         vs  BOTH/AND     to exist IS to choose one thing
+                                       rather than another
+    THE LEAP          vs  MEDIATION    no argument delivers me from one
+    (Springet)                         sphere to the next
+    INDIRECT          vs  THE LECTURE  the form must not hand over a result
+    COMMUNICATION
+                                   |
+  BOUNDED VERDICT
+    Kierkegaard EXPOSES a first-person appropriation that a completed system-
+    view risks LOSING.  He does NOT refute Hegel's ontology and offers NO
+    rival comprehensive system.  A Hegelian may reply that the existing
+    individual is an unreflective stage philosophy SUBLATES.
+  PYQ ANCHORS: 2023 Q1(d) 10m; 2020 Q3(a) 20m; 2022 Q4(a) 20m.
+
+
+ASCII MASTER FLOW - PANEL 7/53: KIERKEGAARD - 'TRUTH IS SUBJECTIVITY' AND ITS THREE DENIALS
+------------------------------------------------------------------------------
+  ATTRIBUTION
+    Argued by the pseudonym JOHANNES CLIMACUS in the CONCLUDING UNSCIENTIFIC
+    POSTSCRIPT, 1846.  Climacus is a HUMORIST who says explicitly that he is
+    NOT A CHRISTIAN - which is exactly why he can pose the problem of
+    BECOMING one.
+                                   |
+  WHAT IT ASSERTS
+    For ETHICAL and RELIGIOUS truth the MODE OF APPROPRIATION is decisive:
+    HOW one holds a belief - with INFINITE PASSIONATE INWARDNESS, personal
+    COMMITMENT, RISK - is the locus of truth FOR THE EXISTING SUBJECT.
+    WORKED CONTRAST: to 'know' that God exists as an item in a philosophical
+    system is NOT the same as EXISTING BEFORE GOD in faith and trembling.
+                                   |
+  THREE DENIALS - WRITE ALL THREE
+    (i)   NOT relativism.  It is not the claim that anything I believe is
+          true.
+    (ii)  NOT a denial of objective truth in logic, mathematics or history -
+          only of its SUFFICIENCY for existential and religious truth.
+    (iii) NOT a general theory that FACTUAL truth varies with the passion of
+          the believer.
+                                   |
+  WHY THE FORM FOLLOWS
+    If existential truth is a MODE OF EXISTING rather than a RESULT, it
+    cannot be handed over directly without being FALSIFIED - which is why
+    Kierkegaard writes PSEUDONYMOUSLY and INDIRECTLY (Panels 13-14).
+  PYQ ANCHORS: 2020 Q3(a) 20m; 2022 Q4(a) 20m; 2024 Q1(e) 10m.
+
+
+ASCII MASTER FLOW - PANEL 8/53: KIERKEGAARD - THE ANTI-RELATIVIST COMPLEMENT
+------------------------------------------------------------------------------
+  'SUBJECTIVITY IS UNTRUTH'
+    The dialectical complement, also Climacus.  The existing subject is ALSO
+    IN UNTRUTH - in SIN, in FINITUDE, in NON-IDENTITY WITH THE ETERNAL - and
+    therefore NEEDS THE LEAP.
+    A RELATIVIST HAS NO USE FOR THIS SENTENCE.  CLIMACUS CANNOT DO WITHOUT
+    IT.  That is the INTERNAL EVIDENCE against the relativist reading, and it
+    should be quoted in every subjectivity answer.
+                                   |
+  'THE CROWD IS UNTRUTH'
+    The SOCIAL form of the same point.  The anonymous public permits ETHICAL
+    EVASION, because a responsibility DISTRIBUTED among everyone is BORNE BY
+    NO ONE.  Authentic existence requires the individual to stand ALONE -
+    before God, or before the ethical demand.
+                                   |
+  DO NOT MERGE WITH HEIDEGGER'S DAS MAN
+    STRUCTURALLY PARALLEL, DOCTRINALLY DIFFERENT.
+      KIERKEGAARD  target = evasion of RESPONSIBILITY BEFORE GOD
+      HEIDEGGER    target = a LEVELLING OF POSSIBILITIES, with NO
+                   theological content and NO blame attached
+  TRAP: writing that Kierkegaard's crowd and Heidegger's das Man are 'the
+  same idea in different words' collapses a theological category into an
+  ontological one.
+
+
+ASCII MASTER FLOW - PANEL 9/53: KIERKEGAARD - THE THREE SPHERES AND THEIR COLLAPSES
+------------------------------------------------------------------------------
+  SPHERE      CORE / MODE                    LIMIT - HOW IT COLLAPSES
+  ---------------------------------------------------------------------------
+  AESTHETIC   living for the moment: the     BOREDOM, FRAGMENTATION,
+  Either/Or   INTERESTING, enjoyment, the    DESPAIR.  Nothing binds, so
+  1843, ed.   avoidance of binding           nothing holds the self
+  Victor      commitment; immediacy,         together
+  Eremita     detachment, IRONY
+  ---------------------------------------------------------------------------
+  ETHICAL     living by UNIVERSAL DUTY:      GUILT.  The ethical demand
+  Judge       commitment, marriage,          cannot be perfectly fulfilled,
+  William     vocation, transparency; the    and the UNIVERSAL cannot
+              self as responsible agent      accommodate the individual's
+              under universal categories     anguished singularity
+  ---------------------------------------------------------------------------
+  RELIGIOUS   standing BEFORE GOD as a       PARADOX.  Faith is not
+  Johannes    singular individual; faith     rational, not universal, not
+  de          as 'THE ABSURD'; infinite      mediated by the crowd or the
+  Silentio,   passion                        church
+  Fear and
+  Trembling
+  1843
+  ---------------------------------------------------------------------------
+  THEY ARE QUALITATIVE SPHERES, NOT CHRONOLOGICAL STAGES.
+    One does NOT 'grow out of' the aesthetic by maturation.
+    RELAPSE IS ALWAYS POSSIBLE.
+    The English word 'stages' is standard in translation, which is exactly
+    why the qualification must be written explicitly.
+  THE SPHERES ARE THE CONTENT OF WHICH 'TRUTH IS SUBJECTIVITY' IS THE FORM:
+  appropriation INTENSIFIES from dispersion through duty to the absolute
+  relation.  2022 Q4(a) asks for both, in that order.
+
+
+ASCII MASTER FLOW - PANEL 10/53: KIERKEGAARD - THE LEAP, THE SUSPENSION, AND THE TWO KNIGHTS
+------------------------------------------------------------------------------
+  THE LEAP (Springet)
+    Transition between spheres is a QUALITATIVE CHOICE - not a Hegelian
+    deduction, not a psychological development.
+    PROVENANCE CAUTION: Kierkegaard writes of THE LEAP and of FAITH.  The
+    fused English phrase 'LEAP OF FAITH' belongs to the ENGLISH TRADITION.
+    Write: 'the leap - what the English tradition calls the leap of faith.'
+                                   |
+  THE TELEOLOGICAL SUSPENSION OF THE ETHICAL
+    Analysed by JOHANNES DE SILENTIO in FEAR AND TREMBLING (1843) through
+    ABRAHAM, commanded to sacrifice Isaac.  The ETHICAL (the universal) is
+    SUSPENDED in relation to a higher TELOS - the absolute relation to the
+    Absolute.
+    THE TEXT STAGES THE PARADOX OF FAITH.  It must NOT be cited as
+    Kierkegaard's straightforward LICENCE for private revelation to override
+    morality.
+    'DE SILENTIO' = the SILENCE of one who ADMIRES faith but DOES NOT HAVE
+    it - he can DESCRIBE Abraham but not UNDERSTAND him.
+                                   |
+  THE TWO KNIGHTS - THE DIFFERENCE IS THE DOCTRINE
+    KNIGHT OF INFINITE RESIGNATION   gives the finite UP, and the
+                                     renunciation SHOWS.  Visibly heroic,
+                                     visibly apart from ordinary life.
+    KNIGHT OF FAITH                  gives it up AND RECEIVES IT BACK.
+                                     OUTWARDLY INDISTINGUISHABLE from a
+                                     bourgeois citizen: lives FULLY in the
+                                     finite world WHILE relating absolutely
+                                     to the Absolute.
+    THE DOUBLE MOVEMENT: infinite resignation FIRST, THEN faith - which is
+    why faith is HIGHER than resignation, not easier.
+    USE: the fastest available refutation of 'existentialism is world-
+    denying'.
+  OBJECTION: FIDEISM / IRRATIONALISM.  REPLY: reason is not WRONG but
+  LIMITED - it cannot deliver what the religious individual needs.  Whether
+  that is a reductio or a valid critique of rationalism DEPENDS ON ONE'S
+  EPISTEMOLOGY.  Leave the verdict open.
+
+
+ASCII MASTER FLOW - PANEL 11/53: KIERKEGAARD - ANXIETY AS THE DIZZINESS OF FREEDOM
+------------------------------------------------------------------------------
+  SOURCE  THE CONCEPT OF ANXIETY, 1844, by VIGILIUS HAUFNIENSIS ('watchman of
+          Copenhagen'), writing as a PSYCHOLOGICAL OBSERVER and deliberately
+          NOT as a dogmatician.  Lowrie's title: THE CONCEPT OF DREAD.
+                                   |
+  OBJECT ............ NONE.  'THE OBJECT OF ANXIETY IS A NOTHING.'
+  WHAT APPEARS ...... POSSIBILITY - 'the possibility of being able'
+  FORMULA ........... 'ANXIETY IS THE DIZZINESS OF FREEDOM'
+  AMBIVALENCE ....... 'a SYMPATHETIC ANTIPATHY and an ANTIPATHETIC SYMPATHY'
+                      - we are DRAWN to what we SHRINK from
+  CANONICAL EXAMPLE . the man at the edge of an abyss grows dizzy - but
+                      'THE DIZZINESS IS AS MUCH IN THE EYE AS IN THE ABYSS'.
+                      The vertigo is not produced by the drop but by the
+                      disclosure that NOTHING PREVENTS HIM
+  IN INNOCENCE ...... there is NO knowledge of good and evil, yet anxiety is
+                      ALREADY there, because freedom's possibility is already
+                      sensed
+  ROLE .............. anxiety is the PRESUPPOSITION of the LEAP by which sin
+                      - and selfhood - enters.  NOT its CAUSE: a caused leap
+                      would not be a leap
+                                   |
+  TRAP: defining anxiety as INTENSE FEAR.  The difference is IN KIND, not
+  degree - fear has a DETERMINATE OBJECT, anxiety has NONE (Panel 33).
+
+
+ASCII MASTER FLOW - PANEL 12/53: KIERKEGAARD - DESPAIR AS A MISRELATION IN THE SELF
+------------------------------------------------------------------------------
+  SOURCE  THE SICKNESS UNTO DEATH, 1849, by ANTI-CLIMACUS - a Christian at an
+          EXTRAORDINARILY HIGH level, ABOVE Kierkegaard himself, and the
+          deliberate MIRROR IMAGE of Climacus, who says he is NOT a Christian
+                                   |
+  THE DEFINITION
+    THE SELF IS NOT A THING.  It is A RELATION THAT RELATES ITSELF TO ITSELF
+    - and, in relating to itself, RELATES TO THE POWER THAT ESTABLISHED IT.
+    DESPAIR = A MISRELATION IN THAT RELATION.
+    NOT an emotion.  NOT sadness.  A STRUCTURAL FAULT THAT MAY BE ENTIRELY
+    UNFELT - which is the most examinable feature of the doctrine, because it
+    is what allows the claim that despair is universal to be STRUCTURAL
+    rather than an empirical exaggeration.
+                                   |
+  TWO FORMS
+    FORM 1  NOT WILLING TO BE ONESELF - fleeing the self one is; wanting to
+            be someone else, or no one
+    FORM 2  DEFIANTLY WILLING TO BE ONESELF - insisting on being oneself
+            WITHOUT the grounding God-relation.  THE DEEPER FORM, precisely
+            because it looks like STRENGTH
+                                   |
+  THE FENCE THAT MUST BE STATED
+    KIERKEGAARDIAN DESPAIR (theological: a misrelation before God)
+        IS NOT
+    SARTREAN DESPAIR (desespoir, 1946 lecture: acting without relying on
+        outcomes beyond one's control and reasonable probabilities)
+    SAME ENGLISH WORD.  TWO UNRELATED DOCTRINES.
+
+
+ASCII MASTER FLOW - PANEL 13/53: KIERKEGAARD - INDIRECT COMMUNICATION IN SIX STEPS
+------------------------------------------------------------------------------
+  CORE STATUS: promoted OUT of optional-enrichment status on 15 AUGUST 2026.
+  Marks-essential for any question on subjectivity or the critique of Hegel.
+                                   |
+  1  OBJECTIVE TRUTH - historical, scientific, metaphysical - can be
+     transmitted DIRECTLY.  I state a result, you receive it, and NOTHING
+     ABOUT YOUR EXISTENCE NEED CHANGE.
+                                   |
+  2  ETHICAL AND RELIGIOUS TRUTH is not a result but A MODE OF EXISTING, an
+     APPROPRIATION IN INWARDNESS (Climacus, Postscript 1846).
+                                   |
+  3  IF such truth were communicated DIRECTLY, the recipient would take it
+     over AS A RESULT - as information, as doctrine, as something one can
+     KNOW WITHOUT BECOMING.  THE COMMUNICATION WOULD THEREBY FALSIFY EXACTLY
+     WHAT IT COMMUNICATES.   <-- THE LOAD-BEARING STEP
+                                   |
+  4  THEREFORE ethical-religious truth requires INDIRECT COMMUNICATION
+     (indirekte Meddelelse): a form that WITHHOLDS THE RESULT, REFUSES TO BE
+     AN AUTHORITY, and forces the reader to relate to the possibility FOR
+     HIMSELF.
+                                   |
+  5  THE MODEL IS SOCRATIC MAIEUTICS - the midwife who brings to birth what
+     the other must produce, and who, in Kierkegaard's phrase, 'DECEIVES INTO
+     THE TRUTH'.  The author must become a VANISHING OCCASION, not a teacher
+     with a doctrine.  The 'deception' is FORMAL, not moral: the reader is
+     denied a result FOR HIS OWN SAKE.
+                                   |
+  6  THEREFORE PSEUDONYMITY.  The pseudonyms are NOT disguises for a shy
+     author but PERSONIFIED EXISTENCE-POSSIBILITIES, each writing from INSIDE
+     a sphere of existence it CANNOT SEE BEYOND.
+
+
+ASCII MASTER FLOW - PANEL 14/53: KIERKEGAARD - PSEUDONYMS AND THE DOUBLE AUTHORSHIP
+------------------------------------------------------------------------------
+  PSEUDONYM               WORK (YEAR)          STANDPOINT WRITTEN FROM
+  ---------------------------------------------------------------------------
+  VICTOR EREMITA (ed.)    Either/Or 1843       prints aesthetic 'A' and
+                                               ethical Judge William SIDE BY
+                                               SIDE WITHOUT DECIDING - the
+                                               reader must choose
+  JOHANNES DE SILENTIO    Fear and Trembling   one who ADMIRES faith but
+                          1843                 DOES NOT HAVE IT; hence the
+                                               'silence'
+  CONSTANTIN CONSTANTIUS  Repetition 1843      the aesthetic-experimental
+                                               observer
+  VIGILIUS HAUFNIENSIS    The Concept of       psychological observer of
+                          Anxiety 1844         anxiety, deliberately NOT a
+                                               dogmatician
+  JOHANNES CLIMACUS       Philosophical        a HUMORIST who is explicitly
+                          Fragments 1844;      NOT A CHRISTIAN - which is
+                          Postscript 1846      why he can pose the problem
+                                               of BECOMING one
+  ANTI-CLIMACUS           The Sickness unto    a Christian at an
+                          Death 1849;          EXTRAORDINARILY HIGH level -
+                          Practice in          ABOVE Kierkegaard himself;
+                          Christianity 1850    Climacus's mirror image
+  ---------------------------------------------------------------------------
+ASCII MASTER FLOW - PANEL 15/53: KIERKEGAARD - THE DOUBLE AUTHORSHIP AND THE DECLARATION
+------------------------------------------------------------------------------
+  THE DOUBLE AUTHORSHIP
+    SIMULTANEOUSLY, AND UNDER HIS OWN NAME, Kierkegaard published the
+    UPBUILDING / EDIFYING DISCOURSES.  The signed religious writings stand
+    BESIDE the pseudonymous works as the DIRECT POLE of a SINGLE STRATEGY.
+    Saying this shows pseudonymity is a METHOD, not an evasion.
+                                   |
+  THE PRINTED INSTRUCTION
+    'FIRST AND LAST DECLARATION', appended to the POSTSCRIPT (1846).  He
+    ACKNOWLEDGES authorship while insisting he is only the 'AUTHOR'S AUTHOR',
+    a PROMPTER (souffleur) who produced CHARACTERS, and ASKS THAT ANYONE
+    CITING THEM QUOTE THE PSEUDONYM'S NAME, NOT HIS.
+                                   |
+  OBJECTIONS AND REPLIES
+    (a) UNATTRIBUTABILITY - the method insulates him from criticism.
+        REPLY: the signed discourses are the direct pole, and THE POINT OF
+        VIEW (WRITTEN 1848, PUBLISHED POSTHUMOUSLY 1859) gives an explicit
+        account.  RESIDUE: that text is a RETROSPECTIVE self-interpretation
+        and is DISPUTED as evidence.
+    (b) SELF-UNDERMINING - if subjective truth cannot be said directly, the
+        THESIS cannot be said directly either.
+        REPLY: CLIMACUS CONCEDES THIS - the POSTSCRIPT ENDS BY REVOKING
+        ITSELF.  Cross-link in ONE CLAUSE to Tractatus 6.54 (Topic 06) and
+        Hegel's Unhappy Consciousness (Topic 05).  Do NOT expound either.
+    (c) HEGELIAN SUBLATION - the existing individual is an unreflective stage.
+        COUNTER: no system can contain the one who BUILDS it.
+  EXECUTABLE VERDICT: the method's COST is that it is SELF-CONSUMING; its
+  POWER is that the cost is INTENDED.
+
+
+ASCII MASTER FLOW - PANEL 16/53: SARTRE - 'EXISTENCE PRECEDES ESSENCE': THE ARGUMENT
+------------------------------------------------------------------------------
+  SOURCE  EXISTENTIALISM IS A HUMANISM - lecture OCTOBER 1945, PUBLISHED
+          1946.  NOT Being and Nothingness (1943).  Sartre later REGRETTED
+          publishing it.
+                                   |
+  P1  For a MANUFACTURED object, the artisan conceives the DESIGN
+      (essence/function) and THEN produces it.  ESSENCE PRECEDES EXISTENCE.
+      SARTRE'S EXAMPLE: the PAPER-KNIFE (coupe-papier).
+  P2  Theism treats MAN analogously: God conceives 'human nature' and creates
+      individuals to that blueprint.
+  P3  THERE IS NO GOD.
+      ATHEISM IS A PREMISE OF SARTRE'S ARGUMENT, NOT A CONCLUSION FROM IT.
+  --------------------------------------------------------------------------
+  C   There is NO prior design.  'MAN FIRST OF ALL EXISTS, ENCOUNTERS
+      HIMSELF, SURGES UP IN THE WORLD - AND DEFINES HIMSELF AFTERWARDS.'
+      EXISTENCE PRECEDES ESSENCE.
+                                   |
+  WHAT FOLLOWS
+    No predetermined blueprint EXHAUSTS human reality; the for-itself must
+    TAKE UP a project; RESPONSIBILITY is radical.
+  WHAT MUST BE QUALIFIED
+    Biology, history and society form FACTICITY and CONSTRAINT.  'Man is
+    nothing else but what he makes of himself' is the 1946 LECTURE's formula
+    and must be BALANCED BY SITUATION.  The slogan denies a PRIOR ESSENCE; it
+    does NOT deny that circumstances limit what can be done.
+  OBJECTION: if there are NO a priori values, on what basis do I choose?
+    DECISIONISM (Iris Murdoch, The Sovereignty of Good; Marxist critics).
+    REPLY: the ENGAGEMENT of choice generates its own criteria.  CRITICS FIND
+    THIS CIRCULAR.  VERDICT: the doctrine foregrounds PROJECT and
+    RESPONSIBILITY but leaves VALUE-CRITERIA and SITUATED CONSTRAINT
+    UNDERDEVELOPED.
+  PYQ ANCHOR: 2024 Q4(a) 20m; opening of 2020 Q4(a) 20m.
+
+
+ASCII MASTER FLOW - PANEL 17/53: THE SLOGAN'S OTHER TWO OWNERS - REPUDIATION AND ABSENCE
+------------------------------------------------------------------------------
+  HEIDEGGER REPUDIATES IT
+    'LETTER ON HUMANISM', written 1946, PUBLISHED 1947.
+    * 'THE ESSENCE OF DASEIN LIES IN ITS EXISTENCE' (BEING AND TIME,
+      SECTION 9) does NOT mean 'existence precedes essence' in Sartre's
+      voluntarist sense.  It is an ONTOLOGICAL claim: Dasein's 'what'
+      (essence) is not a fixed QUIDDITAS but its very MANNER OF BEING - its
+      being-open-to-Being, its EXISTENZ, its standing-out into the clearing
+      of Being.
+    * SARTRE MERELY REVERSES the essence/existence priority WHILE KEEPING
+      the humanistic framework, with man at the centre.  He therefore
+      remains inside the METAPHYSICS OF SUBJECTIVITY.
+    * The question is not man's SELF-CREATION but BEING.  Man is the
+      'SHEPHERD OF BEING', not the LORD OF BEINGS.
+                                   |
+  KIERKEGAARD NEVER WROTE IT
+    He died in 1855 and could not accept its PREMISE: the God-relation is
+    what makes the single individual possible at all.  His refusal of an
+    antecedent essence takes an entirely different form - the EXISTING
+    INDIVIDUAL who cannot be completed inside a system.
+                                   |
+  WHAT THE THREE ACTUALLY SHARE - THE CORE OF ANY 2024 Q4(a) ANSWER
+    ALL THREE DENY that a general essence settles in advance what it is for
+    THIS individual to exist.  HOW they deny it differs:
+      SARTRE       by REMOVING THE DESIGNER
+      HEIDEGGER    by RECONCEIVING WHAT 'ESSENCE' MEANS for the entity whose
+                   being is at issue
+      KIERKEGAARD  by insisting that EXISTING IS A TASK, not a classification
+  TRAP: 2024 Q4(a) asks what 'the existentialist THINKERS' mean by the
+  slogan.  CORRECT THE ATTRIBUTION WHILE ANSWERING - do not merely complain
+  about the premise.
+
+
+ASCII MASTER FLOW - PANEL 18/53: SARTRE - BEING-IN-ITSELF AND BEING-FOR-ITSELF
+------------------------------------------------------------------------------
+                     EN-SOI                     POUR-SOI
+                     (being-in-itself)          (being-for-itself)
+  ---------------------------------------------------------------------------
+  NATURE             full, solid, SELF-         NIHILATING, self-surpassing,
+                     IDENTICAL, opaque          NEVER self-identical
+  ---------------------------------------------------------------------------
+  FORMULA            'IT IS WHAT IT IS'         'IT IS WHAT IT IS NOT AND IS
+                                                NOT WHAT IT IS'
+  ---------------------------------------------------------------------------
+  EXAMPLES           a stone, a table - they    consciousness - always BEYOND
+                     simply ARE                 itself, intending what it is
+                                                not, negating what it is
+  ---------------------------------------------------------------------------
+  FREEDOM            NONE - determined,         structurally INESCAPABLE yet
+                     complete                   SITUATED and FACTICAL
+  ---------------------------------------------------------------------------
+  TEMPORALITY        not defined by projective  ECSTATIC - related to past
+                     temporal transcendence     facticity and future project
+  ---------------------------------------------------------------------------
+  CONTINGENCY /      groundless, brute -        DESIRES to BECOME en-soi
+  RELATION           'DE TROP', in excess.      while remaining conscious -
+                     This is the ontological    which is IMPOSSIBLE
+                     root of NAUSEA
+  ---------------------------------------------------------------------------
+  THE DISTINCTION IS ONTOLOGICAL, NOT A MIND-MATTER DUALISM.
+    EN-SOI IS NOT 'MATTER'.  POUR-SOI IS NOT 'MIND'.  A mental state
+    considered as a COMPLETED FACT would be en-soi.  This correction belongs
+    in the FIRST THREE LINES of any answer on the pair.
+  PYQ ANCHOR: 2025 Q1(c) 10m.
+
+
+ASCII MASTER FLOW - PANEL 19/53: SARTRE - NIHILATION AND THE IMPOSSIBLE SYNTHESIS
+------------------------------------------------------------------------------
+  'CONSCIOUSNESS IS WHAT IT IS NOT AND IS NOT WHAT IT IS' - UNPACK BOTH HALVES
+    'IS WHAT IT IS NOT'    consciousness is always AHEAD OF ITSELF,
+                           projecting toward possibilities it does not yet
+                           possess.  It IS (is defined by) its FUTURE -
+                           WHICH DOES NOT YET EXIST.
+    'IS NOT WHAT IT IS'    consciousness can NEVER COINCIDE with its PAST or
+                           its FACTICITY.  THE WAITER is a waiter
+                           (facticity) and simultaneously IS NOT a waiter
+                           (he transcends the role, is free to quit).
+                                   |
+  HOW IS THIS POSSIBLE?  NIHILATION (neantisation)
+    Consciousness introduces NOTHINGNESS (neant) into being: it STANDS BACK
+    from what is and NEGATES it - QUESTIONS it, IMAGINES alternatives,
+    PROJECTS beyond it.  Those three are the concrete faces of nihilation.
+    THE POUR-SOI IS 'THE BEING BY WHICH NOTHINGNESS COMES INTO THE WORLD'.
+                                   |
+  THE IMPOSSIBLE SYNTHESIS
+    The pour-soi PERPETUALLY DESIRES to become en-soi - full self-identity
+    WHILE REMAINING CONSCIOUS.  That would be a POUR-SOI-EN-SOI = GOD, and it
+    is a CONTRADICTION.  Human reality is defined by this impossible desire:
+    hence 'MAN IS A USELESS PASSION'.
+                                   |
+  WHAT THE SINGLE STRUCTURE GENERATES
+    FREEDOM ............. nothing in me is fixed enough to determine me
+    BAD FAITH ........... the attempt to be self-identical ANYWAY
+    TEMPORALITY ......... the for-itself exists as past-facticity and
+                          future-project
+    BEING-FOR-OTHERS .... the Look confers an outside I cannot occupy
+    THE DESIRE TO BE GOD  the contradictory ideal above
+  OBJECTION: is NON-SELF-IDENTITY coherent, or a contradiction dressed in
+  phenomenological language?  REPLY: the for-itself has NO COMPLETED NATURE
+  with which to be identical - it exists as a RELATION TO ITS OWN
+  POSSIBILITIES.  CONTESTED.
+  PYQ ANCHOR: 2023 Q3(c) 15m.
+
+
+ASCII MASTER FLOW - PANEL 20/53: SARTRE - FREEDOM, NON-CHOICE AND UNIVERSALISABILITY
+------------------------------------------------------------------------------
+  THE STRUCTURAL THESIS
+    Freedom is NOT a property we possess; IT IS WHAT WE ARE.  The pour-soi IS
+    the nihilating, self-transcending movement that continually surpasses
+    what it is toward what it is NOT YET.
+    'MAN IS CONDEMNED TO BE FREE' (lecture 1945, published 1946): we did not
+    choose to exist, yet cannot escape TAKING UP A STANCE within situations.
+    ATTRIBUTION CARE: 'THROWN' (Geworfenheit) IS HEIDEGGER'S TERM and should
+    not be silently made Sartre's own.
+                                   |
+  NON-CHOICE IS CHOICE
+    'I CAN ALWAYS CHOOSE, BUT I OUGHT TO KNOW THAT IF I DO NOT CHOOSE, I AM
+    STILL CHOOSING.'
+    Inaction, deferral and conformity are CHOICES; the attempt to escape
+    choice is ALREADY a choice, and TYPICALLY A CHOICE OF BAD FAITH.
+    Because the outcome of a non-choice is PRODUCED BY that non-choice,
+    responsibility is NOT diminished by passivity.
+                                   |
+  CHOICE LEGISLATES
+    'IN CHOOSING MYSELF, I CHOOSE MAN.'  Every choice implies an IMAGE OF
+    WHAT HUMAN BEINGS OUGHT TO BE.  QUASI-KANTIAN UNIVERSALISABILITY.  If I
+    choose to marry, I affirm that monogamy is valuable FOR EVERYONE; I
+    cannot choose 'just for me' in moral isolation.
+    THIS IS WHERE THE WEIGHT OF RESPONSIBILITY, AND THE ANGUISH, COME FROM.
+    INTERNAL TENSION: whence universalisability if there are NO a priori
+    values?  REPLY: the FORM of universalisability is inherent in the
+    STRUCTURE of free choice, not imported from a pre-existing ethics.
+    Kantians and communitarians press the point; Sartre CONCEDES TENSION, and
+    the posthumous NOTEBOOKS FOR AN ETHICS was NEVER COMPLETED.
+  PYQ ANCHOR: 2021 Q4(b) 15m; second half of 2024 Q4(a).
+
+
+ASCII MASTER FLOW - PANEL 21/53: SARTRE - THE THREE MOODS OF THE 1945 LECTURE
+------------------------------------------------------------------------------
+  MOOD              SOURCE                      STRUCTURE
+  ---------------------------------------------------------------------------
+  ANGUISH           I recognise that I AM FREE  NOT fear OF an object but
+  (angoisse)        - my future is radically    VERTIGO BEFORE MY OWN
+                    undetermined; nothing       FREEDOM: 'I am not sustained
+                    compels me; I stand before  by anything, nothing
+                    the abyss of possibility    justifies me'
+  ---------------------------------------------------------------------------
+  ABANDONMENT       There is NO God, NO cosmic  I must INVENT values through
+  (delaissement)    moral order, NO a priori    my choosing; I cannot lean
+                    values written in an        on a pre-given ethical
+                    'intelligible heaven'       framework
+  ---------------------------------------------------------------------------
+  DESPAIR           I should not rely on        SARTRE'S LECTURE-TERM.  IT
+  (desespoir)       outcomes beyond my action   DIFFERS ENTIRELY FROM
+                    and reasonable              KIERKEGAARD'S THEOLOGICAL
+                    probabilities               DESPAIR (Panel 12)
+  ---------------------------------------------------------------------------
+  TWO BOUNDARIES THAT MUST BE STATED OR THE ANSWER IS WRONG
+    1  FREEDOM IS SITUATED.  Facticity - body, past, class, place - limits
+       practical possibilities.  Early Sartre calls freedom 'ABSOLUTE' in the
+       STRUCTURAL sense that the for-itself CANNOT BECOME A COMPLETED THING.
+       THAT IS NOT OMNIPOTENCE.  'I cannot fly, but I am free to interpret my
+       inability and to project alternatives.'
+    2  'THERE ARE NO EXCUSES' means RESPONSIBILITY FOR TAKING UP motives and
+       situations.  It must NOT become the claim that trauma, illness,
+       coercion or affect can be DISMISSED AT WILL.
+
+
+ASCII MASTER FLOW - PANEL 22/53: SARTRE - FACTICITY, TRANSCENDENCE AND BAD FAITH
+------------------------------------------------------------------------------
+  THE STRUCTURE
+    Human reality has TWO DIMENSIONS AT ONCE:
+      FACTICITY (facticite) - the GIVEN: body, past, social position,
+        situation
+      TRANSCENDENCE - the SELF-SURPASSING: freedom to NEGATE my facticity, to
+        project myself beyond what I presently am
+    BAD FAITH (mauvaise foi) occurs when I identify EXCLUSIVELY WITH ONE
+    DIMENSION AT THE EXPENSE OF THE OTHER.
+    IT IS THE COLLAPSE OF THE TENSION - NOT 'LYING TO ONESELF' IN GENERAL.
+                                   |
+  THE TWO CANONICAL EXAMPLES
+    THE WAITER
+      He performs the role with exaggerated, THING-LIKE precision.
+      READ IT CAREFULLY: Sartre reads this as DENIAL THAT A SOCIAL ROLE
+      EXHAUSTS THE FOR-ITSELF.  ROLE-PERFORMANCE ALONE IS NOT AUTOMATICALLY
+      BAD FAITH.  The bad faith lies in the CLAIM TO BE the role IN THE MODE
+      OF THE IN-ITSELF, not in doing the job well.
+    THE WOMAN ON THE DATE - A DOUBLE LIE
+      A man takes her hand; she leaves it there, 'not noticing', treating the
+      hand as a mere physical thing.
+      (i)  She denies her TRANSCENDENCE - her freedom to accept or reject the
+           advance - by reducing herself to pure FACTICITY, a body-object.
+      (ii) She simultaneously denies the FACTICITY of the gesture - its
+           sexual meaning - by treating it as purely neutral.
+      TWO DENIALS, IN OPPOSITE DIRECTIONS, IN ONE ACT.
+                                   |
+  EVERYDAY SOCIAL FORM: THE 'SERIOUS SPIRIT' - treating values as though they
+  were PROPERTIES OF THE WORLD rather than products of commitment.
+  BAD FAITH IS A PERMANENT TEMPTATION, NOT A RARE PATHOLOGY, because the
+  tension it flees is CONSTITUTIVE.
+
+
+ASCII MASTER FLOW - PANEL 23/53: SARTRE - THE PARADOX OF SELF-DECEPTION AND ITS SOLUTION
+------------------------------------------------------------------------------
+  THE PARADOX
+    To deceive MYSELF I must SIMULTANEOUSLY
+      KNOW the truth ......... in order to CONCEAL it
+      NOT KNOW it ............ in order to BE DECEIVED
+    SARTRE REJECTS THE FREUDIAN UNCONSCIOUS, so he CANNOT split the person
+    into a DECEIVING CENSOR and a DECEIVED SUBJECT.
+                                   |
+  SARTRE'S SOLUTION
+    CONSCIOUSNESS IS NON-SELF-IDENTICAL - the pour-soi 'is what it is not and
+    is not what it is' (Panel 18) - so it can hold TRUTH and DENIAL in a
+    SINGLE PRE-REFLECTIVE STANCE: I am aware NON-THETICALLY without
+    reflectively AVOWING.  NO SECOND PERSON INSIDE THE PERSON IS REQUIRED.
+                                   |
+  STATUS
+    CONTESTED.  Fingarette (SELF-DECEPTION) and analytic philosophy of mind
+    press whether a non-thetic awareness can do the work.  STATE THE
+    OBJECTION AND RULE ON IT; do not present the solution as settled.
+  TRAP: 'solving' the paradox by invoking the unconscious CONTRADICTS the
+  position being expounded, and removes the reason Sartre needs the
+  non-self-identity thesis in the first place.
+
+
+ASCII MASTER FLOW - PANEL 24/53: SARTRE - THE 2018 CHAIN: BAD FAITH TO ALIENATION
+------------------------------------------------------------------------------
+  BAD FAITH ....... THE PROJECT.  Treating oneself as ONLY facticity or ONLY
+                    transcendence in order to FLEE RESPONSIBILITY.
+        |
+        v
+  INAUTHENTICITY .. THE RESULTING MODE.  Consciousness DENIES ITS OWN
+                    UNSTABLE FREEDOM and adopts a settled self-description it
+                    cannot honestly hold.
+        |
+        v
+  ALIENATION ...... THE COST.  The self lives THROUGH fixed social roles, or
+                    through the OBJECTIFYING LOOK of others, and so relates
+                    to itself AS TO A THING.  What was MINE TO ANSWER FOR
+                    becomes something I MERELY AM.
+  ---------------------------------------------------------------------------
+  THE THREE ARE NOT SYNONYMS: PROJECT -> MODE -> COST.
+  2018 Q1(d) IS PRECISELY ABOUT THE CHAIN.
+  WHAT SARTRE DOES NOT SUPPLY: Being and Nothingness gives a powerful
+  CRITIQUE of bad faith but NO DEVELOPED POSITIVE DOCTRINE OF AUTHENTICITY;
+  the promised ethics was never completed.  This is the correct CLOSING
+  QUALIFICATION for any bad-faith answer, and the honest reason Sartrean
+  'authenticity' cannot be compared straightforwardly with Heidegger's
+  EIGENTLICHKEIT.
+  EXTERNAL OBJECTION: radical freedom UNDER-DESCRIBES gendered, racialised
+  and material constraint - DE BEAUVOIR, FANON, feminist and postcolonial
+  criticism.  REPLY: situated freedom appropriates facticity without being
+  reducible to it; later Sartre broadens social mediation - BUT THE EARLY
+  VOCABULARY REMAINS ABSTRACT.  CONCEDE THE RESIDUE.
+
+
+ASCII MASTER FLOW - PANEL 25/53: SARTRE - FREEDOM AND DETERMINISM, AND THE 2020 SENTENCE
+------------------------------------------------------------------------------
+  THE KEY ARGUMENT (Being and Nothingness, 1943)
+    1  A MOTIVE - a desire, an emotion, a situation - can become a REASON FOR
+       ACTION only through the MEANING I confer on it.
+    2  Meaning-conferral is itself an ACT of the pour-soi - nihilation,
+       transcendence, projection.
+    3  THEREFORE no motive determines me UNLESS I FREELY CONSTITUTE IT AS A
+       MOTIVE.  Remove the project and the same desire motivates nothing.
+    4  THEREFORE determinism MISDESCRIBES the for-itself: it treats a
+       nihilating being as an EN-SOI, a thing among causes.  THE 'PROBLEM' OF
+       FREEDOM AND DETERMINISM IS A FALSE PROBLEM.
+                                   |
+  THE 2020 SENTENCE, WORD BY WORD
+    'YOU CAN ALWAYS MAKE SOMETHING OUT OF WHAT YOU HAVE BEEN MADE INTO.'
+    'WHAT YOU HAVE BEEN MADE INTO' = FACTICITY.  SARTRE CONCEDES THE MAKING:
+      class, body, upbringing, history, the gaze of others.  THE SENTENCE
+      BEGINS BY GRANTING THE DETERMINIST HIS DATA.
+    'YOU CAN ALWAYS MAKE SOMETHING OUT OF' = TRANSCENDENCE.  The for-itself
+      must still TAKE UP that facticity in a project.
+    'ALWAYS' = THE STRUCTURAL CLAIM.  There is NO SITUATION IN WHICH THE
+      FOR-ITSELF BECOMES A THING.  NOT a promise that every outcome is
+      available.
+                                   |
+  THE CRITICISM THAT LANDED, AND THE EVIDENCE THAT IT LANDED
+    OBJECTION  slavery, torture, mental illness and structural oppression
+      limit not only ACTION but the COGNITIVE RANGE of alternatives
+      (Merleau-Ponty, ADVENTURES OF THE DIALECTIC; Marxist critics;
+      de Beauvoir; Fanon).
+    FIRST REPLY  distinguish FREEDOM-OF-CONSCIOUSNESS (I can always
+      interpret) from FREEDOM-OF-ACTION (limited by situation).  BUT THIS
+      WEAKENS THE RADICAL THESIS.
+    DECISIVE EVIDENCE  in the CRITIQUE OF DIALECTICAL REASON (1960) SARTRE
+      HIMSELF integrates SCARCITY, SERIALITY and the PRACTICO-INERT, and
+      introduces the GROUP-IN-FUSION.  USE IT AS A CONCESSION, NEVER AS THE
+      DOCTRINE OF 1943.
+  PYQ ANCHORS: 2019 Q4(c) 15m; 2020 Q4(a) 20m.
+
+
+ASCII MASTER FLOW - PANEL 26/53: SARTRE - THE LOOK AND BEING-FOR-OTHERS: SEVEN STEPS
+------------------------------------------------------------------------------
+  BOUNDED RELEVANCE: necessary for ALIENATION, BAD FAITH and INTERSUBJECTIVITY
+  questions, but it must NOT DISPLACE the printed freedom/choice spine.  ONE
+  DEVELOPMENT, NEVER A SECTION.
+  EXACT PRINTED SUBTERMS: le regard (the Look) - l'etre-pour-autrui (being-
+  for-others) - la honte (shame) - le corps-pour-autrui (the body-for-others)
+  - 'objet-autrui' / 'sujet-autrui' - 'la chute originelle' (the original
+  fall) - CONFLIT as 'the original meaning of being-for-others'.
+                                   |
+  THE KEYHOLE - TWO STAGES, LEARN BOTH
+    1 ABSORBED  Out of jealousy or curiosity I am bent at a keyhole, looking
+      through.  I am WHOLLY ABSORBED: there is NO EGO in my consciousness,
+      only the scene and my project.  Consciousness is PRE-REFLECTIVE, non-
+      positional about itself.  THERE IS NO SELF TO BE ASHAMED.
+    2 CAUGHT  Footsteps in the hall.  I AM SEEN.  Instantly my whole being is
+      transformed: I am no longer pure surveying transcendence but A PEEPING
+      TOM, an object with a nature, seen from outside, judged.
+                                   |
+  THE ARGUMENT
+    1 In being looked at I experience SHAME - and shame is not a private
+      feeling I might have alone; by its structure it is SHAME OF MYSELF
+      BEFORE SOMEONE.
+    2 'SHAME IS BY NATURE RECOGNITION': in being ashamed I RECOGNISE that I
+      am as the Other sees me.  I do not INFER the Other; I LIVE his presence
+      as the condition of my own new mode of being.
+    3 The Other is NOT reached by explicit inference.  Sartre contrasts the
+      Look with Husserlian APPRESENTATION and Heideggerian BEING-WITH -
+      though neither rival is fairly reduced to an argument from analogy or
+      to neutral co-existence.  THE OTHER IS GIVEN AS THE SUBJECT FOR WHOM I
+      AM AN OBJECT.
+    4 THEREFORE 'THE OTHER IS THE INDISPENSABLE MEDIATOR BETWEEN MYSELF AND
+      ME': I acquire an OUTSIDE, a 'nature', a being I AM without having
+      chosen it and without being able to know it from within - my
+      BEING-FOR-OTHERS.
+    5 The Look reveals a dimension of FACTICITY: the meanings of my acts and
+      my body are constituted from a perspective I CANNOT CONTROL.  This is
+      ONE limit on mastery, not the only constraint Sartre recognises.
+ASCII MASTER FLOW - PANEL 27/53: SARTRE - THE LOOK: THE FOUR PRESUPPOSITIONS
+------------------------------------------------------------------------------
+  PRESUPPOSITIONS
+    P1 shame is IRREDUCIBLY RELATIONAL and cannot be analysed away as self-
+       assessment
+    P2 pre-reflective consciousness is EGOLESS, so the ego that appears under
+       the Look is genuinely CONFERRED
+    P3 SUBJECT AND OBJECT ARE EXCLUSIVE - I cannot be looked-at and looking
+       in the same act, which is what makes RECIPROCITY IMPOSSIBLE
+    P4 there is NO THIRD TERM - no 'we-subject' of the kind Marxists posit -
+       that could stabilise the relation.  Sartre DISCUSSES AND REJECTS it in
+       Part III
+
+
+ASCII MASTER FLOW - PANEL 28/53: SARTRE - CONFLICT AND THE FOUR ACCOUNTS
+------------------------------------------------------------------------------
+  6 THE DIALECTIC OF CONCRETE RELATIONS (Being and Nothingness, Part III,
+    ch. 3).  Objectified by the Other's freedom, I can respond in only TWO
+    directions - AND BOTH FAIL.
+    ---------------------------------------------------------------------
+    (a) ASSIMILATE the Other's freedom - possess the freedom that judges me
+        WHILE IT REMAINS FREE
+        FORMS: LOVE, LANGUAGE, MASOCHISM
+        WHY IT FAILS: love wants to be loved FREELY - but TO BE LOVED IS TO
+        BE MADE AN OBJECT, so the very freedom sought is DESTROYED IN THE
+        POSSESSING.  Masochism collapses because I cannot succeed in being
+        PURE OBJECT while REMAINING CONSCIOUS.
+    ---------------------------------------------------------------------
+    (b) TRANSCEND the Other's freedom - reduce him to an object so his look
+        cannot fix me
+        FORMS: INDIFFERENCE, DESIRE, SADISM, HATE
+        WHY IT FAILS: AN OBJECT CANNOT CONFER THE RECOGNITION I WANTED; the
+        moment he looks back, the whole structure REVERSES.  Hate wants the
+        Other's DISAPPEARANCE - which would leave my BEING-FOR-OTHERS INTACT.
+    ---------------------------------------------------------------------
+  7 THEREFORE 'CONFLICT IS THE ORIGINAL MEANING OF BEING-FOR-OTHERS.'
+    The line of HUIS CLOS (NO EXIT, 1944) - 'L'ENFER, C'EST LES AUTRES' -
+    follows from this.
+    QUOTE IT, THEN CORRECT THE POPULAR MISREADING.  Sartre explained, in a
+    1965 RECORDED PREFACE to the play, that the line does NOT mean relations
+    with others are always poisonous; it means that IF one's relations are
+    twisted, the Other's judgement becomes the medium of one's own self-
+    torment - AND THAT THE THREE CHARACTERS ARE DEAD, i.e. FIXED, unable to
+    change their acts.  MAKING THIS CORRECTION IS A HIGH-VALUE MOVE.
+                                   |
+ASCII MASTER FLOW - PANEL 29/53: SARTRE - THE FOUR ACCOUNTS OF THE OTHER, AND OBJECTIONS
+------------------------------------------------------------------------------
+  THE FOUR ACCOUNTS OF THE OTHER - A TABLE WORTH MEMORISING
+    HUSSERL   passive PAIRING and APPRESENTATION, not a discursive analogy-
+              inference.  The Other is NON-ORIGINALLY GIVEN; ownness-first
+              circularity remains
+    HEIDEGGER Dasein is ALWAYS ALREADY BEING-WITH (Mitsein).  Social
+              existence is CONSTITUTIVE, though Sartre presses for the
+              conflictual concrete encounter
+    SARTRE    the LOOK - the Other is revealed in the SHAME of being
+              objectified.  CONFLICT; recognition STRUCTURALLY UNATTAINABLE
+    LEVINAS   the FACE (visage) of the Other, which COMMANDS before it is
+              known.  ETHICAL ASYMMETRY - RESPONSIBILITY PRECEDES FREEDOM;
+              explicitly a reply to BOTH Husserl and Sartre
+                                   |
+  STRONGEST OBJECTIONS
+    (i)   Sartre GENERALISES FROM PATHOLOGICAL encounters (peeping Tom,
+          sadism, seduction).  REPLY: the claim is ONTOLOGICAL, not
+          statistical.  RESIDUE: strong objection; Sartre's own move to the
+          GROUP-IN-FUSION in the Critique (1960) is the best evidence it
+          landed.
+    (ii)  LOVE, TRUST and BEING-CARED-FOR are equally basic and are not
+          objectifications.  REPLY: Sartre analyses love and finds an
+          internal contradiction - compelling ONLY IF P3 IS ACCEPTED.
+    (iii) LEVINAS: to encounter the Other only as a RIVAL FREEDOM is still to
+          think him FROM THE SELF.  SARTRE HAS NO REPLY WITHIN BEING AND
+          NOTHINGNESS.  THE STRONGEST SINGLE LINE OF CRITICISM.
+  EXECUTABLE VERDICT: the Look gives a powerful NON-INFERENTIAL account of
+  being exposed to another perspective, but Sartre may GENERALISE CONFLICT
+  from selective examples.  Later solidarity, feminist and postcolonial
+  accounts TEST rather than simply repeat the subject/object model.
+
+
+ASCII MASTER FLOW - PANEL 30/53: HEIDEGGER - THE BEING-QUESTION AND DASEIN
+------------------------------------------------------------------------------
+  THE PROJECT: FUNDAMENTAL ONTOLOGY.  BEING AND TIME (Sein und Zeit), 1927.
+    The question is THE MEANING OF BEING.  NOT an existentialist psychology.
+    NOT a general ethics of authenticity.
+    PUBLISHED UNFINISHED: only Divisions One and Two of PART ONE appeared;
+    DIVISION III ('Time and Being') and the whole of PART TWO were NEVER
+    PUBLISHED.  NEVER write that Heidegger 'completes' his analysis of Being.
+    Later: THE TURN (Kehre) toward the history of Being, language and art.
+    Whether that is FAILURE or DEEPENING is DEBATED.
+                                   |
+  THE ONTOLOGICAL DIFFERENCE
+    BEING (Sein) ...... the INTELLIGIBILITY in virtue of which entities show
+                        up AS entities
+    BEINGS (Seiende) .. the entities themselves
+    BEING IS NOT ONE SUPREME ENTITY.  Treating it as such is the 'onto-
+    theological' mistake Heidegger charges the tradition with.  This single
+    distinction blocks the misreading in which 'Being' becomes a metaphysical
+    super-object or a synonym for God.
+                                   |
+  WHY DASEIN IS THE ROUTE - TWO TEXTUAL REASONS
+    (i)  It ALREADY HAS A PRE-ONTOLOGICAL UNDERSTANDING OF BEING - it copes
+         competently with a world long before it theorises about it.
+    (ii) ITS OWN BEING IS AT ISSUE FOR IT.
+    DASEIN IS CHOSEN FOR A METHODOLOGICAL REASON, not because human beings
+    are metaphysically special.
+    DASEIN IS NOT a biological synonym for 'human being', NOT consciousness,
+    NOT a subject, NOT a soul.
+                                   |
+  SECTION 9 AND THE REPLACEMENT OF CATEGORIES
+    'THE ESSENCE OF DASEIN LIES IN ITS EXISTENCE': Dasein's 'what' is not a
+    fixed QUIDDITAS but its MANNER OF BEING.  Therefore EXISTENTIALIA (the
+    structures of Dasein) REPLACE CATEGORIES (which apply to things).
+    THIS IS THE SENTENCE SARTRE APPROPRIATES AND HEIDEGGER REPUDIATES.
+
+
+ASCII MASTER FLOW - PANEL 31/53: HEIDEGGER - THE EPOCHE AND ITS REJECTION
+------------------------------------------------------------------------------
+  STEP 1  WHAT THE EPOCHE IS - ATTRIBUTE IT TO HUSSERL (TOPIC 09)
+    The SUSPENSION of the natural attitude's EXISTENCE-POSIT.  NOTHING IS
+    DENIED OR DOUBTED; the belief-character is put OUT OF PLAY so that what
+    is given can be described purely.  The residue is TRANSCENDENTAL
+    SUBJECTIVITY.  It is A CHANGE OF ATTITUDE, NOT A SCEPTICAL DOUBT.
+    ONE ACCURATE SENTENCE.  DO NOT EXPOUND TOPIC 09 HERE.
+                                   |
+  STEP 2  HEIDEGGER'S OBJECTION - IT IS ABOUT ORDER, NOT ACCURACY
+    A REFLECTIVE SUSPENSION is available only to a SPECTATOR ALREADY SET OVER
+    AGAINST A WORLD.  But reflection is NOT the first relation Dasein has to
+    anything: Dasein is PROXIMALLY AND FOR THE MOST PART ABSORBED IN TASKS,
+    using equipment competently and understanding its situation practically.
+    THEREFORE SUBJECT AND OBJECT ARE DERIVATIVE ABSTRACTIONS FROM PRACTICAL
+    INVOLVEMENT, and a method that starts by bracketing the world's existence
+    has SILENTLY RETAINED THE FRAMEWORK IT MEANT TO SUSPEND.
+    The residue it isolates - a TRANSCENDENTAL EGO - is on this reading NOT
+    the ground of world-disclosure but a LATE ABSTRACTION from a Dasein that
+    was ALREADY disclosing a world.
+                                   |
+  STEP 3  WHAT HEIDEGGER DOES NOT DO
+    He does NOT reject careful phenomenological description.  He REDIRECTS it
+    - from TRANSCENDENTAL CONSCIOUSNESS to the DISCLOSEDNESS OF BEING through
+    CARE, EQUIPMENT and TEMPORALITY.
+                                   |
+  TWO FORBIDDEN EQUATIONS
+    DO NOT equate BEING-IN-THE-WORLD with SPATIAL CONTAINMENT.  Dasein is not
+      'in' the world as water is in a glass.
+    DO NOT equate it with SARTREAN CONSCIOUSNESS.  The for-itself is still a
+      CONSCIOUSNESS FACING BEING - precisely the framework this structure
+      dissolves.
+  PYQ ANCHOR: 2018 Q4(a) 20m - three sequenced tasks: DEFINE, REJECT, REPLACE.
+
+
+ASCII MASTER FLOW - PANEL 32/53: HEIDEGGER - BEING-IN-THE-WORLD AND WORLDHOOD
+------------------------------------------------------------------------------
+  THE HYPHENS ARE THE DOCTRINE
+    BEING-IN-THE-WORLD (In-der-Welt-sein) is a UNITARY phenomenon - a SINGLE
+    hyphenated structure, NOT three separate elements (subject + relation +
+    world).  It is intended to DISSOLVE the Cartesian split between an inner
+    subject and an external world.
+    Dasein does NOT first EXIST and then subsequently ENCOUNTER a world; it
+    IS constitutively IN a world - practically engaged, absorbed, concerned.
+    CONSEQUENCE: the Cartesian BRIDGE PROBLEM ('how do I know the external
+    world exists?') DOES NOT ARISE - the gap it bridges was an ARTEFACT of
+    the decomposition.  Heidegger treats the PERSISTENCE OF THE DEMAND as the
+    scandal, not the lack of an answer.
+                                   |
+  WORLDHOOD (Weltlichkeit)
+    The 'WORLD' is NOT the totality of physical objects (the universe of
+    natural science).  It is the REFERENTIAL CONTEXT OF MEANING within which
+    things show up AS SIGNIFICANT.
+                                   |
+  THE TWO MODES
+    READY-TO-HAND (Zuhandenheit) - THE PRIMARY MODE.  Entities are met as
+      EQUIPMENT (Zeug) that we USE in a practical context.  The hammer is NOT
+      first 'an object with properties' and THEN 'used for hammering'; it is
+      ORIGINALLY encountered as EQUIPMENT-FOR-HAMMERING, within a totality of
+      references.
+    PRESENT-AT-HAND (Vorhandenheit) - entities THEMATISED as OBJECTS WITH
+      PROPERTIES; prominent in THEORETICAL INQUIRY.  DERIVATIVE.
+    THE CLAIM IS ABOUT ORDER OF FOUNDATION: the theoretical stance is a
+    MODIFICATION of practical engagement, NOT the neutral baseline from which
+    practice is a special case.  THIS REVERSES THE MODERN ORDER OF
+    EXPLANATION and is the real content of the doctrine.
+                                   |
+ASCII MASTER FLOW - PANEL 33/53: HEIDEGGER - THE REFERENTIAL TOTALITY AND BREAKDOWN
+------------------------------------------------------------------------------
+  THE REFERENTIAL TOTALITY - THE 'IN-ORDER-TO' (Um-zu)
+    HAMMER --in-order-to--> drive the NAIL --in-order-to--> fix the BOARD
+    --in-order-to--> build the HOUSE --in-order-to--> SHELTER
+    --for-the-sake-of--> DWELLING, i.e. A WAY OF BEING FOR DASEIN
+    EVERY piece of equipment REFERS BEYOND ITSELF.  THERE IS NO SUCH THING AS
+    ONE PIECE OF EQUIPMENT.  THE CHAIN TERMINATES NOT IN ANOTHER TOOL BUT IN
+    A POSSIBILITY OF DASEIN'S OWN BEING.
+                                   |
+  BREAKDOWN - HOW THE OBJECT APPEARS
+    UNUSABILITY  the hammer is too heavy, the head is loose
+    ABSENCE      the hammer is missing from where it should be
+    OBSTRUCTION  something is in the way of the work
+    -> the equipment-network becomes CONSPICUOUS, and a shift toward explicit
+    OBJECT-THEMATISATION can open.
+    QUALIFY: BREAKDOWN DOES NOT INSTANTLY ERASE ALL PRACTICAL SIGNIFICANCE.
+    The workshop does not become a heap of physical objects the moment a tool
+    fails.  THIS IS WHERE CARELESS SCRIPTS OVERCLAIM.
+  FENCE: Descartes' own system - methodic doubt, the cogito, dualism -
+  belongs to TOPIC 02.  Here he is the position dissolved, in a clause.
+  PYQ ANCHORS: 2022 Q2(a) 20m; final third of 2018 Q4(a).
+
+
+ASCII MASTER FLOW - PANEL 34/53: HEIDEGGER - THE EXISTENTIALIA, DISCLOSEDNESS AND CARE
+------------------------------------------------------------------------------
+  EXISTENTIALE      GERMAN            WHAT IT MEANS
+  ---------------------------------------------------------------------------
+  ATTUNEMENT /      Befindlichkeit    Dasein ALWAYS ALREADY finds itself in a
+  STATE-OF-MIND     (mood =           MOOD - anxiety, boredom, joy.  Mood is
+                    Stimmung)         NOT a subjective colouring added to an
+                                      objectively given world; it is a
+                                      fundamental mode of DISCLOSING the
+                                      world and one's situation.  'WE ARE
+                                      ALWAYS ALREADY ATTUNED' - there is no
+                                      mood-free access, and even
+                                      INDIFFERENCE is a mood
+  ---------------------------------------------------------------------------
+  UNDERSTANDING     Verstehen         Dasein PROJECTS ITSELF UPON
+                                      POSSIBILITIES - it understands its
+                                      world in terms of WHAT IT CAN DO.  NOT
+                                      theoretical cognition but practical
+                                      KNOW-HOW and projection upon
+                                      POTENTIALITY-FOR-BEING
+  ---------------------------------------------------------------------------
+  DISCOURSE         Rede              The ARTICULATION of understanding.
+                                      Dasein's being-open to meaning is
+                                      always linguistically structured.
+                                      Discourse is the CONDITION OF
+                                      POSSIBILITY of both speech and
+                                      listening.  NOT the act of talking -
+                                      IDLE TALK is a DEFICIENT MODE of it
+  ---------------------------------------------------------------------------
+  TOGETHER THEY CONSTITUTE DISCLOSEDNESS (Erschlossenheit) = the 'THERE' (Da)
+  of DA-SEIN: the fact that BEING IS DISCLOSED for this entity.
+                                   |
+ASCII MASTER FLOW - PANEL 35/53: HEIDEGGER - CARE AS THE BEING OF DASEIN
+------------------------------------------------------------------------------
+  CARE (Sorge) - THE UNITARY STRUCTURAL WHOLE, BEING AND TIME SECTION 41
+    FORMAL DEFINITION - REPRODUCE IT, DO NOT PARAPHRASE:
+      'AHEAD-OF-ITSELF -- ALREADY-IN (a world) -- ALONGSIDE (entities
+       encountered within-the-world)'
+      (Sich-vorweg -- schon-sein-in -- Sein-bei)
+    AHEAD-OF-ITSELF  Dasein is always PROJECTING toward its future
+                     possibilities .......... UNDERSTANDING, freedom
+    ALREADY-IN       Dasein is always THROWN into a world and a situation it
+                     did not choose ......... FACTICITY, ATTUNEMENT
+    ALONGSIDE        Dasein is always ABSORBED in its practical dealings with
+                     entities ............... CONCERN, FALLING
+    CARE IS NOT A PSYCHOLOGICAL ATTITUDE (worry, anxiety).  It is the
+    ONTOLOGICAL STRUCTURE that makes ALL particular attitudes and activities
+    possible - INCLUDING INDIFFERENCE, which is a MODE of care, not its
+    absence.
+                                   |
+  TWO NEIGHBOURING TERMS, KEPT DISTINCT
+    CONCERN (Besorgen) ..... dealings with EQUIPMENT and TASKS - the
+                             'alongside' limb
+    SOLICITUDE (Fursorge) .. dealings with OTHER DASEIN, because BEING-WITH
+                             (Mitsein, SECTION 26) is CONSTITUTIVE, not added
+                             on.  DASEIN IS NEVER FIRST SOLITARY AND THEN
+                             SOCIAL
+  WHY MEMORISE THE FORMULA: the three limbs MAP EXACTLY onto the three
+  ecstases of temporality (Panel 32).  Learn the two lists together and the
+  hardest 20-marker in the clause becomes ONE DIAGRAM.
+
+
+ASCII MASTER FLOW - PANEL 36/53: HEIDEGGER - DAS MAN, CONSCIENCE, DEATH AND AUTHENTICITY
+------------------------------------------------------------------------------
+  THE PRELIMINARY THAT DECIDES THE ANSWER
+    AUTHENTICITY (Eigentlichkeit) IS NOT A MORAL VIRTUE, AND INAUTHENTICITY
+    IS NOT A MORAL FAILING.  They are EXISTENTIAL MODIFICATIONS - modes of
+    Dasein's SELF-RELATION.  Dasein is PROXIMALLY AND FOR THE MOST PART
+    (zunachst und zumeist) INAUTHENTIC - and this is NOT a deficiency but a
+    STRUCTURAL FEATURE of being-in-the-world.
+    BOTH 2019 Q3(a) AND 2022 Q2(a) DIRECTLY DEMAND THIS CLARIFICATION.
+                                   |
+  INAUTHENTICITY: THE 'THEY' (das Man), SECTIONS 27, 35-38
+    Dasein exists WITH OTHERS (Mitsein) and tends to lose itself in what
+    'ONE' (man) does, says, thinks - the ANONYMOUS PUBLIC.
+    DAS MAN IS NOT 'OTHER PEOPLE'; it is the IMPERSONAL NORM-SETTING ANYONE
+    in whose name things are done - and in whose name NOBODY IN PARTICULAR IS
+    ANSWERABLE.
+    THREE MARKS, EACH A DEFICIENT MODE OF AN EXISTENTIALE:
+      IDLE TALK (Gerede) ....... passing along received opinions WITHOUT
+                                 genuine understanding [of DISCOURSE]
+      CURIOSITY (Neugier) ...... flitting restlessly from novelty to novelty;
+                                 never dwelling [of SIGHT]
+      AMBIGUITY (Zweideutigkeit) everything SEEMS accessible, nothing is
+                                 genuinely appropriated [of UNDERSTANDING]
+    FALLING (Verfallen): Dasein's tendency to be ABSORBED in the world of its
+    concern and in das Man - losing its 'OWNMOST' self.  NOT a theological
+    'fall from grace'.  AN ONTOLOGICAL STRUCTURE, which is why it carries NO
+    BLAME.
+                                   |
+ASCII MASTER FLOW - PANEL 37/53: HEIDEGGER - CONSCIENCE AND BEING-TOWARD-DEATH
+------------------------------------------------------------------------------
+  THE CALL OF CONSCIENCE (Ruf des Gewissens), SECTIONS 54-60
+    Dasein is called BACK from dispersal in das Man to its NULL / GROUNDLESS
+    responsibility for TAKING OVER its thrown projection.
+    THE CALL IS SILENT.  IT GIVES NO MORAL RULE AND NO SUBSTANTIVE PROGRAMME.
+    ITS WHOLE CONTENT IS: THIS EXISTENCE IS YOURS.
+                                   |
+  BEING-TOWARD-DEATH (Sein-zum-Tode), SECTIONS 46-53
+    FOUR CHARACTERS - GIVE ALL FOUR:
+      OWNMOST ............... no one can die for me
+      NON-RELATIONAL ........ it isolates me from others
+      CERTAIN ............... it is inevitable
+      INDEFINITE AS TO WHEN . it may come at any time
+    AND IT IS A POSSIBILITY, NOT AN EVENT ON A CALENDAR - which is why the
+    analysis is not morbid.
+    INAUTHENTIC RELATION  we FLEE it: 'ONE DIES' (man stirbt), 'everyone dies
+      someday' - COVERING OVER death's INDIVIDUALISING FORCE by making it an
+      event that happens to people in general.
+    AUTHENTIC RELATION  ANTICIPATORY RESOLUTENESS (vorlaufende
+      Entschlossenheit) - I face death as MY OWN possibility, which discloses
+      the FINITUDE and URGENCY of my existence, FREES ME FROM DAS MAN, and
+      lets me take over my existence AS A WHOLE.  'AS A WHOLE' does technical
+      work: only a being that can relate to its OWN END can be grasped as a
+      TOTALITY - the problem Division Two is built to solve.
+                                   |
+ASCII MASTER FLOW - PANEL 38/53: HEIDEGGER - WHAT AUTHENTICITY IS NOT, AND ITS CRITICS
+------------------------------------------------------------------------------
+  FOUR THINGS AUTHENTICITY IS NOT
+    NOT 'living a morally good life'
+    NOT 'being true to yourself' in the popular sense
+    NOT rugged individualism or social withdrawal - INDIVIDUALISATION BY
+      DEATH DOES NOT ABOLISH BEING-WITH; it MODIFIES HOW DASEIN OWNS ITS
+      ALREADY SOCIAL POSSIBILITIES
+    NOT contemplating suicide or fearing the empirical event of dying
+  IT IS: a FORMAL modification of everydayness - OWNING one's THROWNNESS and
+  projecting upon one's OWNMOST possibilities.
+                                   |
+  THE STRONGEST OBJECTION: FORMAL EMPTINESS
+    Authenticity prescribes NO CONTENT - so, critics say, A NAZI COULD BE
+    'AUTHENTIC', a charge sharpened by HEIDEGGER'S OWN 1933 COMPLICITY and by
+    ADORNO'S 'JARGON OF AUTHENTICITY'.
+    HEIDEGGER'S REPLY: authenticity is DELIBERATELY NON-PRESCRIPTIVE; it
+    tells you HOW to hold your existence, not WHAT to choose.
+    HONEST VERDICT: THE FORMALITY IS DELIBERATE AND IT IS THE DOCTRINE'S
+    DEEPEST PROBLEM.  A criterion that tells you to OWN your choices without
+    telling you WHICH to make can DIGNIFY ANY RESOLUTE COMMITMENT.  The
+    defence - that FUNDAMENTAL ONTOLOGY IS NOT ETHICS - is TEXTUALLY CORRECT
+    AND PHILOSOPHICALLY UNSATISFYING.
+  SECOND OBJECTION: MORBIDITY AND THE OTHER.  LEVINAS - the ethical relation
+  to the Other, not death, is primary.  ARENDT - NATALITY against MORTALITY.
+  REPLY: death is not morbidity but the DISCLOSURE OF FINITUDE that makes ANY
+  authentic engagement possible, INCLUDING CARE FOR OTHERS.  Levinas's
+  alternative remains a POWERFUL COUNTER and should be NAMED, not dismissed.
+  PYQ ANCHORS: 2019 Q3(a) 20m (first half); 2022 Q2(a) 20m (second half).
+
+
+ASCII MASTER FLOW - PANEL 39/53: HEIDEGGER - TEMPORALITY, THE ECSTASES AND ORDINARY TIME
+------------------------------------------------------------------------------
+  THE CENTRAL THESIS OF DIVISION TWO
+    The MEANING of CARE - and therefore of Dasein's being - is TEMPORALITY
+    (Zeitlichkeit).  'MEANING' here is technical: that in terms of which the
+    structure becomes intelligible AS A UNITY.
+                                   |
+  ECSTASIS               EXISTENTIAL MOMENT              LIMB OF CARE
+  ---------------------------------------------------------------------------
+  FUTURE (Zukunft)       Projection, anticipation,       AHEAD-OF-ITSELF
+  'coming toward'        BEING-TOWARD-DEATH
+  oneself
+  ---------------------------------------------------------------------------
+  HAVING-BEEN            THROWNNESS, facticity, guilt    ALREADY-IN
+  (Gewesenheit)
+  the past I STILL AM
+  ---------------------------------------------------------------------------
+  PRESENT (Gegenwart)    Absorption in entities,         ALONGSIDE
+  'making present'       practical engagement
+  ---------------------------------------------------------------------------
+  GEWESENHEIT IS NOT 'THE PAST'.  It means HAVING-BEEN - the past Dasein
+  STILL IS and carries forward AS POSSIBILITY, not a stretch of elapsed time
+  left behind.
+                                   |
+  PRIORITY OF THE FUTURE
+    The FUTURE - Dasein projecting upon its OWNMOST possibility, DEATH - is
+    the PRIMARY ecstasis.  The past and the present are TEMPORALISED OUT OF
+    the future.  AUTHENTICITY IS FUTURAL: in ANTICIPATORY RESOLUTENESS Dasein
+    RUNS AHEAD to its death and thereby GATHERS ITS EXISTENCE INTO A WHOLE.
+                                   |
+  'ECSTATIC' - WHAT THE WORD IS DOING
+    The three dimensions are NOT containers or segments of a line.  They are
+    ECSTASES: Dasein STANDS OUT (ek-stasis) into each SIMULTANEOUSLY.
+    Temporality is a UNITY of future-past-present in which Dasein holds
+    itself open.  A DIAGRAM OF THREE BOXES IN A ROW MISREPRESENTS IT.
+                                   |
+ASCII MASTER FLOW - PANEL 40/53: HEIDEGGER - PRIMORDIAL AGAINST ORDINARY TIME
+------------------------------------------------------------------------------
+  PRIMORDIAL TEMPORALITY          |  VULGAR / ORDINARY TIME
+  (Zeitlichkeit)                  |  (innerzeitige Zeit)
+  ---------------------------------------------------------------------------
+  ECSTATIC, FINITE, UNIFIED,      |  a SEQUENCE OF 'NOWS' - past nows gone, a
+  FUTURAL                         |  present now here, future nows not yet
+  the temporality OF DASEIN -     |  'time' as measured by CLOCKS - the time
+  how Dasein EXISTS its own being |  IN WHICH events occur
+  FINITE - bounded by DEATH       |  INFINITE - the now-series is endless in
+                                  |  both directions
+  the MORE PRIMORDIAL             |  DERIVED public/world-time interpretation
+  existential condition           |  and clock measurement
+  ---------------------------------------------------------------------------
+  THE QUALIFICATION THAT MUST BE WRITTEN
+    Heidegger DERIVES ordinary now-time THROUGH WORLD-TIME AND PUBLIC DATING
+    from more primordial temporality.  A LEVELLED interpretation CAN
+    accompany falling - BUT CLOCK-TIME IS NOT THEREBY MORALLY DEFECTIVE OR
+    PRACTICALLY DISPENSABLE.  'VULGAR' NAMES A LEVELLED CONCEPTUAL
+    INTERPRETATION, NOT A SIN.  SCRIPTS ROUTINELY OVERCLAIM HERE.
+                                   |
+  HISTORICALITY (Geschichtlichkeit)
+    Dasein INHERITS possibilities and PROJECTS them.  History is an
+    EXISTENTIAL STRUCTURE rather than merely an external sequence - which is
+    how the finite, futural self is ALSO A HANDED-DOWN SELF, and which
+    prevents resoluteness from reading as pure SELF-CREATION.
+  INCOMPLETENESS: DIVISION III, where the move from Dasein's temporality to
+  the meaning of BEING AS SUCH was to be made, WAS NEVER PUBLISHED.
+  COMPARATIVE COUNTERS: SARTRE - temporality grounds FREEDOM and the project,
+  not a formal ontology.  LEVINAS - death individualises excessively; what of
+  the TEMPORALITY OF THE OTHER?
+  PYQ ANCHOR: 2019 Q3(a) 20m (second half).
+
+
+ASCII MASTER FLOW - PANEL 41/53: FEAR AGAINST ANXIETY - A DIFFERENCE IN KIND
+------------------------------------------------------------------------------
+                    FEAR                      ANXIETY / DREAD / ANGUISH
+                    (Frygt/Furcht/peur)       (Angest/Angst/angoisse)
+  ---------------------------------------------------------------------------
+  OBJECT            A DETERMINATE ENTITY      NO DETERMINATE OBJECT.
+                    WITHIN THE WORLD - a      KIERKEGAARD: 'the object of
+                    dog, an examination, a    anxiety is a NOTHING'.
+                    fall                      HEIDEGGER: that in the face of
+                                              which one is anxious 'is
+                                              COMPLETELY INDEFINITE'
+  ---------------------------------------------------------------------------
+  WHAT IT IS        the threatening thing     KIERKEGAARD: POSSIBILITY - 'the
+  REALLY ABOUT                                possibility of being able'
+                                              HEIDEGGER: BEING-IN-THE-WORLD
+                                              AS SUCH
+                                              SARTRE: MY OWN FREEDOM
+  ---------------------------------------------------------------------------
+  DIRECTION         I FLEE TOWARD the world,  It INDIVIDUALISES: the world's
+                    seeking shelter in the    significance COLLAPSES, das Man
+                    familiar                  FALLS AWAY, Dasein stands alone
+  ---------------------------------------------------------------------------
+  DISCLOSIVE VALUE  discloses a THREAT        discloses FREEDOM, FINITUDE and
+                                              the GROUNDLESSNESS of
+                                              existence - a PRIVILEGED mood
+                                              (Grundbefindlichkeit)
+  ---------------------------------------------------------------------------
+ASCII MASTER FLOW - PANEL 42/53: FEAR AND ANXIETY - THE THREE CANONICAL EXAMPLES
+------------------------------------------------------------------------------
+  THE THREE CANONICAL EXAMPLES - LEARN ONE FROM EACH THINKER
+    1 KIERKEGAARD (INNOCENCE).  The man at the edge of an abyss looks down
+      and grows dizzy - BUT THE DIZZINESS IS AS MUCH IN THE EYE AS IN THE
+      ABYSS.  In innocence there is no knowledge of good and evil, yet there
+      IS anxiety, because freedom's possibility is already sensed.
+    2 HEIDEGGER (BEING AND TIME, SECTION 40).  In anxiety 'THE WORLD HAS THE
+      CHARACTER OF COMPLETE INSIGNIFICANCE': the totality of involvements -
+      the workshop of ready-to-hand things - COLLAPSES, and Dasein is thrown
+      back on its bare THAT-IT-IS.  COMPRESSED FORMULA: THAT IN THE FACE OF
+      WHICH ONE IS ANXIOUS AND THAT FOR WHICH ONE IS ANXIOUS ARE THE SAME -
+      BEING-IN-THE-WORLD.  Anxiety discloses Dasein as SOLUS IPSE and FREES
+      IT FOR AUTHENTIC CHOOSING.  In 'WHAT IS METAPHYSICS?' (1929) he adds
+      that anxiety reveals DAS NICHTS - the Nothing.  'NOTHING NOTHS' / 'the
+      nothing nothings'; NEVER 'NOTHING NOUGHTS'.  Source of the sentence
+      CARNAP attacks in 1932 - Topic 07, one clause only.
+    3 SARTRE (BEING AND NOTHINGNESS, PART I).  TWO examples, BOTH named.
+      THE CLIFF PATH.  Walking a narrow path above a precipice I feel FEAR of
+        the drop - the loose stone, the gust of wind.  Then I realise that
+        NOTHING PREVENTS ME FROM THROWING MYSELF OVER: no barrier within me,
+        no fixed nature.  That vertigo is ANGUISH - not fear of the abyss but
+        anguish BEFORE MY OWN FREEDOM.
+      THE GAMBLER.  A man resolved firmly, YESTERDAY, never to gamble again.
+        At the table today he finds yesterday's resolution THERE BUT
+        POWERLESS - it must be REMADE NOW, and nothing guarantees he will
+        remake it.  ANGUISH IS THE DISCOVERY THAT MY PAST SELF CANNOT BIND MY
+        PRESENT SELF.  THE EXAMPLE MOST SCRIPTS OMIT.
+    ANGUISH IS NOT NAUSEA: la nausee discloses the CONTINGENCY of the in-
+    itself (de trop); anguish discloses FREEDOM.
+                                   |
+ASCII MASTER FLOW - PANEL 43/53: FEAR AND ANXIETY - THE ARGUMENT AND THE NATURALIST REPLY
+------------------------------------------------------------------------------
+  THE ARGUMENT IMPLICIT IN ALL THREE
+    1 MOODS are not private colourings added to a neutral world; they are
+      ways in which one's situation is DISCLOSED.
+    2 FEAR discloses an entity as threatening, and so KEEPS US WITHIN the
+      world of concern.
+    3 ANXIETY has NO entity as its object; therefore it CANNOT disclose an
+      entity.
+    4 YET it plainly discloses SOMETHING, since it has definite content and
+      is not mere confusion.
+    5 THEREFORE what it discloses is not an ENTITY but a STRUCTURE.
+    6 THEREFORE anxiety is philosophically PRIVILEGED: the one mood in which
+      existence AS A WHOLE becomes an issue.
+  PRESUPPOSITIONS: P1 moods are COGNITIVELY DISCLOSIVE, not merely affective;
+  P2 the difference between an INDEFINITE and a DEFINITE intentional object
+  is one of KIND; P3 what a rare mood discloses is not thereby LESS REAL.
+  NATURALIST OBJECTION: anxiety is a pathological or neurochemical state with
+  no cognitive credentials.  REPLY: the claim is not that anxious people KNOW
+  MORE, but that the STRUCTURE of the mood - HAVING NO OBJECT - is itself the
+  datum requiring explanation, and no account in terms of an unnoticed object
+  has succeeded.  VERDICT: a mood can DISCLOSE A STRUCTURE without becoming
+  INFALLIBLE COGNITION; naturalistic and clinical explanations remain
+  COMPATIBLE COMPETITORS.
+
+
+ASCII MASTER FLOW - PANEL 44/53: THE CRITICISM LEDGER AND THE INTER-THINKER DEBATE GRID
+------------------------------------------------------------------------------
+  CRITICISMS OF SARTRE - IN ORDER OF FORCE
+    1 RADICAL FREEDOM IS PSYCHOLOGICALLY AND SOCIALLY IMPLAUSIBLE.  Source:
+      common sense; Merleau-Ponty, ADVENTURES OF THE DIALECTIC; Marxists.
+      Reply: freedom-of-consciousness vs freedom-of-action - WEAKENS the
+      thesis.  DECISIVE: SARTRE HIMSELF concedes scarcity, seriality and the
+      practico-inert in the CRITIQUE (1960).
+    2 BAD FAITH PRESUPPOSES WHAT IT DENIES.  Source: Fingarette,
+      SELF-DECEPTION.  Reply: PRE-REFLECTIVE, NON-THETIC awareness.  DEBATED.
+    3 CHOICE WITHOUT CRITERIA IS BLIND - DECISIONISM.  Source: Iris Murdoch,
+      THE SOVEREIGNTY OF GOOD; Marxist critics.  Reply: engagement generates
+      its own criteria - CRITICS FIND THIS CIRCULAR.
+    4 UNIVERSALISABILITY sits uneasily with the denial of objective values.
+      Source: Kantians, communitarians.  Reply: Sartre CONCEDES TENSION;
+      NOTEBOOKS FOR AN ETHICS never completed.
+    5 UNDER-DESCRIBES GENDERED, RACIALISED AND MATERIAL CONSTRAINT.  Source:
+      de Beauvoir, Fanon, feminist and postcolonial criticism.  Reply:
+      situated freedom - BUT THE EARLY VOCABULARY REMAINS ABSTRACT.
+  ---------------------------------------------------------------------------
+ASCII MASTER FLOW - PANEL 45/53: THE CRITICISM LEDGER - HEIDEGGER
+------------------------------------------------------------------------------
+  CRITICISMS OF HEIDEGGER - IN ORDER OF FORCE
+    1 AUTHENTICITY IS FORMALLY EMPTY; a Nazi could be 'authentic'.  Source:
+      political critics; Heidegger's 1933; Adorno's 'jargon of authenticity'.
+      Reply: deliberately non-prescriptive.  MANY FIND THIS ETHICALLY
+      IRRESPONSIBLE.
+    2 THE PROJECT WAS NEVER COMPLETED - Division III never published.
+      Source: INTERNAL.  Reply: the TURN (Kehre).  Failure or deepening is
+      debated.
+    3 BEING-TOWARD-DEATH IS MORBID / EXCLUDES POSITIVE SOCIAL BONDS.  Source:
+      Levinas (ethics of the Other), Arendt (NATALITY over mortality).
+      Reply: death discloses the finitude that makes ANY authentic engagement
+      possible.  LEVINAS REMAINS A POWERFUL COUNTER.
+    4 OBSCURITY - neologisms obstruct rather than clarify.  Source: Carnap
+      (1932), Ayer, Russell.  Reply: ordinary language is saturated with the
+      metaphysical tradition.  WHETHER THIS JUSTIFIES THE OPACITY IS
+      CONTESTED.
+    5 ONTOLOGICAL FORMALITY PERMITS POLITICAL AMBIGUITY.  Reply: fundamental
+      ontology is not a political programme - TEXTUALLY RELEVANT, but it does
+      not settle whether formal authenticity LACKS CRITICAL NORMS.
+  ---------------------------------------------------------------------------
+ASCII MASTER FLOW - PANEL 46/53: THE CRITICISM LEDGER - KIERKEGAARD
+------------------------------------------------------------------------------
+  CRITICISMS OF KIERKEGAARD - IN ORDER OF FORCE
+    1 FIDEISM / IRRATIONALISM.  Source: Hegel implicitly; analytic philosophy
+      of religion.  Reply: reason is not WRONG but LIMITED.  WHETHER THIS IS
+      A REDUCTIO OR A VALID CRITIQUE OF RATIONALISM DEPENDS ON ONE'S
+      EPISTEMOLOGY.
+    2 THIN ACCOUNT OF INSTITUTIONS AND COMMUNITY.  Source: secular and social
+      critics.  Reply: despair is a UNIVERSAL STRUCTURAL POSSIBILITY and
+      responsibility is INDIVIDUAL - BUT THE LIMITED ACCOUNT REMAINS A
+      GENUINE WEAKNESS.  CONCEDE IT.
+    3 ELITISM OF THE INDIVIDUAL.  Source: communitarians, Hegelians.  Reply:
+      'the crowd is untruth' because it enables ETHICAL EVASION.
+    4 'TRUTH IS SUBJECTIVITY' COLLAPSES INTO RELATIVISM.  Source: COMMON
+      MISREADING - an error, not an objection.  Reply: WHAT is believed vs
+      HOW it is believed; 'subjectivity is untruth'.
+  ---------------------------------------------------------------------------
+ASCII MASTER FLOW - PANEL 47/53: MOVEMENT-LEVEL OBJECTIONS AND THE DEBATE GRID
+------------------------------------------------------------------------------
+  MOVEMENT-LEVEL OBJECTIONS NEED THINKER-SPECIFIC REPLIES
+    SUBJECTIVISM / IRRATIONALISM   K: APPROPRIATION, not opinion.
+                                   S: choice tied to RESPONSIBILITY.
+                                   H: ONTOLOGY, not the validation of opinion
+    PESSIMISM                      anxiety, despair, death and nothingness
+                                   are DIAGNOSTIC / DISCLOSIVE structures -
+                                   NOT the claim that every life is
+                                   emotionally miserable
+    SOCIAL ABSTRACTION             feminist, Marxist and postcolonial critics
+                                   RIGHTLY pressure the early focus on
+                                   solitary or formally free agents;
+                                   facticity, being-with and later situated
+                                   ethics give PARTIAL replies.  CONCEDE THE
+                                   RESIDUE
+  ---------------------------------------------------------------------------
+  INTER-THINKER DEBATE GRID - EIGHT AXES
+  AXIS            KIERKEGAARD       SARTRE            HEIDEGGER
+  GOD             CENTRAL           DENIED as PREMISE BRACKETED
+  CORE TERM       den Enkelte       pour-soi          Dasein
+  PATH            religious faith   bad-faith         ANTICIPATORY
+                                    CRITIQUE only     RESOLUTENESS
+  FREEDOM         qualitative       radical BUT       THROWN PROJECTION
+                  choice in a       SITUATED
+                  God-relation
+  TEMPORALITY     REPETITION and    ecstatic; freedom Zeitlichkeit - three
+                  THE MOMENT        NIHILATES the     ecstases, FUTURE-
+                  (Ojeblikket)      past              primacy, FINITE
+  CHIEF ENEMY     Hegel's System,   determinism, bad  Cartesian dualism,
+                  the crowd         faith, the        das Man, metaphysics
+                                    serious spirit    of presence
+  HEGEL           existing          uses negation and REOPENS the Being-
+                  individual vs     otherness,        question AGAINST
+                  completed system  rejects           metaphysics
+                                    teleological
+                                    totality
+  MOOD            Angest, despair   angoisse, nausea  Angst - the Nothing
+
+
+ASCII MASTER FLOW - PANEL 48/53: PYQ ROUTING - ALL FOURTEEN OWNED PARTS, 2018-2025
+------------------------------------------------------------------------------
+  CORPUS SIGNAL: 14 OF 112 PARTS.  JOINT-HIGHEST with Rationalism and with
+  Moore-Russell-Early Wittgenstein.  AT LEAST ONE PART IN EVERY YEAR.
+  SPLIT: SARTRE 8, KIERKEGAARD 4, HEIDEGGER 3 (2024 Q4(a) needs all three).
+  ---------------------------------------------------------------------------
+  YEAR Q      MK  DEMAND                          ANSWER ROUTE
+  ---------------------------------------------------------------------------
+  2018 Q1(d)  10  Sartre: inauthenticity, bad     facticity/transcendence
+                  faith, alienation               evasion -> waiter/date
+                                                  cautiously -> self-
+                                                  alienation -> authenticity
+                                                  difficulty
+  2018 Q4(a)  20  What is 'Epoche'? Heidegger's   Husserlian suspension (ONE
+                  rejection; being in the world   sentence) -> Being-question
+                  vs the transcendental ego       -> Dasein/world unity ->
+                                                  care/equipment -> anti-
+                                                  subjectivist verdict
+  2019 Q3(a)  20  Is Dasein authentic existence?  Dasein NOT authenticity ->
+                  Temporality and Dasein          they/falling -> conscience/
+                                                  death -> care's temporal
+                                                  ecstases -> formal-
+                                                  emptiness objection
+  2019 Q4(c)  15  Freedom of choice and           for-itself/nihilation ->
+                  determinism                     motive meaning -> facticity
+                                                  /situation -> structural
+                                                  constraint criticism
+  2020 Q3(a)  20  'Subjectivity is the truth' and Climacus attribution ->
+                  'the single individual'         appropriation NOT
+                                                  relativism -> existing
+                                                  individual/Hegel ->
+                                                  indirect communication ->
+                                                  fideism verdict
+  2020 Q4(a)  20  'You can always make something  facticity vs transcendence
+                  out of what you have been made  -> situated project -> no
+                  into.'                          excuses QUALIFIED ->
+                                                  oppression/late Sartre
+  2021 Q4(b)  15  'If I do not choose, I am still non-choice as stance ->
+                  choosing'                       responsibility/anguish ->
+                                                  bad-faith evasion ->
+                                                  coercion and inability
+                                                  objection
+ASCII MASTER FLOW - PANEL 49/53: PYQ ROUTING - 2022 TO 2025, WITH ANSWER ROUTES
+------------------------------------------------------------------------------
+  2022 Q2(a)  20  Being-in-the-world; the problem  unitary being-in-world ->
+                  of authenticity                 worldhood/equipment ->
+                                                  care -> they/death/
+                                                  resoluteness -> non-moral
+                                                  and political critique
+  2022 Q4(a)  20  Kierkegaard on 'subjectivity';  pseudonymous attribution ->
+                  three stages of existence       how/appropriation ->
+                                                  aesthetic/ethical/religious
+                                                  -> qualitative leap
+  2023 Q1(d)  10  Kierkegaard against Hegel's     existing individual ->
+                  universal spirit                system closure -> choice/
+                                                  death -> Hegel reply ->
+                                                  bounded verdict
+  2023 Q3(c)  15  'Consciousness is what it is    in-itself/for-itself ->
+                  not and is not what it is.'     nihilation -> temporality/
+                                                  project -> bad faith ->
+                                                  coherence objection
+  2024 Q1(e)  10  Kierkegaard: truth in terms of  Climacus -> objective truth
+                  subjectivity                    RETAINED -> existential
+                                                  appropriation -> faith/
+                                                  fideism caution
+  2024 Q4(a)  20  'Existence precedes essence';   Sartre-OWNED slogan ->
+                  existence and freedom           Kierkegaard/Heidegger
+                                                  differences -> three
+                                                  freedom concepts -> family-
+                                                  label verdict
+  2025 Q1(c)  10  Being-for-itself vs             English-first definitions
+                  being-in-itself                 -> self-identity/non-
+                                                  identity -> nothingness/
+                                                  freedom -> impossible
+                                                  synthesis
+  ---------------------------------------------------------------------------
+  THREE STATEMENT QUESTIONS - 2020 Q4(a), 2021 Q4(b), 2023 Q3(c).  FOR THESE
+  THE FIRST MOVE IS ALWAYS TO LOCATE THE SENTENCE INSIDE ITS OWN AUTHOR'S
+  SYSTEM, AND TO NAME THE PAIR OF TERMS IT TURNS ON.
+  NO OBJECTIVE OR PRELIMS-STYLE PART IS OWNED IN THIS CORPUS, SO NO ANSWER
+  LETTER IS ASSERTED FOR ANY PAST PAPER.  UPSC PUBLISHES NO DESCRIPTIVE MODEL
+  ANSWER FOR PHILOSOPHY PAPER I.
+
+
+ASCII MASTER FLOW - PANEL 50/53: THE ANSWER SPINE AND THE QUALIFIED CONCLUSION
+------------------------------------------------------------------------------
+  DIRECTIVE DECODER - WHAT EACH COMMAND WORD OBLIGES YOU TO DO
+    'COMMENT / ELUCIDATE THE STATEMENT'  locate the sentence IN ITS OWN
+      THINKER'S SYSTEM, then unpack the technical terms.  Identify the work,
+      the PAIR OF TERMS it turns on, two consequences, a judgment.
+      FATAL: treating it as a general maxim about life.
+    'DISCUSS EXISTENCE PRECEDES ESSENCE'  no divine artisan -> no
+      predetermined blueprint -> persons take up projects IN SITUATIONS.
+      Then Heidegger's rejection.  FATAL: attributing the slogan to all.
+    'CRITICALLY EXAMINE AUTHENTICITY'  ASSESSMENT DOMINATES, and the NON-
+      MORAL reading is the marked point.  FATAL: 'being true to yourself'.
+    'DISCUSS BEING-IN-THE-WORLD'  THE HYPHENS ARE THE DOCTRINE.  Refuse the
+      subject/object split FIRST, then Zuhandenheit/Vorhandenheit, the broken
+      hammer, care, and ONLY THEN temporality.  FATAL: 'a human being in the
+      world'.
+    'HOW DOES KIERKEGAARD OPPOSE HEGEL?'  a STRUCTURAL opposition.  Existing
+      individual vs the system; either/or vs both/and; the leap vs mediation;
+      indirect communication vs the lecture.  FATAL: 'he disliked
+      abstraction'.
+    'EXPLAIN FREEDOM AND DETERMINISM IN SARTRE'  MEANING-CONFERRAL together
+      with FACTICITY.  FATAL: pretending coercion or material limits are
+      unreal.
+    'FEAR AND DREAD/ANXIETY'  compare object-directed fear with existential
+      anxiety WHILE PRESERVING THINKER DIFFERENCES.  FATAL: one mood theory.
+    'ASSESS / DO YOU AGREE?'  A DEFENDED RULING IN THE FIRST LINE.  FATAL: a
+      neutral survey.
+                                   |
+ASCII MASTER FLOW - PANEL 51/53: THE GRADED VERDICT BANK - CLOSE AT THE RIGHT GRADE
+------------------------------------------------------------------------------
+  GRADED VERDICT BANK - CLOSE AT THE RIGHT GRADE
+    EXISTENCE PRECEDES ESSENCE
+      10 Sartre's atheistic argument denies a predetermined blueprint; it
+         does not erase biological or social facticity.
+      15 ...It is SARTRE'S slogan, not existentialism's common creed.
+      20 The doctrine foregrounds project and responsibility but leaves
+         value-criteria and situated constraint underdeveloped.
+    RADICAL FREEDOM
+      10 Freedom is the for-itself's non-coincidence with facticity,
+         exercised ONLY IN SITUATION.
+      15 ...Motives acquire action-guiding significance WITHIN a project.
+      20 Coercion, trauma and material structures pressure early radicalism;
+         later scarcity and seriality broaden Sartre without retracting.
+    BAD FAITH
+      10 It evades the TENSION of facticity and transcendence.
+      15 ...Pre-reflective, non-thetic awareness is the proposed answer to
+         the self-deception paradox.
+      20 Influential but NORMATIVELY INCOMPLETE: positive authenticity
+         remains thin.
+    THE LOOK
+      10 Shame discloses myself as object for another subject; not a proof of
+         other minds.
+      15 ...Improves on inferential models but may generalise conflict.
+      20 Love, solidarity, de Beauvoir, Fanon and later Sartre pressure
+         subject/object exclusivity - BOUNDED criticisms, not replacements.
+ASCII MASTER FLOW - PANEL 52/53: THE GRADED VERDICT BANK - MOODS, AUTHENTICITY AND METHOD
+------------------------------------------------------------------------------
+    ANGUISH / FEAR
+      10 Fear has a determinate threat; anxiety discloses possibility,
+         freedom or world-collapse depending on the thinker.
+      15 ...Related but NON-IDENTICAL moods.
+      20 A mood can disclose a structure without becoming infallible
+         cognition.
+    AUTHENTICITY (HEIDEGGER)
+      10 Eigentlichkeit is an existential modification, not a moral
+         achievement.
+      15 ...Anticipatory resoluteness gives Dasein a whole - but prescribes
+         NO CONTENT WHATEVER.
+      20 The formality is deliberate AND it is the doctrine's deepest
+         problem.
+    KIERKEGAARD VS HEGEL
+      10 No completed system substitutes for the temporal choice of the
+         existing individual.
+      15 ...Leap, either/or and indirect communication resist mediated
+         closure, but Hegel need not simply deny individuality.
+      20 He exposes first-person appropriation that a system-view risks
+         losing; he offers no rival comprehensive ontology.
+    INDIRECT COMMUNICATION
+      10 Ethical-religious appropriation cannot be handed over as neutral
+         information.
+      15 ...Pseudonyms stage existence-possibilities; attribution must follow
+         their voices.
+      20 Revocation makes the method deliberately SELF-LIMITING.
+                                   |
+ASCII MASTER FLOW - PANEL 53/53: NEVER WRITE, AND THE QUALIFIED CONCLUSION
+------------------------------------------------------------------------------
+  NEVER WRITE
+    'The existentialists held that ...' as though the three shared a doctrine
+    'Authenticity means being true to yourself'
+    'Being and Time is a completed system'
+    ''Leap of faith' is Kierkegaard's phrase'
+    ''Nothing noughts''
+    'Existence precedes essence' as Heidegger's or Kierkegaard's
+                                   |
+  QUALIFIED CONCLUSION - THE POSITION THIS PACKAGE DEFENDS
+    'Existentialism' names a SHARED REFUSAL, not a shared doctrine: no
+    general essence settles in advance what it is for THIS individual to
+    exist.  Beyond that refusal the three printed thinkers diverge at every
+    point that matters - on God, on method, on what freedom is, and on what
+    authentic existence would be.  Kierkegaard's account is powerful against
+    systematic closure and exposed to the FIDEISM charge and to a thin
+    treatment of community.  Sartre's is powerful on project and
+    responsibility and underdeveloped on value-criteria and situated
+    constraint, as his own 1960 revision concedes.  Heidegger's is the most
+    rigorously ontological and the most normatively empty, and the defence
+    that fundamental ontology is not ethics is textually correct and
+    philosophically unsatisfying.  An answer that says all this - and says it
+    with the right dates, the right pseudonyms and the right section numbers
+    - has done what this clause asks.
+==============================================================================
+END OF ASCII MASTER FLOW DIAGRAM - 53 PANELS
+==============================================================================

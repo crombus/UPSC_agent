@@ -1,103 +1,459 @@
-ASCII MASTER FLOW — PANEL 1/8: Plural realist ontology
-JAIN REALITY (SAT) = permanence-through-change
-                         |
-             +-----------+-----------+
-             v                       v
-          CONSCIOUS SOUL (jīva)                     NON-CONSCIOUS REALITY (ajīva)
- conscious substances       non-conscious substances
-             |                       |
- innumerable souls          pudgala | dharma | adharma | ākāśa | kāla
-             +-----------+-----------+
-                         v
- each substance (dravya) has enduring substance + changing quality (guṇa)/mode (paryāya)
- UTPĀDA + VYAYA + DHRAUVYA = origination + cessation + persistence.
+ASCII MASTER FLOW — PANEL 1/12: Identity, sources and the shape of the system
+ CENTRAL QUESTION: why does a soul that is intrinsically omniscient behave as an ignorant one?
+                                   |
+                                   v
+ THE ANSWER THAT ORGANISES EVERYTHING: something REAL is covering it, and that
+ covering is subtle MATTER which arrives through activity and sticks through passion
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ TITLE-WORDS                  TEXTUAL ANCHOR               CLASSIFICATION
+ jina        -> conqueror     Tattvarthasutra of           Veda-rejecting (nastika)
+                of passions   Umasvati (Svetambara) /      on the VEDA CRITERION ONLY
+ tirthankara -> ford-maker,   Umasvami (Digambara)         rebirth, action-consequence
+                liberated     first systematic Sanskrit    and liberation are AFFIRMED
+                teacher       exposition; authoritative    -> unlike Carvaka, which is
+                NOT a creator for BOTH traditions             nastika in BOTH senses
+     +-----------------------------+-----------------------------+
+                                   v
+ TWENTY-FOUR FORD-MAKERS in the present cycle
+   Rsabha first · Parsva twenty-third · Vardhamana Mahavira twenty-fourth
+   Mahavira RENEWED an existing tradition -> never call him the founder
+ [CONTESTED] precise dates and the earliest ford-makers require separate verification
+                                   |
+                                   v
+ NO CREATOR, BUT ACHIEVED AUTHORITY (anisvaravada about creation)
+   substances are eternal -> modes explain production and destruction
+   action-matter explains inequality -> a creator does no explanatory work
+   liberation depends on self-purification, not grace
+                                   |
+                                   v
+ NAMES TO DEPLOY
+   Kundakunda (Samayasara) -> real standpoint / conventional standpoint
+   Siddhasena Divakara, Samantabhadra -> early logic of many-sidedness
+   Akalanka, Manikyanandi, Hemacandra, Yasovijaya -> mature means-of-knowledge tradition
+ ANSWER LINE -> "Jainism is a pluralistic realism with non-absolutist finite predication
+ and a material theory of karmic bondage."
+ TRAP -> shared textual authority is NOT doctrinal uniformity across the two traditions.
 
-ASCII MASTER FLOW — PANEL 2/8: Conscious soul (jīva) and non-conscious reality (ajīva) mechanics
-CONSCIOUS SOUL (jīva): consciousness (upayoga) is essential; knowledge is naturally unbounded
- embodied state -> soul expands/contracts to body -> agency + experience
-                         |
- NON-CONSCIOUS REALITY (ajīva) FIVEFOLD
- pudgala = matter, including karmic matter | ākāśa = accommodation
- dharma = medium of motion              | adharma = medium of rest
- kāla = condition of change
- TRAP: dharma/adharma here are cosmic media, not moral merit/demerit.
+ASCII MASTER FLOW — PANEL 2/12: The definition of the real — permanence through change
+ DEFINITION: sat = utpada + vyaya + dhrauvya   (origination + decay + persistence)
+             the three terms are JOINT, never alternative
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ WHY NOT PURE PERMANENCE?                                  WHY NOT PURE FLUX?
+ the bracelet really did become a ring;                    THIS gold is recognised as
+ change would collapse into appearance                     the same gold; identity
+ -> static monism cannot explain transformation            would become a fiction
+     +-----------------------------+-----------------------------+
+                                   v
+ THE GOLD CASE, READ AS A DEFINITION AND NOT AS AN ILLUSTRATION
+   bracelet-mode ENDS      -> vyaya       (decay)
+   ring-mode BEGINS        -> utpada      (origination)
+   gold PERSISTS           -> dhrauvya    (persistence)
+   three onlookers, three true reports, one object, no contradiction
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ SUBSTANCE (dravya)          QUALITY (guna)                MODE (paryaya)
+ the enduring bearer         abiding characteristic        changing state
+ "what changed?"             "what kind of thing?"         "what is it doing now?"
+ consciousness is a GUNA of the soul; delusion and liberated omniscience are PARYAYAS
+     +-----------------------------+-----------------------------+
+                                   v
+ MANY-SIDEDNESS (anekantavada): the real is ananta-dharmatmakam vastu
+   innumerable aspects in one real -> no single unqualified proposition exhausts it
+   ONTOLOGY FIRST, logic afterwards
+                                   |
+                                   v
+ CAUSATION FOLLOWS: sadasatkaryavada
+   effect CONTINUOUS with cause as substance · NOVEL as mode
+   between Samkhya satkaryavada (pre-existence) and Nyaya asatkaryavada (fresh production)
+ ANSWER LINE -> "The real originates, decays and persists at once, so permanence belongs
+ to it as substance and change as mode."
+ TRAP -> calling Jaina causation satkaryavada drops the respect-index that defines it.
 
-ASCII MASTER FLOW — PANEL 3/8: Bondage as material process
-PASSIONATE ACTIVITY (yoga + kaṣāya)
-                         |
-                         v
- INFLUX OF KARMIC MATTER (āsrava): influx of subtle karmic pudgala into conscious soul (jīva)
-                         |
-                         v
- BONDAGE (bandha): karmic matter binds and obscures knowledge, faith, energy, bliss
-                         |
-        stoppage of karmic influx (saṃvara) blocks new influx + shedding of karma
-          (nirjarā) sheds old action and moral consequence (karma)
-                         |
-                         v
- LIBERATION (mokṣa): perfect knowledge (kevala-jñāna); liberated siddha rises beyond cycle of
-   rebirth (saṃsāra).
+ASCII MASTER FLOW — PANEL 3/12: Six substances and the extension test
+ EVERYTHING THAT IS
+     |
+     +--------------------------------+
+     v                                v
+ SOUL (jiva)                     NON-SOUL (ajiva)
+ conscious, knows, acts,         non-conscious, known, acted upon
+ bound or liberated                    |
+     |            +---------+---------+---------+---------+
+     |            v         v         v         v         v
+     |        matter    medium of  medium of   space     time
+     |        pudgala    motion      rest      akasa     kala
+     |                   dharma     adharma
+     v
+ SIX SUBSTANCES, EACH ANSWERING A QUESTION THE OTHERS CANNOT
+   soul     -> why is there an experiencer at all?
+   matter   -> why is there body, sense-object and karmic accretion?
+   dharma   -> why is movement possible?            <- an ENABLING CONDITION, not a push
+   adharma  -> why is rest possible?                <- an ENABLING CONDITION, not a brake
+   akasa    -> where does everything fit?
+   kala     -> why is there a before and an after?
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ EXTENSION TEST (astikaya?)                                FORM TEST (rupa?)
+   jiva      YES  has pradesas, co-extensive with body       ONLY MATTER has form:
+   pudgala   YES  extended and aggregative                   colour, taste, smell, touch
+   dharma    YES  co-extensive with lokakasa                 -> only matter is sense-
+   adharma   YES  co-extensive with lokakasa                    perceptible
+   akasa     YES  lokakasa and alokakasa                     -> SOUND is a MATERIAL
+   kala      NO   a dravya but AN-ASTIKAYA                      modification, not a
+                                                                quality of ether
+ SAFE FORMULA -> six substances, FIVE extended substances (pancastikaya) plus time
+ [CONTESTED] Digambara accounts characteristically affirm time-atoms (kala-anus);
+ some Svetambara discussions treat the substantial independence of time as disputed
+ TRAP -> dharma / adharma here are MEDIA of motion and rest, never merit and demerit.
 
-ASCII MASTER FLOW — PANEL 4/8: Many-sided knowledge
-REALITY HAS INNUMERABLE ASPECTS
-                         |
-          +--------------+--------------+
-          v                             v
- MANY-SIDED REALITY (anekāntavāda)                     STANDPOINT ANALYSIS (nayavāda)
- metaphysical many-sidedness      partial standpoints of judgement
-          |                             |
-          +--------------+--------------+
-                         v
- QUALIFIED ASSERTION (syādvāda): conditional predication — “in a certain respect”
- partial statement can be valid without being absolutely exhaustive
- TRAP: not scepticism; omniscience knows fully, finite knowers know perspectivally.
+ASCII MASTER FLOW — PANEL 4/12: The soul — nature, taxonomy, spatiality
+ SOUL (jiva): innumerable · beginningless · numerically distinct · never merged
+   consciousness (upayoga) is INTRINSIC, not acquired through an internal organ
+                                   |
+                                   v
+ INFINITE TETRAD (ananta-catustaya) — present as CAPACITY, obscured in FACT
+   infinite knowledge · infinite perception · infinite bliss · infinite power
+   -> bondage is OBSCURATION, not annihilation; liberation is REMOVAL, not addition
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ LIBERATED (mukta-jiva)       BOUND (baddha-jiva)          MORAL CONSEQUENCE
+ free of every karmic         embodied and karmically      every one-sense being is a
+ obstruction                  conditioned                  KNOWER, so injury falls on
+     |                             |                       a conscious substance
+     |                    +--------+--------+              -> this is the metaphysical
+     |                    v                 v                 root of non-violence
+     |               IMMOBILE (sthavara)  MOBILE (trasa)
+     |               one-sense, touch     two- to five-sense
+     |               earth-, water-, fire-,
+     |               air-, plant-bodied
+     v
+ SPATIALITY: the soul has space-points (pradesa) and is CO-EXTENSIVE with its body
+   lamp simile -> the lamp fills the room it occupies without becoming the room
+   ant-soul fills an ant-body; elephant-soul fills an elephant-body
+                                   |
+                                   v
+ THE OBJECTION THIS INVITES (Nyaya, and Dharmakirti in another form)
+   an eternal self should not literally expand and contract
+   if it has parts or pradesas, its eternality looks threatened
+ JAINA REPLY -> extension is a MODE of embodied individuality, not gross magnitude;
+ permanence is predicated of substance, change of mode
+ ANSWER LINE -> "Souls are innumerable and intrinsically luminous; bondage covers what
+ liberation uncovers."
+ TRAP -> intrinsic omniscience is CAPACITY, never empirical omniscience of the bound soul.
 
-ASCII MASTER FLOW — PANEL 5/8: Sevenfold predication (saptabhaṅgī) sevenfold branch
-ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT / TIME / MODE:
- 1 syād-asti              -> in some respect, X is
- 2 syān-nāsti             -> in some respect, X is not
- 3 syād-asti-nāsti        -> successively, X is and is not
- 4 syād-avaktavyaḥ        -> X is inexpressible under simultaneous demand
- 5 syād-asti-avaktavyaḥ   -> X is and is inexpressible
- 6 syān-nāsti-avaktavyaḥ  -> X is not and is inexpressible
- 7 syād-asti-nāsti-avaktavyaḥ -> X is, is not, and is inexpressible
- CONTRADICTION IS AVOIDED BY DIFFERENT RESPECTS, NOT BY ASSERTING P AND NOT-P SIMPLY.
+ASCII MASTER FLOW — PANEL 5/12: Knowledge — the inversion and the five kinds
+ JAINA TEST FOR DIRECTNESS: absence of a MIDDLEMAN, not vividness of appearance
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ ORDINARY EXPECTATION                                      JAINA CLASSIFICATION
+ eyes see a pot -> "this is direct"                        organ + mind + karmic veil
+                                                           stand between soul and pot
+                                                           -> only CONVENTIONALLY direct
+                                                              (samvyavaharika pratyaksa)
+                                                           -> STRICTLY it is mediated
+     +-----------------------------+-----------------------------+
+                                   v
+ FIVE KINDS OF KNOWLEDGE, ASCENDING, GRADED BY KARMIC UNVEILING
+   mati        sense-and-mind cognition                 INDIRECT (paroksa)
+   sruta       verbal / scriptural, derived from mati   INDIRECT (paroksa)
+   ---------------------------------------------------------------------------
+   avadhi      limited clairvoyant knowledge            DIRECT, but bounded
+   manahparyaya knowledge of others' mental modes       DIRECT, higher, not total
+   kevala      unlimited unmediated omniscience         DIRECT and COMPLETE
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ FALSE COUNTERPARTS under wrong                            LATER JAINA LOGIC ADMITS
+ orientation (mithya-darsana)                              smrti      recollection
+   mati   -> kumati / mati-ajnana                          pratyabhijna recognition
+   sruta  -> kusruta / sruta-ajnana                        tarka / uha  grasps pervasion
+   avadhi -> vibhanga-jnana                                anumana    inference
+ error is ORIENTATION-relative, not only                   sabda      testimony
+ content-relative                                          CONTRAST -> Nyaya denies memory
+                                                           independent pramana status
+     +-----------------------------+-----------------------------+
+                                   v
+ THE DERIVATION THAT MATTERS
+   reality has innumerable aspects -> ordinary cognition is KSAYOPASAMIKA (partial)
+   -> judgement captures an ASPECT -> standpoint (naya) -> operator (syat)
+   -> seven predications -> only kevala-jnana can assert unconditionally
+ TRAP -> "Jainism rejects inference" is false; inference is accepted as INDIRECT.
 
-ASCII MASTER FLOW — PANEL 6/8: Ethical-soteriological route
-SAMYAG-DARŚANA -> SAMYAG-JÑĀNA -> SAMYAK-CĀRITRA
- right faith          right knowledge      right conduct
-                                         |
-                           five vows: ahiṃsā, satya, asteya,
-                           brahmacarya, aparigraha
-                                         |
- householder aṇuvrata -> ascetic mahāvrata -> guṇasthāna purification
-                                         |
- ahiṃsā disciplines body, speech and thought because every conscious soul (jīva) can be harmed.
+ASCII MASTER FLOW — PANEL 6/12: Standpoint theory — the seven standpoints
+ A STANDPOINT (naya) IS AN UNFINISHED TRUTH, NOT AN ERROR
+   it becomes error only when it denies the remaining aspects
+                                   |
+                                   v
+ THE FUNNEL: LOOSEST AND MOST PRACTICAL -> STRICTEST AND MOST LITERAL
+ +------------------------------------------------------------------------------+
+ | 1 naigama       mixed practical / purposive; blends general and particular    |
+ | 2 samgraha      generic; attends to shared class-character                    |  SUBSTANCE-
+ | 3 vyavahara     practical particular; ordinary dealings                       |  DIRECTED
+ +------------------------------------------------------------------------------+
+ | 4 rjusutra      present-state; the thing as it now is           <- THE HINGE  |
+ +------------------------------------------------------------------------------+
+ | 5 sabda         verbal; attends to the expression used                        |  MODE-
+ | 6 samabhirudha  etymological; distinct words, distinct sense                  |  DIRECTED
+ | 7 evambhuta     function-in-act; "singer" applies only while singing occurs   |
+ +------------------------------------------------------------------------------+
+                                   |
+                                   v
+ PERVERSION: standpoint + denial of the rest = NAYABHASA / DURNAYA
+   this is the technical form of one-sidedness (ekantavada)
+                                   |
+     +-----------------------------+-----------------------------+
+     v                             v                             v
+ MOMENTARINESS               PERMANENCE-MONISM             EXTREME NOMINALISM
+ absolutises rjusutra        absolutises the substance-    absolutises the verbal
+ -> identity becomes         directed view                 standpoints
+    a fiction                -> change becomes             -> the object dissolves
+                                appearance                    into usage
+     +-----------------------------+-----------------------------+
+                                   v
+ KUNDAKUNDA'S PAIR (Samayasara): niscaya-naya / vyavahara-naya
+   real standpoint  -> the soul in its own intrinsic nature
+   conventional     -> the soul as embodied, active and karmically conditioned
+   NOT Advaita's two levels: BOTH describe ONE real soul, and NOTHING is sublated
+ TRAP -> seven standpoints are NOT the seven predications; perspectives vs propositions.
 
-ASCII MASTER FLOW — PANEL 7/8: Objections, replies, comparisons
-OBJECTION                         JAIN REPLY
-qualified assertion (syādvāda) is self-refuting           it applies conditionally to itself, not
-  absolutely
-seven forms are repetitive          combinations track affirmation, denial, ineffability
-many-sided reality (anekāntavāda) destroys truth             it rejects one-sided absolutism, not
-  determinate truth
-karma-matter/soul contact obscure   bondage is beginningless via passions and subtle pudgala
-                         |
- BUDDHISM: change without substance | VEDĀNTA: unity beneath plurality
- JAINISM: real substances persist through real modes; plurality is irreducible.
+ASCII MASTER FLOW — PANEL 7/12: Conditional predication and the sevenfold predication
+ THE OPERATOR syat = "in a certain respect"
+   a DEFINITE assertion with its condition stated
+   NOT "perhaps", NOT probability, NOT doubt, NOT scepticism
+                                   |
+                                   v
+ WHY EXACTLY SEVEN? three primitives, taken singly, in pairs, and all together
+   singly    : asti · nasti · avaktavya                        = 3
+   in pairs  : asti+nasti · asti+avaktavya · nasti+avaktavya   = 3
+   jointly   : asti+nasti+avaktavya                            = 1
+                                                        TOTAL  = 7
+                                   |
+                                   v
+ THE SEVEN, IN ORDER
+   1 syad asti                          in some respect, it IS
+   2 syan nasti                         in some respect, it IS NOT
+   3 syad asti ca nasti ca              successively, it is AND is not
+   4 syad avaktavyam                    in some respect, it is INEXPRESSIBLE
+   5 syad asti ca avaktavyam            it is, and is inexpressible
+   6 syan nasti ca avaktavyam           it is not, and is inexpressible
+   7 syad asti ca nasti ca avaktavyam   it is, is not, and is inexpressible
+                                   |
+                                   v
+ THE FOUR INDICES THAT BLOCK CONTRADICTION
+   dravya  substance -> the jar IS clay, IS NOT gold
+   ksetra  place     -> IS on this table, IS NOT in that room
+   kala    time      -> IS now, WAS NOT yesterday
+   bhava   mode      -> IS jar-shaped, IS NOT lump-shaped
+   existence asserted in OWN-FORM (svarupa) · non-existence in OTHER-FORM (pararupa)
+   contradiction needs SAME respect, SAME time, SAME sense -> syat guarantees it never holds
+                                   |
+                                   v
+ INEXPRESSIBILITY (avaktavya) = failure of ONE unqualified SIMULTANEOUS utterance
+   NOT mystical silence · NOT a third truth-value · NOT suspension of judgement
+ BLIND MEN AND THE ELEPHANT -> pedagogical only; one sentence, then return to the indices
+ ANSWER LINE -> "syat is an index, not a hedge: the seven forms record conditions of
+ truth rather than degrees of doubt."
 
-ASCII MASTER FLOW — PANEL 8/8: PYQ answer architecture
-OPEN: Jainism joins realism, pluralism and perspectival discipline
-                         |
- ontology -> conscious soul (jīva)/non-conscious reality (ajīva) -> dravya-guṇa-paryāya ->
-   permanence-through-change
-                         |
- epistemology -> many-sided reality (anekāntavāda) -> naya -> syāt -> exact seven bhaṅgas
-                         |
- soteriology -> action and moral consequence (karma) as matter -> influx of karmic matter
-   (āsrava)/bondage (bandha) -> stoppage of karmic influx (saṃvara)/shedding of karma (nirjarā)
-   -> liberation (mokṣa)
-                         |
- evaluate strongest contradiction objection and standpoint reply
-                         |
- CLOSE: qualified predication protects complexity without surrendering truth.
+ASCII MASTER FLOW — PANEL 8/12: Evaluating non-absolutism — three distinct challenges
+ CHALLENGE A: SELF-REFUTATION OR TRIVIALITY
+   if qualified -> weak;  if unqualified -> inconsistent;  if merely "views differ" -> thin
+   JAINA REPLY -> walk through the FIRST horn: the thesis IS asserted syat
+                  reflexive qualification is OBEDIENCE, not exemption
+                  aspect-conditioned truth is NOT equal truth for all opinions
+   [ANALYSIS] the triviality charge is answered only by SHOWING the work the doctrine
+   does: holding permanence and change together, and diagnosing rivals as absolutised nayas
+                                   |
+                                   v
+ CHALLENGE B: "RELATIVISM NEEDS ABSOLUTISM"   (2022, Q6(b), 15 marks)
+   critic  -> universal scope looks absolute, so the doctrine leans on what it attacks
+   reply 1 -> it denies ONE-SIDED EXCLUSIVISM by finite knowers, not comprehensiveness
+   reply 2 -> ordinary cognition is ksayopasamika; kevala-jnana is the INTERNAL complete case
+   reply 3 -> "relativism" mislabels it: relativism relativises TRUTH, non-absolutism
+              relativises EXCLUSIVE CLAIMS
+   [ANALYSIS] the charge equivocates on "absolute"; once separated, the contradiction goes
+   [RESIDUE] the unconditioned is RELOCATED to omniscience, not abolished -> say so
+                                   |
+                                   v
+ CHALLENGE C: "PLURALISTIC AND REALISTIC?"    (2025, Q7(c), 15 marks)
+   PLURALISTIC -> six substances · innumerable souls · many siddhas · no monistic reduction
+   REALISTIC   -> substances, qualities and modes objectively real · world not illusion
+                  aspects are IN the object, not projected onto it
+   QUALIFIER   -> judgement is standpoint-indexed -> QUALIFIED REALISM
+   KEY LINE    -> qualification of KNOWLEDGE does not entail unreality of the OBJECT
+                                   |
+                                   v
+ GRADED VERDICT TO CLOSE ANY CRITICAL ANSWER
+   STRONG    permanence-and-change; disciplined ontology-to-language sequence;
+             causally serious ethics; derived non-violence
+   WEAK      soul-matter interaction; unverifiable higher knowledges; heavy taxonomy;
+             possible dilution of assertoric force
+   CONTESTED sectarian treatment of time; legal status of sallekhana; dating of thinkers.
+
+ASCII MASTER FLOW — PANEL 9/12: Bondage — the complete mechanism
+ FIVE CAUSES OF BONDAGE
+   mithyatva  wrong vision      -> misapprehends soul, reality and path
+   avirati    non-restraint     -> leaves conduct exposed
+   pramada    carelessness      -> weakens vigilance even where doctrine is known
+   kasaya     passions          -> anger, pride, deceit, greed: DEPTH and DURATION
+   yoga       activity          -> body, speech, mind: the CHANNEL of influx
+                                   |
+                                   v
+ bhava-karma  (the soul's own passionate modification)  = PSYCHIC BONDAGE (bhavabandha)
+                                   | attracts
+                                   v
+ dravya-karma (subtle material particles actually adhering) = MATERIAL BONDAGE (dravyabandha)
+   WHY BOTH ARE NEEDED -> keep only the first and karma becomes a metaphor;
+   keep only the second and intention becomes irrelevant to moral consequence
+                                   |
+                                   v
+ FOUR PARAMETERS OF ADHESION — THE DIVISION OF LABOUR THAT IS ALWAYS EXAMINED
+   prakrti   TYPE of karma bound       <- ACTIVITY (yoga)
+   pradesa   QUANTITY of matter bound  <- ACTIVITY (yoga)
+   sthiti    DURATION of bondage       <- PASSION  (kasaya)
+   anubhaga  INTENSITY of fruition     <- PASSION  (kasaya)
+   CONSEQUENCE -> iryapathika bandha (momentary, passion-free activity)
+                  samparayika bandha (durable, passion-coloured activity)
+   dry cloth gathers no dust; the oiled cloth holds it
+                                   |
+                                   v
+ EIGHT KARMA-TYPES
+   GHATIYA (destructive)                    AGHATIYA (non-destructive)
+     jnanavaraniya  obscures knowledge        vedaniya  pleasure and pain
+     darsanavaraniya obscures perception      nama      body and embodiment
+     mohaniya       obscures right vision     gotra     status conditions
+                    AND right conduct         ayus      lifespan
+                    -> WORST; divided into
+                    darsana- and caritra-
+     antaraya       obstructs power
+   -> destroying the GHATIYA group yields OMNISCIENCE while still embodied (stage 13)
+ CONTRAST -> Nyaya adrsta · Mimamsa apurva · Samkhya samskara · Buddhist vasana
+             none of these is MATTER adhering to the self
+ TRAP -> never assign duration to activity or quantity to passion.
+
+ASCII MASTER FLOW — PANEL 10/12: The path — stop the influx, then shed the deposit
+ THE ROOM WITH AN OPEN DOOR AND A DUSTY FLOOR
+   sweeping while the door stands open is endless work -> the path needs TWO operations
+                                   |
+     +-----------------------------+-----------------------------+
+     v                                                           v
+ SAMVARA  (stoppage, PREVENTIVE)                            NIRJARA (shedding, ELIMINATIVE)
+   five vows                                                  tapas (austerity), external
+     ahimsa    non-violence                                   and internal
+     satya     truthfulness                                   internal: repentance,
+     asteya    non-stealing                                   humility, service, study,
+     brahmacarya chastity                                     detachment, meditation,
+     aparigraha non-possession                                abandonment of bodily
+   mahavrata for ascetics · anuvrata for householders         identification
+   gupti     restraint of body, speech, mind                  natural fruition wears karma
+   samiti    carefulness in movement, speech, alms,           out; disciplined austerity
+             handling objects, bodily functions               ACCELERATES the shedding
+   dharma    ten virtues, from forgiveness to celibacy
+   anupreksa contemplations on self, impermanence, influx
+   parisaha-jaya  patient conquest of afflictions
+   caritra   right conduct, integrating the above
+     +-----------------------------+-----------------------------+
+                                   v
+ THE SEQUENCE, AND THE TWO ENUMERATIONS BUILT ON IT
+   asrava -> bandha -> samvara -> nirjara -> moksa
+   SEVEN TATTVAS  : jiva · ajiva · asrava · bandha · samvara · nirjara · moksa
+   NINE PADARTHAS : the seven PLUS punya (merit) and papa (demerit)
+   -> merit is still BONDAGE: it improves the rebirth, it does not release from rebirth
+                                   |
+                                   v
+ THREE JEWELS (ratnatraya), JOINTLY AND NOT SERIALLY
+   samyag-darsana right vision · samyag-jnana right knowledge · samyak-caritra right conduct
+   knowledge without conduct does not stop influx; conduct without right vision has no aim
+ LIBERATION BY SUBTRACTION -> cleaning a sooted lamp does not create the light
+ ANSWER LINE -> "Stoppage is preventive, shedding is eliminative, and liberation is simply
+ what remains."
+
+ASCII MASTER FLOW — PANEL 11/12: The fourteen stages (gunasthana), omniscience and the siddha
+ 14 ayoga-kevali      activity ceases; momentary final state          -> SIDDHA
+ 13 sayoga-kevali     OMNISCIENT while still embodied and active
+      ^  ghatiya karmas destroyed; aghatiya karmas still sustain body, status, lifespan
+ 12 ksina-moha        delusion DESTROYED        <- ksapaka-sreni, the ladder of annihilation
+ 11 upasanta-moha     delusion only SUPPRESSED  <- upasama-sreni, and it NECESSARILY FALLS
+ 10 suksma-samparaya  only subtle greed remains
+  9 anivrtti-badara   advanced purification of gross passions
+  8 apurva-karana     unprecedented purification begins; the two ladders diverge here
+  7 apramatta-samyata full restraint WITHOUT negligence
+  6 pramatta-samyata  full restraint WITH negligence
+  5 desavirata        partial restraint; lay vows
+  4 avirata samyag-drsti  RIGHT VISION without restraint   <- THE DECISIVE BREAKTHROUGH
+  3 misra             mixed right and wrong orientation
+  2 sasvadana         falling, with a lingering taste of right vision
+  1 mithya-drsti      false vision
+                                   |
+                                   v
+ WHY THE TWO LADDERS MATTER PHILOSOPHICALLY
+   suppression and destruction look IDENTICAL from outside and have OPPOSITE futures
+   -> Jainism can explain spiritual RELAPSE without calling it a failure of insight
+   -> attainment is a karmic CONDITION, not an observable performance
+                                   |
+                                   v
+ THE LIBERATED SOUL (siddha) — the exact 2018 demand
+   individuality  RETAINED, numerically distinct; NO merger into a universal consciousness
+   knowledge      infinite knowledge and perception fully manifest
+   body/activity  NONE; disembodied and activity-free
+   return         NONE; bondage is anadi (beginningless) yet TERMINABLE
+   location       rises to the summit of the world (siddha-sila)
+   CONTRAST -> not Advaita merger into Brahman; not liberation without an enduring self
+                                   |
+                                   v
+ SALLEKHANA / SANTHARA — voluntary passionless death
+   gradual · supervised · public · non-violent · undertaken when death is already unavoidable
+   free from desire for death, desire to live, attachment, recollection of pleasure, reward
+   if such motives enter -> aticara, a TRANSGRESSION of the vow
+   vs atma-ghata (suicide): sudden, passion-driven, violent, often concealed
+ [CONTESTED] do NOT assert case names, holdings, dates or statutory detail.
+
+ASCII MASTER FLOW — PANEL 12/12: Objections, comparative map, PYQ rail and answer spine
+ SIX NAMED CRITICS — SIX DIFFERENT JOINTS, SIX DIFFERENT REPLIES, SIX RESIDUES
+   Sankara      predication      -> four indices; syadvada asserted syat
+                                    [RESIDUE] assertoric force may be diluted
+   Ramanuja     opposed real     -> opposition holds between substance and mode
+                attributes          [RESIDUE] requires granting aspect-realism
+   Dharmakirti  permanent-yet-   -> utpada-vyaya-dhrauvya: permanent as substance,
+                changing soul,      changing as mode
+                arthakriya          [RESIDUE] strong if substance/mode is denied
+   Nyaya        soul's expansion -> pradesas and the lamp simile; karma explains
+                material karma      embodiment better than an invisible potency
+                                    [RESIDUE] consciousness-matter contact unexplained
+   Samkhya/     omniscience plus -> anadi but terminable by samvara and nirjara
+   Vedanta      beginningless       [RESIDUE] no account of why it was possible
+                obscuration
+   Carvaka      nothing here is  -> inference, testimony, systematic coherence
+                perceived           [RESIDUE] external critique; never lead with it
+                                   v
+ COMPARATIVE MAP — USE ONE ROW, NEVER THE WHOLE TABLE
+   BUDDHISM  no self · momentariness · non-material action-consequence · nirvana
+   ADVAITA   one self · world mithya · avidya and superimposition · merger
+   NYAYA-VS  many eternal selves · fresh production of the effect · later theism
+   SAMKHYA   many changeless purusas · evolving prakrti · pre-existent effect
+   CARVAKA   body-self · no action-consequence · no liberation · perception only
+   JAINA SIGNATURE -> the only position making permanence and change EQUALLY REAL in
+   one thing, by indexing them to substance and mode
+                                   |
+                                   v
+ PYQ RAIL 2018-2025 (nine owned, one routed)
+   2018 Q6(c) 15 bondage, bound vs liberated soul   | 2022 Q5(d) 10 karma and soteriology
+   2019 Q6(a) 20 reality reflected in judgements    | 2022 Q6(b) 15 relativism/absolutism
+   2020 Q5(a) 10 karma and liberation               | 2023 Q5(a) 10 sevenfold judgement
+   2020 Q7(c) 15 Carvaka vs Jaina reality [routed]  | 2024 Q6(c) 15 bhava-/dravyabandha
+   2021 Q7(c) 15 the sevenfold naya                 | 2025 Q7(c) 15 pluralist and realist?
+                                   |
+                                   v
+ ANSWER SPINE
+   OPEN  define the real, then say the logic FOLLOWS from it
+   BODY  ontology -> knowledge -> standpoint -> syat -> seven predications
+         bondage -> two forms -> four parameters -> stoppage and shedding -> stages
+   TEST  one NAMED objection with its reply, and the residue stated honestly
+   CLOSE "realism without dogmatism" — qualified realism, ethically serious and
+         logically subtle, yet metaphysically costly.

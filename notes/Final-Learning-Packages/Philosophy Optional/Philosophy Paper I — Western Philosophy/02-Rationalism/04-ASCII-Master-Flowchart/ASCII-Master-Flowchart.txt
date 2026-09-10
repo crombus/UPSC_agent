@@ -1,120 +1,1304 @@
-ASCII MASTER FLOW — PANEL 1/10: Rationalist starting problem and connected 3-1-infinity sequence
-CENTRAL QUESTION: CAN REASON GROUND NECESSITY WHILE EXPERIENCE OCCASIONS KNOWLEDGE?
+ASCII MASTER FLOW — PANEL 1/43: Central question and the 3-1-infinity route
+================================================================================
+CENTRAL QUESTION: WHAT CAN REASON KNOW WITH NECESSITY, AND WHAT IS THERE TO KNOW
         |
-        +--> METHOD: a priori principles + intuition + deduction
-        +--> METAPHYSICS: substance, attribute, mode and sufficient explanation
+        +--> WARRANT, not hostility to the senses: experience may OCCASION a
+        |    thought; only intellect certifies NECESSITY and UNIVERSALITY
+        +--> NECESSARY = could not be otherwise | UNIVERSAL = all cases, not
+        |    all observed cases | A PRIORI = justified independently of any
+        |    particular experience
         |
-DESCARTES: God + mind + body -> interaction problem
-        |
-SPINOZA: one God/Nature -> parallelism + necessity -> individuality problem
-        |
-LEIBNIZ: many monads -> harmony + contingency -> economy and evil problem
-MEMORY: substance 3-1-infinity; mind-body I-P-H.
-
-ASCII MASTER FLOW — PANEL 2/10: Cartesian methodic doubt, cogito and first certainty
-FOUR METHOD RULES: evidence -> division -> simple-to-complex order -> complete review
-        |
-SENSE ERROR -> DREAM ARGUMENT -> EVIL-GENIUS HYPOTHESIS
-        | suspend every belief that can be doubted
         v
-COGITO: I AM, I EXIST WHENEVER I THINK
-        | immediate intuition, not a syllogism
-        +--> clear and distinct perception becomes the model
-        +--> intuition supplies first principles; deduction orders consequences
-LIMIT: present thinking is certain; enduring substance, world and identity need further argument.
+THE TEST ALL THREE INHERIT - WHAT IS A SUBSTANCE?
+   "that which is in itself and is conceived through itself,
+    needing nothing else in order to exist"
+        |
+   HOW STRICTLY IS "NEEDING NOTHING ELSE" ENFORCED?
+        |
++----------------------+----------------------+-------------------------+
+| DESCARTES            | SPINOZA              | LEIBNIZ                 |
+| loosely/analogically | strictly             | strictly + SIMPLICITY   |
+| THREE substances     | ONE substance        | INFINITELY MANY monads  |
+| God + res cogitans   | God, or Nature       | simple, unextended,     |
+| + res extensa        | (Deus sive Natura)   | perceiving, striving    |
+| DUALISM              | MONISM / PANTHEISM   | PLURALISM               |
+| INTERACTION (pineal) | PARALLELISM          | PRE-ESTABLISHED HARMONY |
+| God GUARANTEES       | God IS the system    | God SELECTS+HARMONISES  |
+| libertarian will     | adequate self-       | spontaneity+intelligence|
+|                      | determination        | +contingency            |
++----------------------+----------------------+-------------------------+
+        |
+        +--> COST TO DESCARTES: interaction is unintelligible
+        +--> COST TO SPINOZA: individuality and alternatives are lost
+        +--> COST TO LEIBNIZ: correspondence must be bought from God in advance
+        |
+        v
+MNEMONICS: substance "3 -> 1 -> infinity" | mind-body "I-P-H" (Interaction,
+   Parallelism, Harmony) | God "G-I-S" (Guarantees, Is, Selects)
+SYLLABUS (verbatim): "Rationalism (Descartes, Spinoza, Leibniz); Cartesian
+   Method and Certain Knowledge; Substance; God; Mind-Body Dualism;
+   Determinism and Freedom."  Paper I, Section A, item 2.
+CORPUS SIGNAL: 14 primary-owned parts of 112 Western parts, 2018-2025;
+   joint-highest in Western Philosophy; 2021 is the only year with none.
 
-ASCII MASTER FLOW — PANEL 3/10: Cartesian knowledge architecture and Circle objection
-COGITO -> IDEAS -> GOD -> NON-DECEPTION -> MATHEMATICS AND EXTERNAL RES EXTENSA
-IDEAS: innate / adventitious / factitious; objective reality = representational content
-GOD: causal adequacy or trademark route + ontological route; present cautiously
-WAX: intellect judges extended, flexible, changeable identity beyond sensory qualities
-CIRCLE: clear/distinct premises prove God -> God guarantees clear/distinct truth
-REPLY: present intuition compels; God secures memory and extended reasoning
-RESIDUAL: the divine proofs themselves use inferential premises
-WORLD: involuntary ideas + natural inclination + divine veracity support bodies
-LIMIT: body-existence is stronger than exact resemblance of sensible qualities.
+ASCII MASTER FLOW — PANEL 2/43: Chronology and textual map that prevents anachronism
+================================================================================
+ 1596-1650  RENE DESCARTES
+   1637  Discourse on the Method (French) -> four rules; je pense, donc je suis
+   1641  Meditations on First Philosophy (Latin; French 1647)
+           I   -> senses, dream argument, evil genius (genius malignus)
+           II  -> "I am, I exist"; the wax; mind better known than body
+           III -> trademark/causal proof; conservation proof; kinds of idea
+           IV  -> error: the infinite will outruns the finite intellect
+           V   -> the ontological proof
+           VI  -> the real distinction; the external world
+   1641  Objections and Replies -> ARNAULD states the Circle (Fourth Objections)
+   1643  Correspondence with PRINCESS ELISABETH OF BOHEMIA -> interaction gap
+   1644  Principles of Philosophy -> I.7 cogito ergo sum; I.51 "substance" is
+                                     conceded to be ANALOGICAL
+   1649  Passions of the Soul -> pineal gland; the mind-body union
+        |
+ 1632-1677  BENEDICT DE SPINOZA   (reads Descartes; refuses the softening)
+   1656  excommunicated from the Amsterdam Jewish community (heterodoxy)
+   1663  Descartes' Principles of Philosophy, set out geometrically
+   1670  Theological-Political Treatise (anonymous)
+   1674  LETTER 50 to Jarig Jelles, 2 June -> "determination is negation"
+   1677  Ethics (posthumous), demonstrated more geometrico
+           I   -> substance, God or Nature, necessity, immanent cause
+           II  -> attributes, modes, parallelism, three kinds of knowledge
+           III -> striving (conatus) and the affects
+           IV  -> human bondage; Deus sive Natura in the Preface
 
-ASCII MASTER FLOW — PANEL 4/10: Descartes on substance, interaction and freedom
-GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT
-        +--> RES COGITANS: attribute thought; modes include ideas and volitions
-        +--> RES EXTENSA: attribute extension; modes include shape and motion
-REAL DISTINCTION: clear conception of each without the other
-SUBSTANTIAL UNION: one embodied person experiences cross-domain coordination
-OBJECTION: how can unextended mind cause extended motion? causal-closure pressure
-REPLY: primitive notion of union; RESIDUAL: no transparent mechanism
-OTHER MINDS: inferred through embodied behaviour, not given by the cogito
-FREEDOM: will assents or withholds; error occurs when will outruns intellect
-LIMIT: created substances depend continuously on God.
+ASCII MASTER FLOW — PANEL 3/43: Chronology and textual map that prevents anachronism (continued)
+================================================================================
+           V   -> freedom, intuitive knowledge, intellectual love of God
+        |
+ 1646-1716  GOTTFRIED WILHELM LEIBNIZ (reads both; refuses one substance)
+   1686  Discourse on Metaphysics -> the complete individual concept
+   1704  New Essays on Human Understanding (against Locke; published 1765)
+   1710  Theodicy -> le meilleur des mondes possibles
+   1714  Monadology (French; printed 1720/1840) -> Sec.7 "no windows"
+   1715-16  Leibniz-Clarke correspondence -> sufficient reason; indiscernibles
+        |
+   1759  VOLTAIRE, Candide -> satirises "the best of all possible worlds"
+         CAUTION: reception, NOT doctrine. Never cite Candide as Leibniz's view.
 
-ASCII MASTER FLOW — PANEL 5/10: Spinoza's substance-attribute-mode hierarchy and immanent God
-ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE
-                         = DEUS SIVE NATURA
-                                  |
-                      infinitely many ATTRIBUTES
-                                  |
-                 humans know THOUGHT and EXTENSION
-                                  |
-                    finite minds and bodies are MODES
-GOD = immanent cause; all modes are in God, but no finite aggregate exhausts God
-OBJECTION: acosmism; REPLY: modes retain dependent reality.
+CONSEQUENCE: the order is CAUSAL, not merely chronological. Spinoza's monism
+   corrects an equivocation Descartes CONCEDES in Principles I.51; Leibniz's
+   pluralism corrects Spinoza's absorption of individuals.
+CAUTION 1: the Ethics appeared only after Spinoza's death, so seventeenth-
+   century reaction to "Spinozism" often ran ahead of the text.
+CAUTION 2: Leibniz's system must be assembled from the Discourse, the Theodicy,
+   the Monadology and the correspondence together - which matters whenever an
+   examiner quotes a single work.
 
-ASCII MASTER FLOW — PANEL 6/10: Spinoza's parallelism and route from bondage to freedom
-ONE EVENT -> under THOUGHT: idea -> under EXTENSION: body-state
-ORDER AND CONNECTION OF IDEAS = ORDER AND CONNECTION OF THINGS
-NO cross-attribute causal transfer; parallelism replaces Cartesian interaction
-FINITE MODES are necessarily caused; contingency records ignorance of causes
-CONATUS = each thing's striving to persevere in being
-INADEQUATE IDEAS + external causes -> passive affects -> BONDAGE
-COMMON NOTIONS / REASON / INTUITION -> ADEQUATE IDEAS -> ACTIVITY
-FREEDOM = acting from understood nature within necessity, not uncaused choice
-LIMIT: autonomy survives, but alternative possibilities do not.
+ASCII MASTER FLOW — PANEL 4/43: Five tenets and the definition that splits the school
+================================================================================
+THE FIVE TENETS THAT DEFINE THE SCHOOL   [2025 Q2(a), first limb]
++---+--------------------------+------------------------------------------+
+| 1 | INNATE COGNITIVE         | native CAPACITIES or structures of       |
+|   | RESOURCES                | intellect, NOT copies taken from sense   |
+|   |                          | -> say "dispositional", never "known at  |
+|   |                          |    birth", or Locke wins immediately     |
+| 2 | REASON GROUNDS NECESSITY | experience OCCASIONS; intellect WARRANTS |
+| 3 | INTUITION AND DEDUCTION  | Descartes: clear intuition + ordered     |
+|   |                          | deduction | Spinoza: geometrical order   |
+|   |                          | (more geometrico) | Leibniz: identities, |
+|   |                          | sufficient reasons, complete concepts    |
+| 4 | THE REAL IS THE RATIONAL | reality has an intelligible structure    |
+| 5 | SUBSTANCE METAPHYSICS    | explain by substance, attribute, mode    |
++---+--------------------------+------------------------------------------+
+NOT THE CLAIM: that sensory beliefs are uniformly false, that the senses are
+   useless, or that every truth is consciously present at birth.
+        |
+        v
+TENET 5 CARRIES THE INHERITED DEFINITION, AND THE DEFINITION HAS A DIAL
+        |
+   DESCARTES turns it DOWN     only God needs NOTHING WHATEVER; mind and
+      (Principles I.51)        matter need only God -> "created substances"
+   SPINOZA turns it to MAXIMUM conceived through itself = depends on nothing
+                               at all -> only the infinite qualifies -> ONE
+   LEIBNIZ keeps plurality,    extended = divisible = composite = not
+      ADDS SIMPLICITY          ultimate -> partless units -> INFINITELY MANY
+        |
+        v
+MEMORY CHAIN: ATTRIBUTE SEPARATES -> INDEPENDENCE UNIFIES -> SIMPLICITY
+   MULTIPLIES.
+MECHANISM FOR 2018 Q2(a): a method fixes HOW to argue; it does not fix WHICH
+   criterion of "ontologically basic" to enforce, nor how strictly. The
+   divergence is rationalism operating CONSISTENTLY, not one of them lapsing.
+HONEST LIMIT: the school supplies deductive ambition and vocabulary but no
+   neutral procedure for choosing among the three criteria.
 
-ASCII MASTER FLOW — PANEL 7/10: Leibniz's monad hierarchy, perception and individuality
-WHY MONADS? extension is divisible; ultimate substance must be simple
-GOD: unique uncreated necessary source / complete intelligence
-RATIONAL SPIRITS: apperception + reason + moral agency
-ANIMAL SOULS: memory + clearer perception
-BARE ENTELECHIES: obscure minute perceptions without apperception
-EVERY MONAD: simple, unextended, windowless, perceptive and appetitive
-APPETITION = internal transition; each perspective expresses the universe
-IDENTITY OF INDISCERNIBLES secures uniqueness
-BODIES = well-founded phenomena grounded in ordered monadic aggregates.
+ASCII MASTER FLOW — PANEL 5/43: Descartes: the four rules and the three-stage doubt
+================================================================================
+THE FOUR RULES (Discourse on the Method, Part II, 1637)
+   1 EVIDENCE     accept nothing as true which is not clearly and evidently
+                  known to be so; avoid haste and prejudice
+   2 ANALYSIS     divide each difficulty into as many parts as its solution
+                  requires
+   3 ORDER        conduct thoughts in order, from the simplest and easiest
+                  upward to the more complex
+   4 ENUMERATION  make enumerations so complete and reviews so general that
+                  nothing is omitted
+        | RULE 1 IS THE ENGINE. Rules 2-4 are intellectual hygiene borrowed
+        | from mathematical practice and by themselves remove no belief.
+        v
 
-ASCII MASTER FLOW — PANEL 8/10: Leibnizian harmony, sufficient reason, contingency and freedom
-GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON
-        +--> mind-monad states unfold internally
-        +--> bodily/organic states unfold internally
-        +--> PRE-ESTABLISHED HARMONY makes them correspond without interaction
-TRUTHS OF REASON: opposite contradictory -> logically necessary
-TRUTHS OF FACT: opposite conceivable -> contingent though certain
-COMPLETE CONCEPT: all predicates belong to the individual known fully by God
-FREEDOM: spontaneity + intelligence + contingency; reasons incline, not coerce
-OBJECTION: programming/evil; REPLY: self-expression + optimal compossibility
-LIMIT: compatibility is stronger than libertarian freedom.
+ASCII MASTER FLOW — PANEL 6/43: Descartes: the four rules and the three-stage doubt (continued)
+================================================================================
+CLASS-BY-CLASS DEMOLITION (Meditation I) - CUMULATIVE, IN THIS ORDER
++-------------------+--------------------------+-------------------------+
+| STAGE             | ARGUMENT                 | WHAT SURVIVES IT        |
++-------------------+--------------------------+-------------------------+
+| 1 SENSE-DECEPTION | the senses have deceived | apparently my immediate |
+|                   | before - a bent stick in | situation: this hand,   |
+|                   | water, a distant tower - | this paper              |
+|                   | and what deceives once   |                         |
+|                   | is imprudent to trust    |                         |
+| 2 DREAM ARGUMENT  | there is no certain mark | the simple and          |
+|                   | distinguishing waking    | universal: extension,   |
+|                   | from sleep -> the whole  | shape, quantity,        |
+|                   | external world may be    | number; MATHEMATICS     |
+|                   | absent                   |                         |
+| 3 EVIL GENIUS     | suppose a supremely      | only what cannot be     |
+|   (genius         | powerful malicious       | false WHILE I AM        |
+|    malignus)      | deceiver bends all his   | THINKING IT             |
+|                   | effort to deceiving me - |                         |
+|                   | even about 2 + 3 = 5     |                         |
++-------------------+--------------------------+-------------------------+
+        |
+        v
+THE LADDER BREAKS UNDER ITS OWN WEIGHT: TO BE DECEIVED, I MUST EXIST
+   TO BE DECEIVED.
+CHARACTER OF THE DOUBT: METHODIC (adopted as a procedure) · HYPERBOLIC
+   (pushed further than ordinary life warrants) · PROVISIONAL (Descartes does
+   not believe the world is absent).
+TRAP: reporting the three doubts unordered destroys the escalation, which is
+   itself the argument.
 
-ASCII MASTER FLOW — PANEL 9/10: Three rationalist systems compared on matched axes
-+------------+--------------------+--------------------+----------------------+
-| AXIS       | DESCARTES          | SPINOZA            | LEIBNIZ              |
-+------------+--------------------+--------------------+----------------------+
-| substance  | God + mind + body  | one God or Nature  | many simple monads   |
-| God        | creator/guarantee  | immanent reality   | selector/coordinator |
-| mind-body  | interactionism     | parallelism        | harmony              |
-| order      | mechanism + will   | strict necessity   | certain/contingent   |
-| freedom    | rational assent    | adequate activity  | intelligent spontaneity|
-+------------+--------------------+--------------------+----------------------+
-PRESSURE SEQUENCE: interaction gap -> monist unity -> restored individuality.
+ASCII MASTER FLOW — PANEL 7/43: The thinking self: wording, status and limits
+================================================================================
+THE TWO FORMULATIONS - DO NOT CONFUSE THEM
+   Discourse (1637, French)     je pense, donc je suis
+   Principles I.7 (1644, Latin) cogito, ergo sum
+   MEDITATIONS II (1641)        "I am, I exist, is necessarily true whenever
+                                 it is put forward by me or conceived in my
+                                 mind"
+   TRAP: do NOT attribute "cogito, ergo sum" to the Meditations.
+        |
+        v
+STATUS
+   +--> IMMEDIATE INTUITION of the mind, NOT a syllogism. Descartes expressly
+   |    denies a suppressed major premise such as "whatever thinks exists".
+   +--> PERFORMATIVE and PRESENT-TENSE: the act of entertaining the doubt
+   |    certifies the doubter at that moment.
+   +--> DEFEATS THE DECEIVER BY USING HIM: let him deceive as much as he can,
+   |    he can never make me nothing so long as I think I am something.
+   +--> THE ARCHIMEDEAN POINT: one firm and immovable point sufficient to
+        move the earth.
+        |
+        v
+WHAT IT ESTABLISHES        |  WHAT IT DOES NOT YET ESTABLISH
+   thinking is occurring   |    an enduring immaterial substance
+   the thinker exists      |    diachronic personal identity
+     WHILE thinking        |    that the thinker is ONLY a thinking thing
+   one proposition immune  |    (the real distinction is argued in
+     to the evil genius    |     Meditation VI, not here)
+        |
+        v
+DESCARTES THEN DEVELOPS THE THINKING THING (res cogitans) THROUGH THE REST
+   OF MEDITATION II: "a thing that doubts, understands, affirms, denies, is
+   willing, is unwilling, and also imagines and has sensory perceptions".
+LATER PRESSURE: Lichtenberg - Descartes was entitled only to "there is
+   thinking"; Hume - the self is a bundle, not a substance.
+WHY THIS IS A RATIONALIST FOUNDATION: reached with NO sensory premise;
+   grasped by INTELLECTUAL INTUITION; and it supplies the MODEL from which
+   the criterion of truth is read off.
 
-ASCII MASTER FLOW — PANEL 10/10: Criticism-reply ledger, traps, PYQ routes and answer spine
-DESCARTES: interaction gap -> primitive union -> mechanism remains opaque
-SPINOZA: necessity/acosmism -> adequate activity + modal reality -> no alternatives
-LEIBNIZ: programming/evil/economy -> spontaneity + possible worlds -> residual pressure
-PRECISION: substance != attribute != mode; mind != person; necessity != fatalism
-PRECISION: spontaneity != autonomy; compatibilism != libertarian freedom
-PYQ ROUTES: certainty/self-world; substance 3-1-infinity; pantheism; freedom
-PYQ ROUTES: innate ideas; monads/harmony; God; determination/negation
-ANSWER SPINE:
-directive -> thesis -> definitions -> argument -> example -> objection -> reply -> verdict
-CONTROL: claim -> named evidence -> analysis -> qualification
-BOUNDARY: core = method, substance, God, mind-body and freedom; later owners stay bounded.
-BOUNDARY: core = method, substance, God, mind-body and freedom; later owners stay bounded.
-VERDICT: intelligibility is gained at recurring costs to interaction and autonomy.
+ASCII MASTER FLOW — PANEL 8/43: Clear and distinct perception; three kinds of ideas
+================================================================================
+STEP 1  READ THE CRITERION OFF THE MODEL - IT IS DERIVED, NOT ASSUMED
+   Why was "I am, I exist" certain?  Because it was perceived CLEARLY and
+   DISTINCTLY.  RULE: whatever I perceive very clearly and distinctly is true.
+      CLEAR    = present and open to an attentive mind
+      DISTINCT = so sharply separated from everything else that it contains
+                 within itself only what is clear
+   NOTE FOR PANEL 12: the rule is extracted from ONE instance. Turning it into
+   a GENERAL licence for perceptions no longer attended to is exactly the work
+   God is later asked to do - which is where the Circle strikes.
+        |
+        v
+STEP 2  SORT THE CONTENTS OF THE MIND (Meditation III)
++-----------------+----------------+---------------------+------------------+
+| KIND            | LATIN          | HOW IT ARISES       | EXAMPLES         |
++-----------------+----------------+---------------------+------------------+
+| ADVENTITIOUS    | adventitiae    | seem to come from   | heat, colour,    |
+|                 |                | outside, INVOLUN-   | the sound of a   |
+|                 |                | TARILY; passive     | passing cart     |
+| FACTITIOUS      | factitiae      | constructed BY ME   | a golden         |
+|                 |                | from other ideas;   | mountain, a      |
+|                 |                | voluntary           | siren, a unicorn |
+| INNATE          | innatae        | NATIVE to the       | thought, God,    |
+|                 |                | mind's rational     | infinity,        |
+|                 |                | nature; ELICITED,   | substance, the   |
+|                 |                | not copied          | axioms of maths  |
++-----------------+----------------+---------------------+------------------+
+        |
+        v
+TECHNICAL VOCABULARY REQUIRED FOR PANEL 11
+   OBJECTIVE REALITY of an idea = how much reality it REPRESENTS
+   FORMAL REALITY of a thing    = how much reality it HAS
+   CAUSAL ADEQUACY PRINCIPLE    = the cause of an idea must have at least as
+                                  much formal reality as the idea has
+                                  objective reality
+PURPOSE OF THE CLASSIFICATION: it exists so that the idea of GOD can be placed
+   in the third class and its content argued to exceed anything a finite mind
+   could have manufactured.
+
+ASCII MASTER FLOW — PANEL 9/43: Innate ideas: the argument from insufficiency
+================================================================================
+THE ARGUMENT FROM INSUFFICIENCY - PRESENT INNATENESS AS A CONCLUSION,
+NEVER AS AN ASSERTION
+   1 Some ideas have a content - an OBJECTIVE REALITY - that no finite,
+     changing sensation could supply.
+   2 THE INFINITE is the clearest case: it cannot be built by extending or
+     negating the finite, because I recognise myself as finite only BY
+     CONTRAST with an already-possessed idea of the infinite.
+   3 SUBSTANCE - a bearer persisting through changing qualities - is delivered
+     by no sense-organ (the wax argument, Panels 9-10, shows this directly).
+   4 MATHEMATICAL NECESSITY cannot be read off any number of measured figures,
+     because measurement yields "so far" and never "must".
+   5 THEREFORE these ideas are native to the intellect's own constitution.
+        |
+        v
+INNATENESS, STATED AT ITS STRONGEST  [this is the 2023 Q2(c) hinge]
+   NOT: an explicitly entertained proposition present in an infant's
+        consciousness  <- the OCCURRENT version; Locke destroys it
+   BUT: a DISPOSITION or native capacity, activated on an appropriate
+        occasion - the mind carries "SEEDS OF KNOWLEDGE" which experience may
+        prompt but does not create
+   DESCARTES' OWN ANALOGY (Comments on a Certain Broadsheet): we say a family
+        has an inherited disposition to a disease, not because the infant
+        suffers it in the womb, but because the constitution is such that the
+        condition will develop.
+        |
+        v
+INNATENESS IS A CONSTITUTION, NOT A CONTENT.
+WHERE EACH INNATE IDEA IS USED LATER
+   idea of GOD       -> the trademark proof (Panel 11)
+   idea of EXTENSION -> the wax argument (Panels 9-10)
+   idea of SUBSTANCE -> the whole substance metaphysics (Panel 14)
+
+ASCII MASTER FLOW — PANEL 10/43: Locke's grounds, the replies and the adjudication
+================================================================================
+LOCKE, ESSAY CONCERNING HUMAN UNDERSTANDING, BOOK I
+   The mind is "white paper, void of all characters", furnished from
+   SENSATION and REFLECTION.
+   TRAP: omitting REFLECTION misstates Locke. His two sources are sense AND
+   the mind's observation of its own operations.
++---------------------+---------------------------+----------------------+
+| LOCKE'S OBJECTION   | CARTESIAN REPLY           | WHAT STILL STANDS    |
++---------------------+---------------------------+----------------------+
+| NO UNIVERSAL ASSENT | innateness is DISPOSI-    | a disposition must   |
+| children and those  | TIONAL, not continuous    | be specified so      |
+| lacking the         | conscious assent;         | narrowly that not    |
+| concepts do not     | universal assent was      | EVERY learnable      |
+| affirm the alleged  | never the claim           | truth counts as      |
+| principles          |                           | innate  <- sharpest  |
+| NOTHING UNKNOWN CAN | native capacities operate | the reply risks      |
+| BE "IN THE MIND"    | before reflective         | shifting from INNATE |
+| if mental content   | recognition; structure is | IDEAS to an          |
+| is transparent,     | not the same as occurrent | uncontroversial      |
+| every knowable      | content                   | CAPACITY TO LEARN,   |
+| truth is "innate"   |                           | which is no          |
+|                     |                           | rationalist thesis   |
+| SENSATION AND       | finite experience cannot  | Locke reconstructs   |
+| REFLECTION SUFFICE  | by itself yield the       | infinity by          |
+| all materials of    | POSITIVE idea of infinity | repetition and       |
+| ideas trace to      | or the WARRANT for        | negation, necessity  |
+| experience          | mathematical necessity    | by abstraction       |
++---------------------+---------------------------+----------------------+
+        |
+        v
+ADJUDICATION THAT EARNS THE MARK
+   Locke DECISIVELY refutes OCCURRENT innatism - the doctrine that the mind is
+   born consciously holding propositions.
+   He does NOT as clearly refute DISPOSITIONAL innatism.
+   But the burden then shifts to the rationalist to say what makes a
+   disposition specifically INNATE rather than a general capacity to learn -
+   and at that point the debate is genuinely unresolved.
+ANSWER RULE: never defend the caricature. State the dispositional version
+   FIRST, then let Locke attack, then rule.
+
+ASCII MASTER FLOW — PANEL 11/43: The wax argument: the eight numbered steps
+================================================================================
+1  TAKE THE CLEAREST POSSIBLE CASE OF A BODY - wax fresh from the honeycomb
+      SENSIBLE CATALOGUE: taste of honey | scent of flowers | a colour |
+      a shape | a size | hardness | coldness | a sound when rapped
+        |
+2  MOVE IT TO THE FIRE -> EVERY item in that catalogue is destroyed or
+   replaced: taste and scent vanish, colour alters, shape and size are lost,
+   it becomes liquid and hot, and it no longer sounds
+        |
+3  YET I JUDGE, WITHOUT THE LEAST HESITATION, THAT THE SAME WAX REMAINS
+        |
+4  THEREFORE what I take the wax to BE is not identical with any item at
+   step 1, since all of them were replaced while the wax persisted
+        |
+5  NOR IS IT DELIVERED BY IMAGINATION: heat can give the wax an INDEFINITE
+   number of shapes and sizes, and I cannot run through indefinitely many
+   images.  THIS IS THE FORCE OF flexibile et mutabile ("flexible and
+   changeable").
+        |
+6  THEREFORE the wax is grasped as an EXTENDED, FLEXIBLE, CHANGEABLE thing by
+   the INTELLECT ALONE - by inspectio mentis, rendered "purely mental
+   scrutiny" in the Cottingham-Stoothoff-Murdoch translation and "inspection
+   of the mind" in Haldane-Ross
+        |
+7  FURTHER: at every stage - judging the wax present, doubting it, being
+   deceived about it - I perceive MYSELF judging. Each perception of a body is
+   ipso facto a perception of the mind that perceives, and a MORE CERTAIN one,
+   because it survives even if the body does not exist
+        |
+8  THEREFORE (a) BODIES ARE KNOWN BY UNDERSTANDING, NOT BY SENSE
+             (b) THE MIND IS notior - MORE EVIDENTLY KNOWN - THAN ANY BODY
+
+PAIRED CASE IN THE SAME MEDITATION: "HATS AND COATS". From a window I say I
+   SEE men crossing the square; strictly I see only hats and coats and JUDGE
+   that men are underneath. What passes for seeing is in fact judging.
+PRINTED SUB-TITLE OF MEDITATION II: "The nature of the human mind, and how it
+   is better known than the body."
+EXACT SUBTERMS TO USE: cera | inspectio mentis | sensus vs imaginatio vs
+   intellectus | flexibile et mutabile | res extensa.
+
+ASCII MASTER FLOW — PANEL 12/43: The wax: presuppositions, objections and verdict
+================================================================================
+WHAT THE ARGUMENT ASSUMES - STATE THESE; THE 15/20-MARK MARKS ARE HERE
+   P1  SUBSTANCE/ATTRIBUTE METAPHYSICS IS ALREADY IN PLACE. Identity through
+       TOTAL qualitative replacement requires a BEARER distinct from the
+       qualities. Step 3 therefore uses the very metaphysics the Meditations
+       claim to derive.
+   P2  SENSE IS EXHAUSTED BY THE CATALOGUE. If sense could deliver a
+       structural or relational item - not just colour, taste, sound - then
+       step 4 fails.
+   P3  IMAGINATION IS IMAGE-BOUND and therefore finite in range, while
+       intellect is not.
+   P4  PERCEPTION IS SELF-INTIMATING. I cannot perceive without perceiving
+
+ASCII MASTER FLOW — PANEL 13/43: The wax: presuppositions, objections and verdict (continued)
+================================================================================
+       THAT I perceive. Step 7 depends wholly on this.
+        |
+        v
++-------------------------+------------------+------------------------------+
+| OBJECTION               | SOURCE           | REPLY / RESIDUAL             |
++-------------------------+------------------+------------------------------+
+| what survives melting   | GASSENDI, Fifth  | the abstraction must still be|
+| is just "extended       | Objections; the  | OF something identical across|
+| stuff", an ABSTRACTION  | empiricist line  | the change, and no sensory   |
+| built from repeated     |                  | item registers IDENTITY.     |
+| sense-experience        |                  | RESIDUAL: the CONCEPT is not |
+|                         |                  | an image; the KNOWLEDGE is   |
+|                         |                  | not thereby shown a priori   |
+| strip away every        | BERKELEY,        | extension is not a further   |
+| sensible quality and    | Principles       | quality but the MODE OF BEING|
+| nothing remains;        | Sec.9-11         | of every sensible quality.   |
+| extension without       |                  | RESIDUAL: the reply          |
+| sensible qualities is   |                  | presupposes exactly what     |
+| unintelligible          |                  | Berkeley denies              |
+| step 7 confuses         | analytic         | Descartes needs only EPISTE- |
+| CERTAINTY with CONTENT  | reconstruction   | MIC priority for the order of|
+|                         |                  | the Meditations. RESIDUAL:   |
+|                         |                  | fair - "better known" must be|
+|                         |                  | read strictly as MORE        |
+|                         |                  | INDUBITABLE                  |
++-------------------------+------------------+------------------------------+
+        |
+        v
+WHAT IS AND IS NOT ESTABLISHED
+   YES: bodily identity through change is grasped by intellect
+   YES: the essence of body is extension (WITHIN this Meditation)
+   YES: the mind is better known, in the sense of more indubitable
+   NO : that bodies EXIST - that is Meditation VI, by divine veracity
+   OPEN: whether knowledge of body is a priori
+VERDICT: Meditation II already installs EXTENSION as body's essence, so the
+   dualism "proved" in Meditation VI is in part PRESUPPOSED in Meditation II.
+   The Meditations must be read as ONE deductive arc, not six exercises.
+
+ASCII MASTER FLOW — PANEL 14/43: The three proofs of God and their division of labour
+================================================================================
+PROOF 1 - TRADEMARK / CAUSAL  (Meditation III)
+   1 I have an idea of God: an infinite, perfect being.
+   2 The cause of an idea must have at least as much FORMAL reality as the
+     idea has OBJECTIVE reality.
+   3 I, finite and imperfect, cannot be the adequate cause of an idea of an
+     infinite perfect being.
+   4 THEREFORE God exists as its cause - He "stamped" the idea on my mind as
+     a craftsman stamps his mark on his work.
+   ANSWERS: where could this idea have come from?
+
+PROOF 2 - CONSERVATION / COSMOLOGICAL VARIANT  (Meditation III)
+   I exist now; nothing in me gives me the power to sustain myself from one
+   moment to the next; the cause of my continued existence must therefore
+   ultimately be God.
+   ANSWERS: what keeps me in existence?
+
+ASCII MASTER FLOW — PANEL 15/43: The three proofs of God and their division of labour (continued)
+================================================================================
+PROOF 3 - ONTOLOGICAL  (Meditation V)
+   1 The concept of God = the concept of a supremely perfect being.
+   2 Existence is a perfection.
+   3 A supremely perfect being lacking existence would lack a perfection - a
+     contradiction, like a triangle without three angles or a mountain
+     without a valley.
+   4 THEREFORE God necessarily exists.
+   ANSWERS: what does the concept itself contain?
+   RIDER (one line only; Kant is Topic 04's owner): Kant objects that
+   existence is not a real predicate.
+        |
+        v
+DIVINE VERACITY: A PERFECT BEING IS NO DECEIVER
++-------------------------------+-------------------------------------------+
+| WHAT GOD SUPPLIES             | WHAT COLLAPSES WITHOUT IT                 |
++-------------------------------+-------------------------------------------+
+| general reliability of clear  | nothing beyond the momentary thinking     |
+| and distinct perception       | self survives                             |
+| trustworthiness of memory and | the system contracts to isolated          |
+| long chains of reasoning      | intuitions; mathematics goes              |
+| the guarantee behind natural  | the external world remains unproved       |
+| inclination                   |                                           |
+| continuous conservation of    | "created substance" loses its ground      |
+| finite substances             |                                           |
++-------------------------------+-------------------------------------------+
+VERDICT LINE: the Meditations stand or fall on MEDITATION III, not
+   Meditation II.
+NAMING THE DIVISION OF LABOUR IS WORTH MORE THAN RECITING ALL THREE AT LENGTH.
+
+ASCII MASTER FLOW — PANEL 16/43: The Cartesian Circle: objection, reply and residual
+================================================================================
+THE OBJECTION  (ARNAULD, FOURTH OBJECTIONS)
+   Descartes uses CLEAR AND DISTINCT PERCEPTION to prove that GOD exists;
+   he then uses GOD'S VERACITY to guarantee that CLEAR AND DISTINCT
+   PERCEPTION is reliable.  The guarantee therefore presupposes what it is
+   meant to establish.
+
+        criterion  ------ proves ------>  God
+             ^                              |
+             |                              |
+             +-------- certifies -----------+
+
+THE PICTURE IN ONE LINE: Descartes builds a bridge out of God, and the planks
+   were cut from the far island he has not yet reached.
+
+THE REPLY - TWO SITUATIONS MUST BE DISTINGUISHED
+   (i)  A clear and distinct perception ACTUALLY BEFORE THE MIND compels
+        assent and needs no external certificate. Some planks are solid enough
+        to stand on while you are looking at them.
+   (ii) What needs certifying is the perception merely REMEMBERED as having
+        been clear, and any EXTENDED CHAIN of reasoning whose earlier steps
+        are no longer in view.
+   GOD SECURES CLASS (ii), NOT CLASS (i).
+
+THE RESIDUAL - SAY THIS, OR THE ANSWER IS INCOMPLETE
+   The proofs of God are NOT single-flash intuitions. They are arguments with
+   premises, and by the time the conclusion is reached the earlier premises
+   are being REMEMBERED rather than attended to. So the memory reply SOFTENS
+   the objection without eliminating it.
+
+COMPETING READINGS (optional depth, one clause at most)
+   vicious-circle reading (Arnauld's line) | memory-guarantee reading |
+   stronger anti-circle reading on which the cogito and simple intuitions are
+   self-certifying while attended to.
+
+CONSEQUENCE FOR EVERY LATER PANEL: whatever divine veracity underwrites -
+   mathematics, memory, the external world, the conservation of created
+   substances - inherits this vulnerability.
+
+ASCII MASTER FLOW — PANEL 17/43: The external world: Meditation VI in five steps
+================================================================================
+THE ARGUMENT  [2019 Q1(d) is marked on these five steps]
+   1 SENSORY IDEAS ARRIVE INVOLUNTARILY. I cannot decide not to feel heat when
+     near the fire. So I possess a PASSIVE FACULTY of receiving them.
+   2 A PASSIVE FACULTY REQUIRES AN ACTIVE CAUSE containing that reality
+     formally or eminently.
+   3 THE CANDIDATES ARE: myself, God directly, or bodies. It is not myself,
+     because the ideas arrive without my willing them.
+   4 I HAVE A GREAT NATURAL INCLINATION to refer them to bodies, and NO
+     FACULTY by which God could have given me the means to correct it.
+     If no bodies existed, God would be permitting an uncorrectable systematic
+     error - that is, DECEIVING.
+   5 THEREFORE MATERIAL THINGS EXIST AS EXTENDED REALITIES.
+        |
+        v
+WHAT THE PROOF SECURES        |  WHAT IT DOES NOT SECURE
+   the existence of body      |    the literal accuracy of any particular
+   the reality of EXTENSION   |    colour, size, distance or sensible quality
+                              |    -> the senses are reliable for what is
+                              |       useful to the MIND-BODY UNION, not for
+                              |       metaphysics; INTELLECT must correct them
+        |
+        v
+EXCLUSION THAT IS ITSELF WORTH A MARK
+   THE WAX ARGUMENT DOES NOT DO THIS WORK. It shows HOW bodies would be known;
+   it says nothing about whether any EXIST. Saying so explicitly separates a
+   controlled answer from a confused one.
+
+STRUCTURE OF THE PROOF: THEOLOGICAL, NOT PERCEPTUAL. What does the work is not
+   the vividness of experience but the IMPOSSIBILITY OF DIVINE DECEPTION.
+
+INHERITED VULNERABILITY: the whole bridge carries Arnauld's Circle (Panel 12).
+   The external world is only as secure as the divine proofs on which it rests.
+
+ORDER TO MEMORISE: THINKING SELF -> GOD -> WORLD.
+   TRAP: "Descartes proved the external world first, then God" inverts the
+   entire architecture.
+
+ASCII MASTER FLOW — PANEL 18/43: Descartes on substance and the real distinction
+================================================================================
+                  GOD - INFINITE SUBSTANCE
+        absolutely independent: needs NOTHING WHATEVER
+                            |
+              creates and CONTINUOUSLY CONSERVES
+                            |
+         +------------------+------------------+
+         |                                     |
+   RES COGITANS                          RES EXTENSA
+   principal attribute: THOUGHT          principal attribute: EXTENSION
+   unextended, INDIVISIBLE               extended, INFINITELY DIVISIBLE
+   not in space                          in space, mechanistic
+   MODES: ideas, volitions, doubting,    MODES: shape, size, motion
+     willing, imagining, seeming to      no final causes in physics
+     sense
+         |                                     |
+         +------------------+------------------+
+                            |
+VOCABULARY: each substance has exactly ONE PRINCIPAL ATTRIBUTE constituting
+   its essence; everything else is a MODE, a determinate way of being that
+   attribute.  SPINOZA KEEPS THESE WORDS AND CHANGES WHAT THEY ATTACH TO.
+                            |
+THE TENSION DESCARTES HIMSELF CONCEDES - PRINCIPLES I.51
+   By the strict definition only GOD needs nothing else. Mind and matter need
+   God. So "SUBSTANCE" IS USED ANALOGICALLY, not univocally.
+
+ASCII MASTER FLOW — PANEL 19/43: Descartes on substance and the real distinction (continued)
+================================================================================
+   >>> THIS SINGLE CONCESSION IS THE HINGE OF 2018 Q2(a), AND IT IS WHAT
+       SPINOZA EXPLOITS. <<<
+                            |
+THE ARGUMENT FOR REAL DISTINCTION (Meditation VI)
+   1 I clearly and distinctly conceive myself as a thinking, non-extended
+     thing, and body as an extended, non-thinking thing.
+   2 Whatever I can clearly and distinctly conceive as separate, God is able
+     to create as separate.
+   3 THEREFORE mind can exist without body, and body without mind.
+   4 THEREFORE they are REALLY DISTINCT - two substances, not two aspects.
+
+CRITICAL NOTE: the whole argument rests on the CRITERION of Panel 6 and
+   therefore on the DIVINE GUARANTEE of Panels 11-12. Dualism is a CONCLUSION
+   of the system, never its starting assumption.
+KNOWLEDGE ASYMMETRY [2022 Q4(b)]: the self is known IMMEDIATELY through the
+   thinking act; the world only MEDIATELY, through ideas whose reliability
+   depends on God's veracity being established first.
+
+ASCII MASTER FLOW — PANEL 20/43: Interaction, the union, error and Cartesian freedom
+================================================================================
+THE PROBLEM
+   RES COGITANS and RES EXTENSA SHARE NOTHING WHATEVER.
+   And yet, in a human being: a decision to raise the arm -> the arm rises;
+   a pin in the foot -> a FELT pain, not an observed injury.
+        |
+   PRINCESS ELISABETH OF BOHEMIA, correspondence of 1643:
+   HOW can a thing whose entire nature is THOUGHT determine the animal spirits
+   to move the body, when causation of motion seems to require contact and
+   extension?  Causation appears to require some COMMUNITY between cause and
+   effect; thought and extension have NONE.
+        |
+DESCARTES' TWO ANSWERS - KEEP THEM APART
+   PHYSIOLOGICAL: the PINEAL GLAND (Passions of the Soul), chosen because it
+      is a single UNPAIRED structure at the centre of the brain, whereas most
+      brain structures are duplicated.
+      >>> THIS IS A LOCATION, NOT A MECHANISM. <<<
+   PHILOSOPHICAL: the mind-body UNION is a THIRD PRIMITIVE NOTION, alongside
+      thought and extension, grasped through ORDINARY LIVING rather than
+      through pure intellect. Trying to conceive it by intellect alone is
+      precisely what makes it seem impossible.
+        |
+VERDICT: the reply PRESERVES THE PHENOMENON and ABANDONS THE MECHANISM.
+   THIS VACANCY IS WHAT SPINOZA AND LEIBNIZ COMPETE TO FILL.
+   The union is intimate, NOT a pilot in a ship - which is why we FEEL pain.
+
+ASCII MASTER FLOW — PANEL 21/43: Interaction, the union, error and Cartesian freedom (continued)
+================================================================================
+ERROR AND FREEDOM (MEDITATION IV)
+   THE WILL is INFINITE in scope: I can affirm or deny anything whatever.
+   THE INTELLECT is FINITE: I perceive clearly only within limits.
+   ERROR = the will affirming BEYOND what the intellect clearly perceives.
+      -> error is not caused by God but by my misuse of a perfect faculty
+   FREEDOM includes the power to AFFIRM, DENY or WITHHOLD ASSENT, and is not
+      reducible to bodily mechanism.
+   GRADES: MERE INDIFFERENCE IS THE LOWEST GRADE OF FREEDOM. When the
+      intellect clearly perceives truth, the will assents MORE freely, because
+      it is moved by evident reason rather than by ignorance or compulsion.
+      TRAP: the claim that indifference is the highest freedom REVERSES the
+      text.
+   OPEN QUESTION: Descartes is usually classed a libertarian, but the relation
+      between alternative possibilities, clear intellectual determination and
+      divine preordination is contested and underexplained.
+TRAP: "the ghost in the machine" is GILBERT RYLE'S hostile coinage, The
+   Concept of Mind, 1949 - NEVER Descartes' own phrase.
+
+ASCII MASTER FLOW — PANEL 22/43: Spinoza: one substance and its architecture
+================================================================================
+THE ARGUMENT FOR MONISM  (Ethics I, more geometrico)
+   1 DEFINITION. Substance = what is IN ITSELF and is CONCEIVED THROUGH
+     ITSELF; its concept requires no other concept.
+   2 NO SHARING. Two substances cannot share an attribute - if they did there
+     would be nothing left by which to tell them apart QUA SUBSTANCE.
+   3 NO FINITUDE. A finite substance would have to be limited by another OF
+     THE SAME NATURE - which step 2 forbids. So substance is necessarily
+     INFINITE.
+   4 CONCLUSION. There can be only ONE substance, and it must possess ALL
+     attributes: ABSOLUTELY INFINITE. This is God.
+   COROLLARY: being in itself and conceived through itself, substance is
+     SELF-CAUSED (causa sui): its essence involves existence.
+        |
+        v
++---------------------------------------------------------------------------+
+|      ONE ABSOLUTELY INFINITE, SELF-CAUSED SUBSTANCE = DEUS SIVE NATURA     |
++---------------------------------------------------------------------------+
+        |
+   INFINITELY MANY ATTRIBUTES, each expressing the WHOLE eternal and infinite
+
+ASCII MASTER FLOW — PANEL 23/43: Spinoza: one substance and its architecture (continued)
+================================================================================
+   essence of substance - NOT a portion of it, NOT a part, NOT a substance
+        |
+   +----------------------+----------------------+---------------------+
+   | THOUGHT (known to us)| EXTENSION (known)    | infinitely many     |
+   |         |            |         |            | further attributes  |
+   | INFINITE MODES       | INFINITE MODES       | unknown to us       |
+   |  the infinite        |  motion-and-rest     |                     |
+   |  intellect           |                      |                     |
+   |         |            |         |            |                     |
+   | FINITE MODES         | FINITE MODES         |                     |
+   |  my mind, your mind  |  my body, this stone |                     |
+   +----------------------+----------------------+---------------------+
+        |
+   THE SAME ORDER, TWICE OVER (Ethics II, P7) - see Panel 20
+        |
+        v
+MODE = an affection of substance; that which is IN ANOTHER and is CONCEIVED
+   THROUGH ANOTHER.  Ethics I, P15: "WHATEVER IS, IS IN GOD, and nothing can
+   be or be conceived without God."  The "IN" is ONTOLOGICAL, NOT SPATIAL.
+TWO GRADES OF MODE: INFINITE modes follow immediately or mediately from the
+   absolute nature of an attribute; FINITE modes are determined by other
+   finite modes in an endless series.
+TRAP: confusing Spinoza's ATTRIBUTES with Descartes' SUBSTANCES destroys every
+   comparative answer, because it removes the reason parallelism replaces
+   interaction.
+
+ASCII MASTER FLOW — PANEL 24/43: Spinoza's God: immanence and the three labels
+================================================================================
+WHAT THIS GOD IS
+   NOT a person; does NOT choose; does NOT deliberate; has NO purpose and NO
+   providence. God acts from the NECESSITY OF THE DIVINE NATURE.
+   Ethics I, P18: GOD IS THE IMMANENT, NOT THE TRANSITIVE, CAUSE OF ALL THINGS
+      TRANSITIVE cause produces something OUTSIDE itself - a carpenter and a
+         table
+      IMMANENT cause REMAINS IN ITS EFFECT - the sea and the wave
+   NATURA NATURANS  = substance and its attributes as FREE ACTIVE CAUSE
+   NATURA NATURATA  = the totality of MODES that follows from that necessity
+   DEUS SIVE NATURA = "God, or Nature" - Ethics IV, Preface, and IV, P4 Dem.
+      Safe to quote verbatim in Latin.
+   NOT AN ATHEIST: excommunicated in 1656 for HETERODOXY, not atheism; the
+      position is unorthodox theism or pantheism in which God is INDISPENSABLE.
+        |
+        v
+DOES THE DOCTRINE OF SUBSTANCE LEAD TO PANTHEISM?  [2022 Q2(c) - TAKE A SIDE]
++---------------------+-----------------------------------------------------+
+| WHAT IS ESTABLISHED | nothing exists outside God; all finite things are   |
+|                     | modes existing in and conceived through God; God is |
+|                     | the immanent cause -> IN THAT PRECISE SENSE, YES    |
+| WHAT IS NOT         | it does NOT follow that any finite thing, or the    |
+| ESTABLISHED         | visible aggregate, is numerically identical with    |
+|                     | the whole infinite divine essence; substance        |
+|                     | EXCEEDS the two attributes we know                  |
+| THE RIVAL LABEL     | PANENTHEISM - all things are IN God while God       |
+|                     | exceeds them; interpreters genuinely dispute which  |
+|                     | label is more accurate                              |
+| THE OPPOSITE CHARGE | ACOSMISM (Hegel): if only substance is real, the    |
+|                     | finite world DISSOLVES INTO NOTHING - Spinoza is    |
+|                     | accused not of deifying the world but of DENYING it |
+| THE REPLY           | modes are real AS EXPRESSIONS, with dependent       |
+|                     | rather than independent reality; "not               |
+|                     | self-subsistent" is not "not real"                  |
+| DEFENDED VERDICT    | a QUALIFIED PANTHEIST: divine immanence is          |
+|                     | undeniable; divine infinity blocks reduction to the |
+|                     | world we perceive                                   |
++---------------------+-----------------------------------------------------+
+TRAP: pantheism and acosmism are OPPOSITE accusations. Treating them as one
+   objection makes the 2022 answer incoherent.
+
+ASCII MASTER FLOW — PANEL 25/43: Spinoza: necessitarianism and the denial of contingency
+================================================================================
+THE PROPOSITIONS THAT CARRY THE DOCTRINE
+   I, P16  From the necessity of the divine nature there must follow
+           INFINITELY MANY THINGS in INFINITELY MANY WAYS.
+           [2020 Q4(b) quotes exactly this]
+   I, P29  NOTHING IN NATURE IS CONTINGENT; all is determined by the necessity
+           of the divine nature to exist and act in a certain way.
+   I, P33  Things could have been produced in NO OTHER WAY and in NO OTHER
+           ORDER.
+   I, Def.7 That thing is FREE which exists solely from the necessity of ITS
+           OWN NATURE and is determined to action BY ITSELF ALONE.
+        |
+        v
+THE DERIVATION  [2019 Q2(c): "what is, cannot be other than what it is"]
+   1 God, or Nature, is the one self-caused substance, acting from the
+     necessity of the divine nature alone.
+   2 P16: infinitely many things follow from that necessity - modes follow
+     from WHAT SUBSTANCE IS, as conclusions follow from premises.
+   3 THEREFORE modes are not products of a discretionary decree; there is no
+     deliberation, no selection among alternatives, no purpose.
+   4 P29: contingency is a name for OUR IGNORANCE OF CAUSES, not an objective
+     gap in the order.
+   5 Finite modes are determined by OTHER FINITE MODES in an endless series
+     WITHIN the one necessary order.
+        |
+        v
+
+ASCII MASTER FLOW — PANEL 26/43: Spinoza: necessitarianism and the denial of contingency (continued)
+================================================================================
+THREE DISTINCTIONS THAT MUST STAY CLEAN
+   (i)   God is free NOT because God could have chosen otherwise but because
+         God is determined by NOTHING EXTERNAL (Def. 7).
+   (ii)  The necessity is LOGICAL-ONTOLOGICAL, not fatalistic compulsion by an
+         external agent. There is no agent doing the pushing.
+   (iii) Denying contingency is NOT denying causality; it is denying that the
+         causal order could have run differently.
+   ALSO: the inference is ONTOLOGICAL, NOT TEMPORAL. It is not a story in
+         which God exists first and produces a world afterwards.
+        |
+        v
+THREE CRITICISMS OF P16, WITH REPLIES AND RESIDUES
+   necessity removes divine PERSONALITY  -> will and intellect are not
+      faculties outside nature; anthropomorphic choice would LIMIT God
+      RESIDUAL: providence, petition and worship are genuinely lost
+   EVIL follows necessarily from God     -> good and evil express relations to
+      human flourishing, not properties of infinite substance
+      RESIDUAL: suffering still belongs, unredeemed, to the necessary order
+   P16 ASSERTS MORE THAN THE DEFINITIONS PROVE -> an infinite cause must
+      express itself infinitely
+      RESIDUAL: the derivation of DETERMINATE FINITE modes remains the hardest
+      step in Ethics I
+
+ASCII MASTER FLOW — PANEL 27/43: Spinoza: 'determination is negation' - provenance and use
+================================================================================
+PROVENANCE FIRST - THIS LINE IS ITSELF WORTH A MARK  [2025 Q2(b)]
+   The exact Latin formula OMNIS DETERMINATIO EST NEGATIO IS NOT IN THE
+   ETHICS.
+   Spinoza writes DETERMINATIO NEGATIO EST in LETTER 50 TO JARIG JELLES,
+   2 JUNE 1674.
+   The universalised slogan is HEGEL'S rendering, and that is how it entered
+   the textbook tradition.
+   SAFE SENTENCE: "Spinoza's dictum, in Letter 50, that determination is
+   negation - universalised by Hegel as omnis determinatio est negatio."
+        |
+        v
+THE MEANING
+   To DETERMINE something is to make it definite, finite, BOUNDED.
+   To say a thing is THIS is to say it is NOT everything else.
+   FINITUDE THEREFORE CONTAINS NEGATION.
+        |
+        v
+
+ASCII MASTER FLOW — PANEL 28/43: Spinoza: 'determination is negation' - provenance and use (continued)
+================================================================================
+THREE CONSEQUENCES - EXACTLY WHAT A "COMMENT" ANSWER NEEDS
+   FOR GOD          absolutely infinite, bounded by nothing external, so God
+                    involves NO negation whatever: PURE AFFIRMATION,
+                    undetermined by anything outside
+   FOR FINITE MODES each is limited by OTHER MODES OF THE SAME NATURE - a body
+                    occupies this region and excludes others; an idea expresses
+                    only a bounded causal perspective; their determinacy marks
+                    DEPENDENCE
+   FOR KNOWLEDGE    inadequate knowledge treats a finite thing IN ISOLATION;
+   AND FREEDOM      adequate knowledge understands it THROUGH THE AFFIRMATIVE
+                    WHOLE, seeing it SUB SPECIE AETERNITATIS - under the aspect
+                    of eternity
+        |
+        v
+HEGEL'S CRITICISM AND THE REPLY
+   CRITICISM: if determination is negation, the finite becomes MERE negation,
+      and the world vanishes into substance -> ACOSMISM.
+   REPLY: what is negated is INDEPENDENT SELF-SUBSISTENCE, not reality as
+      such; modes POSITIVELY EXPRESS divine power in determinate ways.
+   VERDICT: the dictum illuminates why finite beings are dependent, but it
+      becomes reductive if LIMITATION is mistaken for UNREALITY. Spinoza needs
+      BOTH the negation of independence AND the affirmation of modal
+      expression.
+DIRECTIVE NOTE: "COMMENT" means short, pointed and THESIS-FIRST, stating what
+   the sentence means INSIDE Spinoza's own system - never a general essay.
+
+ASCII MASTER FLOW — PANEL 29/43: Spinoza: parallelism dissolves the mind-body problem
+================================================================================
+THE PROPOSITIONS
+   II, P7   The ORDER AND CONNECTION OF IDEAS is the same as the ORDER AND
+            CONNECTION OF THINGS.
+   II, P13  The human MIND IS THE IDEA OF THE HUMAN BODY - so the mind's
+            adequacy tracks the body's power of acting.
+        |
+        v
+THE PICTURE
+   IDEA_1 ------> IDEA_2 ------> IDEA_3     causation stays INSIDE Thought
+     ||             ||             ||       the SAME modes, the SAME order
+   BODY_1 ------> BODY_2 ------> BODY_3     causation stays INSIDE Extension
+
+   >>> THERE ARE NO ARROWS BETWEEN THE ROWS. THAT IS THE WHOLE DOCTRINE. <<<
+
+ASCII MASTER FLOW — PANEL 30/43: Spinoza: parallelism dissolves the mind-body problem (continued)
+================================================================================
+   A decision to raise the arm and the arm's movement are ONE AND THE SAME
+   MODE, expressed under Thought and under Extension respectively.
+        |
+        v
+THE DISSOLUTION
+   The mind-body problem was GENERATED by Descartes' assumption that mind and
+   body are DIFFERENT SUBSTANCES. Remove the assumption and the problem does
+   not get SOLVED - it stops ARISING. Spinoza does not build a bridge; he
+   denies there is a gap.
+        |
+        v
+THE COST - STATE IT HONESTLY
+   If no idea can cause a bodily motion, ORDINARY MENTAL CAUSATION disappears.
+   Thought and Extension are each CAUSALLY CLOSED, so critics say the
+   correspondence is secured at the price of making mind explanatorily idle.
+   SPINOZA'S ANSWER: the mind is not idle WITHIN Thought - an adequate idea
+   genuinely causes further adequate ideas - but the ordinary intuition that a
+   decision moves a limb is indeed abandoned.
+        |
+        v
+TRAPS
+   "two parallel trains running alongside" quietly RESTORES two things.
+      Spinoza's claim is stronger: ONE thing, described completely TWICE.
+   "God continually adjusts the two series" is OCCASIONALISM, a rival
+      seventeenth-century position that Spinoza's monism makes unnecessary.
+   Making II, P13 a CAUSAL claim ("the body produces the mind") reinstates
+      exactly the cross-attribute causation the doctrine excludes.
+POSITION IN THE 2024 RANKING: metaphysically the most ECONOMICAL account, and
+   the one that most decisively removes the problem - at the price of
+   necessitarianism and the loss of free will.
+
+ASCII MASTER FLOW — PANEL 31/43: Spinoza: three kinds of knowledge and freedom
+================================================================================
+THE THREE KINDS  (Ethics II, P40, Scholium 2)
++--------+------------------+---------------------------+------------------+
+| KIND   | NAME             | SOURCE                    | ADEQUACY         |
++--------+------------------+---------------------------+------------------+
+| FIRST  | imaginatio /     | (a) EXPERIENTIA VAGA -    | INADEQUATE,      |
+|        | opinio           |     random experience     | mutilated and    |
+|        |                  |     through the senses    | confused         |
+|        |                  | (b) EX SIGNIS - hearsay,  | II, P41: THE     |
+|        |                  |     words, memory         | ONLY CAUSE OF    |
+|        |                  |                           | FALSITY          |
+| SECOND | ratio            | COMMON NOTIONS (notiones  | ADEQUATE,        |
+|        |                  | communes) - what is       | necessarily true |
+|        |                  | EQUALLY IN THE PART AND   | (II, P41)        |
+|        |                  | IN THE WHOLE              |                  |
+| THIRD  | scientia         | from an adequate idea of  | ADEQUATE, and    |
+|        | intuitiva        | the formal essence of     | grasped IN ONE   |
+|        |                  | certain ATTRIBUTES OF GOD | ACT; the highest |
+|        |                  | to adequate knowledge of  | (V, P25)         |
+|        |                  | the ESSENCE of things     |                  |
++--------+------------------+---------------------------+------------------+
+SPINOZA'S OWN EXAMPLE - THE FOURTH PROPORTIONAL (1 : 2 :: 3 : ?) = 6
+   MERCHANT      multiplies the second by the third and divides by the first,
+                 because he was taught the rule or has seen it work -> FIRST
+   MATHEMATICIAN demonstrates it from the common property of proportionals
+                 (Euclid VII.19); adequate but DISCURSIVE -> SECOND
+   ANYONE, HERE  sees AT A GLANCE that the fourth is 6, grasping the ratio in
+                 the essences themselves, IN ONE ACT -> THIRD
+   THE THIRD KIND IS SCIENTIA INTUITIVA - name it in full, never just
+   "intuition".  MNEMONIC "M-M-S": Merchant, Mathematician, Seer.
+   THE THREE KINDS ARE THREE ONTOLOGICAL POSITIONS OF THE KNOWER, NOT THREE
+   DEGREES OF CONFIDENCE.
+        |
+        v
+
+ASCII MASTER FLOW — PANEL 32/43: Spinoza: three kinds of knowledge and freedom (continued)
+================================================================================
+THE ARGUMENT THAT MAKES KNOWLEDGE INTO FREEDOM
+   1 Everything follows necessarily from the nature of God or Substance.
+   2 An idea is ADEQUATE when understood through its cause - through its place
+     in that necessary order.
+   3 BONDAGE (servitus) = being determined by causes EXTERNAL to my nature,
+     which is exactly the condition of one whose ideas are inadequate, since
+     inadequate ideas are the TRACES OF OTHER BODIES in mine.
+   4 FREEDOM (I, Def. 7) = being determined by MY OWN nature alone.
+   5 Adequate ideas ARE the mind acting from its own nature, for in having
+     them the mind is the ADEQUATE CAUSE of what follows from them.
+   6 THEREFORE moving from the first kind to the second and third IS moving
+     from bondage to freedom. KNOWLEDGE IS NOT A MEANS TO FREEDOM; IT IS
+     FREEDOM.
+   7 At the limit the third kind sees things SUB SPECIE AETERNITATIS and
+     generates the INTELLECTUAL LOVE OF GOD (amor Dei intellectualis,
+     V, P32 Cor.) - the mind's highest good and blessedness (beatitudo).
+        |
+        v
+STRIVING AND THE AFFECTS - RETAINED ONLY AS FAR AS THEY EXPLAIN FREEDOM
+   III, P6-P7  each thing strives to persevere in its being (CONATUS), and
+      this striving IS THE ACTUAL ESSENCE of the thing. In a human being,
+      conscious striving appears as DESIRE.
+   PASSIVE AFFECTS arise when the person is only a PARTIAL cause under
+      external determination.  ACTIVE AFFECTS arise from adequate ideas and
+      register an INCREASE IN THE POWER OF ACTING.
+FREE WILL IS AN ILLUSION: we are conscious of our DESIRES but ignorant of the
+   CAUSES that determine them - a thrown STONE, if conscious, would believe it
+   chose to fly.
+ONLY GOD IS ABSOLUTELY FREE. Human freedom is RELATIVE and ACHIEVED.
+LIVE WEAKNESS TO CONCEDE: II, P43 - "he who has a true idea knows at the same
+   time that he has a true idea"; truth is the standard of itself and of the
+   false (verum index sui). But SELF-CERTIFICATION is exactly what confident
+   IMAGINATION also feels like.
+CONCEDE ALSO: alternative possibilities never return, and even the achievement
+   of freedom is itself necessitated.
+
+ASCII MASTER FLOW — PANEL 33/43: Leibniz: monads, hierarchy and indiscernibles
+================================================================================
+THE ARGUMENT TO SIMPLES  (Monadology Sec.1-3)
+   1 Extension is essentially DIVISIBLE.
+   2 Whatever is divisible is a COMPOSITE, an aggregate of parts.
+   3 An aggregate derives its reality from the reality of its constituents;
+     a heap of heaps of heaps, with no grains anywhere, is no heap.
+   4 THEREFORE extended things cannot be ultimate. There must be SIMPLE
+     substances, and these cannot themselves be extended.
+   NOTE: this refutes SPINOZA too - if extension cannot be a possible essence
+   of substance, Extension cannot be an attribute in Spinoza's sense.
+        |
+   A PARTLESS UNIT HAS NO SHAPE, NO SIZE, NO POSITION. WHAT INNER STATES
+   REMAIN?  Only REPRESENTING and PASSING FROM ONE REPRESENTATION TO THE NEXT.
+        |
+        v
+                            GOD
+        the unique UNCREATED necessary simple substance; source of all
+        monads; complete and infinite intelligence
+        CAUTION: "the supreme Monad" is common SHORTHAND - God is NOT merely
+        the top member of the CREATED series
+                             |
+   +-------------------------+-------------------------+
+   | RATIONAL SPIRITS        | ANIMAL SOULS            | BARE MONADS         |
+   | (minds)                 | (souls proper)          | (bare entelechies)  |
+   | APPERCEPTION - conscious| MEMORY, producing a     | only obscure and    |
+   | reflexive awareness;    | "consecutiveness"       | confused MINUTE     |
+   | grasp of NECESSARY and  | resembling reason;      | PERCEPTIONS         |
+   | ETERNAL TRUTHS; science | perception raised to    | (petites            |
+   | and morality; moral     | distinct feeling        | perceptions); no    |
+   | community with God      |                         | apperception        |
+   +-------------------------+-------------------------+---------------------+
+   EVERY monad at EVERY level has PERCEPTION and APPETITION.
+      PERCEPTION  = the representation of the manifold in the simple.
+                    IT DOES NOT IMPLY CONSCIOUSNESS.
+      APPETITION  = the internal principle producing change; the tendency
+                    carrying one perception into the next.
+      PETITES PERCEPTIONS = perceptions below reflective awareness. Leibniz's
+
+ASCII MASTER FLOW — PANEL 34/43: Leibniz: monads, hierarchy and indiscernibles (continued)
+================================================================================
+                    illustration: the ROAR OF THE SEA - we hear the whole
+                    roar, so we must in some way perceive each wave.
+      APPERCEPTION = conscious reflexive awareness. TRAP: it must NOT be
+                    attributed to every monad.
+   Each monad represents the WHOLE universe from its own point of view - "a
+   perpetual living mirror of the universe".
+        |
+        v
+TWO DOCTRINES THAT MAKE THIS WORK
+   NO WINDOWS (Monadology Sec.7): "Monads have no windows through which
+      anything could come in or go out" - as it is USUALLY RENDERED; the
+      French is Les Monades n'ont point de fenetres. No causal influx enters;
+      all change arises INTERNALLY from appetition.
+   IDENTITY OF INDISCERNIBLES: no two monads are exactly alike, because God
+      would have had NO SUFFICIENT REASON to create both rather than one.
+      -> INDIVIDUALITY IS GUARANTEED, NOT MERELY PERMITTED. This is precisely
+         what Spinoza's system cannot deliver, and it is Leibniz's motive.
+        |
+        v
+AND WHAT ABOUT BODIES?
+   An organism is coordinated by a DOMINANT MONAD together with an ORGANIC
+   AGGREGATE of subordinate monads - coordination, NOT causal control through
+   exchanged signals.
+   Extended bodies are WELL-FOUNDED PHENOMENA (phaenomena bene fundata),
+   grounded in ordered monadic aggregates: NOT ultimate substances, but
+   NEITHER arbitrary private illusions. The adjective "WELL-FOUNDED" is doing
+   the work; dropping it turns Leibniz into a subjective idealist, which he is
+   not.
+CONSEQUENCE: interaction is impossible IN PRINCIPLE, so the mind-body question
+   must be answered some other way - see Panel 23.
+
+ASCII MASTER FLOW — PANEL 35/43: Leibniz: sufficient reason, worlds, harmony, freedom
+================================================================================
+PRINCIPLE OF SUFFICIENT REASON (PSR)
+   "Nothing is without a reason why it is so rather than otherwise."
+        |
+   +-----------+---------------+---------------+------------------------+
+   | GOD EXISTS| TWO KINDS OF  | IDENTITY OF   | THE BEST OF ALL        |
+   | contingent| TRUTH         | INDISCERNIBLES| POSSIBLE WORLDS        |
+   | things    | (below)       | (Panel 22)    | (below)                |
+   | exist ->  |               |               |                        |
+   | the whole SERIES is contingent -> its reason cannot lie WITHIN the     |
+   | series -> a NECESSARY BEING outside it = GOD. Leibniz also accepts an  |
+   | ONTOLOGICAL route, with a repair: one must first show the concept of a |
+   | supremely perfect being is POSSIBLE - that its perfections are         |
+   | compatible - before inferring existence.                               |
+   +------------------------------------------------------------------------+
+        |
+        v
++-------------------+-----------------------------+------------------------+
+|                   | TRUTHS OF REASON            | TRUTHS OF FACT         |
++-------------------+-----------------------------+------------------------+
+| Example           | a triangle has three sides; | Caesar crossed the     |
+|                   | mathematics and logic       | Rubicon                |
+| Opposite          | implies a CONTRADICTION     | is CONCEIVABLE         |
+| Modality          | NECESSARY                   | CONTINGENT, yet certain|
+| Governed by       | principle of contradiction  | the PSR                |
+| Analysis          | FINITE - reducible to       | INFINITE - completed   |
+|                   | identities                  | only by GOD            |
++-------------------+-----------------------------+------------------------+
+   COMPLETE INDIVIDUAL CONCEPT: every predicate ever true of an individual
+
+ASCII MASTER FLOW — PANEL 36/43: Leibniz: sufficient reason, worlds, harmony, freedom (continued)
+================================================================================
+   belongs to its concept, which God grasps entirely.
+        |
+   >>> SO IS EVERYTHING NECESSARY? NO - AND THIS IS WHERE THE MARKS ARE <<<
+   ABSOLUTE / LOGICAL NECESSITY    opposite implies a contradiction -> TRUTHS
+                                   OF REASON ONLY
+   HYPOTHETICAL / MORAL NECESSITY  given God's choice of the best, the series
+                                   follows CERTAINLY - but its opposite remains
+                                   LOGICALLY CONCEIVABLE in another possible
+                                   world
+        |
+        v
+POSSIBLE WORLDS AND THE BEST WORLD
+   God's understanding contains infinitely many possible individuals. Not all
+   possibles are COMPOSSIBLE - capable of existing together - so a possible
+   world is a MAXIMAL COMPOSSIBLE SET.
+   God actualises the world of GREATEST PERFECTION = THE GREATEST VARIETY OF
+   PHENOMENA GOVERNED BY THE SIMPLEST LAWS. "Best" does NOT mean maximum human
+   comfort or the absence of suffering.
+   THEODICY, as far as this topic owns it: evil is permitted because a world
+   containing it is, overall, the most perfect compossible WHOLE; perfection is
+   a property of the SYSTEM, not of each part alone.
+   VOLTAIRE, CANDIDE (1759): satire and RECEPTION, never doctrine.
+        |
+        v
+
+ASCII MASTER FLOW — PANEL 37/43: Leibniz: sufficient reason, worlds, harmony, freedom (continued 2)
+================================================================================
+PRE-ESTABLISHED HARMONY - LEIBNIZ'S OWN THREE OPTIONS
+   1 INFLUENCE   a rod between the two clocks   = DESCARTES' interaction
+                 -> rejected as unintelligible
+   2 ASSISTANCE  a keeper adjusting them at     = OCCASIONALISM
+                 every moment                    -> rejected as unworthy of a
+                                                    perfect craftsman
+   3 HARMONY     perfect construction AT THE     = LEIBNIZ
+                 OUTSET, so both keep the same
+                 time with no connection
+   TRAP: describing harmony as continuous divine intervention converts Leibniz
+   into an occasionalist. It is set ONCE, AT CREATION.
+        |
+        v
+FREEDOM = THREE CONDITIONS, JOINTLY NECESSARY
+   SPONTANEITY   the action springs from the agent's own nature; no external
+                 compulsion - GUARANTEED BY WINDOWLESSNESS ITSELF
+   INTELLIGENCE  the agent deliberates and acts for perceived reasons, not by
+                 blind impact - this distinguishes a rational spirit from a
+                 bare monad
+   CONTINGENCY   the actual world is one of infinitely many possible worlds;
+                 the opposite of the act implies no contradiction
+   MECHANISM: reasons INCLINE WITHOUT NECESSITATING
+   (incliner sans necessiter) - the determination is MORAL, not LOGICAL.
+RESIDUAL TO CONCEDE: since the complete concept of the ACTUAL agent is fixed
+   and this world is actualised, alternatives lie ACROSS worlds, not WITHIN
+   this one; a libertarian will call that contingency merely epistemic.
+VERDICT: COHERENT COMPATIBILISM, NOT INDETERMINISTIC FREEDOM.
+TRAPS: not a libertarian | not a fatalist | not an occasionalist | Candide is
+   satire | spontaneity ALONE is not the doctrine.
+
+ASCII MASTER FLOW — PANEL 38/43: Seven-axis comparison and the criticism ledger
+================================================================================
+THE SEVEN AXES THAT COVER EVERY COMPARATIVE QUESTION IN THIS TOPIC
++-------------+-------------------+-------------------+--------------------+
+| AXIS        | DESCARTES         | SPINOZA           | LEIBNIZ            |
++-------------+-------------------+-------------------+--------------------+
+| substance   | 3: God, mind,     | 1: God, or Nature | infinitely many    |
+|             | matter            |                   | monads             |
+| God         | personal,         | impersonal,       | necessary being;   |
+|             | transcendent;     | immanent; IS all  | chose the best     |
+|             | veracity-guarantee| reality           | possible world     |
+| mind-body   | INTERACTION       | PARALLELISM       | PRE-ESTABLISHED    |
+|             | (pineal gland)    | (double aspect)   | HARMONY            |
+| freedom     | libertarian free  | freedom =         | compatibilism      |
+|             | will              | understanding     |                    |
+|             |                   | necessity         |                    |
+| method      | doubt -> cogito   | geometrical       | sufficient reason  |
+|             | -> reconstruction | demonstration     | + complete concepts|
+| the         | a thinking        | a MODE of God     | a unique MONAD -   |
+| individual  | SUBSTANCE         |                   | a substance        |
+| the physical| res extensa,      | a mode of the     | WELL-FOUNDED       |
+| world       | mechanistic       | attribute         | PHENOMENON         |
+|             |                   | Extension         |                    |
++-------------+-------------------+-------------------+--------------------+
+READ ACROSS THE ROWS, NOT DOWN THE COLUMNS. The examiner almost always asks
+   you to read across.
+        |
+        v
+
+ASCII MASTER FLOW — PANEL 39/43: Seven-axis comparison and the criticism ledger (continued)
+================================================================================
+CRITICISM -> REPLY -> RESIDUAL   (the third column is where marks are earned)
+   DESCARTES
+     the Circle (Arnauld) -> attended intuition vs remembered certainty ->
+        RESIDUAL: the divine proofs themselves use remembered premises
+     interaction gap (Elisabeth, 1643) -> the union is a PRIMITIVE NOTION ->
+        RESIDUAL: a location, not a mechanism
+     "substance" is equivocal -> analogical: absolute of God, relative of
+        creatures -> RESIDUAL: Spinoza exploits exactly this concession
+   SPINOZA
+     pantheism removes a personal God -> morality rests on adequate knowledge,
+        not divine command -> RESIDUAL: providence and petition are lost
+     ACOSMISM (Hegel) -> modes are real AS EXPRESSIONS ->
+        RESIDUAL: dependent individuality remains thin
+     determinism ends responsibility -> responsibility is reinterpreted; the
+        free person acts from understanding -> RESIDUAL: alternatives never
+        return
+     "determination is negation" makes the finite merely negative -> finite
+        things are POSITIVE modes limited by other modes -> RESIDUAL: the
+        slogan is Hegel's universalisation of Letter 50
+   LEIBNIZ
+     harmony is ad hoc and unfalsifiable -> the only route avoiding both
+        unintelligible influx and monism, and requiring no continuous miracle
+        -> RESIDUAL: the defence is comparative, not positive
+     "best of all possible worlds" (Voltaire) -> "best" = maximum variety
+        under simplest laws -> RESIDUAL: the perfection criterion is not
+        independently testable
+     fixed complete concepts erase freedom -> the opposite implies no
+        contradiction -> RESIDUAL: alternatives lie across worlds, not within
+        this one
+        |
+        v
+RANKING REQUIRES A DECLARED CRITERION
+   freedom = ALTERNATIVE POSSIBILITIES        -> DESCARTES, at the price of an
+                                                 unintelligible interaction
+   freedom = SELF-DETERMINATION               -> SPINOZA, at the price of free
+                                                 will altogether
+   freedom = RESPONSIBLE AGENCY UNDER
+             SYSTEMATIC DETERMINATION         -> LEIBNIZ  [2024 safe verdict]
+   mind-body by EXPLANATORY ECONOMY -> Spinoza | by FIDELITY TO EXPERIENCE ->
+   Descartes | by SYSTEMATIC CONSISTENCY -> Leibniz
+
+ASCII MASTER FLOW — PANEL 40/43: PYQ routes, directives, spine and the conclusion
+================================================================================
+EXACT PYQ ROUTE MAP, 2018-2025 - FOURTEEN PRIMARY-OWNED PARTS
+   2018 Q1(b) 10m  harmony -> windowlessness -> spontaneity + intelligence +
+                   contingency -> hypothetical necessity -> verdict
+   2018 Q2(a) 20m  shared definition -> three enforcements -> costs ->
+                   "substance is a criterion, not a discovery"
+   2019 Q1(d) 10m  five-step Meditation VI causal argument -> limits ->
+                   theological dependence
+   2019 Q2(c) 15m  P16 -> three distinctions -> ethical consequence ->
+                   responsibility objection
+   2020 Q1(b) 10m  monadic structure -> determination -> three conditions ->
+                   SIGNPOSTED FIRST-PERSON PARAGRAPH
+   2020 Q4(b) 15m  P16 + P18 -> four consequences -> three criticisms with
+                   replies
+   2022 Q2(c) 15m  four-step monism -> attributes and modes -> DECLARED
+                   pantheism verdict -> acosmism
+   2022 Q4(b) 15m  doubt -> cogito -> res cogitans -> mediated world ->
+                   certainty vs substantiality
+   2023 Q1(c) 10m  interpret Def. 7 -> stone analogy -> adequate causation ->
+                   concession
+   2023 Q2(c) 15m  three kinds of ideas -> insufficiency -> DISPOSITIONAL
+                   innateness -> Locke's two tests -> adjudication
+   2024 Q2(b) 15m  substance argument -> ontological "in" -> P18 -> three
+                   objections and replies
+   2024 Q3(c) 15m  ANNOUNCE CRITERION -> all three accounts -> ranked verdict
+                   -> the winner's cost
+   2025 Q2(a) 20m  five tenets -> seven Cartesian stages -> unifying logic ->
+                   four vulnerabilities
+   2025 Q2(b) 15m  LETTER 50 PROVENANCE -> meaning -> God, modes, knowledge ->
+                   acosmism -> ruling
+   SOURCE NOTE: the 2019, 2022, 2023, 2024 and 2025 Paper I wordings were read
+   from the official papers held locally; the 2018 and 2020 Paper I papers are
+   NOT in the repository, so those two follow the verified PYQ ledger.
+
+ASCII MASTER FLOW — PANEL 41/43: PYQ routes, directives, spine and the conclusion (continued)
+================================================================================
+DIRECTIVE DECODER
+   DISCUSS                    exposition + assessment, roughly 60:40
+   CRITICALLY DISCUSS/EXAMINE assessment DOMINATES; a verdict is compulsory
+   COMMENT                    short, pointed, thesis-first, inside the
+                              author's own system
+   EXPLAIN                    foreground the DERIVATION, not a paraphrase
+   SUBSTANTIATE YOUR VIEW     take a side and defend it with textual grounds
+   WITH YOUR OWN COMMENTS     a signposted FIRST-PERSON final quarter
+   "WHOSE ACCOUNT ...?"       rank all three against a stated criterion and
+                              DEFEND the ranking
+   "WHAT IS THE REASON ...?"  give a MECHANISM, not a table
+
+ANSWER SPINES AND LENGTH BANDS
+   10 MARKS  D-R-A-E    Define -> Reconstruct -> Apply a named text ->
+                        Evaluate            about 150-200 words
+   15 MARKS  D-R-D-E-V  Define -> Reconstruct -> Debate -> Evaluate ->
+                        Verdict             about 250-300 words
+   20 MARKS  C-M-C      Common premise -> Mechanism of divergence ->
+                        Comparative costs and conclusion   about 340-400 words
+   PARAGRAPH CONTROL: CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION.
+
+ASCII MASTER FLOW — PANEL 42/43: PYQ routes, directives, spine and the conclusion (continued 2)
+================================================================================
+PROVENANCE AND CITATION DISCIPLINE
+   Cite Spinoza STRUCTURALLY (I, Def. 7; I, P15; I, P16; I, P18; I, P29;
+      II, P7; II, P13; II, P40 Sch. 2; V, P32 Cor.) - translation-invariant.
+   "Determination is negation" = LETTER 50, 2 June 1674; universalised by
+      HEGEL. NOT a sentence of the Ethics.
+   "The ghost in the machine" = GILBERT RYLE, The Concept of Mind, 1949.
+      NOT Descartes.
+   CANDIDE (1759) = VOLTAIRE'S SATIRE. NOT Leibniz's doctrine.
+   "Monads have no windows" and "incline without necessitating" are STANDARD
+      RENDERINGS - say so.
+   "cogito, ergo sum" is from the DISCOURSE and PRINCIPLES I.7, not the
+      Meditations.
+   inspectio mentis = "purely mental scrutiny" (Cottingham-Stoothoff-Murdoch)
+      or "inspection of the mind" (Haldane-Ross) - name the edition or
+      paraphrase.
+
+FINAL TRAP SHEET - TEN LINES
+   1  The cogito is not a syllogism and does not by itself prove a soul.
+   2  The wax argument does not prove that bodies exist.
+   3  Descartes' "substance" is ANALOGICAL - Principles I.51.
+   4  Thought and Extension are Spinozist ATTRIBUTES, not substances.
+   5  Spinoza's freedom is not indeterminism, and Spinoza is not an atheist.
+   6  Pantheism and acosmism are OPPOSITE charges.
+   7  Monads never interact, and not every monad apperceives.
+   8  Harmony is set ONCE at creation; continuous adjustment is occasionalism.
+   9  Leibnizian certainty is NOT absolute necessity.
+   10 A comparative answer without a declared CRITERION stays descriptive.
+
+ASCII MASTER FLOW — PANEL 43/43: PYQ routes, directives, spine and the conclusion (continued 3)
+================================================================================
+QUALIFIED CONCLUSION
+   All three men accept that reason can reach a necessary intelligible order,
+   and all three inherit ONE definition of substance. The differences are
+   produced by how strictly that definition is enforced: loosely, giving three
+   substances and an interaction Descartes cannot explain; strictly, giving one
+   substance and a world in which individuality and alternatives are lost;
+   strictly plus simplicity, giving infinitely many substances whose agreement
+   must be arranged by God in advance.
+   Judged by EXPLANATORY ECONOMY Spinoza wins; by FIDELITY TO EXPERIENCE
+   Descartes wins; by SYSTEMATIC CONSISTENCY Leibniz wins.
+   THAT NO SINGLE CRITERION SELECTS ONE ANSWER IS ITSELF THE STRONGEST
+   EVIDENCE THAT WHAT DESCARTES BEQUEATHED WAS A PSEUDO-PROBLEM RATHER THAN A
+   PROBLEM - AND IT IS WHY THE NEXT SYLLABUS ITEM, EMPIRICISM, BEGINS BY
+   ATTACKING THE INNATE RESOURCES ON WHICH THE WHOLE PROGRAMME RESTS.

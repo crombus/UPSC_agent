@@ -1,294 +1,1000 @@
-ASCII MASTER FLOW — PANEL 1/12: The central question of the individual-state relation and its vocabulary
-CENTRAL QUESTION -> on what terms may organised public authority BIND a person,
-                    and what may that person CLAIM, OWE and DEMAND in return?
+ASCII MASTER FLOW — PANEL 1/25: The printed clause, the coercive claim and the ownership fence
+SYLLABUS (verbatim) -> "Individual and State : Rights; Duties and Accountability."
+        |            three terms are printed, and only three
+        v
+WHY THE CLAUSE EXISTS -> a club you JOIN, a church you may LEAVE, but the STATE claims to
+                         BIND persons who NEVER AGREED to be bound, and to COERCE them
         |
         v
-THREE LINKED IDEAS: RIGHTS (justified claims) | DUTIES (what is owed)
-                  | ACCOUNTABILITY (power that must answer)
-        |
-  +-----+-------------+-------------------+------------------+
-  v                   v                   v                  v
-INDIVIDUAL          SOCIETY            GOVERNMENT           STATE
-agency, dignity,    whole web of       the organ that       organised public
-interests, moral    cooperation;       exercises public     authority claiming
-standing            civil society =    authority NOW;       binding power over
-                    voluntary bodies   transient            a territory
+THAT CLAIM MUST BE JUSTIFIED -- AND THE JUSTIFICATION HAS THREE DIRECTIONS
+  +----------------------+----------------------+---------------------------+
+  | RIGHTS               | DUTIES               | ACCOUNTABILITY            |
+  | what may I CLAIM     | what do I OWE        | why must POWER ANSWER     |
+  | AGAINST the state?   | THROUGH social life? | for itself?               |
+  +----------------------+----------------------+---------------------------+
         |
         v
-WHY A STATE -> order and security | rights protection | public goods
-            -> justice and welfare | collective action
+EACH DEGENERATES ALONE -- THIS IS THE WORKING THESIS OF THE WHOLE CLAUSE
+  rights protect INDIVIDUALITY | duties sustain SOCIAL ORDER | accountability
+  LEGITIMISES COERCION
+  rights without limits -> LICENCE | duties without rights -> SUBORDINATION |
+  power without answerability -> DOMINATION
         |
         v
-BUT the protector can DOMINATE -> power must be JUSTIFIED, LIMITED, ANSWERABLE
-LEGITIMACY (a right to rule subjects have reason to accept) vs COERCION (a gang)
-SPECTRUM -> minimal | welfare-enabling | socialist | totalitarian | stateless
-CONTROL -> define the terms FIRST, locate on the spectrum SECOND, adjudicate LAST.
+THE PRIOR QUESTION THE THREE TERMS PRESUPPOSE
+  *WHY OBEY AT ALL?* = POLITICAL OBLIGATION (Panel 16)
+  and when it fails -> THE DISOBEDIENCE LADDER (Panel 17)
+        |
+        v
+OWNERSHIP FENCE  Austin, Bodin, Laski, Kautilya and legal finality -> Sovereignty |
+  anarchism, Marxism, socialism AS IDEOLOGIES -> Political Ideologies | monarchy,
+  theocracy, democracy AS FORMS -> Forms of Government | equality, justice, liberty
+  THEMSELVES -> Social and Political Ideals | recognition, group rights, gendered private
+  power -> Multiculturalism and Gender | theories of punishment -> Crime and Punishment |
+  article-by-article doctrine -> Polity
+BRIDGES ADMITTED  Locke, Bentham, Hohfeld, Gandhi, Hobbes, Rousseau, Plato, Aristotle,
+  Hegel, Green, Dworkin, Raz, Simmons -- each because an owned PYQ needs it
+CORPUS SHARE -> 9 of 112 parts (2018:1 2019:1 2020:1 2021:1 2022:1 2023:1 2024:2 2025:1)
 
-ASCII MASTER FLOW — PANEL 2/12: Grounding a right: nature, law and the critical moral register
-QUESTION -> a right is a JUSTIFIED CLAIM, LIBERTY, POWER or IMMUNITY: why is it owed?
-        |
-  +-----+------------------+------------------------+
-  v                        v                        v
-NATURAL (Locke)         LEGAL (Bentham)          MORAL
-rights held in the      a right exists where     justified by ethical
-state of nature:        law names a CLAIMANT,    reasoning BEFORE any
-life, liberty,          a DUTY-BEARER and a      enactment
-property                REMEDY
-  |                        |                        |
-  v                        v                        v
-government is a         natural rights are       grounds criticism of a
-FIDUCIARY TRUST;        NONSENSE UPON STILTS;    VALID but unjust law
-breach forfeits it      real rights are the      (anti-slavery,
--> right to resist      CHILDREN OF LAW          anti-colonial claims)
+ASCII MASTER FLOW — PANEL 2/25: Two rival pictures and the six relation-models
+THE AXIS IS EXPLANATORY PRIORITY -- NOT BIOLOGY AND NOT ENGINEERING
+AXIS              MECHANISTIC / ARTIFICIAL         ORGANIC / ETHICAL
+----------------  -------------------------------  ---------------------------------
+PRIORITY          individual purposes are PRIOR    the political WHOLE is prior to
+                  to the state                     the fully developed citizen
+ORIGIN            artificial agreement,            natural growth, historical
+                  convention, instrument           development, ethical life
+STATE'S ROLE      protect prior rights; coordinate constitute conditions of the good
+                  separate agents                  life and moral freedom
+PARADIGM NAMES    Hobbes, Locke, contractarian     Aristotle (natural polis);
+                  liberalism -- SHARPLY DIFFERENT  Hegel (ethical state)
+                  contracts
+RIGHTS            strong rights AGAINST state      rights MATURE WITHIN an ethical
+                  power are intelligible           and legal order
+RISK              atomism, private power, hollow   statism, fixed hierarchy,
+                  FORMAL freedom                   silencing of conscience
         |
         v
-PRESUPPOSITIONS -> intrinsic moral status | institutional enforceability
-                -> standards of justice not exhausted by positive law
-TRAP -> Bentham rejects NATURAL rights, not legal rights; legal validity is
-        never the same thing as moral legitimacy.
-VERDICT -> a mature order needs all three registers: nature grounds, law enforces,
-           morality judges.
+THE SIX RELATION-MODELS -- LOCATE THE CASE BEFORE GRADING IT
+MODEL          IMAGE                          FREEDOM IS            MAIN DANGER
+-------------  -----------------------------  --------------------  -------------------
+MECHANISTIC    instrument of prior persons    a protected sphere    atomism
+ORGANIC        whole constitutes the good     participation in      statism
+                                              rational institutions
+WELFARE /      instrumental, but REMOVES      effective CAPACITY    paternalism,
+POSITIVE       social hindrances to agency                          dependence
+MARXIST        class state universalises a    emancipation from     under-protected
+               PARTIAL interest               material domination   civil liberty
+ANARCHIST      coercion has NO demonstrated   autonomous voluntary  coordination and
+               general right to rule          cooperation           security deficits
+COMMUNITARIAN  the self is socially EMBEDDED  situated autonomy     conformity; silenced
+                                                                    internal minorities
+        |
+        v
+QUALIFIED SYNTHESIS -> constitutional democracy is MECHANISTIC in insisting institutions
+  SERVE PERSONS, and ORGANIC in recognising that agency and citizenship are SOCIALLY
+  FORMED. Neither metaphor is a complete theory -- and that is a POSITION, not a fence-sit.
 
-ASCII MASTER FLOW — PANEL 3/12: The structure of a right and the correlativity verdict
-+---------------+---------------+---------------+-------------------------------+
-| INCIDENT      | CORRELATIVE   | OPPOSITE      | WHAT IT ACTUALLY ENTAILS      |
-+---------------+---------------+---------------+-------------------------------+
-| CLAIM-RIGHT   | duty          | no-right      | a STRICT duty-partner exists  |
-| LIBERTY       | no-right      | duty          | NO positive duty to assist me |
-| POWER         | liability     | disability    | I can alter legal relations   |
-| IMMUNITY      | disability    | liability     | you cannot alter my status    |
-+---------------+---------------+---------------+-------------------------------+
+ASCII MASTER FLOW — PANEL 3/25: What a right is, and the six grounds that justify it
+THE LADDER FROM WANT TO RIGHT
+  DESIRE ("I want it") -> NEED ("I cannot flourish without it") -> INTEREST WORTH
+  PROTECTING -> JUSTIFIED CLAIM = A RIGHT ("I am OWED this, and someone is BOUND")
         |
         v
-WHAT DOES A RIGHT PROTECT?
-  WILL THEORY -> control over another's duty; fits autonomy; fails for children
-  INTEREST THEORY -> protection of a vital interest; fits welfare; underplays agency
-  -> most working systems run a MIXED account
+DEFINITION -> a JUSTIFIED claim, liberty, power or immunity recognised within a MORAL or
+              LEGAL order; a PROTECTED NORMATIVE POSITION
         |
         v
-HOW FAR DOES IT TRAVEL? HUMAN RIGHTS owed to all simply as human beings
-  UNIVERSALIST -> equal worth; protection from cruelty is a common aspiration
-  RELATIVIST -> personhood, authority and obligation are read through culture
-  BALANCE -> universality of ASPIRATION need not mean uniformity of ARTICULATION
+FOUR DEMANDS OF EVERY RIGHT-CLAIM
+  1. HOLDER  -- whose right is it?
+  2. CONTENT -- to do / to receive / to be free from
+  3. BEARER  -- who is constrained, and how?
+  4. GROUND  -- why is this claim JUSTIFIED?
         |
         v
-CORRELATIVITY VERDICT -> conceptual for claim-rights, institutional for the rest;
-                         normatively necessary, not a one-to-one logical identity.
+THE SIX COMPETING GROUNDS -- THE WHOLE OF PANELS 4 TO 8
+GROUND      CLAIM                                              ANCHOR
+----------  -------------------------------------------------  ------------------------
+NATURE      rights PRECEDE the state and constrain it          Locke
+LAW         a right exists where law supplies CLAIMANT +       Bentham
+            DUTY-BEARER + REMEDY
+MORALITY    rights justified by ethical reasoning BEFORE law   anti-slavery claims
+WILL        rights are normative CONTROL over another's duty   will theory
+INTEREST    rights protect IMPORTANT INTERESTS                 interest theory
+DIGNITY     rights belong to all humans AS HUMAN               human-rights doctrine
+        |
+        v
+THREE DISTINCTIONS FOR THE FIRST PARAGRAPH
+  NEED is not yet a RIGHT | LIBERTY (non-interference) is not a CLAIM-RIGHT (requires
+  correlative conduct) | MORAL right can exist WITHOUT enforcement; LEGAL right exists
+  WITHIN an institutional order
+OBJECTION -> rights-talk is vague and inflated. REPLY -> Hohfeld supplies the discipline.
+RESIDUAL -> the reply is ANALYTIC; it fixes FORM, not CONTENT.
 
-ASCII MASTER FLOW — PANEL 4/12: Duties, the inversion of the usual order, and the priority verdict
-DUTY = what is OWED to persons, community and institutions -- not mere obedience
-        |
-  +-----+-----------------------+
-  v                             v
-LEGAL DUTY                   MORAL DUTY
-law, constitution, statute   conscience and ethical reason
-sanction + REMEDY            praise, blame, public criticism
-  |                             |
-  v                             v
-law cannot codify the whole of ethical life -> democratic citizenship depends on
-habits (tolerance, honesty, restraint) that law alone cannot manufacture
+ASCII MASTER FLOW — PANEL 4/25: Natural, legal and moral rights -- Locke against Bentham
+LOCKE -- THE NATURAL-RIGHTS GROUND
+ELEMENT             POSITION                                  EXAM USE
+------------------  ----------------------------------------  ----------------------
+SOURCE              rights belong to persons IN THE STATE OF   pre-political grounding
+                    NATURE
+CONTENT             life, liberty, property                   standard opening triad
+FUNCTION OF STATE   FIDUCIARY protection of rights            limited government
+RESISTANCE          if government VIOLATES THE TRUST,         rights as a check on
+                    resistance is justified                    sovereignty
         |
         v
-GANDHI'S INVERSION -> perform the duty and the right follows; the true source of
-  rights is duty; self-rule (swaraj) begins with rule over oneself
-  NOT statist: duties run to conscience and community, so they can license
-  disobedience to unjust power
+LOCKE IS NOT HOBBES -- DO NOT MERGE THEM
+  HOBBES: self-preservation, extensive natural liberty UNDER FEAR; IRREVERSIBLE transfer;
+          sovereign command secures PEACE
+  LOCKE : a NORM-GOVERNED state of nature; a TRUST, revocable; limited government secures
+          RIGHTS; RESISTANCE on forfeiture
         |
         v
-INDIA -> Article 51A, inserted by the Constitution (Forty-second Amendment) Act,
-         1976, is NON-JUSTICIABLE: exhortation, never court-enforceable command
+BENTHAM -- THE LEGAL / POSITIVIST GROUND
+  natural rights are "NONSENSE UPON STILTS"
+  A RIGHT EXISTS WHERE AN ENFORCEABLE LEGAL SYSTEM SUPPLIES:
+    CLAIMANT + DUTY-BEARER + REMEDY
+  X HE DOES NOT REJECT ALL RIGHTS -- he rejects rights WITHOUT LAW
+  POSITIVISM asks WHAT RIGHTS EXIST IN LAW; moral-rights theory asks WHAT RIGHTS OUGHT TO
+  EXIST EVEN BEFORE LAW RECOGNISES THEM
         |
         v
-PRIORITY DEBATE -> rights-first shields dissent but risks entitlement culture;
-  duty-first revives reciprocity but can postpone the claims of the powerless
-VERDICT -> CO-ORIGINALITY WITH A SEQUENCING CAVEAT: foreground duty if the culture
-           requires it; never demote rights to conditional grants.
+MORAL RIGHTS -- THE CRITICAL RESIDUE
+  justified claims grounded in ETHICAL REASONING rather than enactment
+  they make ANTI-SLAVERY, ANTI-COLONIAL and ANTI-DISCRIMINATION claims INTELLIGIBLE
+  BEFORE legal recognition; they may LATER become legal rights but are NOT REDUCIBLE to
+  them
+        |
+        v
+THE TWO OBJECTIONS THAT FACE EACH OTHER
+  AGAINST LOCKE  -> natural rights cannot be empirically shown and may encode historically
+                    specific PROPERTY interests. REPLY -> the claim is NORMATIVE; demanding
+                    empirical proof is a CATEGORY ERROR. RESIDUAL -> the historical point
+                    survives; reconstruct the STRUCTURE, not the CONTENT.
+  AGAINST BENTHAM -> if LAW ALONE creates rights, an oppressive legal system could DEFINE
+                    INJUSTICE AS JUSTICE. REPLY -> LEGAL VALIDITY AND MORAL LEGITIMACY ARE
+                    NOT IDENTICAL -- which is exactly the space moral rights occupy.
 
-ASCII MASTER FLOW — PANEL 5/12: Accountability: three channels and the direction the examiner tests
-PREMISE -> the state claims COERCIVE authority, so each act must be explicable
-           to those bound by it
-        |
-  +-----+--------------------+--------------------------+
-  v                          v                          v
-POLITICAL                 LEGAL                      MORAL
-elections, opposition,    rule of law, judicial      public reason, dignity
-legislature, free press   review, due process,       of the governed
-                          remedy
-  |                          |                          |
-  v                          v                          v
-you can REMOVE rulers     rulers are UNDER the law   rulers must give
-                          and reviewable             SHAREABLE reasons
+ASCII MASTER FLOW — PANEL 5/25: Hohfeld's four incidents -- the precision instrument
+"A RIGHT" IS NOT ONE THING -- IT IS FOUR JURIDICAL RELATIONS
+INCIDENT        CORRELATIVE   OPPOSITE      WHAT IT MEANS
+--------------  ------------  ------------  -----------------------------------------
+CLAIM-RIGHT     DUTY          NO-RIGHT      someone else is BOUND to act or forbear
+LIBERTY /       NO-RIGHT      DUTY          I am FREE to act; nobody is bound to help
+  PRIVILEGE
+POWER           LIABILITY     DISABILITY    I can ALTER legal relations
+IMMUNITY        DISABILITY    LIABILITY     others CANNOT alter my legal position
         |
         v
-TOGETHER -> power becomes AUTHORITY. Remove all three -> DOMINATION.
-Elections alone -> formal answerability with substantive domination.
+READ EACH ROW AS A PAIR -- THAT IS THE WHOLE APPARATUS
+  I have a CLAIM-RIGHT -> you have a DUTY
+  I have a LIBERTY ----> you have NO-RIGHT that I desist (but NO duty to assist)
+  I have a POWER ------> you are LIABLE to the change
+  I have an IMMUNITY --> you are DISABLED from changing it
         |
         v
-DIRECTION CORRECTION -> a stem may assume: citizen answerable TO the state.
-  Rights principally make the STATE answerable to citizens (Locke's fiduciary
-  trust cashed out as judicial review and periodic elections).
-  CONCEDE -> rights also generate RESPONSIBILITIES (free speech, duty not to defame)
-VERDICT -> RECIPROCAL accountability; keep ACCOUNTABILITY (answering for power)
-           apart from RESPONSIBILITY (duties that accompany a right).
+ORDINARY RIGHTS BUNDLE SEVERAL INCIDENTS -- FREEDOM OF SPEECH, UNPACKED
+  LIBERTY ..... I may speak; nobody is bound to make me speak
+  CLAIM-RIGHT . against censorship IN SPECIFIED CONTEXTS
+  IMMUNITY .... against arbitrary alteration of that protection
+  X NO general claim-right that others PROVIDE a platform, audience or press
+        |
+        v
+WHY THIS DECIDES THE 2025 QUESTION
+  CORRELATIVITY is STRICT for CLAIM-RIGHTS and ABSENT for LIBERTIES
+  -> the connection is CONCEPTUAL for one class and INSTITUTIONAL for the rest
+  -> the stem's PREMISE is sound; its INFERENCE fails
+        |
+        v
+WHAT HOHFELD DOES AND DOES NOT DO
+  DOES ..... prevents CATEGORY MISTAKES; shows that many disputes are merely VERBAL
+  DOES NOT.. justify ANY right -- an ANALYTIC scheme, not a MORAL theory
+OBJECTION -> too technical for normative theory. REPLY -> false debates arise from
+  ambiguous use of "right". RESIDUAL -> analysis is PREPARATORY; content stays open.
 
-ASCII MASTER FLOW — PANEL 6/12: Liberal, idealist and contractarian pictures of the same relation
-+----------+---------------------------+-------------------+---------------------+
-| THINKER  | STATE OF NATURE           | THE BARGAIN       | RESISTANCE          |
-+----------+---------------------------+-------------------+---------------------+
-| HOBBES   | war of all against all    | near-total        | almost none: bare   |
-|          |                           | transfer for      | self-preservation   |
-|          |                           | security          |                     |
-| LOCKE    | governed by natural law;  | LIMITED govt as a | YES, on breach of   |
-|          | rights precede government | fiduciary TRUST   | trust               |
-| ROUSSEAU | free but corrupted by     | surrender to the  | self-rule through   |
-|          | inequality                | GENERAL WILL      | the general will    |
-+----------+---------------------------+-------------------+---------------------+
-RULE -> the deal follows from the DIAGNOSIS; change the premise, change the state.
-        |
-  +-----+---------------------+------------------------+
-  v                           v                        v
-LIBERAL                   IDEALIST                  MARXIST (as relation-theory)
-person prior; state       family -> civil society   base shapes superstructure;
-instrumental; limited     -> STATE = actuality of   state as class instrument;
-government and a          ethical life (Hegel);     formal rights can mask real
-private sphere            GREEN removes hindrances  unfreedom
-RISK: atomism             RISK: deifying the state  RISK: undervalued liberties
-ROUSSEAU'S HINGE -> forced to be free is defensible only with his own conditions:
-  equality, generality of law, absence of factions.
-ADEQUACY VERDICT -> contract grounds limits and consent, yet abstracts from real
-           inequality, so human rights need a supplement beyond the contractors.
-
-ASCII MASTER FLOW — PANEL 7/12: Radical and situated critiques and the unconditional-rights charge
-+-----------------+-------------------------------+-----------------------------+
-| CRITIQUE        | CHARGE                        | REPLY / RESIDUAL            |
-+-----------------+-------------------------------+-----------------------------+
-| philosophical   | the state's right to rule is  | keeps the QUESTION, rejects |
-| anarchism       | presumptively illegitimate    | the stateless conclusion:   |
-|                 |                               | who adjudicates, defends,   |
-|                 |                               | coordinates at scale?       |
-| Marxist         | equal legal rights coexist    | do not abolish rights; back |
-|                 | with material domination      | them with real capabilities |
-| welfare         | formal liberty is empty       | a social minimum ENLARGES   |
-|                 | without means                 | effective freedom; counter- |
-|                 |                               | cost is bureaucracy         |
-| communitarian   | the self is socially          | membership and common goods |
-|                 | constituted, not pre-social   | must still protect dissent  |
-| feminist        | the abstract individual hides | care, dependence and the    |
-|                 | dependence and private power  | personal as political       |
-+-----------------+-------------------------------+-----------------------------+
-GANDHI'S CIRCLES -> individual at the centre; each outer ring SERVES the inner;
-  decentralised, duty-bound, non-violent -- therefore NOT Western anarchism.
-DOES UNCONDITIONAL RIGHTS-TALK LEAD TO ANARCHY?
-  distinguish UNCONDITIONAL from INALIENABLE -> rights are inalienable yet
-  LIMITABLE (equal rights of others, harm constraints, public order, adjudication)
-VERDICT -> bounded rights do NOT entail anarchy; only a naive absolutism would.
-
-ASCII MASTER FLOW — PANEL 8/12: Political obligation: six grounds driven through four tests
-PROBLEM -> is there a MORAL duty to obey the law BECAUSE it is law?
-  not fear (a gunman obliges without obligating) | not agreement with content
-  | not legal validity (a separate, jurisprudential question)
+ASCII MASTER FLOW — PANEL 6/25: Will theory against interest theory
+THEORY            CORE IDEA                       STRENGTH            MAIN DIFFICULTY
+----------------  ------------------------------  ------------------  ------------------
+WILL (CHOICE)     rights protect CHOICE, CONTROL  fits AUTONOMY and   CHILDREN and the
+                  and AGENCY; the holder is a     CONSENT exactly     SEVERELY DISABLED
+                  "small sovereign" who may                           become hard cases
+                  WAIVE, DEMAND or ENFORCE
+INTEREST          rights protect IMPORTANT        explains WELFARE    can UNDERPLAY the
+(BENEFIT)         INTERESTS necessary for         and PROTECTIVE      role of ACTIVE
+                  well-being                      rights well         AGENCY
         |
         v
-FOUR TESTS -> GENERALITY | PARTICULARITY | CONTENT-INDEPENDENCE | DEFEASIBILITY
-        |
-  +-----+------------+-------------+-------------+-------------+-------------+
-  v                  v             v             v             v             v
-CONSENT           FAIR PLAY     NATURAL DUTY  ASSOCIATIVE   GRATITUDE   ANARCHISM
-Locke, Hobbes,    Hart, Rawls   Rawls         Dworkin       classical   Wolff,
-Rousseau                                                                Simmons
-  |                  |             |             |             |             |
-  v                  v             v             v             v             v
-tacit consent     unavoidable   fails         membership    benefactor  no general
-from residence    benefits      PARTICULARITY may be        may also    duty is
-is not truly      cannot bind   -> binds me   unjust and    oppress     established
-voluntary         (Nozick)      to ANY just   unchosen
-                                state
+THE QUESTION EACH ASKS
+  WILL     -> WHO CONTROLS the duty?
+  INTEREST -> WHOSE IMPORTANT INTEREST JUSTIFIES imposing the duty?
         |
         v
-RAZ, SERVICE CONCEPTION -> authority is legitimate when its directives help
-  subjects conform to reasons that already apply; directives are PRE-EMPTIVE
-DWORKIN, TAKING RIGHTS SERIOUSLY (1977) -> rules apply all-or-nothing, PRINCIPLES
-  have WEIGHT; hard cases are decided by principle; RIGHTS ARE TRUMPS
-TRAP -> never give the service conception to Simmons or anarchism to Raz.
-
-ASCII MASTER FLOW — PANEL 9/12: The ladder of refusal and the Indian constitutional limit
-IF the duty to obey is DEFEASIBLE, when is refusal justified? -- refusal is GRADED
+THE MIRRORED HARD CASES -- EACH BREAKS ON THE OTHER'S HOME GROUND
+  INFANT / SEVERELY DISABLED -> strict WILL theory implies NO RIGHTS (intolerable);
+                                INTEREST theory handles easily
+  COMPETENT ADULT WHO WAIVES -> WILL theory handles easily (waiver IS exercise);
+                                strict INTEREST theory struggles to explain discarding a
+                                protection that exists for the holder's benefit
         |
         v
-[1] LEGAL DISSENT -------- within the law: speech, vote, petition, litigation
+THE MIXED POSITION -- A CONCLUSION, NOT A DODGE
+  rights BOTH secure AGENCY and protect VITAL INTERESTS; different rights sit at different
+  points on that spectrum, and a legal order need not pick one theory for all of them
+OBJECTION -> the theories cannot be reconciled. REPLY -> mature systems ALREADY use both
+  dimensions. RESIDUAL -> when agency and interest CONFLICT (paternalist protection against
+  competent refusal), the mixed view still owes a TIE-BREAKING CRITERION, and has none.
+
+ASCII MASTER FLOW — PANEL 7/25: Human rights -- universality against cultural relativism
+THE 2018 STEM SUPPLIES ITS OWN THESIS
+  "...no longer the product of a particular culture, rather a COMMON HUMAN ASPIRATION"
+        |
+   +----+------------------------------+
+   v                                   v
+UNIVERSALIST LINE                  RELATIVIST CHALLENGE
+certain rights belong to ALL       conceptions of PERSONHOOD, COMMUNITY, AUTHORITY and
+human beings simply AS HUMAN       OBLIGATION differ across traditions
+GROUND: dignity, equal worth,      the VOCABULARY of claim-rights is historically
+protection from CRUELTY,           WESTERN in FORMULATION
+ARBITRARINESS, DEGRADATION         cultures may prioritise ROLE and DUTY over CLAIM
+PRESUPPOSES a MINIMUM MORAL
+HORIZON common to humanity
         |
         v
-[2] CONSCIENTIOUS OBJECTION -- personal EXEMPTION; may be private; accepts the
-        |                      penalty; accepts the system's legitimacy
-        v
-[3] CIVIL DISOBEDIENCE ------- ESSENTIALLY PUBLIC appeal to shared principles;
-        |                      NON-VIOLENT; deliberate breach; ACCEPTS THE PENALTY;
-        |                      affirms the rule of law while contesting one law
-        v
-[4] RESISTANCE -> REVOLUTION - withdraws allegiance from acts, or from the whole
-                               order; gravest bar of justification
+THE THREE-COLUMN GRID THAT ANSWERS THE STEM
+POINT               UNIVERSALIST         RELATIVIST           BALANCED LINE
+------------------  -------------------  -------------------  ----------------------
+GROUND OF DIGNITY   every human has      dignity is           CORE protections may be
+                    equal worth          interpreted THROUGH  universal; INSTITUTIONAL
+                                         culture              EXPRESSION can vary
+RIGHTS LANGUAGE     a common moral       often WESTERN in     universality of
+                    vocabulary           formulation          ASPIRATION need not imply
+                                                              uniformity of ARTICULATION
+COMMUNITY vs        rights protect the   cultures may         rights can be read
+INDIVIDUAL          person against       prioritise role and  RELATIONALLY without
+                    oppression           duty                 losing dignity
         |
         v
-CONDITIONS FOR RUNG 3 -> seriously unjust law | channels exhausted or blocked
-  | open and non-violent | penalty accepted | nearly just society (Rawls)
+WHAT MUST NOT BE CONCEDED
+  that the critique of CRUELTY, ARBITRARY POWER and DEGRADATION is itself merely LOCAL.
+  If that goes, "human rights" names NOTHING.
+OBJECTION -> universalism erases civilisational diversity. REPLY -> universality need NOT
+  mean cultural HOMOGENISATION. RESIDUAL -> the BOUNDARY of the minimum core, and WHO
+  fixes it, remain genuinely disputed.
+
+ASCII MASTER FLOW — PANEL 8/25: Indian tradition, Gandhi, and the 2020 test
+THE STEM CONTAINS TWO INSTRUCTIONS
+  (i) decide ANTAGONISM -- a strong word that must be TESTED
+  (ii) do it THROUGH the HUMAN-RIGHTS DOCTRINE, not by general cultural comparison
         |
         v
-ANCHORS -> Thoreau, Civil Disobedience, 1849 (individual refusal, not a campaign)
-        -> Salt Satyagraha, 1930 (announced, non-violent, arrest accepted)
-        -> Ambedkar, Constituent Assembly, 25 November 1949: once constitutional
-           methods exist, unconstitutional methods are the GRAMMAR OF ANARCHY
-INDIA -> Articles 19(1)(a) and 19(1)(b) protect PROTEST subject to reasonable
-  restrictions under 19(2) and 19(3); there is NO right to break the law.
-TENSION -> Gandhi assumes no constitutional voice, Ambedkar assumes there is one;
-           the live question is whether channels are genuinely open to THAT group.
-
-ASCII MASTER FLOW — PANEL 10/12: The answer engine: staged debates, trap bank and the graded verdict
-SIX-MOVE SPINE FOR ANY STEM ON THIS CLAUSE
-[1] DEFINE the key term -> right | duty | accountability | obligation | liberty
+THREE POSSIBLE ANSWERS -- ONLY ONE SURVIVES
+  "YES, ANTAGONISTIC" -> would require the tradition to DEFEND CRUELTY or DENY MORAL
+                         WORTH. It does not. FAILS.
+  "NO, IDENTICAL" ----> would require CLAIM-RIGHTS ASSERTED AGAINST THE STATE. Not there.
+                         FAILS.
+  "DIFFERENT IDIOM, NOT ANTAGONISM" + a NAMED RISK -> SURVIVES.
+        |
         v
-[2] LOCATE on the spectrum -> minimal | welfare | socialist | totalitarian |
-                              stateless
+THE IDIOM, STATED PRECISELY
+  DHARMA -> role-based obligation, reciprocity, self-restraint, truth and order
+  THE PERSON -> EMBEDDED in a web of relations, not an abstract individual outside all ties
+  EMPHASIS -> RIGHT CONDUCT, SELF-MASTERY, RECIPROCAL OBLIGATION
+  AT ITS STRONGEST -> RESPONSIBILITY, RESTRAINT, MORAL VOCATION -- NOT mere obedience
+  REQUIRED FILTER -> must NOT sacralise HIERARCHY
+        |
         v
-[3] STATE the rivals -> liberal | idealist | contract | Marxist | anarchist |
-                        Gandhian
+GANDHI'S BRIDGE
+  "rights grow out of WELL-PERFORMED DUTIES"
+  -> a thesis about the MORAL SOURCE and SOCIAL SUSTAINABILITY of rights, NOT their denial
+  -> DUTY-FIRST is NOT necessarily HIERARCHY-FIRST
+  -> SWARAJ = SELF-RULE in the ETHICAL sense, not merely external non-interference
+  -> Gandhi is NEITHER a hard legal positivist NOR an atomistic liberal; NEITHER simply
+     anti-state NOR a centralising statist -- MORALISED CITIZENSHIP and DECENTRALISED
+     RESPONSIBILITY
+        |
         v
-[4] OBJECTION -> REPLY on the STRONGEST rival, never one-sided
+THE HONEST CONCESSION
+  a duty-centred idiom can leave LITTLE ROOM FOR PROTEST and can SUBMERGE the person
+  AMBEDKAR -> in a society STILL STRATIFIED BY CASTE, duty-first framings can be CAPTURED
+              by dominant groups
+  VERDICT -> ANTECEDENT to the rights idiom, not ANTAGONISTIC; combine duty-language with
+             CONSTITUTIONAL RIGHTS and MORAL EQUALITY -- a filtered synthesis, not nostalgia
+
+ASCII MASTER FLOW — PANEL 9/25: Unconditional rights and the collision argument (2022)
+TWO WORDS DO ALL THE WORK -- ATTACK BOTH
+  "UNCONDITIONAL" = admitting NO LIMIT WHATEVER, not merely "strong"
+  "NECESSARILY"   = a MODAL claim about CONCEPTUAL necessity, not a social forecast
+        |
         v
-[5] INDIA EVIDENCE BY POSITION -> Article 51A / 42nd Amendment 1976
-    (non-justiciable) | Article 19 reasonable restrictions | 1930 | 1949 |
-    judicial review
+THE COLLISION
+  MY UNLIMITED LIBERTY <------------> YOUR EQUAL UNLIMITED LIBERTY
+  both claims cannot be satisfied, and NO PROCEDURE can decide between them --
+  because ANY resolving procedure would ITSELF BE A CONDITION
+  HOHFELDIAN REFINEMENT -> two unconditional LIBERTIES conflict IN FACT; two unconditional
+  CLAIM-RIGHTS conflict IN NORMATIVE STRUCTURE, since each entails a duty in the other
+  party that the other's right forbids
+        |
         v
-[6] GRADED VERDICT -> neither an atom outside society nor a cell inside the state
+THE FOUR BOUNDARY PRINCIPLES THAT RESTORE COEXISTENCE
+  1. OTHERS' EQUAL RIGHTS   2. HARM CONSTRAINTS
+  3. PUBLIC ORDER           4. INSTITUTIONAL ADJUDICATION
+  -> not DENIAL of rights but the CONDITION OF THEIR COEXISTENCE, since liberty is PLURAL
+     and SOCIALLY SITUATED
+        |
+        v
+THE DECISIVE DISTINCTION
+  LIMITING a right IS NOT NULLIFYING it
+    LIMITATION ..... principled, reasoned, bounded, REVIEWABLE
+    NULLIFICATION .. arbitrary, unreasoned, open-ended, UNREVIEWABLE
+  THE PROBLEM IS *ARBITRARY RESTRICTION*, NOT PRINCIPLED COORDINATION
+        |
+        v
+OBJECTION -> once limits are admitted, the state may STEADILY ERODE rights
+REPLY -> close on ACCOUNTABILITY: every restriction JUSTIFIED, PROPORTIONATE and
+  JUDICIALLY REVIEWABLE -- the limits must themselves be LIMITED
+RESIDUAL -> where review is CAPTURED, DELAYED or UNAVAILABLE to the affected group, the
+  erosion objection returns in full; that vulnerability is EMPIRICAL and undischarged
+        |
+        v
+VERDICT -> unconditional rights are SELF-DEFEATING rather than NECESSARILY
+  ANARCHY-PRODUCING: they destroy the COEXISTENCE that makes rights exercisable, so the
+  failure is INTERNAL TO THE CONCEPT
 
-DEBATES YOU MUST BE ABLE TO STAGE
-  Hobbes vs Locke on resistance | Locke vs Rousseau on the will
-  liberal vs communitarian on the self | liberal vs idealist on freedom
-  Gandhi vs Western anarchism | Aristotle vs Plato on statism and individualism
+ASCII MASTER FLOW — PANEL 10/25: Duties -- nature, kinds, and what law cannot codify
+DEFINITION -> an OBLIGATION to DO, AVOID, RESPECT or SUPPORT something owed to OTHERS,
+              INSTITUTIONS, COMMUNITY or ONESELF
+WHAT DUTIES DO -> turn ABSTRACT NORMS into EXPECTATIONS OF CONDUCT, so that freedom can be
+              exercised in a SHARED world
+PRESUPPOSITION -> human beings are RELATIONAL; social life cannot be sustained by CLAIMS
+              ALONE
+KINDS -> LEGAL - MORAL - CIVIC - POLITICAL - PROFESSIONAL - SPIRITUAL
+         X do NOT reduce duty to LEGAL duty
+        |
+        v
+TYPE          BASIS                          ENFORCEMENT              EXAMPLE-TYPE
+------------  -----------------------------  -----------------------  --------------------
+LEGAL DUTY    law, constitution, statute,    courts, penalties,       obeying valid law;
+              recognised procedure           official sanction        paying due taxes
+MORAL DUTY    conscience, ethical reason,    praise and blame,        truthfulness;
+              social norm                    self-judgment, public    compassion; civic
+                                             opinion                  decency
+        |
+        v
+THE CONTROLLING ARGUMENT
+  a legal order CANNOT FUNCTION WITHOUT COMPLIANCE -- but NO LEGAL ORDER CAN CODIFY THE
+  WHOLE OF ETHICAL LIFE. Democratic citizenship depends on habits LAW CANNOT MANUFACTURE:
+  TOLERANCE - HONESTY - RESTRAINT - RESPECT FOR DISAGREEMENT - CONCERN FOR PUBLIC GOOD
+TRAFFIC BETWEEN THE COLUMNS -> some duties BEGIN moral and BECOME legal; others SHOULD
+  REMAIN moral, because coercion would be SELF-DEFEATING
+        |
+        v
+THE STANDING DANGER, NAMED HONESTLY
+  duty is often invoked BY AUTHORITY TO SILENCE DISSENT
+  REPLY -> tie duty to JUSTICE, RECIPROCITY and ACCOUNTABILITY; the test is DIRECTIONAL --
+           does the duty-talk BIND THE POWERFUL TOO?
+  RESIDUAL -> even reciprocal duty can be captured, because the TERMS of reciprocity are
+           set by whoever controls the institutions
 
-TRAP BANK -> state is not government | Bentham is not anti-all-rights
-  | Article 51A is not enforceable | India has CONSTITUTIONAL supremacy, not
-  parliamentary sovereignty | never fabricate a case, article, quotation or date
-REVISION RULE -> a twenty-marker is won in paragraphs four and five, where the
-  criticism of your OWN thesis is voiced before the verdict is delivered.
+ASCII MASTER FLOW — PANEL 11/25: Gandhi's inversion and the Fundamental Duties
+THE LIBERAL ORDER              GANDHI'S ORDER
+I HAVE rights                  I PERFORM duties
+   -> others owe me                -> rights become SECURE and SUSTAINABLE
+   -> the state SECURES what        -> the moral community GROWS the conditions of right
+      I already have
+        |
+        v
+WHAT GANDHI IS *NOT* SAYING -- ALL FOUR MUST BE STATED
+  X rights are dispensable      X he is a hard legal positivist
+  X he is an atomistic liberal  X he is a centralising statist
+  YES -> DUTY EDUCATES THE MORAL SELF, so that freedom becomes NON-DESTRUCTIVE
+  KEY TERM -> SWARAJ = ethical SELF-RULE, not merely external non-interference
+        |
+        v
+THE CONSTITUTIONAL REGISTER -- ARTICLE 51A
+  INSERTED BY -> the Constitution (FORTY-SECOND AMENDMENT) Act, 1976
+  PHILOSOPHICAL READING -> an attempt to BALANCE rights-bearing citizenship with
+    RESPONSIBILITY-bearing citizenship; a republic cannot survive if citizens invoke rights
+    while neglecting the CIVIC ETHOS that preserves institutions, social harmony, public
+    property, scientific temper and constitutional culture
+  LEGAL FACT -> Fundamental Duties are NON-JUSTICIABLE -- not directly enforceable
+  PHILOSOPHICAL CONTROL -> NON-JUSTICIABILITY IS A LEGAL FACT; it NEITHER PROVES NOR
+    DISPROVES any MORAL thesis about duty
+  X Fundamental Duties are NOT a warrant to DIMINISH rights
+        |
+        v
+OBJECTION -> duty-language is STATE-SPONSORED MORALISM
+REPLY -> it becomes problematic EXACTLY when deployed to EVADE STATE ACCOUNTABILITY or to
+  SUPPRESS LEGITIMATE DISSENT; citizenship is PARTICIPATORY, not CONSUMPTIVE
+RESIDUAL -> AMBEDKAR: a duty-first order in a stratified society can be CAPTURED by
+  dominant groups, so the method that liberates one group may ENTRENCH another
 
-ASCII MASTER FLOW — PANEL 11/12: Organic and mechanistic views with liberty limits
-MECHANISTIC VIEW -> prior persons create the state as an instrument
-ORGANIC VIEW -> political life partly constitutes the developed person
-LIBERAL RISK -> atomism, hollow formal freedom and unchecked private power
-ORGANIC RISK -> conscience and rights absorbed into the political whole
-NEGATIVE FREEDOM -> protected non-interference
-POSITIVE FREEDOM -> effective capacity through enabling conditions
-HARM PRINCIPLE -> coercion presumptively prevents harm to others
-PATERNALISM -> interference for the person's own good; hard form is suspect
-SYNTHESIS -> institutions serve persons whose agency is socially formed
+ASCII MASTER FLOW — PANEL 12/25: Correlativity (2025) and priority (2023) -- two shapes
+2025 IS A *MODAL* QUESTION            2023 IS A *PRIORITY* QUESTION
+"no NECESSARY connection"             "duty and accountability PRIORITY over rights?"
+  -> attack "NECESSARILY"               -> NAME A CRITERION BEFORE RANKING
+  -> is the connection CONCEPTUAL       -> ETHICAL priority = what MOTIVATES conduct
+     or INSTITUTIONAL?                  -> POLITICAL priority = what PROTECTS persons
+        |                                          |
+        v                                          v
+ANSWER VIA HOHFELD                     ANSWER VIA THE PRIORITY GRID
+  CLAIM-RIGHT -> STRICTLY correlative  POSITION      CORE CLAIM        MERIT      RISK
+                 to a DUTY             ------------  ---------------  ---------  ----------
+  LIBERTY ----> NO correlative duty    RIGHTS-FIRST  protects person  shields    atomised
+                 to assist                           against          minorities entitlement
+  POWER ------> LIABILITY                            coercion         + dissent  culture
+  IMMUNITY ---> DISABILITY             DUTY-FIRST    preserves order  stresses   paternalism
+        |                                            and reciprocity  social     or
+        v                                                             responsi-  conformity
+THE PREMISE IS TRUE, THE INFERENCE                                    bility
+IS INVALID -- SAY BOTH                 BALANCED      mutually         best fit   requires
+  TRUE ..... duties ARE obligations                  sustaining       for        institu-
+             and rights ARE                                           constitu-  tional
+             entitlements: ANALYTICALLY                               tional     vigilance
+             DISTINGUISHABLE                                          democracy
+  INVALID .. distinguishable does NOT
+             entail UNCONNECTED --
+             they are NOT SOCIALLY
+             SEPARABLE
+  CONSEQUENCE -> entitlements without correlative obligations are EMPTY; obligations
+             without any corresponding claims risk AUTHORITARIANISM
+        |
+        v
+WHY ACCOUNTABILITY IS IN THE 2023 STEM AT ALL
+  it is the term that PREVENTS the duty-first answer from collapsing into SUBORDINATION:
+  if power must ANSWER, asking citizens for duty is NOT a demand for submission
+VERDICT -> DUTY has ETHICAL priority in MOTIVATION; RIGHTS retain POLITICAL priority in
+  PROTECTION; accountability is the CONDITION under which the first is safe.
+  Agree in PART: duty and accountability deserve EMPHASIS, not PRECEDENCE.
 
-ASCII MASTER FLOW — PANEL 12/12: Neutrality common good and the Plato-Aristotle comparison
-NEUTRALITY -> fair terms among rival conceptions of the good
-PERFECTIONISM -> public promotion of genuine goods or capabilities
-PRIVATE SPHERE -> protects autonomy but never immunises harm or domination
-COMMUNITARIAN CHECK -> embedded self, common goods, duties and belonging
-MINORITY SAFEGUARD -> dissenters retain equal rights and civic standing
-PLATO -> philosopher-rule and guardian unity tilt toward statism
-ARISTOTLE -> natural polis plus household, property and political plurality
-COMPARATIVE VERDICT -> Aristotle is the better middle, not a modern liberal
-LIMIT -> both are perfectionist; Aristotle retains major exclusions
+ASCII MASTER FLOW — PANEL 13/25: Accountability -- the argument and the three dimensions
+THE ARGUMENT IN FOUR STEPS
+  1. the state CLAIMS COERCIVE AUTHORITY over persons
+  2. those persons did NOT individually consent to it
+  3. therefore its acts must be ANSWERABLE to them
+  4. otherwise the claim is INDISTINGUISHABLE FROM DOMINATION
+        |
+        v
+DEFINITION -> those who exercise PUBLIC POWER must EXPLAIN, JUSTIFY and BEAR CONSEQUENCES
+IT IS THE PHILOSOPHICAL BRIDGE BETWEEN AUTHORITY AND LEGITIMACY
+  power WITHOUT answerability = MERE DOMINATION
+  power WITH answerability    = defensible as PUBLIC TRUST
+PRESUPPOSITION -> the state is NOT AN END IN ITSELF; it is morally constrained by the
+  persons over whom it rules
+        |
+        v
+DIMENSION              EXACT DEMAND                        FAILURE IF ISOLATED
+---------------------  ----------------------------------  ------------------------------
+ANSWERABILITY          give information and PUBLICLY       explanation without correction
+                       JUSTIFY the decision                becomes RITUAL
+ENFORCEABILITY /       face REVIEW, REMEDY, SANCTION or    punishment without reason-
+CONSEQUENCES           REMOVAL where standards were        giving becomes ARBITRARY
+                       breached
+RESPONSIVENESS /       CHANGE conduct, REPAIR harm, LEARN  reactive correction may lack
+CORRECTION             institutionally                     stable PROSPECTIVE rules
+        |
+        v
+THE CONTROLLING POINT
+  accountability is WIDER than ELECTIONS and WIDER than PUNISHMENT:
+  THE OFFICIAL MUST ANSWER | AN AUTHORISED FORUM MUST JUDGE | AN EFFECTIVE REMEDY OR
+  CORRECTION MUST REMAIN POSSIBLE
+TWO NEGATIONS -> it is NOT EFFICIENCY (a state may be efficient YET unaccountable), and it
+  does NOT contradict FINALITY
+OBJECTION -> sovereignty requires FINALITY, not constant answer-giving. REPLY -> finality
+  attaches to CLOSING a dispute; accountability attaches to HOW the closing power is
+  exercised. RESIDUAL -> every system needs a TERMINAL FORUM, and that forum's own
+  accountability is the hardest unsolved problem in the topic.
+
+ASCII MASTER FLOW — PANEL 14/25: The three arenas, Dworkin, and the 2019 verdict
+ARENA        TO WHOM                THROUGH WHAT                    BASIS
+-----------  ---------------------  ------------------------------  --------------------
+POLITICAL    the people             representation, elections,      authority derives from
+                                    DEBATE, PUBLIC SCRUTINY,        the governed; power is
+                                    OPPOSITION, publicity           held IN TRUST
+LEGAL        law, courts, review    grievance, restraint of         RULE OF LAW is superior
+                                    arbitrariness, REDRESS          to mere rule BY power
+MORAL        conscience, civil      criticism, public shame,        LEGALITY DOES NOT
+             society, history       historical judgment             EXHAUST LEGITIMACY
+CONTROLS -> political accountability is NOT reducible to PERIODIC VOTING; a LEGALLY
+  WRONGFUL ACT DOES NOT BECOME RIGHT BECAUSE IT IS ELECTORALLY SUPPORTED
+        |
+        v
+DWORKIN, TAKING RIGHTS SERIOUSLY (1977) -- WHY ADJUDICATION IS ACCOUNTABILITY
+                    RULES                          PRINCIPLES
+APPLICATION         ALL-OR-NOTHING: applies and    WEIGHT: can be OUTWEIGHED and still
+                    settles, or does not           SURVIVE as law
+CONFLICT            one rule must be INVALID or    principles genuinely COMPETE and are
+                    subject to an EXCEPTION        BALANCED
+AUTHORITY           PEDIGREE -- enacted,           moral-political argument about what
+                    precedent, recognised          best JUSTIFIES the practice
+JUDICIAL ROLE       APPLY                          INTERPRET and WEIGH
+ILLUSTRATION -> NO ONE MAY PROFIT FROM HIS OWN WRONG: the murderer is denied the
+  inheritance a VALID WILL conferred; the PRINCIPLE overrode the RULE WITHOUT the rule
+  being invalid
+UPSHOT -> RIGHTS ARE TRUMPS against collective goals, so a court holding the state to a
+  principle is HOLDING POWER TO ACCOUNT, not merely settling a dispute
+OBJECTION (HARTIAN) -> judges exercise BOUNDED DISCRETION in the penumbra. REPLY -> the
+  positivist cannot explain why litigants argue about entitlements they claim ALREADY to
+  possess. RESIDUAL -> the RIGHT-ANSWER THESIS is hard to sustain under permanent
+  reasonable disagreement.
+BOUNDARY -> Austin -> Kelsen -> Hart belongs to SOVEREIGNTY. Name and route.
+        |
+        v
+THE 2019 QUESTION -- DO RIGHTS MAKE CITIZENS ACCOUNTABLE *TO* THE STATE?
+  AUTHORITARIAN READING -> rights come WITH OBEDIENCE; the grantor is also the judge
+  DEMOCRATIC READING ---> rights EMBED persons in a CONSTITUTIONAL STRUCTURE of MUTUAL
+                          ANSWERABILITY
+VERDICT -> RECIPROCAL, NOT ONE-DIRECTIONAL. Citizens are accountable FOR law-abiding,
+  civic participation and respect for OTHERS' rights; the state is accountable FOR
+  protecting freedom, equality and dignity. Citizenship is RELATIONAL, not FEUDAL --
+  and reciprocity is NOT symmetry.
+
+ASCII MASTER FLOW — PANEL 15/25: The liberal model and its four internal controls
+CORE CLAIM -> the INDIVIDUAL is MORALLY PRIOR to the state; the state is INSTRUMENTALLY
+  justified because it secures rights, liberty and the conditions of peaceful coexistence
+LEGITIMACY DEPENDS ON -> CONSENT | LIMITATION | RESPECT FOR AGENCY
+PRESUPPOSITION -> persons are ENDS IN THEMSELVES, not to be absorbed into collective
+  purposes
+        |
+        v
+CONTROL 1 -- TWO FREEDOMS
+  NEGATIVE -> a protected sphere in which COMPETENT ADULTS are NOT COERCED
+  POSITIVE -> EFFECTIVE CAPACITY to understand and pursue a life-plan; justifies
+              EDUCATION, HEALTH or a SOCIAL MINIMUM WITHOUT licensing total direction
+CONTROL 2 -- MILL'S HARM PRINCIPLE
+  coercion of a COMPETENT ADULT is presumptively justified to prevent HARM TO OTHERS --
+  NOT because officials judge the person's own choice UNWISE
+CONTROL 3 -- PATERNALISM, SPLIT
+  DEFINITION -> interference with liberty or autonomy FOR THAT PERSON'S OWN GOOD
+  SOFT -> checks whether the choice is INFORMED and VOLUNTARY
+  HARD -> OVERRIDES even a COMPETENT and VOLUNTARY choice
+CONTROL 4 -- NEUTRALITY AGAINST PERFECTIONISM
+QUESTION               NEUTRAL / LIBERAL        PERFECTIONIST /      CONTROL
+                                                COMMUNITARIAN
+---------------------  -----------------------  -------------------  --------------------
+May the state promote  secure FAIR TERMS and    public institutions  promotion must stay
+a good life?           basic rights WITHOUT     may cultivate        RIGHTS-BOUND and
+                       one comprehensive ideal  genuine goods        CONTESTABLE
+Is there a protected   YES: conscience,         "private" arrange-   privacy protects
+private sphere?        association, family,     ments can REPRODUCE  autonomy but CANNOT
+                       personal life            DEPENDENCY and POWER IMMUNISE harm or
+                                                                     domination
+What protects          EQUAL RIGHTS, viewpoint  SHARED GOODS sustain common good is
+minorities and         freedom, state           belonging and        legitimate ONLY IF
+dissent?               neutrality               responsibility       dissenters retain
+                                                                     EQUAL CIVIC STANDING
+        |
+        v
+OBJECTION -> the HARM-TO-SELF / HARM-TO-OTHERS boundary is POROUS, because dependency and
+  social costs create SPILLOVERS
+REPLY -> harm is a BURDEN-OF-PROOF TEST, not a claim that conduct is ever SOCIALLY ISOLATED
+BOUNDARY -> "the personal is political" is used here ONLY to expose PRIVATE DOMINATION;
+  gender theory itself belongs to the GENDER DISCRIMINATION owner
+
+ASCII MASTER FLOW — PANEL 16/25: The idealist, welfare and communitarian models
+THREE MODELS THAT DENY THE PRE-SOCIAL CHOOSER
+  IDEALIST ....... the state is an ETHICAL INSTITUTION through which FREEDOM IS REALISED;
+                   freedom MATURES within FAMILY - CIVIL SOCIETY - STATE; rights are NOT
+                   pre-social atoms but CONDITIONS for SELF-REALISATION
+  WELFARE ........ FORMAL RIGHTS ARE HOLLOW where poverty, illness, ignorance or dependency
+                   makes CHOICE UNUSABLE -> a SOCIAL MINIMUM and FAIR OPPORTUNITY
+                   LIMIT: paternalism, administrative domination, dependency
+  COMMUNITARIAN .. persons are EMBEDDED in histories, practices and relationships; COMMON
+                   GOODS cannot be derived from ISOLATED CHOICE alone
+                   LIMIT: tradition can conceal HIERARCHY; "community" may SILENCE
+                   INTERNAL MINORITIES
+        |
+        v
+HEGEL AND GREEN MUST NOT BE FLATTENED
+  HEGEL -> the RATIONAL state belongs to ETHICAL LIFE; freedom becomes CONCRETE through
+           recognised rights and participation in rational institutions.
+           X NOT the claim that EVERY EXISTING government is divine, infallible or
+             entitled to TOTAL OBEDIENCE
+  GREEN -> the state is a MEANS to the COMMON GOOD; its work is to REMOVE REMEDIABLE
+           HINDRANCES to self-realisation while LEAVING MORAL AGENCY WITH CITIZENS;
+           political obligation is CONDITIONAL, not blind
+        |
+        v
+OBJECTION -> once the state DEFINES the rational or higher self, COERCION can be presented
+  as LIBERATION
+REPLY -> keep enabling action RIGHTS-BOUND, DECENTRALISED where possible, and OPEN TO
+  PUBLIC CHALLENGE
+RESIDUAL -> the criterion separating ENABLING from IMPOSING remains contested, so the
+  danger is reduced rather than removed
+        |
+        v
+THE TWO-WAY EXCHANGE WITH LIBERALISM -- BOTH SIDES SCORE
+  LIBERAL REPLY -> liberalism need NOT equal ATOMISM: political neutrality can protect FAIR
+    COOPERATION among SOCIALLY EMBEDDED persons who reasonably disagree about the good
+  COMMUNITARIAN REJOINDER -> neutrality itself PRIVILEGES an AUTONOMOUS CHOOSER and depends
+    on institutions, habits and solidarities that CANNOT BE GENERATED BY RIGHTS ALONE
+
+ASCII MASTER FLOW — PANEL 17/25: The radical challenges -- anarchist and Marxist
+TWO CHALLENGES, DIFFERENT TARGETS -- DO NOT MERGE THEM
+  ANARCHIST -> targets the LEGITIMACY OF COERCION AS SUCH
+  MARXIST ---> targets the CLASS FORM of the state and the FORMALITY of its rights
+        |
+        v
+THE ANARCHIST CHALLENGE
+  CLAIM -> if persons are capable of VOLUNTARY COOPERATION, MUTUAL AID and LOCAL
+    SELF-ORGANISATION, the state may be INSTITUTIONALISED DOMINATION
+  EFFECT -> it forces political theory to JUSTIFY COERCION rather than ASSUME it
+  PRESUPPOSITION -> authority requires a STRONGER DEFENCE than habit or fear
+  DISTINCTION -> PHILOSOPHICAL anarchism need NOT endorse CHAOS: it DOUBTS political
+    obligation or advocates DECENTRALISED ASSOCIATION
+  OBJECTION -> without the state, RIGHTS SECURITY COLLAPSES; someone must adjudicate,
+    enforce and defend
+  REPLY -> voluntary coordination produces much social order without command
+  RESIDUAL -> this is the STRONGEST PRACTICAL objection and it is NOT fully answered:
+    large-scale justice appears to require ENFORCEABLE institutions
+        |
+        v
+THE MARXIST CHALLENGE
+  CLAIM -> the state in class society is STRUCTURALLY TIED TO DOMINATION, and many rights
+    are FORMALLY EQUAL but MATERIALLY UNEQUAL in effect
+  ARGUMENT -> liberal rights can protect PRIVATE PROPERTY and FORMAL EQUALITY while leaving
+    EXPLOITATION INTACT; the state claims UNIVERSALITY but often functions through CLASS
+    POWER
+  PRESUPPOSITION -> ECONOMIC STRUCTURE shapes LEGAL and POLITICAL forms
+  DISTINCTION -> X it does NOT simply deny ALL rights; it criticises BOURGEOIS-RIGHTS
+    frameworks as FORMAL, ABSTRACT and compatible with DEEP INEQUALITY
+  OBJECTION -> Marxist suspicion of liberal rights can UNDERPLAY CIVIL LIBERTIES
+  BALANCED LINE -> rights are INDISPENSABLE, but their MEANINGFUL EXERCISE depends on
+    MATERIAL CONDITIONS
+        |
+        v
+WHAT EACH CONTRIBUTES TO THIS CLAUSE
+  ANARCHIST -> shifts the BURDEN OF PROOF onto the state, which is why the
+    political-obligation grid of Panel 18 exists at all
+  MARXIST ---> shows that rights need MATERIAL CONDITIONS, which bridges to the WELFARE
+    model and to the 2019 reciprocal-accountability answer
+FENCE -> as FULL IDEOLOGIES both belong to POLITICAL IDEOLOGIES; here they are
+  RELATION-MODELS only
+
+ASCII MASTER FLOW — PANEL 18/25: Political obligation -- what it is, and the four tests
+DEFINITION -> a MORAL duty to obey the law of ONE'S OWN state BECAUSE IT IS THE LAW, as
+  distinct from prudential FEAR of sanction or independent AGREEMENT with a law's content
+        |
+        v
+THREE THINGS IT IS NOT
+  NOT FEAR ............... a gunman also produces obedience: that is BEING OBLIGED, not
+                           HAVING AN OBLIGATION
+  NOT AGREEMENT WITH ..... if I obey only laws I independently endorse, the LAW ADDS
+  THE CONTENT              NOTHING to my reasons
+  NOT LEGAL VALIDITY ..... validity is a JURISPRUDENTIAL question; MORAL BINDINGNESS is a
+                           SEPARATE question
+        |
+        v
+FOUR TESTS -- APPLY THE SAME GRID TO EVERY CANDIDATE GROUND
+  1. GENERALITY .......... does it bind ALL citizens, or only some?
+  2. PARTICULARITY ....... does it bind me to MY OWN state rather than to ANY well-ordered
+                           state?
+  3. CONTENT-INDEPENDENCE  does it give a reason to obey the law BECAUSE IT IS LAW, not
+                           because the act is independently right?
+  4. DEFEASIBILITY ....... what DEFEATS it, and what FOLLOWS when it is defeated?
+        |
+        v
+FAIR PLAY RECONSTRUCTED -- THE FAMILY EXAMINERS MOST OFTEN REWARD
+  1 political society is a COOPERATIVE SCHEME producing security, adjudication,
+    infrastructure and public health
+  2 those benefits exist only because MOST PARTICIPANTS RESTRAIN THEMSELVES and BEAR
+    BURDENS
+  3 I have ACCEPTED and ENJOYED those benefits
+  4 to take the benefit while refusing the burden is to FREE-RIDE on others' restraint
+  5 free-riding is UNFAIR
+  6 therefore I OWE COMPLIANCE as my fair share
+  PRESUPPOSITION -> benefits ACCEPTED not merely RECEIVED; the scheme itself REASONABLY JUST
+        |
+        v
+WHERE FAIR PLAY COLLAPSES, AND THE REPAIR
+  OBJECTION -> premises 3 and 6 DO NOT CONNECT: public order is a NON-EXCLUDABLE good that
+    I cannot decline, and an unsolicited benefit I could not refuse generates NO DEBT --
+    otherwise every generous neighbour could bind me at will
+  REPLY -> restrict the argument to schemes whose benefits are KNOWINGLY and WILLINGLY
+    ACCEPTED and which distribute burdens FAIRLY
+  RESIDUAL -> the restriction SHRINKS the argument's reach to precisely the citizens who
+    LEAST NEED TO BE BOUND
+
+ASCII MASTER FLOW — PANEL 19/25: The six families and the attribution control
+FAMILY              CORE CLAIM                     ANCHOR          STRONGEST OBJECTION
+------------------  -----------------------------  --------------  ----------------------
+CONSENT / CONTRACT  obligation from a VOLUNTARY    Locke; Hobbes;  almost nobody EXPRESSLY
+                    undertaking, express or tacit  Rousseau        consented; TACIT consent
+                                                                   from residence or use of
+                                                                   roads is not voluntary
+FAIR PLAY /         those who ACCEPT the benefits  Hart; Rawls     public order is NON-
+FAIRNESS            of a cooperative scheme OWE a                  EXCLUDABLE; an
+                    fair share of its burdens                      unsolicited benefit
+                                                                   creates NO DEBT
+NATURAL DUTY OF     we owe support to JUST         Rawls           fails PARTICULARITY --
+JUSTICE             institutions that apply to                     binds me to ANY just
+                    us, consented or not                           state, not to MY own
+ASSOCIATIVE /       obligations flow from          Dworkin's       obligation would follow
+MEMBERSHIP          CONSTITUTIVE identities and    associative     from MERE MEMBERSHIP,
+                    role-relations                 obligations;    however unjust the
+                                                   communitarians  association
+GRATITUDE           the state supplies security,   classical and   generates SOME
+                    order and the conditions of a  Indian duty-    reciprocity, NOT general
+                    decent life                    based           obedience; and an
+                                                   frameworks      OPPRESSOR can claim it
+ANTI-OBLIGATION /   NO general obligation has      Wolff's         leaves no account of why
+PHILOSOPHICAL       been demonstrated; assess      autonomy-based  a LEGITIMATE state's
+ANARCHISM           each law on its merits         anarchism;      authority differs from a
+                                                   A. J. Simmons   PRIVATE AGENCY's demands
+ATTRIBUTION DISCIPLINE -- NEVER SWAP THESE TWO
+  SIMMONS = the canonical modern SCEPTIC: each standard ground FAILS TO BIND ALL AND ONLY
+    the members of a PARTICULAR state, so a GENERAL obligation is not established -- while
+    he CONCEDES that many laws should be obeyed for INDEPENDENT moral reasons
+  RAZ = the leading AUTHORITY-BASED alternative, the SERVICE CONCEPTION: an authority is
+    legitimate when its directives help subjects CONFORM BETTER to reasons that ALREADY
+    APPLY to them; those directives then function as PRE-EMPTIVE (exclusionary) reasons
+    that REPLACE rather than merely OUTWEIGH the subject's own calculation
+  LIMIT ON RAZ -> the justification is INSTRUMENTAL, so authority is BOUNDED by that
+    function and does not extend beyond the domains where it improves conformity
+  X DO NOT attribute the SERVICE CONCEPTION to SIMMONS, or PHILOSOPHICAL ANARCHISM to RAZ
+        |
+        v
+THE SCEPTICAL CONCLUSION, STATED NARROWLY
+  it denies a GENERAL, CONTENT-INDEPENDENT duty -- NOT the claim that most PARTICULAR laws
+  are independently binding through moral reasons against HARM, FRAUD and UNFAIRNESS.
+
+ASCII MASTER FLOW — PANEL 20/25: The disobedience ladder -- four rungs on five criteria
+FOUR GRADED FORMS -- NOT FOUR SYNONYMS
+FORM             AIM              PUBLICITY      LEGALITY          SCOPE       SYSTEM
+---------------  ---------------  -------------  ----------------  ----------  -------------
+CONSCIENTIOUS    avoid PERSONAL   may be         seeks EXEMPTION;  the actor's ACCEPTS
+OBJECTION        COMPLICITY       PRIVATE        typically ACCEPTS own act     legitimacy
+                                                 the penalty
+CIVIL            PERSUADE the     ESSENTIALLY    deliberate BREACH a specific  ACCEPTS
+DISOBEDIENCE     political        PUBLIC, to the with ACCEPTANCE   law or      legitimacy;
+                 majority to      community's    of legal          policy      appeals to its
+                 change a law     sense of       CONSEQUENCES                  OWN principles
+                                  justice
+RESISTANCE       OBSTRUCT or      may be COVERT  breaks law; may   a regime's  DENIES the
+                 NULLIFY a grave                 NOT accept the    particular  legitimacy OF
+                 injustice                       penalty           acts        THOSE ACTS
+REVOLUTION       REPLACE the      organised,     REJECTS the legal the WHOLE   DENIES the
+                 constitutional   often armed    order wholesale   system      system's
+                 order                                                         legitimacy
+        |
+        v
+THE TWO DEFINING FEATURES OF CIVIL DISOBEDIENCE
+  (i) PUBLICITY and APPEAL TO SHARED PRINCIPLES
+  (ii) ACCEPTANCE OF THE LEGAL PENALTY -- which is what shows the actor CONTESTS ONE LAW
+       rather than REPUDIATING LAW AS SUCH
+  NON-VIOLENCE is the standard THIRD condition; on the GANDHIAN account it is
+  CONSTITUTIVE, not merely tactical, because MEANS AND ENDS ARE INSEPARABLE
+        |
+        v
+JUSTIFICATION, RECONSTRUCTED
+  1 a general obligation to obey, if any, is DEFEASIBLE and not absolute
+  2 a law may be so unjust that compliance makes the citizen COMPLICIT in wrong
+  3 legal channels of redress may be EXHAUSTED, BLOCKED or UNAVAILABLE TO THE AFFECTED
+    GROUP
+  4 open, non-violent breach WITH acceptance of penalty COMMUNICATES the wrong WITHOUT
+    attacking the legal order as such
+  5 therefore civil disobedience is PERMISSIBLE, and in some conditions OBLIGATORY, within
+    a SUBSTANTIALLY JUST constitutional order
+  PRESUPPOSITION -> the order is substantially just and its majority CAN BE PERSUADED.
+    Where neither holds, the argument shifts to RESISTANCE or REVOLUTION -- and the BURDEN
+    OF JUSTIFICATION RISES SHARPLY.
+OBJECTION -> if obligation is defeasible, every citizen becomes a PRIVATE JUDGE of the law
+REPLY -> the LADDER IS the answer: publicity, non-violence, exhaustion of remedies and
+  acceptance of penalty are SEVERE FILTERS that preserve law's authority
+
+ASCII MASTER FLOW — PANEL 21/25: Three dated illustrations, the Gandhi-Ambedkar tension
+                                 and the Indian application
+THREE DATED ILLUSTRATIONS -- KEEP THEM DISTINCT
+  THOREAU 1849 ... Civil Disobedience (first published as "Resistance to Civil
+    Government"): the individual conscience is PRIOR to majority will; a citizen must not
+    lend himself to a wrong through OBEDIENCE or TAXATION.
+    MODEL = INDIVIDUAL CONSCIENTIOUS REFUSAL, NOT an organised mass campaign.
+    X do NOT present him as Gandhi's blueprint.
+  GANDHI 1930 .... Salt Satyagraha: march begun MARCH 1930; salt law broken 6 APRIL 1930.
+    Publicly announced, non-violent, aimed at a SPECIFIC unjust law, WITH ACCEPTANCE OF
+    ARREST. Satyagraha is OPEN TO SELF-SUFFERING, not the INFLICTION of suffering.
+    It ILLUSTRATES THE CONCEPT'S STRUCTURE -- not that disobedience is always justified.
+  AMBEDKAR 25 NOVEMBER 1949 ... Constituent Assembly concluding address: once
+    CONSTITUTIONAL METHODS of achieving social and economic objectives are available,
+    unconstitutional methods -- satyagraha, non-cooperation, civil disobedience -- are
+    UNJUSTIFIED, and he described them as the "GRAMMAR OF ANARCHY".
+        |
+        v
+THE GANDHI-AMBEDKAR TENSION, STATED AS PHILOSOPHY RATHER THAN HISTORY
+  the disagreement is about the AVAILABILITY CONDITION in premise 3 of the justification:
+    GANDHI presupposes a regime in which the affected people have NO constitutional voice
+    AMBEDKAR presupposes a regime in which they DO
+  -> BOTH can be right RELATIVE TO THEIR PREMISE; the live question becomes whether
+     constitutional channels are genuinely open TO THE GROUP IN QUESTION -- an EMPIRICAL
+     and CONTESTABLE claim, not a settled one
+  -> AMBEDKAR'S DEEPER AND STRONGER WORRY: extra-constitutional agitation in a society
+     STILL STRATIFIED BY CASTE can be CAPTURED by dominant groups, so the method that
+     LIBERATES one group may ENTRENCH another
+        |
+        v
+INDIAN APPLICATION, WITH THE LEGAL-STATUS CAUTION
+  ARTICLES 19(1)(a) and 19(1)(b) -> freedom of speech and expression, and the right to
+    assemble PEACEABLY and WITHOUT ARMS, SUBJECT TO reasonable restrictions under Articles
+    19(2) and 19(3). These protect PROTEST -- NOT law-breaking.
+  ARTICLE 51A -> Fundamental Duties, inserted by the Constitution (Forty-second Amendment)
+    Act, 1976, including the duty to abide by the Constitution and its institutions.
+    NON-JUSTICIABLE: not directly enforceable by a court.
+  CONTROLLING CAUTION -> no provision, statute or judgment can settle the PHILOSOPHICAL
+    question of political obligation. LEGAL PERMISSION IS NOT MORAL JUSTIFICATION, and
+    LEGAL PROHIBITION IS NOT MORAL REFUTATION.
+  X NEVER claim that any Indian statute or judgment "RECOGNISES A RIGHT TO CIVIL
+    DISOBEDIENCE" -- by definition it is a BREACH of law whose actor ACCEPTS the penalty.
+
+ASCII MASTER FLOW — PANEL 22/25: The social contract -- development and the adequacy test
+WHAT EACH THINKER *CHANGES* (the 2024 stem says ORIGIN *AND DEVELOPMENT*)
+THINKER    STATE OF NATURE       WHY CONTRACT?    AUTHORITY        RIGHTS OUTCOME
+---------  --------------------  ---------------  ---------------  ----------------------
+HOBBES     insecurity, fear,     security and     STRONG SOVEREIGN broad TRANSFER for
+           conflict              peace                             self-preservation
+LOCKE      relative freedom      impartial        LIMITED          NATURAL RIGHTS RETAINED
+           with inconveniences   protection of    GOVERNMENT
+                                 rights
+ROUSSEAU   freedom CORRUPTED     collective       GENERAL WILL     CIVIL FREEDOM and MORAL
+           by inequality         self-rule                         AUTONOMY
+        |
+        v
+THE MOVEMENT, STATED AS CHANGES -- NOT AS THREE BIOGRAPHIES
+  HOBBES -> LOCKE : adds TRUST, LIMITS and a RIGHT OF RESISTANCE on forfeiture
+  LOCKE -> ROUSSEAU: RELOCATES SOVEREIGNTY in the GENERAL WILL -> SELF-LEGISLATION
+COMMON AIM -> obligation must arise FROM THE STANDPOINT OF INDIVIDUALS, not from DIVINE
+  RIGHT or MERE CONQUEST
+PRESUPPOSITION -> a JUSTIFICATORY STORY accessible to RATIONAL PERSONS
+FICTION OBJECTION -> no ACTUAL historical contract occurred.
+REPLY -> the value is NORMATIVE, not HISTORICAL: what terms of rule could FREE AND EQUAL
+  PERSONS REASONABLY ACCEPT?
+        |
+        v
+THE 2021 ADEQUACY TEST -- FIX THE BENCHMARK FIRST
+  BENCHMARK -> human rights aspire to UNIVERSALITY BEYOND CITIZENSHIP AND CONSENT
+  WHAT IT DELIVERS                    WHAT IT STRUGGLES WITH
+  ----------------------------------  ------------------------------------------------
+  rights AGAINST arbitrary rule       persons OUTSIDE the contract (non-citizens,
+  (Locke's trust and resistance)      strangers)
+  EQUALITY and SELF-LEGISLATION       FUTURE GENERATIONS
+  (Rousseau's general will)
+  a justificatory story accessible    those LACKING BARGAINING POWER (children, the
+  to RATIONAL persons                 severely disabled)
+        |
+        v
+OBJECTION -> contract ALREADY treats persons as FREE AND EQUAL, so it suffices
+REPLY -> the PARTIES are specified as those CAPABLE OF CONTRACTING, and the distinctive
+  work of human rights is to bind us towards those who CANNOT
+VERDICT -> POWERFUL BUT INCOMPLETE: contract explains POLITICAL LEGITIMACY; human rights
+  ALSO require a theory of DIGNITY, HUMANITY or PERSONHOOD
+RESIDUAL -> abstraction from UNEQUAL STARTING POSITIONS is not fully answered by any
+  version of the theory
+
+ASCII MASTER FLOW — PANEL 23/25: Plato against Aristotle -- statism and individualism
+THE TEST OF A MIDDLE COURSE -> does an INTERMEDIATE SPHERE survive BETWEEN person and
+  political whole -- household, property, association, plural constitutional roles?
+  NEITHER thinker is an ATOMISTIC INDIVIDUALIST, so the comparison runs on THAT axis.
+        |
+        v
+AXIS                PLATO                          ARISTOTLE
+------------------  -----------------------------  --------------------------------------
+POLITICAL WHOLE     the Republic makes justice     the polis is NATURAL and exists for the
+                    FUNCTIONAL HARMONY under       GOOD LIFE
+                    PHILOSOPHER-RULE
+UNITY / PLURALITY   the GUARDIAN class gives up    criticises EXCESSIVE UNITY: a polis is a
+                    PRIVATE PROPERTY and PRIVATE   PLURALITY, not one household or one
+                    FAMILY to prevent FACTION      person
+HOUSEHOLD /         guardian arrangements          household and PRIVATE PROPERTY REMAIN,
+PROPERTY            SUBORDINATE the private        though USE should serve common purposes
+                    domain to political unity
+INDIVIDUAL GOOD     the person's good is fixed by  flourishing REQUIRES the polis, but
+                    PROPER FUNCTION in the         citizenship is ACTIVITY within a
+                    ordered city                   DIFFERENTIATED CONSTITUTION
+MAIN LIMIT          hierarchy and philosopher-     SLAVERY, GENDER EXCLUSION and RESTRICTED
+                    rule risk SEVERE STATISM       CITIZENSHIP block modern endorsement
+        |
+        v
+THE COMPARATIVE JUDGMENT -- HALF ONE
+  Aristotle preserves MORE SOCIAL PLURALITY, better protects the INTERMEDIATE SPHERE, and
+  RELATES rather than ABSORBS person and polis. That is exactly what STEERING A MIDDLE
+  COURSE requires, so the stem's comparison is SOUND.
+        |
+        v
+THE QUALIFICATION -- HALF TWO, AND IT IS COMPULSORY
+  BOTH remain PERFECTIONISTS: neither treats the state as NEUTRAL among conceptions of the
+  good. And Aristotle's polity rests on SLAVERY, the EXCLUSION OF WOMEN and RESTRICTED
+  CITIZENSHIP, so his intermediate sphere is available only to a RESTRICTED CITIZEN BODY.
+OBJECTION -> if he keeps the natural polis and the common good, he is only a MILDER STATIST
+REPLY -> the middle course is measured by whether an INTERMEDIATE SPHERE SURVIVES, and his
+  criticism of EXCESSIVE UNITY is aimed at exactly the pole he is accused of occupying
+RESIDUAL -> a modern egalitarian gets the STRUCTURE without the MEMBERSHIP -- UNCLOSED
+        |
+        v
+VERDICT LINE -> "ARISTOTLE'S SUCCESS IS COMPARATIVE, NOT LIBERAL."
+  Agree with the stem AND qualify immediately; an unqualified agreement MISDESCRIBES BOTH
+  THINKERS.
+
+ASCII MASTER FLOW — PANEL 24/25: Trap list -- the final pre-submission check
+  X Bentham rejected ALL rights ......... he rejects NATURAL rights only; his positive test
+                                          is CLAIMANT + DUTY-BEARER + REMEDY
+  X Hohfeld reduced to one formula ...... FOUR incidents; only the CLAIM-RIGHT is strictly
+                                          correlative to a duty
+  X correlativity as identity everywhere  FALSE for LIBERTIES; strongest as a NORMATIVE-
+                                          JURIDICAL thesis
+  X Gandhi as anti-rights ............... he reorders the MORAL SOURCE of rights through
+                                          duty; he does not deny them
+  X accountability = elections .......... political, legal AND moral arenas; THREE
+                                          dimensions, not one mechanism
+  X Indian tradition "antagonistic" ..... a DUTY-CENTRED IDIOM that both ENRICHES and
+                                          COMPLICATES rights discourse
+  X limitation = destruction ............ principled limits are the CONDITION of
+                                          coexistence; the abuse is ARBITRARY restriction
+  X Hobbes = Locke = Rousseau ........... freedom, authority and rights differ SHARPLY:
+                                          transfer, trust, general will
+  X organic theory as literal biology ... rival LOGICAL METAPHORS about EXPLANATORY
+                                          PRIORITY
+  X liberalism = atomism ................ welfare liberalism and neutrality recognise
+                                          SOCIAL FORMATION, public goods, fair opportunity
+  X Hegel defends EVERY actual state .... the claim concerns RATIONAL ETHICAL INSTITUTIONS,
+                                          not incumbent government
+  X positive freedom = paternalism ...... enabling provision stays RIGHTS-BOUND; the harm
+                                          principle disciplines coercion for one's own good
+  X the private sphere is non-political . privacy protects autonomy but CANNOT IMMUNISE
+                                          harm, dependence or domination
+  X Aristotle as a modern individualist . a COMPARATIVE middle only; both are
+                                          PERFECTIONISTS and his EXCLUSIONS stand
+  X the four rungs merged ............... they differ on AIM, PUBLICITY, LEGALITY, SCOPE
+                                          and ATTITUDE TO THE SYSTEM
+  X Simmons and Raz swapped ............. SIMMONS the SCEPTIC; RAZ the SERVICE CONCEPTION
+  X Article 51A mis-dated or used as .... FORTY-SECOND AMENDMENT, 1976; NON-JUSTICIABLE;
+    moral proof                           it settles NOTHING moral
+  X Thoreau as Gandhi's blueprint ....... individual WITHDRAWAL against an organised
+                                          PENALTY-ACCEPTING campaign
+  X "Indian law recognises civil ........ by definition it is a BREACH of law whose actor
+    disobedience"                         ACCEPTS the penalty
+  X importing another owner's material .. Austin/Kelsen/Hart -> Sovereignty; ideologies ->
+                                          Political Ideologies; forms of democracy ->
+                                          Forms of Government; the ideals triad -> Social
+                                          and Political Ideals
+
+ASCII MASTER FLOW — PANEL 25/25: PYQ routes and the eight-move answer spine
+YEAR PART   MK  DEMAND                                  ROUTE
+2018 Q4(a)  20  dignity as a COMMON HUMAN ASPIRATION    aspiration vs articulation; the
+                                                        three-column grid; minimum core
+2019 Q2(a)  20  do rights make citizens accountable     three dimensions; three arenas;
+                TO the State (Indian context)           Dworkin; RECIPROCAL verdict
+2020 Q2(c)  15  is Indian tradition ANTAGONISTIC to     fix the test; dharma idiom;
+                individual rights                       Gandhi bridge; Ambedkar concession
+2021 Q4(c)  15  is SOCIAL CONTRACT adequate for         name the benchmark; Locke and
+                human rights                            Rousseau; three excluded categories
+2022 Q4(b)  15  do UNCONDITIONAL rights NECESSARILY     define both words; collision; four
+                lead to anarchy                         boundary principles; accountability
+2023 Q2(b)  15  DUTY and ACCOUNTABILITY prior to        criterion first; priority grid;
+                rights                                  accountability as the safeguard
+2024 Q1(b)  10  ORIGIN and DEVELOPMENT of social        transfer -> trust -> general will,
+                contract theory                         written as CHANGES
+2024 Q3(a)  20  ARISTOTLE more successful than PLATO    the intermediate sphere; five axes;
+                between statism and individualism       perfectionism and exclusions
+2025 Q4(c)  15  duties = obligation, rights =           concede premise; refuse inference;
+                entitlement, NO NECESSARY connection    Hohfeldian split
+        |
+        v
+THE EIGHT-MOVE ANSWER SPINE
+  1 NAME THE DIRECTION -- claim AGAINST / obligation THROUGH / answerability OF
+  2 DEFINE with exact vocabulary -- Hohfeld's incidents, three dimensions, six families
+  3 STRONGEST CASE for the proposition, set out as PREMISES
+  4 STRONGEST RIVAL in its BEST form -- liberal, idealist, Gandhian, Marxist, anarchist
+  5 ONE OR TWO OBJECTION -> REPLY -> RESIDUAL chains
+  6 DEPLOY ONE STRUCTURE -- the ladder, obligation grid, three-dimension or priority grid
+  7 ONE DATED INDIAN ILLUSTRATION, classified accurately, WITH the legal-status caution
+  8 GRADED VERDICT conceding what the losing side secures
+CLOSING LINES TO ADAPT, NEVER REPRODUCE MECHANICALLY
+  MODAL ......... "claim-rights are necessarily correlative to duties; liberties are not"
+  CONDITIONAL ... "the obligation holds where institutions are substantially just and
+                   channels genuinely open, and lapses where they are not"
+  NARROWED ...... "the sceptic defeats the GENERAL, CONTENT-INDEPENDENT duty, not the claim
+                   that most particular laws are independently binding"
+  LADDER ........ "LOCATE THE CASE ON THE LADDER; do not approve or condemn disobedience
+                   as such"
+  RECONCILIATION  "a mature polity CONSTITUTIONALISES rights, CULTIVATES duties and
+                   INSTITUTIONALISES accountability"
+  DIGNITY- ...... "the individual is neither an ATOM OUTSIDE SOCIETY nor an EXPENDABLE PART
+   AUTHORITY       OF THE STATE; specify a justified relation between DIGNITY and AUTHORITY"

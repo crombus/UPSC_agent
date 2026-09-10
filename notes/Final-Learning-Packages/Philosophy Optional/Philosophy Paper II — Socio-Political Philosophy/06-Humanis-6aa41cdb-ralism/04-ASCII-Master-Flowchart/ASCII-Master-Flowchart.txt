@@ -1,377 +1,1237 @@
-ASCII MASTER FLOW — PANEL 1/12: The central question of the clause and what humanism places at the centre
-CENTRAL QUESTION -> how can the equal worth of every human being survive in a
-                    world of many religions and many cultures?
+ASCII MASTER FLOW — PANEL 1/22: The printed clause, the central question and the fence
+SYLLABUS (verbatim) -> "Humanism; Secularism; Multi-culturalism."
+        |             three doctrines are printed, and only three, as three
+        |             SEPARATE NOUNS joined by semicolons
+        v
+THE CENTRAL QUESTION -> HOW CAN THE EQUAL WORTH OF EVERY HUMAN BEING SURVIVE
+                        IN A WORLD OF MANY RELIGIONS AND MANY CULTURES --
+                        WITHOUT FLATTENING DIFFERENCE INTO UNIFORMITY OR
+                        LETTING DIFFERENCE EXCUSE DOMINATION?
         |
         v
-THREE DOCTRINES ANSWER IT IN TURN, AND EACH CONSTRAINS THE OTHERS
-  HUMANISM        -> every person has worth, reason, agency   (moral FLOOR)
-  SECULARISM      -> fair public terms among faiths           (state POSTURE)
-  MULTICULTURALISM-> recognition and accommodation of culture (policy FORM)
-  SHARED LIMIT    -> no culture and no state may place domination beyond
-                     criticism
+THREE LEVELS OF ONE ANSWER -- NOT THREE TOPICS ON A LIST
+  HUMANISM ......... THE MORAL FLOOR    -> why does this person count at all?
+  SECULARISM ....... THE TERMS OF POWER -> on what terms may coercion act?
+  MULTICULTURALISM . THE POLICY FORM    -> what does equal membership require?
         |
         v
-WHAT HUMANISM CENTRES ON THE PERSON (an end, never a mere instrument)
-  +-----------+-----------+-----------+-------------------+
-  v           v           v           v
-DIGNITY     REASON      AGENCY     FLOURISHING
-worth not   critical    responsible this-worldly realisation
-from birth  inquiry and self-       of human capacities
-or rank     self-       direction
-            correction
-  +-----------+-----------+-----------+---> JOINED TO RESPONSIBILITY AND LIMITS
+  +------------------+------------------------+---------------------------+
+  | HUMANISM         | SECULARISM             | MULTICULTURALISM          |
+  +------------------+------------------------+---------------------------+
+  | SUPPLIES:        | SUPPLIES:              | SUPPLIES:                 |
+  | universal dignity| fair terms of          | recognition, accommoda-   |
+  | and responsible  | citizenship amid       | tion, cultural membership |
+  | agency           | religious disagreement |                           |
+  +------------------+------------------------+---------------------------+
+  | EXCESS:          | EXCESS:                | EXCESS:                   |
+  | an ABSTRACT      | FORMAL NEUTRALITY that | group claims that SHELTER |
+  | "human" erases   | CONCEALS MAJORITY      | HIERARCHY or FRAGMENT     |
+  | historical       | PRIVILEGE              | common standing           |
+  | difference       |                        |                           |
+  +------------------+------------------------+---------------------------+
+  | CORRECTED BY:    | CORRECTED BY:          | CORRECTED BY:             |
+  | multicultural    | PRINCIPLED DISTANCE    | human dignity and secular |
+  | RECOGNITION      | examining INTRA- as    | citizenship LIMITING      |
+  |                  | well as INTER-religious| INTERNAL RESTRICTIONS     |
+  |                  | domination             |                           |
+  +------------------+------------------------+---------------------------+
         |
         v
-FIVE-STEP ARGUMENT (reproduce as numbered premises)
-  (1) persons share suffering, agency, dependence, creativity, vulnerability
-  (2) institutions act inside that shared human world and shape flourishing
-  (3) authority must be justified in terms accessible to human reason
-  (4) no person may be a mere instrument of church, state, caste or market
-  (5) education, criticism and free inquiry are conditions of self-development
-CONTROL -> humanism is NOT atheism, NOT anthropocentrism, NOT humanitarian
-           relief and NOT a list of legal rights; it grounds why a person counts.
+OWNERSHIP FENCE  legal rights, duties and accountability -> Individual and
+  State | theocracy and democratic legitimacy -> Forms of Government |
+  Marxism as ideology -> Political Ideologies | caste doctrine and the
+  Gandhi-Ambedkar comparison -> Caste Discrimination | internal patriarchy as
+  GENDER DOCTRINE -> Gender Discrimination | anthropocentric-biocentric-
+  ecocentric spectrum, shallow/deep ecology, intergenerational justice ->
+  Development and Social Progress | truth of religion, religious pluralism as
+  a THEOLOGICAL problem, religion-and-morality -> Philosophy of Religion
+BOUNDED BRIDGES  AMBEDKAR (constitutional morality, graded status) -- NAME AND
+  ROUTE, never re-expound | OKIN -- an objection INSIDE multiculturalism, not
+  gender theory | FRASER and HONNETH -- CORE in this owner, NOT enrichment
+NOT ROUTED  NEHRU and RAWLS are not independent routed demands 2018-2025;
+  "public reason" is used in a MINIMAL POLITICAL SENSE only
+CORPUS SHARE -> 16 of 112 parts (2018:3 2019:1 2020:2 2021:1 2022:2 2023:2
+  2024:3 2025:2) -- the HEAVIEST single owner in Section A.
+  Multiculturalism 7 | Humanism 5 | Secularism 4
 
-ASCII MASTER FLOW — PANEL 2/12: Genealogy of humanism: Renaissance cultivation, Enlightenment shifts and the branches
-RENAISSANCE HUMANISM -> classical learning, rhetoric, history, cultivated
-                        human capacity; often Christian; risk: elitist
-        |
-        v
-ENLIGHTENMENT RADICALISATION -> five shifts that pave the way
-  (1) authority moves from INHERITED STATUS to REASONED JUSTIFICATION
-  (2) scientific inquiry breaks an EPISTEMIC MONOPOLY
-  (3) conscience and toleration weaken COMPULSORY RELIGIOUS UNIFORMITY
-  (4) natural-right and autonomy traditions UNIVERSALISE moral standing
-  (5) EDUCATION becomes a means of emancipation
-        |
-        v
-QUALIFICATION -> decisive modern articulation, NOT the sole source. Stoic
-  cosmopolitanism, religious traditions, devotional egalitarian impulses and
-  Indian reform traditions also supply human-centred resources.
-        |
-        v
-BRANCHES SORTED BY GROUND OF DIGNITY (ground -> religion -> risk)
-  +-- SECULAR / SCIENTIFIC : naturalistic inquiry and welfare -> rejects
-  |     supernatural authority -> risk of SCIENTISM
-  +-- RELIGIOUS            : divine or spiritual worth in service -> religion
-  |     deepens human concern -> risk of PATERNALISM
-  +-- MARXIST              : creative social SPECIES-BEING, overcoming
-  |     alienation -> religion read through material suffering -> contested
-  |     inside Marxism
-  +-- RADICAL (M. N. ROY)  : sovereignty of the rational individual ->
-        secular -> risk of understating structural power
-CONTROL -> a which-form stem is answered by CHOOSING a ground and OWNING its
-           named risk, never by listing every branch without adjudication.
 
-ASCII MASTER FLOW — PANEL 3/12: Indian humanism: Tagore, Gandhi, Vivekananda and M. N. Roy on one dignity
-ONE DIGNITY, FOUR GROUNDS -> compare down the same axes, never in sequence
-+---------------+------------------+-------------------+-------------------+
-| AXIS          | TAGORE           | GANDHI            | M. N. ROY         |
-+---------------+------------------+-------------------+-------------------+
-| GROUND        | creative relation| spiritual unity,  | naturalistic      |
-|               | to universal     | truth and non-    | reason and        |
-|               | humanity         | violence          | individual        |
-|               |                  |                   | autonomy          |
-+---------------+------------------+-------------------+-------------------+
-| RELIGION      | spiritual depth  | religion as       | rejects           |
-|               | and critical     | ethical discipline| supernatural      |
-|               | reason coexist   | of politics       | authority         |
-+---------------+------------------+-------------------+-------------------+
-| POLITICS      | anti-nationalism,| self-rule         | organised         |
-|               | civilisational   | (swaraj),         | participatory     |
-|               | exchange         | constructive work | democracy         |
-+---------------+------------------+-------------------+-------------------+
-| OBJECTION     | too inward for   | moral regeneration| reason is socially|
-|               | graded hierarchy | without structural| conditioned       |
-|               |                  | remedy            |                   |
-+---------------+------------------+-------------------+-------------------+
-VIVEKANANDA -> divine potential of the person expressed as SERVICE to humanity;
-  broadens humanism beyond anti-religious secularism, but its spiritual
-  metaphysics differs from Roy's naturalism.
+ASCII MASTER FLOW — PANEL 2/22: The corrective circuit, the three tensions and the shared limit
+THE CIRCUIT -- STATE IT AND THE ANSWER HAS A SPINE
+  MULTICULTURAL RECOGNITION makes humanist universality DIFFERENCE-SENSITIVE
+        |
         v
-TAGORE'S ARGUMENT -> the isolated ego is INCOMPLETE; creative self-expression
-  already presupposes language, relation and a shared world; so universal
-  humanity is a DIMENSION of fulfilled personhood, not an external abstraction.
-COMMON POINT -> no collective idol may extinguish the person.
-ROUTE -> for graded status and structural hierarchy use Ambedkar; the caste
-         doctrine is owned by the Caste file and is not re-expounded here.
+  PRINCIPLED DISTANCE examines BOTH inter-religious AND INTRA-religious
+  domination, so formal neutrality cannot conceal majority privilege
+        |
+        v
+  HUMAN DIGNITY and SECULAR CITIZENSHIP LIMIT INTERNAL RESTRICTIONS inside
+  the recognised group
+        |
+        +----> and back to the top: the circuit runs BOTH WAYS, which is why
+               NO SINGLE DOCTRINE IN THE CLAUSE IS SELF-SUFFICIENT
+        |
+        v
+THREE RECURRENT TENSIONS -- EVERY LONG ANSWER TREATS ONE OF THESE
+  1 UNIVERSAL DIGNITY vs CULTURAL DIFFERENCE
+    a common human floor must not become a demand for UNIFORM IDENTITY;
+    cultural recognition must not suspend BODILY INTEGRITY, VOICE, EQUALITY
+  2 SECULAR CITIZENSHIP vs RELIGIOUS MEMBERSHIP
+    conscience protects BELIEF AND NON-BELIEF, while coercive public power
+    requires reasons compatible with EQUAL CIVIC STANDING
+  3 RECOGNITION vs COMMON CITIZENSHIP
+    differentiated rights are justified where they REMOVE MAJORITY-CREATED
+    BURDENS, not where they ESTABLISH PERMANENT POLITICAL RANK
+        |
+        v
+THE SHARED LIMIT -- CLOSES ALMOST EVERY ANSWER IN THIS CLAUSE
+  +------------------------------------------------------------------+
+  | NO CULTURE, NO COMMUNITY AND NO STATE MAY IMMUNISE DOMINATION     |
+  | FROM CRITICISM. RECOGNITION IS OWED TO PERSONS *THROUGH* THEIR    |
+  | CULTURES, NEVER TO AN ELITE'S UNRESTRICTED JURISDICTION OVER      |
+  | MEMBERS.                                                          |
+  +------------------------------------------------------------------+
+        |
+        v
+MASTER THESIS (adapt for any stem) -> HUMANISM WITHOUT PLURALISM CAN BECOME
+  HOMOGENISING; PLURALISM WITHOUT A HUMANIST FLOOR CAN EXCUSE OPPRESSION;
+  SECULARISM MEDIATES BY PROTECTING CONSCIENCE WHILE MAKING PUBLIC POWER
+  ANSWERABLE TO EQUAL CITIZENSHIP.
+STANDING RULE -> these three doctrines INVITE CELEBRATORY WRITING. Every stem
+  here is answered by SPECIFYING LIMITS, not by affirming values. An answer
+  that never says what the doctrine CANNOT DO has not been evaluated.
 
-ASCII MASTER FLOW — PANEL 4/12: Secular, secularisation, secularism: the classification and the core argument
-ROOT DISTINCTION -> which of these is a claim about the STATE?
-        |
-  +-----+---------+-----------+--------------+--------------+
-  v               v           v              v              v
-SECULARISATION  ATHEISM   TOLERATION    SECULARISM    RELIGIOUS PLURALISM
-sociological    God does  permission    political     the fact and/or value
-decline or      not exist to dissent;   doctrine on   of several religions
-transformation            compatible    coercive
-of religious              with an       public power
-authority                 establishment
-  |               |           |              |              |
-  +---------------+-----------+--------------+--------------+
-                              v
-ONLY SECULARISM IS A DOCTRINE OF PUBLIC POWER
-        |
-        v
-CORE ARGUMENT, AND IT CUTS BOTH WAYS
-  (1) citizens REASONABLY DISAGREE about religion and ultimate good
-  (2) coercive STATE POWER applies to everyone alike
-        |
-  +-----+-------------------------------+
-  v                                     v
-(3) IF status depends on one faith ->  (4) IF communities are WHOLLY IMMUNE ->
-    dissenters become UNEQUAL              INTRA-RELIGIOUS domination goes
-    CITIZENS                               unchallenged
-  +-----+-------------------------------+
-        v
-  (5) protect conscience, refuse religious qualification for citizenship,
-      regulate by PUBLICLY JUSTIFIABLE principles
-PRESUPPOSITION -> legitimacy must be intelligible to citizens who share no
-                  single theology. TRAP -> secularism is not secularisation.
 
-ASCII MASTER FLOW — PANEL 5/12: The Western model spectrum and the plurality-pluralism-secularism boundary
-THERE IS NO SINGLE WESTERN MODEL -> name device, strength AND risk
-+------------------+----------------------+---------------+----------------+
-| MODEL            | CENTRAL DEVICE       | STRENGTH      | RISK           |
-+------------------+----------------------+---------------+----------------+
-| STRICT SEPARATION| institutional        | guards against| ignores social |
-|                  | distance             | establishment | inequality     |
-+------------------+----------------------+---------------+----------------+
-| LAICITE          | strong public-       | common civic  | burdens visible|
-|                  | institutional        | identity      | minorities     |
-|                  | secularity           |               |                |
-+------------------+----------------------+---------------+----------------+
-| NON-ESTABLISHMENT| no established faith | dual          | boundary       |
-| + FREE EXERCISE  | + protected practice | protection    | disputes       |
-+------------------+----------------------+---------------+----------------+
-| EQUAL RESPECT    | the state ranks no   | fits a plural | indiscriminate |
-|                  | faith                | society       | appeasement    |
-+------------------+----------------------+---------------+----------------+
-| PRINCIPLED       | context-sensitive    | meets inter-  | discretion can |
-| DISTANCE         | engagement or        | AND intra-    | turn partisan  |
-|                  | abstention on       | religious     |                |
-|                  | principle            | domination    |                |
-+------------------+----------------------+---------------+----------------+
+ASCII MASTER FLOW — PANEL 3/22: Humanism -- the ground and scope of moral status
+DOCTRINE (v) -> the family of outlooks that treats HUMAN DIGNITY, RATIONAL AND
+  CREATIVE AGENCY, MORAL RESPONSIBILITY and HUMAN FLOURISHING as central
+  standards of value and inquiry.
+TECHNICALLY -> a thesis about the GROUND and the SCOPE of MORAL STATUS.
+  GROUND = capacity for reflection, self-correction, responsible self-direction
+  SCOPE  = by construction, the HUMAN SPECIES  <- state this openly; it is what
+           makes the anthropocentrism objection ANSWERABLE rather than fatal
         |
         v
-PLURALITY (fact) -> PLURALISM (value) -> SECULARISM (doctrine of state power)
-  DECOUPLING 1 -> a HOMOGENEOUS society still needs protection for dissenters
-  DECOUPLING 2 -> a PLURAL society can be NON-SECULAR under one supremacy
-  DECOUPLING 3 -> secularism CONVERTS coexistence into equal-citizenship norms
-VERDICT -> the link is real but CONTINGENT, not necessary; keep conceptual
-           entailment apart from historical coexistence.
+   THE HUMAN PERSON -- an END, never a MERE INSTRUMENT of church, state,
+   caste, market or community
+        |
+   +----------+-----------+-----------+------------+
+   v          v           v           v            v
+ DIGNITY   REASON      AGENCY   FLOURISHING    ALL FOUR JOINED TO
+ unearned  critical    respon-  this-worldly   RESPONSIBILITY AND LIMITS
+ worth     inquiry and sible    realisation    (dignity is NOT licence)
+           self-       self-    of capacities
+           correction  direction
+        |
+        v
+SIX CONFUSIONS -- ONE SENTENCE EACH; USE THREE IN THE OPENING PARAGRAPH
+  humanism =/= ATHEISM ............ secular humanism is non-theistic, but
+                                    RELIGIOUS HUMANISMS also exist
+  humanism =/= ANTHROPOCENTRISM ... humanism centres human WORTH;
+                                    anthropocentrism centres human INTEREST
+                                    and can license MASTERY over nature
+  humanism =/= HUMANITARIANISM .... humanitarianism RELIEVES suffering;
+                                    humanism GROUNDS why the sufferer counts
+  humanism =/= HUMAN RIGHTS ....... rights are LEGAL ENTITLEMENTS with
+                                    REMEDIES; humanism supplies MORAL STANDING
+  humanism =/= EGOISTIC ........... many humanists stress SOLIDARITY,
+              INDIVIDUALISM        education and common humanity
+  humanism =/= PROTAGOREAN ........ "human-centred" does NOT entail that
+              RELATIVISM           every belief is equally true
+        |
+        v
+TEST -> humanism answers "WHY DOES THIS PERSON COUNT AT ALL?" -- not
+  "what shall we give them?" and not "does God exist?"
+CONTESTED ? -> the MARGINAL-CASES objection: grounding worth in the capacity
+  for rational self-direction seems to exclude infants and persons in states
+  of severe dependence. REPLY -> the capacity is invoked at the level of the
+  KIND OF BEING, and vulnerability and dependence are part of the humanist
+  PREMISE rather than exceptions to it. RESIDUAL -> that makes the criterion
+  look SPECIES-BASED rather than CAPACITY-BASED -- which the EXTENSIONAL reply
+  in Panel 11 then exploits.
 
-ASCII MASTER FLOW — PANEL 6/12: Indian secularism: principled distance and Gandhi's non-sectarian public religion
-INDIAN CLUSTER -> freedom of conscience | equal citizenship | non-theocracy |
-  protection of minority culture | reform of practices violating
-  constitutional norms
+
+ASCII MASTER FLOW — PANEL 4/22: The five-step humanist argument and its presuppositions
+STEP 1 -> THE SHARED HUMAN CONDITION: suffering, agency, dependence,
+          creativity, MUTUAL VULNERABILITY
         |
         v
-PRINCIPLED DISTANCE (Bhargava) -> the decision procedure
-  Does the practice threaten equal citizenship, liberty or produce domination?
-        /                                        \
-      NO                                          YES
-       |                                            |
-  ABSTAIN / DISENGAGE                      INTER-religious (between groups)
-  protect autonomy; no interference        -> protect equal standing
-  in internal religious life               INTRA-religious (over members)
-       |                                   -> reform the oppressive practice
-       +--------------------+-------------------------+
+STEP 2 -> INSTITUTIONS SIT INSIDE THAT CONDITION and AFFECT persons' capacity
+          to flourish
+        |
+        v
+STEP 3 -> THEREFORE CLAIMS OF AUTHORITY MUST BE JUSTIFIED IN TERMS ACCESSIBLE
+          TO HUMAN REASON AND EXPERIENCE -- not insulated by STATUS or by
+          REVELATION ALONE                          <<< THE HINGE
+        |
+        v
+STEP 4 -> THEREFORE EACH PERSON POSSESSES WORTH, not merely instrumental value
+        |
+        v
+STEP 5 -> THEREFORE EDUCATION, CRITICISM and FREE INQUIRY are CONDITIONS of
+          responsible self-development, not optional additions
+        |
+        v
+  +------------------------------------------------------------------+
+  | THREE PRESUPPOSITIONS -- OBJECTIONS ATTACK THESE, NOT THE STEPS   |
+  | P1 (v) persons possess capacities for REFLECTION and SELF-        |
+  |        CORRECTION                                                  |
+  | P2 (v) human life has value NOT EXHAUSTED BY INHERITED RANK       |
+  |        <- this is what lets humanism criticise ASCRIPTIVE         |
+  |           HIERARCHY as such                                        |
+  | P3 (!) COMMON HUMANITY can ground CROSS-CULTURAL CRITICISM        |
+  |        WITHOUT ERASING DIFFERENCE   <<< THE CONTESTED ONE          |
+  +------------------------------------------------------------------+
+  THE ABSTRACT-UNIVERSALISM OBJECTION ATTACKS P3 AND NOTHING ELSE.
+        |
+        v
+THE BRIDGE OUT -> STEP 3 IS THE SAME PREMISE THAT GENERATES THE SECULAR
+  ARGUMENT (Panel 13): if coercive power must be justifiable to those it
+  binds, it cannot rest on a theology some citizens reject.
+  HUMANISM ---(burden of justification)---> SECULARISM
+  USE THIS JOIN, NEVER A HISTORICAL NARRATIVE.
+        |
+        v
+CONTESTED ? -> STEP 3 IS EITHER TRIVIAL OR QUESTION-BEGGING. If "accessible to
+  reason" means INTELLIGIBLE, theology qualifies and nothing is excluded; if it
+  means ACCEPTABLE TO A SECULAR REASONER, the conclusion is in the premise.
+  REPLY -> the test is CHECKABILITY BY THE PERSON BOUND: a justification must
+  be open to examination, criticism and revision by someone who does not
+  already accept the authority's standing. A theological reason PASSES when
+  offered as an ARGUMENT and FAILS when offered as a CREDENTIAL.
+  RESIDUAL -> checkability is sharp at the extremes and INDETERMINATE in the
+  middle range.
+WHAT THE ARGUMENT DOES NOT CLAIM -> not that reason is infallible, not that
+  religion is false, not that every institution is illegitimate. Only that
+  LEGITIMACY IS EARNED BY JUSTIFICATION, NOT POSSESSED BY STATUS.
+
+
+ASCII MASTER FLOW — PANEL 5/22: Renaissance, Enlightenment and the five-step mechanism
+  RENAISSANCE HUMANISM                    ENLIGHTENMENT HUMANISM
+  recovered CLASSICAL LEARNING,           RADICALISED the demand that BELIEFS
+  RHETORIC, HISTORY and HUMAN             and INSTITUTIONS answer to REASON,
+  AGENCY as objects of study              CRITICISM and PUBLIC JUSTIFICATION
+  GROUND: cultivated capacity             GROUND: reason, autonomy, universal
+  RELIGION: often CHRISTIAN                       personhood
+  RISK: ELITIST CULTIVATION               RELIGION: critical / tolerant
+        |                                 RISK: ABSTRACT UNIVERSALISM
+        +----------------+----------------+
+                         v
+  THE FIVE STEPS -- WRITE THESE, NOT "THE AGE OF REASON"
+  +---+---------------------------------------------------------------+
+  | 1 | AUTHORITY shifts from INHERITED STATUS -> REASONED JUSTIFICATION|
+  | 2 | SCIENTIFIC INQUIRY challenges EPISTEMIC MONOPOLY               |
+  | 3 | CONSCIENCE and TOLERATION weaken COMPULSORY RELIGIOUS UNIFORMITY|
+  | 4 | NATURAL-RIGHT and AUTONOMY traditions UNIVERSALISE the MORAL   |
+  |   | STANDING of persons -- standing ceases to attach to OFFICE,    |
+  |   | ESTATE or CONFESSION                                            |
+  | 5 | EDUCATION becomes a means of EMANCIPATION                      |
+  +---+---------------------------------------------------------------+
+                         |
+                         v
+  ================ THE QUALIFICATION -- NEVER OMIT ==================
+  HUMANISM IS *NOT* CREATED FROM NOTHING BY EIGHTEENTH-CENTURY EUROPE.
+  STOIC COSMOPOLITANISM | RELIGIOUS TRADITIONS | BHAKTI-SUFI EGALITARIAN
+  IMPULSES | INDIAN REFORM TRADITIONS also supply HUMAN-CENTRED RESOURCES.
+  THE ENLIGHTENMENT IS A *DECISIVE MODERN ARTICULATION*, NOT THE SOLE SOURCE.
+  ===================================================================
+                         |
+                         v
+  WHY THE QUALIFICATION EARNS MARKS -> without it the answer implies dignity
+  is a EUROPEAN EXPORT, CONTRADICTS the Indian humanism in Panels 8-9 of the
+  same script, and CONCEDES THE COLONIALITY OBJECTION FOR FREE.
+CONTESTED ? -> COLONIALITY. Enlightenment universalism was contemporaneous
+  with empire, slavery and exclusion. REPLY (two parts) -> (a) the movement
+  supplied the PREMISES later used AGAINST its own exclusions; (b) the
+  plural-sources qualification removes the need to treat it as THE ORIGIN.
+  RESIDUAL -> the contribution is then the FORM of the claim rather than its
+  CONTENT, and the "human" required SUBSTANTIAL RECONSTRUCTION.
+TWO STEMS, TWO SHAPES -> 2022 Q1(a) [10] = MECHANISM + QUALIFICATION is a
+  complete answer. 2024 Q2(a) [20] = CENTRAL TENETS FIRST (about half the
+  answer), THEN the mechanism. Writing the 10-marker at greater length is the
+  commonest way to lose the 20-marker.
+
+
+ASCII MASTER FLOW — PANEL 6/22: The seven forms and the five selection tests
+  FORM                  GROUND OF DIGNITY       RELIGION      RISK
+  --------------------  ----------------------  ------------  --------------
+  CLASSICAL / CULTURAL  cultivated reason,      compatible    idealises an
+                        civic virtue,           with several  EXCLUSIVE
+                        classical learning      settings      educated citizen
+  RENAISSANCE           cultivated human        often         ELITIST
+                        capacities              CHRISTIAN     CULTIVATION
+  ENLIGHTENMENT         reason, autonomy,       critical /    ABSTRACT
+                        universal personhood    tolerant      UNIVERSALISM
+  SECULAR /             naturalistic inquiry    REJECTS       SCIENTISM
+  NATURALISTIC          and human welfare       supernatural
+                                                authority
+  RELIGIOUS             divine or spiritual     can DEEPEN    PATERNALISM
+                        worth through SERVICE   human concern
+  MARXIST               creative, social        read through  CONTESTED
+                        SPECIES-BEING;          material      within Marxism
+                        overcoming ALIENATION   suffering
+  RADICAL (M. N. ROY)   SOVEREIGNTY OF THE      secular       UNDERESTIMATES
+                        RATIONAL INDIVIDUAL                   STRUCTURAL POWER
+  BOUNDARY -> EXISTENTIAL humanism is a DEFENSIBLE COMPARISON on freedom,
+  responsibility and self-making, but is NEITHER PRINTED NOR ROUTED. One
+  bounded comparison only; it must not DISPLACE the forms the stems need.
+        |
+        v
+  FIVE SELECTION TESTS (2018 Q3(c) asks for SELECTION, not a CATALOGUE)
+  +---+-------------------+-------------------------------------------+
+  | 1 | UNIVERSAL FLOOR   | equal dignity -> permits criticism of      |
+  |   |                   | caste, exclusion, instrumentalisation      |
+  | 2 | EPISTEMIC METHOD  | reason, science, REVISABLE inquiry ->      |
+  |   |                   | resists inherited/ideological monopoly     |
+  | 3 | SOCIAL CONCEPTION | persons formed through RELATION and       |
+  |   |                   | COMMUNITY -> avoids atomistic individualism|
+  | 4 | DIFFERENCE-       | gender, caste, culture and historical      |
+  |   | SENSITIVITY       | voice CORRECT the abstract "human"         |
+  | 5 | ECOLOGICAL LIMIT  | flourishing is INTERDEPENDENT with living  |
+  |   |                   | systems -> restrains anthropocentric       |
+  |   |                   | mastery                                    |
+  +---+-------------------+-------------------------------------------+
+  EACH RISK IN THE TABLE IS THE FAILURE MODE ONE TEST DETECTS. USE THE TWO
+  COLUMNS TOGETHER AND THE SELECTION IS ARGUED, NOT ASSERTED.
+        |
+        v
+  GRADED VERDICT -> a CRITICAL, PLURAL and ECOLOGICAL HUMANISM: NATURALISTIC
+  in method, UNIVERSAL in dignity, RELATIONAL in personhood, SELF-CORRECTING
+  under feminist, anti-caste, postcolonial and ecological criticism.
+  (!) LABEL IT HONESTLY: an ARGUED SYNTHESIS of strengths and limits already
+  present in the family -- NOT a new canonical school with a founder.
+CONTESTED ? -> the tests are CHOSEN so a liberal-naturalistic-ecological
+  position wins. REPLY -> each test is derived from a failure THE TRADITION
+  ITSELF RECORDED. RESIDUAL -> the selection is INTERNAL to humanism and has
+  NO FORCE against someone outside it.
+
+
+ASCII MASTER FLOW — PANEL 7/22: Four relations, four limits -- and where the limits lead
+  +-------------+--------------------------------+---------------------+
+  | RELATION    | HUMANIST CONTRIBUTION          | LIMIT               |
+  +-------------+--------------------------------+---------------------+
+  | HUMAN       | supplies the MORAL STATUS from | rights require      |
+  | RIGHTS      | which LEGAL ENTITLEMENTS can   | INSTITUTIONS and    |
+  |             | be argued                      | REMEDIES beyond     |
+  |             |                                | moral affirmation   |
+  +-------------+--------------------------------+---------------------+
+  | SCIENCE     | protects INQUIRY from EPISTEMIC| scientific method   |
+  |             | MONOPOLY; demands REVISABILITY | ALONE cannot derive |
+  |             |                                | every value         |
+  +-------------+--------------------------------+---------------------+
+  | RELIGION    | may REJECT supernatural        | humanism is NOT     |
+  |             | authority OR REINTERPRET faith | simply ANTI-RELIGION|
+  |             | through SERVICE and EQUAL WORTH|                     |
+  +-------------+--------------------------------+---------------------+
+  | COMMUNITY   | LANGUAGE, CARE and SOCIAL      | COMMUNITY CANNOT    |
+  |             | RELATION are CONDITIONS of     | CANCEL THE DIGNITY  |
+  |             | DEVELOPED AGENCY               | OR DISSENT OF A     |
+  |             |                                | MEMBER              |
+  +-------------+--------------------------------+---------------------+
+        |
+        v
+  READ DOWN THE LIMIT COLUMN AND IT MAPS THE REST OF THE CLAUSE
+   rights need INSTITUTIONS ....... -> SECULARISM supplies the terms on which
+                                       institutions may COERCE
+   science cannot derive VALUES ... -> the MORAL FLOOR is ARGUED, not FOUND
+   humanism is NOT anti-religion .. -> the secular state protects CONSCIENCE,
+                                       INCLUDING RELIGIOUS conscience
+   community cannot cancel DIGNITY  -> the INTERNAL-RESTRICTION LIMIT on
+                                       MULTICULTURAL RECOGNITION
+  THE FOURTH LIMIT IS THE MOST REUSED SENTENCE IN THE WHOLE CLAUSE, AND IT IS
+  WHAT MAKES THE INTERNAL-RESTRICTION TEST A *HUMANIST* CONCLUSION RATHER THAN
+  AN EXTERNAL IMPOSITION ON COMMUNITIES.
+CONTESTED ? -> IF community is a CONDITION of agency, the standards by which a
+  member criticises it are SUPPLIED BY IT, so the "dissenting member" is a
+  fiction. REPLY -> communities are INTERNALLY PLURAL, contain their own
+  reformers, and often fail BY THEIR OWN DECLARED STANDARDS; criticism begins
+  INSIDE. RESIDUAL -> where dissent is suppressed EARLY and SUCCESSFULLY the
+  internal-resources argument is thin, and critique must lean on P3 of Panel 4.
+
+
+ASCII MASTER FLOW — PANEL 8/22: Tagore -- five reconciliations and one argument
+  +---------------------+----------------------------------------------+
+  | APPARENT OPPOSITION | TAGOREAN MEDIATION                           |
+  +---------------------+----------------------------------------------+
+  | INDIVIDUAL /        | individuality FULFILS ITSELF through         |
+  | UNIVERSAL           | RELATION, creativity and sympathy            |
+  | REASON /            | critical intelligence and spiritual depth    |
+  | SPIRITUALITY        | NEED NOT EXCLUDE each other                  |
+  | EAST / WEST         | civilisations meet through RECIPROCAL         |
+  |                     | LEARNING -- not IMITATION, not CHAUVINISM    |
+  | FREEDOM /           | community NOURISHES freedom when it is NOT   |
+  | COMMUNITY           | COERCIVE                                     |
+  | FINITE / INFINITE   | the human reaches beyond EGO through ART,    |
+  |                     | LOVE and PARTICIPATION IN A LARGER LIFE      |
+  +---------------------+----------------------------------------------+
+  SOURCE GROUND -> THE RELIGION OF MAN and NATIONALISM (titles only; NO page,
+  edition, date or verbatim wording is asserted; DO NOT QUOTE).
+        |
+        v
+  THE ARGUMENT -- THIS IS WHAT "HOW" IS ASKING FOR (2025 Q3(b))
+  +------------------------------------------------------------------+
+  | 1. the ISOLATED EGO is INCOMPLETE                                 |
+  | 2. creative SELF-EXPRESSION ALREADY PRESUPPOSES language,         |
+  |    relation and a WORLD SHARED WITH OTHERS                        |
+  | 3. therefore UNIVERSAL HUMANITY is NOT AN EXTERNAL ABSTRACTION    |
+  |    but a DIMENSION OF FULFILLED PERSONHOOD                        |
+  +------------------------------------------------------------------+
+  RECONCILIATION IS THEREFORE *DISSOLUTION OF A FALSE OPPOSITION*, NOT
+  COMPROMISE and NOT SYNTHESIS-BY-BLENDING.
+        |
+        v
+  POLITICAL COROLLARY -> the MECHANICALLY ORGANISED NATION can subordinate
+  LIVING PERSONS and CIVILISATIONAL EXCHANGE to COLLECTIVE POWER.
+  (!) His universalism is NOT ROOTLESSNESS: one enters universality *THROUGH*
+  creative culture, not by ERASING it.
+        |
+        v
+  EVALUATION (the directive requires it)
+  OBJECTION (v) -> universal humanism may become TOO SPIRITUAL and
+    INSUFFICIENTLY ATTENTIVE to CASTE, CLASS and INSTITUTIONAL POWER
+  REPLY (!) -> Tagore supplies an ETHIC OF RELATION and an ANTI-NATIONALISM;
+    AMBEDKAR and MARX expose STRUCTURES that SYMPATHY ALONE CANNOT DISSOLVE
+    (AMBEDKAR = BOUNDED BRIDGE; caste doctrine is NOT developed here)
+  RESIDUAL ? -> the doctrine states what FULFILLED PERSONHOOD IS without
+    explaining how its CONDITIONS -- education, standing, creative access --
+    are SECURED AGAINST ENTRENCHED POWER
+  ASYMMETRIC VERDICT -> PHILOSOPHICALLY SUCCESSFUL, POLITICALLY INCOMPLETE.
+
+
+ASCII MASTER FLOW — PANEL 9/22: Gandhi, Vivekananda, Roy -- and the convergence row
+                      WHAT GROUNDS HUMAN WORTH?
+     RELIGIOUS / SPIRITUAL <--------------------> NATURALISTIC / RATIONAL
+            |                     |                        |
+        GANDHI              VIVEKANANDA               M. N. ROY
+  UNITY and EQUAL WORTH   the DIVINE POTENTIAL    SOVEREIGNTY OF THE
+  OF LIFE; humanism that  of the person,          RATIONAL INDIVIDUAL,
+  is RELIGIOUS, ETHICAL   realised through        above PARTY, CLASS, STATE
+  and PRACTICAL           SERVICE TO HUMANITY
+  TEST of public action:  broadens humanism       FREEDOM = the PROGRESSIVE
+  its EFFECT ON THE MOST  BEYOND anti-religious   REMOVAL OF RESTRAINTS on
+  VULNERABLE              secularism              human POTENTIAL
+  but MORAL REGENERATION  spiritual metaphysics   DEMOCRACY must be
+  and NON-VIOLENCE remain DIFFERS from Roy's      PARTICIPATORY and
+  INDISPENSABLE           naturalism              ETHICALLY GROUNDED, not
+                                                  merely ELECTORAL
+  +-----------+------------------------+-----------------------------+
+  | AXIS      | M. N. ROY              | GANDHI                      |
+  +-----------+------------------------+-----------------------------+
+  | GROUND    | naturalistic reason,   | spiritual unity, truth,     |
+  |           | individual autonomy    | non-violence                |
+  | RELIGION  | rejects supernatural   | religion can ETHICALLY      |
+  |           | authority              | DISCIPLINE politics         |
+  | POLITICS  | organised PARTICIPATORY| SELF-RULE (swaraj),         |
+  |           | DEMOCRACY              | constructive work,          |
+  |           |                        | DECENTRALISATION            |
+  | COMMON    | NO COLLECTIVE IDOL MAY | THE SAME, expressed through |
+  | POINT     | EXTINGUISH THE PERSON  | conscience and non-violence |
+  +-----------+------------------------+-----------------------------+
+  <<< THE COMMON ROW IS THE MARK-BEARING ONE: TWO OPPOSED METAPHYSICS
+      CONVERGE ON ONE PROTECTION, SO THE INDIAN HUMANIST FLOOR IS
+      OVER-DETERMINED AND THEREFORE ROBUST. >>>
+        |
+        v
+  ROY'S NAMED LIMIT -> individual reason may be SOCIALLY CONDITIONED, and
+  MORAL EDUCATION ALONE may not overcome STRUCTURAL INEQUALITY.
+  ROY'S REPLY -> he need not deny structure; the warning is that NO PROMISED
+  COLLECTIVE FUTURE licenses the PRESENT EXTINCTION of INDIVIDUAL FREEDOM.
+  GANDHI'S NAMED LIMIT -> virtue without institutions is FRAGILE -> the
+  BHARGAVA supplement in Panel 16.
+CONTESTED ? -> grouping the three FLATTENS a real incompatibility, since
+  Roy's naturalism DENIES what Vivekananda's divine potential ASSERTS.
+  REPLY -> the grouping is by CONCLUSION AND FUNCTION, not metaphysics, and
+  the AXIS IS DRAWN BEFORE the thinkers are placed on it. RESIDUAL -> a
+  functional grouping cannot settle a METAPHYSICAL dispute; it shows the
+  political protection is OVER-DETERMINED, not that either ground is correct.
+
+
+ASCII MASTER FLOW — PANEL 10/22: Can humanism substitute for religion?
+  "SUBSTITUTE" IS A *FUNCTIONAL* RELATION -> X substitutes for Y when X
+  DISCHARGES Y'S FUNCTION. So the question is NOT whether humanism is truer or
+  better; it is WHICH OF RELIGION'S FUNCTIONS a human-centred outlook carries.
+  +--------------------+--------------------------+---------------------+
+  | FUNCTION OF        | CAN HUMANISM SUPPLY IT?  | RESIDUAL ISSUE      |
+  | RELIGION           |                          |                     |
+  +--------------------+--------------------------+---------------------+
+  | MORAL ORIENTATION  | SUBSTANTIALLY -- suffer- | disagreement over   |
+  |                    | ing, reciprocity,        | an ULTIMATE         |
+  |                    | dignity, responsibility  | FOUNDATION          |
+  | PUBLIC ETHIC       | YES -- common humanity   | abstract reason     |
+  |                    | and reason justify EQUAL | must LEARN from     |
+  |                    | CIVIC STANDING           | cultural and        |
+  |                    |                          | historical          |
+  |                    |                          | experience          |
+  | COMMUNITY AND      | PARTLY -- associations,  | INHERITED RITUAL    |
+  | SOLIDARITY         | education, service       | and BELONGING may   |
+  |                    | create fellowship        | not be replaceable  |
+  | MEANING, TRANSCEN- | ONLY PARTLY, AND FOR     | not EVERY religious |
+  | DENCE, EXISTENTIAL | SOME PERSONS             | horizon is          |
+  | CONSOLATION        |                          | reproduced          |
+  +--------------------+--------------------------+---------------------+
+        |
+        v
+  THE INDIAN ARGUMENT THE 2021 STEM EXPRESSLY DEMANDS
+  in a DEEPLY RELIGIOUS AND PLURAL SOCIETY, a humanism that DEMANDED
+  IRRELIGION would VIOLATE THE EQUAL CONSCIENCE later protected by SECULARISM.
+  GANDHI and VIVEKANANDA -> human concern and faith CAN REINFORCE each other
+  M. N. ROY ------------> an ethical humanism CAN ALSO BE NATURALISTIC
+  INDIA THEREFORE SUPPLIES *BOTH HALVES* OF THE VERDICT.
+  (!) This is an argument about CONSCIENCE, not a description of Indian
+  religiosity. NO EMPIRICAL CLAIM about Indian society is made.
+        |
+        v
+  VERDICT -> humanism CAN substitute for religion's ETHICAL and CIVIC role,
+  but NOT NECESSARILY for its full COMMUNAL, MEANING-CONFERRING or TRANSCENDENT
+  role. Best defended as a UNIVERSAL FLOOR COMPATIBLE WITH, AND CRITICAL OF,
+  PLURAL RELIGIOUS CONSCIENCES -- NOT as their COMPULSORY REPLACEMENT.
+CONTESTED ? -> the FUNCTIONAL DIVISION begs the question: for a believer the
+  functions are HELD TOGETHER by the belief that grounds them. REPLY ->
+  reform movements INSIDE traditions revise belief while preserving moral
+  orientation and community, so the functions are DISTINGUISHABLE. RESIDUAL ->
+  for a person for whom they are genuinely INSEPARABLE the answer is NO --
+  which is why the canonical verdict says "NOT NECESSARILY", not "NOT".
+
+
+ASCII MASTER FLOW — PANEL 11/22: The four standing objections to humanism
+  +---+---------------------+----------------------+--------------------+
+  | # | OBJECTION           | BEST REPLY           | RESIDUAL           |
+  +---+---------------------+----------------------+--------------------+
+  | 1 | ANTHROPOCENTRISM    | dignity NEED NOT     | human interests    |
+  |   | licenses domination | imply SPECIES        | may still DOMINATE;|
+  |   | of non-human nature | MASTERY; ecological  | the strongest      |
+  |   |                     | humanism reads       | reply GIVES UP the |
+  |   |                     | flourishing as       | species-centred    |
+  |   |                     | INTERDEPENDENT       | criterion          |
+  | 2 | ABSTRACT            | feminist, anti-caste | who ADJUDICATES a  |
+  |   | UNIVERSALISM --     | and postcolonial     | contested reading  |
+  |   | "the human" has     | critiques RECONSTRUCT| of dignity when    |
+  |   | reflected MALE,     | rather than abandon  | states, communities|
+  |   | EUROPEAN, DOMINANT- | dignity: universality| and members        |
+  |   | CASTE experience    | is ACHIEVED through  | disagree?          |
+  |   |                     | INCLUSION and        |                    |
+  |   |                     | CONTESTATION         |                    |
+  | 3 | RELIGIOUS -- moral- | humanists appeal to  | the FOUNDATION     |
+  |   | ity WITHOUT TRANS-  | SUFFERING, RECIPRO-  | dispute is         |
+  |   | CENDENCE lacks an   | CITY, AUTONOMY,      | RELOCATED, not     |
+  |   | ULTIMATE FOUNDATION | SHARED CONDITIONS;   | RESOLVED           |
+  |   |                     | RELIGIOUS HUMANISTS  |                    |
+  |   |                     | show compatibility   |                    |
+  | 4 | ANTI-HUMANIST -- the| DECENTRING corrects  | if the subject is  |
+  |   | SOVEREIGN RATIONAL  | arrogance; TOTAL     | WHOLLY CONSTRUCTED,|
+  |   | SUBJECT is HISTORIC-| abandonment makes    | so is the GROUND   |
+  |   | ALLY CONSTRUCTED    | RESPONSIBILITY and   | OF CRITIQUE        |
+  |   |                     | EMANCIPATION         |                    |
+  |   |                     | UNSTATABLE           |                    |
+  +---+---------------------+----------------------+--------------------+
+  AT 15 AND 20 MARKS: TWO OBJECTIONS FULLY WORKED, EACH ENDING IN A RESIDUAL,
+  OUTSCORE FOUR LISTED IN OUTLINE.
+        |
+        v
+  ANTHROPOCENTRISM, PRECISELY STATED -> humanism does not merely OMIT non-human
+  nature; it can POSITIVELY LICENSE DOMINATION by making RATIONAL HUMAN AGENCY
+  the SOLE GROUND of moral status. If dignity attaches to RATIONAL SELF-
+  LEGISLATING AGENTS, non-agents fall outside the moral community BY
+  CONSTRUCTION, NOT BY OVERSIGHT.
+        |
+        v
+  THREE REPLIES IN ASCENDING STRENGTH -- LABEL THEM AS SUCH
+  1 INSTRUMENTAL  ecological destruction HARMS HUMANS -> a consistent humanism
+                  must protect ecosystems.   <<< WEAKEST: PRESERVES
+                  anthropocentrism and merely EXTENDS ITS REACH
+  2 RELATIONAL    human flourishing is CONSTITUTED, not merely supported, by
+                  relations with living systems -> ecological care is INTERNAL
+                  to dignity, not added to it
+  3 EXTENSIONAL   the criterion grounding human dignity -- the capacity to
+                  FARE WELL OR BADLY, to be HARMED, to have a life that can go
+                  BETTER OR WORSE -- is NOT confined to human beings, so
+                  CONSISTENCY requires extending MORAL CONSIDERABILITY
+        |
+        v
+  UNRESOLVED RESIDUE -> reply 3 CONCEDES that the NAME "HUMANISM" NO LONGER
+  FITS. EITHER the doctrine is reconstructed ecologically and GIVES UP its
+  species-centred criterion, OR it retains the criterion and ACCEPTS A LIMIT
+  IT CANNOT ARGUE AWAY. SAY THIS; DO NOT CONCEAL IT.
+  ROUTE -> anthropocentric-biocentric-ecocentric spectrum, shallow/deep
+  ecology, intergenerational justice -> DEVELOPMENT AND SOCIAL PROGRESS.
+
+
+ASCII MASTER FLOW — PANEL 12/22: Secularism -- five words that are not synonyms
+  +-------------------+------------------+-----------------------------+
+  | TERM              | KIND OF CLAIM    | WHAT IT ACTUALLY SAYS       |
+  +-------------------+------------------+-----------------------------+
+  | SECULARISATION    | SOCIOLOGICAL     | DECLINE or TRANSFORMATION   |
+  |                   | (description)    | of RELIGIOUS AUTHORITY      |
+  | ATHEISM           | METAPHYSICAL     | the belief that GOD DOES    |
+  |                   | (truth-claim)    | NOT EXIST                   |
+  | RELIGIOUS         | PERMISSIVE       | PERMISSION to dissent --    |
+  | TOLERATION        | (attitude/policy)| MAY COEXIST WITH AN         |
+  |                   |                  | ESTABLISHED RELIGION        |
+  | RELIGIOUS         | DESCRIPTIVE or   | the FACT and/or VALUE of    |
+  | PLURALISM         | EVALUATIVE       | MULTIPLE RELIGIONS          |
+  | SECULARISM        | POLITICAL-       | PRINCIPLES governing PUBLIC |
+  |                   | NORMATIVE        | POWER and RELIGIOUS FREEDOM |
+  +-------------------+------------------+-----------------------------+
+        |
+        v
+  FOUR ONE-LINE DISPOSALS -- USE THREE IN THE OPENING PARAGRAPH
+  =/= SECULARISATION  a NORM is not a PREDICTION. A DEEPLY RELIGIOUS society
+                      can be THOROUGHLY SECULAR IN ITS STATE; a society where
+                      religion has quietly declined can remain UNSECULAR IN
+                      ITS LAW.
+  =/= ATHEISM         the state takes NO POSITION on God; it protects BELIEF
+                      and NON-BELIEF alike.
+  =/= TOLERATION      toleration is PERMISSION GRANTED BY THE POWERFUL and
+                      SURVIVES ESTABLISHMENT; secularism REMOVES THE RANK that
+                      makes permission possible.
+  =/= PLURALISM       pluralism is about RELIGIONS; secularism is about the
+                      STATE'S COERCIVE RELATION to them.
+        |
+        v
+  DOCTRINE (v) -> a NORMATIVE ARRANGEMENT of religion, state and citizenship
+  designed to secure FREEDOM OF CONSCIENCE, EQUAL CIVIC STANDING and
+  protection against BOTH:
+  +--------------------------------+--------------------------------+
+  | RELIGIOUS DOMINATION           | ARBITRARY STATE CONTROL OF     |
+  | of the state and of citizens   | RELIGION -- the state deciding |
+  | by an established or           | doctrine, certifying orthodoxy |
+  | politically supreme faith      | or suppressing practice at will|
+  +--------------------------------+--------------------------------+
+  A DOCTRINE GUARDING ONLY DIRECTION ONE COLLAPSES INTO ANTI-CLERICALISM.
+  A DOCTRINE GUARDING ONLY DIRECTION TWO COLLAPSES INTO RELIGIOUS AUTONOMY
+  WITHOUT EQUAL CITIZENSHIP.
+CONTESTED ? -> the SECULARISM/SECULARISATION separation is OVERDRAWN, since
+  secular principles emerged ALONGSIDE declining religious authority. REPLY ->
+  the distinction is CONCEPTUAL, not CAUSAL: the argument for conscience does
+  not have declining belief as a PREMISE. RESIDUAL -> logical independence does
+  not establish PRACTICAL DURABILITY.
+
+
+ASCII MASTER FLOW — PANEL 13/22: The five-step secular argument and its two failure modes
+STEP 1 -> citizens REASONABLY DISAGREE about religion and the ULTIMATE GOOD
+        |  (sincere, informed, careful people reach different conclusions)
+        v
+STEP 2 -> COERCIVE STATE POWER APPLIES TO ALL -- including those who reject
+        |  the doctrine that would justify it
+        v
+STEP 3 -> IF political status depends on adherence to ONE FAITH, DISSENTERS
+        |  BECOME UNEQUAL CITIZENS               <<< ESTABLISHMENT ERROR
+        v
+STEP 4 -> IF religious communities are WHOLLY IMMUNE from public norms,
+        |  INTERNAL DOMINATION may go UNCHALLENGED  <<< ABANDONMENT ERROR
+        |  <<< THE STEP CANDIDATES OMIT -- AND THE SOURCE OF PRINCIPLED
+        |      DISTANCE
+        v
+STEP 5 -> THEREFORE, THREE CONJOINED REQUIREMENTS
+  +------------------------------------------------------------------+
+  | (a) PROTECT CONSCIENCE                                            |
+  | (b) REFUSE RELIGIOUS QUALIFICATION FOR CITIZENSHIP                |
+  | (c) REGULATE INTERVENTION BY PUBLICLY JUSTIFIABLE PRINCIPLES      |
+  +------------------------------------------------------------------+
+  (a) and (b) correct the ESTABLISHMENT ERROR; (c) corrects the ABANDONMENT
+  ERROR. THE CONCLUSION HAS THREE PARTS BECAUSE THE ARGUMENT FOUND TWO
+  FAILURE MODES, NOT ONE.
+        |
+        v
+PRESUPPOSITION (!) -> POLITICAL LEGITIMACY MUST BE INTELLIGIBLE TO CITIZENS
+  WHO DO NOT SHARE A SINGLE THEOLOGY.
+  <- THIS IS STEP 3 OF THE HUMANIST ARGUMENT (Panel 4) APPLIED TO RELIGIOUS
+     DISAGREEMENT. THE TWO LIMBS OF THE CLAUSE JOIN HERE.
+        |
+        v
+WHAT THE ARGUMENT DOES NOT ASSUME -> not that religion is FALSE; not that
+  religious reasons are ILLEGITIMATE in public debate; not that citizens
+  should not BE religious. Only that COERCION IS UNIVERSAL IN REACH and that
+  LEGITIMACY MUST BE INTELLIGIBLE ACROSS THEOLOGICAL DISAGREEMENT -- which is
+  why A BELIEVER HAS AS MUCH REASON TO ENDORSE IT AS A NON-BELIEVER.
+CONTESTED ? -> STEP 1 does illegitimate work: calling religious disagreement
+  "REASONABLE" concedes that no religion is KNOWABLY TRUE. REPLY -> it is a
+  claim about the CONDITIONS OF PUBLIC JUSTIFICATION, not about religious
+  epistemology; a believer may privately hold their view TRUE. RESIDUAL -> the
+  reply weakens against a doctrine holding that THE STATE ITSELF HAS RELIGIOUS
+  DUTIES; there the argument can only show WHAT IS LOST.
+
+
+ASCII MASTER FLOW — PANEL 14/22: The five models of secularism
+  MAXIMUM DISTANCE <=================================> PRINCIPLED ENGAGEMENT
+  +-------------------+------------------+-------------+----------------+
+  | MODEL             | CENTRAL DEVICE   | STRENGTH    | RISK           |
+  +-------------------+------------------+-------------+----------------+
+  | STRICT SEPARATION | INSTITUTIONAL    | guards      | may IGNORE     |
+  |                   | DISTANCE between | against     | SOCIAL         |
+  |                   | state and        | ESTABLISH-  | INEQUALITY     |
+  |                   | religion         | MENT        | among religions|
+  | ASSERTIVE PUBLIC  | strong PUBLIC-   | common      | can BURDEN     |
+  | SECULARITY        | INSTITUTIONAL    | CIVIC       | VISIBLE        |
+  | (laicite)         | secularity       | IDENTITY    | MINORITIES     |
+  | NON-ESTABLISHMENT | state ESTABLISHES| DUAL        | BOUNDARY       |
+  | + FREE EXERCISE   | no religion AND  | PROTECTION  | DISPUTES       |
+  |                   | PROTECTS practice|             | PERSIST        |
+  | EQUAL RESPECT     | state does NOT   | fits a      | INDISCRIMINATE |
+  |                   | RANK faiths      | RELIGIOUSLY | APPEASEMENT    |
+  |                   |                  | PLURAL      |                |
+  |                   |                  | society     |                |
+  | PRINCIPLED        | CONTEXT-SENSITIVE| addresses   | DISCRETION can |
+  | DISTANCE          | ENGAGEMENT *OR*  | INTER- AND  | become         |
+  | (BHARGAVA)        | DISENGAGEMENT by | INTRA-      | INCONSISTENT   |
+  |                   | LIBERTY, EQUALITY| RELIGIOUS   | or PARTISAN    |
+  |                   | ANTI-DOMINATION  | DOMINATION  |                |
+  +-------------------+------------------+-------------+----------------+
+  BHARGAVA -> principled distance rejects BOTH a RIGID WALL and OPPORTUNISTIC
+  INTERVENTION. Distance VARIES for PRINCIPLED REASONS: the state may ABSTAIN
+  to protect AUTONOMY or INTERVENE to secure EQUAL CITIZENSHIP and REFORM
+  OPPRESSIVE PRACTICES.
+        |
+        v
+  THE 2020 ANSWER IN ONE MOVE -> "COMPLETE SEPARATION" IS *ONE MODEL*, NOT THE
+  DEFINITION OF SECULARISM. The DEFINITION is CONSCIENCE + EQUAL CITIZENSHIP +
+  NON-DOMINATION IN BOTH DIRECTIONS. Separation is a DEVICE -- and by the
+  ABANDONMENT-ERROR test of Panel 13, a device that is SOMETIMES INSUFFICIENT.
+  WHY THE TWO-BOX CARICATURE LOSES MARKS -> THE FIRST FOUR MODELS ARE ALL
+  WESTERN AND DISAGREE SHARPLY. "Western secularism = separation" erases the
+  difference between STRICT SEPARATION, LAICITE and NON-ESTABLISHMENT.
+  MODEL-CHOICE VERDICT -> judged by the prevention of INTRA-religious as well
+  as INTER-religious domination, PRINCIPLED DISTANCE IS SUPERIOR -- AT THE COST
+  OF A DISCRETION THAT MUST ITSELF BE PRINCIPLED, SYMMETRIC AND REVIEWABLE.
+CONTESTED ? -> principled distance is UNPRINCIPLED PRACTICE UNDER A
+  RESPECTABLE NAME. REPLY -> it excludes IN ADVANCE: engagement that
+  ESTABLISHES or ENDORSES; abstention that leaves members DOMINATED where the
+  state could relieve it; differential treatment unjustified by the THREE
+  VALUES; and ASYMMETRIC application to majority and minority claims.
+  RESIDUAL -> the exclusions are only as good as the INSTITUTION applying them,
+  and NO ADJUDICATOR IS SPECIFIED.
+
+ASCII MASTER FLOW — PANEL 15/22: Indian secularism -- cluster, illustrations, hard questions
+  +----------------------------------------------------------------+
+  | THE FIVE-PART CLUSTER (write all five; any one alone is a       |
+  | caricature)                                                     |
+  | 1 FREEDOM OF CONSCIENCE                                         |
+  | 2 EQUAL CITIZENSHIP                                             |
+  | 3 NON-THEOCRACY                                                 |
+  | 4 PROTECTION OF MINORITY CULTURE                                |
+  | 5 REFORM of practices that violate constitutional norms         |
+  +----------------------------------------------------------------+
+        |
+        v
+  CONSTITUTIONAL ILLUSTRATIONS -- *NOT* PHILOSOPHICAL PROOF
+  Articles 25-28 ... protect RELIGIOUS FREEDOM SUBJECT TO SPECIFIED
+                     CONSTITUTIONAL LIMITS
+  Articles 29-30 ... protect CULTURAL and EDUCATIONAL INTERESTS
+  1976 ............. the Constitution (FORTY-SECOND AMENDMENT) Act INSERTED
+                     "secular" into the PREAMBLE -- an ENACTED CONSTITUTIONAL
+                     AMENDMENT, *NOT* the birth of all secular commitments
+  1994 ............. S. R. BOMMAI v. UNION OF INDIA -- a SUPREME COURT
+                     JUDGMENT treating secularism as part of the BASIC
+                     STRUCTURE
+  (!) THESE ILLUSTRATE INSTITUTIONALISATION. THE PHILOSOPHICAL JUSTIFICATION
+      STILL RESTS ON CONSCIENCE, EQUALITY AND NON-DOMINATION.
+        |
+        v
+  FOUR HARD QUESTIONS AND THEIR CONTROLLING PRINCIPLES
+  +----------------------+------------------------+--------------------+
+  | QUESTION             | SECULAR CONCERN        | CONTROLLING        |
+  |                      |                        | PRINCIPLE          |
+  +----------------------+------------------------+--------------------+
+  | MINORITY RELIGIOUS / | UNIFORM RULES may      | EXTERNAL           |
+  | CULTURAL PROTECTION  | EXPOSE minorities to   | PROTECTION + EQUAL |
+  |                      | MAJORITY POWER         | CIVIC MEMBERSHIP   |
+  | PERSONAL-LAW         | law may PRESERVE       | accommodation is   |
+  | ACCOMMODATION        | conscience and         | DEFEASIBLE where   |
+  |                      | cultural membership    | it ENTRENCHES      |
+  |                      |                        | INTERNAL DOMINATION|
+  | SOCIAL REFORM        | ABSOLUTE NON-          | intervention needs |
+  |                      | INTERVENTION can       | LIBERTY, EQUALITY  |
+  |                      | IMMUNISE HIERARCHY     | and ANTI-DOMINATION|
+  |                      |                        | REASONS            |
+  | RELIGIOUS REASONS IN | EXCLUDING every        | COERCIVE LAW must  |
+  | PUBLIC LIFE          | religiously framed     | remain JUSTIFIABLE |
+  |                      | reason can BURDEN      | to citizens who do |
+  |                      | BELIEVERS              | not share one      |
+  |                      |                        | theology           |
+  +----------------------+------------------------+--------------------+
+  (!) PUBLIC-REASON BOUND -> "public reason" here = SHARED JUSTIFICATION OF
+  COERCIVE LAW in a MINIMAL POLITICAL SENSE. NOT a full importation of
+  RAWLS'S THEORY. The test is whether CITIZENS ARE ADDRESSED AS EQUALS -- not
+  whether every speaker uses SECULAR VOCABULARY.
+  (!) SYMMETRY REQUIREMENT -> the SAME liberty, equality and anti-domination
+  criteria ACROSS CASES. Applied ONLY TO MINORITIES it becomes SURVEILLANCE;
+  applied ONLY TO THE MAJORITY it becomes EXEMPTION.
+CONTESTED ? -> the cluster is INTERNALLY INCONSISTENT: PROTECTING minority
+  culture and REFORMING practices pull opposite ways. REPLY -> protection is
+  owed against VULNERABILITY TO EXTERNAL POWER, reform is licensed by
+  DOMINATION INSIDE the group, and ANTI-DOMINATION is the SYMMETRIC TIEBREAKER.
+  RESIDUAL -> the tiebreaker presupposes an AGREED ACCOUNT OF DOMINATION, and
+  the ARBITER of intra-community domination is also A PARTY.
+
+
+ASCII MASTER FLOW — PANEL 16/22: Gandhi's secularism as a foundation of democracy
+  THE STARTING POINT MOST SCRIPTS GET BACKWARDS
+  +----------------------------------------------------------------+
+  | GANDHI DOES *NOT* SEEK TO EXPEL RELIGION FROM PUBLIC LIFE.      |
+  | Religion -- understood as ETHICAL TRUTH and SELF-PURIFICATION   |
+  | rather than SECTARIAN COMMAND -- SHOULD DISCIPLINE POLITICS.    |
+  | ALL FAITHS DESERVE EQUAL MORAL REGARD.                          |
+  +----------------------------------------------------------------+
+        |
+        v
+  THE FIVE-STEP ARGUMENT -- THIS IS THE "EXPOSITION" THE DIRECTIVE ASKS FOR
+  1 religions contain PARTIAL HUMAN APPREHENSIONS OF TRUTH   <<< THE ENGINE
+  2 COERCION IN RELIGION VIOLATES CONSCIENCE
+  3 HUMILITY toward ONE'S OWN FAITH supports RESPECT for others
+  4 DEMOCRACY requires NON-VIOLENCE and EQUAL CIVIC FELLOWSHIP
+  5 THEREFORE PUBLIC RELIGION MUST BE ETHICAL AND NON-SECTARIAN
+  WHY STEP 1 IS THE ENGINE -> because every apprehension is PARTIAL, no faith
+  has the STANDING TO COMMAND others, so EQUAL REGARD IS A CONSEQUENCE OF
+  EPISTEMIC HUMILITY, not merely a policy of tolerance.
+        |
+        v
+  WHY IT IS *FOUNDATIONAL* AND NOT A SIDE-CONSTRAINT
+  democracy is NOT MERELY A COUNTING PROCEDURE. If citizens do not regard one
+  another as EQUAL FELLOWS, MAJORITY RULE BECOMES MAJORITY POWER. EQUAL MORAL
+  REGARD ACROSS FAITHS IS THEREFORE A *CONDITION* OF DEMOCRATIC FELLOWSHIP,
+  NOT A LIMIT IMPOSED ON DEMOCRACY FROM OUTSIDE.
+        |
+        v
+  OBJECTION (v) -> a RELIGIOUS VOCABULARY in politics can PRIVILEGE
+    MAJORITARIAN SYMBOLS and EXCLUDE NON-BELIEVERS
+  TWO-PART REPLY -> (a) GANDHI'S OWN PRINCIPLE OF EQUAL CONSCIENCE RESISTS
+    such privilege; (b) BUT BHARGAVA'S INSTITUTIONAL SECULARISM SUPPLIES
+    SAFEGUARDS THAT PERSONAL VIRTUE ALONE CANNOT.
+  (!) The two operate at DIFFERENT LEVELS -- personal-ethical and
+      INSTITUTIONAL -- which is why the supplement is NECESSARY, not optional.
+        |
+        v
+  THE BOUNDED AMBEDKAR BRIDGE -- NAME AND ROUTE, DO NOT DEVELOP
+  GANDHI grounds democratic fellowship in ETHICAL RELIGION, EQUAL REGARD and
+  TRANSFORMED HEARTS. AMBEDKAR grounds it in CONSTITUTIONAL MORALITY, LIBERTY,
+  EQUALITY, FRATERNITY and INSTITUTIONAL PROTECTION against GRADED HIERARCHY.
+  (!) COMPLEMENTARY ONLY IF moral fellowship is JOINED TO ENFORCEABLE RIGHTS:
+      without STRUCTURE Gandhi risks PATERNALISM; without FRATERNITY
+      constitutional form can remain SOCIALLY HOLLOW.
+  (!) THE FULL GANDHI-AMBEDKAR COMPARISON (2019 Q4(a), 20 marks) IS OWNED BY
+      CASTE DISCRIMINATION AND IS *NOT* COUNTED AMONG THIS OWNER'S 16 PARTS.
+CONTESTED ? -> STEP 1 IS A THEOLOGICAL CLAIM, recognisably PLURALIST, which
+  orthodox adherents of many traditions REJECT. REPLY -> Gandhi's is avowedly
+  a RELIGIOUS ARGUMENT FOR SECULAR POLITICS and CLAIMS NO NEUTRALITY; its
+  achievement is showing believers a ROUTE to secular politics from INSIDE
+  conviction. RESIDUAL -> it has NO PURCHASE on those who decline the premise,
+  which is EXACTLY WHY THE INSTITUTIONAL SUPPLEMENT IS REQUIRED.
+
+
+ASCII MASTER FLOW — PANEL 17/22: Pluralism, and the four recurrent public objections
+  IS SECULARISM *NECESSARILY* RELATED TO RELIGIOUS PLURALISM? (2025 Q1(c))
+  "NECESSARILY" -> CONCEPTUAL ENTAILMENT, NOT HISTORICAL CO-OCCURRENCE.
+  TEST BOTH DIRECTIONS -- THAT IS THE WHOLE ANSWER
+  +---------------------------------+---------------------------------+
+  | DOES SECULARISM REQUIRE         | DOES PLURALISM PRODUCE          |
+  | PLURALISM?                      | SECULARISM?                     |
+  | NO. A RELIGIOUSLY HOMOGENEOUS   | NO. A PLURAL SOCIETY CAN REMAIN |
+  | SOCIETY CAN STILL NEED SECULAR  | NON-SECULAR IF ONE RELIGION     |
+  | PROTECTION FOR DISSENTERS AND   | ENJOYS POLITICAL SUPREMACY.     |
+  | NON-BELIEVERS -> the protected  | MANY FAITHS + ONE ESTABLISHED   |
+  | party may be a HERETIC, a       | FAITH = PLURALITY WITHOUT       |
+  | REFORMER or an ATHEIST, not a   | SECULARISM, and the dissenters  |
+  | rival CONGREGATION              | are UNEQUAL CITIZENS            |
+  +---------------------------------+---------------------------------+
+        |
+        v
+  PLURALITY .... the PRESENCE of several religions              (a FACT)
+  PLURALISM .... may ADDITIONALLY affirm their RIGHT to coexist (a VALUE)
+  SECULARISM ... specifies how COERCIVE PUBLIC POWER should act (a NORM)
+  -> SECULARISM CONVERTS COEXISTENCE INTO NORMS OF CONSCIENCE AND EQUAL
+     CITIZENSHIP. Pluralism can say "let them coexist"; only secularism says
+     WHAT THE STATE MAY AND MAY NOT DO ABOUT IT.
+        |
+        v
+  FOUR RECURRENT PUBLIC OBJECTIONS
+  1 "SECULARISM IS ANTI-RELIGIOUS."
+    REPLY (v) it protects RELIGIOUS *AND* NON-RELIGIOUS CONSCIENCE and denies
+    the state a mandate to CERTIFY THEOLOGICAL TRUTH. It restrains POLITICAL
+    ESTABLISHMENT, NOT FAITH AS SUCH.
+  2 MAJORITARIANISM -- majority symbols may APPEAR CULTURALLY NEUTRAL and turn
+    FORMAL EQUALITY into PRESSURE TO ASSIMILATE.
+    REPLY (!) non-establishment and equal citizenship require MAJORITY
+    INSTITUTIONS TO UNDERGO THE SAME SCRUTINY AS MINORITY CLAIMS.
+  3 "MINORITYISM" / SELECTIVE APPEASEMENT -- community-specific protection can
+    be used WITHOUT A GENERAL PRINCIPLE and can SHIELD ELITES.
+    REPLY (!) minority protection is justified AGAINST VULNERABILITY, NOT as
+    PERMANENT IMMUNITY; principled distance requires the SAME criteria ACROSS
+    CASES.
+  4 "SECULARISM CAUSES COMMUNAL POLITICS BY RECOGNISING COMMUNITIES."
+    REPLY (!) recognition CAN entrench identities, but DENIAL CAN CONCEAL
+    MAJORITY PRIVILEGE. Test = does recognition protect EQUAL CITIZENSHIP or
+    create PERMANENT POLITICAL RANK?
+  THREE STANDING REPLIES -> "WESTERN IMPORT": the TERM has a modern Western
+  history, but the PROBLEMS -- coercion, conscience, coexistence, political
+  equality -- ARISE IN INDIA TOO. "EQUAL RESPECT PREVENTS REFORM": principled
+  distance permits intervention AGAINST DOMINATION. "NEUTRALITY IS IMPOSSIBLE":
+  neutrality does not mean NO EFFECTS; it means no assignment of SUPERIOR
+  CIVIC WORTH to a faith.
+        |
+        v
+  CONTROL OF THE 2023 FORMULATION [Q4(c)] -> "Secularism is not a rejection of
+  religion but ACCEPTANCE OF ALL RELIGIONS."
+  FIRST HALF -> CORRECT WITHOUT QUALIFICATION.
+  SECOND HALF -> CORRECT *ONLY* UNDER A CIVIC READING: EQUAL CIVIC RESPECT AND
+  FREEDOM OF CONSCIENCE. A secular state NEED NOT AFFIRM EVERY RELIGION AS
+  THEOLOGICALLY TRUE, and IT MUST EQUALLY PROTECT NON-BELIEF. SAY BOTH HALVES.
+
+
+ASCII MASTER FLOW — PANEL 18/22: Multiculturalism -- four dimensions and six structural marks
+  DOCTRINE (v) -> BOTH the DESCRIPTIVE FACT of cultural diversity AND the
+  NORMATIVE CLAIM that a just polity may need PUBLIC RECOGNITION,
+  ACCOMMODATION or GROUP-DIFFERENTIATED RIGHTS so that minorities enjoy EQUAL
+  FREEDOM AND MEMBERSHIP.
+  +----------------+---------------------------+----------------------+
+  | DIMENSION      | THE QUESTION IT ASKS      | EXAMPLE              |
+  +----------------+---------------------------+----------------------+
+  | DESCRIPTIVE    | are several communities   | India's linguistic   |
+  |                | PRESENT?                  | and religious        |
+  |                |                           | diversity            |
+  | NORMATIVE      | what recognition or       | language rights,     |
+  |                | accommodation is JUST?    | minority institutions|
+  | INSTITUTIONAL  | through which LEGAL and   | federalism, cultural |
+  |                | POLITICAL FORMS?          | rights, representa-  |
+  |                |                           | tion                 |
+  | CRITICAL       | when does recognition     | hierarchy defended   |
+  |                | PROTECT DOMINATION        | as tradition         |
+  |                | WITHIN groups?            |                      |
+  +----------------+---------------------------+----------------------+
+  (!) "CRITICALLY ANALYZE" (2022 Q3(c)) MAKES THE FOURTH ROW COMPULSORY. Where
+      the stem says only "PERSPECTIVES" (2019 Q2(b)) IT DOES NOT.
+        |
+        v
+  SIX STRUCTURAL MARKS -- 2020 Q3(b) ASKS FOR A *STRUCTURE*, NOT A CENSUS
+  1 DURABLE PLURALITY -- more than one cultural, linguistic or religious
+    framework shapes membership ACROSS GENERATIONS
+  2 IDENTITY-BEARING MEMBERSHIP -- cultural languages and practices supply
+    MEANINGFUL OPTIONS, MEMORY and SELF-INTERPRETATION
+  3 UNEQUAL INSTITUTIONAL BASELINE -- the common language, calendar,
+    curriculum or symbols may reflect MAJORITY HISTORY rather than a
+    CULTURALLY EMPTY public sphere              <<< THE PIVOT
+  4 CLAIMS FOR ACCOMMODATION -- minorities seek RECOGNITION, EXEMPTIONS,
+    SELF-GOVERNMENT or REPRESENTATION rather than MERE PRIVATE TOLERATION
+  5 SHARED POLITICAL FRAMEWORK -- groups interact under COMMON INSTITUTIONS,
+    so NEITHER sealed isolation NOR simple demographic variety suffices
+  6 INTERNAL PLURALITY -- every community contains DISAGREEMENT, CHANGE and
+    UNEQUAL VOICE; NO OFFICIAL SPOKESPERSON EXHAUSTS THE CULTURE
+                                                <<< THE SAFEGUARD
+  WHY MARK 3 IS THE PIVOT -> if the public sphere WERE culturally empty,
+  "TREAT EVERYONE THE SAME" WOULD BE A COMPLETE ANSWER and no differentiated
+  right could be justified BY EQUALITY.
+  WHY MARK 6 IS THE SAFEGUARD -> a culture containing disagreement CANNOT BE
+  IDENTIFIED WITH ITS CURRENT AUTHORITIES, which is what makes the CRITICAL
+  DIMENSION a REQUIREMENT rather than an afterthought.
+        |
+        v
+  THRESHOLD (!) -> A COUNTRY BECOMES *NORMATIVELY* MULTICULTURAL WHEN IT
+  TREATS THESE FACTS AS QUESTIONS OF EQUAL MEMBERSHIP AND PUBLIC
+  JUSTIFICATION -- NOT MERELY AS POPULATION DATA.
+CONTESTED ? -> the six marks are satisfied by ALMOST EVERY LARGE MODERN STATE,
+  so the category is USELESS. REPLY -> the marks are DIAGNOSTIC, not
+  CLASSIFICATORY: wide extension establishes that DIFFERENTIATED MEMBERSHIP IS
+  A GENERAL PROBLEM, not an exotic one. RESIDUAL -> they supply NO ACCOUNT OF
+  DEGREE, so they cannot indicate HOW MUCH accommodation is owed.
+
+
+ASCII MASTER FLOW — PANEL 19/22: Taylor, Kymlicka, Parekh -- three thinkers, three jobs
+  TAYLOR ..... supplies the PREMISE   (misrecognition is a real INJURY)
+  KYMLICKA ... supplies the CRITERION (external protections YES,
+                                       internal restrictions NO)
+  PAREKH ..... supplies the METHOD    (intercultural DIALOGUE)
+  DO NOT MERGE THEM. THE ATTRIBUTION IS ITSELF EXAMINABLE.
+        |
+        v
+  TAYLOR -- "THE POLITICS OF RECOGNITION"
+  GROUND (v) -> IDENTITY IS DIALOGICALLY FORMED: persons develop self-
+  understanding through SOCIAL LANGUAGES and RECOGNITION, so persistent
+  MISRECOGNITION INFLICTS HARM by presenting a group as INFERIOR or INVISIBLE.
+  ARGUMENT -> 1 equal dignity requires MORE than FORMALLY IDENTICAL treatment
+              2 supposedly NEUTRAL institutions may embody MAJORITY LANGUAGE
+                and HISTORY
+              3 minorities bear UNEQUAL COSTS OF ASSIMILATION
+              4 PUBLIC RECOGNITION can therefore be REQUIRED for EQUAL
+                MEMBERSHIP
+  OBJECTION -> state recognition FREEZES fluid identities and EMPOWERS ELITES
+  REPLY (!) -> recognition must remain REVISABLE, INTERNALLY DEMOCRATIC and
+  compatible with INDIVIDUAL EXIT AND DISSENT
+  LIMIT -> Taylor establishes THAT recognition matters, NOT HOW FAR group
+  claims extend.
+        |
+        v
+  KYMLICKA -- MULTICULTURAL CITIZENSHIP
+  GROUND (v) -> individual AUTONOMY depends on access to a SOCIETAL CULTURE
+  supplying MEANINGFUL OPTIONS -> LIBERAL EQUALITY MAY THEREFORE SUPPORT
+  MINORITY RIGHTS.
+  +--------------------------+-------------------------------------+
+  | EXTERNAL PROTECTIONS (v) | shield a minority FROM MAJORITY     |
+  |                          | decisions threatening its survival  |
+  | INTERNAL RESTRICTIONS (x)| permit a group to CONSTRAIN ITS OWN |
+  |                          | MEMBERS' BASIC LIBERTIES            |
+  +--------------------------+-------------------------------------+
+  THREE INSTITUTIONAL TYPES -- FUNCTION / MAIN LIMIT
+  SELF-GOVERNMENT RIGHTS ... preserve decision-making space for territorially
+    concentrated NATIONAL MINORITIES or INDIGENOUS PEOPLES / authority remains
+    CONSTRAINED BY MEMBERS' BASIC RIGHTS
+  POLYETHNIC / ACCOMMODATION RIGHTS ... exemptions or support reduce the COST
+    OF PARTICIPATING without abandoning identity / accommodation must NOT
+    BECOME AN INTERNAL RESTRICTION
+  SPECIAL REPRESENTATION RIGHTS ... correct PERSISTENT EXCLUSION from common
+    decision-making institutions / must remain ACCOUNTABLE and avoid FREEZING
+    ONE ELITE as the group voice
+  (!) THE TYPES *CLASSIFY* INSTITUTIONS; THE EXTERNAL/INTERNAL TEST *JUDGES*
+      THEM. DO NOT COLLAPSE ONE INTO THE OTHER.
+        |
+        v
+  PAREKH -- RETHINKING MULTICULTURALISM
+  rejects BOTH CULTURAL MONISM AND UNCRITICAL RELATIVISM. Cultures are
+  INTERNALLY PLURAL and LEARN THROUGH DIALOGUE; NO CULTURE IS SELF-SUFFICIENT,
+  yet criticism must attend to CONTEXT and VOICE.
+  (!) Parekh removes the FALSE CHOICE between ASSIMILATION and SEALED CULTURAL
+      ISLANDS.
+CONTESTED ? -> the EXTERNAL/INTERNAL line CANNOT BE APPLIED, since almost
+  every external protection has INTERNAL EFFECTS. REPLY -> the distinction is
+  drawn at the level of JUSTIFICATION AND ENFORCEMENT, not EFFECT: a measure is
+  defensible when it REMOVES AN EXTERNALLY IMPOSED COST and indefensible when
+  PARTICIPATION IS COMPELLED and EXIT PENALISED. RESIDUAL -> INFORMAL SOCIAL
+  PRESSURE can be as effective as legal compulsion, and the test REACHES IT
+  POORLY -- which is why TAYLOR'S internal democracy and PAREKH'S VOICE are
+  LOAD-BEARING SUPPLEMENTS.
+
+
+ASCII MASTER FLOW — PANEL 20/22: The six-rung diversity ladder and the cohesion verdict
+  RUNG           CORE MEANING                      LIMITATION
+  -------------  --------------------------------  ----------------------
+  TOLERANCE      restrains COERCION against what   can preserve a
+                 one DISAPPROVES of                HIERARCHY OF PERMISSION
+  COEXISTENCE    secures PEACEFUL SHARED LIFE      peace may leave
+                                                   UNEQUAL STANDING
+                                                   UNTOUCHED
+  ACCOMMODATION  adjusts a COMMON RULE to reduce   exemptions require a
+                 unequal cultural BURDEN           RIGHTS-BASED LIMIT
+  RECOGNITION    AFFIRMS EQUAL STANDING; corrects  may ESSENTIALISE
+                 INVISIBILITY and STIGMA           identity or EMPOWER
+                                                   ELITES
+  INTEGRATION    builds COMMON CITIZENSHIP         can slide into
+                 WITHOUT CULTURAL ERASURE          ASSIMILATION if the
+                                                   MAJORITY ALONE defines
+                                                   the common
+  ASSIMILATION   expects minorities to ABANDON     treats MAJORITY CULTURE
+                 distinctive practices for         AS NEUTRAL
+                 uniform membership
+        |
+        v
+  THE PERMISSION ARGUMENT -- THE HIGHEST-VALUE LINE ON THE 2024 STEM
+  TO TOLERATE IS TO *PERMIT*, AND A PERMISSION IMPLIES A PERMITTER. THAT
+  ASYMMETRY IS A CIVIC RANK, AND SOFTENING ITS EXERCISE DOES NOT REMOVE IT.
+  THE SAME STRUCTURE APPEARS AT THE LEVEL OF RELIGION: RELIGIOUS TOLERATION
+  SURVIVES AN ESTABLISHED CHURCH (Panel 12). A MATURE MULTICULTURAL ORDER
+  MOVES FROM PERMISSION TO EQUAL CITIZENSHIP AND RECIPROCAL RECOGNITION.
+        |
+        v
+  WHY THE HIGHER RUNGS ARE REQUIRED
+  TAYLOR -> identity is DIALOGICALLY FORMED, so persistent MISRECOGNITION is a
+  GENUINE INJURY; a society that merely PERMITS and COEXISTS HAS NOT ADDRESSED
+  THAT INJURY.
+  KYMLICKA -> and the ascent has a LIMIT: EXTERNAL PROTECTIONS YES, INTERNAL
+  RESTRICTIONS NO.
+        |
+        v
+  SOCIAL-COHESION VERDICT -- CONDITIONAL IN BOTH DIRECTIONS
+  +------------------------------------------------------------------+
+  | STRENGTHENS cohesion WHERE differentiated protection REMOVES THE  |
+  | PRICE OF ASSIMILATION and all members retain COMMON RIGHTS,       |
+  | VOICE and INSTITUTIONAL PARTICIPATION.                            |
+  | WEAKENS cohesion WHERE identities are FROZEN, group elites        |
+  | MONOPOLISE REPRESENTATION, or common institutions CEASE TO BE     |
+  | MUTUALLY JUSTIFIABLE.                                             |
+  +------------------------------------------------------------------+
+  (!) INTEGRATION IS *NOT* ASSIMILATION. Common citizenship NEED NOT REQUIRE
+      CULTURAL ERASURE -- and that distinction decides 2018 Q1(b).
+  ANSWER USE -> 2024 Q4(c): tolerance and coexistence are NECESSARY CONDITIONS
+  and INSUFFICIENT ONES; they explain the RISE of a multicultural society and
+  not its MATURITY.
+
+
+ASCII MASTER FLOW — PANEL 21/22: India, globalisation, feminism and the five objections
+  (A) INDIA AS A MULTICULTURAL POLITY -- ILLUSTRATIONS, NOT PROOF
+  (v) linguistic federalism and multiple OFFICIAL-LANGUAGE arrangements
+  (v) ARTICLES 29-30 protect specified CULTURAL and EDUCATIONAL interests
+  (v) PERSONAL-LAW PLURALISM illustrates ACCOMMODATION *and* creates DISPUTES
+      OVER GENDER EQUALITY
+  (!) SCHEDULED and TRIBAL SELF-GOVERNMENT arrangements illustrate
+      DIFFERENTIATED INSTITUTIONAL RECOGNITION
+  THE PHILOSOPHICAL CHALLENGE IS *NOT* WHETHER INDIA IS DIVERSE. IT IS HOW
+  EQUAL CITIZENSHIP CAN COEXIST WITH COMMUNITY-SPECIFIC PROTECTIONS.
+  (!) ARTICLES 29-30 are best read as EXTERNAL PROTECTIONS in Kymlicka's sense;
+      they DO NOT SETTLE the INTERNAL-RESTRICTION QUESTION, which is a
+      PHILOSOPHICAL DISPUTE and must be ARGUED AS ONE.
+  (x) DO NOT describe any Indian community, government, party, leader or
+      period as an instance of MISRECOGNITION or of HEGEMONY.
+        |
+        v
+  (B) GLOBALISATION -- A TWO-WAY RELATION (2018 Q3(a) second demand)
+                       GLOBAL FLOWS
+       +--------------------+--------------------+
+       v                                         v
+  PLURALISING                              HOMOGENISING / DEFENSIVE
+  1 flows PLURALISE societies and          2 PERCEIVED CULTURAL LOSS
+    generate HYBRID IDENTITIES               INTENSIFIES demands for
+  3 TRANSNATIONAL NORMS can EMPOWER          RECOGNITION
+    MINORITIES against local hierarchies   4 GLOBAL MARKETS COMMODIFY
+                                             CULTURE and DEEPEN ASYMMETRIES
+       +--------------------+--------------------+
                             v
-  DISTANCE IS JUSTIFIED, NOT UNIFORM: the same principles of liberty,
-  equality and anti-domination govern abstention and engagement alike.
+  (!) CULTURAL CHANGE IS NEITHER SIMPLE WESTERNISATION NOR UNTOUCHED
+      PRESERVATION; IT IS *CONTESTED TRANSLATION UNDER UNEQUAL POWER*.
+      <<< THIS SENTENCE IS THE THIRD DEMAND OF THE 2018 20-MARKER.
+  TWO CONSEQUENCES -> recognition claims INTENSIFY exactly where markets ERODE
+  the conditions of cultural reproduction; and ESSENTIALISM becomes TEMPTING,
+  since a community under pressure may present an AUTHORISED VERSION of itself.
         |
         v
-GANDHI'S SECULARISM -> five steps, then the objection
-  (1) religions are PARTIAL apprehensions of truth -> (2) coercion violates
-  conscience -> (3) humility supports respect -> (4) democracy needs non-
-  violence and equal fellowship -> (5) public religion must be ETHICAL and
-  NON-SECTARIAN
-  OBJECTION -> religious vocabulary can privilege majoritarian symbols
-  REPLY -> equal conscience resists it, but virtue is not an institution
-  SUPPLEMENT -> Bhargava's institutional safeguards; Ambedkar's constitutional
-  morality and fraternity complete the triangle
-ILLUSTRATION NOT PROOF -> Articles 25-28, Articles 29-30, the Forty-second
-  Amendment of 1976 and the 1994 judgment are DATED LEGAL FACTS only.
+  (C) FEMINISM -- OKIN AND THE MULTICULTURAL REPLY
+  OKIN (v) -> group rights may PROTECT PATRIARCHAL PRACTICES inside minorities.
+  THE QUESTION SHE PRESSES: *WHO SPEAKS FOR THE CULTURE, AND WHO BEARS THE
+  COST OF PRESERVING IT?*
+  REPLY (v) -> cultures are INTERNALLY CONTESTED, not OWNED BY MALE ELITES |
+  women from minority communities need BOTH protection from EXTERNAL RACISM
+  AND freedom from INTERNAL DOMINATION | REPRESENTATION, VOICE, EXIT and
+  REFORM beat FORCED ASSIMILATION
+  (!) THE MARK-BEARING UPGRADE -> FRASER'S AFFIRMATIVE/TRANSFORMATIVE
+  DISTINCTION: what is owed is NOT ENDORSEMENT of a group's existing self-
+  description but TRANSFORMATION OF THE VALUE PATTERNS that block equal
+  standing -- INCLUDING STANDING *INSIDE* THE GROUP. That converts Okin's
+  objection FROM A DILEMMA INTO A CRITERION.
+        |
+        v
+  (D) FIVE OBJECTIONS AND REPLIES
+  RELATIVISM ......... criticism becomes impossible / REPLY: DIGNITY, BODILY
+                       INTEGRITY, VOICE and NON-DOMINATION supply CROSS-
+                       CULTURAL standards, DIALOGICALLY interpreted
+  FRAGMENTATION ...... group rights weaken COMMON CITIZENSHIP / REPLY: FAIR
+                       RECOGNITION DEEPENS ALLEGIANCE by removing ASSIMILATION
+                       as the PRICE OF MEMBERSHIP
+  ESSENTIALISM ....... cultures treated as HOMOGENEOUS and TIMELESS / REPLY:
+                       protect PERSONS and EVOLVING PRACTICES, not an
+                       AUTHORISED VERSION
+  MAJORITY ........... only MINORITIES appear "cultural" / REPLY: subject
+  INVISIBILITY         MAJORITY INSTITUTIONS to the SAME SCRUTINY
+  MINORITIES WITHIN .. authorised representatives suppress WOMEN, DISSENTERS,
+  MINORITIES           LOWER-STATUS MEMBERS, CONVERTS / REPLY: EXTERNAL
+                       PROTECTION *PLUS* INTERNAL VOICE, EXIT, REPRESENTATION
+                       and REFORM -- recognition of a CULTURE is NOT
+                       recognition of an ELITE'S UNRESTRICTED JURISDICTION
+CONTESTED ? -> "INTERNAL VOICE AND EXIT" IS UNAVAILABLE TO THOSE IT PROTECTS,
+  since exit needs RESOURCES, NETWORKS and a LANGUAGE TO LIVE IN AFTERWARDS.
+  REPLY -> exit is a LAST-RESORT GUARANTEE whose main function is to CONSTRAIN
+  INTERNAL AUTHORITY; the working remedies are REPRESENTATION and REFORM.
+  RESIDUAL -> that presupposes ACCESSIBLE COMMON INSTITUTIONS -- which is why
+  FRASER'S OBJECTIVE CONDITION (Panel 22) IS THE MISSING PREMISE.
 
-ASCII MASTER FLOW — PANEL 7/12: Recognition, group-differentiated rights and intercultural dialogue
-MULTICULTURALISM = descriptive FACT of diversity + NORMATIVE claim that a just
-  polity may owe recognition, accommodation or group-differentiated rights
-        |
-  +-----+------------------+---------------------------+
-  v                        v                           v
-TAYLOR: PREMISE          KYMLICKA: CRITERION         PAREKH: METHOD
-identity is dialogically autonomy depends on a       cultures are internally
-formed; persistent       SOCIETAL CULTURE supplying  plural and learn through
-MISRECOGNITION is a      meaningful options          intercultural DIALOGUE
-genuine harm               |                           |
-  |                        +-- EXTERNAL PROTECTIONS -> defensible: shield a
-  |                        |     minority from majority decisions
-  |                        +-- INTERNAL RESTRICTIONS -> refused: constrain a
-  |                              group's own members' basic liberties
-  v                        |                           v
-equal dignity needs MORE   |                     neither cultural monism nor
-than formally identical    |                     uncritical relativism
-treatment, because         |
-institutions carry the     v
-majority's language,   OBJECTION -> recognition freezes identities and
-calendar and history   empowers community elites
-                       REPLY -> recognition must stay REVISABLE, internally
-                       democratic and compatible with dissent and EXIT
-        |
-        v
-TOLERANCE (restrains coercion) -> COEXISTENCE (peaceful shared life) ->
-RECOGNITION (affirms equal standing; may require accommodation)
-LIMIT -> tolerance can be hierarchical, since the powerful 'permit' the weak.
-CONTROL -> never defend group rights without internal restrictions and exit.
 
-ASCII MASTER FLOW — PANEL 8/12: Multiculturalism under pressure: India, globalisation and the feminist challenge
-STRUCTURAL CHARACTERISTICS OF A MULTICULTURAL NATION (not a diversity list)
-  (1) plural SOCIETAL CULTURES supplying meaningful options to members
-  (2) INSTITUTIONAL ACCOMMODATION of those cultures
-  (3) a public culture in which recognition is CONTESTED and REVISABLE
-  INDIAN ILLUSTRATIONS -> linguistic federalism; constitutional protection of
-  minority cultural and educational interests; personal-law pluralism; tribal
-  self-government arrangements. All are dated facts, never proof.
+ASCII MASTER FLOW — PANEL 22/22: Recognition, redistribution, synthesis and the answer spine
+  +----------------+---------------------------+------------------------+
+  |                | REDISTRIBUTION GRAMMAR    | RECOGNITION GRAMMAR    |
+  +----------------+---------------------------+------------------------+
+  | INJUSTICE IS   | MALDISTRIBUTION --        | MISRECOGNITION --      |
+  |                | exploitation, deprivation,| status subordination,  |
+  |                | economic marginalisation  | stigma, disrespect,    |
+  |                |                           | cultural devaluation   |
+  | LOCATED IN     | the ECONOMIC STRUCTURE    | INSTITUTIONALISED      |
+  |                |                           | PATTERNS OF CULTURAL   |
+  |                |                           | VALUE                  |
+  | COLLECTIVITY   | a CLASS (position in      | a STATUS GROUP (esteem |
+  |                | PRODUCTION)               | and STANDING)          |
+  | REMEDY         | REDISTRIBUTE; restructure | REVALUE the identity,  |
+  |                | the DIVISION OF LABOUR    | or TRANSFORM the VALUE |
+  |                |                           | PATTERNS               |
+  | PARADIGM       | the EXPLOITED WORKER      | the STIGMATISED GROUP  |
+  | RISK IF ALONE  | ECONOMISM                 | CULTURALISM            |
+  +----------------+---------------------------+------------------------+
+  <<< THE TENSION WORTH THE MOST MARKS IN THE WHOLE CLAUSE >>>
+  REDISTRIBUTION frequently requires *DISSOLVING* the group as a category --
+  the aim is to ABOLISH the class, not affirm it. RECOGNITION frequently
+  requires *AFFIRMING* the group's distinctness. A PROGRAMME DOING BOTH CAN
+  APPEAR TO BE AFFIRMING AN IDENTITY IT IS ALSO TRYING TO ABOLISH.
+        |
+   +----+------------------------------+
+   v                                   v
+  FRASER -- PERSPECTIVAL DUALISM      HONNETH -- RECOGNITION AS THE DEEPER
+  neither grammar REDUCES to the      CATEGORY: recognition is the
+  other; both are dimensions of ONE   FUNDAMENTAL MORAL GRAMMAR of social
+  conception of justice               conflict, and distributive struggles
+  STANDARD: PARITY OF PARTICIPATION   are THEMSELVES struggles over what a
+  -- arrangements are just when all   society ESTEEMS
+  adult members interact AS PEERS     THREE SPHERES / INJURY
+  TWO CONDITIONS, JOINTLY REQUIRED    LOVE, close relations -> SELF-
+  1 OBJECTIVE -- material resources     CONFIDENCE / violation of BODILY
+    secure INDEPENDENCE and VOICE;      INTEGRITY, ABUSE
+    rules out gross inequality,       LAW, rights -> SELF-RESPECT / DENIAL
+    deprivation, exploitation           OF RIGHTS, exclusion from legal
+  2 INTERSUBJECTIVE -- value patterns   standing
+    express EQUAL RESPECT and equal   SOLIDARITY, achievement -> SELF-ESTEEM
+    opportunity for ESTEEM              / DENIGRATION, devaluing a way of
+  AFFIRMATIVE vs TRANSFORMATIVE         life or form of work
+  AFFIRMATIVE ... corrects OUTCOMES   COMPACT PROOF OF IRREDUCIBILITY (Fraser)
+    without disturbing the FRAMEWORK  -> a WELL-PAID GROUP CAN BE DESPISED;
+  TRANSFORMATIVE  RESTRUCTURES the       a RESPECTED GROUP CAN BE POOR
+    generative FRAMEWORK itself
+  (!) purely AFFIRMATIVE remedies can trigger BACKLASH by marking
+      beneficiaries as DEFICIENT RECIPIENTS
+  LOCATED WEAKNESSES -> FRASER: a THINNER ACCOUNT of WHY CONTEMPT WOUNDS.
+  HONNETH: risks PSYCHOLOGISING POLITICAL ECONOMY, since automation, capital
+  flight and price movements devastate groups WITHOUT ANYONE WITHHOLDING
+  ESTEEM; his reply that PRODUCTIVE CONTRIBUTION IS ITSELF CULTURALLY
+  INSTITUTED stretches "recognition" UNTIL IT EXPLAINS LESS.
         |
         v
-GLOBALISATION <-> MULTICULTURALISM: a TWO-WAY relation
-  flows pluralise and hybridise -> perceived loss intensifies recognition
-  demands -> transnational norms empower minorities -> markets commodify
-  culture and deepen asymmetries
-  RESULT -> neither simple Westernisation nor untouched preservation, but
-  CONTESTED TRANSLATION under unequal power
+  ADJUDICATION LINE -- TAKE A POSITION, DO NOT BALANCE
+  RECOGNITION AND REDISTRIBUTION ARE *ANALYTICALLY DISTINCT AND PRACTICALLY
+  ENTANGLED*: MISRECOGNITION FREQUENTLY CAUSES AND IS REINFORCED BY
+  MALDISTRIBUTION, BUT EACH CAN PERSIST WITHOUT THE OTHER, SO A REMEDY
+  ADDRESSING ONLY ONE WILL UNDER-PERFORM.
+  Say that and you have TAKEN A POSITION. Say "both are important" and you
+  have NOT.
         |
         v
-OBJECTION -> REPLY -> RESIDUE (the third move carries the marks)
-  OKIN: group rights may protect PATRIARCHAL practice inside minorities
-    REPLY -> cultures are internally contested, not owned by male elites;
-    representation, voice, exit and reform beat forced assimilation
-    RESIDUE -> who certifies which practice is authentic?
-  RELATIVISM -> dignity, bodily integrity, voice, non-domination are cross-
-    cultural standards; interpretation stays dialogical
-  FRAGMENTATION -> fair recognition deepens allegiance; risk is elite capture
-  ESSENTIALISM -> protect persons and evolving practices, not an authorised
-    version of a culture
-  MAJORITY INVISIBILITY -> majority norms masquerade as neutral; subject them
-    to the same scrutiny
-CONTROL -> caste hierarchy is a DOMINATION question, never benign diversity.
-
-ASCII MASTER FLOW — PANEL 9/12: Recognition and redistribution: two grammars and one standard of justice
-IS RECOGNITION AN INDEPENDENT DIMENSION OF JUSTICE, OR A DERIVATIVE OF
-MATERIAL INEQUALITY? -> the question behind every culture-and-inequality stem
-+---------------+-------------------------------+-------------------------+
-| AXIS          | REDISTRIBUTION GRAMMAR        | RECOGNITION GRAMMAR     |
-+---------------+-------------------------------+-------------------------+
-| INJUSTICE IS  | maldistribution: exploitation,| misrecognition: stigma, |
-|               | deprivation, marginalisation  | status subordination    |
-+---------------+-------------------------------+-------------------------+
-| LOCATED IN    | the economic structure        | institutionalised       |
-|               |                               | patterns of value       |
-+---------------+-------------------------------+-------------------------+
-| COLLECTIVITY  | a class, by position in       | a status group, by      |
-|               | production                    | esteem and standing     |
-+---------------+-------------------------------+-------------------------+
-| REMEDY        | redistribute; restructure the | revalue the identity or |
-|               | division of labour            | transform value patterns|
-+---------------+-------------------------------+-------------------------+
-| RISK IF ALONE | economism                     | culturalism             |
-+---------------+-------------------------------+-------------------------+
+  PLACEMENT -> TAYLOR = the PREMISE both accept | KYMLICKA = the INSTITUTIONAL
+  FORM, with FRASER'S TRANSFORMATIVE CRITERION supplying WHY internal
+  restrictions must be REFUSED (a remedy securing standing EXTERNALLY while
+  denying it INTERNALLY fails PARITY ON ITS OWN TERMS) | PAREKH = the METHOD,
+  but DIALOGUE PRESUPPOSES PEERS, which is what Fraser's TWO CONDITIONS supply
+  | AMBEDKAR = the INDIAN ANCHOR (GRADED STATUS as a mechanism DISTINCT FROM
+  though ENTANGLED WITH economic deprivation; annihilation requires attacking
+  the SANCTIFIED VALUE-SYSTEM, not only material effects) -- NAME AND ROUTE.
+  INDIAN ILLUSTRATION, BOUNDED -> ARTICLE 17's abolition of untouchability is
+  the clearest constitutional example of a RECOGNITION REMEDY (its target is a
+  STATUS INJURY); RESERVATION provisions under ARTICLES 15 and 16 COMBINE
+  recognition with distribution. ARTICLES 29-30 are EXTERNAL PROTECTIONS.
+  (x) A constitutional article is a DATED LEGAL FACT. It CANNOT show that a
+      philosophical theory of justice is CORRECT.
         |
         v
-FRASER -> perspectival DUALISM adjudicated by PARITY OF PARTICIPATION
-  OBJECTIVE condition: material independence and voice
-  INTERSUBJECTIVE condition: institutionalised equal respect
-  AFFIRMATIVE remedy corrects outcomes and can mark beneficiaries as
-  deficient; TRANSFORMATIVE remedy restructures the generating framework
-HONNETH -> recognition is the DEEPER grammar; LOVE -> self-confidence,
-  RIGHTS -> self-respect, SOLIDARITY -> self-esteem; disrespect motivates
-  social struggle
-VERDICT -> analytically DISTINCT and practically ENTANGLED; a remedy that
-  addresses only one dimension will under-perform. 'Both matter' is no answer.
-
-ASCII MASTER FLOW — PANEL 10/12: Integrated answer spine: the synthesis triangle, the limits and the traps
-SYNTHESIS TRIANGLE -> each doctrine repairs a failure of the others
-  UNIVERSAL DIGNITY stops recognition immunising domination
-  SECULAR EQUAL CITIZENSHIP stops the floor being administered by one faith
-  RECOGNISED DIFFERENCE stops citizenship becoming assimilation
-  MASTER THESIS -> humanism without pluralism homogenises; pluralism without
-  a humanist floor excuses oppression; secularism mediates.
+  THE ANSWER SPINE FOR THIS OWNER
+  10 MARKS -> define + distinguish from the nearest confusable term ->
+     argument in 3-4 linked steps -> ONE evidence unit WITH its limitation +
+     one Indian illustration LABELLED as illustration -> GRADED VERDICT
+  15 MARKS -> frame the tension -> doctrine with argument and presupposition
+     -> strongest rival model -> ONE TABLE (five models | two grammars |
+     Fraser vs Honneth) -> ONE fully worked OBJECTION -> REPLY -> RESIDUAL ->
+     CONDITIONAL VERDICT naming the constraint
+  20 MARKS -> provisional thesis in the stem's own verb -> locate the concept
+     -> full doctrine with internal distinctions -> strongest rival at its
+     best -> TWO objection->reply chains, each ending in a RESIDUAL -> the
+     RECOGNITION/REDISTRIBUTION axis -> ONE dated Indian illustration,
+     classified accurately -> GRADED VERDICT
         |
         v
-ANSWER ARCHITECTURE
-  10 MARKS -> define + distinguish the nearest confusable term -> argument in
-    three or four steps -> one evidence unit with its limit -> graded verdict
-  15 MARKS -> frame the tension -> doctrine and presupposition -> strongest
-    rival model -> one table -> one objection/reply/residue -> conditional
-    verdict
-  20 MARKS -> thesis -> locate the concept -> full doctrine -> best rival ->
-    two objection chains -> recognition/redistribution axis -> one dated
-    Indian illustration -> graded verdict bounding state AND community power
-        |
-        v
-ANTHROPOCENTRIC LIMIT -> INSTRUMENTAL (weakest) -> RELATIONAL -> EXTENSIONAL
-  (strongest, and it concedes the name 'humanism')
-        v
-TEN TRAPS BEFORE SUBMISSION
-  humanism = atheism | Enlightenment as sole source | Tagore as a slogan |
-  secularism = secularisation | 'one Western model' | Indian secularism as
-  indiscriminate equal treatment | pluralism = secularism | multiculturalism
-  as mere diversity | group rights without internal restrictions and gender |
-  1976 or 1994 used as philosophical proof
-CLOSING RULE -> these doctrines invite celebration; every stem is answered by
-  SPECIFYING LIMITS. An answer that never says what the doctrine cannot do
-  has expounded it without evaluating it.
-
-ASCII MASTER FLOW — PANEL 11/12: Humanist forms, the relevant-form test and the religion-substitute verdict
-HUMANISM -> dignity + reason + responsible agency + flourishing
-        |
-        v
-FORM TAXONOMY
-  CLASSICAL/CULTURAL -> cultivated reason and civic virtue
-  RENAISSANCE        -> recovered learning and human capacities
-  ENLIGHTENMENT      -> autonomy and public justification
-  NATURALISTIC       -> science, revisability and human welfare
-  RELIGIOUS          -> spiritual worth expressed through service
-  MARXIST            -> social species-being and non-alienated activity
-  RADICAL / ROY      -> rational individual above party, class and state
-  EXISTENTIAL        -> bounded comparison only; not separately routed
-        |
-2018 RELEVANT-FORM TEST
-  universal dignity + scientific method + relational personhood
-  + difference-sensitivity + ecological limit
-  = CRITICAL, PLURAL, ECOLOGICAL HUMANISM (an argued synthesis, not a school)
-        |
-2021 RELIGION-SUBSTITUTE TEST
-  moral orientation -> substantially YES | public ethic -> YES
-  community/meaning -> PARTLY | transcendence -> NOT NECESSARILY
-VERDICT -> humanism is a universal ethical floor and a possible partner to
-           plural conscience, not the compulsory replacement of religion.
-
-ASCII MASTER FLOW — PANEL 12/12: Secular public power, multicultural structure and the dignity-terms-recognition synthesis
-SECULARISM -> freedom of conscience + non-establishment + equal citizenship
-  STRICT SEPARATION | FREE EXERCISE | EQUAL RESPECT | PRINCIPLED DISTANCE
-        |
-PUBLIC CONTROL
-  PERSONAL LAW -> accommodation is defeasible under internal domination
-  PUBLIC REASON -> coercive law needs reasons for citizens without one theology
-  MAJORITARIANISM -> majority culture is not a neutral baseline
-  'MINORITYISM' -> protection is justified, not permanent immunity
-  ACCEPT ALL RELIGIONS -> civic respect, NOT theological endorsement; include non-belief
-        |
-MULTICULTURAL STRUCTURE (2020)
-  durable plurality + identity-bearing culture + unequal public baseline
-  + accommodation claims + common institutions + internal plurality
-        |
-KYMLICKA'S INSTITUTIONAL TYPES
-  self-government | polyethnic/accommodation | special representation
-  NORMATIVE TEST -> external protections YES; internal restrictions NO
-        |
-DIVERSITY RESPONSES
-  tolerance -> coexistence -> accommodation -> recognition -> integration
-  ASSIMILATION is not integration: common citizenship need not erase culture
-        |
-CROSS-TRIAD SYNTHESIS
-  HUMANISM = dignity floor | SECULARISM = fair public terms
-  MULTICULTURALISM = context-sensitive recognition
-LIMIT -> both state and community power remain rights-bound, publicly
-         justifiable, internally accountable and open to dissent.
+  QUALIFIED CONCLUSION -- THE CLOSING MOVE OF THE WHOLE CLAUSE
+  HUMAN DIGNITY IS THE MORAL FLOOR; SECULAR CITIZENSHIP SUPPLIES THE TERMS OF
+  PUBLIC POWER; MULTICULTURAL RECOGNITION SUPPLIES THE CONTEXT-SENSITIVE
+  POLICY FORM. THE TRIAD HOLDS ONLY WHERE STATE AND COMMUNITY POWER REMAIN
+  RIGHTS-BOUND, PUBLICLY JUSTIFIABLE AND OPEN TO DISSENT AND REVISION.
+  AND THE CLOSING LIMIT, STATED RATHER THAN CONCEALED: EVERY DOCTRINE IN THIS
+  CLAUSE -- HUMANISM, SECULARISM, MULTICULTURALISM AND RECOGNITION -- TAKES
+  THE *HUMAN* AS THE UNIT OF MORAL CONCERN. THAT IS A GENUINE BOUNDARY, AND
+  SAYING SO CONVERTS A GOOD ANSWER INTO A PHILOSOPHICALLY SELF-AWARE ONE.
+  (ROUTE: the full spectrum -> DEVELOPMENT AND SOCIAL PROGRESS.)

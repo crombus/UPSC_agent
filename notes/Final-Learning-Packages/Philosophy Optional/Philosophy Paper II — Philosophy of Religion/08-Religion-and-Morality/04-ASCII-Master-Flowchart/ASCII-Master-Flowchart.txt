@@ -1,81 +1,1033 @@
-ASCII MASTER FLOW — PANEL 1/8: 1. Four relation models
-RELIGION AND MORALITY
- +-> DEPENDENCE: morality requires God/revelation
- +-> INDEPENDENCE: moral truth is autonomous
- +-> SUPPORT: morality is independent but religion motivates/sustains it
- +-> TENSION: religious command or identity can conflict with moral judgement
-                         |
- separate ontology (what makes right), epistemology (how known),
- motivation (why act) and sanction (reward/punishment); one answer need not settle all four.
+ASCII MASTER FLOW — PANEL 1/31: The clause, the four relations, and the one impostor
+SYLLABUS CLAUSE (verbatim): "Religion and Morality."
+CENTRAL QUESTION: WHICH relation between religion and morality is being asserted?
+  Not "are they connected?" - nobody denies that - but WHICH connection.
+  +----------------+----------------+----------------+----------------+
+  | 1 GROUNDING    | 2 KNOWLEDGE    | 3 MOTIVATION   | 4 SANCTION     |
+  | what MAKES an  | how do agents  | what MOVES an  | what LINKS     |
+  | obligation     | FIND OUT what  | agent when the | conduct to     |
+  | valid?         | is right?      | act is costly? | consequence?   |
+  |----------------|----------------|----------------|----------------|
+  | RELIGIOUS:     | RELIGIOUS:     | RELIGIOUS:     | RELIGIOUS:     |
+  | divine nature, | revelation,    | love, grati-   | judgement,sin, |
+  | command, or a  | scripture,     | tude, hope,    | forgiveness,   |
+  | created order  | conscience,    | repentance,    | karma, escha-  |
+  |                | tradition,     | salvation,     | tological      |
+  |                | exemplars      | community      | consequence    |
+  |----------------|----------------|----------------|----------------|
+  | ALTERNATIVE:   | ALTERNATIVE:   | ALTERNATIVE:   | ALTERNATIVE:   |
+  | realism,       | reason,        | duty,          | law, social    |
+  | autonomy,      | experience,    | character,     | response,      |
+  | flourishing,   | empathy,       | solidarity,    | conscience,    |
+  | contract       | public argument| compassion     | consequences   |
+  +----------------+----------------+----------------+----------------+
+THE IMPOSTOR: 5 SOCIOLOGICAL CORRELATION ("religious people behave better / worse")
+  ==> establishes AT MOST a contingent influence. It cannot show what makes an act right,
+      who can know it, or whether divine command theory survives the Euthyphro.
+INSIDE GROUNDING, THREE STRENGTHS: SEMANTIC ("wrong" MEANS forbidden by God) |
+  METAPHYSICAL (wrongness is CONSTITUTED by prohibition - THE REAL THESIS) | MOTIVATIONAL.
+THE FIREWALL: SOCIOLOGICAL INFLUENCE DOES NOT ESTABLISH PHILOSOPHICAL DEPENDENCE.
+THE ONE RULE: name the relation in sentence one. A win in one column is not a win in another.
 
-ASCII MASTER FLOW — PANEL 2/8: 2. Divine command theory
-GOD COMMANDS X -> X IS OBLIGATORY
- attractions: objective authority | categorical demand | accountability | motivation
-                         |
- versions:
- voluntarist: rightness constituted by command
- epistemic: revelation tells us independently grounded moral truth
- motivational: love/judgement strengthens compliance
-                         |
- pressure: command identification, conflicting revelations, autonomy and arbitrariness.
+ASCII MASTER FLOW — PANEL 2/31: Why the clause exists, and the only datable anchors
+ORIGIN RAIL (conceptual, not calendar)
+ 1 morality is presented as the content of a divine will
+   -> 2 Plato asks whether the divine will TRACKS goodness or CREATES it
+        ==> the dilemma is OLDER than every theory built to escape it
+     -> 3 escape UPWARD: goodness is the divine NATURE, not a decree
+          (natural law; later, modified divine command)
+       -> 4 escape SIDEWAYS: obligation is rational SELF-legislation (Kant)
+         -> 5 escape OUTWARD: whole moral systems with NO commander at all
+              (Mimamsa injunction, Buddhist intention, Jain vows, secular theories)
+           -> 6 the question turns BACK on religion: does religiosity improve conduct,
+                and can a religious premise ever license violence?
+              ==> the clause exists because stages 3-5 succeed only PARTIALLY,
+                  and stage 6 cannot be settled by any of them.
+DATED PRINT ANCHORS (assert these; invent no others)
+ c.399-390 BCE  Plato, Euthyphro 10a - the dilemma, in both horns
+ c.380-375 BCE  Plato, Republic II 359d-360b - Glaucon's Ring of Gyges
+ 1651           Thomas Hobbes, Leviathan - the Foole
+ 1689           John Locke, A Letter Concerning Toleration
+ 1751           David Hume, Enquiry Concerning the Principles of Morals IX.ii - sensible knave
+ 1876           F. H. Bradley, Ethical Studies, Essay II, "Why Should I Be Moral?"
+ 1887           Friedrich Nietzsche, On the Genealogy of Morality
+ 1912           H. A. Prichard, "Does Moral Philosophy Rest on a Mistake?", Mind
+ 1912           Max Scheler, Ressentiment
+ 1977           Michael Walzer, Just and Unjust Wars
+ 1999           Robert Merrihew Adams, Finite and Infinite Goods
+CITE BY WORK, NEVER BY YEAR: Kant (Groundwork; Religion within the Bounds of Bare Reason);
+ Aquinas (Summa Theologiae II-II q.40); Zagzebski (Divine Motivation Theory); Alston ("Some
+ Suggestions for Divine Command Theorists"); Gauthier (Morals by Agreement); Nietzsche (Gay
+ Science 125; Genealogy I-III; BGE Preface; The Antichrist; Zarathustra); Santideva
+ (Bodhicaryavatara VIII); Jaimini (Mimamsa-sutra); Gita 2.3, 2.42-43, 2.47, 3.19; Kautilya
+ (Arthasastra); Mahabharata (Santi- and Anusasana-parvan); Augustine (compelle intrare,
+ Luke 14:23); Allport (intrinsic/extrinsic); Batson (quest).
+ANACHRONISM CONTROL: the Euthyphro is NOT an objection to Christian divine-command theory but
+ the original statement of a structural problem later theories inherit. Mimamsa is NOT a
+ secular ethics: it is scripturally grounded with no commander who is a PERSON. Nietzsche
+ attacks a Christian-Platonic inheritance the Indian systems never possessed.
 
-ASCII MASTER FLOW — PANEL 3/8: 3. Euthyphro and modified DCT
-IS X GOOD BECAUSE GOD COMMANDS IT?
- +-> YES: morality appears arbitrary; cruelty could become right
- +-> NO: goodness is independent; God is not its foundation
-                         |
- MODIFIED DIVINE COMMAND THEORY
- God's necessarily loving/good nature grounds value
- divine commands flowing from that nature ground obligation
-                         |
- reply blocks arbitrary commands; objection asks whether “good nature” is intelligible
- without a standard logically prior to command.
+ASCII MASTER FLOW — PANEL 3/31: Divine command theory, stated at full strength
+THESIS: moral obligation CONSISTS IN being commanded by God. Modified versions ground the
+  commands in an essentially LOVING divine nature.
+  It is a claim about the CONSTITUTION of obligation - separable from, and much stronger than,
+  the epistemic claim (revelation tells us our duty) and the motivational claim (love,
+  judgement or sanction moves us to comply).
+THE FOUR-STEP ARGUMENT
+  1 obligation has AUTHORITY over mere preference
+    -> 2 a supreme personal LEGISLATOR can issue universally binding commands
+      -> 3 divine KNOWLEDGE and GOODNESS secure the right content
+        -> 4 ACCOUNTABILITY supplies motivational seriousness
+          ==> obligation is constituted by divine command.
+THREE PRESUPPOSITIONS (name them; this is where marks are)
+  [a] God exists
+  [b] divine commands are KNOWABLE by fallible agents
+  [c] AUTHORITY AS SUCH can generate moral reasons   <== KANT DENIES [c], GRANTS [a] AND [b]
+WHAT THE THEORY BUYS (concede before objecting)
+  objectivity | universality | authority over preference | motivational seriousness
+CANONICAL TEST CASE: Abrahamic command cases - can obedience override ordinary moral judgement?
+COSTS VISIBLE BEFORE EUTHYPHRO IS EVEN RAISED
+  ACCESS COST     : no reliable access to the command = no access to the obligation
+  HETERONOMY COST : obligation from another will, enforced by accountability, is obedience
+                    rather than autonomy
+TRAP: stating the theory as "religion teaches us to be good" describes moral EDUCATION and
+  cannot be attacked by the Euthyphro at all.
 
-ASCII MASTER FLOW — PANEL 4/8: 4. Kant and natural law
-KANT: moral law arises from rational autonomy, not heteronomous reward or threat
- categorical imperative -> universal law + humanity as end
- God and immortality are practical postulates of highest good, not sources of duty
-                         |
- NATURAL LAW: practical reason reads goods and purposes in human nature;
- Aquinas joins rational participation in eternal law with divine order
-                         |
- contrast: obey because rationally right, not merely because commanded;
- religion may complete moral hope without replacing moral deliberation.
+ASCII MASTER FLOW — PANEL 4/31: The Euthyphro fork, and the price of each horn
+                    IS X GOOD BECAUSE GOD COMMANDS IT?   (Euthyphro 10a)
+                                       |
+              +------------------------+------------------------+
+              v                                                 v
+      HORN 1: YES                                       HORN 2: NO
+      command CONSTITUTES goodness                      God commands it BECAUSE
+                                                        it is already good
+              |                                                 |
+              v                                                 v
+      ARBITRARINESS                                     INDEPENDENCE
+      - God could have commanded cruelty,               - goodness is a standard God
+        and cruelty would then be good                    RECOGNISES, not one He invents
+      - VACUITY: "God is good" collapses into           - morality is AUTONOMOUS of God
+        "God commands what God commands"                  at the level of GROUNDING
+      - the doctrine of divine goodness is              - strong divine command theory is
+        emptied, not only morality                        FALSE as a theory of grounding
+              |                                                 |
+              v                                                 v
+      COST: the content of morality becomes             COST: the very theory the theist
+      contingent on an act of will                      set out to defend
+              +------------------------+------------------------+
+                                       v
+              WHAT THE DILEMMA KILLS: a theory of GROUNDING.
+              WHAT IT DOES NOT KILL: theism; religion's motivational and formative roles.
+              A THEIST MAY OCCUPY HORN 2 DELIBERATELY - natural law does exactly that.
+              WHAT IT LEAVES STANDING: morality has autonomy at the level of grounding,
+              so the balanced conclusion of the clause is the INTERACTION view.
+TRAP: one horn is not a dilemma. State both, in the same sentence, with the location.
 
-ASCII MASTER FLOW — PANEL 5/8: 5. Indian moral grounding
-MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result
- NYĀYA: God administers karma, but deserts arise from agents' acts
- BUDDHISM: intention, compassion and non-harm within dependent origination; no creator
- JAINISM: ahiṃsā and vows purify jīva by blocking karmic influx
- GĪTĀ/VEDĀNTA: dharma, niṣkāma karma, devotion and knowledge reshape agency
-                         |
- Indian ethics shows objective discipline without one uniform divine-command model.
+ASCII MASTER FLOW — PANEL 5/31: The modified theory, and the bill it pays
+  UNMODIFIED                              MODIFIED (Robert Merrihew Adams,
+  ----------                              Finite and Infinite Goods, 1999)
+  OBLIGATION <- command                   OBLIGATION <- command of an ESSENTIALLY LOVING God
+  GOODNESS   <- command                   GOODNESS   <- RESEMBLANCE to the divine nature
+        |                                       |
+        v                                       v
+  HORN 1 BITES:                           HORN 1 BLOCKED: a necessarily loving nature
+  cruelty could have been good            CANNOT issue a cruel command, so the
+                                          counterexample the horn requires is unavailable
+                                                |
+                                                v
+                                     +-------------------------------------+
+                                     | RESIDUAL OBJECTION                  |
+                                     | "loving" and "good" are moral       |
+                                     | concepts we must ALREADY grasp      |
+                                     | independently - otherwise the claim |
+                                     | is empty.                           |
+                                     +-------------------------------------+
+                                                |
+                                                v
+                            NON-ARBITRARINESS secured
+                            CONCEPTUAL INDEPENDENCE conceded
+                            VERDICT WORD: RELOCATION, not refutation
+TWO PARALLEL REPAIRS
+  ALSTON'S STANDARD REPLY : God is the SUPREME STANDARD of goodness, not a conformer to a
+    further one - as the standard metre bar was the standard of length without matching some
+    prior length. No vicious regress, no arbitrariness.
+  ZAGZEBSKI'S DIVINE MOTIVATION THEORY : God's MOTIVES, not God's commands, are the
+    metaphysical ground of moral value ==> converts a command-ethic into a VIRTUE-ethic.
+DEFENDER'S REPLY TO THE RESIDUE: every foundational theory borrows a concept it does not ground
+  (the Kantian borrows "rational"). COUNTER: the divine command theorist's distinctive claim was
+  that moral concepts are GROUNDED in God - it is the DIRECTION of grounding that is embarrassed.
+TRAP: the standard-metre analogy is ALSTON's. Adams's contribution is the obligation/goodness split.
 
-ASCII MASTER FLOW — PANEL 6/8: 6. Motivation and conduct
-WHY BE MORAL?
- fear of punishment -> hope of reward -> social belonging -> character/virtue
- -> respect for persons -> compassion -> love of good/God
-                         |
- lower motives may secure compliance but not moral maturity
- religiosity can support self-control, service and forgiveness;
- it can also rationalise bias when identity outruns universal concern
- TEST: conduct and reasons, not ritual profession alone, reveal moral integration.
+ASCII MASTER FLOW — PANEL 6/31: Kantian autonomy - obligation without a commander
+THE ARGUMENT
+  1 moral worth requires action FROM DUTY, not merely in accordance with it
+    -> 2 contingent DESIRE cannot yield NECESSITY, and obligation is necessary
+      -> 3 rational agents test MAXIMS for universal law
+        -> 4 autonomy = obedience to reason ONE SHARES AS RATIONAL = self-legislation
+PRESUPPOSITION: practical reason can generate CATEGORICAL norms. (The divine command theorist
+  denies exactly this - naming it keeps the exchange honest rather than rhetorical.)
+THE FORK THAT DECIDES THE CLAUSE
+  +-------------------------------+---------------------------------------+
+  | AUTONOMY                      | HETERONOMY                            |
+  | law given by reason to itself | law given by ANOTHER will, or by      |
+  |                               | desire, reward, fear, punishment      |
+  |-------------------------------|---------------------------------------|
+  | obligation NECESSARY and      | obligation becomes CONDITIONAL:       |
+  | unconditional                 | "if you want the reward, then..."     |
+  |-------------------------------|---------------------------------------|
+  | MORAL WORTH preserved         | moral worth LOST - the act is prudent |
+  +-------------------------------+---------------------------------------+
+  ==> divine command, IF it works through SANCTION, falls on the right-hand side.
+      This is a DEEPER Kantian objection than the Euthyphro.
+CANONICAL EXAMPLE: a truthful act motivated only by fear of divine punishment lacks the moral
+  worth of the same act done from duty.
+GOD, FREEDOM, IMMORTALITY = PRACTICAL POSTULATES: what reason must presuppose for the moral
+  outlook to be coherent. NOT the source of the moral law. Religion is RELATED to morality.
+OBJECTION: formalism - universalisation may UNDERDETERMINE content.
+  REPLY: add HUMANITY AS AN END and the KINGDOM OF ENDS, which restore substantive content.
+THE GAP TO BE NAMED IN ADVANCE: Kant explains why the law BINDS, not why THIS agent will act on
+  it when inclination pulls hard. That gap is the whole subject of panels 18-20.
+TRAP: autonomy is NOT "each person decides what is right". It is self-legislation of a
+  UNIVERSAL law shared by all rational agents.
 
-ASCII MASTER FLOW — PANEL 7/8: 7. Violence, Nietzsche and moral critique
-RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion
- VIOLENCE PATH: exclusive truth + claimed sacred authorisation
-              + denial of equal moral standing -> moral disengagement
- safeguards: interpretation, conscience, rights, plural institutions, non-violence
-                         |
- NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality
- objection to Nietzsche: power may erase equality and protection of weak
- verdict: both religion and anti-religious critique need independent scrutiny of consequences.
+ASCII MASTER FLOW — PANEL 7/31: Natural law - the mediating position
+  STRONG DIVINE COMMAND ------- NATURAL LAW ------- KANTIAN AUTONOMY
+  obligation = decree            order of goods      obligation = rational
+                                 grounded in           self-legislation
+                                 divine REASON,
+                                 KNOWN by reason
+  |- God supplies CONTENT        |- God supplies      |- reason supplies both
+  |  by commanding               |  the ORDER;        |  order and content
+  |                              |  reason supplies   |
+  |                              |  the ACCESS        |
+  |- Euthyphro horn 1 bites      |- occupies horn 2   |- Euthyphro does not arise
+  |                              |  DELIBERATELY      |
+  |- revelation needed for       |- revelation NOT    |- revelation not needed
+  |  moral knowledge             |  needed for much   |
+THESIS: moral norms are rationally accessible PARTICIPATIONS in an objective order grounded
+  ultimately in divine REASON, not in arbitrary decrees.
+ARGUMENT: human goods and inclinations disclose basic ENDS -> practical reason DIRECTS conduct
+  toward them -> divine grounding explains their OBJECTIVE order.
+PRESUPPOSITION: human nature has intelligible normative ends.
+MEDIATING CLAUSE TO WRITE: "God grounds the order, but reason knows much of it without revelation."
+CANONICAL EXAMPLE: preservation of life and social cooperation are BASIC GOODS - not good merely
+  because a text commands them.
+OBJECTION: nature-to-norm / the naturalistic fallacy.
+  REPLY: practical reason grasps goods AS REASONS, not as bare biological facts; the premise is
+  normative from the start, so nothing is illegitimately derived from a description.
+FURTHER OBJECTION: "this is divine command with better manners - the Euthyphro reappears as
+  'is the order good because God grounds it?'"
+  REPLY: the ground is divine REASON, not divine WILL, and the arbitrariness horn was generated
+  by will. There is no moment at which the order could have been otherwise.
+STRATEGIC VALUE: makes the debate THREE-CORNERED, so strong divine command can be refuted
+  WITHOUT concluding that theism has nothing to say about grounding.
 
-ASCII MASTER FLOW — PANEL 8/8: 8. PYQ answer architecture
-STATE precise dependence claim -> separate ground/knowledge/motive/sanction
- -> DCT -> Euthyphro -> modified DCT -> Kant/natural law
- -> Indian non-theistic and theistic models -> conduct/violence test -> verdict
-                         |
- CLOSE: morality need not depend on divine command for intelligibility,
- yet religion can deepen moral motivation, community and hope;
- its legitimacy depends on whether faith remains answerable to reason, dignity and justice.
+ASCII MASTER FLOW — PANEL 8/31: The secular field - four groundings, four bills
+  +----------------+-----------------------------+------------------------------+
+  | FAMILY         | GROUND OF OBLIGATION        | STANDING OBJECTION           |
+  +----------------+-----------------------------+------------------------------+
+  | UTILITARIAN    | consequences and welfare;   | rights-override and          |
+  |                | impartial maximisation      | DEMANDINGNESS                |
+  +----------------+-----------------------------+------------------------------+
+  | CONTRACTARIAN  | mutual advantage; rational  | the perfect KNAVE who breaks |
+  |                | agreement among equals      | the agreement undetected     |
+  +----------------+-----------------------------+------------------------------+
+  | VIRTUE /       | character and human         | presupposes a THICK account  |
+  | EUDAIMONIST    | flourishing                 | of human nature              |
+  +----------------+-----------------------------+------------------------------+
+  | HUMANIST       | dignity, solidarity and the | must explain the SOURCE of   |
+  |                | worth of persons            | that worth                   |
+  +----------------+-----------------------------+------------------------------+
+THE ARGUMENT IS THE PLURALITY: a NECESSITY claim falls to working alternatives, and falls
+  harder to SEVERAL alternatives that reached independence by DIFFERENT routes.
+COMMON CHALLENGE: each must explain the UNCONDITIONAL character of obligation from resources
+  that look conditional.
+THEIST'S GENERAL OBJECTION - THE MOTIVATION GAP: secular reason may IDENTIFY duty and fail to
+  MOTIVATE. REPLY: motivation can arise from empathy, identity and respect; religion is ONE
+  source, not a logically necessary one.
+THE "RELIGIOUS CAPITAL" OBJECTION: dignity, equality and impartial concern entered Western moral
+  thought through religious traditions, so secular ethics is parasitic.
+  REPLY: concede the GENEALOGY; deny that it settles JUSTIFICATION. Ancient Indian non-theistic
+  groundings never had the alleged capital in the first place.
+WHAT IS PROVED: theism is not NECESSARY for grounding.
+WHAT IS NOT PROVED: that theism is false, or that any one secular grounding is correct.
+TRAP: never write "secular ethics" as a single lump. Name two families and their distinct bills.
+
+ASCII MASTER FLOW — PANEL 9/31: How religion actually influences conduct - and the wall
+FIVE MECHANISMS
+  +---------------------+-----------------------------------------------------------+
+  | 1 EXEMPLARS         | narrative models of a life worth imitating                |
+  | 2 RITUAL FORMATION  | repeated practice forms habit and disposition             |
+  | 3 COMMUNITY/SANCTION| visibility, belonging, approval and correction            |
+  | 4 HOPE / REPENTANCE | failure is survivable, so effort is renewable             |
+  | 5 WORLDVIEW         | a frame in which sustained moral effort is not absurd     |
+  +---------------------+-----------------------------------------------------------+
+CANONICAL EXAMPLE: a vow of non-violence may be STRENGTHENED by religious discipline, while its
+  moral defensibility still requires reasons accessible BEYOND the community.
+PRESUPPOSITION: belief and practice shape agency; they do not MECHANICALLY DETERMINE it.
+================================ THE WALL ==========================================
+  CAUSAL INFLUENCE  --X-->  LOGICAL DEPENDENCE
+  CAUSAL INFLUENCE  --X-->  MORAL TRUTH
+  "religious participation correlates with charitable giving"
+     => religion MAY causally influence conduct
+     =/=> religion MAKES charity right
+     =/=> non-believers CANNOT KNOW charity is right
+     =/=> divine command theory survives the Euthyphro
+  Even the causal claim may require controls for community, selection and orientation.
+====================================================================================
+THE SYMMETRY THAT MUST BE STATED: the same five mechanisms can SANCTION EXCLUSION - exemplars
+  can be partisan, ritual can substitute for substance, community sanction can police a
+  boundary, hope can be promised selectively, a worldview can divide the world.
+  ==> the influence is CONTINGENT: neither inherently moral nor inherently immoral.
+OBJECTION: if it runs both ways it proves nothing. REPLY: contingency is not emptiness -
+  traditions remain comparable by how far they build internal critique and moral universalism
+  into the formation they perform.
+2023 STEM: TWO DELIVERABLES, SEPARATELY MARKED - the influence AND the interaction model.
+
+ASCII MASTER FLOW — PANEL 10/31: Morality criticising religion - the six tests
+        +---------------------- RELIGION -----------------------+
+        |  motivates / forms / sustains / supplies exemplars    |
+        +---------------------------+---------------------------+
+                      influence     |    ^ criticism
+                                    v    |
+        +---------------------------+---------------------------+
+        |                      MORALITY                         |
+        |  judges practice / tests claims / refuses exemption   |
+        +-------------------------------------------------------+
+SIX TESTS ANY CLAIMED COMMAND MUST PASS
+  +---+------------------+-------------------------------------------------------+
+  | 1 | IDENTIFICATION   | is this really a command, and whose?                  |
+  | 2 | INTERPRETATION   | does the text or tradition bear this reading?         |
+  | 3 | CONSISTENCY      | does it cohere with the tradition's own norms?        |
+  | 4 | PROPORTIONALITY  | is what is demanded proportionate?                    |
+  | 5 | HUMAN DIGNITY    | does it treat persons as ends?                        |
+  | 6 | AUTHORITY        | what is the moral standing of whoever invokes it?     |
+  +---+------------------+-------------------------------------------------------+
+  ==> moral criticism WITHIN AND ACROSS traditions, NOT automatic secular hostility.
+NAMED INSTANCES: prophetic critique of ritualism; reform movements against caste and sati;
+  the ETHICAL-FRUITS test (a religion is judged by its fruits).
+PLURAL MORALITIES - THE INFERENCE THAT FAILS
+  "religion supports morality"  --X-->  "all religions share one moral code"
+  religious moralities conflict over: duties | authority | exceptions | interpretation of texts
+IMMORAL RELIGION: a religion may preserve ritual while sanctioning injustice.
+  REPLY: if morality is partly CONSTITUTIVE of worthy religion, this is INTERNAL CORRUPTION,
+  not a counterexample - as a corrupt court fails BY the standard of law rather than refuting law.
+OBJECTION: morality judging revelation is arrogance, the finite judging the infinite.
+  REPLY: interpretation ALREADY uses moral concepts to identify the faithful reading, the
+  legitimate authority and the proportionate application. What is judged is a HUMAN CLAIM
+  ABOUT a command, not the divine as such.
+WHY INTERNAL CRITIQUE IS THE STRONGEST EVIDENCE: external criticism can be met with the charge
+  of imposing alien standards. Internal criticism cannot.
+
+ASCII MASTER FLOW — PANEL 11/31: Dharma, rta and karma
+  +---------------------------- DHARMA ----------------------------+
+  |  FOUR STRANDS, NOT ONE MORAL THEORY                            |
+  |  +------------+------------+------------+--------------------+ |
+  |  | NORMATIVE  |  SOCIAL    |  RITUAL    | SOTERIOLOGICAL     | |
+  |  |  ORDER     |   ROLE     |   DUTY     | CONSEQUENCE        | |
+  |  +------------+------------+------------+--------------------+ |
+  |  ==> because ROLE and RITUAL fall INSIDE the concept, dharma   |
+  |      is NOT identical with universal morality - which is why   |
+  |      internal moral criticism is NECESSARY, not optional.      |
+  +----------------------------------------------------------------+
+NOT ONE VOICE: Mimamsa grounds ritual duty in INJUNCTION | the Gita joins ROLE-DUTY with
+  DISCIPLINED ACTION and DEVOTION | Buddhism grounds conduct in INTENTION, SUFFERING and
+  COMPASSION | Jainism radicalises NON-INJURY through vows | Nyaya and theistic Vedanta connect
+  moral consequence to DIVINE GOVERNANCE.
+RTA / DHARMA AS COSMIC ORDER            KARMA AS ACCOUNTABILITY
+  morality is the GRAIN of reality        conduct -> future experience
+  immorality is DISORDER, not merely      - EXHAUSTIVE: no unobserved act
+  a rule-violation                        - IMPERSONAL: no bribable judge
+  ==> a THIRD option beside COMMANDED     - NO COMMANDER required in some schools
+      and SELF-LEGISLATED: morality       +----------------------------------------+
+      DISCOVERED as the structure of      | SAFEGUARD: karma authorises NO         |
+      what there is                       | observer to infer guilt from another's  |
+                                          | suffering.                              |
+                                          +-----------------------------------------+
+THE GITA'S THREE STRANDS: svadharma (role-duty) + niskama-karma (2.47, 3.19: act, renounce the
+  fruit) + bhakti (devotion). In THIS clause devotion is a MOTIVATIONAL and INTEGRATIVE
+  resource, not an independent theory of moral grounding.
+OBJECTION: role-dharma can preserve HIERARCHY.
+  REFORMIST REPLY: appeal to deeper norms - non-harm, equality, conscience, spiritual unity -
+  to criticise inherited practice. (This is internal critique inside the Indian material.)
+OBJECTION: cosmic moral order is UNVERIFIABLE. REPLY: [a] parity - the alternatives also rest on
+  unverifiable commitments such as the categorical bindingness of reason; [b] the STRUCTURAL
+  claim survives the epistemic one - an exhaustive impersonal order answers the undetected case
+  in a way no detection-dependent morality can.
+TRAP: do not identify dharma wholly with universal morality; do not write "Indian ethics says".
+
+ASCII MASTER FLOW — PANEL 12/31: Four non-theistic groundings of ethics
+  +---------------+------------------------------+-----------------------------+
+  | TRADITION     | WHAT GROUNDS OBLIGATION      | WHY IT NEEDS NO GOD         |
+  +---------------+------------------------------+-----------------------------+
+  | BUDDHIST      | intention (cetana), the      | the ground is CAUSAL and    |
+  |               | causal structure of suffering| METAPHYSICAL, not           |
+  |               | (duhkha), the four           | LEGISLATIVE                 |
+  |               | immeasurables (brahmavihara) |                             |
+  +---------------+------------------------------+-----------------------------+
+  | JAIN          | non-injury (ahimsa) as the   | obligation follows from the |
+  |               | supreme vow; anuvrata /      | STATUS OF LIVING BEINGS,    |
+  |               | mahavrata grade it by        | not from a command          |
+  |               | vocation; anekantavada as    |                             |
+  |               | intellectual non-violence    |                             |
+  +---------------+------------------------------+-----------------------------+
+  | MIMAMSA       | INJUNCTION (codana) alone -  | AUTHORITY WITHOUT A         |
+  |               | no God, no consequentialist  | COMMANDER WHO IS A PERSON   |
+  |               | reduction: a pure deontology |                             |
+  +---------------+------------------------------+-----------------------------+
+  | SECULAR WEST  | autonomy / welfare /         | no theistic premise in any  |
+  |               | agreement / flourishing      | derivation                  |
+  +---------------+------------------------------+-----------------------------+
+SANTIDEVA'S ARGUMENT - Bodhicaryavatara VIII (the strongest of the four)
+  1 there is no substantial self (anatman)
+    -> 2 therefore suffering is OWNERLESS; the boundary between persons is CONVENTIONAL
+      -> 3 therefore the reason to relieve MY future suffering is EXACTLY AS STRONG as the
+           reason to relieve ANOTHER'S
+        ==> IMPARTIAL ALTRUISM on a METAPHYSICAL premise, with no theological premise anywhere.
+        STANDING OBJECTION: the argument depends on anatman being true.
+COMPARATIVE VERDICT: FOUR INDEPENDENTLY DEVELOPED non-theistic groundings, two of them Indian
+  and ancient, refute the strong dependence thesis EMPIRICALLY as well as conceptually.
+  What theistic ethics distinctively supplies is NOT the CONTENT of morality but a claimed
+  UNIFICATION of obligation, motivation and cosmic significance in a single source - and the
+  price of that unification is the Euthyphro.
+HOW TO RANK THEM IN AN ANSWER: Mimamsa = best counterexample to the COMMANDER requirement |
+  Santideva = best positive ARGUMENT for impartial concern | Jain vows = best model of GRADED
+  obligation | secular families = best evidence of PLURALITY.
+TRAP: the Indian three are RELIGIOUS ethics without a divine commander, NOT secular ethics.
+
+ASCII MASTER FLOW — PANEL 13/31: Morality without religion - a necessity claim tested
+THE CLAIM: "normative principles MUST bear reference to God to produce a feeling of obligation"
+                                     |
+              +----------------------+----------------------+
+              v                                             v
+   READ AS GROUNDING                              READ AS MOTIVATION
+   "reference to God is what MAKES                "reference to God is what makes an
+    the principle bind"                            agent FEEL bound"
+              |                                             |
+              v                                             v
+   REFUTED BY COUNTEREXAMPLE - and a                NOT NECESSARY EITHER:
+   necessity claim falls to ONE:                    duty, character, solidarity,
+   - KANT: self-legislated universal law;           compassion and self-respect all
+     God/freedom/immortality are POSTULATES         produce the felt bind
+   - MIMAMSA: injunction with NO personal           AND THE RELIGIOUS ROUTE HAS A COST:
+     commander (concedes MOST, still wins)          sanction-based motivation is
+   - SANTIDEVA: ownerless suffering                 HETERONOMOUS and forfeits moral worth
+   - SECULAR FAMILIES: welfare, agreement,          (only DIVINE LOVE and NISKAMA-KARMA
+     flourishing, dignity                            escape the charge)
+              +----------------------+----------------------+
+                                     v
+             VERDICT: God-reference may STRENGTHEN motivation
+             without CONSTITUTING obligation.
+GRADED TEMPLATE: "Morality is not CONCEPTUALLY dependent on religion - the Euthyphro shows
+  that, and four independent non-theistic groundings confirm it. It may be MOTIVATIONALLY and
+  HISTORICALLY dependent for many agents, and those are different claims that a good answer
+  keeps apart."
+THE 2025 WRINKLE: "produce a FEELING of obligation" is psychological, yet "in order to" asserts
+  a NECESSARY CONDITION. Split it, answer both halves, and say that you are doing so.
+OBJECTION: even Kant needs the postulates, so God has not been eliminated.
+  REPLY: the postulates answer a question morality RAISES - whether virtue and happiness are
+  permanently divorced - not the question of what makes the law BINDING. An agent who suspends
+  judgement on the postulates is not released from the categorical imperative.
+TRAP: "without God everything is permitted" is a SUMMARY of a Dostoevskian theme, never a
+  verified verbatim quotation.
+
+ASCII MASTER FLOW — PANEL 14/31: Religion without morality - the asymmetry explained
+DIRECTION 1: MORALITY WITHOUT RELIGION?   ==> POSSIBLE, AND DEMONSTRATED
+  Kant's autonomy | utilitarian welfare | contractarian agreement | humanist dignity |
+  Mimamsa injunction | Santideva's ownerless suffering | Jain vows
+  ==> working systems, several of them ancient.
+DIRECTION 2: RELIGION WITHOUT MORALITY?   ==> SPLIT THE QUESTION
+  +-------------------------------+-----------------------------------+
+  | NORMATIVELY ADEQUATE religion | DESCRIPTIVELY IDENTIFIABLE        |
+  | -- very hard to defend        | institution                       |
+  | every religion makes claims   | -- plainly CAN transmit immoral   |
+  | about worthy life, duty,      | commands or practices; calling it |
+  | transformation or liberation  | immoral does NOT make it          |
+  | ==> an ethic is INTERNAL to   | sociologically nonexistent        |
+  |     the concept               |                                   |
+  +-------------------------------+-----------------------------------+
+WHY THE ASYMMETRY IS NOT A MATTER OF DEGREE
+  MORALITY -> RELIGION : CONSTITUTIVE  (remove it and the thing stops qualifying as what
+                                        it claims to be)
+  RELIGION -> MORALITY : SUPPORTIVE    (remove it and morality loses a resource, not a
+                                        foundation)
+  ==> CONSTITUTIVE and SUPPORTIVE are DIFFERENT IN KIND, not two degrees of one relation.
+ANTI-STIPULATION DEFENCE: the constraint is FUNCTIONAL, not verbal. A system asserting nothing
+  about how one ought to live could not orient a life, prescribe a path, or specify
+  transformation or liberation - so it could not perform the work by which religion is
+  identified in the first place.
+THE HARDEST CASE: a heavily ritual tradition with minimal ethical demand.
+  HONEST ANSWER: a THIN and CONTESTED morality, not NONE - rules about who may perform what,
+  when and in what disposition are themselves normative claims about a worthy life.
+2022 ASSESSMENT: the Euthyphro blocks strong divine command; religion nevertheless motivates
+  and sustains morality; therefore the asymmetry holds - morality is AUTONOMOUS and religion
+  is ETHICALLY CONSTITUTED.
+
+ASCII MASTER FLOW — PANEL 15/31: "Why be moral - ALL THE TIME?" - the problem
+THE HARD CASE = COSTLY + UNDETECTED + UNRECIPROCATED
+  The operative phrase is "all the time". Every theory explains the ORDINARY case.
+  +----------------------------------------------------------------------------------+
+  | GLAUCON'S RING OF GYGES        Republic II 359d-360b                             |
+  | Given invisibility, would anyone remain just?                                    |
+  | ==> show that justice is good IN ITSELF, not for its reputation.                 |
+  +----------------------------------------------------------------------------------+
+  | HOBBES'S FOOLE                 Leviathan                                         |
+  | Says in his heart there is no justice; covenant-breaking is rational when it pays|
+  +----------------------------------------------------------------------------------+
+  | HUME'S SENSIBLE KNAVE          Enquiry IX.ii                                     |
+  | Observes the rules generally; makes exceptions when they profit and go undetected|
+  | HUME ADMITS he finds the knave hard to answer, and falls back on the "inward     |
+  | peace of mind" and integrity the knave forfeits.                                 |
+  +----------------------------------------------------------------------------------+
+THE META-CHALLENGE: IS THE QUESTION EVEN WELL FORMED?
+  BRADLEY, Ethical Studies, Essay II, "Why Should I Be Moral?" - the question may be
+    SELF-DEFEATING: to ask for a NON-MORAL reason to be moral is to ask morality to justify
+    itself before a tribunal it does not recognise.
+  PRICHARD, "Does Moral Philosophy Rest on a Mistake?" (Mind, 1912) - demanding a
+    SELF-INTERESTED justification of obligation MISCONSTRUES obligation.
+HOW TO USE THE META-CHALLENGE WITHOUT EVADING THE STEM
+  malformed AS A PRUDENTIAL DEMAND | well formed AS A MOTIVATIONAL QUESTION.
+  That reframing concedes the printed claim's real force while denying its stated scope.
+OBJECTION: the ring is a fantasy and the perfect knave never exists - dispositions leak.
+  REPLY: grant the empirical point (it is why the contractarian reply has force), but the
+  thought-experiment isolates the STRUCTURE of the justification: does morality's claim on an
+  agent DEPEND ON DETECTABILITY? If it does, morality is a policy, not an obligation.
+TRAP: answering "why be moral?" when the stem says "all the time".
+
+ASCII MASTER FLOW — PANEL 16/31: The secular answers, and where each one stops
+  +-------------------------------+-------------------------------------------------+
+  | ANSWER                        | WHERE IT STOPS                                  |
+  +-------------------------------+-------------------------------------------------+
+  | KANTIAN: the question is      | explains why the moral law BINDS, not why THIS  |
+  | confused - a categorical      | agent will act on it when inclination pulls     |
+  | imperative is by definition   | hard                                            |
+  | not conditional on desire     |                                                 |
+  +-------------------------------+-------------------------------------------------+
+  | CONTRACTARIAN (Hobbes,        | works where DISPOSITIONS ARE DETECTABLE; the    |
+  | Gauthier): CONSTRAINED        | perfect knave with a perfect mask remains       |
+  | MAXIMISATION - being DISPOSED | unanswered                                      |
+  | to keep agreements is itself  |                                                 |
+  | the utility-maximising        |                                                 |
+  | disposition                   |                                                 |
+  +-------------------------------+-------------------------------------------------+
+  | EUDAIMONIST (Aristotle):      | presupposes a THICK account of human nature     |
+  | being moral is partly         | that the sceptic can decline                    |
+  | CONSTITUTIVE of flourishing,  |                                                 |
+  | so the question mistakes a    |                                                 |
+  | component of the good life    |                                                 |
+  | for a cost                    |                                                 |
+  +-------------------------------+-------------------------------------------------+
+  | SENTIMENTALIST / EVOLUTIONARY:| explaining a MOTIVE is not justifying a NORM -  |
+  | sympathy, reciprocity,        | and reciprocity has an EXPLICIT EXCEPTION       |
+  | reputation                    | CLAUSE for the undetected case                  |
+  +-------------------------------+-------------------------------------------------+
+  EVERY ONE OF THE FOUR STOPS AT EXACTLY THE CASE THE STEM ISOLATES.
+  That is why the printed claim has real force - and none of the stopping points is a
+  failure of JUSTIFICATION.
+
+ASCII MASTER FLOW — PANEL 17/31: The religious answers - scope, and its price
+  +----------------------------+----------------------------------------------------+
+  | 1 DIVINE SANCTION          | the undetected case DOES NOT EXIST, because God    |
+  |                            | sees. COST: prudential motivation is HETERONOMOUS  |
+  |                            | and, by Kant's lights, morally worthless           |
+  +----------------------------+----------------------------------------------------+
+  | 2 DIVINE LOVE /            | motivates by love of the good and of God, not by   |
+  |   RELATIONSHIP             | fear ==> ESCAPES the heteronomy objection          |
+  +----------------------------+----------------------------------------------------+
+  | 3 KARMA                    | EXHAUSTIVE and IMPERSONAL: no unobserved act, no   |
+  |                            | bribable judge, no escape by concealment, no gap   |
+  |                            | between the moral and the causal order             |
+  |                            | ==> GYGES' RING HAS NO PURCHASE                    |
+  +----------------------------+----------------------------------------------------+
+  | 4 NISKAMA-KARMA            | DISSOLVES the question: one acts because the act   |
+  |   (Gita 2.47, 3.19)        | is svadharma, having renounced the fruit, so       |
+  |                            | "what do I get?" is already out of the deliberation|
+  +----------------------------+----------------------------------------------------+
+  | 5 DHARMA / RTA AS COSMIC   | morality is the GRAIN of reality, not a constraint |
+  |   ORDER                    | on it; immorality is DISORDER                      |
+  +----------------------------+----------------------------------------------------+
+WHY KARMA IS THE STRONGEST OF THE FIVE: answers 1 and 2 need a personal God, and 1 incurs
+  heteronomy. Karma incurs neither - impersonal, so no judge to obey heteronomously;
+  exhaustive, so the hard case is not a special case. Its bill is UNVERIFIABILITY, which is a
+  lighter cost than moral worthlessness.
+OBJECTION: karma is cosmic bookkeeping - Gyges with a bigger ring.
+  REPLY: NISKAMA-KARMA. The Gita at 2.47 and 3.19 removes the fruit from deliberation, so the
+  agent is not acting IN ORDER TO secure a return. The prudential reading is criticised from
+  INSIDE the tradition; citing 2.47 is what shows the difference.
+THE ASSESSMENT (write this last)
+  JUSTIFICATION ---- secular ethics answers this as well as any theory can
+  MOTIVATION ------- the printed claim bites HERE, and only here
+  religion's advantage = SCOPE (an order coextensive with reality)
+  religion's cost     = if it works through SANCTION it wins the motivation and loses the
+                        moral worth.  VERDICT: the claim is HALF TRUE.
+
+ASCII MASTER FLOW — PANEL 18/31: Religiosity and "immorality" - the printed 2018 stem
+PRINTED WORD RETAINED: the held 2018 paper visibly prints "IMMORALITY".
+SUBJECT = RELIGIOSITY, the DISPOSITION - not RELIGION, the system.
+FOUR ARGUMENTS THAT RELIGIOSITY CAN GENERATE IMMORALITY
+  +---+---------------------+------------------------------------------------------------+
+  | 1 | RITUAL SUBSTITUTION | observance displaces moral substance. THE EVIDENCE IS      |
+  |   |                     | INTERNAL: Hebrew prophets on sacrifice without justice     |
+  |   |                     | (Amos 5, Isaiah 1); the Buddha on ineffective Vedic        |
+  |   |                     | sacrifice; Kabir and Nanak on ritualism and caste-         |
+  |   |                     | observance; Gita 2.42-43 on those enchanted by "flowery    |
+  |   |                     | words" of ritual reward. That EVERY tradition contains     |
+  |   |                     | this critique is itself the evidence that the danger is    |
+  |   |                     | real.                                                      |
+  +---+---------------------+------------------------------------------------------------+
+  | 2 | IN-GROUP /          | religiosity binds by MARKING A BOUNDARY, and boundary-     |
+  |   | OUT-GROUP           | marking has a predictable moral cost toward outsiders      |
+  +---+---------------------+------------------------------------------------------------+
+  | 3 | SUSPENSION          | if religious duty can OVERRIDE ethics, religiosity gives a |
+  |   |                     | route to acts that are ethically indefensible -            |
+  |   |                     | Kierkegaard's teleological suspension states it honestly   |
+  +---+---------------------+------------------------------------------------------------+
+  | 4 | SCRUPULOSITY /      | pathological guilt on one side; MORAL LICENSING ("I have   |
+  |   | LICENSING           | observed, therefore I am good") on the other               |
+  +---+---------------------+------------------------------------------------------------+
+THREE ARGUMENTS AGAINST A SYSTEMATIC CONNECTION
+  1 every tradition also generates reformers, ascetics and exemplars -> the correlation is with
+    ORIENTATION, not with religiosity
+  2 the immoral religionist is judged by the tradition's OWN norms -> INTERNAL CORRUPTION
+  3 COMPARISON CLASS: secular ideologies have generated comparable failures -> religiosity is
+    not the differentiating variable
+THE VERDICT: religiosity is MORALLY AMBIVALENT, NOT MORALLY ALIGNED. It AMPLIFIES [i] whatever
+  moral content the religion supplies and [ii] whatever motive the individual brings.
+  CONDITION [i]: is the religion's ULTIMATE ITSELF MORALISED (a God whose nature is goodness,
+                 a dharma that is justice)?
+  CONDITION [ii]: is the individual's orientation INTRINSIC or EXTRINSIC?
+OBJECTION: this makes religiosity morally INERT. REPLY: not inert - an amplifier is neutral in
+  DIRECTION, not in EFFECT; and traditions can be assessed by how strongly they build internal
+  critique and moral universalism into the amplification.
+
+ASCII MASTER FLOW — PANEL 19/31: The orientation apparatus, and the directive it serves
+ALLPORT'S DISTINCTION + BATSON'S ADDITION
+  +---------------+--------------------------------+---------------------------------+
+  | INTRINSIC     | religion as an END IN ITSELF   | correlates with the tradition's |
+  |               |                                | own moral content               |
+  +---------------+--------------------------------+---------------------------------+
+  | EXTRINSIC     | religion as an INSTRUMENT for  | correlates with boundary-       |
+  |               | status, security or belonging  | marking and in-group partiality |
+  +---------------+--------------------------------+---------------------------------+
+  | QUEST         | religion as open-ended         | correlates differently again    |
+  | (Batson)      | questioning                    |                                 |
+  +---------------+--------------------------------+---------------------------------+
+  ==> MORAL CORRELATIONS DIFFER SHARPLY BY ORIENTATION. That is WHY "religiosity" as an
+      undifferentiated variable correlates with NOTHING SIMPLE, and why conflicting evidence
+      is an ARGUMENT rather than noise.
+THE DIRECTIVE THIS SERVES
+  "Can one claim that there is an inter-relatedness between A and B?"
+    EXAMINER IS BUYING : a CONDITIONAL verdict, with the condition NAMED
+    STRUCTURAL CONSEQUENCE : neither "yes" nor "no" - say UNDER WHAT CONDITIONS
+    ==> the two conditions are [i] a moralised ultimate and [ii] an intrinsic orientation.
+OBJECTION: the amplifier metaphor lets religion claim every saint and disclaim every fanatic.
+  REPLY: condition [i] assigns responsibility rather than evading it. Traditions differ in
+  whether their ULTIMATE is itself moralised, and that is a feature of the RELIGION, not of the
+  individual. A tradition whose ultimate is explicitly a standard of justice cannot disclaim
+  conduct performed in its name the way a purely ritual ultimate might.
+TRAP: silently regularising the printed "immorality" to "morality" changes the question, and
+  the change is visible to an examiner holding the paper.
+
+ASCII MASTER FLOW — PANEL 20/31: Commitment, social morality and incompatibility
+2019 Q5(d): "Does devoted commitment to a religious way of life make man go astray from
+             SOCIAL MORALITY? Examine."   SHAPE: A TENDENCY CLAIM -> NAME THE CONDITIONS
+  +----------------------------+--------------------------------------------------------+
+  | ROUTE                      | WHAT BLOCKS IT                                         |
+  +----------------------------+--------------------------------------------------------+
+  | WITHDRAWAL: renunciation   | withdrawal REORDERS social duty rather than abandoning |
+  | removes the agent from     | it, and many traditions bind the renouncer by STRICTER |
+  | ordinary social duty       | obligations, not looser ones                           |
+  +----------------------------+--------------------------------------------------------+
+  | SUSPENSION: religious duty | KIERKEGAARD CONCEDES the agent cannot make himself     |
+  | overrides ethics           | intelligible ==> NO PUBLIC JUSTIFICATION is available  |
+  +----------------------------+--------------------------------------------------------+
+  | BOUNDARY: in-group loyalty | tracks EXTRINSIC orientation, not commitment as such   |
+  | displaces impartial duty   | (Allport / Batson)                                     |
+  +----------------------------+--------------------------------------------------------+
+  | SUBSTITUTION: observance   | the PROPHETIC CRITIQUE inside every tradition names    |
+  | replaces justice           | and condemns exactly this                              |
+  +----------------------------+--------------------------------------------------------+
+  ==> the correlation is with ORIENTATION, not with DEPTH of commitment; intense INTRINSIC
+      commitment characteristically produces reformers, ascetics and exemplars.
+2020 Q8(b): "Are religious beliefs and practices INCOMPATIBLE with moral behaviour? Discuss."
+             SHAPE: A NECESSITY CLAIM -> ONE CLEAR COUNTER-CASE DEFEATS IT
+  COUNTER-CASES: reform movements against caste and sati | prophetic justice against ritual |
+    Jain non-injury | Buddhist compassion | the vow strengthened by religious discipline
+  ==> INCOMPATIBILITY IS FALSE.
+  WHAT SURVIVES: the WEAKER TRUE claim that the relation is CONTINGENT - religion does not
+    GUARANTEE moral behaviour either.  COMPATIBLE IS NOT GUARANTEED. Say both.
+METHOD RULE: a TENDENCY claim needs CONDITIONS; a NECESSITY claim needs a COUNTER-CASE.
+  Answering one in the manner of the other is the commonest structural failure on this pair.
+OBJECTION: the reformers might just be good people who happened to be religious.
+  REPLY: for refuting INCOMPATIBILITY, accompaniment is enough. For the stronger claim, the
+  evidence is the CONTENT of the reformer's argument - non-harm, dignity, spiritual unity,
+  equality of souls - which draws the moral conclusion FROM a religious premise.
+
+ASCII MASTER FLOW — PANEL 21/31: Religious violence - five arguments, five broken premises
+HANDLING RULE: a philosophical question about the STRUCTURE OF JUSTIFICATION - not a survey of
+  atrocities, and not a comment on any living community. Assess arguments; name no group.
+THE EXACT QUESTION: is there a VALID argument with RELIGIOUS PREMISES whose conclusion LICENSES
+  violence? (Not: "have religions been violent?" - that is history.)
+  +---+--------------------------------+----------------------------------------------------+
+  | 1 | DIVINE COMMAND                 | FAILS AT P2. Requires an INFALLIBLE identification |
+  |   | P1 whatever God commands is    | of the divine will that no fallible agent          |
+  |   |    obligatory                  | possesses. Kierkegaard's teleological suspension   |
+  |   | P2 God has commanded this      | CONCEDES this: Abraham cannot make himself         |
+  |   | C  obligatory whatever its     | intelligible, therefore cannot make a PUBLIC case. |
+  |   |    moral appearance            | An argument that cannot be publicly assessed       |
+  |   | (formally VALID)               | cannot function as a justification to others.      |
+  +---+--------------------------------+----------------------------------------------------+
+  | 2 | DEFENCE OF THE SACRED          | FAILS AT P2. Conflates VALUE with VULNERABILITY.   |
+  |   | P1 the sacred is of supreme    | Persons may be defended by force because they can  |
+  |   |    value                       | be HARMED; the sacred, on most theologies, cannot  |
+  |   | P2 supreme value may be        | be diminished by an insult - so the premise        |
+  |   |    defended by force           | MISDESCRIBES what is at stake.                     |
+  +---+--------------------------------+----------------------------------------------------+
+  | 3 | SOTERIOLOGICAL PATERNALISM     | P2 IS FALSE - the DECISIVE refutation. LOCKE,      |
+  |   | P1 eternal salvation outweighs | A Letter Concerning Toleration (1689): force can   |
+  |   |    temporal harm               | compel outward profession, but "the understanding  |
+  |   | P2 coercion can produce        | cannot be compelled to the belief of anything by   |
+  |   |    conformity leading to       | outward force"; belief is not directly voluntary,  |
+  |   |    salvation                   | so coerced religion yields HYPOCRISY. Augustine's  |
+  |   | C  coercion is a benefit       | COMPELLE INTRARE (Luke 14:23) in the Donatist      |
+  |   |                                | controversy is the historical counter-instance -   |
+  |   |                                | EXAMINED, never endorsed.                          |
+  +---+--------------------------------+----------------------------------------------------+
+  | 4 | COSMIC DUALISM / APOCALYPTIC   | P2 IS THE FLAW. Total demonisation of persons is   |
+  |   | P1 history is a war of         | precisely what most religious ANTHROPOLOGIES deny: |
+  |   |    absolute good and evil      | the image of God; the Buddha-nature; the self      |
+  |   | P2 opponents instantiate       | (atman) in all beings; non-injury (ahimsa).        |
+  |   |    absolute evil               |                                                    |
+  |   | C  restraint is complicity     |                                                    |
+  +---+--------------------------------+----------------------------------------------------+
+  | 5 | IDENTITY / HONOUR              | NOT A RELIGIOUS ARGUMENT AT ALL - a GROUP-IDENTITY |
+  |   |                                | argument wearing religious vocabulary, refuted by  |
+  |   |                                | the ordinary objections to collective punishment.  |
+  +---+--------------------------------+----------------------------------------------------+
+METHOD RULE: CONCEDE VALIDITY, DENY SOUNDNESS, NAME THE PREMISE. Saying "these arguments are
+  illogical" misdescribes them and forfeits the analysis.
+
+ASCII MASTER FLOW — PANEL 22/31: The general rebuttals, and what survives
+FOUR GENERAL REBUTTALS
+  (a) EUTHYPHRO: if the act is wrong, calling it commanded does not make it right; if it is
+      right, the command is not what makes it so.
+  (b) EPISTEMIC FALLIBILITY: revelation-claims are contested even INSIDE a tradition, so no
+      agent is entitled to the certainty the argument requires.
+  (c) MEANS-END UNITY: Gandhi - means and ends are inseparable, "the means may be likened to a
+      seed, the end to a tree" - so a sacred end cannot sanctify an unholy means.
+  (d) INTERNAL CRITIQUE: every major tradition contains its own resources against violence -
+      non-injury (ahimsa), the Buddhist first precept, the prophetic critique of sacrifice,
+      the doctrine of the dignity of the person.
+WHAT SURVIVES
+  +---------------------------------------------------------------------------------------+
+  | ONLY the ordinary, non-religious justification of DEFENSIVE FORCE - self-defence and  |
+  | the protection of the innocent - which is equally available to a SECULAR ethic.       |
+  |                                                                                       |
+  | RELIGION ADDS NO INDEPENDENT LICENCE.                                                 |
+  |                                                                                       |
+  | What religion CAN legitimately add is a RESTRAINT: many traditions impose limits on   |
+  | defensive force STRICTER than secular law requires.                                   |
+  +---------------------------------------------------------------------------------------+
+VERDICT FORMULA: "There is no SOUND philosophical argument for violence IN THE NAME OF
+  religion. The valid-looking arguments fail at a premise - the identification of the divine
+  will, the vulnerability of the sacred, the efficacy of coercion, or the total evil of the
+  adversary. What survives is the general moral permission of defensive force, which is not
+  religious at all; religion's distinctive contribution to this question is the imposition of
+  LIMITS, not the grant of a LICENCE."
+OBJECTION: a determined believer will simply insist P2 is true in his case.
+  REPLY: P2 need not be DISPROVED, only shown to be not PUBLICLY ESTABLISHABLE - and public
+  establishability is what a justification requires. Kierkegaard's concession is decisive
+  because it comes from a DEFENDER of the suspension.
+
+ASCII MASTER FLOW — PANEL 23/31: Restraint-regimes compared
+HANDLING RULE (non-negotiable): internally contested normative traditions with long juristic
+  histories. Compare CRITERIA; do not adjudicate between faiths; mark contested points.
+  +---------------------+-----------+----------------------+-----------------------+
+  | CRITERION           | JUST WAR  | CLASSICAL ISLAMIC    | DHARMA-YUDDHA         |
+  |                     |           | JURISTIC TRADITION   |                       |
+  +---------------------+-----------+----------------------+-----------------------+
+  | Legitimate authority| REQUIRED  | REQUIRED             | REQUIRED (the rajan)  |
+  |                     | (Aquinas) |                      |                       |
+  | Just cause          | REQUIRED  | REQUIRED             | REQUIRED              |
+  | Right intention     | EXPLICIT  | EMPHASISED (niyya)   | detachment from hatred|
+  | Last resort         | YES       | in the juristic      | sama-dana-bheda       |
+  |                     |           | conditions           | BEFORE danda          |
+  | Non-combatant       | CENTRAL   | EXPLICIT             | DETAILED lists of the |
+  | immunity            |           | prohibitions         | protected             |
+  | Proportionality of  | YES       | YES                  | YES (prohibited       |
+  | means               |           |                      | weapons)              |
+  | Temporal / spatial  | not       | truce and treaty     | cease at sunset;      |
+  | limits              | classical | rules                | fight only equals     |
+  | INTERNAL REALIST    | realism,  | contested modern     | KAUTILYA'S            |
+  | COUNTER-TRADITION   | raison    | readings             | KUTA-YUDDHA           |
+  |                     | d'etat    |                      |                       |
+  +---------------------+-----------+----------------------+-----------------------+
+DETAIL: Aquinas ST II-II q.40 = auctoritas principis, causa iusta, intentio recta. Walzer
+  (Just and Unjust Wars, 1977) separates JUS AD BELLUM (cause, authority, intention,
+  proportionality of ends, last resort, prospect of success, just peace) from JUS IN BELLO
+  (DISCRIMINATION and PROPORTIONALITY); later writers add JUS POST BELLUM. Jihad = STRIVING;
+  armed struggle is treated under QITAL, hedged by authority, just cause, non-combatant
+  protection, protection of crops and trees, honouring of treaties, prohibition of mutilation.
+  Dharma-yuddha (Mahabharata, Santi- and Anusasana-parvan; Dharmasastra): do not strike one
+  asleep, unarmed, fleeing, surrendering, wounded, disarmed, a non-combatant, or engaged with
+  another; envoys, physicians, farmers and their property are protected.
+
+ASCII MASTER FLOW — PANEL 24/31: Restraint-regimes - contested items and the yield
+CONTESTED ITEMS - FLAG, NEVER ASSERT
+  ? "greater / lesser jihad" rests on a report whose authenticity is DISPUTED by hadith
+    scholars - cite WITH the flag, never as canonical.
+  ! dar al-islam / dar al-harb are JURISTIC CONSTRUCTIONS of a particular period, NOT Qur'anic
+    terms; contemporary applicability is contested WITHIN the tradition.
+  ! modern militant reinterpretations dropping authority-conditions and non-combatant immunity
+    are CONTESTED FROM WITHIN by mainstream jurists.
+  ! the Gita's justification of Arjuna's fighting is a SVADHARMA argument internal to a
+    narrative situation; Gandhi's allegorical reading is ONE influential interpretation.
+THE PHILOSOPHICAL YIELD: three independent traditions converge on AUTHORITY, CAUSE, INTENTION,
+  DISCRIMINATION and PROPORTIONALITY ==> the constraints look RATIONALLY DERIVABLE rather than
+  revelation-dependent, which cuts AGAINST a special religious licence and FOR culturally
+  embedded RESTRAINT. Every one also contains a realist counter-current: that is the honest
+  qualification, and no tradition has fully solved the problem of NECESSITY.
+
+ASCII MASTER FLOW — PANEL 25/31: Nietzsche I - the diagnosis, and the link to the genealogy
+OWNERSHIP NOTE: the 2025 stem couples RELIGION with MORALITY, so THIS clause is the PRIMARY
+  OWNER. The Religion without God owner keeps Nietzsche only as a critique of theism and
+  routes the printed question here.
+TWO INSEPARABLE HALVES - and the stem's "and" is asking for the LINK.
+HALF 1 - THE DIAGNOSIS: "GOD IS DEAD"
+  The Gay Science 125: the madman announces that we have killed God and asks who will wipe the
+  blood off us. Sections 108 and 343 make the DELAYED-CONSEQUENCES point explicitly.
+  READ IT CORRECTLY: a CULTURAL DIAGNOSIS, not an atheological argument. The claim is that the
+  Christian-metaphysical framework has become UNBELIEVABLE to the very culture built on it,
+  and that the culture has not yet grasped the consequences.
+                                     |
+                              THE LINK: the morality that framework CARRIED is
+                              now standing on a foundation that has been removed
+                                     v
+HALF 2 - THE GENEALOGY: On the Genealogy of Morality (1887)
+  ESSAY I - "GOOD AND EVIL", "GOOD AND BAD"
+    original ARISTOCRATIC valuation is GOOD/BAD: "good" names the noble, strong, affirming
+    type; "bad" is merely the contrasting low.
+    THE SLAVE REVOLT begins when RESSENTIMENT - the impotent resentment of those who cannot
+    ACT - becomes CREATIVE and produces values: the noble is renamed EVIL, and the powerless,
+    meek and abstinent become GOOD.
+    DECISIVE POINT: slave morality is REACTIVE - it says No to an outside FIRST, and derives
+    its Yes from that No.
+  ESSAY II - GUILT AND BAD CONSCIENCE
+    moral guilt (Schuld) is derived from the ECONOMIC relation of debt (Schulden); when the
+    outward discharge of instinct is blocked by society, cruelty turns INWARD and produces the
+    BAD CONSCIENCE; religion then MAXIMISES this by positing an INFINITE CREDITOR who cannot
+    be repaid.
+  ESSAY III - THE ASCETIC IDEAL
+    it gave suffering a MEANING, which is why it prevailed: "man would rather will nothingness
+    than not will". FINAL IRONY: modern SCIENCE and the WILL TO TRUTH are the ascetic ideal's
+    latest form - and it is that unconditional will to truth which finally DESTROYS the belief
+    in God.
+CHRISTIANITY SPECIFICALLY: Beyond Good and Evil, Preface - "PLATONISM FOR THE PEOPLE", the
+  transfer of a two-world metaphysics to the masses. The Antichrist - PITY (Mitleid) as a
+  multiplier of suffering and a preserver of the ill-constituted; the church as an INVERSION of
+  the values that make life ascend. USE PARAPHRASE: the rhetoric is extreme, misquotation easy.
+
+ASCII MASTER FLOW — PANEL 26/31: Nietzsche II - programme, objections, Indian parity
+THE POSITIVE PROGRAMME
+  REVALUATION OF ALL VALUES | WILL TO POWER as the interpretive principle of valuation |
+  the UBERMENSCH of Thus Spoke Zarathustra as the type who CREATES values rather than
+  receiving them | ETERNAL RECURRENCE as the ultimate test of affirmation | AMOR FATI.
+  NIHILISM is the INTERIM condition between the collapse of the old values and the creation of
+  new ones - Nietzsche is its DIAGNOSTICIAN and its OPPONENT, not its advocate.
+PRESUPPOSITION: that valuations have HISTORIES traceable to types of life, and can be assessed
+  as LIFE-ENHANCING or LIFE-DENYING - which presupposes a normative standard ("life",
+  "ascending life") that Nietzsche never systematically justifies.
+FOUR OBJECTIONS -> REPLIES
+  1 GENETIC FALLACY: showing a value ORIGINATED in resentment does not show it is FALSE.
+    REPLY: his target is not truth-value but VALUE - what kind of life a valuation expresses
+    and produces. A distinct, NON-fallacious question - though it does not deliver the
+    refutation his rhetoric suggests.
+  2 MISSING CRITERION: if all values are created, why is the Ubermensch's creation BETTER?
+    REPLY: the standard is INTERNAL - self-overcoming, affirmation, the capacity to will one's
+    life eternally. CRITICS: that is a preference, not a norm.
+  3 CARICATURE OF CHRISTIAN ETHICS: agapeic love, prophetic justice and the dignity of the
+    person are not reducible to ressentiment. MAX SCHELER, Ressentiment (1912): Christian love
+    descends from ABUNDANCE, not from impotence - THE single best-named counter-authority.
+  4 POLITICAL APPROPRIATION: vulnerable to elitist and worse readings, partly a feature of his
+    own rhetoric, though his sister's editorial role in the posthumous material is documented.
+INDIAN COMPARISON (mandatory for parity, and genuinely illuminating)
+  GITA 2.3: Krishna charges Arjuna with KLAIBYA - unmanliness / impotence - and calls him to
+    act. STRUCTURALLY the same accusation. THE RESEMBLANCE STOPS THERE: the Gita's remedy is
+    SVADHARMA and NON-ATTACHMENT, a DUTY-ethic grounded in cosmic order, NOT a self-legislated
+    creation of values.
+  BUDDHISM: Nietzsche's "life-denying" charge is a real and repeated claim of his - and is
+    standardly answered: NIRVANA is the cessation of CRAVING, not of life; KARUNA is an active,
+    other-regarding energy; the middle way explicitly REJECTS self-mortification, which is
+    precisely the ascetic ideal Nietzsche attacks. He in fact rates Buddhism ABOVE Christianity
+    as "more realistic" while still classing it as nihilistic - SAY THIS PRECISELY.
+  CARVAKA: closest Indian analogue in CONCLUSION (this-worldly value, rejection of the priestly
+    order) but NOT in METHOD - empiricist where Nietzsche is genealogical.
+VERDICT FORMULA: "Nietzsche's achievement is to make MORALITY ITSELF an object of historical
+  and psychological suspicion, and to show that the death of God is a problem for ETHICS before
+  it is a problem for THEOLOGY. His failure is the constructive half: the revaluation supplies
+  no criterion by which one creation of values is better than another, which is why his
+  critique is more durable than his solution."
+
+ASCII MASTER FLOW — PANEL 27/31: The parity bench - nine groundings, two stress tests
+  +---------------+-------------------+-----------+-------------+--------------------+
+  | GROUNDING     | ULTIMATE GROUND   | HANDLES   | HANDLES     | STANDING OBJECTION |
+  |               |                   | EUTHYPHRO?| "ALL THE    |                    |
+  |               |                   |           | TIME"?      |                    |
+  +---------------+-------------------+-----------+-------------+--------------------+
+  | Strong DCT    | God's command     | NO -      | YES, by     | arbitrariness      |
+  |               |                   | impaled   | sanction    |                    |
+  | Modified DCT  | God's loving      | YES -     | YES, by     | "loving"           |
+  | (Adams)       | nature            | blocks    | love, not   | presupposes        |
+  |               |                   | arbitrar. | fear        | goodness           |
+  | Natural law   | human goods under | YES -     | PARTLY      | nature-to-norm     |
+  |               | divine reason     | mediates  |             |                    |
+  | Kant          | rational self-    | n/a       | justifies,  | formalism          |
+  |               | legislation       |           | does not    |                    |
+  |               |                   |           | motivate    |                    |
+  | Contractarian | mutual advantage  | n/a       | NO - the    | detectability of   |
+  |               |                   |           | perfect     | dispositions       |
+  |               |                   |           | knave       |                    |
+  |               |                   |           | survives    |                    |
+  | Karma/dharma  | cosmic moral      | YES - no  | YES -       | unverifiability    |
+  |               | order             | commander | EXHAUSTIVE, |                    |
+  |               |                   | needed    | no un-      |                    |
+  |               |                   |           | detected act|                    |
+  | Buddhist      | ownerless         | n/a       | YES -       | depends on         |
+  | (Santideva)   | suffering +       |           | impartiality| anatman            |
+  |               | anatman           |           | rationally  |                    |
+  |               |                   |           | required    |                    |
+  | Jain          | ahimsa, graded    | n/a       | YES -       | rigorism           |
+  |               | vows              |           | vow-        |                    |
+  |               |                   |           | structure   |                    |
+  | Mimamsa       | Vedic injunction  | YES - no  | PARTLY -    | authority outside  |
+  |               | alone             | personal  | ritual-     | the tradition      |
+  |               |                   | commander | bounded     |                    |
+  +---------------+-------------------+-----------+-------------+--------------------+
+HOW TO USE IT: two or three rows in a 15-marker, four in a 20-marker. NEVER the whole bench.
+  The two middle columns are the clause's TWO STRESS TESTS; the last column is where the
+  evaluative half of your answer comes from.
+
+ASCII MASTER FLOW — PANEL 28/31: The inter-thinker grid and the four standing criticisms
+  +-------------+---------------+--------------+-------------+------------------------+
+  | VIEW        | GROUND OF     | SOURCE OF    | MOTIVATION  | MAIN PROBLEM           |
+  |             | RIGHTNESS     | OBLIGATION   |             |                        |
+  +-------------+---------------+--------------+-------------+------------------------+
+  | Divine      | God's command | divine       | account-    | Euthyphro and access   |
+  | command     | / nature      | authority    | ability,love|                        |
+  | Natural law | objective     | practical    | flourishing | nature-to-norm         |
+  |             | human goods   | reason under |             |                        |
+  |             |               | divine order |             |                        |
+  | Kant        | rational      | autonomy     | respect for | formalism              |
+  |             | universal law |              | law         |                        |
+  | Utilitarian | consequences, | impartial    | sympathy,   | rights and             |
+  |             | welfare       | maximisation | reason      | demandingness          |
+  | Mimamsa     | Vedic         | scriptural   | ritual duty,| authority outside the  |
+  |             | injunction    | authority    | result      | tradition              |
+  | Buddhism /  | non-harm,     | insight,     | compassion, | metaphysical warrant   |
+  | Jainism     | intention,    | vow, path    | karmic      |                        |
+  |             | liberation    |              | seriousness |                        |
+  | Modified DCT| resemblance to| commands of a| love,       | "loving" presupposes an|
+  | (Adams)     | God's loving  | loving God   | relationship| independent moral      |
+  |             | nature        |              |             | concept                |
+  | Santideva   | ownerless     | impartial    | compassion  | depends on anatman     |
+  |             | suffering     | reason       | (karuna)    | being true             |
+  | Nietzsche   | DENIES the    | self-        | affirmation,| no criterion for       |
+  |             | ground; values| legislation  | self-       | better creations       |
+  |             | are CREATED   | of the strong| overcoming  |                        |
+  +-------------+---------------+--------------+-------------+------------------------+
+FOUR STANDING CRITICISMS AND REPLIES
+  1 EUTHYPHRO: arbitrary command or independent good. REPLY: necessary divine goodness.
+    REJOINDER: the normativity of goodness still needs explanation.
+  2 MOTIVATION GAP: secular reason may identify duty but fail to motivate. REPLY: motivation
+    can arise from empathy, identity and respect; religion is one source, not a necessary one.
+  3 HETERONOMY: reward and punishment corrupt moral worth. REPLY: mature theism motivates
+    through love of the good, not prudential fear.
+  4 IMMORAL RELIGION: a religion may preserve ritual while sanctioning injustice. REPLY: if
+    morality is partly constitutive of worthy religion, this is INTERNAL CORRUPTION rather than
+    a counterexample to ethical religion.
+
+ASCII MASTER FLOW — PANEL 29/31: The directive decoder and the eleven printed demands
+  +--------------------------------------+------------------------------+----------------+
+  | PRINTED DIRECTIVE                    | WHAT IS BEING BOUGHT         | LIVE EXAMPLE   |
+  +--------------------------------------+------------------------------+----------------+
+  | Can one claim that there is an       | a CONDITIONAL verdict, with  | 2018 Q5(d)     |
+  | inter-relatedness between A and B?   | the condition NAMED          | 10m            |
+  | Can there be a philosophical         | candidate arguments IN       | 2019 Q5(c)     |
+  | argument to support X?               | PREMISES, then the FAILING   | 10m            |
+  |                                      | premise - never a history    |                |
+  | Does X make man go astray from Y?    | a test of a causal/normative | 2019 Q5(d)     |
+  | Examine                              | claim; disposition vs system | 10m            |
+  | [Claim]. Examine                     | FIDELITY to the claim's      | 2019 Q7(b)     |
+  |                                      | exact scope ("all the time") | 15m            |
+  | Are A and B incompatible? Discuss    | a NECESSITY claim tested;    | 2020 Q8(b)     |
+  |                                      | one counter-case defeats it  | 15m            |
+  | Do you consider A and B inseparable? | a FIRST-PERSON verdict with  | 2021 Q6(c)     |
+  | Give reasons                         | RANKED reasons               | 15m            |
+  | "Quotation." Discuss                 | the ASYMMETRY analysed in    | 2022 Q5(b)     |
+  |                                      | BOTH directions              | 10m            |
+  | Does A influence B? Explain the      | TWO deliverables: influence  | 2023 Q5(c)     |
+  | interactive relation                 | AND the interaction model    | 10m            |
+  | Can there be a religion without      | the descriptive / normative  | 2024 Q5(a)     |
+  | morality? Discuss                    | split, defended functionally | 10m            |
+  | Present an account of X's criticism  | BOTH objects and their LINK  | 2025 Q5(c)     |
+  | of A and B                           | in X's system                | 10m            |
+  | Is it necessary for X to bear        | a NECESSITY claim tested;    | 2025 Q8(b)     |
+  | reference to Y? Critically discuss   | split grounding / access /   | 15m            |
+  |                                      | motivation                   |                |
+  +--------------------------------------+------------------------------+----------------+
+CORPUS SIGNAL: 11 primary-owned parts out of 112 audited - the largest ownership in the
+  section, with THREE distinct demands in 2019 alone.
+THE RULE: almost every stem here is a claim of NECESSITY, DEPENDENCE or INCOMPATIBILITY. The
+  first move is always to ask WHICH relation is asserted - conceptual, epistemic, motivational
+  or sociological - because they have FOUR DIFFERENT ANSWERS.
+
+ASCII MASTER FLOW — PANEL 30/31: The ladder, the architectures and the qualified verdict
+THE GRADED VERDICT LADDER
+  +----------------+---------------------------------------+------------------------------+
+  | BAND           | WHAT THE SCRIPT CONTAINS              | TYPICAL FAULT                |
+  +----------------+---------------------------------------+------------------------------+
+  | WEAK  (~40%)   | "religion teaches morality"; divine   | the four kinds of dependence |
+  |                | command and Kant named                | are MERGED                   |
+  | AVERAGE (~50%) | Euthyphro with BOTH horns; Kantian    | Indian material limited to   |
+  |                | autonomy                              | one line on dharma           |
+  | GOOD  (~60%)   | grounding vs motivation separated;    | modified DCT absent; non-    |
+  |                | one objection answered                | theistic groundings ASSERTED |
+  |                |                                       | rather than ARGUED           |
+  | STRONG (65-70%)| modified DCT with its residue; a real | the verdict SUMMARISES       |
+  |                | non-theistic grounding ARGUED         | rather than DECIDES          |
+  |                | (Santideva, Mimamsa); interaction     |                              |
+  |                | analysed                              |                              |
+  | TOP   (70%+)   | all the above + a DISCRIMINATING      | -                            |
+  |                | DISTINCTION (semantic/metaphysical/   |                              |
+  |                | motivational; intrinsic vs extrinsic; |                              |
+  |                | justification vs motivation; restraint|                              |
+  |                | vs licence) + a CONCESSION THAT COSTS |                              |
+  |                | THE WRITER'S OWN POSITION SOMETHING   |                              |
+  +----------------+---------------------------------------+------------------------------+
+
+ASCII MASTER FLOW — PANEL 31/31: The architectures, the formulations and the verdict
+THE THREE ANSWER ARCHITECTURES
+  10 MARKS (~150w): state the dependence claim -> Euthyphro/Kant discriminator -> ONE Indian
+    illustration -> distinguish grounding from motivation -> verdict.
+  15 MARKS (~250w): frame the obligation problem -> strongest theistic account -> autonomy or
+    natural-law rival -> objection and reply -> interaction analysis -> defended conclusion.
+  20 MARKS (~350w): separate rightness, obligation and motivation -> compare command, autonomy
+    and dharma -> Euthyphro PLUS the immoral-religion objection -> replies -> graded relational
+    thesis.
+FOUR SAFE FORMULATIONS
+  "God-reference may strengthen motivation without constituting obligation."
+  "Religion and morality are conceptually distinguishable, historically interactive and
+   normatively mutually critical."
+  "Religion's distinctive contribution to the ethics of force is restraint, not licence."
+  "Religiosity is an amplifier: it magnifies the moral content it is attached to."
+THE QUALIFIED CONCLUSION
+  The Euthyphro shows morality CANNOT BE WHOLLY REDUCIBLE TO divine command, so morality has
+  AUTONOMY at the level of grounding; four independent non-theistic groundings - two Indian and
+  ancient - confirm it empirically. Yet religion powerfully MOTIVATES and SUSTAINS morality
+  through exemplars, ritual, community, hope and worldview, and morality reciprocally PURIFIES
+  religion through prophetic and reformist criticism. Hence the INTERACTION view, not strict
+  dependence in either direction, is soundest - and the interaction is itself CONTINGENT, since
+  the same mechanisms that sustain care can sanction exclusion.
+  WHAT WOULD CHANGE THIS VERDICT: a demonstration that some obligation cannot be grounded
+  without a theistic premise. The four non-theistic groundings are precisely the evidence that
+  no such demonstration is available.

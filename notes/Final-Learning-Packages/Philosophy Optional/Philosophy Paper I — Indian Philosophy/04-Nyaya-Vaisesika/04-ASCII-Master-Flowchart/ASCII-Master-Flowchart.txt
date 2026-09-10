@@ -1,123 +1,496 @@
-ASCII MASTER FLOW — PANEL 1/9: Realist system map
-NYĀYA: valid knowledge and argument       VAIŚEṢIKA: inventory of reality
-                  \                              /
-                   \                            /
-                    +---- NYĀYA–VAIŚEṢIKA ----+
-                    realism + pluralism + liberation through truth
-                              |
- valid cognition (pramā) -> objects correctly known -> false notions removed -> faults cease
-                              |
- karma-producing action ceases -> rebirth and pain cease -> RELEASE (apavarga).
-Nyāya: 4 means of valid knowledge (pramāṇas) | classical Vaiśeṣika: perception + inference
-historically two allied systems; later synthesis, not identity from the start
+ASCII MASTER FLOW — PANEL 1/15: System identity, division of labour and the ladder
+SYLLABUS ITEM 15 (printed): Theory of Categories; Theory of Appearance; Theory of
+Pramana; Self, Liberation; God; Proofs for the Existence of God; Theory of
+Causation; Atomistic Theory of Creation.
+  +--------------------------------+  +---------------------------------------+
+  | NYAYA  (Gautama, Nyaya-sutra)  |  | VAISESIKA (Kanada, Vaisesika-sutra)   |
+  | science of valid knowing       |  | ontology of what there is             |
+  | 16 TOPICS OF INQUIRY           |  | 7 CATEGORIES OF BEING                 |
+  | owns: means of valid knowledge |  | owns: substance, quality, motion,     |
+  |  inference, debate, fallacy,   |  |  universal, particularity, inherence, |
+  |  theory of error, theology     |  |  absence, atomism                     |
+  | 4 instruments                  |  | 2 instruments (comparison + testimony |
+  |                                |  |  reduced to inference)                |
+  +---------------+----------------+  +-----------------+---------------------+
+                  \                                     /
+                   +------------------+-----------------+
+                                      v
+        LATER SYNTHESIS: NYAYA-VAISESIKA  ->  NAVYA-NYAYA (Gangesa) refinement
+        label: SIMILAR SYSTEMS (samanatantra) | ? allied early, fused later
+        theism developed by Prasastapada, Sridhara, Udayana
+        ? Kanada's own text does not unambiguously foreground a creator
+                                      |
+                                      v
+        THE LADDER THAT MAKES IT ONE SYSTEM
+        true knowledge of reality (tattva-jnana)
+          -> false notion removed (mithya-jnana)
+          -> defects cease (dosa: raga, dvesa, moha)
+          -> activity ceases (pravrtti) -> birth ceases (janma)
+          -> suffering ceases (duhkha) -> RELEASE (apavarga)
+ANSWER RULE: name the half the question sits in before writing a single doctrine.
 
-ASCII MASTER FLOW — PANEL 2/9: Sixteen Nyāya topics versus seven Vaiśeṣika categories
-NYĀYA 16 = topics of inquiry, proof and debate
-means of valid knowledge (pramāṇa) | prameya | saṃśaya | prayojana | dṛṣṭānta | established
-  conclusion (siddhānta)
-avayava | hypothetical reasoning (tarka) | nirṇaya | vāda | jalpa | vitaṇḍā
-hetvābhāsa | chala | jāti | nigrahasthāna
-PRAMEYA 12: self -> body/senses/objects -> cognition/mind -> activity/defects
-             -> rebirth/fruit/suffering -> release
-VAIŚEṢIKA 7 = kinds of being: substance (dravya) | quality (guṇa) | motion or action (karma)
-                viśeṣa | inherence (samavāya) | absence (abhāva)
-DO NOT FLATTEN: Nyāya inquiry map != Vaiśeṣika ontology
+ASCII MASTER FLOW — PANEL 2/15: Sixteen topics of inquiry and twelve knowables
+NYAYA 16 = ANATOMY OF A DISPUTE, NOT AN INVENTORY OF BEING
+BLOCK I  APPARATUS
+  1 means of valid knowledge (pramana)   2 objects of valid knowledge (prameya)
+BLOCK II RUNNING AN INQUIRY FROM DOUBT TO VERDICT
+  3 doubt (samsaya)          4 purpose (prayojana)   5 accepted example (drstanta)
+  6 established doctrine (siddhanta)     7 members of demonstration (avayava)
+  8 hypothetical reasoning (tarka)       9 ascertainment (nirnaya)
+BLOCK III THREE STYLES OF DISPUTE
+  10 truth-directed debate (vada) | 11 victory-directed wrangling (jalpa)
+  12 destructive cavil (vitanda)
+BLOCK IV FOUR MODES OF FAILURE
+  13 fallacious reason (hetvabhasa)  14 quibble (chala)
+  15 futile rejoinder (jati)         16 ground of defeat (nigrahasthana)
+  ! HOMONYM TRAP: jati = futile rejoinder HERE; jati = universal in Vaisesika.
+                                |
+                                v
+TOPIC 2 OPENS INTO 12 KNOWABLES — A SOTERIOLOGICAL SEQUENCE, NOT AN ONTOLOGY
+  self -> body -> senses -> sense-objects -> cognition -> sensory mind (manas)
+    -> activity -> defects -> rebirth -> fruit -> suffering -> release
+  Vaisesika's categories fall WITHIN this field of knowables but keep their
+  own ownership and structure.
+  ! NEVER MERGE 16 + 7 INTO ONE LIST OF 23.
+  tarka = AID to the instruments (pramana-anugrahaka), never an instrument.
+  its unacceptable-consequence forms: self-dependence (atmasraya), mutual
+  dependence (anyonyasraya), circularity (cakraka), infinite regress
+  (anavastha), contradiction of perception or inference.
 
-ASCII MASTER FLOW — PANEL 3/9: Seven categories (padārthas)
-CATEGORY (padārtha): whatever is nameable and knowable
- 1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind
- 2 QUALITY (guṇa): quality; depends on substance, does not itself possess quality/action
- 3 ACTION AND MORAL CONSEQUENCE (karma): motion/action in a substance
- 4 SĀMĀNYA: real universal, one-in-many
- 5 VIŚEṢA: ultimate particularity individuating eternal atoms and selves
- 6 INHERENCE (samavāya): eternal inherence; whole-parts, universal-particular, quality-substance
- 7 ABSENCE (abhāva): absence — prior, posterior, mutual, absolute
- CAUTION: inherence (samavāya) is not conjunction (saṃyoga), which is separable.
+ASCII MASTER FLOW — PANEL 3/15: Seven categories — substance, quality, motion
+CATEGORY (padartha) = "the meaning of a word" = whatever is nameable and knowable
+ 1 SUBSTANCE (dravya)   2 QUALITY (guna)   3 MOTION (karma)
+ 4 UNIVERSAL (samanya)  5 ULTIMATE PARTICULARITY (visesa)
+ 6 INHERENCE (samavaya) 7 ABSENCE (abhava)
+ ? Kanada's older list is commonly taken as SIX, absence added later as seventh.
+NINE SUBSTANCES, SORTED BY THE TESTS EXAMINERS USE
+  ATOMIC + build the gross world : earth (prthivi) | water (ap) | fire (tejas)
+                                   | air (vayu)
+  ALL-PERVADING, ETERNAL, ONE     : ether (akasa, substrate of sound)
+                                   | time (kala) | direction (dik)
+  KNOWER AND ITS INSTRUMENT       : self (atman) eternal, all-pervading, MANY
+                                   | mind (manas) eternal, ATOMIC, one per self
+  ! TRAP: ether, time and direction ARE substances, not abstract frameworks.
+  ! mind atomic => ONE cognition at a time; deep sleep = conjunction withdrawn.
+TWENTY-FOUR QUALITIES (guna) — dependent, inhere in substance
+  colour | taste | smell | touch | number | magnitude | distinctness
+  conjunction | disjunction | priority | posteriority | cognition | pleasure
+  pain | desire | aversion | effort | heaviness | fluidity | viscidity
+  dispositional tendency (samskara) | merit (dharma) | demerit (adharma) | sound
+  ! cognition, pleasure, desire, merit, demerit are QUALITIES OF THE SELF,
+    not its essence and not a separate category.
+FIVE MOTIONS (karma) = PHYSICAL, not moral karma
+  upward | downward | contraction | expansion | locomotion
+  motion -> CONJUNCTION and DISJUNCTION (themselves qualities) -> CAUSATION
 
-ASCII MASTER FLOW — PANEL 4/9: Four means of valid knowledge (pramāṇas) and perception
-MEANS OF VALID KNOWLEDGE (pramāṇas)
- +-> perception (pratyakṣa): sense-object contact -> nirvikalpaka -> savikalpaka recognition
- +-> inference (anumāna): sign (liṅga/hetu) through invariable concomitance (vyāpti) to property
-   to be proved (sādhya)
- +-> comparison (upamāna): knowledge through similarity and prior description
- +-> verbal testimony (śabda): trustworthy utterance, ultimately āpta testimony
-                         |
- PERCEPTION TYPES: external/internal | ordinary/alaukika
- alaukika: sāmānyalakṣaṇa, jñānalakṣaṇa, yogaja
- ERROR is mislocation of a real qualifier: misplacement theory of error (anyathākhyāti).
-verbal testimony (śabda) sentence: ākāṅkṣā + yogyatā + sannidhi/āsatti + tātparya
-absence: locus (anuyogin) qualified by absent counterpositive (pratiyogin)
-Nyāya knows absence through perception/inference, not separate non-cognition (anupalabdhi)
+ASCII MASTER FLOW — PANEL 4/15: Universal, six blockers, ultimate particularity
+TWO OPPOSITE PUZZLES, ONE ONTOLOGY
+  SAMENESS: black cow + white calf are both "cow"  -> UNIVERSAL (samanya/jati)
+  DIFFERENCE: two atoms alike in every respect are TWO -> PARTICULARITY (visesa)
+UNIVERSAL: real, eternal, ONE-IN-MANY, present by INHERENCE (not spatial split)
+  ordered higher (para) / lower (apara) by extension
+  ARGUMENT: real classification needs an objective ground; resemblance is always
+  resemblance IN SOME RESPECT -> presupposes realist semantics
+  RIVAL: Buddhist EXCLUSION (apoha) — "cow" = "not non-cow" (Dignaga/Dharmakirti)
+  REPLY: universals ARE presented in determinate (savikalpaka) perception;
+         exclusion presupposes stable exclusion-classes
+SIX BLOCKERS OF UNIVERSALHOOD (jati-badhaka) = SIX REFUSAL TESTS
+  1 no single instance (vyakter abhedah) ....... ether-ness blocked
+  2 co-extensiveness (tulyatvam) ............... pot-ness vs jar-ness
+  3 cross-cutting (sankarah) ................... elemental-ness vs corporeal-ness
+  4 infinite regress (anavastha) ............... universal-ness blocked
+  5 form-loss (rupahanih) ...................... a universal in particularities
+  6 no available relation (asambandhah) ........ inherence-ness blocked
+  BLOCKED CANDIDATE -> survives only as IMPOSED PROPERTY (upadhi), not a category
+  => the realism is REGULATED; this answers the charge of ontological excess
+ULTIMATE PARTICULARITY (visesa): individuates ETERNAL substances only
+  atoms of the four elements + ether, time, direction, self, mind
+  composites need none (parts, qualities, place, causal history individuate them)
+  WITHOUT IT: exactly similar eternals collapse by identity of indiscernibles
+  OBJ regress of differentiators -> REPLY self-differentiating (svato-vyavartaka)
+  OBJ imperceptible IOU -> REPLY posited INFERENTIALLY (Nyaya reduces postulation
+      (arthapatti) to inference, so no smuggled fifth instrument)
+  ! RESIDUE: "self-differentiating" NAMES the terminus, does not prove it.
+    Srihasa's Khandanakhandakhadya attacks Nyaya definitions systematically.
 
-ASCII MASTER FLOW — PANEL 5/9: Inference engine
-SVĀRTHĀNUMĀNA: inference for oneself | PARĀRTHĀNUMĀNA: demonstrated to another
- five members:
- 1 pratijñā: hill has fire
- 2 reason (hetu): because it has smoke
- 3 udāharaṇa: wherever smoke, fire — as kitchen
- 4 upanaya: hill has such smoke
- 5 nigamana: therefore hill has fire
-                         |
- pakṣadharmatā + invariable concomitance (vyāpti) + uncontradicted application -> conclusion
- HETVĀBHĀSA: savyabhicāra, viruddha, satpratipakṣa, asiddha, bādhita.
-purpose: svārtha | parārtha
-direction: pūrvavat | śeṣavat | sāmānyatodṛṣṭa
-concomitance: kevalānvayi | kevalavyatireki | anvayavyatireki
+ASCII MASTER FLOW — PANEL 5/15: Inherence versus conjunction — the table test
+2018 Q5(a): (i) the BROWN COLOUR of the table   (ii) the BOOK on the table
+  (i) remove the colour -> no table of that kind => INSEPARABLE (ayutasiddha)
+  (ii) remove the book  -> table survives        => SEPARABLE (yutasiddha)
+  CRITERION = ONTOLOGICAL INSEPARABILITY, NOT closeness or physical grip
++------------------+-------------------------------+------------------------+
+| FEATURE          | INHERENCE (samavaya)          | CONJUNCTION (samyoga)  |
++------------------+-------------------------------+------------------------+
+| ontological rank | a CATEGORY in its own right   | a QUALITY (one of 24)  |
+| relata           | inseparable                   | separable              |
+| production       | eternal as a relation         | produced + destructible|
+| number           | ONE, not locally multiplied   | many, one per contact  |
+| access           | imperceptible, inferred       | effects evident        |
+| example          | colour in cloth; whole in     | book on table; two     |
+|                  | parts                         | pots in contact        |
++------------------+-------------------------------+------------------------+
+FIVE INHERENCE PAIRS
+  whole <- parts | quality <- substance | motion <- substance
+  universal <- particular | particularity <- eternal substance
+2021 Q5(c) VERDICT: inseparability (ayuta-siddhatva) is NECESSARY but NOT BY
+  ITSELF SUFFICIENT as a defining characteristic (laksana).
+  definitional faults to name: too narrow (avyapti) | too wide (ativyapti)
+  | impossible (asambhava).  Inseparability alone risks being TOO WIDE.
+  safe formula = inseparability + the specific ontological dependence of the
+  dependent term on its locus.
+OBJ relation-regress (anavastha) -> REPLY self-linking relation
+  (svarupa-sambandha); relates by its own nature, needs no further relator
+  ! RESIDUE: a stipulated terminus; critics note Nyaya uses regress as a weapon
+    (blocker 4) while claiming immunity here.
+ONE OR MANY? one and eternal, for parsimony. Difficulty: why does one relation
+  tie THIS quality to THIS substance? Reply: the relata determine its operation.
+STRONGEST PRO-INHERENCE ARGUMENT: conjunction is itself a QUALITY and must
+  inhere, so conjunction PRESUPPOSES inherence and cannot replace it.
 
-ASCII MASTER FLOW — PANEL 6/9: Causation and atomism
-NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (asatkāryavāda) / NEW PRODUCTION (ārambhavāda):
-  effect is a new beginning, not pre-existent as effect
- causes: samavāyi (inherent) | asamavāyi (non-inherent) | nimitta (efficient)
-                         |
- earth/water/fire/air 2 atoms (paramāṇu) -> imperceptible dyad; 3 dyads -> perceptible triad ->
-   gross composite
-                         |
- pralaya: composites dissolve; eternal atoms, selves, space, time remain
- sṛṣṭi: Lord (īśvara) activates atoms according to unseen causal force (adṛṣṭa)/action and moral
-   consequence (karma)
- TRAP: God orders atoms; God is not the material cause and atoms are not created ex nihilo.
-cause = unconditional + invariable antecedent (ananyathāsiddha)
-exclude remote, accidental, co-effect and redundant antecedents (anyathāsiddha)
+ASCII MASTER FLOW — PANEL 6/15: Absence — four kinds, structure, cognition
+STRUCTURE OF EVERY ABSENCE: LOCUS (anuyogin) qualified by the absence OF a
+  COUNTERPOSITIVE (pratiyogin).  No counterpositive => no negation.
+FOUR KINDS AND THEIR EXACT TEMPORAL SIGNATURES
+  PRIOR (pragabhava) ....... NO BEGINNING, HAS AN END (ends at production)
+  POSTERIOR (pradhvamsa-) .. HAS A BEGINNING, NO END (begins at destruction)
+  ABSOLUTE (atyantabhava) .. NEITHER BEGINNING NOR END — hare's horn
+  MUTUAL (anyonyabhava) .... DIFFERENCE, not temporal — "a pot is not a cloth"
+2023 Q5(d) DECODE THE PRINTED STATEMENT IN TWO CLAUSES
+  "negation always has a counterpositive"  -> negation has determinate content
+  "absolute negation is an impossibility"  -> CONTENTLESS negation is impossible
+  ! THIS DOES NOT DENY ABSOLUTE ABSENCE (atyantabhava), an admitted kind.
+2024 Q5(c) THE DISCRIMINATION, DRAWN
+  "AIR DOES NOT HAVE HEAT"     locus air | counterpositive HEAT = a QUALITY
+                               -> denies a QUALIFICATION -> ABSOLUTE ABSENCE
+  "AIR IS NOT FIRE"            locus air | counterpositive FIRE = a SUBSTANCE
+                               -> denies an IDENTITY -> MUTUAL ABSENCE
+  TEST: is the missing item a QUALITY that could qualify the locus (absolute)
+        or ANOTHER ENTITY the locus might be identified with (mutual)?
+2018 Q5(d) HOW ABSENCE IS KNOWN — THREE POSITIONS
+  NYAYA     : perceived through the QUALIFIER-QUALIFIED relation
+              (visesana-visesya-bhava), the SIXTH sense-object contact.
+              4 conditions: object would be perceptible if present | locus
+              available | senses competent | no obstruction.
+              If the missing item is inferential, its absence is inferred.
+              NO independent instrument of non-cognition is admitted.
+  BUDDHIST  : no separate negative entity; positive locus + non-apprehension,
+              conceptual exclusion or inference
+  BHATTA MIMAMSA : NON-COGNITION (anupalabdhi) as an INDEPENDENT instrument
+  => the disagreement is ONTOLOGICAL before it is EPISTEMOLOGICAL
+2019 Q5(a) JUSTIFICATION IN FOUR STEPS
+  determinate negative cognition -> realist semantics -> explanatory work
+  (prior absence defeats the pre-existent effect) -> economy (one category,
+  four kinds, no new instrument).  ? concede the six/seven enumeration.
 
-ASCII MASTER FLOW — PANEL 7/9: Self, God and liberation
-ENDURING SELF (ātman): eternal, many, all-pervasive substrate of cognition, desire and volition
- SENSORY MIND (manas): atomic inner sense linking self to one cognition at a time
-                         |
- LORD (īśvara): eternal omniscient efficient cause; author/teacher of Veda;
- coordinates atoms and karmic deserts without abolishing individual agency
-                         |
- true knowledge -> doṣa removed -> pravṛtti ceases -> action and moral consequence (karma)
-   exhausted -> release (apavarga)
- release (apavarga) = complete cessation of pain; classical Nyāya does not define it as
-   Brahman-union.
-six self-marks: desire | aversion | effort | pleasure | pain | cognition
-Kaṇāda does not foreground creator God unambiguously; later synthesis is explicit
+ASCII MASTER FLOW — PANEL 7/15: Four instruments and Gautama's definition
+FOUR MEANS OF VALID KNOWLEDGE (pramana) — each covers the previous one's limit
+  PERCEPTION (pratyaksa) ... gives the object itself, directly
+  INFERENCE (anumana) ...... reaches what is out of sensory range
+  COMPARISON (upamana) ..... fixes the word-object link
+  TESTIMONY (sabda) ........ reaches what no individual could verify
+  COUNT CAUTION: 4 = NYAYA. classical Vaisesika = 2. synthesis follows Nyaya.
+  NYAYA REDUCES: postulation (arthapatti) -> inference;
+                 non-cognition (anupalabdhi) -> perception or inference.
+  NOT instruments: MEMORY (reproductive) | TARKA (aid only)
+GAUTAMA'S DEFINITION (2025 Q6(a)) AS FOUR EXCLUSION GATES
+  indriyartha-sannikarsa-utpannam jnanam avyapadesyam avyabhicari
+  vyavasayatmakam pratyaksam
+  GATE 1 produced from SENSE-OBJECT CONTACT -> EXCLUDES inference, memory,
+         testimony; marks perception as the foundational instrument
+  GATE 2 NON-VERBAL (avyapadesya) ......... EXCLUDES testimony
+         ! does NOT mean inexpressible; determinate perception is expressible
+  GATE 3 NON-ERRANT (avyabhicari) ......... EXCLUDES illusion (shell-silver)
+         => creates the DEBT that the theory of error must discharge
+  GATE 4 DETERMINATE (vyavasayatmaka) ..... EXCLUDES doubt ("post or man?")
+         ? tension with the admitted INDETERMINATE (nirvikalpaka) phase.
+           standard reading: the clause excludes DOUBT, not the pre-predicative
+           stage. critics: one word doing two jobs.
+INDETERMINATE (nirvikalpaka) -> DETERMINATE (savikalpaka) "this is a blue pot"
+  the determinate stage is where the UNIVERSAL appears as qualifier => this is
+  the epistemology behind realism about universals.
 
-ASCII MASTER FLOW — PANEL 8/9: Proof, objection and comparison
-UDAYANA ROUTES: kāryāt (effect) | āyojanāt (combination) | dhṛtyādeḥ (support)
- padāt (word-use) | pratyayataḥ (trust) | śruteḥ (Veda) | vākyāt (sentences)
- saṃkhyāviśeṣāt (number) | adṛṣṭāt (moral order)
-                         |
- OBJECTION: atoms + action and moral consequence (karma) may make God redundant; bodies expose
-   unequal suffering
- REPLY: unconscious atoms/unseen causal force (adṛṣṭa) cannot intelligently initiate and allocate
-   order
-                         |
- SĀṂKHYA: pre-existence of the effect in the cause (satkāryavāda), primordial material nature
-   (prakṛti) material cause | NYĀYA: new effect from atoms
- BUDDHISM: momentary process | NYĀYA: enduring substances and selves.
-YOGA LORD (īśvara): special conscious witness (puruṣa) + meditative support
-NYĀYA LORD (īśvara): inferred arranger, efficient cause and karmic governor
-same name != same proof or systematic function
+ASCII MASTER FLOW — PANEL 8/15: Six contacts and three extraordinary perceptions
+SIX SENSE-OBJECT CONTACTS (sannikarsa) — EACH REACHES A DIFFERENT OBJECT
+  1 conjunction (samyoga) ................... a SUBSTANCE: the pot
+  2 inherence-in-conjoined .................. its QUALITY or MOTION: its colour
+    (samyukta-samavaya)
+  3 inherence-in-inherent-in-conjoined ...... the UNIVERSAL in that quality:
+    (samyukta-samaveta-samavaya)              colour-ness
+  4 inherence (samavaya) .................... SOUND, inhering in ether
+  5 inherence-in-inherent (samaveta-samavaya) SOUND-NESS
+  6 qualifier-qualified (visesana-visesya-)   ABSENCE: jar-absence on the table
+  => 3 and 5 carry "universals are perceived"; 6 carries absence-cognition
+THREE EXTRAORDINARY PERCEPTIONS (alaukika) — TWO ARE LOAD-BEARING
+  UNIVERSAL-MEDIATED (samanyalaksana-pratyaksa)
+    perceiving an instance of smokeness relates the knower to SMOKE AS SUCH
+    -> the specifically Nyaya solution to INDUCTION (see Panel 10)
+  COGNITION-MEDIATED (jnanalaksana-pratyaksa)
+    a prior cognition mediates present perception; sandalwood "seen" as fragrant
+    -> the mechanism of the THEORY OF ERROR (see Panel 11)
+  YOGIC (yogaja-pratyaksa)
+    subtle, distant, past or future objects, for the perfected practitioner
+2023 Q6(c) ARE UNIVERSALS PERCEIVED? — THREE MOVES
+  FOR    : determinate perception presents the object AS QUALIFIED by a
+           universal; contacts 3 and 5 exist to reach universals; without
+           perceptible kinds, classification and concomitance lose their base
+  AGAINST: ? universal-mediated perception may be ad hoc; exclusion (apoha)
+           explains classification without a perceived one-in-many; an object
+           not in present contact strains the definition of perception
+  VERDICT: justified WITHIN Nyaya's realist ontology; not justified for an
+           opponent who has refused it => metaphysical before perceptual
 
-ASCII MASTER FLOW — PANEL 9/9: PYQ answer spine
-DEFINE two-system synthesis -> distinguish Nyāya 16 inquiry topics from Vaiśeṣika 7 ontological
-  categories
-       -> four means of valid knowledge (pramāṇas) -> perception stages -> five-member inference
-       -> misplacement theory of error (anyathākhyāti) -> self/sensory mind (manas) -> Lord
-         (īśvara) proofs and objection
-       -> new production (ārambhavāda) + three causes -> atomistic creation cycle
-       -> release (apavarga) -> compare Sāṃkhya/Buddhism -> qualified verdict
-                         |
- VERDICT: the system gains explanatory integration from realism and logical method;
- its pressure points are inherence, the leap from order to God, and austere liberation.
+ASCII MASTER FLOW — PANEL 9/15: Inference engine — members, grids, five marks
+TERMS: subject (paksa) = this hill | property to be proved (sadhya) = fire
+       reason (hetu/linga) = smoke  | similar instance (sapaksa) = kitchen
+       dissimilar instance (vipaksa) = lake
+FIVE MEMBERS (pancavayava) — THE PUBLIC FORM OF ONE REFLECTION
+  1 THESIS (pratijna) ...... "the hill has fire"        states the claim
+  2 REASON (hetu) .......... "because it has smoke"     names the sign
+  3 EXAMPLE (udaharana) .... "wherever smoke, fire —    states the RULE + an
+                              as in a kitchen"          AGREED INSTANCE  <<<<
+  4 APPLICATION (upanaya) .. "this hill has such smoke" brings subject under it
+  5 CONCLUSION (nigamana) .. "therefore the hill has fire"  now ESTABLISHED
+  <<<< member 3 has NO Aristotelian counterpart: Nyaya proves to a PERSON,
+       it does not test the form of a sentence.
+  members 3+4 = public form of SUBSUMPTIVE REFLECTION (paramarsa):
+  "this hill possesses smoke which is pervaded by fire" = IMMEDIATE CAUSE
+  (karana) of the inferential cognition.
+  ! redundancy objection: fewer members suffice for a trained hearer.
+    reply: the demonstration is a PUBLIC EPISTEMIC ACT, not a minimal derivation.
+THREE CLASSIFICATION GRIDS — SAY WHICH ONE YOU ARE USING
+  by PURPOSE      : for oneself (svarthanumana) | for another (pararthanumana)
+  by DIRECTION    : cause->effect (purvavat, clouds to rain)
+                    effect->cause (sesavat, swollen river to past rain)
+                    non-causal uniformity (samanyatodrsta, celestial position)
+                    ! sesavat also read as RESIDUAL inference (parisesa)
+  by CONCOMITANCE : positive-only (kevalanvayi) | negative-only (kevalavyatireki)
+                    | positive-and-negative (anvayavyatireki)
+FIVE MARKS OF A VALID REASON
+  1 presence in the subject (paksadharmata)
+  2 presence in similar instances (sapaksa-sattva)
+  3 absence from dissimilar instances (vipaksa-asattva)
+  4 not contradicted (abadhita)      5 not counterbalanced (asatpratipaksa)
+
+ASCII MASTER FLOW — PANEL 10/15: Securing concomitance and the five fallacies
+CONCOMITANCE (vyapti) = FIXED (niyata) + UNCONDITIONED (anaupadhika)
+  = invariable non-deviation (avinabhava-niyama).  NOT mere frequency.
+  equal extension (samavyapti) = convertible
+  unequal extension (visamavyapti) = all smoke pervaded by fire, not conversely
+ACQUISITION CHAIN — EACH STEP FIXES THE PREVIOUS STEP'S GAP (2022 Q7(c))
+  1 REPEATED OBSERVATION (bhuyodarsana): co-presence (anvaya) + co-absence
+    (vyatireka)                       GAP: a finite sample stays finite
+  2 NON-OBSERVATION OF DEVIATION (vyabhicara-adarsana): search and fail to find
+    a counter-case                    GAP: a hidden condition may still act
+  3 ADJUNCT-ELIMINATION (upadhi-nirasa)
+      FORMULA: sadhya-vyapakatve sati sadhana-avyapakah
+      = PERVADES the property to be proved, does NOT pervade the reason
+      WORKED CASE: bad inference "hill has smoke BECAUSE fire".
+        WET FUEL (ardra-indhana): wherever SMOKE, wet fuel  -> pervades sadhya
+                                  not wherever FIRE, wet fuel -> not the hetu
+        => fire does not unconditionally pervade smoke; the inference fails
+      plus removal of the SUSPICION of an adjunct (upadhi-sanka-nivrtti)
+                                        GAP: a residual "but what if?"
+  4 HYPOTHETICAL REASONING (tarka): contrary supposition -> unacceptable
+    consequence.  STATUS: AID ONLY => the reply is NOT circular
+  5 UNIVERSAL-MEDIATED PERCEPTION: the KIND is grasped, not the sample
+  ! RESIDUE: the whole reply presupposes REALISM ABOUT UNIVERSALS.
+  ! COUNTER-ATTACK: a universal denial of inference is itself a universal claim
+    (svavacana-virodha); the Carvaka's own hidden-adjunct argument is inferential
+FIVE FALLACIES (hetvabhasa) MAPPED ONTO THE FIVE MARKS (2023 Q7(a))
+  IRREGULAR (savyabhicara/anaikantika) -> violates MARK 3
+     sadharana (in both classes) | asadharana (confined to the subject)
+     | anupasamharin (too wide for contrast)
+  UNPROVED (asiddha/sadhyasama) ------> violates MARK 1
+     asrayasiddha (unreal locus) | svarupasiddha (reason absent in subject)
+     | vyapyatvasiddha (pervasion unproved, typically an adjunct)
+  STULTIFIED (badhita/kalatita) ------> violates MARK 4  (fire inferred as cold)
+  COUNTERBALANCED (satpratipaksa/prakaranasama) -> violates MARK 5
+  CONTRADICTORY (viruddha) -----------> REVERSES CONCOMITANCE ITSELF
+     proves the opposite of the intended property (permanence -> impermanence)
+  ! exactly five conditions => exactly five modes of failure, one of which
+    operates on the relation rather than on a condition.
+
+ASCII MASTER FLOW — PANEL 11/15: Comparison, testimony, memory, validity, fruit
+COMPARISON (upamana) IN FOUR BEATS — 2021-style semantic acquisition
+  1 forester says "a gavaya is like a cow"   -> TESTIMONY gives a DESCRIPTION
+  2 you see such an animal                   -> PERCEPTION gives an OBJECT
+  3 you recall the description               -> MEMORY reproduces
+  4 "THIS is what the word 'gavaya' denotes" -> COMPARISON: the WORD-OBJECT
+                                                RELATION, a new cognition
+  ! not analogical argument. classical Vaisesika folds it into inference;
+    Nyaya resists because instruments are individuated by the KIND of cognition.
+TESTIMONY (sabda) — 2021 Q5(b): THREE LIMBS ARE REQUIRED
+  SPEAKER: a reliable person (apta) = correct knowledge + truthful intention
+           + competent expression.  NOT status, NOT confidence.
+  SENTENCE: mutual expectancy (akanksa) | semantic fitness (yogyata)
+            | proximity (sannidhi/asatti) | intended meaning (tatparya)
+            example: "bring the saindhava" = salt at dinner, horse before a ride
+  RESULT: cognition of the word-object relation, hence of the object
+  CLASSES: perceptible (drstartha) / imperceptible (adrstartha);
+           secular (laukika) / Vedic (vaidika)
+  ! Vedic authority linked in later Nyaya to GOD as omniscient author.
+    keep the scriptural proof a CONVERGING strand, not the foundation
+    -> otherwise circular (Veda proves God, God certifies Veda).
+MEMORY (smrti) EXCLUDED — TWO DIFFERENT GROUNDS, ONE VERDICT (2024 comparative)
+  NYAYA      : lacks NOVELTY — reproduces, generates nothing new
+  PRABHAKARA : lacks PRESENTATIVE character — depends on a residual impression
+VALIDITY (2025 comparative)
+  +-----------+---------------------------+---------------------------+
+  | SCHOOL    | VALIDITY                  | INVALIDITY                |
+  | NYAYA     | EXTRINSIC (paratah)       | EXTRINSIC (paratah)       |
+  | MIMAMSA   | INTRINSIC (svatah)        | extrinsic                 |
+  +-----------+---------------------------+---------------------------+
+  ! TRAP: "Nyaya is extrinsic for invalidity" is only HALF the position.
+  reason: truth depends on defect-free generating conditions, to which the
+  knower has no internal access -> successful activity, coherence, corroboration
+INSTRUMENT vs FRUIT (2025 Q5(b))
+  NYAYA    : knower (pramatr) | instrument (pramana) | object (prameya)
+             | fruit (pramanaphala/pramiti) — FOUR DISTINCT FACTORS.
+             realism separates the reaching from what reaches (axe vs splitting)
+  BUDDHIST : Dignaga tightens them; cognition is both act and result in a
+             self-luminous framework; a distinct instrument would be an
+             unperceived second entity
+  => the difference FOLLOWS FROM the opposed ontologies; it is not terminological
+
+ASCII MASTER FLOW — PANEL 12/15: Error, self, mind and release
+MISPLACEMENT THEORY OF ERROR (anyathakhyati) — SHELL-SILVER, STEP BY STEP
+  real shell present + real silver existing ELSEWHERE
+    -> glitter revives a past impression of silver
+    -> COGNITION-MEDIATED PERCEPTION (jnanalaksana-pratyaksa) makes the silver
+       PRESENT TO AWARENESS without physical presence   <- 2019 Q6(b) answer
+    -> NON-DISCRIMINATION fails to notice they are two
+    -> FALSE COGNITION "this is silver"
+    -> SUBLATION (badha): "this is NOT silver" — DENIES THE RELATION, not an
+       entity => realism survives; NOTHING UNREAL WAS EVER PERCEIVED
+FIVE THEORIES OF ERROR, ORDERED BY ONTOLOGICAL COST
+  akhyati (Prabhakara Mimamsa) ... two valid cognitions undiscriminated; there
+                                   is NO false cognition at all   [cheapest]
+  anyathakhyati (NYAYA) .......... two reals, one bad relation
+  atmakhyati (Yogacara) .......... internal cognition projected outward
+  anirvacaniya-khyati (Advaita) .. object NEITHER real NOR unreal
+  asatkhyati (Madhyamika, standard doxography) apprehension of the non-existent
+  2021 ROUTED REPLY: a third ontological status is obscure and uneconomical.
+  ! Advaita counters: the silver is sublated (so not real) yet motivating
+    (so not unreal). Nyaya answers both facts with location, not status.
+  ! Nyaya vs Prabhakara: "this is NOT silver" denies something ASSERTED, so a
+    theory with no false cognition cannot explain the corrective form.
+SELF (atman): eternal, ALL-PERVADING, MANY substances
+  consciousness is an ADVENTITIOUS QUALITY, not the self's essence (vs ADVAITA)
+  SIX MARKS (2024 Q5(b)) — iccha-dvesa-prayatna-sukha-duhkha-jnanani atmano
+  lingam:  1 desire  2 aversion  3 effort  4 pleasure  5 pain  6 cognition
+     6 is structurally different: cognition is a QUALITY, so it needs a SUBSTANCE
+     ! SUPPLEMENTARY ONLY: memory/recognition; the instrument-user argument.
+       NEVER substitute them when "six reasons" is asked.
+     form: a NEGATIVE-ONLY (kevalavyatireki) inference — no independent
+     similar instance of a self is available
+MIND (manas): eternal, ATOMIC, one per self => one cognition at a time;
+  deep sleep = mind withdrawn from conjunction, self persists uncognising
+RELEASE (apavarga) = ABSOLUTE CESSATION OF PAIN (duhkha-atyanta-nivrtti)
+  NOT bliss. liberated self has no pleasure, pain, desire, aversion, cognition
+  STONE-LIKE OBJECTION -> REPLY: the aim is freedom FROM suffering, not the
+  acquisition of bliss; bliss is relational and can generate attachment
+  ! RESIDUE: a motivational cost survives — a goal no one can desire AS a state
+
+ASCII MASTER FLOW — PANEL 13/15: God and Udayana's cumulative case
+GOD (Isvara): eternal, omniscient, BODILESS special self, never bound by karma
+  EFFICIENT CAUSE (nimitta-karana) ONLY — atoms remain the MATERIAL cause
+  THREE JOBS: cosmic (conjoins atoms, working WITH the unseen moral force
+  adrsta) | moral (allots karmic fruit) | scriptural (source of the Veda)
+UDAYANA'S PROOFS AS INFERENCES (2019 Q7(a)) — SUBJECT | REASON | PROPERTY
+  FROM EFFECT (karyat) ...... the world | composite and ordered, hence an
+                              effect | has an intelligent maker | pot & potter
+  FROM COMBINATION (ayojanat) primordial atomic conjunction | inert atoms and
+                              unconscious adrsta cannot start ordered FIRST
+                              motion | needs an intelligent impeller
+  FROM SUSTENANCE (dhrtyadeh) the ordered cosmos | sustained, regulated,
+                              dissolved | needs governing intelligence
+  FROM SCRIPTURE (sruteh) ... Vedic sentences | require competent authorship,
+                              scope exceeds ordinary knowledge | omniscient source
+  ALSO: padat (words) | pratyayatah (cognition) | vakyat (sentences)
+        | sankhyavisesat (numerical modes) | moral-administration strand
+  STRUCTURE: successive OBSTACLE-REMOVAL in the Nyayakusumanjali => a CUMULATIVE
+  case. ? names and counts vary: write "commonly enumerated as".
+OBJECTIONS -> REPLIES -> RESIDUE
+  Mimamsa: authorless Veda + apurva -> omniscient apta explains better
+           | residue: grant authorlessness and the scriptural proof weakens
+  Samkhya: prakrti suffices, a perfect God has no motive -> unconscious prakrti
+           cannot allot karma | residue: the motive problem survives
+  Buddhist: DISANALOGY (vaisamya) — a potter has a body, hands, materials
+           -> embodiment is not essential to agency | residue: analogy strained
+  Carvaka: God unperceived, inference unreliable -> secure inference first
+  Advaita: God is only empirical (vyavaharika) -> reject the two-level downgrade
+  EVIL: fruits follow BEGINNINGLESS KARMA | residue: divine independence limited
+  ! ALL objections land on ONE shared premiss: order and meaning require
+    intelligence rather than being brute or emergent.
+2018 Q6(a) NYAYA vs YOGA — REASONED "NO"
+  NYAYA: God INFERRED as the explanation of cosmic and moral order
+  YOGA : a SPECIAL CONSCIOUS WITNESS (purusa-visesa) untouched by afflictions,
+         actions, fruits, deposits; ADMITTED within an existing soteriology;
+         role is practical — devotion (Isvara-pranidhana) aids absorption
+  => sameness of NAME is not sameness of DEMONSTRATION or FUNCTION
+
+ASCII MASTER FLOW — PANEL 14/15: Causation and atomism
+CAUSATION: asatkaryavada / arambhavada — the effect is NEWLY PRODUCED
+  CAUSE = UNCONDITIONAL INVARIABLE ANTECEDENT: prior (purvavrtti), invariably
+  prior (niyata-purvavrtti), NOT OTHERWISE ESTABLISHED (ananyathasiddha)
+  complete cause = causal complex (karana-samagri) + absence of a blocker
+  EXCLUDED (anyathasiddha) — 2020 Q6(c), five KINDS of irrelevance:
+    staff-colour (quality of an instrument) | potter's father (remote)
+    | staff-sound (co-effect) | space (omnipresent background)
+    | donkey (accidental companion)
+  THREE CAUSES: inherent (samavayi) threads | non-inherent (asamavayi) their
+    conjunction, a quality | efficient (nimitta) the weaver
+  2021 SEED/TREE: NO. specificity comes from INVARIABILITY, not latency.
+  2023 PRIOR ABSENCE: a real absence cannot coexist with a latent presence
+    ! residue: presupposes real absences, which Samkhya need not grant
+ATOMISM: atom (paramanu) eternal, partless, indivisible, imperceptible, minute
+  (parimandalya). 2 atoms -> DYAD (dvyanuka, imperceptible)
+  3 DYADS -> TRIAD (tryanuka/trasarenu) = FIRST PERCEPTIBLE MAGNITUDE
+  ! NOT three atoms. mote in a sunbeam is the standard illustration.
+  first motion at creation needs adrsta + divine will; cycles of creation
+  (srsti) and dissolution (pralaya); ATOMS PERSIST THROUGH DISSOLUTION
+  => atomism's own gap is what makes the school theistic
+
+ASCII MASTER FLOW — PANEL 15/15: Verdict grid, cross-school anchors, answer rail
+THREE STIPULATED TERMINI — ALL CRITICISM CONVERGES HERE
+  inherence = self-linking (svarupa-sambandha)
+  particularity = self-differentiating (svato-vyavartaka)
+  universal-mediated perception = the kind is perceptually given
+GRADED VERDICT
+  STRONG   : the most developed Indian theory of inference, debate and fallacy
+             | a serious realist reply to inductive scepticism
+             | a REGULATED ontology (six blockers, reduction of instruments)
+             | the most rigorous Indian cumulative natural theology
+  WEAK     : the three termini are asserted where explanation stops
+             | release without consciousness invites the stone-like objection
+             | God's independence limited by beginningless karma
+             | absence + inherence + particularity look like proliferation
+  CONTESTED? : universal-mediated perception as genuine perception
+             | one system or two
+             | whether an embodied-artisan analogy can prove a bodiless maker
+CROSS-SCHOOL ANCHORS — ONE ROW PER RIVAL
+  vs CARVAKA  : inference defended by adjunct-elimination + tarka + real kinds
+  vs BUDDHISM : real universals vs exclusion (apoha) | enduring self vs no-self
+                | real wholes vs aggregate reduction | instrument =/= fruit
+  vs JAINISM  : determinate categories vs non-absolutism and standpoints
+  vs SAMKHYA  : new production vs pre-existent effect | God vs no creator
+  vs MIMAMSA  : extrinsic validity vs intrinsic | authored vs authorless Veda
+                | Nyaya reduces postulation and non-cognition; Mimamsa does not
+  vs ADVAITA  : misplacement vs the indefinable | consciousness as quality vs
+                as nature | many selves vs one | release as cessation vs bliss
+  vs YOGA     : God inferred as cosmic cause vs admitted as meditative support
+ANSWER RAIL — WHAT TO WRITE, IN ORDER
+  1 name the half of the system the question sits in (Nyaya / Vaisesika / joint)
+  2 define technically, with the English concept first and IAST immediately after
+  3 give the classification or the argument, with named evidence
+  4 add ONE named opponent and the reply
+  5 close: STRENGTH + COST + CONDITION, matched to the directive
+CLOSING LINES BY MARK
+  10 : "strongest as a realist logic-ontology, but its primitive relations and
+        particularisers remain vulnerable."
+  15 : "the instruments secure knowledge, the categories secure being and God
+        secures order; inherence, particularity and unconscious release are
+        asserted as much as proved."
+  20 : "the very devices that make the system complete — inherence,
+        particularity, universal-mediated perception and a karma-bound God —
+        are also its deepest contested points."

@@ -1,238 +1,1125 @@
-ASCII MASTER FLOW — PANEL 1/12: The central development question and the five-rung ladder
-CENTRAL QUESTION -> what counts as a better society, and how do
-                    material changes become morally justified progress?
+ASCII MASTER FLOW — PANEL 1/22: The printed clause, the central question and the ownership fence
+SYLLABUS (verbatim) -> "Development and Social Progress."
+        |             TWO WORDS. NO SUB-HEADS. THAT IS WHY IT IS MISREAD.
+        v
+THE CENTRAL QUESTION -> WHAT ENTITLES ANYONE TO CALL A SOCIAL CHANGE AN
+                        IMPROVEMENT -- AND WHAT WOULD HAVE TO BE TRUE OF A
+                        SOCIETY FOR THE CLAIM TO HOLD?
         |
         v
-FIVE RUNGS (each adds a question the previous rung cannot answer)
-  growth       -> more output / income                 measure: quantity
-  development  -> structural and qualitative change    measure: opportunity
-  human dev.   -> health, knowledge, material command  measure: human options
-  capability   -> substantive freedom to be and do      measure: real opportunity
-  social prog. -> justified social relations/institutions measure: freedom,
-                 equality, justice, dignity, participation, sustainability
-  MEASURE FAMILIES -> output | basic needs | welfare/quality of life |
-                      human development | capability | social | ecology
-  CONTROL -> every indicator reveals one space and hides another
+THE PREREQUISITE (not padding) -> DEVELOPMENT IS A CONTESTED NORMATIVE CONCEPT.
+  Until the stem's assumed conception is NAMED, the question has no determinate
+  answer at all.
         |
         v
-ECONOMISTIC MODEL -> productivity / investment / industrialisation -> resources
-  enabling truth: scarcity blocks health, education and choice
-  failure: output says nothing by itself about distribution, voice, work
-           quality, displacement or ecological cost
+THE THREE CONTESTS THAT GENERATE EVERY OWNED PART
+  +---------------+---------------------------+------------------------------+
+  | CONTEST       | THE QUESTION IT ASKS      | WHERE THE MARKS SIT          |
+  +---------------+---------------------------+------------------------------+
+  | METRIC        | in which INFORMATIONAL    | naming what an indicator     |
+  |               | SPACE is development to   | DISCLOSES and CONCEALS       |
+  |               | be judged?                |                              |
+  +---------------+---------------------------+------------------------------+
+  | AGENCY        | is the person a           | information -> consultation  |
+  |               | BENEFICIARY or the        | -> participation ->          |
+  |               | AUTHOR of development?    | co-decision -> EMPOWERMENT   |
+  +---------------+---------------------------+------------------------------+
+  | LIMIT         | what may development NOT  | irreversibility, culture and |
+  |               | do, whatever the gains?   | foreclosed future options    |
+  +---------------+---------------------------+------------------------------+
         |
         v
-MASTER VERDICT -> growth can finance development; just conversion into
-capability, dignity, participation and sustainable institutions makes progress.
+MASTER THESIS -> GROWTH CAN FINANCE DEVELOPMENT, BUT ONLY CAPABILITIES,
+  JUSTICE, PARTICIPATION AND ECOLOGICAL LIMITS CONVERT MATERIAL CHANGE INTO
+  SOCIAL PROGRESS. EVERY VERDICT HERE IS CONDITION-SPECIFYING.
+        |
+        v
+OWNERSHIP FENCE  justice, equality, liberty, dignity AS IDEALS -> Social and
+  Political Ideals | full liberalism, Marxism, socialism, anarchism -> Political
+  Ideologies | cultural recognition -> Humanism, Secularism and
+  Multiculturalism | gender doctrine -> Gender Discrimination | caste doctrine
+  -> Caste Discrimination | rights, obligation, state legitimacy -> Individual
+  and State | growth, poverty, scheme and climate DATA -> ECONOMY, GOVERNANCE,
+  ENVIRONMENT -- OUTSIDE THE PHILOSOPHY PAPER ENTIRELY
+BOUNDED BRIDGES  freedom/equality/justice as CRITERIA -- name and apply, never
+  re-expound | class power and surplus as ONE criterion | caste and the village
+  as a TEST OF DECENTRALISATION | empowerment as a CAPABILITY claim
+CORPUS SHARE -> 6 of 112 parts (2018:0 2019:1 2020:1 2021:0 2022:1 2023:1
+  2024:1 2025:1). NOT ONE owned part asks for a DEFINITION of development.
 
-ASCII MASTER FLOW — PANEL 2/12: Human development and Sen's resource-to-freedom conversion
-HAQ / UNDP -> shift from wealth of economy to lives of people:
-              longevity + knowledge + decent material standard
-        | limitation: composite indices can conceal distribution, freedom,
-        |             gender, disability and ecological dependence
-        v
-SEN -> DEVELOPMENT AS FREEDOM; remove unfreedoms, expand substantive freedom
-  RESOURCE -> personal / social / environmental CONVERSION FACTORS -> CAPABILITY
-  same income -> disability, gender norms, location, public services -> unequal freedom
-        |
-        +-> FUNCTIONING = achieved being/doing
-        +-> CAPABILITY = real opportunity for alternative functionings
-        +-> UTILITY = satisfaction; may adapt downward under deprivation
-        +-> AGENCY = pursue goals one has reason to value beyond welfare
-        |
-        v
-FIVE FREEDOMS REINFORCE: political freedom | economic facilities | social
-opportunities | transparency guarantees | protective security
-CONTROL -> capability is neither income plus schemes nor compulsory functioning.
 
-ASCII MASTER FLOW — PANEL 3/12: Nussbaum, dependency, post-development and sustainability
-SEN vs NUSSBAUM
-  Sen -> public reasoning; no single final canonical list
-  Nussbaum -> central capabilities; dignity-compatible threshold
-  common -> secure OPPORTUNITY, not compulsory FUNCTIONING
-  tension -> plural openness vs paternalistic closure / underspecification
+ASCII MASTER FLOW — PANEL 2/22: The five-rung ladder and the discriminating test
+FIVE WORDS THAT ARE NOT SYNONYMS. READ UPWARD. EACH RUNG CORRECTS THE DEFECT
+BELOW IT AND ACQUIRES A NEW ONE.
+  +----+-----------------------+---------------------+-----------------------+
+  |RUNG| CONCEPT               | PRIMARY MEASURE     | ITS OWN FAILURE       |
+  +----+-----------------------+---------------------+-----------------------+
+  | R5 | SOCIAL PROGRESS       | justified change in | the VALUES are        |
+  |    | freer, fairer, more   | relations and       | CONTESTED; no         |
+  |    | sustainable?          | institutions        | aggregate settles them|
+  +----+-----------------------+---------------------+-----------------------+
+  | R4 | CAPABILITY            | substantive freedoms| SELECTION and         |
+  |    | DEVELOPMENT           | to be and to do     | MEASUREMENT problems  |
+  |    | what can persons      |                     |                       |
+  |    | ACTUALLY achieve?     |                     |                       |
+  +----+-----------------------+---------------------+-----------------------+
+  | R3 | HUMAN DEVELOPMENT     | health, knowledge,  | aggregates CONCEAL    |
+  |    | are basic options     | material command    | inequality            |
+  |    | expanding?            |                     |                       |
+  +----+-----------------------+---------------------+-----------------------+
+  | R2 | ECONOMIC DEVELOPMENT  | structural and      | may remain            |
+  |    | are productivity and  | qualitative economic| ECONOMISTIC           |
+  |    | opportunity changing? | change              |                       |
+  +----+-----------------------+---------------------+-----------------------+
+  | R1 | ECONOMIC GROWTH       | aggregate or per-   | ignores DISTRIBUTION  |
+  |    | is more being         | capita output/income| and EXTERNALITIES     |
+  |    | produced?             |                     |                       |
+  +----+-----------------------+---------------------+-----------------------+
         |
         v
-DEPENDENCY -> underdevelopment can be PRODUCED through unequal incorporation,
-              not merely inherited as an earlier stage on one universal path
-MODERNISATION ASSUMES -> linear sequence | convergence | traditional/modern
-  binary | diffusion of capital/knowledge | expert direction
-  CONTROL -> structural change is real; one neutral inevitable route is not
-POST-DEVELOPMENT -> who authorises experts to define a whole society as deficient?
-  trap -> neither critique proves that health, education, mobility or infrastructure
-          are unwanted; local voice joins universal dignity and non-domination
+THE DISCRIMINATING TEST -- ONE LINE, APPLIES TO ANY CASE
+  income rises -> AND preventable UNFREEDOM, HUMILIATION or ECOLOGICAL
+  DESTRUCTION intensifies -> THEN: GROWTH WITHOUT SOCIAL PROGRESS.
+  NOT AN EXOTIC CASE. THE ORDINARY CASE. THAT IS WHY THE LADDER EXISTS.
         |
         v
-SUSTAINABLE DEVELOPMENT -> present improvement without destroying ecological
-conditions/options for future persons: intergenerational justice + precaution +
-non-substitutable limits + duties to vulnerable persons + possible non-human value.
+FIVE FAILURE MODES THE CLAUSE NAMES
+  GROWTH WITHOUT DISTRIBUTION ..... output rises, gains are captured
+  DEVELOPMENT WITHOUT CONSENT ..... beneficiaries counted, never asked
+  TECHNOLOGY WITHOUT ETHICS ....... capacity enlarges, ends unexamined
+  WELFARE WITHOUT AGENCY .......... persons are recipients, never authors
+  PROGRESS AS FORCED ASSIMILATION . one form of life imposed as "modern"
+        |
+        v
+TRADE-OFF TO NAME EXPLICITLY -> ASCENDING THE LADDER BUYS EVALUATIVE RICHNESS
+  AND PAYS IN MEASURABILITY. Stating it pre-empts the standard objection.
 
-ASCII MASTER FLOW — PANEL 4/12: Social progress: weak teleology, plural criteria and non-inevitability
-SOCIAL PROGRESS = justified improvement in relations, institutions and lives
-  weakly TELEOLOGICAL -> calls movement better; does NOT posit automatic history
-        |
-        v
-CRITERIA (no one aggregate settles all)
- freedom: real options/voice | equality: less domination | justice: defensible
- benefits/burdens/procedure | dignity: no humiliation | participation: co-decision
- sustainability: future conditions | fraternity/solidarity: social equality
-        |
-        v
-WHY NOT INEVITABLE?
- knowledge/technology -> capacity for care AND destruction
- institutions -> distribute control and risk
- moral learning -> can be reversed
-  CONCEPTIONS -> linear/cumulative | cyclical | dialectical/conflictual |
-                 plural/non-linear (plural paths within a dignity floor)
-        |
-        v
-VERDICT -> progress requires agency, conflict, accountable institutions and judgment;
-public reasoning is part of progress, not merely a way to measure it.
 
-ASCII MASTER FLOW — PANEL 5/12: Necessary, sufficient, redistribution, recognition and democracy
-2024 MODAL TEST -> Is economic development necessary, sufficient, both or neither?
-        |
-  NECESSITY -> severe deprivation blocks health, education, agency
-     qualified result -> adequate MATERIAL CAPABILITIES normally threshold-necessary
-     caveat -> 'economic development' is broader than a logical necessity claim
-  SUFFICIENCY -> wealth can coexist with exclusion, authoritarianism, gender
-                  hierarchy and ecological destruction -> clearly NOT sufficient
+ASCII MASTER FLOW — PANEL 3/22: Development defined -- the descriptive and the normative
+DOCTRINE STATEMENT -> DEVELOPMENT is a process of ENLARGING AND SECURING
+  people's EFFECTIVE CAPACITIES to live lives THEY HAVE REASON TO VALUE, through
+  economic, social, political and institutional transformation.
         |
         v
-DISTRIBUTION + RECOGNITION + PARTICIPATION
- redistribution -> resources; recognition -> equal status; participation -> decision-power
- provision without respect -> paternalism | recognition without resources -> symbolism
- participation is INSTRUMENTAL (information/accountability) AND CONSTITUTIVE (voice itself)
-  LADDER -> information -> consultation -> participation -> co-decision ->
-            EMPOWERMENT: durable power over options, resources and rules
+TWO DIMENSIONS, BOTH CONSTITUTIVE
+  +--------------------------------+--------------------------------+
+  | DESCRIPTIVE                    | NORMATIVE                      |
+  | change in production,          | the JUDGMENT that the change   |
+  | technology, institutions and   | IMPROVES HUMAN LIVES           |
+  | social relations               |                                |
+  | answers WHAT HAPPENED          | answers WHETHER IT IS BETTER,  |
+  |                                | AND BY WHAT TEST               |
+  +--------------------------------+--------------------------------+
+  OMIT THE FIRST -> a preference with no object (an essay of aspirations)
+  OMIT THE SECOND -> a transformation with no evaluation (a report)
         |
         v
-VERDICT -> means become progress only through just conversion and democratic equality.
+WHAT THE LADDER DOES **NOT** CLAIM
+  - NOT that lower rungs are worthless
+  - NOT that higher rungs float free of them
+  - ONLY that the INFERENCE UPWARD IS NOT AUTOMATIC
+  SEVERE DEPRIVATION RESTRICTS HEALTH, SCHOOLING AND VOICE -> which is why the
+  THRESHOLD form of the necessity claim survives (Panel 16).
+        |
+        v
+THE OVERCORRECTION TO REFUSE -> "growth is irrelevant" / "growth is inherently
+  harmful". It forfeits the threshold argument and with it the 2024 modal part.
+  CORRECT POSITION: GROWTH IS INSTRUMENTAL AND CONVERSION-DEPENDENT.
 
-ASCII MASTER FLOW — PANEL 6/12: Technology and skill education: conditional routes to development
-TECHNOLOGY -> changes capacities and social relations; supplies NO ethical end
-  possible gains -> medicine reduces suffering | communication widens knowledge |
-                    transparency supports accountability | productivity reduces drudgery
-  possible losses -> surveillance/manipulation | unequal access | automation/displacement | bias
-  conversion conditions -> ethical purpose + fair access + accountable human control
-        |
-        v
-SKILL EDUCATION -> relevant competence -> work options -> productivity + bargaining power +
-                   self-respect -> capability and agency
-  must add -> decent work | equal access | adaptability | dignity of labour | critical citizenship
-  defeat -> skills without decent work = frustrated capability; narrow employability can displace
-            civic/humanistic education; rapid technical change can make training obsolete
-        |
-        v
-VERDICT -> technology/skill enhance development conditionally, never automatically.
 
-ASCII MASTER FLOW — PANEL 7/12: Gandhian social development and the Ambedkarite safeguard
-GANDHIAN END -> welfare of all (SARVODAYA)
-                 self-rule (SWARAJ); non-violence (AHIMSA)
-        |
-UNLIMITED WANTS -> dependence + competition + violence
-CENTRALISED INDUSTRIAL POWER -> distance from need/local control; degraded labour
-MEANS SHAPE ENDS -> violent/degrading means cannot yield a non-violent good society
+ASCII MASTER FLOW — PANEL 4/22: Seven informational spaces and the three blind spots
+TO CHOOSE A METRIC IS TO CHOOSE AN INFORMATIONAL SPACE -- AND THEREFORE TO
+DECIDE IN ADVANCE WHAT WILL BE INVISIBLE. NO FIGURE IS REQUIRED ANYWHERE.
+  +---------------------+---------------------------+------------------------+
+  | MEASURE FAMILY      | WHAT IT ADDS              | WHAT IT CAN HIDE       |
+  +---------------------+---------------------------+------------------------+
+  | 1 OUTPUT / INCOME   | resource capacity         | distribution, UNPAID   |
+  |                     |                           | WORK, externalities    |
+  +---------------------+---------------------------+------------------------+
+  | 2 BASIC NEEDS       | a DEPRIVATION THRESHOLD   | voice, choice, quality |
+  |                     |                           | ABOVE the threshold    |
+  +---------------------+---------------------------+------------------------+
+  | 3 WELFARE / QUALITY | LIVED CONDITIONS          | ADAPTIVE PREFERENCES   |
+  |   OF LIFE           |                           | and unequal power      |
+  +---------------------+---------------------------+------------------------+
+  | 4 HUMAN DEVELOPMENT | PEOPLE rather than output | within-group           |
+  |                     |                           | inequality; political  |
+  |                     |                           | freedom                |
+  +---------------------+---------------------------+------------------------+
+  | 5 CAPABILITIES      | CONVERSION, FREEDOM,      | SELECTION and          |
+  |                     | AGENCY                    | measurement disputes   |
+  +---------------------+---------------------------+------------------------+
+  | 6 SOCIAL-PROGRESS   | RELATIONS and public      | AGGREGATION across     |
+  |   INDICATORS        | value                     | contested dimensions   |
+  +---------------------+---------------------------+------------------------+
+  | 7 ECOLOGICAL        | biophysical and INTER-    | DISTRIBUTION of        |
+  |   INDICATORS        | GENERATIONAL limits       | adjustment burdens     |
+  +---------------------+---------------------------+------------------------+
         |
         v
-DEVELOPMENT -> decentralisation | village-centred production | dignity of labour |
-trusteeship | restraint of wants | participation | ecological restraint
+CONTROLLING RULE -> A COMPOSITE INDEX IS EVIDENCE WITHIN ONE EVALUATIVE SPACE.
+  IT IS NOT A THEORY OF THE GOOD SOCIETY AND CANNOT SETTLE THE WEIGHTS BETWEEN
+  DIMENSIONS -- BECAUSE THE WEIGHTS ARE THE NORMATIVE QUESTION.
+  PUBLIC REASONING ABOUT WEIGHTS IS PART OF PROGRESS, NOT MERELY A METHOD.
         |
         v
-OBJECTIONS -> village can reproduce caste/patriarchy; trusteeship is voluntary paternalism;
-complex needs may require large-scale technique
-RECONSTRUCTION -> equal rights + anti-domination + mobility + accountability; judge machines
-by scale/control/need, not by a blanket anti-machine rule.
+THREE BLIND SPOTS THAT DECIDE ARGUMENTS
+  UNPAID WORK ......... invisible to output measures; a society can "grow" by
+                        MONETISING labour already being performed
+  ADAPTIVE PREFERENCE . the deprived may report contentment; the metric then
+                        CERTIFIES the deprivation
+  AGGREGATION ......... a national average rises while every disadvantaged
+                        group inside it stands still
 
-ASCII MASTER FLOW — PANEL 8/12: Tribal reconciliation: the four tests and legal-status discipline
-THE COLLISION -> who defines benefit? who bears cost/risk? is land commodity or
-identity/livelihood? whose knowledge counts? are consent and self-government real?
-        |
-        v
-FOUR JOINT TESTS
-  1 capability -> count capabilities GAINED AND DESTROYED
-  2 agency -> affected communities decide, not merely receive compensation
-  3 precaution -> irreversible ecological/cultural loss attracts presumption against
-  4 justice -> no transfer of adjustment burden to persons least able to bear it
-  plus -> equal citizenship + recognition + individual/community rights
-          + dissent/exit + gender justice
-        |
-        v
-INDIAN ILLUSTRATIONS, EXACT STATUS
-  PESA 1996 -> enacted statute, adapted panchayat arrangements in Scheduled Areas
-  FRA 2006 -> enacted rights-recognition statute
-  Orissa Mining Corporation (2013) -> Supreme Court judgment; Gram Sabha consideration
-CONTROL -> enactment/judgment is NOT notification, implementation, success or philosophical proof.
 
-ASCII MASTER FLOW — PANEL 9/12: Moral standing and Naess: ecology before environmental policy
-PRIOR QUESTION -> what has MORAL STANDING?
-  anthropocentric -> human beings; nature has instrumental value
-                    weakness: ignores unseen or unusable nature
-  biocentric -> individual living beings with inherent worth; weakness: cannot easily value systems
-  ecocentric -> species/habitats/ecosystems/biotic whole; weakness: can subordinate individuals
-  discriminating question -> destroy wilderness no human will see/use/know?
+ASCII MASTER FLOW — PANEL 5/22: The economistic model and its conversion premise
+STATE THE OPPOSING POSITION AT ITS STRONGEST -- FOUR STEPS
+  1. MATERIAL SCARCITY constrains health, education and choice
+  2. PRODUCTIVE GROWTH expands the resource base
+  3. STRUCTURAL TRANSFORMATION can raise employment and state capacity
+  4. THEREFORE economic development is an important ENABLING CONDITION
         |
         v
-NAESS (1973): SHALLOW vs DEEP ECOLOGY
- shallow -> fight pollution/depletion for human health/affluence; manage symptoms
- deep -> intrinsic non-human value + diversity + revise framework of standing reserve
- argument -> ever-rising consumption absorbs efficiency gains; policy fixes symptoms while the
-             generating conception of self/good life remains
+THE HIDDEN PREMISE THAT CARRIES THE WHOLE ARGUMENT
+  +----------------------------------------------------------------------+
+  | RESOURCES CAN BE CONVERTED INTO BROADLY SHARED WELFARE THROUGH        |
+  | INSTITUTIONS. <-- AN ASSUMPTION ABOUT INSTITUTIONAL QUALITY, NOT A    |
+  | FINDING ABOUT PRODUCTION. ATTACK HERE.                                |
+  +----------------------------------------------------------------------+
         |
         v
-QUALIFICATION -> distinguish subsistence from luxury consumption; defend dignity/agency against
-eco-authoritarian sacrifice and do not assert intrinsic value without argument.
+FIVE SILENCES OF GROWTH -- EACH ONE IS A PARAGRAPH
+  DISTRIBUTION ...... who receives the additional product?
+  WORK QUALITY ...... under what conditions is it produced?
+  DISPLACEMENT ...... who loses land, livelihood or habitat for it?
+  POLITICAL VOICE ... who decided, and could anyone have refused?
+  ECOLOGICAL COST ... what stock or sink was drawn down, and is it reversible?
+        |
+        v
+IS THE CONVERSION THESIS UNFALSIFIABLE? -- NO, AND SAY WHY
+  THE CONVERSION CONDITIONS ARE NAMEABLE IN ADVANCE: distributive rules | work
+  quality and security | protection against displacement without consent |
+  effective political voice | ecological limits on irreversibility.
+  A CASE WHERE ALL FIVE OBTAIN AND LIVES DO NOT IMPROVE WOULD COUNT AGAINST IT.
+  RESIDUAL PROBLEM: the five are weighted differently by the liberal, Marxist
+  and Gandhian lenses, so the thesis inherits the disagreement it organises.
+        |
+        v
+VERDICT FORMULA -> "GROWTH BECOMES PROGRESS ONLY THROUGH JUST CONVERSION INTO
+  CAPABILITY, DIGNITY AND SUSTAINABLE INSTITUTIONS; THE CONVERSION CONDITIONS,
+  NOT THE OUTPUT FIGURE, ARE WHERE THE NORMATIVE QUESTION LIES."
 
-ASCII MASTER FLOW — PANEL 10/12: Productivism, degrowth and intergenerational justice
-PRODUCTIVISM -> expanding production is master objective and solvent of distributional conflict
-  applies to industrial socialism AS WELL AS capitalism
-        |
-FINITE SINKS/STOCKS + efficiency offset by output expansion + diminishing capability gains
-        |
-        v
-DEGROWTH -> planned reduction of energy/material throughput
-            sufficiency + care + shorter work + equality
-  objection -> jobs, revenue, public services; no demonstrated stable contraction at scale
-  qualified reply -> CONTRACTION AND CONVERGENCE: reduce affluent luxury; expand base capability
-                       where deprivation persists; never prescribe blanket degrowth
-        |
-        v
-INTERGENERATIONAL JUSTICE -> preserve options, avoid irreversible loss
-  problems -> non-identity | no reciprocity | pure time preference/discounting
-  response -> impersonal principles + precaution, not specific future preferences
 
-ASCII MASTER FLOW — PANEL 11/12: Environmentalism of the poor and the just-transition reply
-ENVIRONMENTALISM OF THE POOR (Guha and Martinez-Alier, 1997)
-  claim -> Global South environmental conflict often concerns livelihood: forests, water, grazing,
-           fisheries, clean air and control of resources on which subsistence depends
-  reframing -> NOT 'environment versus development' but WHO gains, WHO bears cost/risk, WHO decides
-  control -> thesis describes conflict structure, NOT ecological virtue of every poor community
+ASCII MASTER FLOW — PANEL 6/22: Modernisation -- five assumptions, five objections
+WHAT IT DESCRIBES (real; denying it reads as ideology)
+  industrialisation | urbanisation | mass education | occupational
+  differentiation | bureaucratic capacity | scientific rationality |
+  expanding markets -- a transition from "traditional" to "modern"
         |
         v
-ECO-AUTHORITARIAN CLAIM -> limits are urgent; democracy is slow; insulate decisions
-  reply 1 epistemic -> dispersed local knowledge
-  reply 2 compliance -> imposed policies are evaded/reversed and costly to enforce
-  reply 3 accountability -> dissent/information reveal damage
-  reply 4 distributive -> no durable policy shifts cost onto vulnerable workers/communities
+THE FIVE ASSUMPTIONS THAT MAKE IT A THEORY
+  1 LINEAR SEQUENCE ...... societies move through broadly comparable stages
+  2 CONVERGENCE .......... institutional differences DIMINISH as capacity grows
+  3 TRADITIONAL/MODERN ... inherited authority and local production YIELD to
+    CONTRAST             rational, mobile, differentiated institutions
+  4 DIFFUSION ............ capital, knowledge and technology TRANSMIT
+                           development
+  5 EXPERT DIRECTION ..... planners identify obstacles and ACCELERATE transition
         |
         v
-JUST TRANSITION -> livelihood + retraining + compensation + participation BEFORE restructuring.
+FIVE OBJECTIONS, EACH MAPPED TO WHAT IT DENIES
+  +----------------+------------------------------------+------------------+
+  | CRITIQUE       | WHAT IT CLAIMS                     | HITS ASSUMPTION  |
+  +----------------+------------------------------------+------------------+
+  | DEPENDENCY     | underdevelopment can be PRODUCED   | (1) and (2)      |
+  |                | through unequal incorporation      |                  |
+  +----------------+------------------------------------+------------------+
+  | POST-          | by what AUTHORITY is a society     | (5)              |
+  | DEVELOPMENT    | defined as DEFICIENT?              |                  |
+  +----------------+------------------------------------+------------------+
+  | CULTURAL /     | rejects HOMOGENISATION of the      | (3)              |
+  | GANDHIAN       | good life                          |                  |
+  +----------------+------------------------------------+------------------+
+  | MARXIST        | who OWNS production and            | (2) and (4)      |
+  |                | APPROPRIATES the gains?            |                  |
+  +----------------+------------------------------------+------------------+
+  | AMBEDKARITE    | does modernisation DISMANTLE       | the whole        |
+  | (scripts omit  | graded hierarchy or merely         | package          |
+  |  this one)     | REORGANISE it?                     |                  |
+  +----------------+------------------------------------+------------------+
+        |
+        v
+COUNTER-OBJECTION -> if no comparable sequence exists, CROSS-SOCIETAL
+  COMPARISON becomes impossible and "development" collapses.
+REPLY -> what is denied is a SINGLE UNIVERSAL ROUTE, not comparability. Being
+  nourished, schooled, safe from premature death and able to participate are
+  comparable WITHOUT one path. RESIDUAL: the floor's boundary is contested.
+        |
+        v
+VERDICT -> MODERNISATION NAMES REAL STRUCTURAL TRANSFORMATIONS BUT IS NOT A
+  NEUTRAL OR INEVITABLE LAW. ITS INSTITUTIONS COUNT AS PROGRESS ONLY WHEN THEY
+  ENLARGE EQUAL CAPABILITY, DEMOCRATIC AGENCY AND ECOLOGICAL SECURITY.
 
-ASCII MASTER FLOW — PANEL 12/12: The directive decoder and complete development answer spine
-READ THE DIRECTIVE FIRST
- explain -> conception/components/distinction/example
- discuss -> conception/rival/objection/reply/verdict
- evaluate -> standard/application/counter-case/judgment
- necessary/sufficient -> test EACH separately, then modal verdict
- agree -> qualified commitment first; reconcile -> collision plus conditions;
- causal -> mechanism plus defeater
+
+ASCII MASTER FLOW — PANEL 7/22: Human development -- Haq, the UNDP framework and its limits
+THE SHIFT: A CHANGE IN THE **UNIT OF ACCOUNT**, NOT A WIDER INDEX
+  BEFORE -> the unit is THE ECONOMY: "how much is being produced?"
+  AFTER  -> the unit is THE PERSON: "how long, how informed and how materially
+            secure are the lives being lived?"
+  DIMENSIONS: LONGEVITY | KNOWLEDGE | A DECENT MATERIAL STANDARD
+  ASSOCIATED WITH: MAHBUB UL HAQ and the UNDP human-development framework
         |
         v
-UNIVERSAL SPINE
-  1 conception under dispute -> 2 provisional thesis -> 3 mechanism/conversion conditions ->
-  4 named evidence or correctly classified Indian illustration -> 5 strongest objection ->
-  6 reply + residual limit -> 7 distribution: benefit/cost/decision -> 8 graded verdict
+THE ACHIEVEMENT -- WRITE IT IN THESE WORDS
+  +----------------------------------------------------------------------+
+  | IT BREAKS THE IDENTITY BETWEEN INCOME AND WELL-BEING. TWO SOCIETIES   |
+  | WITH THE SAME OUTPUT PER HEAD CAN DIFFER SHARPLY IN HOW LONG PEOPLE   |
+  | LIVE AND WHAT THEY KNOW -- AND THAT DIFFERENCE IS NOW VISIBLE.        |
+  +----------------------------------------------------------------------+
         |
         v
-FINAL CONTROL -> means != conversion conditions != final values; statute/judgment/constitutional
-commitment establish legal status, never implementation, empirical effect
-or philosophical correctness.
+FOUR RESIDUAL CONCEALMENTS
+  DISTRIBUTION ........... a composite rises while a group inside it stands still
+  FREEDOM ................ political liberty and voice are NOT among the
+                           dimensions
+  GENDER AND DISABILITY .. conversion differences between persons are averaged
+                           away
+  ECOLOGICAL DEPENDENCE .. the stock drawn down to finance the gain never appears
+        |
+        v
+POSITION ON THE LADDER -> R3. DECISIVE OVER R1 AND R2; INCOMPLETE AGAINST R4
+  IN TWO NAMED RESPECTS:
+    (a) it records ACHIEVED STATES (functionings), not REAL OPPORTUNITIES
+        (capabilities)
+    (b) it counts people as BENEFICIARIES whose outcomes are noted, not as
+        AGENTS whose reasoning is part of the good measured
+  CONSEQUENCE FOR 2022: the stem names SOCIAL PROGRESS SEPARATELY because human
+  development is itself only a rung. Treating R3 as the terminus concedes half
+  the question.
+  DISCIPLINE: NO INDEX SCORE, RANK OR FIGURE IS REQUIRED ANYWHERE.
+
+
+ASCII MASTER FLOW — PANEL 8/22: Sen I -- five terms and three kinds of conversion factor
+THE CHAIN
+  RESOURCE ----> CONVERSION FACTORS ----> CAPABILITY ----(choice)----> FUNCTIONING
+  a means whose   PERSONAL: body, age,     the REAL                    an ACHIEVED
+  value depends   impairment, metabolism   OPPORTUNITY to              being or
+  on what it can  ENVIRONMENTAL: climate,  achieve                     doing --
+  be turned into  terrain, infrastructure  ALTERNATIVE                 nourished,
+                  SOCIAL: norms, safety,   FUNCTIONINGS                moving,
+                  discrimination, public                               participating
+                  provision
+        |
+        v
+THE WHOLE ARGUMENT IN ONE SENTENCE
+  +----------------------------------------------------------------------+
+  | EQUAL RESOURCES YIELD UNEQUAL FREEDOM, BECAUSE BODIES, ENVIRONMENTS   |
+  | AND SOCIAL NORMS DIFFER.                                              |
+  +----------------------------------------------------------------------+
+        |
+        v
+THE TWO TERMS SCRIPTS DROP
+  UTILITY .... satisfaction. IT ADAPTS DOWNWARD under deprivation, so it can
+               CERTIFY the deprivation it measures.
+  AGENCY ..... the ability to pursue goals ONE HAS REASON TO VALUE, INCLUDING
+               GOALS BEYOND ONE'S OWN WELFARE. A person can be well-fed and
+               still not be an agent. DROPPING THE NON-WELFARE CLAUSE COLLAPSES
+               AGENCY INTO SELF-INTERESTED CHOICE.
+        |
+        v
+THREE CANDIDATE SPACES, AND WHY TWO FAIL
+  RESOURCES (means) ....... ignores CONVERSION differences between persons
+  UTILITY (mental states) . ADAPTS to deprivation; respects the report and
+                            endorses the injustice
+  CAPABILITY (freedom) .... SEN'S ANSWER: counts what persons can ACTUALLY do
+                            and leaves the CHOOSING to them
+        |
+        v
+THE DISTINCTION THAT DECIDES MOST QUESTIONS
+  FASTING and STARVING = SAME FUNCTIONING (undernourished), RADICALLY DIFFERENT
+  CAPABILITY SETS. The first has the option to eat and declines; the second has
+  no option. CAPABILITY IS THE OPPORTUNITY SET, NOT THE OUTCOME CHOSEN FROM IT.
+OBJECTION -> opportunity sets are COUNTERFACTUAL and cannot be observed.
+REPLY -> conversion factors ARE observable -- impairment, distance,
+  infrastructure, discriminatory norms, public provision -- and license
+  inferences beyond the outcome. RESIDUAL: SELECTION of capabilities is contested.
+
+
+ASCII MASTER FLOW — PANEL 9/22: Sen II -- freedom as end and means; the five instrumental freedoms
+THE FIVE-STEP ARGUMENT
+  1. equal resources yield UNEQUAL FREEDOM
+  2. UTILITY CAN ADAPT to deprivation
+  3. therefore assess REAL OPPORTUNITIES, not goods held or happiness reported
+  4. the instrumental freedoms REINFORCE ONE ANOTHER
+  5. FREEDOM IS BOTH THE END AND A MEANS OF DEVELOPMENT
+        |
+        v
+THE FIVE INSTRUMENTAL FREEDOMS -- AND WHY THEY ARE A CIRCLE, NOT A LIST
+  POLITICAL FREEDOMS ....... voice, dissent, scrutiny, forcing a public response
+  ECONOMIC FACILITIES ...... access to resources, exchange, work, credit, markets
+  SOCIAL OPPORTUNITIES ..... schooling, health care, public provision that
+                             RAISES CONVERSION
+  TRANSPARENCY GUARANTEES .. dealing with one another under disclosure -- trust
+  PROTECTIVE SECURITY ...... the net that stops an ordinary shock becoming
+                             destitution
+  EACH RAISES THE VALUE OF THE OTHERS: schooling raises the usefulness of voice;
+  voice forces the provision that produces schooling; transparency makes economic
+  facility usable; protective security is what lets a person exercise any of them.
+        |
+        v
+THE TWO ROLES -- WRITE BOTH OR LOSE THE ARGUMENT
+  +-----------------------------+-------------------------------------------+
+  | CONSTITUTIVE (the END)      | INSTRUMENTAL (the MEANS)                  |
+  | being able to participate,  | participation improves INFORMATION,       |
+  | be schooled, appear in      | ACCOUNTABILITY and the accuracy of public |
+  | public without shame IS     | decisions, and so PRODUCES other freedoms |
+  | PART OF A DEVELOPED LIFE    |                                           |
+  +-----------------------------+-------------------------------------------+
+  INSTRUMENTAL HALF ALONE -> FREEDOM BECOMES TRADEABLE -> it may be suspended
+  whenever output would be larger without it. THAT IS THE AUTHORITARIAN-
+  DEVELOPMENT ARGUMENT, AND THE CONSTITUTIVE HALF IS WHAT DEFEATS IT.
+        |
+        v
+CONSEQUENCE -> development CANNOT be modelled as a trade-off in which liberty is
+  exchanged for output, because the freedoms are COMPLEMENTS, not competitors
+  for a fixed budget.
+
+
+ASCII MASTER FLOW — PANEL 10/22: Adaptive preference and the paternalism discipline
+THE MECHANISM, STEP BY STEP
+  long deprivation
+        -> EXPECTATIONS ADJUST DOWNWARD
+        -> the deprivation is no longer EXPERIENCED as a loss
+        -> SATISFACTION IS REPORTED
+        -> a welfare metric RECORDS CONTENTMENT
+        -> THE INJUSTICE IS CERTIFIED BY THE VERY RESPECT SHOWN TO THE REPORT
+        |
+        v
+WHAT THE CLAIM IS -- AND IS NOT
+  IT IS ....... a METHODOLOGICAL claim about what a satisfaction metric can
+                record
+  IT IS NOT ... a claim that the deprived DO NOT KNOW WHAT IS GOOD FOR THEM
+  THE CONDESCENDING FORMULATION CHANGES THE THESIS RATHER THAN EXPRESSING IT.
+        |
+        v
+THE DANGER IN THE REPLY -> overriding reported preference substitutes the
+  ANALYST'S judgment for the PERSON'S. That is PATERNALISM -- the very thing the
+  framework exists to avoid.
+        |
+        v
+THE DISCIPLINE -> SHIFT THE EVALUATIVE SPACE TO OPPORTUNITY. Capability protects
+  the OPTION and leaves the CHOOSING where it belongs. Do NOT correct the
+  person's wants.
+        |
+        v
+SELF-UNDERMINING OBJECTION -> if the preferences of the deprived are unreliable,
+  so is their PUBLIC REASONING -- on which Sen's refusal to fix a list depends.
+REPLY -> adaptation affects reported SATISFACTION WITH A CONDITION; it does not
+  disable REASONING ABOUT ALTERNATIVES once alternatives are visible and voice is
+  available. The remedy is INTERNAL: expand information, protect dissent, secure
+  the conditions under which preferences can be REVISED -- which is exactly what
+  transparency and political freedom do in Panel 9.
+RESIDUAL -> where deprivation and unequal power are entrenched, those conditions
+  may not obtain before the selection is made. THAT IS WHY NUSSBAUM'S THRESHOLD
+  EXISTS (Panel 11).
+
+
+ASCII MASTER FLOW — PANEL 11/22: Nussbaum -- the dignity threshold and the live dispute
+ONE FRAMEWORK, TWO USES
+  +--------------------------------+--------------------------------------+
+  | SEN'S USE                      | NUSSBAUM'S USE                       |
+  | an EVALUATIVE SPACE plus a     | a DETERMINATE ACCOUNT of CENTRAL     |
+  | METHOD: identify relevant      | HUMAN CAPABILITIES plus a THRESHOLD  |
+  | capabilities through PUBLIC    | each person must reach for a life    |
+  | REASONING, case by case        | COMPATIBLE WITH DIGNITY              |
+  +--------------------------------+--------------------------------------+
+  | STRENGTH: avoids PATERNALISTIC | STRENGTH: resists societies that     |
+  | CLOSURE                        | publicly reason INSIDE OPPRESSIVE    |
+  |                                | ADAPTIVE PREFERENCES                 |
+  +--------------------------------+--------------------------------------+
+  | WEAKNESS: public reasoning     | WEAKNESS: a universal list can       |
+  | under UNEQUAL POWER may select | IMPOSE ONE CONCEPTION of a good life |
+  | badly                          |                                      |
+  +--------------------------------+--------------------------------------+
+  EACH IS STRONGEST EXACTLY WHERE THE OTHER IS WEAKEST. THE DISPUTE IS ABOUT
+  WHAT THE FRAMEWORK IS **FOR**, NOT ABOUT HOW MANY CAPABILITIES THERE ARE.
+        |
+        v
+THE REPLY THAT MAKES A THRESHOLD DEFENSIBLE -- MEMORISE
+  +----------------------------------------------------------------------+
+  | CAPABILITIES PROTECT OPPORTUNITIES, NOT COMPULSORY FUNCTIONINGS. THE  |
+  | STATE SECURES THE OPTION; THE PERSON DECIDES WHETHER TO TAKE IT. AND  |
+  | POLITICAL SPECIFICATION REMAINS OPEN TO DEMOCRATIC INTERPRETATION.    |
+  +----------------------------------------------------------------------+
+        |
+        v
+THREE PROPERTIES OF A THRESHOLD THAT DECIDE ANSWERS
+  NOT A MAXIMISING TARGET .. it does not say "more is always better"
+  NOT AGGREGATIVE .......... a gain for many does not offset ONE person left
+                             below the line
+  A FLOOR PER PERSON ....... which is why the claim is one of JUSTICE and not
+                             of benevolence
+        |
+        v
+WHERE IT BITES IN THIS CLAUSE
+  TRIBAL / COMMUNITY STEMS . a group's authority over its members is BOUNDED by
+                             each member's threshold: EXIT, DISSENT, GENDER
+                             JUSTICE
+  WELFARE STEMS ............ "they are satisfied with what they have" cannot
+                             defeat a threshold claim
+  TRADE-OFF STEMS .......... a threshold cannot be traded against aggregate
+                             output, because it is not an aggregate quantity
+DILEMMA -> a threshold is either TRIVIAL (a basic-needs floor) or TYRANNICAL
+  (one culture's flourishing). MIDDLE: a threshold of OPTIONS is more demanding
+  than basic needs (it requires CONVERSION conditions) and less intrusive than
+  prescribed functionings. RESIDUAL: WHO FIXES THE FLOOR remains unsettled.
+
+
+ASCII MASTER FLOW — PANEL 12/22: Dependency and post-development -- two attacks, one middle path
+TARGET -> the modernisation claim that underdevelopment is an EARLIER STAGE on
+  ONE UNIVERSAL PATH, curable by DIFFUSION and EXPERT DIRECTION.
+        |
+        +-------------------------------+
+        |                               |
+  DEPENDENCY                      POST-DEVELOPMENT
+  an ECONOMIC-STRUCTURAL claim    an EPISTEMIC-POLITICAL claim
+  "Underdevelopment can be        "By what AUTHORITY does an external expert
+   PRODUCED through UNEQUAL        define a whole society as DEFICIENT and
+   INCORPORATION into global       impose ONE MODEL OF MODERNITY as the cure?"
+   economic relations, rather
+   than being a mere earlier      -> attacks the WARRANT, not the economics
+   stage."                        -> the question is WHO DIAGNOSES, on whose
+                                     behalf
+  ATTACKS assumptions (1),(2)     ATTACKS assumption (5), and behind it (3)
+  REMEDY POINTS TO: terms of      REMEDY POINTS TO: who decides, and whose
+  incorporation, ownership of     account of their own interests is
+  gains                           authoritative
+        |                               |
+        +---------------+---------------+
+                        v
+SHARED OBJECTION -> romanticising local life IGNORES INTERNAL HIERARCHY,
+  POVERTY and REAL DEMANDS for education, health and mobility.
+SHARED REPLY -> the strongest critique rejects IMPOSED UNIFORMITY, not EVERY
+  MATERIAL IMPROVEMENT. LOCAL VOICE MUST BE JOINED TO UNIVERSAL DIGNITY.
+                        |
+                        v
+THE MIDDLE PATH -- THE POSITION TO DEFEND
+  PLURAL DEVELOPMENT UNDER UNIVERSAL CONSTRAINTS
+  MANY ROUTES | ONE FLOOR: dignity, freedom from severe deprivation, equal civic
+  standing, ecological responsibility
+        |
+        v
+WHAT EACH CRITIQUE CANNOT DO
+  DEPENDENCY ......... can UNDERSTATE domestic institutional and political
+                       factors; not a complete explanation of any case
+  POST-DEVELOPMENT ... has NO POSITIVE PROGRAMME; refusing a diagnosis does not
+                       supply schools, clinics or security
+SELF-REFUTATION CHARGE -> post-development itself prescribes from outside.
+REPLY -> the disciplined claim is PROCEDURAL: the community's own account is not
+  to be DISPLACED WITHOUT ARGUMENT, and the BURDEN OF JUSTIFICATION falls on the
+  party proposing intervention. RESIDUAL: WHO SPEAKS FOR THE COMMUNITY -- which
+  is why the threshold (Panel 11) and exit/dissent (Panel 21) are needed.
+
+
+ASCII MASTER FLOW — PANEL 13/22: Sustainable development -- four bases, four specifications
+THE FORMULA -> present improvement that does NOT DESTROY the ecological
+  conditions and OPTIONS of future persons. Built into the concept by the
+  BRUNDTLAND REPORT (1987). PARAPHRASE IT; NEVER REPRODUCE IT VERBATIM.
+        |
+        v
+FOUR PHILOSOPHICAL BASES
+  1 INTERGENERATIONAL JUSTICE ..... duties to those not yet born -- JUSTICE, not
+                                    benevolence
+  2 PRECAUTION UNDER IRREVERSIBLE
+    RISK .......................... where the loss cannot be undone, UNCERTAINTY
+                                    ARGUES FOR RESTRAINT, not for waiting
+  3 LIMITS TO SUBSTITUTION ........ money cannot stand in for every ecological
+                                    system; some stocks and sinks have NO
+                                    SUBSTITUTE
+  4 DUTIES TOWARD THE VULNERABLE .. plus the POSSIBLE INTRINSIC VALUE of
+                                    non-human life
+        |
+        v
+THE OBJECTION THAT MUST BE CONCEDED -> the concept is VAGUE and can legitimise a
+  "GREEN" VERSION OF THE SAME GROWTH MODEL. "Sustainable" becomes an adjective
+  attached to whatever was already planned.
+        |
+        v
+THE REPLY -> SPECIFY FOUR THINGS OR THE WORD DOES NO WORK
+  THRESHOLDS | DISTRIBUTION | PARTICIPATION | NON-SUBSTITUTABLE ECOLOGICAL LIMITS
+        |
+        v
+OBJECTION -> restraint constrains exactly the WRONG SOCIETIES: those below a
+  deprivation threshold are denied what the affluent already took.
+REPLY -> the objection defeats a UNIFORM prescription and fails against the
+  correct ASYMMETRIC one. DISTRIBUTION is one of the four specifications and is
+  the one most often omitted.
+RESIDUAL -> the asymmetry names a principle without settling TRANSITION COSTS:
+  who finances expansion below the threshold, over what period, with what
+  enforceable commitment.
+
+
+ASCII MASTER FLOW — PANEL 14/22: The five bounded evaluative lenses and the fence
+USE AS CRITERIA. NEVER RE-EXPOUND THE DOCTRINE. THE FENCE IS EXAMINABLE.
+  +--------------+------------------------+------------------------+---------+
+  | LENS         | DEVELOPMENTAL FOCUS    | ITS WARNING            | STATUS  |
+  +--------------+------------------------+------------------------+---------+
+  | LIBERAL /    | resources, opportunity,| FORMAL opportunity may | COMPARE |
+  | WELFARE      | rights, public goods,  | coexist with UNEQUAL   | ONLY    |
+  |              | individual choice      | CONVERSION             |         |
+  +--------------+------------------------+------------------------+---------+
+  | MARXIST      | production, class      | growth can REPRODUCE   | COMPARE |
+  |              | power, alienation,     | EXPLOITATION and       | ONLY    |
+  |              | control of surplus     | commodity domination   |         |
+  +--------------+------------------------+------------------------+---------+
+  | HUMANISTIC / | each person as an END  | beneficiaries COUNTED  | FULL    |
+  | CAPABILITY   | and an AGENT with real | while AGENCY IS DENIED | OWNER   |
+  |              | freedoms               |                        | HERE    |
+  +--------------+------------------------+------------------------+---------+
+  | GANDHIAN     | need, non-violence,    | SCALE and MULTIPLIED   | DIRECT  |
+  |              | local self-rule,       | WANTS can CENTRALISE   | OWNER   |
+  |              | dignity of labour,     | DOMINATION             | (2020)  |
+  |              | restraint              |                        |         |
+  +--------------+------------------------+------------------------+---------+
+  | AMBEDKARITE  | constitutional rights, | a village or growth    | BOUNDED |
+  | BRIDGE       | social democracy,      | strategy is NOT        | BRIDGE  |
+  |              | mobility, destruction  | progress if CASTE      |         |
+  |              | of graded hierarchy    | POWER SURVIVES         |         |
+  +--------------+------------------------+------------------------+---------+
+        |
+        v
+CONTROLLING SENTENCE -> THE MATRIX SUPPLIES EVALUATION CRITERIA, NOT FIVE
+  COMPLETE IDEOLOGIES. IMPORTING THE FULL DOCTRINE OF ANY OF THEM BREACHES THE
+  FENCE AND WILL BE READ AS AN OFF-TOPIC ANSWER.
+        |
+        v
+HOW TO USE IT -> ONE LENS AS THE PRIMARY STANDARD, A SECOND AS THE CRITICAL
+  COUNTERWEIGHT, THE REST ROUTED. TWO LENSES FULLY WORKED BEAT FIVE NAMED.
+
+
+ASCII MASTER FLOW — PANEL 15/22: Social progress -- weak teleology and four conceptions
+WHAT KIND OF CLAIM IS "THIS IS PROGRESS"?
+  WEAK TELEOLOGY .... directional AFTER the valued ends are stated  <- DEFEND
+  STRONG TELEOLOGY .. history moves that way BY ITSELF              <- REJECT
+  DOCTRINE -> SOCIAL PROGRESS is JUSTIFIED IMPROVEMENT in the quality of social
+  relations, institutions and human lives, assessed through FREEDOM, EQUALITY,
+  JUSTICE, DIGNITY, PARTICIPATION, SECURITY and SUSTAINABILITY.
+        |
+        v
+THE ARGUMENT AGAINST INEVITABILITY -- FOUR STEPS
+  1. TECHNOLOGY enlarges capacities for BOTH CARE AND DESTRUCTION
+  2. INSTITUTIONS distribute its CONTROL and its RISKS
+  3. MORAL LEARNING CAN BE REVERSED
+  4. THEREFORE progress requires AGENCY, CONFLICT, INSTITUTIONS AND JUDGMENT
+  HISTORICAL DEFEATER -> twentieth-century war, genocide and ecological crisis
+  break any inference from KNOWLEDGE or TECHNOLOGY to MORAL IMPROVEMENT.
+        |
+        v
+FOUR CONCEPTIONS -- EACH TRUE OF SOMETHING, NONE COMPLETE
+  +-----------------+---------------------------+--------------------------+
+  | CONCEPTION      | STRENGTH                  | FAILURE                  |
+  +-----------------+---------------------------+--------------------------+
+  | LINEAR /        | explains LEARNING and     | mistakes CAPACITY for    |
+  | CUMULATIVE      | institutional ACCUMULATION| MORAL IMPROVEMENT, and   |
+  |                 |                           | one route for a          |
+  |                 |                           | universal sequence       |
+  +-----------------+---------------------------+--------------------------+
+  | CYCLICAL        | resists COMPLACENT        | can become FATALISTIC    |
+  |                 | inevitability             | and understate reform    |
+  +-----------------+---------------------------+--------------------------+
+  | DIALECTICAL /   | explains CONFLICT and     | may impose a SINGLE      |
+  | CONFLICTUAL     | DISCONTINUITY             | historical direction     |
+  +-----------------+---------------------------+--------------------------+
+  | PLURAL /        | respects CULTURE,         | risks RELATIVISM and     |
+  | NON-LINEAR      | CONTINGENCY,              | loss of common standards |
+  |                 | REVERSIBILITY             |                          |
+  +-----------------+---------------------------+--------------------------+
+        |
+        v
+CONTROLLING POSITION -> DIRECTIONAL ONLY AFTER THE VALUED ENDS ARE STATED, AND
+  PLURAL ONLY WITHIN A UNIVERSAL FLOOR OF: DIGNITY | FREEDOM FROM SEVERE
+  DEPRIVATION | EQUAL CIVIC STANDING | ECOLOGICAL RESPONSIBILITY.
+RELATIVIST OBJECTION -> "improvement" reports the observer's preferences.
+REPLY -> some criteria have CROSS-CULTURAL FORCE, and the clearest are NEGATIVE:
+  no society's members ask to be starved or degraded. RESIDUAL: reasonable
+  disagreement persists ABOVE the floor and about its BOUNDARY.
+
+
+ASCII MASTER FLOW — PANEL 16/22: The seven criteria and the modal test (2024)
+SEVEN CRITERIA, EACH AS A QUESTION YOU CAN PUT TO A CASE
+  FREEDOM ............. do people have REAL OPTIONS and VOICE?
+  EQUALITY ............ are STATUS and OPPORTUNITY less structured by DOMINATION?
+  JUSTICE ............. are BENEFITS, BURDENS and PROCEDURES defensible?
+  DIGNITY ............. are persons protected from HUMILIATION and EXCLUSION?
+  PARTICIPATION ....... do AFFECTED PEOPLE SHAPE DECISIONS?
+  SUSTAINABILITY ...... are FUTURE and ECOLOGICAL conditions preserved?
+  FRATERNITY /
+  SOLIDARITY .......... can citizens relate as SOCIAL EQUALS?
+  NO SINGLE AGGREGATE SETTLES ALL SEVEN. PUBLIC REASONING IS PART OF PROGRESS.
+        |
+        v
+RUN THE TWO MODAL TESTS SEPARATELY -- THEY ARE INDEPENDENT
+  NECESSARY  = the ABSENCE BLOCKS the result
+  SUFFICIENT = the PRESENCE SECURES the result
+  A CONDITION MAY BE EITHER, BOTH OR NEITHER. "IT IS VERY IMPORTANT" ANSWERS
+  NEITHER AND SCORES ALMOST NOTHING.
+        |
+        v
+TEST 1 -- IS ECONOMIC DEVELOPMENT NECESSARY?
+  FOR: severe deprivation restricts HEALTH, EDUCATION and AGENCY, and every
+       other criterion presupposes persons CAPABLE OF ACTING
+  PRECISION: "economic development" is TOO BROAD to be logically necessary in
+       EVERY conceivable community
+  EXAM-SAFE CLAIM: ADEQUATE MATERIAL CAPABILITIES ARE NECESSARY
+  -> VERDICT: NECESSARY IN A **THRESHOLD** FORM. WRITE THE WORD "THRESHOLD".
+        |
+        v
+TEST 2 -- IS IT SUFFICIENT?
+  ANSWER: NO, decisively
+  COUNTER-CASE: WEALTH CAN COEXIST WITH EXCLUSION, AUTHORITARIANISM, GENDER
+       HIERARCHY AND ECOLOGICAL DESTRUCTION
+  WHY IT IS AVAILABLE: progress is assessed across SEVEN criteria; improvement
+       on the material dimension leaves SIX untouched
+  -> VERDICT: NOT SUFFICIENT, IN NO FORM. ONE CLEAN COUNTER-CASE SUFFICES; NO
+     SOCIETY OR FIGURE IS TO BE NAMED.
+        |
+        v
+COMBINED VERDICT (answers the 2024 stem)
+  +----------------------------------------------------------------------+
+  | ECONOMIC DEVELOPMENT IS GENERALLY AN IMPORTANT **ENABLING CONDITION** |
+  | BUT IS NEITHER CONCEPTUALLY IDENTICAL WITH NOR SUFFICIENT FOR SOCIAL  |
+  | PROGRESS: NECESSARY ONLY IN A THRESHOLD FORM, SUFFICIENT IN NO FORM.  |
+  +----------------------------------------------------------------------+
+  10+5 SPLIT -> TEN for the two tests run separately; FIVE for the graded
+  verdict plus the point that IDENTITY and ENABLING are DIFFERENT RELATIONS.
+  RESIDUAL -> WHERE THE THRESHOLD SITS is not settled and varies with conversion
+  conditions. Concede it before the examiner does.
+
+
+ASCII MASTER FLOW — PANEL 17/22: Redistribution, recognition and the agency ladder
+TWO DEMANDS THAT CANNOT SUBSTITUTE FOR EACH OTHER
+  REDISTRIBUTION of RESOURCES -- what people HAVE
+  RECOGNITION of EQUAL STATUS -- how people are REGARDED
+  WITHOUT RECOGNITION -> provision becomes PATERNALISM (goods to objects of
+                         policy)
+  WITHOUT RESOURCES ---> recognition becomes SYMBOLIC (standing that cannot be
+                         acted on)
+        |
+        v
+THE FOUR-WAY GRID -- CLASSIFY ANY CASE IN ONE LINE
+  +-------------------+------------------------+------------------------+
+  |                   | RECOGNITION PRESENT    | RECOGNITION ABSENT     |
+  +-------------------+------------------------+------------------------+
+  | RESOURCES PRESENT | PROGRESS on this axis  | PATERNALISM            |
+  +-------------------+------------------------+------------------------+
+  | RESOURCES ABSENT  | SYMBOLIC EQUALITY      | COMPOUNDED             |
+  |                   |                        | DISADVANTAGE           |
+  +-------------------+------------------------+------------------------+
+  INHERITED-POWER TEST -> GROWTH REDISTRIBUTES INCOME AT BEST. IT DOES NOT
+  AUTOMATICALLY ALTER INHERITED SOCIAL POWER. IN INDIA, CASTE, GENDER AND TRIBAL
+  STATUS SHOW THIS. USED AS CRITERIA; THE DOCTRINES ARE ROUTED.
+  THE TWO ARE INDEPENDENT, NOT SEQUENTIAL: humiliation does not wait for
+  prosperity, and provision without standing ENTRENCHES the relation.
+        |
+        v
+THE FIVE-RUNG AGENCY LADDER
+  5 EMPOWERMENT .... DURABLE CAPABILITY and INSTITUTIONAL POWER to shape
+                     options, resources and rules -- including the capacity to
+                     DISSENT, EXIT, ORGANISE and DEMAND REASONS.
+                     CANNOT BE INFERRED FROM ATTENDANCE OR NOMINAL REPRESENTATION
+  4 CO-DECISION .... SHARED AUTHORITY over alternatives | needs clear
+                     responsibility and rights safeguards
+  3 PARTICIPATION .. CONTINUING ROLE in design, implementation, review | LOCAL
+                     ELITES can monopolise representation
+  2 CONSULTATION ... opportunity to EXPRESS preferences | may simply be IGNORED
+  1 INFORMATION .... notice and intelligible reasons | ONE-WAY DISCLOSURE IS
+                     NOT VOICE
+        |
+        v
+TWO REASONS PARTICIPATION MATTERS -- WRITE BOTH
+  INSTRUMENTAL: better INFORMATION and ACCOUNTABILITY
+  CONSTITUTIVE: HAVING A VOICE IS ITSELF PART OF A DEVELOPED HUMAN LIFE
+                <- the half that makes participation NON-TRADEABLE
+OBJECTION -> consultation DELAYS urgent projects and lets LOCAL ELITES VETO
+  wider welfare.
+REPLY -> INCLUSIVE DESIGN | REASONS | REPRESENTATION | REVIEW. Capture is a
+  FAILURE OF INCLUSION -- an argument for MORE participation, not less, since
+  deciding without the affected RELOCATES the capture.
+THE TEST -> WHO WAS IN THE ROOM? WHO COULD HAVE SAID NO? WHAT ALTERNATIVES WERE
+  ON THE TABLE? COULD THE DECISION HAVE BEEN DIFFERENT? IF NOT -- IT WAS AT MOST
+  CONSULTATION. RESIDUAL: the genuinely URGENT and IRREVERSIBLE decision, where
+  post-hoc review cannot restore what was foreclosed.
+
+
+ASCII MASTER FLOW — PANEL 18/22: Technology and ethical standards (2019 Q2(c), 15)
+THE STEM IS A CAUSAL CLAIM -> SUPPLY A MECHANISM AND A DEFEATER, OR IT IS
+  ASSERTION.
+CORE PROPOSITION -> TECHNOLOGY CHANGES CAPACITIES AND SOCIAL RELATIONS. IT DOES
+  NOT SUPPLY ITS OWN ENDS.
+        |
+        v
+THE SYMMETRY -- EVERY CAPACITY CUTS BOTH WAYS IN THE SAME RESPECT
+  +--------------------------------+-----------------------------------------+
+  | OPTIMIST CASE                  | CRITICAL CASE                           |
+  +--------------------------------+-----------------------------------------+
+  | communication can WIDEN        | surveillance and manipulation can       |
+  | KNOWLEDGE AND SYMPATHY         | INTENSIFY DOMINATION                    |
+  +--------------------------------+-----------------------------------------+
+  | medicine REDUCES SUFFERING     | ACCESS can remain UNEQUAL               |
+  +--------------------------------+-----------------------------------------+
+  | productivity can REDUCE        | automation can DISPLACE and DESKILL     |
+  | DRUDGERY                       |                                         |
+  +--------------------------------+-----------------------------------------+
+  | transparency tools can AID     | information systems can REPRODUCE BIAS  |
+  | ACCOUNTABILITY                 |                                         |
+  +--------------------------------+-----------------------------------------+
+  THESE ARE NOT A "BALANCED VIEW". THEY ARE ONE POINT MADE FOUR TIMES: THE
+  DIRECTION OF THE EFFECT IS FIXED BY **WHO CONTROLS**, **WHO CAN ACCESS**, AND
+  **TO WHAT END** -- NONE OF WHICH THE TECHNOLOGY SUPPLIES.
+        |
+        v
+FOUR CONVERSION CONDITIONS -> ETHICAL PURPOSES | FAIR ACCESS | ACCOUNTABILITY |
+  HUMAN CONTROL
+VERDICT -> TECHNICAL PROGRESS BECOMES SOCIAL PROGRESS ONLY WHEN GOVERNED BY
+  THOSE FOUR.
+        |
+        v
+THE CONCESSION THAT LIFTS THE ANSWER -> THE RELATION IS NOT NULL. TECHNOLOGY
+  RESHAPES **WHICH** MORAL PROBLEMS ARISE -- new occasions for choice, new
+  possible harms, new meaningful duties. WHAT IT DOES NOT DO IS SUPPLY THE
+  CRITERION BY WHICH ANY OF THEM IS SETTLED.
+BUILT-IN-TENDENCY OBJECTION -> a capacity requiring CENTRALISED CONTROL to
+  operate will produce centralisation whoever owns it.
+REPLY -> ABSORB IT: the claim is that technologies are NOT SELF-JUSTIFYING, so a
+  built-in tendency is itself an object of assessment BEFORE ADOPTION -- which is
+  what "human control" among the four conditions means.
+RESIDUAL -> assessment before adoption is hard: effects are often unknown until
+  deployment is wide, and by then arrangements are costly to reverse.
+DISCIPLINE -> NAME NO TECHNOLOGY, PLATFORM, COMPANY, PROGRAMME OR EPISODE.
+LINK -> this is PANEL 15's non-inevitability argument with one instance
+  substituted.
+
+
+ASCII MASTER FLOW — PANEL 19/22: Skill education (2023 Q2(c), 15) -- capability, not employability
+"EVALUATE" -> NAME A STANDARD, APPLY IT, CONCEDE THE COUNTER-CASE, GRADE THE
+  VERDICT. THE STANDARD HERE IS CAPABILITY AND AGENCY, NOT EMPLOYMENT.
+        |
+        v
+THE POSITIVE ARGUMENT -- FOUR STEPS, STATED AT ITS BEST
+  1. CAPABILITY REQUIRES EFFECTIVE MEANS, not formal opportunity alone
+  2. RELEVANT SKILLS improve CONVERSION of education into WORK and AGENCY
+  3. PRODUCTIVE PARTICIPATION enlarges SOCIAL CONTRIBUTION and BARGAINING POWER
+  4. THEREFORE skill education CAN enhance development
+        |
+        v
+FOUR LIMITS -- EACH ONE IS A PARAGRAPH
+  1 SKILLS WITHOUT DECENT WORK -> FRUSTRATED CAPABILITY: the capacity is CREATED
+    AND THEN BLOCKED. A distinctive harm, not a mere absence of benefit.
+  2 NARROW EMPLOYABILITY -> displaces CRITICAL, CIVIC and HUMANISTIC education;
+    equips a WORKER while DISEQUIPPING A CITIZEN
+  3 UNEQUAL ACCESS -> who reaches the high-return track is itself structured by
+    inherited advantage; the programme REPRODUCES the hierarchy it should relax
+  4 OBSOLESCENCE -> a terminal qualification expires; the durable capability is
+    the CAPACITY TO RE-LEARN
+        |
+        v
+TWO MIRROR ERRORS
+  "SKILL EDUCATION IS SUFFICIENT" ...... defeated by limit 1
+  "SKILL EDUCATION IS MERELY
+   INSTRUMENTAL" ....................... defeated by DIGNITY OF LABOUR --
+                                         competence and self-respect are PART OF
+                                         a developed life
+        |
+        v
+THE AGENCY TEST -> DOES THE SKILL ENLARGE THE LEARNER'S **BARGAINING POWER**, OR
+  ONLY HER **USEFULNESS TO AN EMPLOYER**? If only the second, the person has been
+  made a more productive INSTRUMENT and not a freer AGENT -- development counted
+  in the wrong informational space.
+POSITION -> NEITHER SUFFICIENT NOR MERELY INSTRUMENTAL: COMBINE LIVELIHOOD,
+  ADAPTABILITY, DIGNITY OF LABOUR AND CRITICAL CITIZENSHIP.
+LUXURY OBJECTION -> for the workless, employability now beats citizenship later.
+REPLY -> they are NOT SUBSTITUTES: a narrowly trained worker who is displaced
+  loses the WHOLE of her acquired capability; general reasoning and the capacity
+  to re-learn are what SURVIVE. RESIDUAL: under severe scarcity the ALLOCATION
+  question is not settled by the capability framework itself.
+DISCIPLINE -> NO EMPLOYMENT FIGURES, SCHEME NAMES OR OUTLAYS.
+
+
+ASCII MASTER FLOW — PANEL 20/22: Gandhian social development (2020 Q2(a), 20) and the Ambedkarite safeguard
+"STATE AND EXAMINE" -> BOTH HALVES ARE SCORED.
+DOCTRINE -> WELFARE AND MORAL ELEVATION OF ALL (sarvodaya) through SELF-RULE
+  (swaraj) | NON-VIOLENCE | DECENTRALISATION | DIGNITY OF LABOUR | TRUSTEESHIP |
+  RESTRAINT OF WANTS | VILLAGE-CENTRED PRODUCTION
+        |
+        v
+THE ARGUMENT -- FIVE STEPS (an argument, not a set of ideals)
+  1. UNLIMITED WANTS create DEPENDENCE, COMPETITION and VIOLENCE
+  2. CENTRALISED INDUSTRIAL POWER separates PRODUCTION from HUMAN NEED and LOCAL
+     CONTROL
+  3. MEANS SHAPE ENDS -- violent or degrading development cannot yield a
+     non-violent good society
+  4. SELF-RULE requires ECONOMIC AND MORAL CAPACITIES at the LOCAL LEVEL
+  5. THEREFORE development must be DECENTRALISED, NEED-ORIENTED and
+     ECOLOGICALLY RESTRAINED
+FOUR PRESUPPOSITIONS -> moral self-limitation is politically relevant |
+  small-scale association can sustain participation | work has ethical and
+  community value beyond income | change can proceed through non-violent
+  conversion and constructive action
+        |
+        v
+THREE OBJECTIONS AND REPLIES
+  +---------------------+-----------------------------------------------------+
+  | ROMANTIC VILLAGE    | villages may REPRODUCE CASTE AND PATRIARCHY.        |
+  |                     | REPLY: decentralisation is defensible ONLY WITH     |
+  |                     | EQUAL RIGHTS AND ANTI-DOMINATION. AMBEDKAR'S       |
+  |                     | CRITICISM IS **INDISPENSABLE**, NOT OPTIONAL.      |
+  +---------------------+-----------------------------------------------------+
+  | TECHNOLOGICAL       | small-scale production cannot meet complex needs.   |
+  | CONSERVATISM        | REPLY: read it as a TEST OF SCALE, CONTROL AND      |
+  |                     | NEED -- not a ban on every machine.                 |
+  +---------------------+-----------------------------------------------------+
+  | TRUSTEESHIP AS      | owners retain power; obligation is voluntary.       |
+  | VOLUNTARY           | REPLY: trusteeship MORALLY DELEGITIMISES ABSOLUTE   |
+  | PATERNALISM         | OWNERSHIP -- but INSTITUTIONAL MECHANISMS are       |
+  |                     | needed to convert obligation into ACCOUNTABILITY.   |
+  +---------------------+-----------------------------------------------------+
+        |
+        v
+TWO COMPARISONS
+  GANDHI vs INDUSTRIAL MODERNISATION -> scale, productivity, mastery AGAINST
+    whether scale CENTRALISES POWER, MULTIPLIES WANTS, DEGRADES LABOUR OR NATURE
+    -> SYNTHESIS: adopt technology SELECTIVELY by capability, decentralised
+    control, ecological cost and non-domination
+  GANDHI vs AMBEDKAR ON THE VILLAGE -> SCHOOL OF SELF-RULE against
+    INSTITUTIONALISED CASTE EXCLUSION -> LOCAL SELF-GOVERNMENT IS PROGRESSIVE
+    ONLY WHERE CONSTITUTIONAL RIGHTS, MOBILITY AND ANTI-CASTE SAFEGUARDS
+    TRANSFORM LOCAL POWER. (Bounded bridge; full caste doctrine ROUTED.)
+RESTRAINT OBJECTION -> asking self-limitation of those who have little
+  moralises poverty.
+REPLY -> restraint targets MULTIPLIED AND MANUFACTURED WANTS, not NEED -- the
+  same asymmetry as the ecological argument. RESIDUAL: the NEED/WANT BOUNDARY is
+  not fixed by the doctrine, which supplies a DIRECTION and not a LINE.
+VERDICT -> THE CONCEPTION SURVIVES IN A **CONDITIONED** FORM: a standing test of
+  scale and control, operating inside guarantees it does not itself supply.
+
+
+ASCII MASTER FLOW — PANEL 21/22: Tribal values (2025 Q3(c), 15) -- the four tests and the classified Indian record
+THE CONFLICT IS **NOT** "MODERNITY VERSUS TRADITION". IT IS FIVE QUESTIONS ABOUT
+AUTHORITY AND DISTRIBUTION:
+  1 WHO DEFINES BENEFIT?          4 WHOSE KNOWLEDGE COUNTS?
+  2 WHO BEARS COST AND RISK?      5 ARE CONSENT AND SELF-GOVERNMENT REAL?
+  3 IS LAND ONLY A COMMODITY, OR ALSO IDENTITY AND RELATION?
+WHAT PROJECTS CALLED DEVELOPMENT CAN IMPOSE -> DISPLACEMENT | EXTRACTION |
+  ECOLOGICAL LOSS | CULTURAL ASSIMILATION, while BENEFITS FLOW ELSEWHERE.
+DESCRIPTION DISCIPLINE -> TRIBAL COMMUNITIES ARE INTERNALLY DIVERSE. AVOID
+  ROMANTIC GENERALISATION. Many such conflicts DO involve community control of
+  resources, ecological dependence, customary institutions, intergenerational
+  continuity and collective identity.
+        |
+        v
+THE SEVEN-STEP RECONCILIATION MODEL
+  1 begin with EQUAL CITIZENSHIP and CULTURAL RECOGNITION
+  2 assess CAPABILITIES GAINED **AND CAPABILITIES DESTROYED**
+  3 secure INFORMED AND INCLUSIVE PARTICIPATION of the affected
+  4 recognise INDIVIDUAL AND COMMUNITY RIGHTS WITHOUT FREEZING CULTURE
+  5 distribute BENEFITS, BURDENS **AND DECISION-POWER** fairly
+  6 preserve EXIT, DISSENT and GENDER JUSTICE within communities
+  7 prefer REVERSIBLE and ECOLOGICALLY SUSTAINABLE alternatives under grave
+    uncertainty
+        |
+        v
+THE FOUR TESTS -- REQUIRED **JOINTLY**. THIS IS THE MARK-BEARING STRUCTURE.
+  (i)   CAPABILITIES GAINED **AND DESTROYED** both counted, INCLUDING THE
+        COMMUNITY'S OWN
+  (ii)  those bearing the cost PARTICIPATE IN THE **DECISION**, not merely in
+        the COMPENSATION
+  (iii) IRREVERSIBLE ecological and cultural losses attract a PRECAUTIONARY
+        PRESUMPTION AGAINST -- they foreclose options for PRESENT DISSENTERS and
+        FUTURE GENERATIONS alike
+  (iv)  the burden of ecological adjustment is NOT SHIFTED ONTO THOSE LEAST ABLE
+        TO BEAR IT
+  THIS CONVERTS THE SEVEN-STEP MODEL FROM DESIDERATA INTO AN ARGUED TEST.
+        |
+        v
+INDIAN INSTITUTIONAL RECOGNITIONS -- CLASSIFY BEFORE USE
+  PESA, 1996 ...................... ENACTED STATUTE extending adapted panchayat
+                                    arrangements to Scheduled Areas, with a role
+                                    for the GRAM SABHA
+  FOREST RIGHTS ACT, 2006 ......... ENACTED RIGHTS-RECOGNITION STATUTE
+                                    recognising individual AND COMMUNITY forest
+                                    rights, including community rights over
+                                    management and protection
+  ORISSA MINING CORPORATION v.
+  MINISTRY OF ENVIRONMENT &
+  FOREST (2013) ................... SUPREME COURT JUDGMENT involving GRAM SABHA
+                                    CONSIDERATION of community and religious
+                                    claims
+  ARTICLES 48A and 51A(g) ......... NON-JUSTICIABLE constitutional provisions --
+                                    Directive Principle and Fundamental Duty on
+                                    protection of environment, forests, wildlife
+  +----------------------------------------------------------------------+
+  | ENACTMENT IS NOT NOTIFICATION. NOTIFICATION IS NOT IMPLEMENTATION.    |
+  | IMPLEMENTATION IS NOT CAPABILITY EXPANSION. A JUDGMENT IS NOT         |
+  | LEGISLATION. A NON-JUSTICIABLE PROVISION ESTABLISHES COMMITMENT AND   |
+  | NOT OUTCOME. NONE OF THEM PROVES A PHILOSOPHICAL POSITION.            |
+  +----------------------------------------------------------------------+
+INTERNAL-JUSTICE TENSION -> if community authority is real, are exit and gender
+  justice external impositions?
+REPLY -> community rights are recognised because they protect THE CONDITIONS
+  UNDER WHICH PERSONS LIVE VALUED LIVES; that justification CANNOT EXTEND to
+  arrangements destroying those conditions for some members. The DIGNITY
+  THRESHOLD attaches to PERSONS and is NOT THE COMMUNITY'S TO TRADE.
+RESIDUAL -> deciding when an internal practice crosses the line requires an
+  external judgment -- exactly the authority post-development challenges.
+VERDICT -> DEVELOPMENT IS RECONCILABLE WITH TRIBAL VALUES ONLY WHEN COMMUNITIES
+  ARE **AGENTS** OF DEVELOPMENT RATHER THAN OBSTACLES OR OBJECTS.
+
+
+ASCII MASTER FLOW — PANEL 22/22: Ecology, the debates, the sixteen traps, the answer spine and the PYQ ledger
+ECOLOGY BLOCK A -- MORAL STANDING (three DISTINCT positions, not degrees)
+  ANTHROPOCENTRIC .. human beings only; nature has INSTRUMENTAL value | WEAKNESS:
+                     permits destruction where NO human interest is engaged
+  BIOCENTRIC ....... all individual living beings, each with a GOOD OF ITS OWN |
+                     WEAKNESS: cannot adjudicate between organisms or protect a
+                     SPECIES or SYSTEM as such
+  ECOCENTRIC ....... ecological WHOLES -- species, habitats, ecosystems |
+                     WEAKNESS: risks SUBORDINATING INDIVIDUALS to the whole
+  DISCRIMINATING QUESTION -> would it be wrong to destroy a wilderness NO HUMAN
+    will ever see, use or know of? ANTHRO: no. BIO and ECO: yes, differently.
+  WARNING -> DO NOT ADOPT STRONG ECOCENTRISM CASUALLY: it licenses COERCIVE
+    LIMITS for systemic goods and sits badly with the capability framework.
+    DEFENSIBLE POSITION: STRONG, NON-INSTRUMENTAL ANTHROPOCENTRISM SUPPLEMENTED
+    BY DUTIES OF STEWARDSHIP -- stated and defended, never a "harmony" slogan.
+BLOCK B -- NAESS (1973): SHALLOW fights POLLUTION and DEPLETION for the HEALTH
+  AND AFFLUENCE OF THE DEVELOPED WORLD; DEEP questions the FRAMEWORK, affirms
+  INTRINSIC VALUE in non-human life and RICHNESS AND DIVERSITY as values in
+  themselves. THE DIFFERENCE IS **DEPTH OF QUESTIONING, NOT DEGREE OF CONCERN**.
+  Objection: it can equate SUBSISTENCE with LUXURY consumption. Reply: the strong
+  version distinguishes them -- which DOMESTICATES deep ecology. Say so.
+BLOCK C -- PRODUCTIVISM: expanding production as the MASTER OBJECTIVE. IT APPLIES
+  TO INDUSTRIAL SOCIALISM AS MUCH AS TO CAPITALISM. DEGROWTH: finite sinks and
+  stocks | efficiency gains OFFSET by expanded volume | beyond a threshold output
+  adds little to health, longevity, education or reported well-being IN AFFLUENT
+  SOCIETIES | so PERMANENT AGGREGATE GROWTH is neither feasible nor necessary for
+  them | planned reduction in THROUGHPUT around SUFFICIENCY, CARE, SHORTER
+  WORKING TIME, EQUALITY | BURDEN ON HIGH-CONSUMING ECONOMIES AND CLASSES.
+  ASYMMETRY -> CONTRACTION AND CONVERGENCE. NEVER PRESCRIBE DEGROWTH UNIFORMLY.
+  WEAKEST LINK (concede) -> that a NON-GROWING economy can maintain employment,
+  public services and social stability.
+  CAPABILITY BRIDGE -> if development is CAPABILITY not OUTPUT, then beyond the
+  level at which output secures capability, further growth has NO AUTOMATIC
+  DEVELOPMENTAL CLAIM. Sen reaches the same conclusion by a NON-ECOLOGICAL route.
+BLOCK D -- INTERGENERATIONAL JUSTICE: duties of JUSTICE, not benevolence, not to
+  FORECLOSE the capacity of the unborn to meet their needs. BRUNDTLAND (1987)
+  builds it into the concept -- PARAPHRASE, NEVER QUOTE. THREE PROBLEMS: the
+  NON-IDENTITY PROBLEM (different policies produce different people; the person
+  born into a degraded world owes her existence to the degrading policy ->
+  response: IMPERSONAL principles, or ground the duty in the RESOURCE BASE);
+  MOTIVATION AND RECIPROCITY (the unborn cannot vote, bargain or sanction);
+  DISCOUNTING (a PURE TIME PREFERENCE is arbitrary in the way that discounting
+  DISTANCE is arbitrary). SPECIFICATION -> PRESERVE OPTIONS, AVOID
+  IRREVERSIBILITY. Uncertainty then argues FOR PRECAUTION, not for inaction.
+BLOCK E -- ENVIRONMENTALISM OF THE POOR (GUHA and MARTINEZ-ALIER, *VARIETIES OF
+  ENVIRONMENTALISM*, 1997): in the global South environmental conflict is
+  typically a struggle over LIVELIHOOD -- forests, water, grazing, fisheries,
+  clean air -- not a POST-MATERIAL taste for wilderness. THEREFORE ENVIRONMENT
+  AND DEVELOPMENT ARE THE SAME QUESTION for such communities, and "ENVIRONMENT
+  VERSUS DEVELOPMENT" IS A FRAMING AVAILABLE ONLY TO THOSE WHOSE SUBSISTENCE IS
+  NOT AT STAKE. THE REAL QUESTION IS DISTRIBUTIVE: WHO GAINS, WHO BEARS THE RISK,
+  WHO DECIDES, ON WHAT TERMS. Objection: it ROMANTICISES the poor. Reply: it is
+  about the STRUCTURE OF CONFLICT, not ecological virtue -- and SECURE RIGHTS
+  convert DEPENDENCE INTO STEWARDSHIP.
+BLOCK F -- ECO-AUTHORITARIANISM: hard limits + slow, short-horizoned democracy ->
+  insulate decisions. FOUR REPLIES IN ASCENDING STRENGTH: EPISTEMIC (dispersed
+  local knowledge of soils, water, seasons, species) | COMPLIANCE (imposed
+  measures are evaded and reversed) | RECORD (insulation removes the FEEDBACK
+  that detects damage) | DISTRIBUTIVE, THE DECISIVE ONE (a burden falling on
+  those least able to bear it is neither JUST nor DURABLE -> JUST TRANSITION
+  conditions restructuring on PRIOR GUARANTEES of livelihood, retraining,
+  compensation and participation). VERDICT: THE ECOLOGICAL CASE **STRENGTHENS**
+  THE ARGUMENT FOR PARTICIPATION.
+FIVE INTER-SCHOOL DEBATES
+  GROWTH MODEL vs SEN ....... unit: output vs SUBSTANTIVE OPPORTUNITY | person:
+    consumer/factor vs AGENT | inequality: distribute after growth vs CONVERSION
+    AND FREEDOM CENTRAL | democracy: possibly instrumental vs INSTRUMENTAL AND
+    CONSTITUTIVE
+  SEN vs NUSSBAUM ........... evaluative space + public reasoning vs LIST +
+    DIGNITY THRESHOLD
+  GANDHI vs INDUSTRIAL
+    MODERNISATION ........... scale/productivity/mastery vs scale as
+    CENTRALISATION, MULTIPLIED WANTS, DEGRADED LABOUR OR NATURE
+  GANDHI vs AMBEDKAR ........ village as SCHOOL OF SELF-RULE vs INSTITUTIONALISED
+    CASTE EXCLUSION
+  MODERNISATION vs
+    POST-DEVELOPMENT ........ institutional transformation vs IMPOSED STANDARDS
+    AND EXPERT DOMINATION -> PLURAL DEVELOPMENT UNDER UNIVERSAL CONSTRAINTS
+SIX CRITICISMS AND REPLIES (with residual problems)
+  capability is hard to measure -> evaluative richness beats false precision |
+    residual: policy needs indicators
+  universal capabilities are paternalistic -> protect opportunity, permit plural
+    functionings | residual: who fixes the threshold?
+  participation romanticises communities -> include dissent, rights, review |
+    residual: elite capture
+  sustainability blocks poor societies' growth -> affluent consumption and
+    unequal burdens are the target | residual: transition costs
+  Gandhianism is anti-modern -> a critique of scale, wants and domination |
+    residual: complex infrastructure
+  social progress is value-relative -> freedom from severe deprivation and
+    humiliation have cross-cultural force | residual: reasonable disagreement
+THE SIXTEEN TRAPS
+  (1) growth, development, human development and progress are NOT synonyms.
+  (2) never say economic development is simply "necessary and sufficient" --
+      state the MATERIAL-THRESHOLD nuance. (3) Sen is NOT income plus welfare;
+  capability is REAL FREEDOM and AGENCY matters. (4) capabilities are NOT
+  achieved functionings. (5) a human-development composite is NOT a complete
+  theory of progress. (6) technology does NOT create ethical progress. (7) skill
+  education is NOT an employment statistic -- discuss capability, work quality
+  and critical education. (8) do NOT romanticise tribal culture or the village.
+  (9) enactment of PESA or FRA is NOT implementation or success. (10) a scheme,
+  statute or judgment is NOT philosophical proof -- use it as a DATED
+  INSTITUTIONAL ILLUSTRATION. (11) an indicator is NOT a theory of development --
+  state its INFORMATIONAL SPACE and BLIND SPOT. (12) modernisation is NOT neutral
+  convergence or an inevitable sequence -- name LINEARITY, DIFFUSION and
+  EXPERT AUTHORITY. (13) not every social change is progress -- state the VALUED
+  DIRECTION and permit regress, reversal and plural paths. (14) consultation is
+  NOT empowerment -- empowerment requires DURABLE DECISION-POWER, RESOURCES,
+  VOICE and REASONS. (15) do NOT use current social or economic figures; NO
+  FIGURE IS REQUIRED. (16) do NOT import full liberalism, Marxism or Ambedkar's
+  caste theory -- use the DEVELOPMENT CRITERION and ROUTE the doctrine.
+THE INTEGRATED ANSWER SPINE
+  1 NAME THE CONCEPTION the stem assumes (economistic | human development |
+    capability)
+  2 STATE THE LADDER DISTINCTION the stem turns on
+  3 RUN THE STEM'S OWN LOGIC in its own vocabulary -- MODAL | CAUSAL |
+    EVALUATIVE | RECONCILIATION
+  4 ONE TABLE: concept grid | Sen's terms | the three orientations | the
+    convergence grid
+  5 ONE FULLY WORKED OBJECTION -> REPLY -> RESIDUAL PROBLEM
+  6 ONE CLASSIFIED INDIAN ILLUSTRATION where the stem invites it
+  7 GRADED VERDICT separating MEANS, CONVERSION CONDITIONS and FINAL VALUES
+DIRECTIVE DECODER
+  EXPLAIN ................. definition -> components -> distinction from the
+                            neighbouring term -> example
+  DISCUSS ................. conception -> rival -> objection -> reply -> verdict
+  EVALUATE ................ name the standard -> apply -> concede the
+                            counter-case -> verdict
+  NECESSARY/SUFFICIENT? ... test necessity -> test sufficiency -> state which
+                            holds and why -> verdict IN THOSE TERMS
+  DO YOU AGREE THAT...? ... qualified position at the OUTSET -> reasons ->
+                            counter-case -> restated position
+  RECONCILE X WITH Y? ..... state what each requires -> identify the collision ->
+                            specify the CONDITIONS under which both are satisfied
+  DOES X LEAD TO Y? ....... mechanism -> what could break it -> verdict on the
+                            conditional
+PYQ LEDGER 2018-2025 -- 6 OF 112 OWNED PARTS
+  2019 Q2(c) 15 -> does TECHNOLOGICAL DEVELOPMENT lead to progress in ETHICAL
+    STANDARDS?
+  2020 Q2(a) 20 -> STATE AND EXAMINE the GANDHIAN concept of social development
+  2022 Q3(a) 20 -> does economic development ON ITS OWN lead to HUMAN
+    DEVELOPMENT and SOCIAL PROGRESS?
+  2023 Q2(c) 15 -> will emphasis on SKILL EDUCATION enhance development?
+  2024 Q3(c) 10+5 -> is economic development NECESSARY, SUFFICIENT, BOTH OR
+    NEITHER for social progress?
+  2025 Q3(c) 15 -> can DEVELOPMENT be RECONCILED with TRIBAL VALUES?
+  DISTRIBUTION -> 2018: 0 | 2019: 1 | 2020: 1 | 2021: 0 | 2022: 1 | 2023: 1 |
+  2024: 1 | 2025: 1. NOT ONE OWNED PART ASKS FOR A DEFINITION OF DEVELOPMENT.

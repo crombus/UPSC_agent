@@ -1,113 +1,395 @@
-ASCII MASTER FLOW — PANEL 1/12: Printed clause boundary and the ideals triad
-OFFICIAL OWNER -> Equality, Justice and Liberty only
-EQUALITY asks in what respect persons must count as equals
-LIBERTY asks which protected choices and capacities agency requires
-JUSTICE asks what is due, by which rule and through which procedure
-democracy and citizenship enter only as the 2018 PYQ setting
-rights, duties, sovereignty and government retain their later owners
-thesis -> distinct ideals, institutionally interdependent
+ASCII MASTER FLOW — PANEL 1/12: The printed clause, the ideals triad and the ordering problem
+SYLLABUS (verbatim) -> "Social and Political ldeals : Equality, Justice, Liberty."
+        |            three ideals are printed, and only three
+        v
+CENTRAL QUESTION -> institutions distribute STATUS, CHOICE, BURDENS and BENEFITS.
+                    Equality and liberty each raise a claim. Who ranks the claims?
+  +-----+-------------------+--------------------------+
+  v                         v                          v
+EQUALITY                  LIBERTY                    JUSTICE
+"in what respect must    "what may I do without     "what is due to each, by
+ persons count as         interference, and with     which rule, through which
+ equals?"                 what capacity?"            procedure?"
+pivot: equal moral       pivot: freedom FROM /      pivot: fairness, due
+worth, equal concern     freedom TO / freedom AS    proportion, entitlement,
+                         a secured standing         capability, public reason
+danger: mechanical       danger: licence,           danger: fair-looking rules
+levelling, loss of       domination by the strong,  that preserve injustice, or
+individuality            paternal coercion          outcomes imposed arbitrarily
+        |
+        v
+THE INDETERMINACY PREMISE
+  liberty is silent about WHICH liberties are basic
+  equality is silent about WHICH equality is owed
+        |
+        v
+ORDERING / ARCHITECTONIC CLAIM -> the ranking must range over BOTH families,
+  therefore it is supplied from outside either one -> that criterion is JUSTICE
+        |
+        v
+OWNERSHIP FENCE  democracy forms -> Forms of Government | rights, duties and
+  political obligation -> Individual and State | sovereign authority -> Sovereignty
+  welfare programmes -> Development | recognition theory -> Multiculturalism
+  reservation policy -> Caste: Gandhi and Ambedkar
+CORPUS SHARE -> 14 of 112 parts (2018:1 2019:2 2020:1 2021:3 2022:2 2023:1 2024:2 2025:2)
 
-ASCII MASTER FLOW — PANEL 2/12: Individual claims and social institutions
-INDIVIDUAL EQUALITY -> equal moral worth and equal concern
-SOCIAL EQUALITY -> no arbitrary status hierarchy or inherited stigma
-INDIVIDUAL LIBERTY -> protected thought, choice and self-direction
-SOCIAL LIBERTY -> usable options plus freedom from domination
-INDIVIDUAL JUSTICE -> due treatment, reasons and rectification
-INSTITUTIONAL JUSTICE -> fair procedure, distribution and status order
-bridge -> legality may exist without legitimacy
+ASCII MASTER FLOW — PANEL 2/12: Equality - equal moral worth and the four forms
+FOUNDATION -> EQUAL MORAL WORTH / EQUAL CONCERN
+  arbitrary hierarchy of birth, caste, race, sex or inherited privilege must
+  JUSTIFY itself rather than be presumed
+  WARNING -> equal worth =/= identity of talent, desire, capacity or outcome
+        |
+        v
+FORM              SECURES                        FAILS ALONE BECAUSE
+----------------  -----------------------------  ---------------------------------
+FORMAL / LEGAL    the rule against legal         it can be mere PAPER equality in a
+  equality before privilege                      deeply unequal society
+  the law
+POLITICAL         a non-oligarchic public        wealth can still distort actual
+  equal vote,     standing                       influence
+  eligibility
+SOCIAL            equal civic respect            law alone cannot deliver it; it
+  no stigma or                                   needs reform, education, fraternity
+  status hierarchy
+ECONOMIC          fair background conditions     incentive loss; may require
+  fewer unjust                                   coercive redistribution
+  disparities
+        |
+        v
+REPLY RAIL -> formal needs substantive support | political needs curbs on domination
+  social needs fraternity | economic defenders argue redistribution protects freedom
+        |
+        v
+INDIA (dated, classified) -> Articles 14-16: equality before law; prohibition of
+  discrimination; equality of opportunity in public employment
+  ENABLING CLAUSES in Articles 15 and 16 -> a PERMISSION, not a justification
 
-ASCII MASTER FLOW — PANEL 3/12: Equality from formal status to substantive opportunity
-equal moral worth -> birth hierarchy bears the burden of justification
-formal or legal equality -> the same public legal status
-political equality -> citizenship, vote and eligibility for office
-social equality -> freedom from caste rank, stigma and humiliation
-economic equality -> fair background conditions and life chances
-formal opportunity -> offices are legally open
-fair opportunity -> access is realistically usable
-outcome concern -> thresholds and least-advantaged protection
+ASCII MASTER FLOW — PANEL 3/12: Equality - a fair starting line or a fair finishing line
+      START                        RACE                        FINISH
+        |                            |                            |
+EQUALITY OF OPPORTUNITY   ( effort, choice, talent,   EQUALITY OF OUTCOME
+offices and advantages      luck )                    no large or unjust final
+open on fair terms                                    disparity
+        |                                                        |
+moral focus: a fair starting point            moral focus: a fair social result
+liberal appeal: respects effort and choice    appeal: corrects structural
+                                              disadvantage and inherited power
+        |                                                        |
+OBJECTION: "starting-line" fairness is        OBJECTION: levelling, paternalism,
+illusory where background inequality          reduced autonomy
+is severe                                                        |
+        |                                                        |
+BEST REPLY: move from MERELY FORMAL to        BEST REPLY: limit the demand to
+FAIR equality of opportunity                  THRESHOLDS -- ceilings on avoidable
+(Rawls ranks it BEFORE the difference         deprivation, floors of decent
+principle)                                    capability
+        |
+        v
+TEST SENTENCE -> "open competition for an office is not fully fair where only one
+                  class can realistically prepare for it"
+        |
+        v
+EQUITY (Marxian) -> differentiated treatment answering to NEED and ACTUAL CONDITION
+  against EQUALITY understood as ONE COMMON MEASURE APPLIED TO ALL
+RESIDUAL -> the threshold is under-specified; name your own floor in the answer
 
-ASCII MASTER FLOW — PANEL 4/12: Rousseau Mill and Marx on socially produced inequality
-ROUSSEAU -> natural difference becomes domination through convention
-moral-political inequality -> wealth, honour, power and dependence
-MILL -> equal civic status and women's equality with individuality
-manufactured subordination cannot prove natural inferiority
-MARX -> formally equal exchange can conceal class exploitation
-equal right can reproduce inequality when needs differ
-higher communist rule -> contribution by ability, distribution by need
+ASCII MASTER FLOW — PANEL 4/12: Equality - Rousseau, Mill and Marx
+ROUSSEAU   NATURAL / PHYSICAL              |  MORAL / POLITICAL (ARTIFICIAL)
+           age, strength, health,          |  wealth, honour, power, dependence,
+           intelligence   [by nature]      |  social superiority  [by convention]
+           CONVERSION MECHANISMS -> PROPERTY + SOCIAL COMPARISON
+           EXAMPLE -> being stronger is NATURAL; COMMANDING another because
+                      convention sanctifies property and status is MORAL/POLITICAL
+           LIMIT -> not all inequality is conventional; the OPPRESSIVE forms are
+                    socially produced and socially maintained, hence remediable
+           "diagnostic, not pastoral"                            -> 2021 Q1(b)
+        |
+        v
+MILL       SIX SALIENT FEATURES OF EQUALITY
+           1 equal worth in moral accounting
+           2 equality before law and equal citizenship
+           3 women's equality -- 'The Subjection of Women' (1869)
+           4 equality COMPATIBLE WITH INDIVIDUALITY
+           5 hostility to custom-made hierarchy
+           6 QUALIFIED economic concern -- reform, not coercive equalisation
+           GENDER ARGUMENT -> the appealed-to "nature" is MANUFACTURED by
+                              subjection, so the evidence is disqualified
+           VERDICT -> equal status WITHOUT uniformity              -> 2025 Q1(e)
+        |
+        v
+MARX       formal equality can CONCEAL exploitation; the wage contract APPEARS
+           free and equal while class power shapes production and appropriation
+           "AN EQUAL RIGHT CAN BE A RIGHT OF INEQUALITY"
+             one common standard + unequal need, burden and starting position
+             = unequal effect
+           FORMULA (Critique of the Gotha Programme) -> "from each according to
+             his ability, to each according to his need"
+             INDEXED TO THE HIGHER STAGE -- not a market-time salary rule
+           DEMANDED CONCEPT -> EQUITY vs EQUALITY                  -> 2022 Q2(c)
 
-ASCII MASTER FLOW — PANEL 5/12: Equality of what and the metric decision
-DWORKIN -> resources; brute luck differs from option luck
-SEN -> capability asks what persons are actually able to do and be
-conversion conditions make equal resources yield unequal freedom
-COHEN -> an unequal ethos can defeat formally just institutions
-LUCK EGALITARIANISM -> correct brute-luck disadvantage
-RELATIONAL EQUALITY -> end hierarchy and second-class standing
-trap -> capability is not equal income or identical functioning
+ASCII MASTER FLOW — PANEL 5/12: Equality of what - Sen, Cohen and Dworkin
+THE MODERN QUESTION -> not WHETHER to value equality, but EQUALITY OF WHAT
+        |
+  +-----+----------------------+---------------------------+
+  v                            v                           v
+SEN -- CAPABILITY          COHEN -- METRIC + ETHOS      DWORKIN -- RESOURCES
+what persons are actually  welfare? opportunity for     equality of RESOURCES,
+ABLE TO DO AND TO BE       advantage? access to         not of welfare
+                           advantage?
+same resources -> different  if the talented DEMAND     neutralise BRUTE LUCK
+real freedoms, because       extra reward to            (unchosen misfortune);
+disability, age, gender,     contribute, is the         respect OPTION LUCK
+climate, health and social   resulting inequality       (the result of a chosen
+position change CONVERSION   justice, or MORAL          risk)
+                             BARGAINING POWER?
+resources =/= capabilities   institutional justice can   device: auction and
+possession =/= effective     be undermined by an        insurance thought-
+freedom                      anti-egalitarian ETHOS     experiments
+        |                            |                           |
+OBJ: lists are             OBJ: too demanding of        OBJ: luck and choice are
+indeterminate              personal virtue              hard to separate
+REPLY: public reasoning    REPLY: it exposes what       REPLY: even imperfect, it
+rather than a rigid        institutions alone cannot    shows equality need not
+final list                 fix                          equalise every preference
+        |
+        v
+SHARED WEAKNESS -> indeterminacy exactly where policy must act
+INTERIM VERDICT -> equality is strongest as EQUAL STATUS + FAIR OPPORTUNITY +
+  PROTECTION AGAINST ARBITRARY DOMINATION, while alert to need, capability and
+  historical oppression                                          -> 2021 Q2(a)
 
-ASCII MASTER FLOW — PANEL 6/12: Berlin Mill and the justified limit of coercion
-NEGATIVE LIBERTY -> freedom from interference
-POSITIVE LIBERTY -> self-direction and being one's own master
-Berlin warns against coercion for an alleged true or rational self
-MILL -> coercion needs prevention of harm to others
-self-regarding conduct receives a presumption of liberty
-offence, dislike and paternal benefit are not automatically harm
-answer test -> who is free, from what, to do what, under whose power
+ASCII MASTER FLOW — PANEL 6/12: Liberty - Berlin's two concepts and Mill's harm principle
+BASIC MEANING -> a protected sphere of action and thought; in richer accounts the
+  power of self-direction.  LIBERTY =/= POWER: a tyrant has power, not liberty.
+  "no one is ever wholly unconstrained" is irrelevant: the theory concerns
+  JUSTIFIED and UNJUSTIFIED constraints
+        |
+BERLIN (1958)     NEGATIVE                        |  POSITIVE
+                  "within what area am I left     |  "who governs me? by what self
+                   alone?"                        |   am I directed?"
+                  freedom FROM interference       |  freedom TO be one's own master
+                  Hobbes, Locke, Mill             |  Rousseau, Kant, Hegel, Green
+                  value: protection from          |  value: self-mastery, rational
+                  coercion and paternalism        |  agency, self-realisation
+        |
+        v
+THE DANGER MECHANISM -> split the REAL SELF from the EMPIRICAL SELF
+  -> a ruler may claim to speak for the real self -> coercion is redescribed as
+     LIBERATION.   Background commitment: VALUE PLURALISM
+BERLIN DOES NOT -> deny the appeal of self-mastery, nor deny social preconditions
+        |
+        v
+MILL ('On Liberty', 1859) -- THE HARM PRINCIPLE
+  coercion of a competent adult is legitimate ONLY to prevent HARM TO OTHERS
+  SELF-REGARDING acts -> generally not coercible
+  OTHER-REGARDING acts -> may be regulated or punished
+  OFFENCE / DISAPPROVAL =/= HARM; heterodox opinion may not be suppressed
+  OBJECTIONS -> few acts are cleanly self-regarding; "harm" is itself contested
+  BEST DEFENCE -> a BURDEN-OF-PROOF rule: coercion must show injury, not distaste,
+                  and paternalism stays exceptional
 
-ASCII MASTER FLOW — PANEL 7/12: Law security autonomy and effective freedom
-HOBBES -> order secures residual liberty where law is silent
-LOCKE -> known law protects rights against arbitrary government
-ROUSSEAU -> autonomy is civic self-legislation through general will
-GREEN -> freedom includes effective capacity for worthwhile action
-poverty, ignorance and dependency can hollow non-interference
-equality can enable liberty by reducing dependency
-limit -> enabling provision must not become perfectionist compulsion
+ASCII MASTER FLOW — PANEL 7/12: Liberty - four specifications, sorted by the enemy each fears
+THINKER    ENEMY OF FREEDOM     DEFINITION                     RISK / OBJECTION
+---------  -------------------  -----------------------------  ---------------------
+HOBBES     disorder             absence of external            liberty becomes a
+                                impediments; under law one     residual gap left by
+                                is free WHERE THE LAW IS       power
+                                SILENT
+LOCKE      arbitrary power      liberty is not licence: it     property-centred
+                                is freedom UNDER KNOWN LAW     liberty may mask
+                                preserving life, liberty and   inequality
+                                property
+ROUSSEAU   dependence on        obedience to a law one         "forced to be free"
+           another's private    PRESCRIBES TO ONESELF as       invites an
+           will                 part of the GENERAL WILL       authoritarian reading
+GREEN      incapacity           the POSITIVE POWER to do or    the state may impose a
+                                enjoy something worth doing;   preferred conception
+                                tied to self-realisation       of the good
+        |
+        v
+PRESUPPOSITIONS -> Hobbes: security is primary | Locke: natural rights pre-exist
+  government | Rousseau: freedom requires participation and moral autonomy |
+  Green: the self has higher capacities that conditions foster or deform
+        |
+        v
+GREEN'S SAFE READING -> ENABLING, not perfectionist: enlarge effective capacity and
+  LEAVE THE CHOICE OF ENDS WITH THE AGENT.   EXAMPLE -> education equips agency
+        |
+        v
+BERLIN vs GREEN -> coercion in the name of a higher freedom, against formal liberty
+  with no power to use it.  SYNTHESIS: keep the protected sphere, add enabling
+  conditions, refuse the authorisation to prescribe ends       -> 2024 Q2(b)
 
-ASCII MASTER FLOW — PANEL 8/12: Technology and republican non-domination
-technology expands communication, association and knowledge
-surveillance and platform dependence create standing power
-INTERFERENCE is an act; DOMINATION is uncontrolled capacity
-Pettit -> an indulgent master can dominate without interfering
-contestable interest-tracking law can constitute freedom
-Code on Wages commenced 21-Nov-2025; status is not implementation
-PYQ route -> liberty is realisable only under accountable power
+ASCII MASTER FLOW — PANEL 8/12: Liberty - the threshold, technology and non-domination
+THRESHOLD OF COMPLEMENTARITY
+  AT / BELOW -> equal basic liberties ARE a form of equality; free speech for all
+    is at once a liberty and an equality of civic standing; Rawls's PRIORITY RULES
+    block trading liberty for aggregate welfare
+  BEYOND -> unrestricted contract and accumulation breed inequality; aggressive
+    equalisation curbs choice, association and property
+  -> the mark-bearing move in 2018 Q2(a), 2019 Q4(b), 2022 Q1(d), 2024 Q2(b)
+        |
+        v
+TECHNOLOGICAL SOCIETY
+  EXPANDS knowledge, mobility, communication, range of choice
+  THREATENS through surveillance, manipulation and concentrated informational power
+  SHIFT -> coercion becomes INFRASTRUCTURAL and INFORMATIONAL, not only legal
+  ALGORITHMIC NUDGING -> every formal option stays open; the option taken is shaped
+  CONVENIENCE =/= AUTONOMY
+  VERDICT -> realisable UNDER transparency, accountability and zones of
+             non-domination                                     -> 2020 Q1(a)
+        |
+        v
+NON-DOMINATION   PETTIT 1997 = the normative THEORY
+                 SKINNER 1998 = the historical RECOVERY  (never merge the two)
+  CASE -> a kind master or benevolent ruler who does not interfere; the dependant
+          still flatters, anticipates and self-censors
+  DISTINCTION -> INTERFERENCE is an ACT; DOMINATION is a STANDING CAPACITY to
+                 interfere arbitrarily and with impunity
+  CONSEQUENCE -> non-arbitrary, contestable, interest-tracking law is
+                 FREEDOM-CONSTITUTING, not a subtraction from liberty
+  OBJECTIONS -> (1) redundancy: high probability of interference would do the work
+                (2) indeterminacy of "arbitrary" -- answered procedurally, with a
+                    residual problem that must be CONCEDED
+  INDIA (form of remedy only) -> Bonded Labour System (Abolition) Act 1976;
+    Sexual Harassment of Women at Workplace Act 2013; Code on Wages 2019 commenced
+    by S.O. 5322(E), 21 November 2025 -> ENACTMENT IS NOT IMPLEMENTATION
 
-ASCII MASTER FLOW — PANEL 9/12: Formal procedural and substantive justice
-FORMAL JUSTICE -> apply announced principles consistently
-PROCEDURAL JUSTICE -> fair hearing, publicity and impartial process
-SUBSTANTIVE JUSTICE -> just principle, distribution and status relation
-fair procedure can reproduce unjust starting conditions
-substantive correction without due process can become arbitrary
-best synthesis -> fair procedure plus defensible substantive criteria
-LEGAL JUSTICE -> impartial law and moral assessment of law
-POLITICAL JUSTICE -> equal citizenship, voice and non-arbitrary power
-SOCIO-ECONOMIC JUSTICE -> fair burdens, benefits and real opportunity
-RECOGNITION-STATUS JUSTICE -> no stigma or second-class standing
-legality identifies validity; legitimacy asks moral justification
+ASCII MASTER FLOW — PANEL 9/12: Justice - three forms, four dimensions, legality and legitimacy
+MEANING -> what is due to each, and the principles governing distribution,
+  rectification, rights and the moral structure of institutions
+  social cooperation creates benefits and burdens; justice fixes their terms
+  persons are owed REASONS, not merely outcomes
+  LEGALITY =/= JUSTICE -> a law may be valid yet unjust
+        |
+        v
+FORM          EXACT QUESTION                        FAILS ALONE BECAUSE
+------------  ------------------------------------  --------------------------------
+FORMAL        are announced principles applied      an unjust principle can be
+              impartially and consistently to       applied with perfect
+              like cases?                           consistency
+PROCEDURAL    was the decision produced by fair     a fair-looking procedure can
+              rules, hearing, publicity,            run on a grossly unequal
+              impartiality and non-cheating?        background
+SUBSTANTIVE   are the governing principle, the      an outcome imposed without due
+              distribution and the social           process becomes a second
+              relations themselves just?            arbitrariness
+        |
+        v
+CONCLUSION -> FAIR PROCEDURE *PLUS* A DEFENSIBLE SUBSTANTIVE CRITERION
+  EXAMPLE -> equal legal punishment for unequal wrongdoing satisfies consistency
+             and violates corrective fairness
+        |
+        v
+FOUR DIMENSIONS -> LEGAL (impartial administration AND whether law answers to
+  justice) | POLITICAL (equal citizenship, voice, non-arbitrary public power) |
+  SOCIO-ECONOMIC (benefits, burdens, real opportunities) | RECOGNITION-STATUS
+  (whether institutions reproduce stigma, humiliation, second-class standing)
+BRIDGE -> LEGALITY = a rule's valid place in a legal system; LEGITIMACY = morally
+  justified authority to those subject to it.  SOURCE CONTROL -> Gauba pp. 442-445;
+  Socio-Political Philosophy pp. 40, 47-54; Cambridge Dictionary pp. 489-490
 
-ASCII MASTER FLOW — PANEL 10/12: Plato Aristotle utilitarianism and corrective repair
-PLATO -> harmony when each part performs its proper function
-objection -> functional harmony can freeze hierarchy
-ARISTOTLE DISTRIBUTIVE -> proportion by a relevant criterion
-criteria -> need, desert, merit, contribution, equality, compensation
-ARISTOTLE CORRECTIVE -> arithmetic restoration after a wrong
-UTILITARIANISM -> aggregate welfare risks sacrificing separate persons
-justice needs allocation, procedure, substance and rectification
+ASCII MASTER FLOW — PANEL 10/12: Justice - Plato, Aristotle, the criteria problem, compensation
+PLATO      CITY: rulers rule | auxiliaries defend | producers provide
+           SOUL: reason governs | spirit supports | appetite obeys
+           JUSTICE = each part doing its OWN work without usurping another's role
+           -> inner AND civic RIGHT-ORDER, not merely external distribution
+           OBJ frozen hierarchy | REPLY a norm of competence and organic harmony
+           VERDICT -> the idea survives the institution           -> 2024 Q1(a)
+ARISTOTLE  DISTRIBUTIVE -> shares track RELEVANT desert -> PROPORTIONAL equality
+                           (offices, honours)
+           CORRECTIVE   -> restore the balance after a wrong -> ARITHMETIC equality
+                           (compensation, restitution, punishment)
+           RULE -> treat equals equally and unequals unequally ONLY where the basis
+                   of comparison is RELEVANT.  GAP -> "relevant" is left unspecified
+CRITERIA GRID   NEED -> subsistence, health care, basic education, disability
+                DESERT -> honours; backward-looking and moralised
+                MERIT -> offices; forward-looking and functional
+                CONTRIBUTION / ENTITLEMENT -> wages, exchange, property titles
+                EQUAL SHARE -> civil and political rights, one person one vote
+                COMPENSATION -> rectification of unjustified prior loss
+  THESIS -> justice is CRITERION-PLURAL but NOT ARBITRARY: each good has an internal
+            logic fixing its proper basis.  MERIT =/= DESERT -> collapsing them
+            yields the bad answer that "merit is a moral entitlement"
+  INJUSTICE -> a criterion ESCAPING ITS SPHERE: wealth buying political influence;
+               caste rank governing access to office
+        v
+COMPENSATORY PRINCIPLE -> corrective justice generalised from transactions
+  1 systematic, legally sanctioned exclusion from land, education, office, honour
+  2 exclusion TRANSMITS through wealth, networks, schooling, health, confidence
+  3 formal equality from today RATIFIES the unequal starting line
+  4 positive measures offset the transmitted disadvantage
+  5 therefore compensation is demanded BY equality, not as an exception to it
+  TERMINUS -> it lapses when the targeted transmission no longer operates
+  RESIDUAL -> over-inclusion; the transmission premise is FACTUAL and must be argued
+  ROUTING -> the affirmative-action policy debate belongs to the CASTE owner
 
-ASCII MASTER FLOW — PANEL 11/12: Rawls Nozick Sen and Ambedkar
-RAWLS -> original position and veil model fair choice
-equal basic liberties have lexical priority
-fair equality of opportunity precedes the difference principle
-NOZICK -> acquisition, transfer and rectification, not a pattern
-SEN -> capability and public reasoning compare remediable injustice
-institutional justice differs from realised justice in actual lives
-AMBEDKAR -> political democracy needs equality and fraternity
+ASCII MASTER FLOW — PANEL 11/12: Justice - utilitarian aggregation, Rawls, Nozick, Sen, Ambedkar
+UTILITARIAN   institutions are just if they MAXIMISE aggregate welfare;
+              rightness is consequence-based, not prior-rights-based
+              AGGREGATION OBJECTION -> individuals, minorities and the least
+              advantaged may be sacrificed if the total rises
+              rule / indirect replies -> rights are protected only CONTINGENTLY
+        v
+RAWLS (1971)  ORIGINAL POSITION + VEIL OF IGNORANCE
+              [a DEVICE OF REPRESENTATION, not a historical contract]
+              P1  equal BASIC LIBERTIES ................ LEXICALLY PRIOR
+              P2a FAIR EQUALITY OF OPPORTUNITY ......... prior to P2b
+              P2b DIFFERENCE PRINCIPLE ................. benefit the LEAST ADVANTAGED
+              method -> REFLECTIVE EQUILIBRIUM
+              one line -> DEONTOLOGICAL LIBERAL EGALITARIANISM
+                                                  -> 2023 Q1(a), 2019 Q1(a)
+        v
+NOZICK (1974) acquisition | transfer | RECTIFICATION
+              HISTORICAL principles against PATTERNED principles
+              WILT CHAMBERLAIN -> start from any just distribution, allow only
+              voluntary transfers, and the pattern breaks
+              MINIMAL STATE -> force, theft, fraud and contract enforcement only
+              CRITICISM -> starting points are never clean, and rectification is
+                           UNDER-SPECIFIED                        -> 2021 Q1(a)
+        v
+SEN           NITI = correctness of institutions, rules and procedures
+              NYAYA = justice AS REALISED in people's lives
+              COMPARATIVE, not TRANSCENDENTAL institutionalism
+              CAPABILITY + PUBLIC REASONING
+              OBJECTION -> under-determination between rival improvements
+                                                                  -> 2021 Q2(a)
+AMBEDKAR      political democracy is UNSTABLE without SOCIAL DEMOCRACY rooted in
+              LIBERTY, EQUALITY and FRATERNITY; constitutional FORM =/= lived
+              social democracy; one vote each can coexist with civic humiliation
+                                                  -> 2018 Q2(a), 2025 Q4(a)
 
-ASCII MASTER FLOW — PANEL 12/12: Fourteen PYQs and the executable answer spine
-OWNER CORPUS -> 14 verified parts across every year 2018-2025
-DEFINE -> strongest sense of the ideal in the stem
-DISTINGUISH -> metric, interference, procedure, substance or repair
-ARGUE -> claim, named thinker or example, analysis, qualification
-COUNTER -> strongest objection and best reply
-COMPARE -> run both positions down shared axes
-HOW FAR -> state the conditions under which the claim holds and fails
-END -> justice orders liberty and equality without replacing either
+ASCII MASTER FLOW — PANEL 12/12: Debates, traps, PYQ anchors, answer spine, qualified verdict
+SIX DEBATES  Hobbes / Locke / Rousseau -- order, rights, or collective autonomy?
+             Berlin vs Green -- coercion for a higher freedom, or hollow liberty?
+             Rawls vs Nozick -- fair agreement, or self-ownership?
+             Rawls vs Sen -- ideal structure, or remediable injustice?
+             Mill vs Marx -- individuality, or the material limits of formal equality?
+             Procedure vs Substance -- was a fair rule followed, or is the rule just?
+             PLATO -> RAWLS: the QUESTION is inherited, the ANSWER is rejected
+TEN TRAPS    equality as sameness | Berlin as anti-positive | Mill as licence |
+             Rousseau's natural inequality as rightlessness | Rawls with equality
+             first | Nozick as patterned | Sen as welfare economics | Ambedkar as a
+             name-drop | justice collapsed into law or procedure | one-sided answers
+PYQ ANCHORS  2018 Q2(a) 20 liberty and equality distinctive of democracy?
+             2019 Q1(a) 10 is Rawls continuing Plato?  2019 Q4(b) 15 does liberty
+             limit equality?  2020 Q1(a) 10 liberty in technological society?
+             2021 Q1(a) 10 Nozick's distributive theory  2021 Q1(b) 10 Rousseau on
+             natural against artificial inequality  2021 Q2(a) 20 is Sen an
+             improvement upon Rawls?  2022 Q1(d) 10 complete liberty / order and
+             restriction  2022 Q2(c) 15 equity against equality in Marxian philosophy
+             2023 Q1(a) 10 justice as fairness  2024 Q1(a) 10 Plato on justice
+             2024 Q2(b) 15 critically evaluate liberty and equality  2025 Q1(e) 10
+             Mill's salient features of equality  2025 Q4(a) 20 equality and liberty
+             inadequate without justice
+ANSWER SPINE 10m ~150w -> doctrine -> argument spine -> ONE evidence unit, its limit,
+               and a graded verdict
+             15m ~220w -> axis of dispute -> side A -> side B -> ONE worked
+               objection-reply -> two evidence units -> conditional verdict
+             20m ~300w -> thesis -> concept map and criterion -> strongest case ->
+               strongest rival -> two objection-reply chains with RESIDUAL problems ->
+               comparative adjudication -> one dated Indian illustration -> a graded
+               verdict that concedes something to the losing side
+QUALIFIED VERDICT -> liberty and equality are indispensable but each is INDETERMINATE
+  about which liberties and equalities matter; JUSTICE supplies the ordering criterion,
+  and because rival theories order them differently it must be EXPLICIT and DEFENSIBLE.

@@ -1,81 +1,593 @@
-ASCII MASTER FLOW — PANEL 1/8: 1. Definition and possibility test
-CAN RELIGION EXIST WITHOUT A CREATOR GOD?
- religion may organise:
- ultimate concern | sacred value | ritual | community | moral discipline
- worldview | transformation | liberation
- SUFFICIENT CLUSTER: sacred order + disciplined practice + community + transformation
-                         |
- THEISM is sufficient for many religions, not conceptually necessary for all
- test a tradition by doctrine + practice + soteriology, not by a Western creator template
- TRAP: non-theistic != atheistic; silence, irrelevance and denial are different positions.
+ASCII MASTER FLOW — PANEL 1/26: The clause, the one question, and the definition that decides it
+SYLLABUS CLAUSE (verbatim): "Religion without God."
+CENTRAL QUESTION: is belief in a PERSONAL CREATOR necessary for something to be a religion?
+  NOT the existence question. Nothing here turns on whether God exists.
+  +---------------+----------------+-------------------+------------------------+
+  | SUBSTANTIVE   | FUNCTIONAL     | MULTIDIMENSIONAL  | FAMILY RESEMBLANCE     |
+  | by its OBJECT | by what it     | by a CLUSTER      | no single feature is   |
+  | God / gods /  | DOES: ultimacy,| (Ninian Smart's   | shared by every member |
+  | sacred beings | practice,      | seven dimensions) | -> "religion" names a  |
+  |               | community,     |                   | family of practices,   |
+  |               | meaning,       |                   | not one essence        |
+  |               | liberation     |                   |                        |
+  +---------------+----------------+-------------------+------------------------+
+        TOO NARROW            TOO BROAD             THE WORKABLE MIDDLE
+   excludes Buddhism BY   admits nationalism,   creator-belief is NOT on the
+   STIPULATION            art, political cause  essential list
+   = QUESTION-BEGGING     = EMPTY CATEGORY
+SMART'S SEVEN DIMENSIONS: doctrinal | mythic | ethical | ritual | experiential | social | material
+THE ONE RULE: every printed stem in this clause is decided by the definition you adopt in the
+  first three lines. State it, defend it in one line, then apply it CONSISTENTLY.
+THE FIREWALL: NON-THEISTIC is not identical with ATHEISTIC. Rejecting a creator does not entail
+  denying every deity, sacred being, devotional act or transcendent value.
 
-ASCII MASTER FLOW — PANEL 2/8: 2. Four negative positions
-ATHEISM: denies that God exists
- AGNOSTICISM: suspends judgement because knowledge/evidence is insufficient
- NON-THEISM: God is absent or non-central to the path
- ANTI-THEISM: holds God-belief harmful or false in a stronger evaluative sense
-                         |
- IGNOSTICISM: “God” must be made meaningful before existence is debated
- practical atheism: life organised without reference to God
- keep epistemic suspension separate from metaphysical denial.
+ASCII MASTER FLOW — PANEL 2/26: Why the clause exists, and the only datable anchors
+ORIGIN RAIL (conceptual, not calendar)
+ 1 a definition of religion is proposed that centres on a personal creator
+   -> 2 established traditions are produced with doctrine, ritual, ethics, community and
+        liberation, yet no creator
+     -> 3 the definition is defended by NARROWING it  => the question-begging charge
+       -> 4 the definition is defended by WIDENING it => nationalism and ideology walk in
+         -> 5 a middle criterion is demanded: sacred order + disciplined soteriological practice
+            ==> the clause exists because Stages 3 and 4 are BOTH unacceptable.
+DATED PRINT ANCHORS (assert these; invent no others)
+ 1843-44 Marx, Introduction to A Contribution to the Critique of Hegel's Philosophy of Right
+ 1869    T. H. Huxley coins the word "agnostic"
+ 1934    John Dewey, A Common Faith          1980  Don Cupitt, Taking Leave of God
+ 1996    Robin Le Poidevin, Arguing for Atheism
+ 1998    Ursula Goodenough, The Sacred Depths of Nature
+ 2013    Ronald Dworkin, Religion without God   <== the book that names this clause
+CITE BY WORK, NEVER BY YEAR: Nietzsche (The Gay Science 125; On the Genealogy of Morality);
+ Feuerbach (The Essence of Christianity); Freud (religion as illusion); Comte (Religion of
+ Humanity); Spinoza (Deus sive Natura); Ninian Smart (dimensions); Jaimini (Mimamsa-sutra 1.1.2);
+ Kumarila (Slokavarttika); Madhava (Sarvadarsanasamgraha - REPORTED Carvaka only);
+ Brahmajala Sutta DN 1; Agganna Sutta DN 27; Julian Huxley; Crosby; Rue; Eshleman; Wettstein.
+ANACHRONISM CONTROL: the Indian systems are NOT responses to the death of God; they never had
+ the theistic horizon Nietzsche mourns. Keep POST-THEISM and NON-THEISM in separate paragraphs.
 
-ASCII MASTER FLOW — PANEL 3/8: 3. Buddhism
-FOUR NOBLE TRUTHS -> dependent origination -> eightfold path -> nirvāṇa
-                         |
- no eternal creator is needed; suffering has conditioned causes, not divine decree
- devas may occur in cosmology but are impermanent and unsaving
- undeclared questions do not exhaust the case; creator-belief is non-central to the path
-                         |
- objection: karma/order functions like hidden providence
- reply: causal-moral regularity is impersonal; no omnipotent allocator or creator follows.
+ASCII MASTER FLOW — PANEL 3/26: The seven candidate criteria, graded
+  CANDIDATE FEATURE            NECESSARY?             WHY NOT SUFFICIENT ALONE
+  personal creator God         NO - Buddhism,         defines THEISM, not religion as such
+                               Jainism, classical
+                               Mimamsa are countercases
+  sacred / ultimate concern    strong but VERY BROAD  nations, art, political causes qualify
+  ritual + disciplined practice widespread, not       secular ceremonies also have ritual
+                               universal in one form
+  ethical orientation          common                 ethical philosophies are not religions
+  community and tradition      common                 clubs and nations organise community too
+  DIAGNOSIS AND LIBERATION     STRONG DISCRIMINATOR   some traditions stress worship or belonging
+  myth, doctrine, experience   family features        each may be thin or absent in a strand
+THE WORKING SUFFICIENT CLUSTER (write this, not a list of necessary conditions)
+  a SOCIALLY EMBODIED and DISCIPLINED orientation to an ULTIMATE / SACRED ORDER, expressed
+  through some combination of doctrine, ritual, ethical formation, experience and community,
+  and directed at a TRANSFORMATIVE or SOTERIOLOGICAL goal.
+TWO LOAD-BEARING CONDITIONS: sacred order AND transformative practice. Both, never either.
+  ADMITS: Buddhism | Jainism | Mimamsa | Samkhya-Yoga
+  EXCLUDES: any strong commitment as such (nationalism, ideology) AND Carvaka.
 
-ASCII MASTER FLOW — PANEL 4/8: 4. Jainism, Mīmāṃsā and Sāṃkhya
-JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates
- MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed
- SĀṂKHYA: prakṛti evolves for plural puruṣas; unconscious teleology without creator
-                         |
- shared anti-creator pressure: if God is perfect, why create? if embodied, who made body?
- distinctions: Jainism retains worshipful exemplars; Mīmāṃsā centres dharma/ritual;
- Sāṃkhya centres discriminative metaphysics and kaivalya.
+ASCII MASTER FLOW — PANEL 4/26: Which religious functions actually require a deity
+  FUNCTION                    PERSONAL DEITY REQUIRED?        NON-THEISTIC FORM
+  petitionary prayer          YES, normally - a responsive     meditation, aspiration, recitation
+                              addressee is built into petition (NOT petition in the same sense)
+  worship / veneration        no                              reverence for Dharma, liberated
+                                                              exemplars, scripture, sacred value
+  propositional revelation    YES, by definition              Mimamsa: AUTHORLESS scriptural
+   from God                                                   authority, not creator-revelation
+  grace and providence        YES, in their personal-agency   self-effort, karmic law, disciplined
+                              sense                           path, communal support
+  ritual efficacy             no                              apurva; Buddhist / Jain discipline
+  moral motivation            no                              compassion, non-injury, karma, vows,
+                                                              insight, human flourishing
+  liberation / salvation      no, as a GENERIC function       nirvana, Jain release, kaivalya
+THE SEPARABILITY RESULT: God is necessary for SOME SPECIFICALLY THEISTIC GOODS, not for every
+  religious function. Mimamsa proves inside ONE system that AUTHORITY, EFFICACY and DESERT are
+  each separable and can each be secured otherwise.
+ANSWER MOVE: concede petition, grace and covenant. The concession buys credit for every denial
+  that follows, and identifies where the theist's real case lies - devotional, not definitional.
 
-ASCII MASTER FLOW — PANEL 5/8: 5. Cārvāka as limit case
-CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa
- embodied this-worldly flourishing replaces salvation
-                         |
- DOES IT COUNT AS RELIGION?
- doctrinal-historical member of Indian philosophical debate: YES
- sacred/transcendent/soteriological practice in robust sense: largely NO
-                         |
- limit case shows that “philosophy without God” is easier than “religion without God”;
- Buddhism/Jainism better preserve ritual, community and liberation functions.
+ASCII MASTER FLOW — PANEL 5/26: The four negative positions, and what each leaves standing
+  +--------------+----------------+------------------+---------------------+
+  | NON-THEISM   | ATHEISM        | AGNOSTICISM      | INDIFFERENCE        |
+  | about the    | about what     | about what can   | about what is       |
+  | PATH         | EXISTS         | be KNOWN         | ASKED               |
+  +--------------+----------------+------------------+---------------------+
+  | creator is   | "God does not  | WEAK: "not known"| the question does   |
+  | absent from  | exist"         | STRONG: "un-     | not arise           |
+  | diagnosis    |                | knowable"        |                     |
+  | and path     |                |                  |                     |
+  +--------------+----------------+------------------+---------------------+
+  | LEAVES       | leaves the     | leaves ethical,  | leaves nothing in   |
+  | STANDING:    | sacred order   | experiential,    | particular          |
+  | lesser gods, | ONLY if it is  | ritual and       |                     |
+  | devotion,    | non-divine     | communal         |                     |
+  | sacred value,| (Carvaka does  | religion         |                     |
+  | soteriology  | NOT)           | available        |                     |
+  +--------------+----------------+------------------+---------------------+
+RELATED BUT DISTINCT: anti-theism (God-belief is harmful as well as false); practical atheism
+  (a life organised without reference to God).
+BURDENS DIFFER: the non-theist must show a path can be COMPLETE; the atheist must defend a
+  UNIVERSAL NEGATIVE; the agnostic must show suspension coexists with practice.
+THE RULE: religion survives NON-THEISM; it does not survive the removal of every sacred order.
 
-ASCII MASTER FLOW — PANEL 6/8: 6. Nietzsche and post-theism
-“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon
-                         |
- danger: nihilism, herd morality exposed, no transcendent guarantor
- task: revaluation of values -> self-overcoming -> life-affirmation
-                         |
- not a simple empirical proof that no deity exists
- objection: self-created values risk arbitrariness or domination
- reply: genealogy tests inherited values; affirmative creation accepts responsibility
- POST-THEISM asks what religious depth survives after classical supernatural belief.
+ASCII MASTER FLOW — PANEL 6/26: Buddhism I - the diagnosis that needs no creator
+THE FOUR NOBLE TRUTHS AS A DIAGNOSIS
+ 1 THERE IS SUFFERING (duhkha)            <- the datum
+ 2 IT HAS AN ORIGIN: craving + ignorance  <- the cause
+ 3 THE ORIGIN CAN CEASE                   <- the possibility
+ 4 THERE IS A PATH TO ITS CESSATION       <- the prescription
+                    |
+                    v
+ DEPENDENT ORIGINATION (pratityasamutpada): "this being, that becomes" - conditions arise,
+ conditions cease. Karma supplies moral-causal continuity.
+                    |
+      +-------------+--------------+
+      v                            v
+ WHERE WOULD A CREATOR GO?    WHAT ABOUT THE GODS?
+ [ VACANT SLOT ] - no step    devas and Brahma figures may occur in the cosmology, but they are
+ of the diagnosis, the cause, IMPERMANENT beings INSIDE samsara: neither creators nor final
+ the cessation or the path    saviours. Text anchors: Brahmajala Sutta DN 1; Agganna Sutta DN 27.
+ requires one.
+THE CLAIM IS REDUNDANCY, NOT REFUTATION. A creator adds no explanatory and no practical step.
+PRESUPPOSITION, STATED HONESTLY: dependent causation is explanatorily sufficient FOR THE PROBLEM
+ BUDDHISM ADDRESSES - not for everything whatever. That is where a theist should press.
+SCOPE CONTROL: the undeclared questions (avyakata) concern SPECIFIC speculative issues; they are
+ NOT the whole Buddhist case. The poisoned-arrow parable = urgency, never proof of atheism.
 
-ASCII MASTER FLOW — PANEL 7/8: 7. Naturalism and fictionalism
-RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism
- FICTIONALISM: participate in God-language/practice without literal ontological assent
- SEA OF FAITH / non-realism: religious symbols shape life rather than report a transcendent entity
-                         |
- objections: worship without real object is make-believe; prayer loses address; truth is sacrificed
- replies: symbols and communal narratives can disclose value and transform conduct
- pressure remains: can function alone preserve religion's claim to truth and transcendence?
+ASCII MASTER FLOW — PANEL 7/26: Buddhism II - the cluster discharged, element by element
+  CLUSTER ELEMENT     WHAT BUDDHISM SUPPLIES                          NEEDS A CREATOR?
+  doctrine            Four Noble Truths; dependent origination;        no
+                      impermanence and non-self
+  ritual / practice   meditation; recitation; monastic observance;     no
+                      later devotional (puja) forms
+  ethical formation   moral discipline (sila): right speech,           no
+                      action, livelihood
+  experience          staged meditative attainment; insight            no
+  community           the SANGHA - rule, ordination, transmission      no
+  soteriological goal NIRVANA - liberation from suffering              no
+  sacred order        DHARMA - the order the path discloses            no
+THE COMPULSORY QUALIFICATION: Dharma, Sangha and nirvana organise doctrine, practice and value
+ WITHOUT functioning as ONE-FOR-ONE SUBSTITUTES for a personal creator.
+ => saying "Dharma takes the place of God" is exactly the sentence the hidden-God objection needs.
+2024 STEM SHAPE (state and evaluate, 20 marks): complete the STATEMENT before the EVALUATION.
+ Half the marks are in the exposition; evaluating a caricature forfeits the other half.
 
-ASCII MASTER FLOW — PANEL 8/8: 8. PYQ and qualified verdict
-DEFINE religion by clustered features -> distinguish four negative positions
- -> demonstrate Buddhism/Jainism/Mīmāṃsā/Sāṃkhya -> use Cārvāka boundary
- -> Nietzsche/post-theism -> naturalism/fictionalism -> objection on truth/object
-                         |
- VERDICT BY CRITERION
- creator-belief necessary? NO | ultimate concern/ritual/transformation possible? YES
- petition, grace and providence preserved? normally NO
- CLOSE: religion without God is coherent, but not religion without any ultimate value,
- disciplined practice, communal form or account of transformation.
+ASCII MASTER FLOW — PANEL 8/26: Buddhism III - the devotional complication, handled correctly
+LATER MAHAYANA devotion to Buddhas and bodhisattvas is real, widespread and religiously serious.
+TWO TEMPTATIONS, BOTH WRONG
+  X "so Buddhism became theistic"       - function mistaken for ontology
+  X "so it must be a later corruption"  - an evidential claim you cannot support
+THE CORRECT LINE
+  V Buddhas and bodhisattvas may perform religious FUNCTIONS - refuge, gratitude, aspiration,
+    even grace-like assistance - WITHOUT thereby becoming an omnipotent creator.
+  V NON-THEISTIC DOES NOT MEAN DEVOTION-FREE. One sentence disarms the objection.
+THREE OBJECTIONS AND THEIR REPLIES
+  O1 karma is providence renamed      R1 causal-moral regularity is IMPERSONAL: nothing selects,
+                                         forgives, rewards out of love, or answers
+  O2 devotional Mahayana is theism    R2 performing a function is not occupying the creator role
+  O3 Dharma is God renamed            R3 functional similarity does not establish ONTOLOGICAL
+                                         IDENTITY
+THE COST TO CONCEDE: petition, covenant and grace require a responsive God, and Buddhism does
+ without them. Its devotional structure is DIFFERENTLY SHAPED, not absent.
+VERDICT: a strong ACTUAL counterexample - PROVIDED religion is defined multidimensionally rather
+ than stipulated as God-relation, in which case it would be excluded before being examined.
+
+ASCII MASTER FLOW — PANEL 9/26: Jainism - motive, embodiment, and an achieved divinity
+THE JAIN CASE AGAINST A CREATOR - two arguments, both with premises
+  1. THE MOTIVE ARGUMENT                    2. THE EMBODIMENT ARGUMENT
+     a perfect being lacks any unfulfilled     action on matter requires a body or instrument
+     desire; creation would answer a need;     a body is itself made and limited
+     a perfect being has no need               .: an embodied creator is not the UNLIMITED
+     .: no motive to create                       creator that was claimed
+  SAME ARGUMENT FAMILY: Kumarila's Slokavarttika against a BODILESS AGENT acting upon matter.
+WHAT REPLACES THE CREATOR                 WHAT IS VENERATED
+  eternal souls (jiva) + non-soul (ajiva)   TIRTHANKARA - the ford-maker who TEACHES the path
+  KARMIC MATTER that binds and is shed      SIDDHA - the perfected soul, passionless (vitaraga):
+  VOWS and asceticism                       grants nothing, hears nothing, governs nothing
+  liberation as the soul's OWN achievement
+THE DECISIVE LINE: an ACHIEVED divinity, never a GOVERNING one.
+THEIST'S BEST SHOT HERE: "worship of a passionless being is really commemoration, so Jainism is a
+ philosophy with ceremonies."  REPLY: commemoration of a human exemplar does not carry vows, a
+ ritual calendar, temple practice, ascetic discipline and a soteriological goal. A category that
+ excludes this is tracking THEISM, not religion.
+TRAP: never call the siddha a creator God under another name - that concedes the hidden-God
+ objection in the one place where the Jain case is strongest.
+
+ASCII MASTER FLOW — PANEL 10/26: Mimamsa I - the three jobs an author would have done
+  IF SCRIPTURE HAD AN AUTHOR YOU WOULD NEED   MIMAMSA'S REMOVAL
+  (a) a speaker whose reliability can be      APAURUSEYA: the Veda is AUTHORLESS, so there is no
+      established                             reliability question to answer at all
+  (b) an external validator of the text's     SVATAH-PRAMANYA: injunctions are INTRINSICALLY
+      authority                               valid; validity is not conferred from outside
+  (c) a convention fixing what the words      the WORD-REFERENT relation is ETERNAL
+      mean                                    (sabdartha-sambandha nityatva) - Nyaya DENIES this
+                                              as merely conventional: note the dispute
+JAIMINI, MIMAMSA-SUTRA 1.1.2:  "codana-laksano 'rtho dharmah"
+  dharma = that which is CHARACTERISED BY (Vedic) INJUNCTION and is beneficial
+  ==> dharma is known ONLY from injunction - not from perception, not from inference, and not
+      from any deity's command. Quote the sutra FOR THIS CONSEQUENCE or not at all.
+AND THE DEITIES IN THE MANTRAS? they are ELEMENTS WITHIN THE RITUAL STRUCTURE - the dative to
+  which the oblation is offered - NOT agents who hear, choose and grant.
+EFFECT ON THEISTIC PROOFS: Udayana's arguments from the Veda's status (vakyat / pratyayatah /
+  sruteh) lose their PREMISE rather than their conclusion.
+TRAP: one careless sentence calling the Veda "revelation" reinstates the divine speaker the
+  school has just removed, and surrenders the whole counterexample.
+
+ASCII MASTER FLOW — PANEL 11/26: Mimamsa II - the five-step argument for apurva
+ 1  a Vedic injunction PROMISES a result (heaven from the jyotistoma)
+ 2  the result does NOT follow immediately upon the act
+ 3  the act is momentary and PERISHES
+ 4  a PERISHED CAUSE cannot produce a LATER EFFECT
+ 5  .: the act must generate an UNSEEN POTENCY that persists until the result matures
+    = APURVA, "the not-before" - something new that did not previously exist
+EPISTEMIC STATUS: a POSTULATE (arthapatti), NEVER a perceived entity. Mimamsa's own epistemology
+ licenses postulation to explain an otherwise inexplicable fact - so this is a SANCTIONED move,
+ neither an observation nor an arbitrary invention.
+WHY THIS REMOVES GOD, PART TWO: no DISPENSER of karmic fruit is needed, since apurva does that
+ work - so the Nyaya argument that a superintendent of karma (karmadhyaksa) is required is
+ ANSWERED DIRECTLY rather than ignored.
+STATE ALL FIVE STEPS OR NONE: a bare assertion that ritual generates apurva, without the
+ perished-cause problem, reads as vocabulary rather than as argument.
+
+ASCII MASTER FLOW — PANEL 12/26: Mimamsa III - Kumarila against Prabhakara, and three objections
+  KUMARILA BHATTA                          PRABHAKARA MISRA
+  apurva = a POWER (sakti) residing in     recentres on NIYOGA / KARYA - the sheer
+  the act or the agent, linking act        "OUGHT-TO-BE-DONE" disclosed by the injunction,
+  to fruit                                 which motivates without needing a promised fruit
+  => a CONSEQUENTIAL MECHANISM OF DESERT   => a DEONTOLOGY OF THE INJUNCTION
+  THE DIFFERENCE MATTERS: naming the two without the desert-versus-duty payoff is name-dropping.
+THREE OBJECTIONS, THREE REPLIES
+  O1 (Nyaya) an unconscious potency cannot SELECT the appropriate fruit for the appropriate agent
+     at the appropriate time; only an intelligent superintendent can.
+  R1 the relation is LAW-LIKE, not deliberative; the objection assumes that only agents produce
+     determinate outcomes, which BEGS THE QUESTION against natural law.
+  O2 how can a beginningless, authorless text have determinate meaning?
+  R2 meaning is carried by the ETERNAL relation of word and referent (Nyaya denies it: dispute).
+  O3 is this religion, or bureaucracy?
+  R3 it has a sacred order, a soteriological promise, a disciplined practice and a community -
+     exactly what a functional definition requires.
+HONEST LIMIT (?): later Mimamsa authors drift toward theism. The atheistic reading defended here
+ is of the CLASSICAL system - say so, and the answer is protected from an easy correction.
+VERDICT FORMULA: "Mimamsa keeps scripture, ritual, duty, merit and a soteriological goal, and
+ relocates AUTHORITY and EFFICACY in apauruseya Veda and apurva. What it thereby shows is that
+ the religious functions God performs are SEPARABLE."
+
+ASCII MASTER FLOW — PANEL 13/26: Samkhya and Yoga - a cosmos without a maker
+ PURUSA (plural, conscious, inactive)          PRAKRTI (one, unconscious, active)
+      |  mere PRESENCE / proximity                  |  three strands (guna) in disturbed
+      +----------------------+---------------------+   equilibrium
+                             v
+                EVOLUTION of intellect, ego-sense, mind, senses,
+                subtle and gross elements
+                             |
+                ENTANGLEMENT: the self MISTAKES itself for what evolves  <- the predicament
+                             |
+                DISCRIMINATIVE KNOWLEDGE (viveka-khyati)
+                             v
+                KAIVALYA - ISOLATION of the self from nature
+                (release, NOT the annihilation of nature)
+WHERE IS THE CREATOR? nowhere; nothing in the sequence requires one.
+YOGA'S ISVARA: a SPECIAL SELF, untouched by affliction and action - NOT straightforwardly a
+ creator in the classical Samkhya sense. DO NOT read Yoga's Isvara back into Samkhya; that single
+ editorial accident converts a non-theistic system into a theistic one.
+PRESUPPOSITION: impersonal law or dual principles can explain order AND liberation.
+NYAYA PRESSURE: an unconscious principle cannot organise ENDS.
+REPLY: observed regularity need not be modelled on ARTEFACT PRODUCTION. Standard illustration -
+ milk seeming to nourish the calf: non-conscious purposiveness with nothing deliberating.
+ This reply is the GENERAL form of the anti-design answer in this clause; it also serves Buddhism
+ and Mimamsa.
+
+ASCII MASTER FLOW — PANEL 14/26: Carvaka I - perception alone, and the four-element ontology
+WHY ONLY PERCEPTION (pratyaksa)?
+ 1 a means of knowledge (pramana) must yield CERTAINTY about its object
+ 2 perception is self-evident and immediately certain
+ 3 every other candidate - inference, comparison, testimony, postulation - is either reducible to
+   perception or DEPENDS ON A GENERAL RULE that perception cannot certify
+ 4 .: perception alone is a pramana, and knowledge does not extend beyond the perceptible
+THE ONTOLOGY THAT FOLLOWS
+ reality = the FOUR GROSS ELEMENTS (bhutacatustaya): earth, water, fire, air
+ ETHER IS REJECTED because it is IMPERCEPTIBLE - not an omission but a consequence
+ the human ends (purusarthas) reduce to KAMA and ARTHA, because the other two require a
+ supersensible order to be intelligible
+THE CERTAINTY CONDITION IS THE HINGE - and it is where the school is most vulnerable:
+ PARITY OBJECTION: perception itself faces illusion, dream and defective organs, and is corrected
+ only by further cognition. So either the certainty condition is weakened - and inference
+ re-enters - or perception fails its own test.
+NOTE THE SHAPE OF THE CONCLUSION: it is ALREADY DOMAIN-RESTRICTED in its own statement -
+ inference "works by luck or habit" in daily life and is worthless where no perceptual check
+ exists. That restriction is what makes the moderate reading available in Panel 17.
+
+ASCII MASTER FLOW — PANEL 15/26: Carvaka II - the attack on inference, in full
+INFERENCE (anumana) depends on VYAPTI - an INVARIABLE, UNCONDITIONAL concomitance between the
+ mark (hetu, e.g. smoke) and the inferred (sadhya, e.g. fire).
+CARVAKA'S QUESTION: by what means is VYAPTI ITSELF known?
+ +---------------------------------------------------------------------------------------------+
+ | (1) NOT BY PERCEPTION - perception grasps only PARTICULAR co-presences, here and now.       |
+ |     Vyapti is a UNIVERSAL covering all cases, including unobserved past, future and remote  |
+ |     ones, and no perception reaches those.                                                  |
+ | (2) NOT BY INFERENCE - establishing this vyapti by another inference requires that          |
+ |     inference's own vyapti: INFINITE REGRESS or CIRCULARITY.                                |
+ | (3) NOT BY TESTIMONY - testimony's authority would itself have to be established, and for   |
+ |     the Carvaka it is not a pramana at all.                                                 |
+ | (4) THE UPADHI PROBLEM - even repeated observation cannot rule out an unnoticed CONDITIONING|
+ |     FACTOR (upadhi) that makes the concomitance hold only contingently. Standard example:   |
+ |     fire is accompanied by smoke ONLY WHEN THE FUEL IS WET. Unless every possible upadhi is |
+ |     excluded - and that exclusion is itself unverifiable - the concomitance remains merely  |
+ |     PROBABLE: deviation (vyabhicara) stays possible.                                        |
+ +---------------------------------------------------------------------------------------------+
+CONCLUSION: inference cannot deliver CERTAINTY. Where it works in daily life it works by luck or
+ habit; and precisely in the supersensible domain - God, soul, karma, afterlife - no perceptual
+ check is EVER available, so there inference is worthless.
+TRAP: "Carvaka rejects inference" states a CONCLUSION and omits the ARGUMENT the 2025 directive
+ asked for. Give all four moves, including the upadhi residue.
+
+ASCII MASTER FLOW — PANEL 16/26: Carvaka III - the application to religion
+ (a) GOD      never perceived => the inference from world-as-effect to an intelligent maker is
+              DOUBLY worthless: unperceived object, uncertifiable concomitance
+ (b) THE SOUL not a separate substance: consciousness is an EMERGENT property of the body
+              (dehatmavada). Standard analogy: the INTOXICATING POWER (madasakti) arising when
+              fermenting ingredients (kinva etc.) are combined, though present in none singly.
+              => no survival, no transmigration, NO LIBERATION - the whole soteriology goes
+ (c) KARMA and unseen merit (adrsta) - imperceptible postulates invented to prop up ritual
+ (d) THE VEDA authority denied. The verses transmitted in Madhava's Sarvadarsanasamgraha and
+              attributed there to BRHASPATI mock the fire-sacrifice, the three Vedas and ascetic
+              practice as the livelihood of the witless.
+              (?) ATTRIBUTION DISCIPLINE: these survive ONLY as quotations in OPPONENTS' works.
+              Treat them as REPORTED Carvaka positions, never as verified primary text; and never
+              present the hedonist couplet ("yavaj jivet sukham jivet...") as more than a
+              doxographic quotation, or build an answer on it.
+ (e) ORDER    SVABHAVA-VADA: things behave according to their OWN NATURE. The sharpness of a
+              thorn and the colour of a peacock require no maker.
+NOTE THE PARALLEL: (e) is the Carvaka counterpart of the Samkhya anti-design reply in Panel 13 -
+ but stronger, because it declines the supersensible altogether rather than relocating it.
+
+ASCII MASTER FLOW — PANEL 17/26: Carvaka IV - the five replies, and the moderate strand
+ 1 SELF-REFUTATION   "no inference is valid" is itself a UNIVERSAL claim about all inferences,
+   which cannot be perceived and must therefore be INFERRED. The thesis defeats itself.
+   ==> REJOINDER A: advance the denial DIALECTICALLY, as a PRASANGA (reductio) internal to the
+       opponent's own commitments, asserting no positive universal of one's own.
+ 2 PRAGMATIC         no one, including the Carvaka, can eat, speak, teach or argue without
+   relying on inference; performative consistency demands its acceptance.
+ 3 NYAYA'S POSITIVE DEFENCE OF VYAPTI
+   (i) repeated uncontradicted co-observation (bhuyodarsana)
+   (ii) NON-OBSERVATION OF ANY COUNTER-INSTANCE (vyabhicara-adarsana)
+   (iii) TARKA - hypothetical reasoning showing that denying the concomitance leads to absurdity
+   plus the technical device samanya-laksana-pratyasatti, explaining how a universal is
+   cognitively available at all
+ 4 PARITY            perception itself errs - illusion, dream, defective organs - and is corrected
+   only by further cognition; certainty is not perception's exclusive property either
+ 5 (?) THE MODERATE STRAND - and the one that separates a top script
+   a strand associated with the fragmentary PURANDARA is REPORTED as accepting inference for
+   ORDINARY empirical matters (laukika) while rejecting it as a route to the SUPERSENSIBLE
+   (alaukika / atindriya).
+   ==> REJOINDER B: on this reading the school is NOT committed to self-refuting global
+       scepticism. Its thesis becomes the far more defensible one that inference cannot be
+       extended beyond the domain in which its concomitances can be PERCEPTUALLY CHECKED -
+       a classical Indian anticipation of the empiricist critique of metaphysics.
+   (?) the evidence is fragmentary and reported by opponents: flag it as a REPORTED strand.
+
+ASCII MASTER FLOW — PANEL 18/26: Carvaka V - the classification verdict and its payoff
+ IS CARVAKA A "RELIGION WITHOUT GOD"?   ==>   NO. And saying so precisely is the mark-earning move.
+   no soteriology | no sacred | no community of practice | no ultimate concern
+ ITS PLACE IN THE CLAUSE: the LIMITING CASE at the other end.
+   Buddhism, Jainism and Mimamsa show that religion can survive the LOSS OF GOD.
+   Carvaka shows what happens when the EPISTEMIC ROUTE TO ANY SUPERSENSIBLE OBJECT is closed:
+   you get not a godless religion but NO RELIGION AT ALL.
+ THE PAYOFF: the contrast establishes that what non-theistic religions retain is NOT merely a
+   substitute deity but an ACCEPTED SUPERSENSIBLE ORDER - dharma, karma, nirvana, apurva -
+   which Carvaka alone rejects.
+ VERDICT FORMULA (write it): "Carvaka's critique succeeds exactly as far as its epistemology does.
+   If the STRONG thesis is held - perception alone - it is self-refuting and pragmatically
+   unliveable. If the MODERATE thesis is held - inference is admissible only where its
+   concomitance can in principle be perceptually checked - the critique is powerful, unrefuted,
+   and fatal to every anumana-based natural theology, including Udayana's."
+ WHY THE MISCLASSIFICATION IS SO COSTLY: candidates reach for Carvaka as the obvious "godless
+   Indian school", and thereby show they think ABSENCE OF GOD is the criterion. Placing it
+   correctly is the fastest available demonstration that you know what the criterion actually is.
+
+ASCII MASTER FLOW — PANEL 19/26: Western critiques of theistic religion - four critics, one limit
+  CRITIC      THE CLAIM                                    NAMED SOURCE
+  FEUERBACH   "theology is anthropology"; God is the        The Essence of Christianity
+              PROJECTION of humanity's idealised essence
+  MARX        religion is "the OPIUM OF THE PEOPLE" - a     Introduction to A Contribution to the
+              consoling illusion masking economic           Critique of Hegel's Philosophy of
+              exploitation; dissolves with a just society   Right, 1843-44
+  FREUD       religion is an ILLUSION: wish-fulfilment      Freud on religion as illusion
+              and cosmic father-projection
+  COMTE       replace the OBJECT: a positive RELIGION OF    Comte's Religion of Humanity
+              HUMANITY - devotion to human values
+              without a deity
+THE SHARED STRUCTURE: identify a human need, fear or condition -> show the belief would be
+ produced by it anyway -> conclude the belief is fully EXPLAINED without the object.
+WHAT THIS ESTABLISHES: the belief is NOT SELF-AUTHENTICATING. "People believe, therefore there is
+ something to believe in" is blocked.
+WHAT THIS DOES NOT ESTABLISH: that the object does not exist. A TRUE belief can also have a
+ psychological or economic cause. ==> THE GENETIC-FALLACY LINE: ORIGIN DOES NOT SETTLE TRUTH.
+WHERE THEY LEAD IN THIS CLAUSE: toward SECULAR HUMANISM and Comte's religion of humanity - which
+ is why the clause routes them onward to the Humanism / Secularism owner rather than developing
+ them for their own sake.
+
+ASCII MASTER FLOW — PANEL 20/26: Nietzsche - diagnosis, genealogy, and the ownership gate
+THE ARGUMENT IN FOUR STEPS
+ 1 modern truthfulness and science ERODE traditional belief
+ 2 inherited values DEPENDED on that framework
+ 3 their collapse creates NIHILISM
+ 4 overcoming it requires REVALUATION OF ALL VALUES and self-creation (the Ubermensch)
+PRESUPPOSITION: values have GENEALOGIES tied to forms of life, and can be assessed as
+ life-enhancing or life-denying.
+CANONICAL EXAMPLE: RESSENTIMENT reverses aristocratic value terms and converts weakness into
+ moral superiority.
+THE DISTINCTION THAT MUST BE MADE: "God is dead" is a CULTURAL DIAGNOSIS, not a syllogism proving
+ that God does not exist, and not an empirical report about an event.
+OBJECTION -> REPLY: revaluation risks elitism and arbitrary power ==> the Nietzschean reply
+ appeals to creative self-overcoming, though a universal normative standard remains difficult.
+ The self-reference is acknowledged rather than escaped.
+============================ THE OWNERSHIP GATE ============================
+ The printed 2025 stem - "Present an account of Nietzsche's criticism of religion and morality" -
+ couples religion WITH morality and is owned by the RELIGION AND MORALITY clause. The full
+ genealogical dossier (slave revolt, ascetic ideal, Beyond Good and Evil, the criticisms and the
+ Indian comparison) lives there.
+ THIS clause retains Nietzsche as (a) a critique of THEISTIC religion and (b) the BRIDGE to
+ post-theistic value.
+ THE COMPARATIVE POINT THAT EARNS THE MARK: a horizon LOST is not a horizon NEVER HAD. Buddhism
+ and Jainism never possessed what Nietzsche is mourning, so post-theism and non-theism must be
+ argued in SEPARATE paragraphs.
+
+ASCII MASTER FLOW — PANEL 21/26: Agnosticism - the definition, the two strengths, the relation
+PART ONE - WHAT AGNOSTICISM IS
+ the existence of God is UNKNOWN or UNKNOWABLE ==> suspend judgement.
+ DISTINCT FROM ATHEISM, which DENIES; and from INDIFFERENCE, which does not raise the question.
+  WEAK AGNOSTICISM                        STRONG AGNOSTICISM
+  "not known"                             "unknowable"
+  contingent: evidence may underdetermine principled: the question exceeds the reach of
+  the question => open to future evidence human knowledge => closed in principle, and
+                                          therefore itself a substantial epistemological
+                                          thesis needing its own defence
+ COINAGE: "agnostic" was coined by T. H. HUXLEY in 1869.
+ ADJACENT POSITIONS: Kant's practical faith; Spencer's "Unknowable".
+PART TWO - HOW AGNOSTICS RELATE RELIGION AND GOD (the SECOND printed deliverable)
+ the two are SEPARABLE. An agnostic may affirm religion's ETHICAL dimension (conduct, compassion),
+ its EXPERIENTIAL dimension (contemplation, awe), and its COMMUNAL and RITUAL dimensions, while
+ WITHHOLDING assent on the EXISTENCE of God ==> a NON-THEISTIC or MINIMAL religiosity.
+ PRESUPPOSITION, stated honestly: religious commitment can be GRADED and need not include
+ metaphysical certainty.
+ CANONICAL CASE: a person may participate in Buddhist ethical and meditative practice while
+ withholding creator claims.
+ OBJECTION -> REPLY: this reduces religion to ethics or aesthetics ==> community, ritual,
+ transformation and orientation to ultimacy EXCEED ordinary morality.
+TRAP: answering only Part One forfeits half the marks on the 2023 stem.
+
+ASCII MASTER FLOW — PANEL 22/26: Religious naturalism - the modern question, and its bench
+WHY THE MODULE EXISTS: Buddhism, Jainism and Mimamsa show religion without God in CLASSICAL forms.
+ The modern debate asks a sharper question: can someone who accepts a NATURALISTIC ONTOLOGY
+ nonetheless be religious?
+THESIS: ultimacy, reverence and the religious response are located WITHIN NATURE; there is no
+ supernatural person, but nature sustains genuine attitudes of awe, gratitude, humility, commitment.
+  THINKER            NAMED WORK                        THESIS IN ONE LINE
+  JOHN DEWEY         A Common Faith, 1934              distinguishes "religion" (an institution
+                                                       with supernatural claims) from "THE
+                                                       RELIGIOUS" (a quality of experience that
+                                                       unifies the self toward inclusive ideal
+                                                       ends); proposes using "God" for the ACTIVE
+                                                       RELATION BETWEEN THE IDEAL AND THE ACTUAL
+  RONALD DWORKIN     Religion without God, 2013        "RELIGIOUS ATHEISM": reject a personal God
+                                                       while holding that human life has OBJECTIVE
+                                                       INTRINSIC meaning and the universe is
+                                                       SUBLIME; VALUE REALISM, not theism, is core
+  URSULA GOODENOUGH  The Sacred Depths of Nature, 1998 the religious response to natural depth
+  JULIAN HUXLEY      evolutionary humanism             religious attitude within evolutionary
+                                                       naturalism
+  CROSBY and RUE     nature as the ground of ultimacy   immanent locus of ultimacy
+  SPINOZA            Deus sive Natura                  the historical ancestor of the family
+OBJECTION -> REPLY: this is ethics and aesthetics wearing religious vocabulary; nothing is
+ worshipped, nothing saves ==> ultimacy, reverence, communal practice and self-transformation are
+ all present, and demanding a supernatural PERSON simply RESTATES the theistic definition.
+HONEST CONCESSION: strongest where real practices and communities accompany the philosophy;
+ otherwise "religious" survives chiefly as an ADJECTIVE for a quality of experience.
+BOUNDED CAUTION: civil religion and secular spirituality are BOUNDARY TESTS, not owners, and never
+ substitutes for the Indian cases: without a transformative discipline the category is too broad.
+
+ASCII MASTER FLOW — PANEL 23/26: Fictionalism, its rivals, and the Indian graded-truth control
+THREE MODERN POSITIONS - the dividing line is ASSERTION
+  ERROR THEORY            NON-COGNITIVISM             FICTIONALISM
+  the claims are FALSE    the claims NEVER HAD        the claims DO have truth-conditions,
+  ==> STOP                truth-conditions            and are simply NOT ASSERTED
+                          ==> never asserted          ==> ACCEPTED WITHIN the practice
+NAMED POSITIONS
+  Don Cupitt, Taking Leave of God (1980) - NON-REALISM; God as the personification of the
+    religious ideal; "Sea of Faith" theology
+  Robin Le Poidevin, Arguing for Atheism (1996) - explicit religious FICTIONALISM
+  Andrew Eshleman on the fictionalist's participation
+  Howard Wettstein on the significance of religious experience without metaphysical commitment
+THREE OBJECTIONS -> THREE REPLIES
+ (i) INSINCERITY / SELF-DECEPTION: worship presupposes belief; make-believe worship is dishonest
+     or hollow. R: immersion in a fiction is a familiar, NON-DECEPTIVE human capacity - literature,
+     ritual drama.
+ (ii) MOTIVATIONAL: the practice's power derives from believing it true. R: fictionalists appeal
+     to the sustained efficacy of narrative and ritual - an EMPIRICAL claim that remains CONTESTED.
+ (iii) INTERNAL: believers themselves reject the description, so the account is REVISIONARY of the
+     very thing it purports to save.
+================= THE INDIAN COMPARISON - DO NOT OMIT =================
+ ADVAITA already contains a TWO-LEVEL apparatus doing structurally similar work WITHOUT
+ fictionalism: worship of the qualified absolute (saguna) is GENUINELY EFFICACIOUS at the everyday
+ level (vyavaharika) and is SUBLATED, not exposed as fiction, at the ultimate level (paramarthika).
+ ==> SUBLATION IS NOT FALSIFICATION.
+ BUDDHISM's TWO TRUTHS (samvrti / paramartha) permit full participation in conventional religious
+ practice while denying ultimate substantial reference.
+ THE COMPARATIVE POINT THAT EARNS MARKS: Indian systems offer GRADED TRUTH where Western
+ fictionalism offers PRETENCE - the Indian device preserves the practitioner's SINCERITY.
+
+ASCII MASTER FLOW — PANEL 24/26: The theist's denial, the rebuttal ledger, and the six-route bench
+  THE THEIST'S DENIAL                            THE REBUTTAL
+  1 DEFINITIONAL: religion IS relation to a      Smart's dimensions; definition by STIPULATION is
+    personal transcendent => "religion without    question-begging
+    God" is a CATEGORY ERROR
+  2 DEVOTIONAL: worship requires a recipient;    Jain siddha = an ACHIEVED, not a GOVERNING,
+    Jain vitaraga worship is "really              divinity; vows, ritual, asceticism, soteriology
+    commemoration"
+  3 MORAL: obligation requires a COMMANDER       compassion, non-injury, karma, vows, insight,
+    (divine command)                              human flourishing
+  4 COSMIC ORDER: purposive order and karmic     MIMAMSA: apauruseya Veda + apurva secure
+    allotment require intelligence (Nyaya's       authority, efficacy AND desert; LAW-LIKE is not
+    Isvara as karmadhyaksa)                       DELIBERATIVE
+  5 SOTERIOLOGICAL: grace and salvation          Buddhism's complete diagnosis-and-path structure
+    require an AGENT who can give
+ THE ASSESSMENT THAT EARNS THE MARK: the theist's strongest SURVIVING point is (2) WORSHIP/GRACE,
+ not (1) the definition. Petition and grace genuinely require a responsive God, and non-theistic
+ religions do without them AT A REAL COST IN DEVOTIONAL STRUCTURE.
+  ROUTE            REMOVED                       REPLACED BY                     RELIGION? PYQ
+  Buddhism         creator + permanent self      dependent origination, Dharma,  YES      2024
+                                                 Sangha, nirvana                          Q7(a)
+  Jainism          creator only                  karmic matter, vows, siddha     YES      2018
+  Mimamsa          author of Veda AND dispenser  apauruseya authority + apurva   STRONG   2020
+                   of fruit
+  Samkhya/Yoga     creator (Yoga keeps a         prakrti's evolution;            YES      2021
+                   non-creating Isvara)          viveka-khyati; kaivalya
+  Naturalism /     supernatural ontology, or     nature as locus of ultimacy;    ONLY ON  2018
+   fictionalism    assertion itself              practice without assertion      FUNCTION
+  Carvaka          the WHOLE supersensible order nothing - svabhava, this-worldly NO      2025
+                                                 ends                            (LIMIT)  Q5(a)
+ CONCLUSION: religion without God is possible; religion without a SACRED ORDER is not.
+
+ASCII MASTER FLOW — PANEL 25/26: PYQ routes and the graded verdict ladder
+ YEAR  PART   MARKS  EXACT DEMAND                                          ROUTE
+ 2018  Q5(c)  10     Can you justify religion without God? Support...      definition + Buddhism/
+                                                                           Jainism + boundary
+ 2019  Q6(c)  15     How would a religious person deny the possibility...  theist's 5 arguments
+                                                                           FIRST, then rebut
+ 2020  Q6(c)  15     Critically examine the concept of God as              necessity test +
+                     prerequisite for a religion.                          counterexamples
+ 2021  Q5(d)  10     Is religious life possible without the belief in      one tradition as LIVED
+                     God? Discuss.                                         practice, in depth
+ 2023  Q5(e)  10     What is Agnosticism? How do agnostics conceptualize   define + weak/strong +
+                     the relation between religion and God? Discuss.       the relation
+ 2024  Q7(a)  20     State and evaluate Buddhism as a religion without     statement complete,
+                     God.                                                  THEN evaluation
+ 2025  Q5(a)  10     Discuss Carvaka's critique of the belief in the       the EPISTEMOLOGY -
+                     existence of suprasensible entities.                  vyapti, not slogans
+ (2022 is the only year in 2018-2025 with no primary-owned part in this clause.)
+ GRADED VERDICT LADDER
+  WEAK   ~40%  "Buddhism has no God but is a religion"        no definition; "atheistic" loose
+  AVG    ~50%  functional definition; Buddhism + Jainism      theist's case not constructed;
+                                                              Mimamsa missing
+  GOOD   ~60%  definition defended; one case in depth         over-broad functionalism unpoliced;
+                                                              devotional Mahayana ignored
+  STRONG ~65-70% substantive/functional dispute explicit;     naturalism/fictionalism absent;
+                 two Indian cases; worship/grace met          Carvaka misclassified
+  TOP    ~70%+ all the above + a DISCRIMINATING distinction (non-theistic != atheistic; apauruseya
+               != revelation; sublation != fictionalism; Carvaka as limiting case) + the concession
+               that petition and grace genuinely require a responsive God
+
+ASCII MASTER FLOW — PANEL 26/26: Answer architectures and quotation discipline
+ ANSWER ARCHITECTURES
+  10  define -> doctrine in four steps -> distinguish the nearest confusion -> one objection ->
+      verdict on whether God is necessary
+  15  substantive vs functional frame -> one Indian case in depth -> canonical example ->
+      theistic objection and reply -> comparison with another school
+  20  define criteria -> full Buddhist/Jain/Mimamsa case -> creator critique -> devotional
+      complication -> Western post-theistic comparison -> graded conclusion
+ QUOTATION DISCIPLINE: "God is dead" = The Gay Science 125 (also 108, 343), cultural diagnosis |
+  "opium of the people" = Marx 1843-44, quote the fuller sentence | "theology is anthropology" =
+  Feuerbach | "agnostic" coined by Huxley 1869 | Brahmajala DN 1, Agganna DN 27 | Mimamsa-sutra
+  1.1.2 verified | Slokavarttika against a creator | A Common Faith 1934 | Religion without God
+  2013 | Taking Leave of God 1980 | Arguing for Atheism 1996 | The Sacred Depths of Nature 1998 |
+  (?) Brhaspati verses, the hedonist couplet and Purandara: DOXOGRAPHIC / REPORTED ONLY.

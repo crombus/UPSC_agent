@@ -1,120 +1,1353 @@
-ASCII MASTER FLOW — PANEL 1/10: Analytic revolt and the distinct programmes of the trio
-START -> revolt against British idealist systems through disciplined analysis.
-COMMON DEMAND -> clarity, distinctions and refusal to let theory erase evident facts.
-MOORE -> protects common-sense propositions by comparing epistemic certainty.
-RUSSELL -> exposes logical form and replaces problematic entities by constructions.
-EARLY WITTGENSTEIN -> explains representation and draws the boundary of saying.
-UNITY -> analysis replaces speculative system-building as philosophy's main tool.
-DIFFERENCE -> epistemic defence | logical reduction | transcendental delimitation.
-NOT LOGICAL POSITIVISM -> verificationism is a later doctrine, not their common creed.
-NOT ONE ATOMISM -> Russell's acquaintance-based atoms differ from Tractarian objects.
-ANSWER LINE -> shared analytic direction does not erase distinct standards of success.
+ASCII MASTER FLOW — PANEL 1/28: Central claim, the seven printed terms and the one-line answer
+==============================================================================
+CENTRAL CLAIM: A PHILOSOPHICAL PROBLEM IS SETTLED BY EXAMINING THE
+PROPOSITION THAT STATES IT - WHAT IT COMMITS US TO, WHAT ITS LOGICAL
+FORM ACTUALLY IS, AND WHETHER IT HAS SENSE AT ALL. ANALYSIS REPLACES
+SYSTEM-BUILDING.
+        |
+   +-------------------+-------------------+----------------------+
+   | G. E. MOORE       | B. RUSSELL        | EARLY WITTGENSTEIN   |
+   | 1873-1958         | 1872-1970         | 1889-1951            |
+   | DEFENDS           | DISSECTS          | PICTURES             |
+   +-------------------+-------------------+----------------------+
+   | Defence of        | Logical Atomism   | Picture Theory of    |
+   | Commonsense       | Logical           | Meaning              |
+   | Refutation of     | Constructions     | Saying and Showing   |
+   | Idealism          | Incomplete        |                      |
+   |                   | Symbols           |                      |
+   +-------------------+-------------------+----------------------+
+        |
+        v
+SEVEN PRINTED TERMS, THREE OWNERS, ONE JOINTLY LISTED
+   Defence of Commonsense ......... MOORE, 1925
+   Refutation of Idealism ......... MOORE, Mind 1903
+   Logical Atomism ................ RUSSELL 1918 *and distinctly*
+                                    WITTGENSTEIN, Tractatus
+   Logical Constructions .......... RUSSELL 1914
+   Incomplete Symbols ............. RUSSELL 1905, Principia Mathematica
+   Picture Theory of Meaning ...... EARLY WITTGENSTEIN
+   Saying and Showing ............. EARLY WITTGENSTEIN, 4.12-4.1212,
+                                    6.522, 6.54, 7
+        |
+        v
+THE ONE SHARED INSIGHT, USED THREE DIFFERENT WAYS
+   GRAMMATICAL FORM != LOGICAL FORM
+   MOORE       the ordinary judgement is safe; its ANALYSIS is hard,
+               and analytic difficulty does not cancel KNOWLEDGE
+   RUSSELL     the ordinary sentence misleads; QUANTIFIED form
+               dissolves the pseudo-entity
+   WITTGENSTEIN the sentence has sense only by SHARING logical form
+               with a possible situation - and that sharing can never
+               be stated
+        |
+        v
+ANSWER LINE (opens any comparative part):
+   "The three programmes agree that philosophy proceeds by analysis
+    and disagree about what analysis reaches."
 
-ASCII MASTER FLOW — PANEL 2/10: Moore's common-sense propositions and external-world proof
-1925 DEFENCE -> qualified truisms about body, earth, other persons and temporal life.
-KNOWING P != possessing a complete philosophical ANALYSIS of P.
-ANALYTICAL DIFFICULTY about body/material object does not cancel ordinary knowledge.
-1939 PROOF -> here is one hand + here is another -> external objects exist.
-PROOF TEST 1 -> premises differ from conclusion; TEST 2 -> premises are known.
-PROOF TEST 3 -> conclusion follows: hands are things met with in space.
-SCEPTIC -> you assume precisely what dream or deception scenarios place in doubt.
-MOORE -> hand-premises are more certain than any premise used to deny them.
-LIMIT -> formally valid proof does not provide a neutral criterion of knowledge.
-RESULT -> external-world proof shifts the burden; it is not total scepticism's end.
+ASCII MASTER FLOW — PANEL 2/28: Syllabus verbatim, owner scope and the boundary firewall
+==============================================================================
+SYLLABUS (verbatim, Paper I, Section A, item 6):
+   "Moore, Russell and Early Wittgenstein : Defence of Commonsense;
+    Refutation of Idealism; Logical Atomism; Logical Constructions;
+    Incomplete Symbols; Picture Theory of Meaning; Sying and Showing."
+   NOTE the printed "Sying" - retain when quoting the syllabus, then
+   use the correct doctrine-name SAYING AND SHOWING.
+        |
+        v
+OWNS (marks-essential)
+   Moore: truisms | knowing vs analysing | comparative certainty |
+     hands proof + three conditions | act/object | transparency |
+     the bounded anti-idealist result
+   Russell: incomplete symbols | descriptions (existence, uniqueness,
+     predication) | three puzzles | primary/secondary occurrence |
+     acquaintance/description + the Principle | logical constructions
+     + the supreme maxim | atomic facts | truth-functions |
+     isomorphism | negative facts | "logical not physical atoms"
+   Early Wittgenstein: facts not things (1.1) | objects and states of
+     affairs | picture theory | pictorial vs logical form |
+     bipolarity | logical space | general form of the proposition (6)
+     | sinnlos vs unsinnig | saying/showing | ladder (6.54) | 7
+   ALL FOURTEEN routed 2018-2025 parts
+        |
+        v
+BOUNDED ORIENTATION (only to the depth a printed limb or a PYQ needs)
+   Moore's paradox of analysis | Russell's negative facts and
+   universals | colour exclusion (1929) as an internal pressure |
+   solipsism and the metaphysical subject at 5.62-5.641 |
+   the standard-vs-resolute reading of 6.54
+        |
+        v
+NOT OWNED HERE (cross-owned; one bounded clause at most)
+   verification principle, rejection of metaphysics ..... TOPIC 07
+   meaning as use, language-games, family resemblance,
+     private language ................................... TOPIC 08
+   Strawson's positive semantics and persons ............ TOPIC 11
+   Berkeley's immaterialism as doctrine ................. TOPIC 03
+   Hegel's Absolute Idealism as doctrine ................ TOPIC 05
+   NATURALISTIC FALLACY, OPEN QUESTION ARGUMENT ......... MOORE'S
+     ETHICS (Principia Ethica 1903) - NOT this clause
+   Russell's logicism, paradox, theory of types, later
+     neutral monism ..................................... OPTIONAL
+        |
+        v
+FIREWALL SENTENCE: this is the only Western clause in which ATTRIBUTION
+   is itself examinable. A script that writes "Moore and Russell held
+   that..." without a discriminating clause has already lost a mark.
 
-ASCII MASTER FLOW — PANEL 3/10: Moore's awareness-object distinction and transparency
-TARGET -> esse est percipi: the object's being is identified with being perceived.
-BLUE EXPERIENCE -> AWARENESS directed toward BLUE; green has the same relation.
-COMMON ELEMENT -> awareness/consciousness; VARIABLE ELEMENT -> presented object.
-THEREFORE -> awareness != blue and awareness != green.
-TRANSPARENCY / DIAPHANOUSNESS -> attention passes through awareness to its object.
-IDEALIST TEMPTATION -> because the act is elusive, identify sensation with its object.
-MOOREAN REPLY -> being overlooked does not make awareness identical with the object.
-NARROW RESULT -> the identity route from object to awareness is blocked.
-LIMIT -> distinguishability does not prove every object exists unperceived.
-BERKELEY CAUTION -> Moore does not refute Berkeley's entire philosophy in one stroke.
+ASCII MASTER FLOW — PANEL 3/28: Chronology rail - the minimum that prevents anachronism
+==============================================================================
+1893  BRADLEY, Appearance and Reality ........ the target in place
+        |
+1903  MOORE, "The Refutation of Idealism", Mind ....... ACT/OBJECT
+1903  MOORE, Principia Ethica ......... SAME YEAR, DIFFERENT SUBJECT
+        the naturalistic fallacy lives HERE, in ethics
+1905  RUSSELL, "On Denoting", Mind ............ DESCRIPTIONS BEGIN
+1910-11 Russell, "Knowledge by Acquaintance and Knowledge by
+        Description", Proceedings of the Aristotelian Society
+1910-13 Whitehead and Russell, Principia Mathematica - the technique
+        of CONTEXTUAL DEFINITION that "incomplete symbol" names
+1912  Russell, The Problems of Philosophy, Ch. 5 ...... PRINCIPLE OF
+        ACQUAINTANCE (safe to quote verbatim)
+1914  Russell, Our Knowledge of the External World +
+        "The Relation of Sense-Data to Physics" ... LOGICAL
+        CONSTRUCTIONS + the SUPREME MAXIM
+        |
+1918  RUSSELL, "The Philosophy of Logical Atomism" - London lectures,
+        published in The Monist 1918-19. THE PREFACE CREDITS THE IDEAS
+        TO WITTGENSTEIN. Say so in the exam.
+1918  WITTGENSTEIN completes the Tractatus manuscript
+1921  GERMAN text: Logisch-Philosophische Abhandlung, in Annalen der
+        Naturphilosophie
+1922  BILINGUAL German-English edition, Latin title Tractatus Logico-
+        Philosophicus - THE TITLE WAS MOORE'S SUGGESTION. Ogden
+        translation, assisted by Ramsey, checked by Wittgenstein.
+        NEVER date the English text 1921.
+        |
+1925  MOORE, "A Defence of Common Sense" ......... THE TRUISMS PAPER
+1929  Wittgenstein, "Some Remarks on Logical Form", PAS Supp. -
+        COLOUR EXCLUSION; the only philosophical article besides the
+        Tractatus published in his lifetime; analysis soon abandoned
+1939  MOORE, "Proof of an External World", British Academy .... HANDS
+        |
+1950  STRAWSON, "On Referring", Mind ......... presupposition
+1953  Philosophical Investigations, posthumous ......... TOPIC 08
+1956  SELLARS, "Empiricism and the Philosophy of Mind" .. THE GIVEN
+1961  PEARS-McGUINNESS translation of the Tractatus
+1970/1980 KRIPKE, Naming and Necessity - lectures 1970, book 1980;
+        give ONE date, never a merged one
+        |
+        v
+THREE CHEAP MARKS: the 1903/1925/1939 separation | Russell's 1918
+   attribution to Wittgenstein | the 1921 German / 1922 bilingual split
 
-ASCII MASTER FLOW — PANEL 4/10: Russell's logical analysis, facts and atomic propositions
-ANALYTIC PROGRAMME -> surface grammar may conceal the proposition's logical form.
-WORLD -> facts, not merely things; a fact is an obtaining structured complex.
-CONSTITUENTS -> particulars plus universals/relations combine in atomic facts.
-LANGUAGE -> names/predicates combine in atomic propositions without connectives.
-TRUE ATOMIC PROPOSITION <-> corresponding atomic fact obtains.
-MOLECULAR PROPOSITION -> truth-function of atomic propositions.
-LOGICAL INDEPENDENCE -> qualified ideal of the atomic base, not an easy empirical fact.
-ANALYSIS -> reaches simpler constituents; atoms are logical, not microscopic particles.
-LOGICALLY PERFECT LANGUAGE -> regulative model whose final vocabulary is disputed.
-VERDICT -> method clarifies commitment even if the final atomist ontology is unstable.
+ASCII MASTER FLOW — PANEL 4/28: The target, and the three senses of "analysis"
+==============================================================================
+BRITISH ABSOLUTE IDEALISM (Bradley, McTaggart; Hegelian inheritance)
+   INTERNAL RELATIONS: nothing could be what it is if its relations
+     were different
+   DEGREES OF TRUTH: ordinary claims are true only in a degraded sense
+   APPEARANCE: the world of separate things in space and time is
+     demoted
+        |
+   THE PROVOCATION: if ordinary claims are appearance, a system may
+   correct them WHOLESALE
+        |
+        v
+   +----------------+----------------+----------------------------+
+   | MOORE          | RUSSELL        | EARLY WITTGENSTEIN         |
+   | the order of   | internal       | the system's own sentences |
+   | CONFIDENCE is  | relations are  | fail the test any sentence |
+   | backwards      | an artefact of | must pass to have SENSE    |
+   |                | subject-       |                            |
+   |                | predicate form |                            |
+   +----------------+----------------+----------------------------+
+        |
+        v
+THREE SENSES OF "ANALYSIS" - the distinction most scripts miss
+   INPUT                     OUTPUT                  SUCCESS WHEN
+   MOORE  an ordinary        what the judgement      the commitments are
+          judgement already  commits us to           clear; if not, the
+          KNOWN                                      KNOWLEDGE stands
+   RUSSELL a sentence whose  a quantified            truth-conditions are
+          surface suggests   paraphrase in which     preserved and the
+          a suspect entity   the apparent name       commitment removed
+                             disappears
+   WITTG. any proposition    resolution into truth-  the base of logically
+          whatever           functions of ELEMENTARY independent elementary
+                             propositions            propositions is
+                                                     reached - a base the
+                                                     text never EXHIBITS
+        |
+        v
+CONSEQUENCE: the three men can share a slogan and disagree about
+   everything that matters. Russell's descriptions do NOT vindicate
+   Moore's truisms; Moore never accepted that ordinary objects are
+   constructions; Wittgenstein's objects are NOT Russell's sense-data.
+        |
+        v
+INFLUENCE RUNS BOTH WAYS: Moore's act/object distinction is taken over
+   by Russell for sense-data; Wittgenstein takes variable and quantifier
+   from Russell and Frege and removes their central mistake (4.0312);
+   Russell's 1918 preface credits atomism to Wittgenstein.
 
-ASCII MASTER FLOW — PANEL 5/10: Acquaintance, description and the epistemic work of analysis
-ACQUAINTANCE -> direct, presentational and non-inferential awareness of a constituent.
-DESCRIPTION -> indirect knowledge of the unique thing satisfying 'the F'.
-LOGICALLY PROPER NAME -> directly refers within acquaintance; ordinary names may not.
-DENOTING PHRASE -> analysed contextually rather than treated as a genuine name.
-PRINCIPLE -> understood propositions must reduce to acquainted constituents.
-BISMARCK ROUTE -> the first Chancellor of the German Empire, not direct acquaintance.
-DESCRIPTION THEORY -> removes Bismarck as an unacquainted logical constituent.
-PRIVATE-BASE OBJECTION -> sense-data may not ground public knowledge neutrally.
-KRIPKE LIMIT -> ordinary names need not be disguised descriptions.
-RESULT -> Russell's logical instrument outlives much of its original epistemology.
+ASCII MASTER FLOW — PANEL 5/28: Moore 1925 - the list of truisms and the second-order claim
+==============================================================================
+"A DEFENCE OF COMMON SENSE" (in Contemporary British Philosophy, 1925)
+        |
+        v
+THE LIST (Moore's own examples)
+   "There exists at present a living human body, which is my body."
+   "This body has existed continuously on or near the earth."
+   "The earth has existed for many years past."
+   "There have existed many other human beings, with bodies."
+   "I am a human being who has had many experiences."
+        |
+        v
+THE TWO CLAIMS MADE ABOUT THE LIST
+   [1] FIRST-ORDER  I KNOW these propositions - not believe, KNOW
+   [2] SECOND-ORDER very many other human beings KNOW propositions of
+       the SAME KIND about themselves
+   -> the second converts a report of personal confidence into a claim
+      about a SHARED epistemic position, and it is what makes "COMMON
+      sense" the right name
+        |
+        v
+WHAT THE DOCTRINE IS NOT
+   NOT the claim that whatever most people believe is true
+   NOT an appeal to convention
+   NOT a claim of infallibility - the list is a philosophical proposal
+       and is CONTESTABLE
+        |
+        v
+WHY A LIST RATHER THAN AN ARGUMENT
+   Moore does not argue FOR the truisms from something more basic -
+   that would concede they need support from outside. He ASSERTS them,
+   and the size of the list displays how enormous the sceptic's task is:
+   he must deny not one claim but a whole interlocking body of them.
+        |
+        v
+ANSWER LINE: "Moore's list is not a survey of opinion but an inventory
+   of what a sceptical argument would have to overturn."
 
-ASCII MASTER FLOW — PANEL 6/10: Logical constructions, inferred entities and logical fictions
-MAXIM -> wherever possible, substitute logical constructions for inferred entities.
-OLD ROUTE -> data/appearances -> infer an additional unknown entity X.
-NEW ROUTE -> define X-talk as a structure of relations among safer entities.
-CONSTRUCTION -> derived structure preserving explanatory work.
-INFERRED ENTITY -> primitive posit avoided when a construction succeeds.
-LOGICAL FICTION -> useful contextual shorthand, not an additional denoted object.
-EXAMPLES -> physical objects/sense-data; numbers/classes; points/volumes, with caution.
-ATOM != CONSTRUCTION -> basic residue versus derived structure.
-OBJECTION -> private or possible sense-data may not reconstruct public endurance.
-LIMITED REPLY -> the wherever-possible maxim survives better than total reduction.
+ASCII MASTER FLOW — PANEL 6/28: Moore - knowing against analysing, and the paradox of analysis
+==============================================================================
+THE LEVEL DISTINCTION - the load-bearing move of the 1925 paper
+   +--------------------------------+-----------------------------+
+   | KNOWING THAT P IS TRUE         | KNOWING THE ANALYSIS OF P   |
+   | CERTAIN: "I have two hands"    | DOUBTFUL: what IS a         |
+   | pre-philosophical, secure      | material object? sense-data?|
+   |                                | a class of appearances? a   |
+   |                                | substance? Philosophical    |
+   |                                | work proper - MAY REMAIN    |
+   |                                | UNFINISHED                  |
+   +--------------------------------+-----------------------------+
+        |
+        v
+THE FALLACY MOORE NAMES: "you cannot know you have hands because you
+   cannot analyse 'material object'" CONFUSES THE TWO LEVELS
+        |
+        v
+THREE SCEPTICAL MOVES AND MOORE'S DIAGNOSIS
+   "the analysis is disputed, so we do not know" ..... confusion of
+        levels
+   "sense-data are all we are given, so ordinary claims are at best
+        inferences" ..... a real question; it does not SUSPEND the
+        knowledge
+   "ordinary language is loose, so ordinary claims are imprecise" .....
+        imprecision in STATING is not doubt ABOUT
+        |
+        v
+WHY MOORE NEEDED THE DISTINCTION - THE PARADOX OF ANALYSIS (bounded)
+   If the analysis of "X is a brother" is "X is a male sibling", then
+     EITHER it says the same thing -> trivially uninformative
+     OR it says something different -> not an analysis of that concept
+   NO SETTLED MOOREAN SOLUTION. Fregean sense / mode of presentation,
+   and later accounts of concepts and synonymy, are PROPOSED responses.
+   USE ONLY to show why analysis is not verbal substitution.
+   OWNER STATUS: method-context, NOT a printed limb.
+        |
+        v
+HONEST COST: the distinction protects knowledge only if propositional
+   knowledge can be secure while its constituents are unclear - which
+   a sceptic about the given, or anyone who ties understanding to
+   analysis, will deny.
 
-ASCII MASTER FLOW — PANEL 7/10: Incomplete symbols and definite-description analysis
-INCOMPLETE SYMBOL -> no standalone denotation; defined only in proposition-context.
-DESCRIPTION -> 'the F' appears to name but disappears on logical analysis.
-STAGE 1 EXISTENCE -> at least one x is F.
-STAGE 2 UNIQUENESS -> every y that is F is identical with x.
-STAGE 3 PREDICATION -> that x is G.
-KING OF FRANCE -> existence fails, so the standard conjunction is false.
-GOLDEN MOUNTAIN -> no ghostly object; apparent subject is eliminated.
-SCOPE -> negation outside the whole claim differs from negating the predicate.
-STRAWSON -> ordinary use presupposes existence; Russell stresses truth conditions.
-RESULT -> grammatical completeness can conceal logical incompleteness.
+ASCII MASTER FLOW — PANEL 7/28: Moore - comparative certainty and the reversal of the burden
+==============================================================================
+THE PRINCIPLE
+   A philosophical argument overturns a truism ONLY IF every premiss of
+   that argument is MORE CERTAIN than the truism it denies.
+   Moore's empirical claim: NO SUCH PREMISS HAS EVER BEEN PRODUCED.
+        |
+        v
+THE LOGIC BEHIND IT - a valid argument is a SET OF SCALES
+   A valid argument transmits credibility BACKWARDS as well as forwards.
+   If the conclusion is less credible than the premisses are credible,
+   the argument has REFUTED A PREMISS rather than proved its conclusion.
+        |
+   THE SCEPTIC'S ARGUMENT              THE TRUISM
+   P1 I cannot rule out dreaming       "I have a body."
+   P2 if not, I do not know I have
+      a body                           "The earth existed for many
+   C  so I do not know                  years before I was born."
+   abstract | technical | contested    as certain as anything I have
+                                       ever been
+        |
+        v
+RESULT: THE BURDEN OF PROOF IS REVERSED
+   The realist no longer owes a proof of the external world from
+   neutral ground; the SCEPTIC owes an explanation of why abstract
+   premisses should be trusted more than ordinary perceptual certainty.
+        |
+        v
+THE LIMIT THAT MUST BE WRITTEN
+   The principle presupposes that certainty is COMPARABLE across
+   ordinary and philosophical propositions, and Moore supplies NO
+   NEUTRAL MEASURE. A sceptic who simply denies that Moore KNOWS the
+   truism has been OUTWEIGHED, not shown to be irrational.
+        |
+        v
+LABEL EXPLAINED (2019 Q3(c)): COMMON SENSE from the METHOD; REALISM
+   from the CONTENT of the list - body, earth before my birth, other
+   human beings. THE REALISM IS A RESULT, NOT A PREMISS.
 
-ASCII MASTER FLOW — PANEL 8/10: Tractarian objects, states of affairs, facts and pictures
-EARLY ONLY -> do not import later meaning-as-use, forms of life or language-games.
-WORLD -> totality of FACTS, not a mere list of things.
-OBJECTS -> simple combinatorial possibilities; their nature is not concretely specified.
-STATE OF AFFAIRS -> possible combination of objects; obtaining state -> FACT.
-NAME -> corresponds to object; names combine in an ELEMENTARY PROPOSITION.
-PROPOSITION -> pictures a possible state of affairs through shared LOGICAL FORM.
-PICTURE != VISUAL RESEMBLANCE -> medium may differ while possibility matches.
-TRUE -> pictured arrangement obtains; FALSE -> it does not, yet proposition has sense.
-SENSE -> possession of truth-conditions or a possible situation in logical space.
-LIMIT -> no uncontested examples of fully analysed elementary propositions are given.
+ASCII MASTER FLOW — PANEL 8/28: Moore 1939 - the proof, the gloss and the three conditions
+==============================================================================
+TARGET: KANT'S CHARGE that it is "a scandal to philosophy" that no
+   satisfactory proof of things outside us has been given
+        |
+        v
+THE GLOSS THAT MAKES THE INFERENCE VALID
+   "EXTERNAL to our minds" = "THINGS MET WITH IN SPACE" - things whose
+   existence does not consist in being experienced
+        |
+        v
+THE ARGUMENT
+   1 Here is one hand.        (present perceptual knowledge)
+   2 And here is another.
+   3 So at least two material things exist.
+   4 So an external world exists.
+   NOTE: the printed order is RIGHT hand first, THEN left. If unsure,
+   write "holding up first one hand and then the other".
+        |
+        v
+MOORE'S OWN THREE CONDITIONS FOR A RIGOROUS PROOF
+   [1] the premiss must be DIFFERENT from the conclusion
+       "here is a hand" != "an external world exists" -> NOT CIRCULAR
+   [2] the premiss must be KNOWN, not merely believed or assumed
+       "I did know it. It would have been absurd to suggest that I did
+        not know it, but only believed it." -> THE CONTESTED CONDITION
+   [3] the conclusion must FOLLOW
+       hands are things met with in space -> VALID, given the gloss
+        |
+        v
+THE CONCESSION, AND WHY IT IS NOT A DEFECT
+   Moore CANNOT PROVE the premiss - to do so he would have to prove he
+   is not dreaming, "and that I cannot do".
+   A proof requires a KNOWN premiss, not a PROVED one; the contrary
+   demand generates an INFINITE REGRESS in which nothing is proved.
+        |
+        v
+ANSWER LINE: "The demand to prove every premiss is a demand that no
+   proof of anything could ever meet."
 
-ASCII MASTER FLOW — PANEL 9/10: Truth-functions, logical scaffolding and limiting cases
-ELEMENTARY BASE -> propositions representing possible independent states of affairs.
-TRUTH-OPERATION -> builds complex propositions from truth-values of the base.
-MOLECULAR p AND q / p OR q / NOT p -> no extra logical object is represented.
-LOGICAL CONSTANTS -> operations, not names standing for entities.
-LOGIC -> shows the formal scaffolding of world and language; it states no facts.
-TAUTOLOGY -> always true, well formed, but says nothing contingent.
-CONTRADICTION -> always false, well formed, but says nothing contingent.
-NONSENSE -> fails to picture any possible fact; not identical with tautology.
-CRITICISM -> colour exclusion and belief contexts pressure independence/functionality.
-VERDICT -> architecture is powerful but its elementary base remains underspecified.
+ASCII MASTER FLOW — PANEL 9/28: Moore - the question-begging objection and three replies
+==============================================================================
+THE OBJECTION (and it is serious)
+   Premiss 1 is exactly what the sceptic put in doubt. If dreaming or
+   deception cannot be excluded, Moore does not KNOW premiss 1,
+   condition [2] fails, and the proof BEGS THE QUESTION.
+        |
+   +----------------------+----------------------+-------------------+
+   | REPLY 1 - MOORE'S    | REPLY 2 -            | REPLY 3 - THE     |
+   | OWN                  | DIALECTICAL          | LATER DIAGNOSIS   |
+   +----------------------+----------------------+-------------------+
+   | He need not prove    | The proof is not     | On Certainty asks |
+   | every premiss he     | addressed to a       | whether such      |
+   | knows. No sceptical  | sceptic who has      | propositions are  |
+   | premiss is more      | already suspended    | ordinary          |
+   | certain than the     | perceptual           | knowledge-claims  |
+   | ordinary proposition | knowledge; it shows  | at all, or        |
+   | it is used to deny.  | the COST of          | FRAMEWORK / HINGE |
+   |                      | scepticism.          | certainties on    |
+   |                      | (Pryor and others)   | which doubt itself|
+   |                      |                      | depends.          |
+   +----------------------+----------------------+-------------------+
+   |                      |                      | OWNER NOTE: this  |
+   |                      |                      | is LATER          |
+   |                      |                      | WITTGENSTEIN,     |
+   |                      |                      | TOPIC 08. One     |
+   |                      |                      | clause, never an  |
+   |                      |                      | expansion.        |
+   +----------------------+----------------------+-------------------+
+        |
+        v
+VERDICT SPINE
+   FORMALLY VALID .................... yes
+   NEUTRAL CRITERION OF KNOWLEDGE .... none supplied
+   FORCE .............................. COMPARATIVE - which is exactly
+        what Moore claimed for it, and nothing more
+        |
+        v
+1925 + 1939 = ONE STRATEGY IN TWO TEXTS: compare the credentials of the
+   competing claims instead of assuming the philosophical claim wins.
 
-ASCII MASTER FLOW — PANEL 10/10: Saying-showing, comparative synthesis and answer spine
-SAYING -> factual propositions state how things contingently stand.
-SHOWING -> logical form, necessity and limits manifest in meaningful symbolism.
-ETHICS/AESTHETICS/MYSTICAL -> not ordinary facts and not simply dismissed as false.
-LADDER 6.54 -> use elucidatory remarks, see the boundary, then discard the rungs.
-SELF-REFERENCE -> the Tractatus's own remarks appear nonsensical by its criterion.
-REPLY -> self-consuming elucidation is deliberate; RESIDUAL -> communication remains hard.
-MOORE -> protect common-sense knowledge through analysis and certainty comparison.
-RUSSELL -> reveal logical form and construct/reduce problematic entities.
-EARLY WITTGENSTEIN -> delimit meaningful representation through say/show.
-POSITIVISM BOUND -> later verificationism must not be imported into the Tractatus.
-ANSWER SPINE -> thesis -> definitions -> argument -> example -> objection/reply -> verdict.
+ASCII MASTER FLOW — PANEL 10/28: Moore 1903 - the target and the act/object distinction
+==============================================================================
+"THE REFUTATION OF IDEALISM", Mind, 1903
+        |
+        v
+TARGET: ESSE EST PERCIPI - "to be is to be perceived"
+   For the idealist inference to work, the object's BEING must be
+   nothing over and above its BEING PERCEIVED. The sensation and its
+   object must therefore be ONE THING, or the object a mere constituent
+   of the act.
+        |
+        v
+THE DISTINCTION
+   +--------------------------------+-----------------------------+
+   | ACT OF AWARENESS               | OBJECT OF AWARENESS         |
+   | consciousness                  | blue, green, this sound     |
+   | THE SAME in every sensation    | DIFFERENT in each sensation |
+   | = THE COMMON ELEMENT           | = THE VARIABLE ELEMENT      |
+   +--------------------------------+-----------------------------+
+        |
+        v
+THE IDEALIST'S ERROR: conflating [1] and [2] - treating the object as
+   IDENTICAL with, or CONSTITUTED BY, the act of awareness.
+   If the sensation of blue IS just the blue, then blue cannot exist
+   unperceived -> idealism.
+        |
+        v
+WHY THE DISTINCTION IS NOT MERELY INTROSPECTIVE
+   Moore does not simply report detecting two items. He argues that the
+   identification makes EXPERIENCE UNINTELLIGIBLE: two sensations must
+   have something IN COMMON (both are sensations) and must DIFFER in
+   something (their objects differ). On the identity thesis there is
+   only ONE item in each, so nothing is available to play both roles.
+        |
+        v
+ANSWER LINE: "What varies cannot be what stays the same."
+
+ASCII MASTER FLOW — PANEL 11/28: Moore - the two printed sentences, decoded
+==============================================================================
+THE 2025 SENTENCE (Q3(c))
+   "Blue is one object of sensation and green is another, and
+    consciousness, which both sensations have in common, is different
+    from either."
+   READ IT AS A LABELLING OF THE ARGUMENT:
+     "blue ... green" ............ THE VARIABLE ELEMENT = the OBJECTS
+     "which both sensations have in common" .... THE COMMON ELEMENT =
+        consciousness
+     "is different from either" .. THE CONCLUSION: act != object
+        |
+        v
+THE 2020 SENTENCE (Q2(b))
+   "If anyone tells us that to say 'Blue exists' is the same thing as
+    to say that 'Both blue and consciousness exist', he makes a mistake
+    and a SELF-CONTRADICTORY mistake."
+        |
+   WHY SELF-CONTRADICTORY - four steps, and this decoding is the mark
+   [1] the claim is that the two statements say the SAME THING
+   [2] the second statement is formed by CONJOINING TWO DISTINCT ITEMS,
+       blue and consciousness
+   [3] to assert the identity of content, the speaker must already
+       POSSESS AND USE the very distinction whose significance he denies
+   [4] therefore the identification is not merely false; it CANNOT BE
+       STATED without presupposing its own falsity
+        |
+        v
+THE RESIDUAL - state it, and the "critically" half is done
+   The charge bites hardest against a strict IDENTITY formulation. An
+   idealist who says instead that blue is DEPENDENT ON consciousness
+   without being IDENTICAL with it has not been convicted of
+   contradiction - he has been DEPRIVED OF THE ARGUMENT HE HAD.
+
+ASCII MASTER FLOW — PANEL 12/28: Moore - transparency, and the exact boundary of the result
+==============================================================================
+TRANSPARENCY / DIAPHANOUSNESS
+   Introspect the sensation of blue and what you find is THE BLUE. The
+   act is elusive - "as if it were diaphanous". Attention passes
+   THROUGH the act to the object.
+   ROLE: a DIAGNOSIS of why the conflation is tempting.
+   NOT A PREMISS of the refutation - the comparison argument does the
+   refuting.
+   CONTESTED: later philosophers of mind use the same observation to
+   argue that there is NOTHING beyond the object to introspect. Moore's
+   reply must be that ELUSIVENESS IS NOT ABSENCE.
+        |
+        v
+THE BOUNDARY - the half of the answer most scripts omit
+   ACHIEVED ...... the IDENTITY route from object to act is BLOCKED, so
+                   esse est percipi is NOT ESTABLISHED
+   NOT ACHIEVED .. that any object exists UNPERCEIVED
+   NOT ACHIEVED .. a positive THEORY OF PERCEPTION - the relation
+                   between sense-data and material objects is left open
+   NOT ACHIEVED .. a refutation of ABSOLUTE IDEALISM, which rests on
+                   internal relations and the incompleteness of finite
+                   determinations, NOT on the perceptual equation
+   NOT ACHIEVED .. a refutation of Berkeley's whole philosophy - his
+                   positive system is TOPIC 03
+        |
+        v
+MOORE vs RUSSELL ON BERKELEY (the comparative half of 2018 Q3(a))
+   MOORE     epistemic and DISTINCTION-DRAWING: denies the
+             identification, protects ordinary certainty, offers NO
+             replacement theory of perception
+   RUSSELL   logical and RECONSTRUCTIVE: accepts that what is given is
+             sense-data, rebuilds physical objects as LOGICAL
+             CONSTRUCTIONS, removes apparent names by CONTEXTUAL
+             ANALYSIS, and breaks with Berkeley's NOMINALISM by
+             admitting acquaintance with UNIVERSALS
+   ONE-SENTENCE DIFFERENCE: Moore blocks the argument and leaves the
+   analysis open; Russell concedes the starting point and supplies a
+   replacement architecture.
+
+ASCII MASTER FLOW — PANEL 13/28: Russell - incomplete symbols and contextual definition
+==============================================================================
+DEFINITION
+   An INCOMPLETE SYMBOL has NO MEANING IN ISOLATION, contributes
+   systematically to the meaning of every sentence in which it occurs,
+   and DISAPPEARS on analysis. It is given a CONTEXTUAL DEFINITION -
+   a rule supplying the meaning of WHOLE SENTENCES containing it.
+   SOURCE OF THE TECHNIQUE: contextual definition in Principia
+   Mathematica (1910-13).
+        |
+        v
+THE TEST TO APPLY IN THE EXAM
+   Does the expression SURVIVE ANALYSIS as a CONSTITUENT of the
+   proposition?
+     "the author of Waverley" ....... does NOT survive -> incomplete
+     "Scott", as a genuine name ..... would survive
+        |
+        v
+THE COMMONEST ERROR
+   "INCOMPLETE" DOES NOT MEAN "MEANINGLESS". The phrase is
+   systematically meaning-CONTRIBUTING; it has no meaning ON ITS OWN.
+   Write the words "in isolation" and the error cannot occur.
+        |
+        v
+CONSEQUENCE FOR ONTOLOGY
+   Because the phrase contributes NO CONSTITUENT, the truth of a
+   sentence containing it commits us to nothing beyond the existence of
+   things satisfying the PREDICATES. This is what makes the device an
+   instrument of ONTOLOGICAL ECONOMY, and it is the bridge to
+   CONSTRUCTIONS (panel 19) and ATOMISM (panels 20-22).
+        |
+        v
+OPTIONAL BACKGROUND ONLY: Russell's PARADOX and the THEORY OF TYPES
+   supply the habit behind the doctrine - a symbol may be ELIMINABLE
+   rather than referential, and a well-formed-looking string may fail to
+   express a proposition. NOT a printed limb. One sentence maximum.
+
+ASCII MASTER FLOW — PANEL 14/28: Russell - the theory of descriptions, in notation
+==============================================================================
+THE PROBLEM: "The present King of France is bald."
+   Grammatically impeccable. Understood by every competent speaker.
+   And there is no present King of France.
+        |
+   THREE ANSWERS RUSSELL REJECTS
+   (a) THE SENTENCE IS MEANINGLESS ..... but we understand it, and we
+       can argue about it
+   (b) IT IS ABOUT A NON-EXISTENT OBJECT THAT SUBSISTS ..... MEINONG's
+       route; it populates the world with golden mountains, and the
+       ROUND SQUARE threatens non-contradiction
+   (c) THE PHRASE DENOTES SOMETHING ELSE ..... no candidate survives
+        |
+        v
+THE ANALYSIS - the phrase is ELIMINATED, not interpreted
+        "The F is G"
+             =
+   (Ex)[ Fx  AND  (Ay)(Fy -> y = x)  AND  Gx ]
+          ^             ^                   ^
+      EXISTENCE     UNIQUENESS         PREDICATION
+     at least one    at most one          it is G
+        |
+        v
+WORKED CASE - "THE GOLDEN MOUNTAIN IS VERY HIGH" (2025 Q1(d))
+   (Ex)[ Gx & (Ay)(Gy -> y=x) & Hx ]
+   The EXISTENCE conjunct is FALSE -> the whole conjunction is FALSE
+   -> NOT meaningless, and NO golden mountain need subsist
+   The golden mountain is MEINONG'S OWN STOCK EXAMPLE - name him.
+        |
+        v
+UNIQUENESS IS THE CONJUNCT MOST OFTEN DROPPED. Without it the analysis
+   renders "the" as "a", and the definite article's entire contribution
+   disappears.
+        |
+        v
+THE GENERAL PRINCIPLE ESTABLISHED
+   GRAMMATICAL FORM != LOGICAL FORM. The task of philosophy is to
+   reveal the logical form hidden by language.
+
+ASCII MASTER FLOW — PANEL 15/28: Russell - the three puzzles, and what each was blocking
+==============================================================================
+   +--------------------+--------------------------+------------------+
+   | PUZZLE             | WHAT WENT WRONG BEFORE   | WHAT THE         |
+   |                    |                          | ANALYSIS GIVES   |
+   +--------------------+--------------------------+------------------+
+   | NEGATIVE           | to deny that something   | the denial is    |
+   | EXISTENTIALS       | exists you seem to have  | the NEGATION of  |
+   | "The present King  | to REFER to it first,    | an existence-    |
+   | of France does not | which grants the very    | and-uniqueness   |
+   | exist"             | existence you deny       | claim; no        |
+   |                    |                          | reference is     |
+   |                    |                          | attempted, so    |
+   |                    |                          | nothing is       |
+   |                    |                          | granted. TRUE.   |
+   +--------------------+--------------------------+------------------+
+   | EXCLUDED MIDDLE    | if "the F is G" is       | it is FALSE; and |
+   |                    | neither true nor false   | its negation,    |
+   |                    | when there is no F,      | parsed with the  |
+   |                    | bivalence appears to     | NEGATION taking  |
+   |                    | fail                     | wide scope, is   |
+   |                    |                          | TRUE. The        |
+   |                    |                          | appearance of    |
+   |                    |                          | failure is a     |
+   |                    |                          | SCOPE AMBIGUITY. |
+   +--------------------+--------------------------+------------------+
+   | SUBSTITUTIVITY IN  | if "the author of        | the description  |
+   | ATTITUDE CONTEXTS  | Waverley" = Scott, then  | is NOT A NAME    |
+   | George IV wished   | George IV wished to know | and denotes      |
+   | to know whether    | whether Scott was Scott  | nothing in the   |
+   | Scott was the      | - trivial                | required sense,  |
+   | author of Waverley |                          | so no            |
+   |                    |                          | substitution     |
+   |                    |                          | licence exists.  |
+   +--------------------+--------------------------+------------------+
+        |
+        v
+THE ADVERTISEMENT: ONE DEVICE, THREE INDEPENDENT PROBLEMS. A theory
+   that does this is not an ad hoc repair - SAY SO EXPLICITLY.
+        |
+        v
+NOT ONE OF THE THREE: the problem of UNIVERSALS. That is a separate
+   issue in Russell's philosophy, handled by his REALISM about
+   universals. Substituting it shows the list has been half-remembered.
+
+ASCII MASTER FLOW — PANEL 16/28: Russell - scope, and the Strawson objection
+==============================================================================
+PRIMARY AND SECONDARY OCCURRENCE - "The King of France is not bald"
+   PRIMARY (description takes WIDE scope):
+      there is exactly one King of France AND he is not bald -> FALSE
+   SECONDARY (negation takes WIDE scope):
+      it is NOT the case that (there is exactly one King of France and
+      he is bald) -> TRUE
+   ONE sentence, TWO logical forms. Ambiguity of SCOPE, not of the
+   meanings of the words.
+        |
+        v
+THE STANDING OBJECTION
+   STRAWSON, "On Referring", Mind, 1950
+   Russell has confused a SENTENCE with a USE of a sentence. A speaker
+   who says "The present King of France is bald" does not ASSERT that
+   there is exactly one King of France; he PRESUPPOSES it. When the
+   presupposition fails, THE QUESTION OF TRUTH OR FALSITY DOES NOT
+   ARISE - the utterance is not false but VOID.
+        |
+        v
+RUSSELL'S AVAILABLE REPLIES
+   [1] Strawson describes conversational expectation; Russell gives
+       TRUTH-CONDITIONS, and a logic requires them
+   [2] presupposition failure needs a semantics of its own - typically
+       a TRUTH-VALUE GAP - and gaps carry costs for classical logic
+   [3] the analysis is a proposal about LOGICAL FORM for a scientifically
+       regimented language, not ordinary-language lexicography
+        |
+        v
+THE HONEST VERDICT
+   A GENUINE RIVAL ANALYSIS, not a demonstration of error. Strawson
+   describes ordinary USE better; Russell describes LOGICAL FORM better.
+   OWNER BOUNDARY: Strawson appears here as ONE OBJECTION. His positive
+   theory of reference and his descriptive metaphysics are TOPIC 11.
+
+ASCII MASTER FLOW — PANEL 17/28: Russell - acquaintance, description and the Principle
+==============================================================================
+TWO KINDS OF KNOWLEDGE OF THINGS
+   ACQUAINTANCE   direct, presentational, NON-INFERENTIAL - "directly
+                  aware... without the intermediary of any process of
+                  inference"
+                  OBJECTS: sense-data | memory data | introspective
+                  data of one's own mental states | UNIVERSALS
+   DESCRIPTION    indirect, propositional - knowledge THAT there is
+                  exactly one thing answering to "the F", plus what is
+                  inferred of it
+                  OBJECTS: physical objects | other minds | historical
+                  persons | unobservables of science
+        |
+   THE PLATONIC CONCESSION: acquaintance with UNIVERSALS is a large
+   admission for a philosopher in the British empiricist line, and
+   Russell makes it openly AGAINST Berkeley's nominalism.
+        |
+        v
+THE PRINCIPLE OF ACQUAINTANCE (Problems of Philosophy, 1912, Ch. 5)
+   "Every proposition which we can understand must be composed wholly
+    of constituents with which we are acquainted."
+   IT CONSTRAINS UNDERSTANDING, NOT TRUTH.
+        |
+        v
+THE ARGUMENT, NUMBERED
+   1 to understand a proposition is to grasp its constituents
+   2 I can grasp only what I am acquainted with
+   3 yet I plainly understand propositions about Bismarck, Julius
+     Caesar and electrons
+   4 so EITHER the Principle is false OR those items are NOT
+     constituents of the propositions
+   5 THE THEORY OF DESCRIPTIONS takes the second route: "the F is G"
+     contains NO constituent "the F"; its constituents are the
+     UNIVERSALS F and G plus logical apparatus - all acquaintance items
+   6 therefore the Principle is PRESERVED
+        |
+        v
+THE BISMARCK SERIES (Russell's own, graded)
+   BISMARCK HIMSELF ......... acquaintance with his own self-
+                              consciousness
+   ONE WHO MET HIM .......... acquaintance with sense-data he took to be
+                              of the man; the description is anchored to
+                              HIS particulars
+   ONE WHO READ OF HIM ...... purely descriptive: "the first Chancellor
+                              of the German Empire"
+   ALL OF US, OF "THE MOST
+     LONG-LIVED OF MEN" ..... a description whose satisfier we may never
+                              identify - and the proposition is FULLY
+                              UNDERSTOOD
+        |
+        v
+ANSWER LINE: "The theory of descriptions is the price Russell pays to
+   keep the Principle of Acquaintance while speaking of what he has
+   never met."
+
+ASCII MASTER FLOW — PANEL 18/28: Russell - logically proper names, and the two modern objections
+==============================================================================
+LOGICALLY PROPER NAMES
+   A symbol that DIRECTLY DESIGNATES an item of acquaintance and could
+   not fail to designate.
+   In Russell's austere phase the only serious candidates are the
+   DEMONSTRATIVES "this" and "that", used of something PRESENTLY GIVEN.
+        |
+   TWO CONSEQUENCES, BOTH EXAMINABLE
+   [1] ORDINARY NAMES - "Bismarck", "Socrates", "Homer" - are DISGUISED
+       DEFINITE DESCRIPTIONS, analysed by the theory of descriptions
+   [2] the class of genuine names shrinks ALMOST TO NOTHING, and it
+       shrinks DIFFERENTLY for each speaker and each moment
+        |
+        v
+   +----------------------------------+----------------------------+
+   | KRIPKE, Naming and Necessity     | SELLARS, "Empiricism and   |
+   | lectures 1970, book 1980         | the Philosophy of Mind",   |
+   |                                  | 1956                       |
+   +----------------------------------+----------------------------+
+   | Ordinary proper names are NOT    | THE MYTH OF THE GIVEN:     |
+   | disguised descriptions.          | nothing is given           |
+   | "Aristotle" would still name     | uninterpreted, and what is |
+   | Aristotle even if every          | given non-conceptually     |
+   | description we associate with    | cannot JUSTIFY beliefs.    |
+   | him were false. Names are RIGID  |                            |
+   | DESIGNATORS.                     | RUSSELL'S REPLY:           |
+   |                                  | acquaintance is            |
+   | RUSSELL'S RETREAT: confine the   | PRESENTATION, not          |
+   | claim to LOGICALLY proper names  | knowledge of truths.       |
+   | and abandon the description      |                            |
+   | theory of ORDINARY names.        | RESIDUAL: then how does it |
+   |                                  | GROUND anything? THE LIVE  |
+   | STANDARD VERDICT: the LOGIC of   | WEAKNESS.                  |
+   | descriptions survives; the       |                            |
+   | THEORY OF NAMES does not.        |                            |
+   +----------------------------------+----------------------------+
+        |
+        v
+KEEP THEM APART: Kripke attacks the theory of NAMES; Sellars attacks
+   the BASE. Different targets, different residues - and Russell can
+   survive one without surviving the other.
+        |
+        v
+PHASE WARNING: sense-data acquaintance | the 1918 atomism | later
+   NEUTRAL MONISM are THREE POSITIONS at three times. Do not present
+   them as one timeless doctrine.
+
+ASCII MASTER FLOW — PANEL 19/28: Russell - logical constructions and the supreme maxim
+==============================================================================
+THE SUPREME MAXIM IN SCIENTIFIC PHILOSOPHISING (1914)
+   "Wherever possible, substitute constructions out of known entities
+    for inferences to unknown entities."
+   SOURCES: "The Relation of Sense-Data to Physics"; Our Knowledge of
+   the External World. Restated in "Logical Atomism" (1924).
+        |
+   THE CHOICE IT FORCES
+   ROUTE A  INFER a table BEHIND the appearances, never itself met
+            COST: an entity I can never check, doing explanatory work
+            I cannot inspect
+   ROUTE B  DEFINE "the table" as an ordered system of ACTUAL and
+            POSSIBLE appearances from various viewpoints
+            COST: the system must really be specifiable
+        |
+        v
+FOUR WORKED CONSTRUCTIONS - learn at least two of DIFFERENT types
+   a physical object ("this table") <- classes of ACTUAL and POSSIBLE
+        sense-data from various points of view
+   a "nation" <- patterns of behaviour of individual persons
+   a number <- classes of equinumerous classes (Frege-Russell)
+   a point of space <- convergent classes of volumes
+   THE SPREAD (perceptual | social | mathematical | geometrical) is the
+   evidence that the maxim is a METHOD, not a repair to one problem.
+        |
+        v
+CONSTRUCTIONS vs ATOMS
+   ATOMS ........... genuinely exist as independent simples within the
+                     analysis; the RESIDUE analysis SEEKS
+   CONSTRUCTIONS ... add NO further entity; their SYMBOLS are defined
+                     CONTEXTUALLY; what analysis REMOVES
+        |
+        v
+THREE THINGS A CONSTRUCTION IS NOT
+   NOT a fiction - we say TRUE things about tables and nations
+   NOT an elimination of ordinary talk - the talk is preserved and
+       given truth-conditions
+   NOT a permanent phenomenalist metaphysics - a PROPOSED reduction /
+       structural reconstruction, and Russell's base later became
+       NEUTRAL EVENTS
+        |
+        v
+THE STRAIN
+   The construction needs POSSIBLE sense-data ("sensibilia") from
+   viewpoints no one occupies. These are not straightforwardly KNOWN
+   entities, so the inference the maxim was meant to avoid may have
+   been smuggled back. And a private-sense-data base invites SOLIPSISM;
+   Russell's reply is that constructions are PUBLIC-THEORETICAL
+   reconstructions aimed at explanatory economy.
+        |
+        v
+VERDICT: the TECHNIQUE is permanent; the 1914 PHENOMENALIST INVENTORY
+   is a phase. Distinguishing the two IS what "critically discuss" asks.
+
+ASCII MASTER FLOW — PANEL 20/28: Russell - logical atomism, and the 2020 sentence decoded
+==============================================================================
+"THE PHILOSOPHY OF LOGICAL ATOMISM" - lectures 1918, London; published
+   in The Monist 1918-19. THE PREFACE CREDITS THE IDEAS TO WITTGENSTEIN.
+        |
+        v
+THE 2020 QUOTATION, DECODED CLAUSE BY CLAUSE (Q2(c))
+   "The reason that I call my doctrine logical atomism is because the
+    atoms that I wish to arrive at as the sort of last residue in
+    analysis are logical atoms and not physical atoms."
+   "last residue in ANALYSIS" .. atomism is defined by a METHOD: what
+        survives when analysis has removed every complexity
+   "LOGICAL ... NOT PHYSICAL" .. the atoms are constituents of FACTS -
+        particulars, qualities, relations - not tiny bodies
+   "my DOCTRINE" ............... an ONTOLOGY read off a LOGIC, not a
+        physics
+        |
+        v
+WORLD = FACTS, NOT THINGS
+   A FACT is what makes a proposition true or false.
+   FACTS ARE NOT THEMSELVES TRUE OR FALSE - they are TRUTH-MAKERS;
+   propositions are TRUTH-BEARERS.
+   A complete catalogue of OBJECTS would still leave undecided which of
+   them have which qualities and how they are related. Only FACTS
+   settle that.
+        |
+        v
+THE STRUCTURE OF AN ATOMIC FACT
+   MONADIC ....... a PARTICULAR exemplifies a QUALITY   "this is red"
+   RELATIONAL .... PARTICULARS stand in a RELATION
+                   "this is to the left of that"
+   "ATOMIC" = CONTAINS NO OTHER FACTS AS CONSTITUENTS.
+   It PLAINLY HAS constituents. Reading "atomic" as "partless" is as
+   damaging as reading it as "microscopic".
+        |
+        v
+POINT OF CONTACT WITH THE TRACTATUS: 1.1 makes the same move - "the
+   world is the totality of facts, not of things". BUT the two men
+   agree that the world is FACTUAL and disagree about what the
+   constituents of facts are and how we know them. See panel 28.
+
+ASCII MASTER FLOW — PANEL 21/28: Russell - truth-functions, isomorphism and negative facts
+==============================================================================
+THE TWO-STOREY BUILDING
+   UPPER: MOLECULAR PROPOSITIONS
+     "this is red AND that is blue" | "... OR ..." | "NOT ..." |
+     "IF ... THEN ..."
+     TRUTH-VALUE fixed ENTIRELY by the atoms below plus the connective
+   GROUND: ATOMIC PROPOSITIONS
+     "this is red" | "this is to the left of that" - no connectives
+   FOUNDATION: ATOMIC FACTS
+        |
+        v
+THE PAY-OFF OF TRUTH-FUNCTIONALITY
+   NO ADDITIONAL FACT IN THE WORLD CORRESPONDS TO "and" OR "or".
+   There is no conjunctive fact over and above the two conjuncts'
+   facts. A large ONTOLOGICAL ECONOMY - state it, or you have
+   described a truth-table instead of an argument.
+        |
+        v
+THE ISOMORPHISM THESIS
+   PROPOSITION   name1 ---- relation-word ---- name2
+                   |              |              |
+   FACT          object1 ------ relation ----- object2
+   SAME LOGICAL STRUCTURE. Names correspond to objects; the ARRANGEMENT
+   of names corresponds to the ARRANGEMENT of objects. This is the
+   BRIDGE between language and world in Russell's atomism.
+        |
+        v
+THE NEGATIVE-FACT PROBLEM
+   "Socrates is not alive" is TRUE. What makes it true?
+   RUSSELL: reluctantly, a NEGATIVE FACT - that a positive state does
+     NOT obtain.
+   COST: absences are added to the inventory of the world.
+   WHY HE PAYS IT: to preserve a DIRECT TRUTH-MAKING relation - every
+     truth is made true by something.
+   WITTGENSTEIN'S DIFFERENT ROUTE: obtaining elementary states
+     constitute the world, and their TOTALITY also determines which
+     possible states do NOT obtain (2.05); negation is not a further
+     object, and "the logical constants are not representatives"
+     (4.0312). NO negative facts required.
+        |
+        v
+THE EXPOSED ASSUMPTION
+   The programme requires that EVERY proposition be a truth-function of
+   atomic ones. BELIEF-CONTEXTS ("George IV believes that p") and
+   MODAL contexts resist this. Concede the difficulty; do not pretend
+   the reduction is complete.
+
+ASCII MASTER FLOW — PANEL 22/28: Russell - how far descriptions support atomism
+==============================================================================
+THE QUESTION OF 2018 Q4(c) AND 2024 Q3(a): how is the theory of
+   descriptions RELATED to logical atomism?
+        |
+        v
+WHAT DESCRIPTIONS DO SUPPLY
+   [1] contextual analysis removes MERELY APPARENT CONSTITUENTS -
+       "the F" is shown not to be a constituent at all
+   [2] what remains is QUANTIFIED STRUCTURE plus GENUINE LOGICAL
+       CONSTITUENTS
+   [3] that is exactly the discrimination atomism needs: real residues
+       separated from grammatical illusions
+   [4] methodological continuity - both rest on GRAMMATICAL FORM !=
+       LOGICAL FORM. Descriptions show the principle has teeth;
+       atomism is the ontology reached by applying it systematically
+        |
+        v
+WHAT DESCRIPTIONS DO NOT SUPPLY
+   [1] NO proof that analysis TERMINATES
+   [2] NO identification of the SIMPLES
+   [3] NO demonstration that reality is EXHAUSTIVELY atomic
+   Removing one class of pseudo-constituents is not reaching a base.
+        |
+        v
+THE VERDICT SENTENCE (write it)
+   "The theory of descriptions makes logical atomism REASONABLE and
+    does not make it PROVED: it shows how a residue is reached in a
+    particular case, and leaves open whether every analysis reaches
+    one."
+        |
+        v
+THE FOUR-STAGE ROUTE FOR THE 20-MARK ANSWER
+   ACQUAINTANCE fixes what is directly available
+        -> INCOMPLETE SYMBOLS supply the technique of elimination
+        -> LOGICAL CONSTRUCTIONS apply it to the entities of common
+           sense and science
+        -> LOGICAL ATOMISM names the residue analysis expects to find
+   CONNECTING SENTENCE: "Incomplete symbols supply the scalpel,
+   constructions are the operations performed with it, and atomism is
+   the anatomy the surgeon expects to find - which is why Russell can
+   be confident in the technique long before he is confident about the
+   inventory."
+
+ASCII MASTER FLOW — PANEL 23/28: The Tractatus - facts, objects and states of affairs
+==============================================================================
+THE OPENING ONTOLOGY
+   1     The world is all that is the case.
+   1.1   The world is the totality of FACTS, not of THINGS.
+   1.13  The facts in LOGICAL SPACE are the world.
+   2     What is the case, a fact, is the existence of STATES OF
+         AFFAIRS.
+   2.01  A state of affairs is a COMBINATION OF OBJECTS.
+   2.013 Each thing is, as it were, in a SPACE of possible states of
+         affairs - POSSIBILITY IS BUILT INTO THE OBJECT.
+   2.06  The existence and non-existence of states of affairs is
+         reality.
+        |
+        v
+WHY FACTS AND NOT THINGS
+   A complete inventory of objects leaves everything undecided: it does
+   not tell you which qualities they have or how they are related. What
+   is the case is a matter of CONFIGURATION, and a configuration is a
+   FACT.
+        |
+        v
+OBJECTS
+   Logical SIMPLES, characterised NOT by an intrinsic description but by
+   the STATES OF AFFAIRS INTO WHICH THEY CAN ENTER (2.0121, 2.013).
+   The space of possible configurations is fixed once the objects are.
+   THE HONEST GAP: the text gives NO UNCONTESTED EXAMPLE of a simple
+   object or an elementary proposition. It argues that simples are
+   REQUIRED for determinate sense; it does not EXHIBIT them.
+        |
+        v
+TRANSLATION CONTROL
+   Sachverhalt = "atomic fact" (Ogden/Ramsey) = "state of affairs"
+   (Pears-McGuinness). CHOOSE ONE AND STAY WITH IT.
+        |
+        v
+CONTRAST WITH RUSSELL - do not merge
+   RUSSELL'S atoms are identified EPISTEMICALLY, through acquaintance,
+   in the 1918 phase.
+   WITTGENSTEIN'S objects are POSTULATED by a CONDITION-OF-SENSE
+   argument and are never identified.
+   TWO ATOMISMS, ONE WORD.
+
+ASCII MASTER FLOW — PANEL 24/28: The Tractatus - the picture theory, and the two forms
+==============================================================================
+THE PICTURING RELATION - three requirements
+   (i)   ELEMENTS of the picture (names) correspond to OBJECTS
+   (ii)  the ARRANGEMENT of the elements depicts an arrangement of the
+         objects
+   (iii) a METHOD OF PROJECTION connects sign to situation: the
+         propositional SIGN plus its PROJECTIVE RELATION to the world
+         is the PROPOSITION (3.11-3.12)
+   TRUE  if the depicted state of affairs obtains
+   FALSE if it does not
+   MEANINGFUL EITHER WAY, because a POSSIBLE arrangement is presented
+   (2.201-2.203, 2.221-2.224)
+   2.223 "to tell whether a picture is true or false we must compare it
+         with reality"
+   2.224 "it is impossible to tell from the picture alone whether it is
+         true or false"
+        |
+        v
+   +---------------------------+---------------------------------+
+   | PICTORIAL FORM            | LOGICAL FORM                    |
+   | (Form der Abbildung)      | (logische Form)                 |
+   +---------------------------+---------------------------------+
+   | what a picture must share | the MOST ABSTRACT structural    |
+   | with reality to depict it | commonality - what EVERY        |
+   | AT ALL, IN ITS OWN MEDIUM | picture, in ANY medium, must    |
+   |                           | share with reality (2.18)       |
+   +---------------------------+---------------------------------+
+   | a SPATIAL model shares    | every meaningful proposition    |
+   | spatial form; a SCORE     | shares LOGICAL form with the    |
+   | shares acoustic form      | fact it depicts                 |
+   +---------------------------+---------------------------------+
+   | a picture can depict only | a proposition can depict ANY    |
+   | what shares ITS form      | fact whatever - logical form is |
+   |                           | the UNIVERSAL medium            |
+   +---------------------------+---------------------------------+
+   RELATION: logical form is what the pictorial forms HAVE IN COMMON.
+   EVERY picture is a LOGICAL picture (2.182); not every picture is
+   spatial or musical.
+        |
+        v
+HOW LOGICAL FORM DEFINES THE LANGUAGE-WORLD RELATION (2022 Q3(c),
+   second half - do not omit it)
+   Because logical form is COMMON to proposition and fact, language and
+   world are not two realms needing a bridge. The relation is INTERNAL -
+   constitutive of the proposition's being a picture at all - not an
+   external correlation fixed by convention or causal contact.
+        |
+        v
+PROVENANCE: "picture theory" is the COMMENTATORS' label. Wittgenstein
+   writes Bild (picture/model) and abbilden (to depict). Say "the
+   doctrine usually called the picture theory".
+CONSEQUENCE: logical form is NOT a depictable fact - any depiction
+   would presuppose it. IT SHOWS ITSELF (4.12, 4.121, 4.1212).
+
+ASCII MASTER FLOW — PANEL 25/28: The Tractatus - bipolarity, logical space and the Grundgedanke
+==============================================================================
+BIPOLARITY - THE CONDITION OF SENSE
+   A proposition has SENSE (Sinn) only if it CAN be true and CAN be
+   false. STRONGER than bivalence, which says only that it HAS one of
+   two values.
+   ANCHORS 4.06 | 2.223 | 2.224; the TERM comes from Notes on Logic
+   (1913).
+   WHY IT DOES SO MUCH WORK
+     1 to depict is to represent something AS being the case
+     2 to represent something as being the case is to allow that it
+       might NOT be the case
+     3 therefore sense requires the genuine availability of BOTH
+       truth-values
+        |
+        v
+LOGICAL SPACE - WHERE THE POSSIBILITIES LIVE
+   1.13 the facts in logical space are the world
+   2.11 a picture presents a situation in logical space
+   3.4  a proposition DETERMINES A PLACE in logical space
+   3.41 the propositional sign and the logical co-ordinates: that is
+        the logical place
+   3.42 the existence of the logical place is guaranteed by the mere
+        existence of the constituent parts
+   4.463 a proposition "is like a solid body that restricts the freedom
+        of movement of others" - A PROPOSITION IS A LIMIT ON HOW THE
+        WORLD MAY BE
+   ANALOGY: logical space is to propositions what a COORDINATE SYSTEM
+   is to points - to specify a point you need the whole grid.
+        |
+        v
+FOUR CONSEQUENCES
+   SENSE IS HOLISTIC ....... to understand p is to understand not-p:
+                             the same logical place, opposite pole
+   NEGATION IS NOT AN OBJECT 4.0312, the GRUNDGEDANKE: "my fundamental
+                             idea is that the 'logical constants' are
+                             not representatives"
+   THE WORLD IS DETERMINATE  2.013 - possibility is built into the
+                             object, not added to it
+   LIMITS OF LANGUAGE =
+     LIMITS OF THE WORLD ... 5.6 - one cannot think outside logical
+                             space, so its bounds cannot be described
+                             from outside
+        |
+        v
+ANSWER LINE: "If the world could not refute it, it did not tell you
+   anything."
+
+ASCII MASTER FLOW — PANEL 26/28: The Tractatus - general form, N-operator, two failures
+==============================================================================
+THE GENERAL FORM OF THE PROPOSITION - give BOTH formulations
+   (a) INFORMAL, 4.5: "THIS IS HOW THINGS STAND"
+       (Es verhaelt sich so und so). OGDEN: "Such and such is the
+       case". FLAG THE RENDERING.
+   (b) FORMAL, 6:        [ p , x , N(x) ]
+         p (p-bar) .... the totality of ELEMENTARY propositions
+         x (xi-bar) ... any arbitrarily selected SET of propositions
+                        already formed
+         N(x) ......... the result of applying the N-OPERATOR
+        |
+   THE N-OPERATOR (5.502, 5.51) = JOINT NEGATION: none of the selected
+   propositions is true.
+        not-p   = N(p)
+        p or q  = N(N(p,q))
+        p and q = N(N(p), N(q))
+   Quantification through sets of values of propositional functions
+   (5.52); adequacy for INFINITE or MULTIPLY GENERAL cases is DISPUTED.
+        |
+        v
+WHAT PROPOSITION 6 ASSERTS
+   1 every proposition is a TRUTH-FUNCTION of elementary propositions(5)
+   2 every truth-function is producible by repeated application of ONE
+     operation, N
+   3 so there is ONE general form - that of a FORMAL SERIES generated
+     from the elementary base
+   4 so LOGIC NEEDS NO PRIMITIVE PROPOSITIONS AND NO LOGICAL OBJECTS -
+     the DECISIVE BREAK with Russell and Frege
+   5 so "there can be no surprises in logic" (6.1251), and logic's
+     propositions are TAUTOLOGIES (6.1)
+   6 so whatever cannot be produced by this rule IS NOT A PROPOSITION -
+     the general form is the CRITERION OF THE SAYABLE
+        |
+        v
+THE TWO WAYS OF FAILING TO SAY ANYTHING
+   SINNLOS (senseless, but WELL FORMED)
+     TAUTOLOGY ..... true under every truth-condition; excludes NOTHING
+                     "it is raining or it is not raining"
+     CONTRADICTION . false under every truth-condition; excludes
+                     EVERYTHING
+     They belong to the symbolism and SHOW the scaffolding of logic
+     (4.461-4.4611, 6.124). NOT nonsensical.
+   UNSINNIG (nonsensical)
+     "The Absolute is perfect"; "There are objects"
+     Depicts NO possible situation; never entered logical space at all.
+   THIS IS THE MOST TESTED DISCRIMINATION IN THE TRACTATUS.
+        |
+        v
+FOUR PRESUPPOSITIONS - state as PRESSURES, not as conceded refutations
+   [1] there ARE elementary propositions and simple objects - no
+       uncontested example is given
+   [2] elementary propositions are LOGICALLY INDEPENDENT (2.061, 4.211)
+       - COLOUR EXCLUSION pressures this: "this patch is red all over"
+       and "this patch is blue all over" are incompatible although
+       neither looks like a truth-function of the other. Wittgenstein
+       addressed it in "Some Remarks on Logical Form" (1929) and
+       quickly abandoned the proposed analysis.
+   [3] ALL propositions are truth-functions of elementary ones -
+       belief-contexts (5.54-5.542) and modality create difficulties
+   [4] the N-operator can handle INFINITE domains - disputed
+   BOUNDARY: colour exclusion diagnoses a pressure; it does NOT license
+   importing MEANING AS USE, which is TOPIC 08.
+
+ASCII MASTER FLOW — PANEL 27/28: The Tractatus - saying, showing, the limit, the ladder and 7
+==============================================================================
+THE DERIVATION - why the distinction is FORCED, not stipulated
+   1 a proposition depicts by SHARING logical form with what it depicts
+   2 to DEPICT that sharing, a further picture would have to stand
+     OUTSIDE logical form and represent it as one fact among others
+   3 but any picture whatever ALREADY HAS logical form - there is no
+     representation from outside representation
+   4 a REGRESS also threatens: each attempted statement of form would
+     need its own form stated
+   5 THEREFORE logical form is NOT SAYABLE. It SHOWS ITSELF in every
+     proposition that has it (4.12, 4.121, 4.1212)
+   4.1212 "WHAT CAN BE SHOWN, CANNOT BE SAID."
+        |
+        v
+   +---------------------------+---------------------------------+
+   | CAN BE SAID (gesagt)      | CAN ONLY BE SHOWN (gezeigt)     |
+   +---------------------------+---------------------------------+
+   | propositions of NATURAL   | LOGICAL FORM                    |
+   | SCIENCE (6.53)            | THE EXISTENCE OF OBJECTS        |
+   | contingent states of      | LOGICAL TRUTHS - the scaffolding|
+   | affairs                   |   of the world (6.124)          |
+   |                           | ETHICS, AESTHETICS, THE MEANING |
+   |                           |   OF LIFE, THE MYSTICAL         |
+   |                           | THE LANGUAGE-WORLD RELATION     |
+   +---------------------------+---------------------------------+
+        |
+        v
+VALUE - the exact propositions
+   6.41  the sense of the world must lie OUTSIDE the world; in the
+         world everything is as it is, and in it there is NO VALUE
+   6.42  there can be NO PROPOSITIONS OF ETHICS
+   6.421 ethics cannot be put into words; ethics is TRANSCENDENTAL
+   6.522 "there is indeed the inexpressible; this SHOWS itself; it is
+         the MYSTICAL"
+   NOT A DISMISSAL: ethical claims are NOT declared FALSE and NOT
+   declared unimportant. A DIFFERENT VERDICT, and a more respectful one.
+        |
+        v
+THE LIMIT IS DRAWN FROM INSIDE
+   PREFACE: the limit "can only be drawn in language, and what lies on
+     the other side of the limit will simply be nonsense"
+   5.6  the limits of my language mean the limits of my world
+   5.61 we cannot say what we cannot think, so we cannot say what we
+     cannot say
+   SOLIPSISM, BOUNDED ORIENTATION ONLY
+     5.62 "what the solipsist MEANS is quite correct, only it cannot be
+       SAID: it shows itself"
+     5.632-5.633 the subject does not belong to the world; it is a
+       LIMIT of the world - THE EYE IS NOT IN THE VISUAL FIELD
+     5.64 strictly maintained, solipsism COINCIDES WITH PURE REALISM
+     USE TO ILLUSTRATE THE BOUNDARY. The private-language critique is
+     TOPIC 08.
+        |
+        v
+SELF-APPLICATION, THE LADDER AND 7
+   Every sentence of the Tractatus is about logical form, objects and
+   the limits of language. BY ITS OWN TEST NONE SAYS ANYTHING.
+   6.54 (Pears-McGuinness): "anyone who understands me eventually
+     recognises them as nonsensical, when he has used them - as steps -
+     to climb beyond them. (He must, so to speak, throw away the ladder
+     after he has climbed it.)"
+   7  OGDEN: "Whereof one cannot speak, thereof one must be silent."
+      PEARS-McGUINNESS: "What we cannot speak about we must pass over
+      in silence."
+      NAME THE TRANSLATION. THERE IS NO PROPOSITION 7.1 - proposition 7
+      is deliberately uncommented and stands alone.
+   6.53 THE METHOD: say nothing except what can be said, and whenever
+      someone attempts a metaphysical statement, demonstrate that he
+      has given no meaning to certain signs.
+        |
+        v
+TWO READINGS - state both, then rule
+   STANDARD / INEFFABILITY .. logical form, value and the mystical
+     MANIFEST themselves although they cannot be stated as facts
+   RESOLUTE / THERAPEUTIC ... (Diamond, Conant) 6.54 licenses NO body of
+     ineffable truths; the apparent doctrines are ELUCIDATORY NONSENSE
+   BOTH AGREE: ethics, aesthetics and the mystical are NOT factual
+     propositions within logical space.
+        |
+        v
+VERDICT: justified as a DERIVED DIAGNOSIS - one structural error
+   generates the whole family of philosophical problems; NOT fully
+   justified as a STATEABLE DOCTRINE, because the boundary cannot be
+   stated without transgressing itself. 4.112: philosophy is an
+   ACTIVITY, not a body of doctrine.
+NO VERIFICATION PRINCIPLE ANYWHERE IN THE TRACTATUS - TOPIC 07.
+
+ASCII MASTER FLOW — PANEL 28/28: Comparison, criticism ledger, PYQ routing and the answer spine
+==============================================================================
+COMPARE BY AXIS, NOT BY PARAGRAPH
+   AXIS          MOORE            RUSSELL           EARLY WITTGENSTEIN
+   TARGET        scepticism and   misleading        conditions and
+                 idealist         grammar and       LIMITS of
+                 conflation       ontological       propositional sense
+                                  inflation
+   CORE TOOL     common sense +   logical analysis  picture theory of
+                 act/object       (descriptions)    propositions
+   ONTOLOGY      ordinary objects particulars,      facts in logical
+                 accepted; full   qualities /       space; simple
+                 perceptual       relations, facts, objects UNSPECIFIED
+                 theory UNDER-    phase-specific
+                 DETERMINED       constructions
+   METAPHYSICS   reject           eliminate pseudo- factual propositions
+                 conclusions less constituents;     SAY; logic, value
+                 certain than     test what remains and metaphysics
+                 truisms                            raise SAY/SHOW
+   SELF          conscious ACT    acquaintance      solipsism and the
+                 distinguished    framework varies  metaphysical subject
+                 from its OBJECT  across phases     at the LIMIT
+   LEGACY        analytic /       formal analysis   influences
+                 common-sense     and ontological   positivism, then his
+                 method           economy           OWN later criticism
+        |
+        v
+THE TWO ATOMISMS
+   ATOMS ......... acquainted particulars + qualities/relations (R) vs
+                   UNSPECIFIED objects fixed by combinatorial
+                   possibility (W)
+   GROUND ........ logic + a changing acquaintance epistemology (R) vs
+                   a CONDITION-OF-SENSE argument (W)
+   INDEPENDENCE .. acknowledged loosely (R) vs STRICTLY insisted upon
+                   (W), 2.061 and 4.211
+   NEGATION ...... NEGATIVE FACTS accepted (R) vs the TOTALITY account,
+                   2.05 and 4.0312 (W)
+   EXPRESSION .... 1918 lectures, preface crediting W (R) vs Tractatus,
+                   written 1918, German 1921, bilingual 1922 (W)
+   RULING: TWO ATOMISMS WITH A COMMON ANCESTRY, NOT ONE DOCTRINE.
+        |
+        v
+CRITICISM LEDGER - always finish with the RESIDUAL
+   MOORE     begs the question -> comparative + dialectical replies ->
+             RESIDUAL: no NEUTRAL MEASURE of certainty
+             paradox of analysis -> knowledge does not wait on analysis
+             -> RESIDUAL: the paradox has no settled Moorean solution
+   RUSSELL   Strawson 1950 -> truth-conditions are what a logic requires
+             -> RESIDUAL: a GENUINE RIVAL ANALYSIS
+             logically proper names -> restriction accepted openly ->
+             RESIDUAL: the class shrinks almost to nothing
+             negative facts -> a truth-making cost -> RESIDUAL: NO
+             FIXED FINAL INVENTORY
+   TRACTATUS ethics not factual -> deliberate demarcation -> RESIDUAL:
+             standard vs resolute disagree on ineffable truths
+             self-application -> 6.54 concedes the ladder -> RESIDUAL:
+             successful therapy OR unstable doctrine, disputed
+             no exemplified simples -> required for determinate sense ->
+             RESIDUAL: necessity does not identify an actual base
+   THREE DIFFERENT FAILURES: Moore's gap is EPISTEMOLOGICAL, Russell's
+   is ONTOLOGICAL, Wittgenstein's concerns the STATUS OF PHILOSOPHICAL
+   DISCOURSE. Merging them loses the assessment mark.
+        |
+        v
+PYQ ROUTING - 14 OWNED PARTS OF 112, JOINT-HIGHEST, ONE IN EVERY YEAR
+   MOORE (5)      2019 Q3(c) 15 | 2020 Q2(b) 15 | 2021 Q3(a) 20 |
+                  2024 Q1(c) 10 | 2025 Q3(c) 15
+   RUSSELL (6)    2018 Q4(c) 15 | 2020 Q2(c) 15 | 2022 Q1(b) 10 |
+                  2023 Q4(b) 15 | 2024 Q3(a) 20 | 2025 Q1(d) 10
+   WITTGENSTEIN(3)2018 Q3(c) 15 | 2021 Q4(c) 15 | 2022 Q3(c) 15
+   SUPPORTING, OWNED ELSEWHERE: 2018 Q3(a) 20 (Empiricism) |
+   2023 Q4(c) 15 and 2025 Q3(a) 20 (Later Wittgenstein)
+        |
+        v
+ANSWER SPINE
+   10 problem -> analysis -> result -> point
+   15 frame -> doctrine -> quote -> key move -> result -> assess
+   20 frame -> incomplete symbols -> constructions -> atomism ->
+      assess -> close
+   DIRECTIVES: descriptions demand NOTATION | quotations demand that you
+   LOCATE THE SENTENCE | saying/showing demands the DERIVATION | Moore
+   demands the STRUCTURE OF THE REVERSAL | 2020 Q2(c) demands the
+   QUOTED PHRASES DECODED | "how is X related to Y" demands SUPPORT,
+   NOT ENTAILMENT | comparison demands an AXIS
+        |
+        v
+QUALIFIED CONCLUSION
+   Three programmes, one method used for three incompatible purposes,
+   each leaving something deliberately unfinished. MOORE redistributes
+   the burden of proof and leaves the ANALYSIS open. RUSSELL secures
+   ontological economy and leaves the INVENTORY open. EARLY
+   WITTGENSTEIN fixes the conditions of sense with unmatched rigour and
+   leaves THE STATUS OF HIS OWN BOOK open. Permanent achievements:
+   the reversal of the sceptical burden | the quantificational analysis
+   of definite descriptions | sense as determinate exclusion within a
+   field of possibilities. Permanent costs: no neutral measure of
+   certainty | no completed base | no consistent way of stating the
+   boundary the Tractatus draws. State an achievement AND its matching
+   cost in the same sentence, and the clause has been understood.

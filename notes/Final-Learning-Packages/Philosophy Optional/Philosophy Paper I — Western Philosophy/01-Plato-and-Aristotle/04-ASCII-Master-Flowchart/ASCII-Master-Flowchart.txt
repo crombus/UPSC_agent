@@ -1,130 +1,992 @@
-ASCII MASTER FLOW — PANEL 1/10: Central problem: one, many, knowledge and stability
+ASCII MASTER FLOW — PANEL 1/25: The central question and the two rival answers
+================================================================================
 CENTRAL QUESTION: HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?
         |
-        +--> ONE-MANY: many just acts -> one intelligible standard of Justice
-        |
-        +--> KNOWLEDGE: episteme requires a stable object, not flux alone
-        |
-        +--> PLATO (MIDDLE DIALOGUES): separate Forms; particulars participate or imitate
-        |
-        +--> COST: separation makes the Form-particular relation hard to explain
-
-ASCII MASTER FLOW — PANEL 2/10: Two-level ontology and the ascent from opinion to knowledge
-PLATO'S TWO-LEVEL ONTOLOGY
-+----------------------------+      +----------------------------+
-| INTELLIGIBLE                |      | SENSIBLE                   |
-| Forms: stable, universal    |      | particulars: many, changing|
-| episteme through reason     |      | doxa through perception     |
-+-------------+--------------+      +-------------+--------------+
-              ^ participation / imitation          |
-              +-------------------------------------+
-CAVE: shadows -> visible things -> mathematics -> Forms -> Good
-LINE: eikasia -> pistis -> dianoia -> noesis
-SUN: the Good grounds being/knowability; it is not simply the Timaeus Demiurge.
-
-ASCII MASTER FLOW — PANEL 3/10: Participation pressure and Aristotle's immanent repair
-PLATONIC EXPLANATION                     ARISTOTELIAN PRESSURE
-Form F -> participation -> many F-things | participation remains metaphorical
-separate paradigm explains common F     | separation duplicates the explanandum
-        |                                | likeness invites another Form
-        v                                v
-THIRD MAN: particulars + Form F resemble -> further Form F2 -> regress
-        |
-        +--> REPLY: deny unrestricted self-predication or restrict the premise
-        |
-        +--> RESIDUAL: how does a separate Form causally determine a particular?
-ARISTOTLE'S REPAIR: retain form, but make it immanent in concrete substance.
-
-ASCII MASTER FLOW — PANEL 4/10: Aristotle's substance hierarchy and explanatory essence
-ARISTOTLE: WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT IS?
-                           SUBSTANCE
-                              |
-              +---------------+----------------+
-              |                                |
-CATEGORIES: WHICH THINGS?          METAPHYSICS: SUBSTANCE-HOOD?
-primary = this person/horse         form or essence explains the compound
-secondary = species and genus       matter alone is not a determinate this
-accidents exist in a substance      universal and genus are not primary
-              |                                |
-              +--> safe synthesis: individual exists; form explains its identity
-
-ASCII MASTER FLOW — PANEL 5/10: Hylomorphic composite: matter, form and substantial unity
-ONE SENSIBLE NATURAL SUBSTANCE = MATTER INFORMED BY IMMANENT FORM
-+--------------------------+     +--------------------------+
-| MATTER                   |     | FORM                     |
-| that out of which        |     | what-it-is / essence     |
-| relative potentiality    |     | organisation / actuality |
-| can receive determination|     | makes the composite one  |
-+-------------+------------+     +-------------+------------+
-              +---------------+---------------+
-                              v
-                    CONCRETE COMPOSITE
-bronze + statue-form; wood + table-form; body + soul in a living organism
-LIMIT: prime matter is disputed and never independent; accidents and pure act are not compounds.
-
-ASCII MASTER FLOW — PANEL 6/10: Four causes as a matrix of explanatory completeness
-ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY
-+-------------+----------------------+----------------------+----------------------+
-| MATERIAL    | FORMAL               | EFFICIENT            | FINAL                |
-| made of what| what it is           | source of change     | for the sake of what |
-| wood        | table structure      | carpenter and tools  | usable working surface|
-+-------------+----------------------+----------------------+----------------------+
-NATURAL CASE: acorn matter + oak form + generating parent/process + mature oak telos
-        |
-        +--> formal, efficient and final causes may coincide in natural development
-        |
-        +--> teleology need not mean a conscious external designer
-CHANGE: subject/matter + privation -> acquired form; identity is completed actuality.
-CHANGE: subject/matter + privation -> acquired form; identity is completed actuality.
-RESULT: explanatory completeness is richer than efficient succession alone.
-
-ASCII MASTER FLOW — PANEL 7/10: Potentiality to actuality: change without creation from nothing
-GROUNDED CAPACITY -> PROCESS OF ACTUALISATION -> FULFILLED ACTUALITY
-wood fit for a table -> cutting and joining -> completed table
-acorn ordered to oak -> organic development -> mature oak
-        |                    |                    |
-     dynamis             kinesis          energeia / entelecheia
-        |
-        +--> change = actuality of the potential precisely as potential
-        +--> actuality is prior in definition, end and species-level explanation
-        +--> qualification: potentiality may be earlier in an individual's time
-RESULT: becoming is structured being-in-capacity, not emergence from sheer non-being.
-
-ASCII MASTER FLOW — PANEL 8/10: Teleological order and pure actuality
-MOTION HERE AND NOW REQUIRES ACTUALITY, BUT THE SERIES CANNOT BE PURE POTENCY
-moved mover -> moved mover -> ordered eternal motion
+        +--> ONE-MANY (hen epi pollon): many just acts -> one standard of Justice
+        +--> KNOWLEDGE: episteme needs an object that CANNOT BE OTHERWISE
+        +--> VALUE: the objectivity of "beautiful", "just", "good"
         |
         v
-UNMOVED MOVER = PURE ACTUALITY WITHOUT UNREALISED POTENTIALITY
+TWO ANSWERS TO ONE QUESTION
++---------------------------------+----------------------------------------+
+| PLATO                           | ARISTOTLE                              |
+| SEPARATE the character from the | KEEP the character INSIDE the thing    |
+| thing: transcendent Form (eidos)| immanent essence (to ti en einai)      |
+| particulars PARTICIPATE(methexis)| substance = matter (hyle) informed by |
+| or IMITATE (mimesis)            | form (morphe)                          |
+| SUBSTANCE (ousia) = the universal| SUBSTANCE = this individual (tode ti) |
+| CAUSE = paradigm + the Good     | CAUSE = four aitiai + internal telos   |
+| CHANGE = sensible becoming      | CHANGE = dynamis -> energeia           |
+| APEX = the Form of the Good     | APEX = the Unmoved Mover, pure act     |
++---------------------------------+----------------------------------------+
         |
-        +--> moves as final cause: object of desire and thought
-        +--> thought thinking itself; no material composition
-        +--> not a temporal first event or material cause
-LIMIT: do not equate Aristotle's mover with a personal efficient creator.
-
-ASCII MASTER FLOW — PANEL 9/10: Plato and Aristotle on form: comparison, criticism and reply
-+---------------------------+---------------------------+---------------------------+
-| AXIS                      | PLATO                     | ARISTOTLE                 |
-+---------------------------+---------------------------+---------------------------+
-| status of form            | transcendent and separate | immanent in substance     |
-| primary reality           | universal Form            | concrete individual       |
-| relation to particulars   | participation / imitation | hylomorphic constitution  |
-| explanation of change     | Forms/Good/Demiurge vary   | causes plus potency-act    |
-+---------------------------+---------------------------+---------------------------+
-OBJECTION TO PLATO -> duplication, regress and causal gap
-REPLY FOR PLATO -> stable universals secure objectivity, definition and norms
-OBJECTION TO ARISTOTLE -> universality and prime matter remain difficult
-VERDICT -> Aristotle transforms Plato's insight; he does not simply erase it.
-
-ASCII MASTER FLOW — PANEL 10/10: Answer spine and precision distinctions
-DIRECTIVE -> DEFINITION -> ARGUMENT -> EXAMPLE -> OBJECTION -> REPLY -> VERDICT
+        +--> COST TO PLATO: separation leaves participation UNANALYSED
+        +--> COST TO ARISTOTLE: immanent form INHERITS the universals problem
         |
-        +--> FORM: organising actuality; UNIVERSAL: predicable of many
-        +--> ESSENCE: what-it-is; SUBSTANCE: primary bearer / concrete being
-        +--> MATTER: capacity principle; CAUSE: explanatory because
-        +--> POTENTIALITY: qualified capacity; ACTUALITY: fulfilment or activity
-PYQ ROUTES
-Forms -> one-many + knowledge + participation; Substance -> Categories/Metaphysics
-Causes -> four complementary explanations; Change -> potentiality to actuality
-Comparison -> transcendent Form versus immanent form on matched axes
-FINAL CONTROL: answer printed metaphysics; soul, ethics, politics and logic stay optional.
+        v
+MNEMONIC: PLATO POINTS UP; ARISTOTLE POINTS HERE.
+SYLLABUS (verbatim): "Plato and Aristotle : Ideas; Substance; Form and Matter;
+   Causation; Actuality and Potentiality."  Paper I, Section A, item 1.
+CORPUS SIGNAL: 12 primary-owned parts of 112 Western parts, with at least one
+   part in EVERY year of the 2018-2025 corpus.
+
+ASCII MASTER FLOW — PANEL 2/25: Chronology and the textual map that prevents anachronism
+================================================================================
+ c.470-399 BCE  SOCRATES    "what is F itself?" - the search for definitions
+        |
+ c.428-348 BCE  PLATO       pupil of Socrates; Academy founded c.387 BCE
+        |
+        +-- EARLY dialogues   -> Socratic search for definitions
+        +-- MIDDLE dialogues  -> Meno, Phaedo: recollection, equality, the soul
+        |                        Republic V-VII: knowledge/opinion, Forms, the
+        |                        Good, Sun, Line, Cave, dialectic
+        +-- LATE dialogues    -> Parmenides: participation dilemma, regress
+                                 Sophist: being/non-being, highest kinds
+                                 Timaeus: Demiurge, paradigms, Receptacle
+        |
+ c.384-322 BCE  ARISTOTLE   enters the Academy c.367 BCE, stays ~20 YEARS;
+        |                   founds the Lyceum c.335 BCE
+        +-- Categories        -> primary/secondary substance, predication
+        +-- Physics I-III     -> form/matter/privation, four causes, change
+        +-- Metaphysics I     -> the critique of separated Forms
+        +-- Metaphysics VII-VIII (Z-H) -> substance, essence, matter/form
+        +-- Metaphysics IX (Theta)     -> potentiality and actuality
+        +-- Metaphysics XII (Lambda)   -> the Unmoved Mover, pure actuality
+        +-- De Anima II.1     -> the soul as the FORM OF THE LIVING BODY
+
+CONSEQUENCE: the critique is an INTERNAL demolition of a teacher's system,
+   not an attack from a rival school.
+CAUTION 1: dialogue chronology and developmental readings are DISPUTED.
+   Attribute an argument to ITS dialogue, not to one flat "two-world theory".
+CAUTION 2: the Parmenides objections are PLATO'S OWN. The theory was under
+   pressure before Aristotle wrote a line against it.
+CAUTION 3: Aristotle's "substance" answers DIFFERENT questions in the
+   Categories and the Metaphysics; never silently flatten one into the other.
+
+ASCII MASTER FLOW — PANEL 3/25: What a Form is — five properties and two cautions
+================================================================================
+FORM (eidos, idea) = eternal | immutable | non-material | self-identical | separate
++-----------------+--------------------------------------------------------+
+| PROPERTY        | WHY PLATO NEEDS IT                                     |
++-----------------+--------------------------------------------------------+
+| eternal         | only what cannot be otherwise can be known             |
+| immutable       | a changing standard would not fix a predicate          |
+| non-material    | one Form must serve indefinitely many instances        |
+| self-identical  | sensibles are F and not-F in different relations       |
+| separate        | the standard must not depend on what it corrects       |
++-----------------+--------------------------------------------------------+
+        |
+        +--> THE FORM OF BEAUTY IS BEAUTY *ITSELF* - not any beautiful thing,
+        |    but that by virtue of which all beautiful things are beautiful
+        |
+        +--> THE GOOD (Republic VI 508b-509c) gives the other Forms BOTH their
+             BEING and their KNOWABILITY, as the sun gives visible things both
+             growth and visibility; itself "beyond being"
+             (epekeina tes ousias, 509b)
+        |
+        v
+TWO-LEVEL ONTOLOGY
+   INTELLIGIBLE (noeton)              |  SENSIBLE (horaton)
+   eternal, unchanging                |  temporal, in flux
+   grasped by reason (nous)           |  taken by opinion (doxa)
+   the truly real (ontos on)          |  derivative - copies, shadows
+   object of knowledge (episteme)     |  object of belief (pistis) and
+                                      |  conjecture (eikasia)
+        |
+CAUTION 1: "intelligible realm" is a STRUCTURAL expression, not a place.
+   A spaceless entity cannot be SOMEWHERE.
+CAUTION 2: Forms are NOT concepts in minds. That is CONCEPTUALISM, which
+   Plato rejects: the Form must be the standard by which minds are corrected.
+
+ASCII MASTER FLOW — PANEL 4/25: The four arguments for the Forms
+================================================================================
++---------------------+-----------------------------------+------------------+
+| ARGUMENT            | STRUCTURE                         | SOURCE           |
++---------------------+-----------------------------------+------------------+
+| ONE-OVER-MANY       | many beautiful things share a     | Republic V;      |
+| (hen epi pollon)    | common character -> there must be | Parmenides 132a  |
+|                     | one thing they all share          |                  |
++---------------------+-----------------------------------+------------------+
+| FROM KNOWLEDGE      | knowledge requires an unchanging  | Republic V-VII;  |
+|                     | object; the sensible world is in  | cf. Theaetetus   |
+|                     | flux; so its objects are          |                  |
+|                     | non-sensible universals           |                  |
++---------------------+-----------------------------------+------------------+
+| FROM OPPOSITES /    | a stick is longer than X and      | Phaedo 74a-75d   |
+| RELATIVITY          | shorter than Y; sensibles         |                  |
+|                     | "participate in opposites"; the   |                  |
+|                     | Large itself is never small       |                  |
++---------------------+-----------------------------------+------------------+
+| RECOLLECTION        | we recognise equality in          | Phaedo 72e-77a;  |
+| (anamnesis)         | sensibles though we never meet    | Meno 80d-86c     |
+|                     | perfect equality -> the soul knew |                  |
+|                     | the Form before birth             |                  |
++---------------------+-----------------------------------+------------------+
+        |
+        +--> THE FIRST TWO ARE LOAD-BEARING: unity + stability.
+        +--> RECOLLECTION IS ONE SUPPORTING ROUTE, NOT PLATO'S WHOLE
+             EPISTEMOLOGY. Reducing Platonic knowledge to remembering loses
+             the dialectical ascent of Republic VI-VII entirely.
+        |
+        v
+BOUNDED SOUL-LINK: the soul's prior acquaintance and its capacity for noesis
+   enter here only as an ARGUMENT FOR THE FORMS. The tripartite soul,
+   immortality proofs beyond recollection, justice and the philosopher-ruler
+   belong to ethics/politics and are NOT owner content under this clause.
+TRAP: introducing Forms to "explain change" INVERTS the doctrine. Forms
+   explain stability and intelligibility DESPITE change; explaining change
+   is Aristotle's project.
+
+ASCII MASTER FLOW — PANEL 5/25: Timeless, spaceless, and what Plato's substance is
+================================================================================
+PYQ 2025 Q1(a): "Ideas are timeless and spaceless." ELUCIDATE = DERIVE, not assert.
+        |
+   NON-MATERIAL ------------> no magnitude, shape or position => SPACELESS
+        |                     the Form of Justice is not "somewhere"
+   SELF-IDENTICAL ----------> no generation, destruction or alteration
+        |                     => TIMELESS
+        v
+   ADMITS OF NO OTHERWISE -> hence a proper object of KNOWLEDGE (episteme)
+        |
+        +--> CONTRAST: particulars are temporal, spatial, changeable ->
+        |    objects only of OPINION (doxa)
+        |
+        +--> DISTINCTION FEW CANDIDATES DRAW:
+             TIMELESS is not EVERLASTING. An everlasting thing lasts through
+             all time; a timeless thing is one to which temporal predicates
+             DO NOT APPLY AT ALL.
+        |
+        v
+SUBSTANCE FOR PLATO (ousia) = THE FORM
+   the truly real is the UNIVERSAL; particulars have being only DERIVATIVELY,
+   by participation. This is the EXACT INVERSION of Aristotle's position and
+   the examiner exploits it constantly.
+        |
+        v
+EVALUATION TO CLOSE WITH: the property is the theory's strength AND its wound.
+   What lifts Forms above flux also removes them from the spatio-temporal
+   order they are meant to explain - Aristotle's charge at Metaphysics I.9.
+        |
+TRAP 1: "Plato denies the reality of the physical world" -> FALSE. He grants
+   DERIVATIVE reality: copies, not illusions. He is not an illusionist, and a
+   comparison with Advaita's maya is safe only if the difference is stated.
+TRAP 2: answering the 2025 question with adjectives - "eternal, unchanging,
+   perfect" - instead of the derivation.
+
+ASCII MASTER FLOW — PANEL 6/25: The Sun and the Divided Line
+================================================================================
+SUN (Republic VI 507a-509c): as the sun gives visible things VISIBILITY and
+   GENERATION, the Good gives the Forms KNOWABILITY and BEING.
+DIVIDED LINE (Republic VI 509d-511e): cut a line into two UNEQUAL parts -
+   visible and intelligible - then cut each again IN THE SAME RATIO.
+   The four segments stand in CLARITY AND TRUTH (sapheneia, aletheia) exactly
+   as their objects stand in DEGREE OF BEING.
++-----+-------------------+---------------------------+----------------------+
+| SEG | STATE (pathema)   | OBJECTS                   | METHOD               |
++-----+-------------------+---------------------------+----------------------+
+|  A  | NOESIS            | THE FORMS, culminating in | DIALECTIC: treats    |
+|     | intellection      | THE GOOD                  | hypotheses AS        |
+|     | (nous)            |                           | hypotheses, ascends  |
+|     |                   |                           | to an UNHYPOTHETICAL |
+|     |                   |                           | first principle      |
+|     |                   |                           | (arche anhypothetos),|
+|     |                   |                           | descends through     |
+|     |                   |                           | Forms alone, USING   |
+|     |                   |                           | NO IMAGES WHATEVER   |
++-----+-------------------+---------------------------+----------------------+
+|  B  | DIANOIA           | MATHEMATICAL OBJECTS      | (i) USES visible     |
+|     | thought           |                           | things AS IMAGES -   |
+|     |                   |                           | the drawn triangle   |
+|     |                   |                           | stands for the       |
+|     |                   |                           | triangle             |
+|     |                   |                           | (ii) argues DOWNWARD |
+|     |                   |                           | from hypotheses      |
+|     |                   |                           | "taken as known"     |
++-----+-------------------+---------------------------+----------------------+
+|  C  | PISTIS belief     | the VISIBLE THINGS: living| ordinary perception  |
+|     |                   | creatures, plants,        | and trust            |
+|     |                   | artefacts                 |                      |
++-----+-------------------+---------------------------+----------------------+
+|  D  | EIKASIA conjecture| IMAGES: shadows,          | taking images for    |
+|     |                   | reflections in water and  | their originals      |
+|     |                   | polished surfaces(eikones)|                      |
++-----+-------------------+---------------------------+----------------------+
+
+ASCII MASTER FLOW — PANEL 7/25: The Line's decisive discriminator and its cuts
+================================================================================
+PRIMARY CUT:   D + C = DOXA (opinion)   ||   B + A = EPISTEME (knowledge)
+   The further cuts are SUBDIVISIONS of each, not a second primary division.
+MNEMONIC:      E - P - D - N   <->   Images | Things | Mathematicals | Forms
+        |
+        v
+THE MOST EXAMINABLE SINGLE POINT
+   What separates DIANOIA from NOESIS is NOT the difficulty of the subject
+   matter but the DIRECTION OF ARGUMENT and the USE OF IMAGES.
++---------------------------------+----------------------------------------+
+| MATHEMATICS (dianoia)           | DIALECTIC (noesis)                     |
+| reasons DOWN from hypotheses    | reasons UP, destroying the hypotheses' |
+| it "takes as known" and "gives  | standing as starting-points, to an     |
+| no account of" - the odd and    | UNHYPOTHETICAL first principle, then   |
+| the even, the figures, the      | descends through Forms alone           |
+| three kinds of angle            |                                        |
+| USES diagrams as images         | USES NO IMAGES WHATEVER                |
++---------------------------------+----------------------------------------+
+        |
+        +--> CONSEQUENCE: a hard theorem is still dianoia; an elementary piece
+             of dialectic is still noesis. The criterion is METHODOLOGICAL.
+        |
+        v
+SCHOLARLY ASIDE (worth one clause, flag as contested)
+   It is a geometrical consequence of Plato's own instruction - cut in the
+   same ratio - that the two MIDDLE segments, C and B, are NECESSARILY EQUAL
+   in length whatever ratio is chosen. Plato never comments on this, and
+   commentators disagree about whether it is significant.
+        |
+        v
+OBJECTION: the Line conflates KINDS of object with DEGREES of reality;
+   "more real" is not a coherent comparative.
+REPLY: Plato's "more real" means more SELF-IDENTICALLY and UNQUALIFIEDLY what
+   it is - a stick is long and short, the Long itself never is.
+RESIDUE: Aristotle rejects the assumption outright at Metaphysics I.9 -
+   being is said in MANY WAYS, not in DEGREES.
+
+ASCII MASTER FLOW — PANEL 8/25: The Cave — the Line narrated as an education
+================================================================================
+CAVE (Republic VII 514a-517a)
++----------------------------------------------+----------+------------------+
+| STAGE                                        | SEGMENT  | WHAT IS GRASPED  |
++----------------------------------------------+----------+------------------+
+| prisoners chained from childhood, facing the | EIKASIA  | images taken for |
+| wall, seeing SHADOWS cast by a fire behind   |          | realities        |
+| a prisoner is released, turns, sees THE FIRE | PISTIS   | the visible      |
+| and the CARRIED ARTEFACTS casting the shadows|          | originals        |
+| dragged up the rough ascent into daylight;   | DIANOIA  | intelligibles    |
+| bears at first only SHADOWS AND REFLECTIONS  |          | approached       |
+| IN WATER of real things                      |          | THROUGH images   |
+| then the THINGS THEMSELVES; then stars and   | NOESIS,  | Forms directly,  |
+| moon; finally THE SUN, and he infers that it | to the   | and the Good as  |
+| governs all that is visible                  | GOOD     | their source     |
++----------------------------------------------+----------+------------------+
+PLATO'S OWN INSTRUCTION (517a-b): apply the image "AS A WHOLE" to the Sun and
+   the Line that precede it.
+        |
+        +--> ADDS 1: PAIN AND COMPULSION. "dragged up the steep and rugged
+        |    ascent"; the eyes ache; at each stage he would prefer to return.
+        |    EDUCATION (paideia) is NOT the insertion of knowledge into an
+        |    empty soul but the TURNING AROUND (periagoge) of an organ of
+        |    vision the soul ALREADY HAS - together with the whole soul.
+        |
+        +--> ADDS 2: THE RETURN (katabasis). He must go BACK DOWN, will see
+             badly in the dark, will be ridiculed and "if they could lay hands
+             on him" might be killed -> a transparent allusion to SOCRATES.
+             This converts an epistemological allegory into the POLITICAL
+             argument for philosopher-rulers.
+        |
+        v
+PRESUPPOSITIONS OF THE WHOLE TRIAD
+   P1 degrees of reality correlate with degrees of cognitive clarity
+   P2 the object determines the faculty (Republic V 476e-480a)
+   P3 there is an unhypothetical first principle, or the ascent has no terminus
+   P4 the soul already possesses the capacity for noesis (hence recollection)
+POLITICAL GAP: from HAVING SEEN THE GOOD to BEING ENTITLED TO RULE.
+   Popper, The Open Society and Its Enemies, Vol. I (1945) attacks exactly
+   here; widely regarded as polemical and contested by Plato scholars.
+   The epistemology can be accepted WITHOUT the politics; Plato denied it.
+
+ASCII MASTER FLOW — PANEL 9/25: Participation and its two internal objections
+================================================================================
+RELATION: particulars PARTICIPATE (methexis) in / IMITATE (mimesis) the Form.
+   Form = PARADIGM | particular = COPY.
+   ONE PARTICULAR MAY PARTICIPATE IN SEVERAL FORMS AT ONCE.
+   PYQ 2021 Q1(a) "there is a red chair" -> Chair AND Redness, and neither
+   Form becomes a physical part of the chair.
+        |
+        +--> OBJECTION 1: THE PARTICIPATION DILEMMA (Parmenides 131a-c)
+        |       whole Form in each participant? -> it is "separated from itself"
+        |       only a PART in each?            -> the Form is divisible, and a
+        |                                          divided Form of SMALLNESS
+        |                                          would make its participant
+        |                                          LARGE by comparison
+        |       REPLY AVAILABLE: the dilemma assumes Forms behave like
+        |          EXTENDED BODIES; a spaceless entity arguably does not.
+        |
+        +--> OBJECTION 2: THE REGRESS (Parmenides 132a-b; example = largeness)
+        |       PREMISE 1 SELF-PREDICATION: the Form of F is itself F
+        |       PREMISE 2 NON-IDENTITY: the Form explaining a resemblance must
+        |                 be DISTINCT from the particular and from the first Form
+        |       -> men + Form of Man also resemble -> a SECOND Form is required
+        |       -> and a third, and so on AD INFINITUM
+        |       NAME: "Third Man" comes from ARISTOTLE'S REPORTS
+        |             (Metaphysics 990b17, 1039a2) and later commentators.
+        |             The ARGUMENT is Plato's own.
+        |       ESCAPE ROUTE: deny PREMISE 1 - the Form of Large is not "large"
+        |          in the same sense a mountain is - and STEP 1 never starts.
+        |
+        +--> OBJECTION 3: CAUSAL IMPOTENCE. A changeless, non-spatial,
+                separated Form cannot be an EFFICIENT cause of change in
+                spatial, temporal things. Participation and imitation remain
+                METAPHORS without a causal mechanism.
+                >>> THIS ONE SURVIVES EVERY ESCAPE ROUTE <<<
+        |
+STATUS OF THE LATER DIALOGUES: whether the Sophist (communion of kinds) and
+   the Timaeus (ordered becoming) RESOLVE these difficulties, or merely revise
+   the theory, is CONTESTED. Do not assert that Plato abandoned the Forms.
+
+ASCII MASTER FLOW — PANEL 10/25: Plato's wider causal resources and the accurate objection
+================================================================================
++-------------------+------------------------------+------------------------+
+| CONTEXT           | EXPLANATORY ROLE             | LIMITATION             |
++-------------------+------------------------------+------------------------+
+| Forms in the      | a thing is beautiful because | gives FORMAL           |
+| PHAEDO            | of Beauty, equal because of  | explanation but NO     |
+|                   | Equality                     | mechanism of motion    |
++-------------------+------------------------------+------------------------+
+| The GOOD in the   | grounds BEING and            | NOT simply a personal  |
+| REPUBLIC          | INTELLIGIBILITY; supplies an | creator-God            |
+|                   | ultimate normative orientation|                       |
++-------------------+------------------------------+------------------------+
+| The DEMIURGE in   | orders becoming by LOOKING TO| crafts order; does NOT |
+| the TIMAEUS       | Forms as paradigms           | create Forms or the    |
+|                   |                              | Receptacle from nothing|
++-------------------+------------------------------+------------------------+
+| The RECEPTACLE    | the difficult "THIRD KIND" in| NOT straightforwardly  |
+| (chora), TIMAEUS  | which sensible becoming      | identical with         |
+|                   | appears                      | Aristotle's matter     |
++-------------------+------------------------------+------------------------+
+        |
+        +--> PLATO THEREFORE HAS MORE THAN "FORMS AS ONE CAUSE".
+        |
+        v
+STATE THE OBJECTION IN ITS ACCURATE FORM
+   NOT: "Plato has no causes"                    <- false, easily rebutted
+   BUT: "SEPARATED FORMS THEMSELVES do not explain motion, generation or the
+        internal organisation of this substance" <- true, hard to rebut
+        |
+        v
+VERDICT FORMULA FOR THE 2018 QUESTION
+   The relation is NOT PROVEN INCONSISTENT: the regress needs
+   self-predication, which Plato may deny, and the whole-or-part dilemma
+   assumes extension, which a spaceless Form lacks.
+   But it is EXPLANATORILY EMPTY: a relation that cannot be SPECIFIED cannot
+   do explanatory work - and the Timaeus pays that debt with a NEW ENTITY
+   rather than with an ANALYSIS of participation.
+DO NOT: equate the Form of the Good with the Demiurge. Their relation across
+   dialogues is interpretively CONTESTED.
+
+ASCII MASTER FLOW — PANEL 11/25: Aristotle's five objections to separated Forms
+================================================================================
+SOURCE: Metaphysics I.9 and XIII.4-5.  ~20 years in the Academy = INTERNAL critique.
++---+----------------------+-----------------------------------+-------------+
+| # | OBJECTION            | KERNEL                            | NEEDS SELF- |
+|   |                      |                                   | PREDICATION?|
++---+----------------------+-----------------------------------+-------------+
+| 1 | THIRD MAN REGRESS    | self-predication + separation ->  | YES         |
+|   |                      | an infinite regress of Forms      |             |
++---+----------------------+-----------------------------------+-------------+
+| 2 | DUPLICATION          | separated Forms merely DOUBLE the | NO          |
+|   |                      | things to be explained - "two     |             |
+|   |                      | sets of entities instead of one"  |             |
++---+----------------------+-----------------------------------+-------------+
+| 3 | PARTICIPATION IS A   | Plato never SPECIFIES the         | NO          |
+|   | METAPHOR             | relation; it is a poetic word     |             |
++---+----------------------+-----------------------------------+-------------+
+| 4 | CAUSAL IMPOTENCE     | unchanging, separated, non-spatial| NO          |
+|   |                      | Forms cannot be EFFICIENT causes  |             |
++---+----------------------+-----------------------------------+-------------+
+| 5 | NO ACCOUNT OF        | Forms are eternal; the real demand| NO          |
+|   | GENERATION           | is for COMING-TO-BE and PASSING-  |             |
+|   |                      | AWAY, on which Forms are silent   |             |
++---+----------------------+-----------------------------------+-------------+
+        |
+        +--> DECISIVE CONSEQUENCE: blocking self-predication saves Plato from
+        |    OBJECTION 1 ONLY. Objections 2-5 survive untouched.
+        |
+        v
+STACE'S REPORT OF ARISTOTLE'S TWO SHARPEST FORMULATIONS
+   (i) as "deified men" are nothing but men made divine, so "the Ideas are
+       nothing but eternalized things of nature"; things are said to be copies
+       of Ideas, but in fact the Ideas are only copies of things.
+   (ii) the theory "assumes that Ideas are the essences of things, and yet
+        places those essences OUTSIDE the things themselves." The essence of a
+        thing must be IN it, and not outside it.
+        |
+        v
+KEEP THE FIVE DISTINCT. A merged blur earns one mark where five separated
+   arguments earn several. Each must be stated with the premise it needs.
+
+ASCII MASTER FLOW — PANEL 12/25: The immanent repair — what is kept, what is deleted
+================================================================================
+THE REPAIR IN ONE SENTENCE: KEEP THE eidos, DELETE THE SEPARATION.
+   Form becomes the IMMANENT ESSENCE - the what-it-is-to-be (to ti en einai) -
+   of THIS concrete composite.
++---------------------------------+----------------------------------------+
+| RETAINED                        | DELETED                                |
+| the WORD eidos                  | separate existence of the Form         |
+| intelligible structure as the   | the PRIORITY of the universal over the |
+| source of a thing's being what  | individual                             |
+| it is                           | the paradigm-copy relation             |
+| species and genus as SECONDARY  | Forms as objects in a second order of  |
+| SUBSTANCES                      | reality                                |
++---------------------------------+----------------------------------------+
+        |
+        v
++---------------------------------+----------------------------------------+
+| WHAT THE REPAIR BUYS            | WHAT IT COSTS                          |
+| NO REGRESS: with no separation, | Form must be INTELLIGIBLE and hence in |
+| the Form-particular resemblance | some sense UNIVERSAL - yet Metaphysics |
+| never arises                    | VII (Z).13 denies that ANY universal   |
+| REAL CAUSATION: immanent form   | is a substance                         |
+| is the actuality that the matter| INDIVIDUAL vs SPECIES FORM remains     |
+| is potentially                  | CONTESTED (Frede-Patzig vs Owen)       |
+| GENERATION EXPLAINED: matter    | PRIME MATTER, needed for radical       |
+| can lose one form and acquire   | generation, is a limiting posit whose  |
+| another                         | textual standing is DISPUTED           |
+| UNITY: the composite is ONE     | matter and form are CORRELATIVE and    |
+| thing, not two joined           | cannot be defined independently        |
++---------------------------------+----------------------------------------+
+        |
+        v
+TRAP: "Aristotle rejected the Forms" / "Aristotle denies universals" -> FALSE.
+   He rejects SEPARATED Forms and the priority of the universal.
+   Species and genus survive as SECONDARY substances.
+ANSWER LINE: he DEFEATS SEPARATION, NOT FORM. Plato's insight - that
+   intelligibility may require something beyond this particular - is ANSWERED
+   rather than REFUTED, which is why the dispute is not settled in antiquity
+   but becomes the medieval problem of universals.
+
+ASCII MASTER FLOW — PANEL 13/25: Substance — one word, two questions, two criteria
+================================================================================
++-------------------------------+-------------------------------------------+
+| CATEGORIES 2a11 ff.           | METAPHYSICS VII (Z)                       |
+| "WHICH THINGS ARE SUBSTANCES?"| "WHAT IS THE SUBSTANCE *OF* A THING?"     |
+| criterion: LOGICAL-LINGUISTIC | criterion: CAUSAL-EXPLANATORY             |
+|   the ultimate SUBJECT of     |   what makes it BE what it is             |
+|   predication                 |                                           |
++-------------------------------+-------------------------------------------+
+| PRIMARY SUBSTANCE = the       | SUBSTANCE = FORM / ESSENCE                |
+| concrete individual (tode ti):| (eidos, to ti en einai)                   |
+| "this man", "this horse"      | essence is PRIOR to the compound in       |
+|                               | being, definition and knowledge           |
++-------------------------------+-------------------------------------------+
+| SECONDARY SUBSTANCE = species | THE COMPOUND (synolon) is substance, but  |
+| and genus ("man", "animal") - | FORM has priority: it is what MAKES the   |
+| said OF the primary, LESS REAL| thing what it is                          |
++-------------------------------+-------------------------------------------+
+| MATTER: not discussed         | MATTER: REJECTED as substance at Z.3 -    |
+|                               | neither separable nor a "this"            |
++-------------------------------+-------------------------------------------+
+| everything else is said OF a  | THE STING: Z.13 "NO UNIVERSAL IS A        |
+| primary substance or is IN it | SUBSTANCE" - yet form is a substance, and |
+|                               | form looks universal                      |
++-------------------------------+-------------------------------------------+
+        |
+        +--> THE REVERSAL OF PLATO: for Plato the UNIVERSAL is most real;
+        |    for Aristotle the INDIVIDUAL is most real.
+        |
+        +--> DO NOT SILENTLY FLATTEN ONE USAGE INTO THE OTHER. The Metaphysics
+             does not cancel the Categories - it EXPLAINS WHY the individual is
+             a substance, namely because it has an essence.
+        |
+        v
+FURTHER CONTROLS
+   A universal AS PREDICATED OF MANY is not a substance.
+   Whether substantial form is numerically INDIVIDUAL in each substance, or is
+      the SPECIES-LEVEL essence grasped by science, is a MAJOR DISPUTE.
+      SAFE CLAIM: form is the immanent essence and explanatory principle of the
+      concrete composite.
+   THE UNMOVED MOVER is pure form and actuality without matter, but it is NOT
+      the substantial form of every sensible thing.
+
+ASCII MASTER FLOW — PANEL 14/25: Z.3 candidates, Z.17's reformulation, four readings
+================================================================================
+METAPHYSICS VII (Z).3 - FOUR CANDIDATES FOR SUBSTANCE, WITH VERDICTS
++---------------------------------+----------------------------------------+
+| CANDIDATE                       | VERDICT                                |
++---------------------------------+----------------------------------------+
+| SUBSTRATUM (hypokeimenon) as    | (a) REJECTED: strip away every         |
+|   (a) matter                    |     predicate and what remains is NOT a |
+|   (b) form                      |     "this" and is NOT separable         |
+|   (c) the compound              | (b) and (c) REMAIN IN PLAY              |
++---------------------------------+----------------------------------------+
+| ESSENCE (to ti en einai)        | ACCEPTED - the leading answer of        |
+|                                 | Z.4-6 and Z.17                          |
++---------------------------------+----------------------------------------+
+| UNIVERSAL                       | REJECTED at Z.13                        |
++---------------------------------+----------------------------------------+
+| GENUS                           | REJECTED - a genus is predicated of many|
++---------------------------------+----------------------------------------+
+        |
+        v
+Z.17 - THE DECISIVE REFORMULATION
+   Substance is sought as a CAUSE. The question is not "WHAT is this?" but
+   "WHY IS THIS MATTER A HOUSE?" - and the answer is THE FORM.
+   Substance is therefore an EXPLANATORY PRINCIPLE, not merely the bearer of
+   properties. This is what the Categories could not deliver.
+        |
+        v
+FOUR AVAILABLE READINGS OF THE TENSION - NAME AT LEAST TWO
+   1 DIFFERENT QUESTIONS - two questions may have two answers without
+     contradiction; Aristotle insists being is "said in many ways"  [SAFEST]
+   2 DEVELOPMENTALIST (Jaeger) - the Categories is early and Platonic-adjacent
+     [depends on a DISPUTED chronology]
+   3 INDIVIDUAL FORMS (Frede-Patzig) - the form that is substance is THIS soul,
+     THIS organising principle; Z.13 then leaves form untouched   [CONTESTED]
+   4 UNIVERSAL / SPECIES FORMS (Owen and others) - form is the species-form,
+     so Z.13 creates a genuine APORIA Aristotle does not resolve  [CONTESTED]
+        |
+        v
+EXECUTABLE VERDICT: "The CATEGORIES identifies the SUBSTANCES; the
+   METAPHYSICS identifies SUBSTANCE-HOOD. The individual remains what exists in
+   the primary way, but what accounts for its being the individual it is, is
+   its FORM. The tension is real only if 'substance' must have a single sense -
+   which Aristotle explicitly denies."
+
+ASCII MASTER FLOW — PANEL 15/25: Substance and accident — the ten categories
+================================================================================
++-------------------+-------------------------+--------------------------+
+| CATEGORY          | EXAMPLE                 | STATUS                   |
++-------------------+-------------------------+--------------------------+
+| SUBSTANCE         | "Socrates"              | exists independently     |
+| Quantity          | "six feet tall"         | depends on substance     |
+| Quality           | "pale"                  | depends on substance     |
+| Relation          | "taller than Simmias"   | depends on substance     |
+| Place             | "in the Lyceum"         | depends on substance     |
+| Time              | "yesterday"             | depends on substance     |
+| Position          | "sitting"               | depends on substance     |
+| State / having    | "armed", "shod"         | depends on substance     |
+| Action            | "cuts"                  | depends on substance     |
+| Being affected    | "is cut"                | depends on substance     |
++-------------------+-------------------------+--------------------------+
+        |
+        +--> SUBSTANCE *IS*; ACCIDENTS *BELONG TO* substance.
+        |
+        +--> CHANGE OF ACCIDENTS = ALTERATION
+        +--> CHANGE OF SUBSTANCE = GENERATION / DESTRUCTION
+        |
+        v
+TWO CONTROLS THAT EARN MARKS
+   1 The ten categories classify FUNDAMENTAL MODES OF PREDICATION AND BEING in
+     the Categories. They are NOT ten physical components inside a substance.
+     "Yesterday" and "taller than Simmias" are not ingredients.
+   2 ONLY SUBSTANCE can function as the underlying subject in the primary way;
+     the other nine are IN, or SAID OF, substances.
+        |
+        v
+WHY THIS MATTERS FOR THE 2025 EVALUATION
+   Because accidents are not independent things, they are NOT themselves
+   further matter-form compounds in the same sense. That is one of the three
+   boundaries on the claim that "everything in the empirical world is a
+   compound of Matter and Form".
+TRAP: treating the categories as a physical inventory is a category mistake in
+   the literal sense of the phrase.
+
+ASCII MASTER FLOW — PANEL 16/25: Hylomorphism, privation and prime matter
+================================================================================
+EVERY SENSIBLE NATURAL SUBSTANCE = COMPOUND (synolon) OF MATTER AND FORM
++--------------------------------+---------------------------------------+
+| MATTER (hyle)                  | FORM (morphe)                         |
+| the "out of which", substratum | the structure / essence / actuality   |
+| principle of POTENTIALITY      | makes the composite ONE thing         |
+| bronze | wood | the body       | Hermes-shape | table-design | the soul|
++--------------------------------+---------------------------------------+
+   MATTER IS RELATIVE: copper + tin -> BRONZE -> STATUE. Bronze is matter for
+      the statue but is itself a form imposed on copper and tin.
+   THE PAIR IS CORRELATIVE: matter is what has form; form is what informs
+      matter. They are NOT two independently existing objects joined together.
+   STRONGEST CASES ARE LIVING SUBSTANCES, NOT ARTEFACTS: only there is form an
+      internal principle of activity. SOUL = THE FORM OF THE LIVING BODY
+      (De Anima II.1) - Aristotle's own leading illustration, not a substance
+      lodged inside the body.
+        |
+        v
+CHANGE = UNDERLYING SUBJECT + ACQUIRED FORM + PRIOR PRIVATION (steresis)
+   the not-yet-musical person becomes musical: the SUBJECT persists (the
+      person), the FORM is acquired (musical), the PRIVATION is removed
+   ACCIDENTAL CHANGE      -> the SUBSTANTIAL FORM PERSISTS while quantity,
+                             quality, place or another accident changes
+   SUBSTANTIAL GENERATION -> an underlying material potential acquires a NEW
+                             substantial form; the PRIOR substantial form does
+                             NOT persist as the identity of the new substance
+        |
+        +--> THREE JOBS, THREE TOOLS
+             matter / form / privation  -> the STRUCTURE of change
+             potentiality / actuality   -> the MODAL TRANSITION
+             the four causes            -> WHY this determinate process occurs
+        |
+        v
+PRIME MATTER (prote hyle) = a LIMITING POSIT of matter considered WITHOUT any
+   determinate form. NEVER exists independently. How fully Aristotle commits to
+   ONE featureless prime matter is DISPUTED.
+   CRITICISM: an unintelligible abstraction - matter with NO form?
+   REPLY: a LIMIT CONCEPT, never actual on its own, required to explain RADICAL
+      generation in which no determinate matter survives.
+   DO NOT present it as an observed stuff or equate it with the Receptacle.
+TRAP: saying "the form persists" of SUBSTANTIAL change destroys the very
+   distinction on which the developmental-change answer depends.
+
+ASCII MASTER FLOW — PANEL 17/25: The four causes and internal teleology
+================================================================================
+TO KNOW A THING IS TO KNOW ITS CAUSES (aitiai). "Cause" here means "BECAUSE".
+   STACE: Aristotle's causation includes what we call REASONS as well as
+   causes - whatever is necessary, whether facts or principles, "fully to
+   understand the existence of a thing, or the happening of an event"; and
+   "in every case of the existence or production of a thing all four causes
+   operate simultaneously."   Contrast MILL: a cause is the "invariable and
+   unconditional antecedent of a phenomenon", which excludes final causes.
+                                                            [Physics II.3]
++-------------+--------------------+-------------------+--------------------+
+| CAUSE       | QUESTION           | STATUE            | WOODEN TABLE       |
++-------------+--------------------+-------------------+--------------------+
+| MATERIAL    | made of what?      | bronze            | wood               |
+| FORMAL      | what is it?        | shape of Hermes   | the design "table" |
+| EFFICIENT   | what brought it    | the sculptor      | the carpenter      |
+|             | about?             |                   |                    |
+| FINAL(telos)| what is it FOR?    | to honour the god | a surface for      |
+|             |                    |                   | dining or writing  |
++-------------+--------------------+-------------------+--------------------+
+        |
+        +--> ARTEFACT: the purpose is EXTERNAL, in the maker's mind. THIS IS A
+        |    TEACHING CASE borrowed from a situation where intention is present.
+        |
+        +--> ORGANISM: FORMAL = EFFICIENT = FINAL CONVERGE on the mature form.
+             acorn matter + oak-form + parent and nutrition + the mature oak.
+             DIRECTEDNESS IS INTERNAL. THIS IS THE SERIOUS CASE.
+        |
+        v
+TELEOLOGY: "NATURE DOES NOTHING IN VAIN"
+   works: De Caelo, Politics, De Partibus Animalium - a RECURRING MAXIM.
+   MEANING: REGULARITY OF OUTCOMES - the acorn reliably becomes an oak and
+      never a cat. NOT a claim that nature deliberates or plans.
+   It does NOT make material and efficient explanation dispensable.
+MODERN TEST
+   DECISIVE against teleology in PHYSICS: motion is explained by efficient
+      causation and law, with no final causes.
+   NOT decisive in BIOLOGY: functional explanation survives as adaptation,
+      selective advantage and organ-function - DIRECTEDNESS WITHOUT DESIGN.
+   RESIDUAL WORRY: unless directedness is given independent content, "for the
+      sake of" risks naming the outcome and calling it an explanation.
+TRAPS: the four causes are NOT four EVENTS and NOT four AGENTS; run them
+   through ONE worked example, never four different ones.
+
+ASCII MASTER FLOW — PANEL 18/25: Developmental change and identity as process
+================================================================================
+PYQ 2019 Q2(b): "REASONS for developmental changes in substance" = aitiai.
+   1 the substance has MATTER - the potential for receiving a new form
+   2 an EFFICIENT cause initiates and sustains the process
+   3 the change is directed toward a TELOS - the form it is on its way to
+   4 the FORMAL cause specifies WHAT IT BECOMES
+   => CHANGE = the ACTUALISATION OF MATTER'S POTENTIALITY UNDER THE DIRECTION
+      OF THE FINAL CAUSE. This binds causation directly to potency-act.
+   STRUCTURE OF THE CHANGE ITSELF: subject + acquired form + privation.
+   TWO KINDS: accidental (substance survives) | substantial (new substance).
+        |
+        v
+PYQ 2022 Q2(b): IS IDENTITY IN CONSONANCE WITH CAUSES AS PROCESSES?
+   1 IDENTITY is supplied by the SUBSTANTIAL FORM or essence: the form answers
+     WHAT THE THING IS. Metaphysics VII (Z).17: substance sought as a cause.
+   2 MATTER supplies determinate CAPACITIES for change, not a second identity.
+   3 EFFICIENT causation initiates or transmits; FINAL causation names the
+     completed actuality toward which development is ordered.
+   4 During ACCIDENTAL change the same substantial form persists; during
+     SUBSTANTIAL generation a new form constitutes a NEW substance.
+   5 => CONSONANT, and for a STRUCTURAL reason: the SAME FORM does both jobs -
+     it states what the thing is AND is the actuality its potential moves to.
+        |
+   EXAMPLE 1 THE OAK: acorn matter has the potential for oak-form; parent and
+      nutrition supply efficient causation; oak-form is both what it becomes
+      and what the growth is FOR. Throughout, it remains this developing organism.
+   EXAMPLE 2 THE BRONZE: casting is ACCIDENTAL change to the bronze, which
+      persists; the coming-to-be of a living thing is SUBSTANTIAL generation.
+        |
+        v
+   OBJECTION: defining a process by its COMPLETED FORM reads the end back into
+      the beginning and understates contingency and failed development.
+   REPLY: a potentiality is always a capacity of THIS material under THESE
+      conditions - not a guarantee that every process reaches completion.
+   VERDICT: Aristotle integrates identity and becoming MORE SUCCESSFULLY than a
+      static essence theory - but the integration is purchased with INTERNAL
+      TELEOLOGY, and that is the doctrine's real price.
+CONTRAST WITH PLATO: Forms are formal/paradigmatic causes; the Good is the
+   highest principle; the Timaeus adds a Demiurge. Aristotle's scheme places
+   EVERY explanatory factor INSIDE ONE PROCESS.
+
+ASCII MASTER FLOW — PANEL 19/25: Potentiality, actuality and the Eleatic dilemma
+================================================================================
+DYNAMIS ---------------> KINESIS ----------------> ENERGEIA / ENTELECHEIA
+capacity of THIS matter  actualisation in progress fulfilment / completed state
+   block of wood     ->  cutting and joining   ->  the finished table
+   acorn             ->  organic development   ->  the mature oak
+   DEFINITION OF CHANGE: "the actuality of the potential PRECISELY AS
+      POTENTIAL"                                  [Physics III.1, 201a10]
+      The qualifier is ESSENTIAL: without it the formula describes the finished
+      result, not the process.
+   TERMS: ENERGEIA = the ACTIVITY | ENTELECHEIA = the COMPLETED STATE
+        |
+        +--> "POTENTIALITY IS INDEFINABLE"        [PYQ 2021 Q1(b), verbatim]
+        |    dynamis cannot be defined independently of energeia: "potentially
+        |    a table" presupposes that one knows what an ACTUAL table is.
+        |    Hence exposition proceeds by ANALOGY AND EXAMPLE, not by genus and
+        |    differentia. Actuality is CONCEPTUALLY PRIOR.
+        |
+        +--> TRAP: dynamis is an ONTOLOGICAL CAPACITY inherent in determinate
+             matter - NOT a statistical probability.
+        |
+        v
+THE ANCIENT PROBLEM
+   PARMENIDES: being cannot come from non-being; being already IS; therefore
+               there is NO becoming.
+   HERACLITUS: everything is in flux; there is NO stable being at all.
+   BOTH ASSUME ONLY TWO OPTIONS: BEING or NON-BEING.
+        |
+        v
+ARISTOTLE ADDS A THIRD STATUS: BEING-IN-POTENTIALITY
+   the acorn is NOT an oak IN ACTUALITY but IS an oak IN POTENTIALITY
+   -> NO leap from ABSOLUTE non-being   => Parmenides' principle RESPECTED
+   -> change is real and fundamental    => Heraclitus' observation PRESERVED
+   -> stability is RELOCATED into the FORM toward which change is ordered
+   NOTE WHAT "SOLUTION" MEANS: Aristotle does not REFUTE Parmenides' logic;
+      he DENIES THE DICHOTOMY on which it rests. Writing that sentence is what
+      separates a strong 2023 answer from an adequate one.
+LIMITATION: the scheme is defined by reference to the actuality that terminates
+   it, so it ILLUMINATES A PROCESS IT CANNOT PREDICT - explanatory modesty
+   rather than a flaw, and the point at which mechanics parted company with it.
+
+ASCII MASTER FLOW — PANEL 20/25: Priority of actuality, priority of form, and pure act
+================================================================================
+PRIORITY OF ACTUALITY OVER POTENTIALITY      [Metaphysics IX (Theta)]
+   1 IN DEFINITION / LOGOS: to define "potentially F" you must first grasp
+     what it is to ACTUALLY BE F
+   2 IN TIME, AT THE SPECIES LEVEL: only an ACTUAL oak produces acorns
+   3 IN SUBSTANCE / NATURE: the END is what the becoming is FOR; it is the
+     raison d'etre of the potentiality
+   CONCESSION TO MAKE OPENLY: in an INDIVIDUAL'S OWN HISTORY the potential
+      state PRECEDES its actualisation. Priority is EXPLANATORY, DEFINITIONAL
+      and TELEOLOGICAL - not temporal precedence in every sense.
+        |
+        v
+PRIORITY OF FORM OVER MATTER              [PYQ 2020 Q1(a): both priorities]
+   Matter is intelligible only as POTENTIAL FOR some determinate form; form is
+   the WHAT-IT-IS-TO-BE that makes the composite what it is. Wood does not tell
+   us what a table is; the functional structure does.
+   Metaphysics VII (Z).17: substance sought as a CAUSE - "why is this matter a
+   house?" Form is prior in DEFINITION and in KNOWABILITY.
+   DO NOT translate priority into the claim that form exists EARLIER IN TIME
+   than every material process.
+        |
+        +--> THE TWO PRIORITIES ARE ONE DOCTRINE SEEN TWICE:
+             FORM is ACTUALITY considered STRUCTURALLY;
+             ACTUALITY is FORM considered MODALLY.
+        |
+        v
+THE TERMINUS: THE UNMOVED MOVER        [Metaphysics XII (Lambda).7]
+   PURE ACTUALITY (actus purus): NO unfulfilled potentiality whatsoever. With
+      potentiality it would be subject to change and dependency.
+   MOVES AS A FINAL CAUSE: "moves as the beloved moves the lover" - it
+      ATTRACTS as the perfect object of desire and thought; it does NOT PUSH.
+   THOUGHT THINKING ITSELF (noesis noeseos): eternal self-contemplation, the
+      highest actuality, intellectual in kind.
+   NOT: an efficient creator | a first EVENT in time | a material cause | the
+      substantial form of every sensible thing | a conserving cause.
+   OBJECTION: can a final cause explain PHYSICAL motion?
+   REPLY: the cosmos is a system of desire oriented toward the divine, with
+      sublunary efficient causes mediating; Neoplatonists and Aquinas adjust.
+   SCOPE DISCIPLINE: retained because pure actuality COMPLETES the
+      actuality-potentiality and causal system - NOT as a philosophy-of-
+      religion survey, and never with Paper II proofs imported.
+
+ASCII MASTER FLOW — PANEL 21/25: The comparison matrix and the criticism-reply ledger
+================================================================================
+ONE QUESTION DECIDES EVERYTHING: IS THE FORM INSIDE THE THING?
++------------------------+---------------------------+----------------------+
+| AXIS                   | PLATO                     | ARISTOTLE            |
++------------------------+---------------------------+----------------------+
+| location of form       | transcendent, separate    | immanent in the      |
+|                        |                           | composite            |
+| what is most real      | the universal Form        | the individual       |
+|                        |                           | substance (tode ti)  |
+| relation to particulars| participation / imitation | hylomorphic          |
+|                        |                           | constitution         |
+| knowledge              | dialectical grasp of      | begins from sensible |
+|                        | Forms; recollection is    | particulars, reaches |
+|                        | ONE supporting argument   | universal form/causes|
+| change                 | sensible becoming vs      | potency -> act;      |
+|                        | stable Forms; the Timaeus | the CENTRAL task     |
+|                        | adds ordered becoming     |                      |
+| causation              | Forms as paradigms; the   | four causes; internal|
+|                        | Good; Demiurge/Receptacle | teleology            |
+| highest principle      | the Form of the Good      | the Unmoved Mover,   |
+|                        | ("beyond being")          | pure actuality       |
+| the universal          | the ousia, the truly real | secondary substance  |
+| matter                 | Receptacle / "third kind" | correlative potency  |
++------------------------+---------------------------+----------------------+
+AGAINST PLATO           REPLY AVAILABLE              RESIDUE
+  Third Man regress  -> deny self-predication     -> the explanatory gap
+                        [contested]                  survives untouched
+  causal impotence   -> the Timaeus Demiurge      -> a NEW ENTITY, not an
+                        orders after paradigms       analysis of participation
+  duplication        -> Forms are not a second    -> the debt is transferred,
+                        set but that which makes     not paid
+                        things intelligible
+AGAINST ARISTOTLE       REPLY AVAILABLE              RESIDUE
+  prime matter        -> a LIMIT CONCEPT required  -> never observable;
+  unintelligible         for radical generation       commitment disputed
+  teleology is        -> directedness, not design; -> needs independent
+  anthropomorphic        regularity of outcomes       content
+  final cause cannot  -> cosmos as a system of     -> Neoplatonists and
+  explain motion         desire; sublunary            Aquinas must adjust
+                         efficient causes mediate
+  Categories vs Z     -> different works,          -> Z.13 aporia if form is
+  inconsistency?         different questions          the species-form
+
+ASCII MASTER FLOW — PANEL 22/25: The complete PYQ rail, 2018–2025
+================================================================================
+TWELVE PRIMARY-OWNED PARTS OF 112 WESTERN PARTS.
+AT LEAST ONE PART IN EVERY YEAR OF THE 2018-2025 CORPUS.
+  2018 Q4(b) 15m  Idea-World relation logically consistent? + Aristotle
+                  -> P9 + P10 + P11; verdict: not inconsistent, but empty
+  2019 Q1(a) 10m  What does Plato want to prove by the Allegory of Cave?
+                  -> P8: Line mapping + periagoge + katabasis; three theses
+  2019 Q2(b) 15m  Reasons for developmental changes in substance
+                  -> P17 aitiai + P16 privation + P18 the four steps
+  2020 Q1(a) 10m  Priority of Form over Matter, Actuality over Potentiality
+                  -> P20 three senses + the individual-level concession
+  2021 Q1(a) 10m  "There is a red chair" via the theory of forms
+                  -> P9 multiple participation + P5 derivative reality
+  2021 Q1(b) 10m  "Potentiality is indefinable"; the wooden table
+                  -> P19 three stages: dynamis / kinesis / energeia
+  2022 Q1(a) 10m  Forms linking epistemology and metaphysics
+                  -> P3 + P6 + P7: Rep. V 476e-480a, the Line, the Sun
+  2022 Q2(b) 15m  Identity in consonance with causes as processes?
+                  -> P18 with the oak and the bronze, objection and reply
+  2023 Q2(b) 15m  Actuality/potentiality: does it solve being and becoming?
+                  -> P19 Parmenides-Heraclitus and the third status
+  2024 Q1(a) 10m  Differentiate Plato's and Aristotle's conceptions of form
+                  -> P21 ONE axis, matched contrasts, consequences
+  2025 Q1(a) 10m  "Ideas are timeless and spaceless" - elucidate
+                  -> P5 DERIVE the property, then the epistemic payoff
+  2025 Q1(b) 10m  "Everything is a compound of Matter and Form" - evaluate
+                  -> P16 doctrine + P15 accidents + the three exclusions
+DEMAND PATTERN ACROSS THE CORPUS
+   PLATO-SIDE PARTS: 2018, 2019 Q1(a), 2021 Q1(a), 2022 Q1(a), 2025 Q1(a)
+   ARISTOTLE-SIDE PARTS: 2019 Q2(b), 2020, 2021 Q1(b), 2022 Q2(b), 2023,
+      2025 Q1(b)
+   EXPLICITLY COMPARATIVE: 2018 (second limb) and 2024
+   NINE OF TWELVE ARE 10-MARK PARTS -> compression discipline decides the score.
+
+ASCII MASTER FLOW — PANEL 23/25: The answer spine, directive decoder and citation rule
+================================================================================
+ANSWER SPINE (the route never changes; only the number of items changes)
+   DIRECTIVE -> DEFINITION -> ARGUMENT -> EXAMPLE -> OBJECTION -> REPLY
+   -> GRADED VERDICT
+   10 marks, about 150-200 words:  1 + 2 + 1 + 1
+   15 marks, about 250-300 words:  1 + 3 + 2 + 2
+   20 marks, about 340-400 words:  1 + 4 + 3 + 3
+        |
+        v
+DIRECTIVE DECODER - WHAT EACH COMMAND WORD OBLIGES YOU TO DO
+   ELUCIDATE (2025 Q1a)     -> DERIVE the property from the doctrine
+                               FATAL: restating "Forms are eternal"
+   EXPLAIN THE CAVE (2019)  -> MAP onto the Line AND include the return
+                               FATAL: retelling the story
+   DIFFERENTIATE (2024)     -> ONE axis, run consistently, then consequences
+                               FATAL: two parallel summaries
+   EXAMINE THE CRITIQUE     -> each objection as an ARGUMENT + Plato's replies
+                               FATAL: a list of complaints without replies
+   DISCUSS THE FOUR CAUSES  -> four "why" questions about ONE worked example
+                               FATAL: four definitions, four examples
+   ACTUALITY/POTENTIALITY   -> show it SOLVES Parmenides, then priority, then
+                               the Mover
+                               FATAL: defining dynamis and energeia only
+   SUBSTANCE IN ARISTOTLE   -> the Categories/Z question + TWO named readings
+                               FATAL: "primary substance = the individual"
+   CRITICALLY EVALUATE      -> a RULING IN LINE 1, then the evidence for it
+                               FATAL: balanced description with no verdict
+        |
+        v
+CITATION DISCIPLINE - both corpora have EDITION-INVARIANT reference systems
+   PLATO = STEPHANUS pagination: Republic 507a-509c (Sun), 509d-511e (Line),
+      514a-517a (Cave), 596a (one-over-many); Phaedo 74a-75d, 72e-77a;
+      Meno 80d-86c; Parmenides 131a-c, 132a-b
+   ARISTOTLE = BEKKER numbers: Categories 2a11; Metaphysics I.9 (990b),
+      I.6 (987b14), VII (Z).3, Z.13, Z.17, XII (Lambda).7; Physics II.3,
+      III.1 (201a10); De Anima II.1.  GIVE BOTH CONVENTIONS ONCE: "Book VII (Z)"
+   TRANSLATIONS: Jowett 1871 (public domain, still reprinted in India);
+      Grube-Reeve and Cooper's Complete Works (Hackett 1997); the Revised
+      Oxford Translation (Barnes 1984); Ross.
+      WORDINGS DIFFER MARKEDLY - PREFER THE REFERENCE TO THE QUOTATION.
+   GREEK TERMS: give each ONCE, transliterated and glossed. Repeated
+      untranslated Greek reads as decoration, not as control.
+
+ASCII MASTER FLOW — PANEL 24/25: Testimony ledger and the final trap sheet
+================================================================================
+TESTIMONY LEDGER - REPORT AS TESTIMONY, NOT AS TEXT
+   "THIRD MAN"           the ARGUMENT is Plato's at Parmenides 132a-b, where
+                         the example is largeness; the NAME comes from
+                         Aristotle's reports (Met. 990b17, 1039a2)
+   "THE MATHEMATICALS"   Aristotle's testimony at Met. I.6 (987b14); NOT
+   (ta metaxu)           stated in the dialogues -> "on Aristotle's testimony"
+   "MAN IS A RATIONAL    a SCHOLASTIC formula (animal rationale) crystallised
+   ANIMAL"               from Aristotle; not a sentence of his text
+   "NATURE DOES NOTHING  De Caelo, Politics, De Partibus Animalium - safe as a
+   IN VAIN"              maxim; name a work if you quote it
+   POPPER ON PLATO       The Open Society and Its Enemies, Vol. I (1945);
+                         widely regarded as polemical and contested
+        |
+        v
+FINAL TRAP SHEET - NEVER WRITE
+   X "Plato denies the reality of the physical world" -> DERIVATIVE reality
+   X "Forms are concepts in the mind"                 -> that is CONCEPTUALISM
+   X "Aristotle rejected forms / denies universals"   -> SEPARATED forms only
+   X Aristotle's formal cause = Plato's Form          -> same word, different
+                                                         ontological status
+   X "The Unmoved Mover is an efficient cause"        -> FINAL cause; it
+                                                         attracts, not pushes
+   X "Potentiality means probability"                 -> ontological CAPACITY
+   X four causes as four EVENTS or four AGENTS        -> aspects of ONE
+                                                         explanation
+   X "primary substance" means the same in the        -> two questions, two
+     Categories and Metaphysics VII                      criteria
+   X "the form persists" said of SUBSTANTIAL change   -> only of ACCIDENTAL
+   X the Form of the Good = the Timaeus Demiurge      -> CONTESTED; keep apart
+
+ASCII MASTER FLOW — PANEL 25/25: The ownership boundary and the qualified conclusion
+================================================================================
+FINAL CONTROL - THE OWNERSHIP BOUNDARY
+   ANSWER THE PRINTED METAPHYSICS: Ideas; Substance; Form and Matter;
+   Causation; Actuality and Potentiality.
+        |
+        +--> NOT OWNER CONTENT UNDER THIS CLAUSE
+        |       PLATO: the tripartite soul; immortality proofs beyond
+        |          recollection; justice; the philosopher-ruler; education as a
+        |          curriculum; the critique of democracy (Republic VIII)
+        |       ARISTOTLE: the soul-faculties and the separate-intellect
+        |          problem; virtue and the mean; voluntary action; flourishing;
+        |          contemplation; the political animal; constitutions; the
+        |          syllogistic and the rest of the logic
+        |       -> these are LEGITIMATE CROSS-LINKS, but they are enrichment
+        |          and must be flagged as such
+        |
+        +--> THREE BOUNDED EXCEPTIONS THE SOURCES THEMSELVES LICENSE
+                1 the soul's prior acquaintance and its capacity for NOESIS,
+                  because recollection is an ARGUMENT FOR THE FORMS
+                2 education as CONVERSION (periagoge) and the philosopher's
+                  RETURN (katabasis), because they are the CAVE'S OWN ENDING
+                3 the soul as the FORM OF THE LIVING BODY (De Anima II.1),
+                  because it is Aristotle's LEADING ILLUSTRATION of
+                  HYLOMORPHISM
+        |
+        +--> BOUNDED COSMOLOGICAL QUALIFICATION: the Demiurge and the
+             Receptacle enter only to prevent the false equation of the Good
+             with a creator. The Unmoved Mover is retained only because pure
+             actuality COMPLETES the actuality-potentiality and causal system.
+        |
+        v
+QUALIFIED CONCLUSION
+   Both men answer ONE question about the character of things.
+   PLATO secures stability, objectivity and knowledge - and FORFEITS causation,
+      because the separation that makes a Form knowable makes it inert.
+   ARISTOTLE secures causation, unity and generation - and FORFEITS a clean
+      account of universals, because Metaphysics VII (Z).13 denies substancehood
+      to the very universality that makes form intelligible.
+   The unresolved remainder becomes THE PROBLEM OF UNIVERSALS, and through it
+      every later realism-nominalism debate. NEITHER SIDE SETTLED IT.

@@ -1,119 +1,766 @@
-ASCII MASTER FLOW — PANEL 1/10: Transition from picture and logical form to descriptive therapy
-START -> Tractatus: proposition pictures a possible fact through shared logical form.
-EARLY AIM -> philosophy clarifies limits of sense; factual saying differs from showing.
-PRESSURE -> one essence, ideal analysis and independent elementary propositions fail.
-LATER CONTEXT -> Philosophical Investigations, posthumous 1953; remarks, not a system.
-SHIFT -> inspect diverse human practices instead of a hidden calculus beneath language.
-CONTINUITY -> philosophical confusion and limits remain the governing concern.
-DISCONTINUITY -> ideal logical analysis becomes description, reminders and therapy.
-METHOD -> compare cases, display grammar, give a perspicuous representation.
-TRAP -> do not import meaning-as-use into the Tractatus or erase all continuity.
-ANSWER LINE -> one clarificatory project pursued through transformed assumptions.
+ASCII MASTER FLOW — PANEL 1/33: THE CENTRAL QUESTION AND THE ONE MOVE THIS CLAUSE MAKES
+==============================================================================
+   CENTRAL QUESTION
+   Stop asking what a word STANDS FOR. Ask what is DONE with it, how that was
+   learned, and what would count as doing it WRONGLY.
+                                     |
+                                     v
+   THE ONE MOVE
+   A word's meaning is investigated through its ROLE in a trained, norm-governed
+   human practice. That single change of question is then turned on the INNER
+   LIFE, and the result is the third printed limb.
+                                     |
+        +----------------------------+----------------------------+
+        v                            v                            v
+   LIMB 1 MEANING AND USE     LIMB 2 LANGUAGE-GAMES        LIMB 3 CRITIQUE OF
+   PI 43, hedged: 'for a      PI 7: language WOVEN INTO    PRIVATE LANGUAGE
+   large class of cases -     an activity. PI 23: count-   PI 243-271: private
+   though not for all'        less kinds; new games arise  ostension fixes no
+                                                           standard of correctness
+   ANSWER LINE  He does not replace one theory of meaning with another; he replaces
+   the DEMAND FOR A THEORY with the instruction to look at what is done with the word.
 
-ASCII MASTER FLOW — PANEL 2/10: Meaning and use beyond the Augustinian name-object model
-PI 43 -> for a large class of cases, though not all, meaning is use in language.
-AUGUSTINIAN PICTURE -> every word names an object; sentence combines names.
-CORRECTION -> naming is one language-game, not the essence of all language.
-USE -> norm-governed role in a practice, learned through training and contrast.
-EXAMPLES -> slab, tools, colour terms, numbers, commands, jokes, prayers, avowals.
-DISTINGUISH -> use != usage frequency != intention != reference != definition.
-ANTI-BEHAVIOURISM -> public use does not reduce meaning to bodily movement.
-OBJECTION -> circularity: meaningful use appears to presuppose meaning and norms.
-REPLY -> grammar, correction and technique distinguish role from mere recurrence.
-LIMIT -> practice displays normativity more clearly than it explains its authority.
+ASCII MASTER FLOW — PANEL 2/33: OWNER SCOPE, THE FENCE, AND THE CORPUS SIGNAL
+==============================================================================
+   OWNED HERE
+     meaning as use with the 43 hedge; the Augustinian picture as ONE GAME;
+     words as tools; understanding as mastery of a technique; ostensive
+     definition and the prepared place; samples; family resemblance and the
+     thread; language-games, the builders and the 23 list; grammar, surface and
+     depth; forms of life, agreement in judgments, bedrock; the rule-following
+     paradox and its resolution; the private-language target, the diary, the
+     beetle; criteria against symptoms, 580, avowals, the behaviourism reply;
+     philosophy as therapy; the break from the Tractatus; ALL SEVEN routed parts
+   NOT OWNED - name in one clause, then stop
+     PICTURE THEORY, LOGICAL ATOMISM,
+       SAYING/SHOWING, 'WHEREOF ONE
+       CANNOT SPEAK' ................. TOPIC 06  a TARGET here, not a limb
+     VERIFICATION, PSEUDO-STATEMENTS,
+       THE VIENNA CIRCLE ............. TOPIC 07  a RIVAL, not an ally
+     TWO DOGMAS, HOLISM, PERSONS ..... TOPIC 11  Quine and Strawson
+     FIDEISM, RELIGIOUS LANGUAGE ..... PAPER II  Religious Language
+     RYLE, AUSTIN, SPEECH ACTS ....... broader ordinary-language owners
+   CORPUS SIGNAL  7 owned parts of 112, 2018-2025. 2021 is the ONLY year without
+   one - and that year's Wittgenstein part, 2021 Q4(c), belongs to TOPIC 06.
 
-ASCII MASTER FLOW — PANEL 3/10: Ostensive definition, background grammar and family resemblance
-POINTING -> red square may mean colour, shape, material, number, place or sample.
-OSTENSIVE DEFINITION -> pointing works only within prior grammar and training.
-COLOUR SAMPLE -> functions as a rule after comparison and application are learned.
-NUMBER SERIES -> finite examples do not mechanically contain every future case.
-FAMILY RESEMBLANCE -> similarities overlap and criss-cross without one common atom.
-GAME -> board, card, ball, Olympic and solitary cases form an extensible network.
-OPEN TEXTURE -> boundaries may remain flexible while standards still operate.
-TRAP -> no single essence does not mean anything counts or definitions never work.
-OBJECTION -> any two things resemble one another somehow; network seems permissive.
-REPLY -> purposes, contrasts, training and judgments select relevant similarities.
+ASCII MASTER FLOW — PANEL 3/33: PROVENANCE AND CHRONOLOGY - ALMOST EVERYTHING IS POSTHUMOUS
+==============================================================================
+   1921  Logisch-Philosophische Abhandlung, GERMAN
+   1922  Bilingual TRACTATUS LOGICO-PHILOSOPHICUS   X never date the English 1921
+   1922-28  Wittgenstein outside academic philosophy
+   1929  Returns to Cambridge. 'Some Remarks on Logical Form' acknowledges
+         COLOUR EXCLUSION. The repair fails; he later DISOWNED the paper
+   1929-32  Conversations with SCHLICK and WAISMANN. NEVER a Circle member
+   1933-35  THE BLUE AND BROWN BOOKS are DICTATED (published 1958). Source of
+         CRITERION / SYMPTOM and the ANGINA example. Say 'in the Blue Book'
+   1936-49  Investigations Part I composed and rearranged; 1945 preface
+   1949-51  The notes later published as ON CERTAINTY
+   1951  WITTGENSTEIN DIES. One philosophical book and one article published
+   1953  PHILOSOPHICAL INVESTIGATIONS - POSTHUMOUS. Editors ANSCOMBE and RHEES;
+         Anscombe translating; facing pages. Part I = 693 numbered remarks
+   1958  The Blue and Brown Books   |   1969  ON CERTAINTY (Ueber Gewissheit)
+   1982  KRIPKE, Wittgenstein on Rules and Private Language - 'as it struck
+         Kripke'. Standard shorthand: KRIPKENSTEIN
+   2009  4th edn revised by HACKER and SCHULTE. Part II renamed PHILOSOPHY OF
+         PSYCHOLOGY - A FRAGMENT and RENUMBERED. Cite 'Part II xi / PPF'
+   1899  The DUCK-RABBIT figure is JASTROW'S. Wittgenstein reproduces it
+   FOUR CHEAP MARKS  posthumous + editorial arrangement | 1921/1922 | the 2009
+   renaming and renumbering | Kripke's reading IS A READING
 
-ASCII MASTER FLOW — PANEL 4/10: Language-games, grammar and organised human activity
-LANGUAGE-GAME -> language intertwined with activity, training, rules and purpose.
-COMPONENTS -> participants + circumstances + grammar + possible moves + responses.
-SLAB GAME -> order, trained response and completed building action form one whole.
-PLURALITY -> report, joke, pray, calculate, promise, ask, narrate and command.
-ANALYSIS -> each game has a point and standards; the list alone proves nothing.
-GRAMMAR -> norms of representation and use, not merely classroom syntax.
-PUBLIC EXAMPLES -> railway request, court promise, market order, devotional prayer.
-ERROR SOURCE -> expression is moved across games while its surface form is retained.
-TRAP -> language-games are not literal contests or sealed cultural islands.
-LIMIT -> strong at differentiation; thinner as causal theory of linguistic change.
+ASCII MASTER FLOW — PANEL 4/33: THE EARLY POSITION BEING REVISED - STATED ACCURATELY
+==============================================================================
+   TRACTATUS CONTENTS THAT MATTER HERE
+     * ONE GENERAL PROPOSITIONAL FORM: 'This is how things stand'
+     * SENSE = DEPICTION of a possible state of affairs
+     * PROPOSITION and FACT share a LOGICAL FORM, which cannot be SAID but SHOWS
+     * ANALYSIS terminates in SIMPLE OBJECTS
+     * ELEMENTARY PROPOSITIONS are LOGICALLY INDEPENDENT
+     * SOLIPSISM at 5.62: what the solipsist MEANS is correct but CANNOT BE SAID;
+       5.64 strictly carried out it COINCIDES WITH PURE REALISM
+     * 4.002 / 5.5563  EVERYDAY PROPOSITIONS ARE, JUST AS THEY STAND, IN PERFECT
+       LOGICAL ORDER
+   WHY THE LAST TWO BULLETS MATTER
+     They kill the two commonest caricatures: that the early book DISPARAGED
+     ordinary language, and that it IGNORED the self.
+   ANSWER LINE  The 'ideal language' the later work leaves behind is the DEMAND FOR
+   A GENERAL LOGICAL ACCOUNT OF FACTUAL SENSE - not a proposal to replace English.
 
-ASCII MASTER FLOW — PANEL 5/10: Forms of life, agreement in judgments and justificatory bedrock
-FORM OF LIFE -> shared practices and natural reactions enabling intelligibility.
-NOT -> biological determinism, total cultural worldview or sealed relativism.
-LANGUAGE -> training and judgments rest on this enacted background.
-AGREEMENT -> agreement in judgments and ways of acting, not every opinion.
-MAJORITY -> numerical headcount is not the definition of correctness or truth.
-BEDROCK -> reasons end in 'this is simply what I do' within an established practice.
-LION -> radically different life can block understanding despite apparent speech.
-STRENGTH -> avoids infinite explicit justification and private foundations.
-OBJECTION -> social fact seems to replace reason; relativism or conservatism threatens.
-LIMIT -> balance among natural, cultural and normative elements remains unsettled.
+ASCII MASTER FLOW — PANEL 5/33: FIVE COMMITMENTS DROPPED - AND THE REASON EACH FELL
+==============================================================================
+   COMMITMENT                          WHY IT COULD NOT BE HELD
+   1 ONE GENERAL PROPOSITIONAL FORM    PI 23: ordering, describing, measuring,
+                                       reporting, hypothesising, story-telling,
+                                       play-acting, riddling, joking, translating,
+                                       asking, thanking, cursing, greeting,
+                                       PRAYING. No one form covers this
+   2 SENSE = DEPICTION VIA LOGICAL     'game' pictures nothing single; nor do
+     FORM                              'the', 'if', 'five', 'perhaps', 'meaning',
+                                       'pain'. Picturing is ONE thing language
+                                       does, not what it IS
+   3 NAMES MEAN BY STANDING FOR        PI 28-32: the same pointing can teach
+     OBJECTS (Augustinian picture)     colour, shape, number, material, direction.
+                                       Naming needs a PLACE ALREADY PREPARED
+   4 ELEMENTARY PROPOSITIONS ARE       COLOUR EXCLUSION: 'this spot is red' and
+     LOGICALLY INDEPENDENT             'this spot is green' cannot both be true,
+                                       yet neither looks further analysable.
+                                       'Some Remarks on Logical Form', 1929.
+                                       CAUTION: a PRESSURE, not a refutation -
+                                       and he disowned that paper
+   5 ANALYSIS TERMINATES IN SIMPLES    No Tractarian simple was ever exhibited.
+                                       PI 47: 'simple' and 'composite' have sense
+                                       only RELATIVE TO A GAME. Is a chair simple?
+   TRAP  X 'colour exclusion refuted the Tractatus'  X 'he moved from an ideal to
+   an ordinary language'
 
-ASCII MASTER FLOW — PANEL 6/10: Rule-following, finite instruction and the normativity problem
-RULE-FOLLOWING -> being correct differs from merely recurring or seeming correct.
-PARADOX PI 201 -> every finite course can be interpreted to fit divergent rules.
-REGRESS -> another interpretation needs another rule; no interpretation is final.
-TEXTUAL RESPONSE -> grasp of a rule is exhibited in obeying and violating it.
-BRIDGE -> finite rule + training + examples + correction -> normative continuation.
-REGULARITY != RULE -> only a rule has a role for mistake, correction and breach.
-KRIPKENSTEIN 1982 -> sceptical paradox plus community assertibility solution.
-CAUTION -> Kripke's reconstruction is contested and not simple textual identity.
-INDIVIDUAL PRACTICE -> standards may persist without present majority headcount.
-LIMIT -> practice may describe normativity without fully explaining its authority.
+ASCII MASTER FLOW — PANEL 6/33: WHAT DOES NOT CHANGE - THE FOUR CONTINUITIES
+==============================================================================
+   CONTINUITY                EARLY STATEMENT            LATER STATEMENT
+   Philosophy is an          clarification, not a       109 'a battle against the
+   ACTIVITY                  body of doctrine           bewitchment of our
+                                                        intelligence by means of
+                                                        language'
+   Trouble comes from        4.002 the outward form     115 'A PICTURE HELD US
+   MISREADING LANGUAGE       of language DISGUISES      CAPTIVE'; 38 language IDLES
+                             the thought
+   Ordinary language is      5.5563 everyday props      124 'philosophy LEAVES
+   NOT the culprit           are in PERFECT LOGICAL     EVERYTHING AS IT IS'
+                             ORDER
+   The book CONSUMES         6.54 throw away the        133 no philosophical
+   ITSELF                    LADDER after climbing      METHOD, but METHODS, LIKE
+                                                        DIFFERENT THERAPIES
+   FIRST-CLASS OBSERVATION  The SELF-APPLICATION problem is structurally the SAME in
+   both books - a difficulty INHERITED, not acquired.
+   ANSWER LINE  The later work retains the aim of dissolving confusion and abandons
+   the assumption that dissolving it requires ONE HIDDEN ESSENCE.
 
-ASCII MASTER FLOW — PANEL 7/10: Essentially private language and the diary S failure
-TARGET -> signs for sensations knowable in principle only to one speaker.
-PLUS -> correctness cannot be independently distinguished from present seeming.
-NOT TARGET -> private thought, English diary, secret code or first-person authority.
-PRIVATE OSTENSION -> inward attention is supposed to fix sign S.
-DIARY -> later S is checked against an inner memory sample or table.
-FAILURE -> the present impression judges both sample and application.
-NORMATIVITY -> seeming right cannot constitute being right where no error is possible.
-MEMORY REPLY -> perfect reliability still needs a standard of same/correct use.
-PUBLIC-WORD REPLY -> importing public grammar abandons essential private grounding.
-LIMIT -> temporally extended individual-practice replies keep the debate open.
+ASCII MASTER FLOW — PANEL 7/33: THE AUGUSTINIAN PICTURE AND ITS TRUE STATUS
+==============================================================================
+   PI 1  Augustine's Confessions: elders name objects, move towards them, the
+   child grasps that the sound STANDS FOR the thing.
+     -> 'a particular picture of the ESSENCE of human language': every word names
+        an object; sentences COMBINE names; the meaning IS the object.
+                                     |
+                                     v
+   PI 2-4  THE ANSWER IS NOT A REFUTATION. He BUILDS a language the picture fits:
+     A calls 'Slab!' 'Block!' 'Pillar!' 'Beam!'; B brings the stone he has learnt
+     to bring. 'Conceive this as a COMPLETE PRIMITIVE LANGUAGE.'
+                                     |
+                                     v
+   VERDICT  The picture is ONE PRIMITIVE LANGUAGE-GAME MISTAKEN FOR THE ESSENCE
+   OF ALL LANGUAGE. Not false - OVER-GENERALISED.
+   X TRAP  'Wittgenstein refuted Augustine's theory of meaning' throws away the
+   characteristic later move: SHRINK an alleged essence into ONE CASE AMONG MANY.
+   WHERE THE PICTURE COLLAPSES  'the' | 'if' | 'not' | 'five' | 'perhaps' |
+   'meaning' | 'pain'  <- and 'pain' is the LAST REFUGE, dealt with at 243-271.
 
-ASCII MASTER FLOW — PANEL 8/10: Sensation grammar, avowals, criteria and the beetle illustration
-CRITERION -> grammatical ground for application; defeasible, not infallible.
-EVIDENCE/SYMPTOM -> empirical support or correlation; revisable by investigation.
-AVOWAL -> 'I am in pain' expresses pain; it is not self-observation from behaviour.
-THIRD PERSON -> 'She is in pain' uses context, expression and outward criteria.
-BEETLE -> private object drops out of the public word's grammar.
-CAUTION -> beetle is an illustration, not the whole private-language proof.
-ANTI-BEHAVIOURISM -> criteria organise a concept but do not equal bodily motion.
-SECRET CODE -> rule is teachable/checkable; concealment is merely contingent.
-PUBLIC CRITERIA != majority vote, surveillance or conclusive behavioural symptom.
-LIMIT -> grammar leaves the qualitative character of experience under-described.
+ASCII MASTER FLOW — PANEL 8/33: MEANING AS USE - PI 43 WITH ITS ARCHITECTURE EXPOSED
+==============================================================================
+   'For a large class of cases - THOUGH NOT FOR ALL - in which we employ the word
+    "meaning" it can be defined thus: the meaning of a word is its USE IN THE
+    LANGUAGE.'
+   +----------------+  +------------------------+  +------------------------+
+   | SCOPE LIMITER  |  | WHAT IS BEING DEFINED  |  | THE DEFINITION         |
+   | 'a large class |  | our EMPLOYMENT of the  |  | USE = the NORM-GOVERNED|
+   |  of cases,     |  | word 'meaning' - not a |  | ROLE of an expression  |
+   |  though not    |  | metaphysical entity    |  | in a practice          |
+   |  for all'      |  | called Meaning         |  |                        |
+   +----------------+  +------------------------+  +------------------------+
+   FOUR REFUSALS - each worth a line in an answer
+     X use is NOT frequency of employment       X use is NOT usefulness
+     X use is NOT whatever the speaker likes    X 43 is NOT a universal definition
+   WHY THE HEDGE IS DOCTRINE  40 separates the BEARER of a name from its MEANING
+   (when Mr N. N. dies the name does not become meaningless); 79 treats proper
+   names separately.
+   WORKED CASE  'Water!' at a fire = alarm | at a table = request | on a phial =
+   label | at a formula = identification. SAME SOUND, FOUR JOBS, NO FIFTH THING.
+   X TRAP  Quoting 43 without the hedge is the commonest misquotation in the item.
 
-ASCII MASTER FLOW — PANEL 9/10: Perspicuous representation and philosophical therapy
-DIAGNOSIS -> language idles or goes on holiday outside its home practice.
-CAPTIVE PICTURE -> surface analogy makes a pseudo-demand seem unavoidable.
-PROBLEM FORM -> philosophical disorientation: 'I do not know my way about.'
-TOOLS -> description, reminders, comparisons and perspicuous representation.
-PERSPICUOUS -> arrange grammar so connections and crossed games become visible.
-THERAPY -> local treatments; no one empirical science or metaphysical system.
-FLY-BOTTLE -> show the path out of a self-generated conceptual trap.
-QUIETISM -> 'leaves everything as it is' can appear conservative or self-defeating.
-REPLY -> first-order science, ethics and reform are not automatically prohibited.
-LIMIT -> identifying every persistent problem as grammatical risks unfalsifiability.
+ASCII MASTER FLOW — PANEL 9/33: TOOLS, LEVERS, AND UNDERSTANDING AS MASTERY OF A TECHNIQUE
+==============================================================================
+   PI 11  'Think of the TOOLS IN A TOOL-BOX: there is a hammer, pliers, a saw, a
+   screwdriver, a rule, a glue-pot, glue, nails and screws. The FUNCTIONS OF WORDS
+   ARE AS DIVERSE AS THE FUNCTIONS OF THESE OBJECTS.'
+   PI 12  In a locomotive cab the HANDLES ALL LOOK ALIKE: one is a crank movable
+   continuously, one a switch with two positions, one a brake-lever that resists
+   more the harder it is pulled.  UNIFORM APPEARANCE, DIFFERENT FUNCTION.
+                                     |
+                                     v
+   UNDERSTANDING (143-155, 199)
+     199  'To understand a sentence means to understand a language. To understand
+     a language means to be MASTER OF A TECHNIQUE.'
+     151-152  the inner FLASH can occur and be followed by FAILURE; fluent
+     understanding often involves NO such episode -> the flash was never the
+     criterion
+     THE ARGUMENT SHAPE, USED FOUR TIMES IN THIS CLAUSE: propose an inner item as
+     what a mental achievement CONSISTS IN -> produce a case with the item and
+     without the achievement -> and a case with the achievement and without the
+     item -> the identification fails.
+   GUARD  This is NOT behaviourism: performance is DEFEASIBLE in BOTH directions.
 
-ASCII MASTER FLOW — PANEL 10/10: Early-later synthesis, distinctions and answer spine
-EARLY -> name/object, logical form, picture, ideal analysis and saying/showing.
-LATER -> practice, grammar, use, games, family resemblance and therapeutic dissolution.
-CONTRIBUTION -> ordinary language, mind, anti-essentialism and rule-following.
-LIMITS -> quietism, relativism, normativity, science and private experience.
-DISTINGUISH -> criterion/evidence; symptom/criterion; private/secret.
-DISTINGUISH -> rule/regularity; use/intention; grammar/empirical fact.
-DISTINGUISH -> agreement in judgments/majority headcount.
-ENRICHMENT -> aspect-seeing, certainty, religion and post-Wittgensteinian debate.
-ANSWER SPINE -> thesis -> definitions -> mechanism -> objection/reply -> comparison.
-VERDICT -> powerful anti-essentialist method; incomplete general explanatory theory.
+ASCII MASTER FLOW — PANEL 10/33: OSTENSIVE DEFINITION - THE AMBIGUITY ARGUMENT
+==============================================================================
+   THE TEACHER POINTS AT TWO NUTS AND SAYS 'This is called "two"'
+                                     |
+        +-------------+-------------+-------------+-------------+------------+
+        v             v             v             v             v            v
+     NUMBER        COLOUR         SHAPE        MATERIAL      THIS PAIR    DIRECTION
+   (as it happens) (why not?)   (why not?)    (why not?)   (a name)    (the finger
+                                                                        does point)
+   PI 28  'An ostensive definition CAN BE VARIOUSLY INTERPRETED IN EVERY CASE.'
+                                     |
+                                     v
+   THE APPARENT REPAIR (29-30)  'This NUMBER is called two' - works only if
+   'number' is already understood; if that is explained ostensively, the same
+   ambiguity recurs.
+     30  'ONE HAS ALREADY TO KNOW (OR BE ABLE TO DO) SOMETHING IN ORDER TO BE
+     CAPABLE OF ASKING A THING'S NAME.'
+   EXACT STRENGTH  NOT scepticism about ostension. Ostensive teaching WORKS. The
+   claim is that THE POINTING IS NOT WHAT DOES THE WORK.
+
+ASCII MASTER FLOW — PANEL 11/33: THE PREPARED PLACE, TRAINING AND THE REGRESS
+==============================================================================
+   PI 31  'When one shows someone the king in chess and says: "This is the king",
+   this does not tell him the use of this piece - UNLESS HE ALREADY KNOWS THE
+   RULES OF THE GAME UP TO THIS LAST POINT: the shape of the king.'
+     -> the definition explains the use WHEN THE PLACE IS ALREADY PREPARED
+   WHAT 'PREPARED' MEANS                 WHAT IT DOES NOT MEAN
+     occupying the PRACTICE: attending,    X already possessing the CONCEPT being
+     imitating, being corrected,             taught - that would be viciously
+     recognising that a word is being        circular and make learning impossible
+     introduced for a role
+   PI 5-6  TRAINING (ABRICHTUNG) precedes explanation. The German is the word used
+   for training an ANIMAL; the choice is deliberate and the point is that the
+   primitive stage is PRE-EXPLANATORY.  [mark this as interpretation]
+                                     |
+                                     v
+   THE REGRESS  every explanation stands in need of an explanation OF THE SAME
+   KIND -> the series does NOT end in a self-explaining item -> it ends in
+   SOMETHING ONE DOES.
+     -> PI 201 'a way of grasping a rule which is NOT AN INTERPRETATION'
+     -> PI 217 'This is simply what I do'
+   CONSEQUENCE FOR LIMB 3  private ostension = ostension MINUS training, MINUS
+   correction, MINUS a prepared place.
+
+ASCII MASTER FLOW — PANEL 12/33: SAMPLES BELONG TO THE MEANS OF REPRESENTATION
+==============================================================================
+   PI 16  If colour samples are shown ALONG WITH the words in a language-game, it
+   is most natural to count the SAMPLES AS PART OF THE LANGUAGE - not as objects
+   the language is about.
+   PI 50  Of the STANDARD METRE in Paris one can say NEITHER that it is one metre
+   long NOR that it is not - 'this is, of course, not to ascribe any extraordinary
+   property to it, but only to mark its PECULIAR ROLE IN THE LANGUAGE-GAME OF
+   MEASURING with a metre-rule'.
+                                     |
+                                     v
+   WHY THIS MATTERS FOR THE THIRD LIMB
+     If a sample were an ORDINARY OBJECT whose nature fixed the word's
+     application, a PRIVATE sample - a remembered sensation - might do the same
+     job in a private language. 50 removes that possibility IN ADVANCE: a sample
+     is a STANDARD only because a PRACTICE of comparing, applying and correcting
+     has given it that office.
+   WHAT SURVIVES  ostension WORKS; samples are INDISPENSABLE instruments. What
+   fails is only the PHILOSOPHICAL OFFICE of grounding meaning from outside all
+   practice.
+   ANSWER LINE  Meaning is constrained but not arbitrary: NO ESSENCE IS NOT NO NORM.
+
+ASCII MASTER FLOW — PANEL 13/33: FAMILY RESEMBLANCE - THE CHALLENGE AND THE SURVEY
+==============================================================================
+   PI 65  THE INTERLOCUTOR'S CHALLENGE: 'You talk about language-games but nowhere
+   say what the ESSENCE of a language-game, and hence of language, is. You let
+   yourself off the very part of the investigation that once gave you most
+   trouble.'   -> FAMILY RESEMBLANCE IS THE REPLY. Its job is ARGUMENTATIVE.
+                                     |
+                                     v
+   PI 66  'Don't say: "There MUST be something common, or they would not be called
+   'games'" - but LOOK AND SEE whether there is anything common to all.'
+   THE SURVEY, CANDIDATE BY CANDIDATE
+     AMUSEMENT ......... fails: an Olympic final is not amusement for the player
+     COMPETITION ....... fails: patience, ring-a-ring-a-roses
+     WINNING / LOSING .. fails: ring-a-ring; and in patience one wins against the
+                         CARDS - the sense shifts
+     SKILL ............. fails: dice
+     RULES ............. fails as a UNIFORM requirement: throwing a ball at a wall
+     LUCK .............. fails: chess
+   RESULT  'A COMPLICATED NETWORK OF SIMILARITIES OVERLAPPING AND CRISS-CROSSING;
+   sometimes overall similarities, sometimes similarities of detail.'
+   METHOD NOTE  This IS 109's 'description, not explanation' in operation.
+
+ASCII MASTER FLOW — PANEL 14/33: THE THREAD, AND THE EXACT STATUS OF THE BOUNDARY
+==============================================================================
+   PI 67  'I can think of no better expression to characterise these similarities
+   than FAMILY RESEMBLANCES; for the various resemblances between members of a
+   family - BUILD, FEATURES, COLOUR OF EYES, GAIT, TEMPERAMENT, etc. etc. -
+   overlap and criss-cross in the same way.'
+   THE THREAD  'we extend our concept ... as in SPINNING A THREAD we twist fibre on
+   fibre. And THE STRENGTH OF THE THREAD DOES NOT RESIDE IN THE FACT THAT SOME ONE
+   FIBRE RUNS THROUGH ITS WHOLE LENGTH, BUT IN THE OVERLAPPING OF MANY FIBRES.'
+     -> STRENGTH WITHOUT A CORE. This single image answers the anxiety that a
+        concept without an essence must fall apart.
+   THE BOUNDARY (68-71)
+     68  NUMBER is itself a family: cardinal, rational, real - fibres, not species
+     69  We can DRAW a boundary FOR A SPECIAL PURPOSE. We do not know the
+         boundaries BECAUSE NONE HAVE BEEN DRAWN - not because they are HIDDEN
+     70  'But then the use of the word is unregulated!' - it is not EVERYWHERE
+         circumscribed by rules; NOR IS TENNIS, which has no rule for how high one
+         may throw the ball - and tennis is still a game
+     71  'Is an INDISTINCT PHOTOGRAPH always preferable to a sharp one? Isn't the
+         indistinct one OFTEN EXACTLY WHAT WE NEED?'
+   X TRAP  'the boundary is unknown because it is hidden' restores the essence-
+   demand in epistemic clothing.
+
+ASCII MASTER FLOW — PANEL 15/33: FOUR DENIALS, THE STANDARD OBJECTION, AND THE SERVICE RENDERED
+==============================================================================
+   FOUR THINGS THE DOCTRINE DOES NOT CLAIM - each is a marked error
+     X that NO concept has necessary and sufficient conditions ('triangle' does)
+     X that no two games have anything in common (many share several features)
+     X that definition is impossible or worthless
+     X that ANYTHING may therefore be called a game
+   THE OBJECTION  Everything resembles everything in SOME respect: a chair
+   resembles chess in being man-made. A network of 'similarities' constrains
+   nothing.
+   THE REPLY  RELEVANCE IS FIXED BY THE PRACTICE, not by bare resemblance - by what
+   we do with games, how the word is taught, which extensions are ACCEPTED and
+   which are CORRECTED. The concept is bounded by USE, not by definition.
+   THE RESIDUE  Whether use bounds it tightly enough in EVERY case is genuinely
+   open. Concede it: that is the 'critically' mark.
+   THE SERVICE RENDERED - the 2018 answer in four steps
+     1 THE DEMAND DISARMED   refusing to define 'language' is no longer a defect
+     2 THE ANALOGY EARNED    'game' IS the paradigm family-resemblance concept
+     3 THE PICTURE SUPPLIED  games have TRAINING, RULES, MOVES and STANDARDS
+                             WITHOUT an essence - exactly what the Tractatus
+                             thought only a shared LOGICAL FORM could give
+     4 RELATIVISM BLOCKED    games are norm-governed, so meaning is not arbitrary
+
+ASCII MASTER FLOW — PANEL 16/33: LANGUAGE-GAMES - THE DEFINITION AND THE THREE USES
+==============================================================================
+   PI 7  'I shall also call THE WHOLE, CONSISTING OF LANGUAGE AND THE ACTIONS INTO
+   WHICH IT IS WOVEN, the "language-game".'
+     -> the unit of investigation is NEVER the sentence alone: it is
+        SENTENCE + CIRCUMSTANCE + ACTIVITY + RESPONSE
+   USE 1  INVENTED PRIMITIVE LANGUAGES            2, 8, 48, 130-131
+     STATUS (130-131): OBJECTS OF COMPARISON, 'meant to throw light on the
+     features of our language by way NOT ONLY OF SIMILARITIES BUT ALSO OF
+     DISSIMILARITIES'.  X not simplified models  X not hypotheses about origins
+   USE 2  THE TRAINING PROCESSES BY WHICH LANGUAGE IS LEARNED           7
+     naming, repeating after someone, pointing and saying
+   USE 3  ACTUAL COMPLETE PRACTICES                                     23
+   WHY THE WORD 'GAME' WAS CHOSEN
+     games are the paradigm of something RULE-GOVERNED WITHOUT AN ESSENCE; they
+     have MOVES; they involve TRAINING; a move is intelligible only WITHIN the game
+   WHAT THE WORD DOES NOT CARRY  X triviality  X arbitrary invention  X competition
+   The objection 'language is too serious to be a game' trades on exactly the
+   connotations he does not use.
+
+ASCII MASTER FLOW — PANEL 17/33: THE BUILDERS, WORKED RATHER THAN TOLD
+==============================================================================
+     A (builder)  calls 'Slab!'  ---->  B (assistant)  brings a slab
+                  calls 'Block!' ---->                 brings a block
+                  calls 'Pillar!'---->                 brings a pillar
+                  calls 'Beam!'  ---->                 brings a beam
+   FOUR WORDS. NO SENTENCES OF THE SCHOOLBOOK KIND. 'Conceive this as a COMPLETE
+   PRIMITIVE LANGUAGE.'
+   WHAT IT ESTABLISHES
+     1 a language can be COMPLETE FOR ITS PURPOSE without DESCRIBING anything
+     2 'Slab!' is nearer an ORDER than a label; its meaning is its ROLE in the
+       transaction
+     3 meaning is displayed in the TRAINED RESPONSE - B's bringing the slab
+     4 Augustine's picture fits THIS game exactly - which fixes its true status
+   PI 19-20  IS 'Slab!' A WORD OR A SENTENCE?
+     It may be an elliptical form of 'Bring me a slab' - OR our 'elliptical'
+     sentence may be a LENGTHENED form of theirs. Wittgenstein refuses to settle
+     it by fiat: WHAT MAKES IT AN ORDER IS ITS PLACE IN THE PRACTICE, NOT ITS
+     LENGTH.  <- this is where the example turns from illustration into ARGUMENT
+
+ASCII MASTER FLOW — PANEL 18/33: PI 23 - THE LIST, ITS HISTORICITY AND ITS CLOSING CLAUSE
+==============================================================================
+   'How many kinds of sentence are there? ... THERE ARE COUNTLESS KINDS ... And
+   this multiplicity is NOT SOMETHING FIXED, GIVEN ONCE FOR ALL; but NEW TYPES OF
+   LANGUAGE, NEW LANGUAGE-GAMES, as we may say, COME INTO EXISTENCE, and others
+   BECOME OBSOLETE AND GET FORGOTTEN.'
+   THE LIST - deliberately disorderly
+     giving orders and obeying them | describing the appearance of an object or
+     giving its measurements | constructing an object from a description (a
+     drawing) | reporting an event | speculating about an event | forming and
+     testing a hypothesis | presenting the results of an experiment in tables and
+     diagrams | making up a story, and reading it | play-acting | singing catches |
+     guessing riddles | making a joke, telling it | solving a problem in practical
+     arithmetic | translating from one language into another | ASKING, THANKING,
+     CURSING, GREETING, PRAYING
+   THE CLOSING CLAUSE  'the speaking of language is PART OF AN ACTIVITY, OR OF A
+   FORM OF LIFE'   <- the textual bridge the 2022 answer must quote
+   THREE CONSEQUENCES
+     1 the DISORDER IS THE ARGUMENT against one essence
+     2 DESCRIBING is ONE ITEM - demoted from the paradigm it was in the Tractatus
+       and in logical positivism
+     3 LANGUAGE IS HISTORICAL - conceptual change without a theory of it
+
+ASCII MASTER FLOW — PANEL 19/33: GRAMMAR - ESSENCE, SURFACE AND DEPTH, AND THE DIAGNOSTIC
+==============================================================================
+   371  'ESSENCE IS EXPRESSED BY GRAMMAR.'
+   373  'GRAMMAR TELLS WHAT KIND OF OBJECT ANYTHING IS.'
+     -> the metaphysical question 'what IS an X?' becomes 'HOW IS THE WORD X USED?'
+   496  grammar does not EXPLAIN but DESCRIBES the use of signs
+   664  SURFACE GRAMMAR (how a word is constructed, what part of speech it seems)
+        vs DEPTH GRAMMAR (its actual employment). 'I mean...' and 'I intend...'
+        look alike on the surface and differ in depth.
+                                     |
+                                     v
+   THE DIAGNOSTIC MODEL  350-351   'IT IS 5 O'CLOCK ON THE SUN'
+     grammatically IMPECCABLE ......... and NO GAME HAS BEEN SPECIFIED
+     our practice of telling the time is tied to a PLACE and the SUN'S POSITION
+     VERDICT  NOT FALSE. NOT UNVERIFIABLE. NO SPECIFIED USE.
+   X TRAP  reaching for 'meaningless because unverifiable' here imports TOPIC 07's
+   criterion and forfeits the boundary in any comparison question.
+   WHY IT MATTERS  THIS IS THE EXACT VERDICT-FORM LATER PASSED ON THE DIARIST'S 'S'.
+   89  Augustine on time: 'If no one asks me, I know; if I wish to explain it to
+   one who asks, I know not' - the classic case of the same phenomenon.
+
+ASCII MASTER FLOW — PANEL 20/33: FORMS OF LIFE - THE FOUR JOBS THE NOTION DOES
+==============================================================================
+   JOB 1  COMPLETES THE ACCOUNT OF LANGUAGE-GAMES                    19, 23
+     19 'TO IMAGINE A LANGUAGE MEANS TO IMAGINE A FORM OF LIFE' - said while
+     asking whether the builders' 'Slab!' is a word or a sentence
+     23 'the speaking of language is PART OF an activity, or of a form of life'
+   JOB 2  ANSWERS THE RELATIVISM CHARGE                            241, 242
+   JOB 3  MARKS WHERE JUSTIFICATION STOPS                          211, 217
+     217 'If I have exhausted the justifications I have reached BEDROCK, and my
+     spade is turned. Then I am inclined to say: THIS IS SIMPLY WHAT I DO.'
+     CAUTION: 217 is a RULE-FOLLOWING remark. Using it to DEFINE form of life is
+     an interpretive EXTENSION - mark it as one.
+   JOB 4  SETS THE LIMIT OF INTELLIGIBILITY                     PPF / II xi
+     'IF A LION COULD TALK, WE COULD NOT UNDERSTAND HIM.'
+     SAYS  vocabulary alone does not confer understanding where activities,
+     reactions and natural history diverge far enough
+     DOES NOT SAY  that cultures are sealed, that translation is impossible, or
+     that cross-practice criticism is illegitimate. LIONS ARE NOT A CULTURE.
+   SPARSE-OCCURRENCE CAUTION  the phrase occurs a handful of times: 19, 23, 241 and
+   PPF. Any large doctrine built on it is INTERPRETATION, not stated theory.
+
+ASCII MASTER FLOW — PANEL 21/33: AGREEMENT IN JUDGMENTS - THE PASSAGE THAT DOES THE WORK
+==============================================================================
+   241  INTERLOCUTOR: 'So you are saying that HUMAN AGREEMENT DECIDES what is true
+   and what is false?'
+        REPLY: 'IT IS WHAT HUMAN BEINGS SAY THAT IS TRUE AND FALSE; AND THEY AGREE
+        IN THE LANGUAGE THEY USE. THAT IS NOT AGREEMENT IN OPINIONS BUT IN FORM OF
+        LIFE.'
+   242  'If language is to be a means of communication there must be agreement not
+   only in DEFINITIONS but also (QUEER AS THIS MAY SOUND) IN JUDGMENTS.'
+        THE TEST: if the results of MEASURING varied wildly from person to person,
+        we should NOT have INACCURATE MEASURING - we should have NO MEASURING.
+                                     |
+                                     v
+   THE ASYMMETRY THAT SETTLES THE QUESTION
+     remove the shared background  ->  you do NOT get widespread ERROR
+                                       (error presupposes a subject-matter)
+                                   ->  you get NO SUBJECT-MATTER AT ALL
+     THEREFORE agreement operates ONE LEVEL BELOW truth-value: it is the CONDITION
+     OF DETERMINATE ASSERTION, not its GROUND.
+     THEREFORE disagreement - including radical disagreement - is EVIDENCE OF a
+     shared practice, not evidence against one.
+   WORKED PICTURE  two people can argue whether the table is 180 or 182 cm; they
+   cannot argue whether laying a rule alongside it is how length is settled.
+
+ASCII MASTER FLOW — PANEL 22/33: BEDROCK, NATURAL HISTORY, AND THE TENABILITY VERDICT
+==============================================================================
+   NATURAL HISTORY  25 'COMMANDING, ASKING, RECOUNTING, CHATTING are as much a part
+   of our NATURAL HISTORY as walking, eating, drinking, playing.'  415 'what we are
+   supplying are really REMARKS ON THE NATURAL HISTORY OF HUMAN BEINGS.'
+   TWO READINGS - name both, then take a side
+     NATURALIST / ANTHROPOLOGICAL          CULTURALIST
+       shared natural history: reactions,    'formS of life' in the plural:
+       the human body, common needs,         historically specific religious,
+       primitive behaviour                   scientific and legal practices
+       anchors: 25, 415                      anchors: the plural occurrences;
+                                             23's historicity; manifest variety
+     RECOMMENDED  the readings are NOT exclusive: the SHAPE of the background is
+     natural, its CONTENT largely cultural.
+   THE TENABILITY TABLE  (2022 asks you to ESTABLISH it)
+     WOULD BE UNTENABLE IF          WHY IT DOES NOT FOLLOW        STILL OPEN
+     consensus made claims true     241 separates the levels;     is the line
+                                    242's asymmetry               always sharp?
+     practices were immune to       shared natural history and    no theory of
+     criticism                      comparison give purchase      ADJUDICATION
+     it rested on a rare phrase     the work is done by 241-242   how much weight
+                                    and 23, which are ARGUED      the phrase bears
+   VERDICT  TENABLE as the ENABLING BACKGROUND. UNTENABLE as a theory of truth, of
+   incommensurability, or of ultimate justification.
+
+ASCII MASTER FLOW — PANEL 23/33: RULE-FOLLOWING - THE SETTING AND THE PUPIL AT 1000
+==============================================================================
+   THE TEMPTING PICTURE  to follow a rule is to have it IN MIND and DERIVE each
+   application; meaning something determines every future step in advance.
+   THE PRESSURE (138-155)
+     * the formula does not APPLY ITSELF     * the examples are FINITE
+     * a mental picture is ANOTHER SIGN, needing application in turn (139-141)
+     * the 'aha!' can occur and be followed by FAILURE (151-155)
+                                     |
+                                     v
+   PI 185  THE PUPIL
+     taught the natural numbers, then '+2' up to 1000. Asked to continue, he writes
+        ... 996  998  1000  1004  1008  1012
+     We say: LOOK WHAT YOU HAVE DONE. He replies: 'BUT I WENT ON IN THE SAME WAY.'
+     Repeating the examples does not refute him: 'IT COMES NATURAL TO THIS PERSON
+     TO UNDERSTAND OUR ORDER WITH OUR EXPLANATIONS AS WE SHOULD UNDERSTAND THE
+     ORDER: "Add 2 up to 1000, 4 up to 2000, 6 up to 3000 and so on."'
+   WHAT THE CASE SHOWS  NOT that the pupil is right. NOT that we cannot correct
+   him. THAT THE CORRECTION CANNOT BE DERIVED from anything already possessed -
+   sign, examples, image, or further explanation.
+   NOTE THE PHRASE  'it comes NATURAL to this person' locates the divergence at the
+   level of REACTION - which is where the form-of-life background does its work.
+
+ASCII MASTER FLOW — PANEL 24/33: PI 201 IN THREE PARTS - THE REDUCTIO
+==============================================================================
+   (i) THE PARADOX
+     'THIS WAS OUR PARADOX: no course of action could be determined by a rule,
+      because EVERY COURSE OF ACTION CAN BE MADE OUT TO ACCORD WITH THE RULE.'
+     'If everything can be made out to accord with the rule, then it can also be
+      made out to CONFLICT with it. And so there would be NEITHER ACCORD NOR
+      CONFLICT here.'
+   (ii) THE DIAGNOSIS
+     'It can be seen that there is a MISUNDERSTANDING here from the mere fact that
+      in the course of our argument we GIVE ONE INTERPRETATION AFTER ANOTHER; as
+      if each one contented us at least for a moment, until we thought of yet
+      another standing behind it.'
+     KEY GLOSS  INTERPRETATION = 'THE SUBSTITUTION OF ONE EXPRESSION OF THE RULE
+     FOR ANOTHER'.  Because an interpretation is ANOTHER EXPRESSION, it stands in
+     exactly the need it was introduced to satisfy -> THE REGRESS IS STRUCTURAL ->
+     THE FIRST STEP WAS THE MISTAKE.
+   (iii) THE RESOLUTION
+     'There is A WAY OF GRASPING A RULE WHICH IS NOT AN INTERPRETATION, but which
+      is EXHIBITED IN WHAT WE CALL "OBEYING THE RULE" AND "GOING AGAINST IT" IN
+      ACTUAL CASES.'
+   X FATAL OMISSION  quoting (i) and stopping converts a REDUCTIO into SCEPTICISM.
+
+ASCII MASTER FLOW — PANEL 25/33: PI 202, AND NORMATIVITY AGAINST REGULARITY
+==============================================================================
+   PI 202  '"OBEYING A RULE" IS A PRACTICE. AND TO THINK ONE IS OBEYING A RULE IS
+   NOT TO OBEY A RULE. HENCE IT IS NOT POSSIBLE TO OBEY A RULE "PRIVATELY":
+   otherwise THINKING one was obeying a rule would be THE SAME THING AS OBEYING IT.'
+     -> this does TWO jobs: it names the terminus of the rule-following argument,
+        AND it announces the private-language argument FORTY REMARKS IN ADVANCE.
+        258 IS 202 APPLIED TO A SENSATION-WORD.
+   PI 217  justifications exhausted, spade turned: 'THIS IS SIMPLY WHAT I DO.'
+   PI 211  reasons soon give out - and then I ACT, without reasons.
+                                     |
+                                     v
+   NORMATIVITY  !=  REGULARITY   - the discrimination that carries the most marks
+     REGULARITY                        PRACTICE
+     described from OUTSIDE            involves STANDARDS by which a performance
+                                       is CRITICISED
+     has EXCEPTIONS                    has MISTAKES - failures by a standard the
+                                       agent himself acknowledges when shown
+     shared by a CROWD                 a STANDARD can be misapplied by the WHOLE
+                                       CROWD AT ONCE
+   X THE MOST DAMAGING SENTENCE AVAILABLE  'for Wittgenstein, correctness is
+   whatever the community agrees on' - it recreates at GROUP level exactly the
+   collapse of 'right' into 'seems right' that 258 exploits at INDIVIDUAL level.
+
+ASCII MASTER FLOW — PANEL 26/33: KRIPKE 1982 - REPORT IT, THEN RULE ON IT
+==============================================================================
+   THE READING  Kripke, WITTGENSTEIN ON RULES AND PRIVATE LANGUAGE, 1982
+     201 read as a SCEPTICAL PARADOX: no fact about my past usage, dispositions or
+     mental history CONSTITUTES my having meant ADDITION rather than the deviant
+     function usually called QUADDITION - hence no fact makes '125' rather than
+     '5' the correct answer to '68 + 57'.
+     Answered by a SCEPTICAL SOLUTION: abandon truth-conditions for ASSERTION-
+     CONDITIONS; what licenses ascribing meaning is COMMUNAL AGREEMENT.
+   THREE THINGS TO SAY - three sentences, and the scholarship mark is secured
+     1 PROVENANCE  Kripke presents it as 'WITTGENSTEIN'S ARGUMENT AS IT STRUCK
+       KRIPKE', not as exegesis. Scholarly shorthand: KRIPKENSTEIN.
+     2 THE OPPOSING READING  BAKER and HACKER, and McDOWELL from another
+       direction: 201 calls the paradox a MISUNDERSTANDING and supplies a THIRD
+       PART that the reconstruction under-weights. The text DISSOLVES; it does not
+       concede.
+     3 THE RULING  PHILOSOPHICALLY VALUABLE - it shows sharply why neither
+       INTERPRETATION nor DISPOSITION fixes normativity. EXEGETICALLY DOUBTFUL - a
+       sceptical SOLUTION is precisely the constructive theory 128 and 133 forbid.
+   OPTIONAL ONLY  the plus/quus reconstruction and the sceptical-solution debate.
+
+ASCII MASTER FLOW — PANEL 27/33: THE PRIVATE-LANGUAGE TARGET - PI 243 AND FOUR NON-TARGETS
+==============================================================================
+   PI 243 FIRST SETS ASIDE THE CASE THAT IS NOT AT ISSUE
+     human beings who speak ONLY IN MONOLOGUE - a researcher COULD learn their
+     language, because it accompanies their ordinary activities.
+                                     |
+                                     v
+   THEN THE REAL QUESTION
+     'But could we also imagine a language in which a person could WRITE DOWN or
+      GIVE VOCAL EXPRESSION to his INNER EXPERIENCES - his feelings, moods and the
+      rest - FOR HIS PRIVATE USE?'
+     'The individual words of this language are to REFER TO WHAT CAN ONLY BE KNOWN
+      TO THE PERSON SPEAKING; TO HIS IMMEDIATE PRIVATE SENSATIONS. So ANOTHER
+      PERSON CANNOT UNDERSTAND THE LANGUAGE.'
+   FOUR NON-TARGETS - each refutable by example in one sentence
+     X A SECRET CODE ......... an ENCRYPTED PUBLIC language, decipherable IN
+                               PRINCIPLE; its words already have public meanings
+     X TALKING TO ONESELF .... ordinary use of a public language, performed alone
+     X PRIVATE THOUGHTS ...... never denied; 304 protects them explicitly
+     X PHYSICAL SOLITUDE ..... a solitary speaker may use PUBLIC-TYPE criteria:
+                               stable techniques, repeatable circumstances
+   WHY THIS PARAGRAPH IS WORTH HALF THE MARKS  a script that attacks a code has
+   answered a question that was not asked.
+
+ASCII MASTER FLOW — PANEL 28/33: THE DIARY - PI 258, 260, 265, 270
+==============================================================================
+   SET-UP (258)  'I want to keep a DIARY about the recurrence of a certain
+   SENSATION. To this end I associate it with the sign "S" and write this sign in
+   a calendar for every day on which I have the sensation.'
+     STEP 1  no definition can be formulated - 'but still I can give myself a kind
+             of OSTENSIVE DEFINITION', by concentrating my attention and, as it
+             were, POINTING INWARDLY
+     STEP 2  what does the ceremony achieve? 'It serves to establish the connexion
+             between the sign and the sensation' - but 'I impress it on myself' can
+             only mean: this process brings it about that I REMEMBER THE CONNEXION
+             RIGHT IN FUTURE
+     STEP 3  'AND HERE WE HAVE NO CRITERION OF CORRECTNESS. One would like to say:
+             WHATEVER IS GOING TO SEEM RIGHT TO ME IS RIGHT. And that only means
+             that HERE WE CAN'T TALK ABOUT "RIGHT".'
+   260  'Well, I BELIEVE that this is the sensation S again.' - Perhaps you BELIEVE
+        THAT YOU BELIEVE it.
+   265  the memory-check compared to buying SEVERAL COPIES OF THE MORNING PAPER to
+        assure oneself that what it says is true; a table existing only in the
+        imagination is NOT a table; 'justification consists in appealing to
+        something INDEPENDENT'.
+   270  THE MANOMETER VARIANT  suppose writing 'S' coincides with a rise in blood
+        pressure a manometer registers. NOW THE SIGN HAS A USE - and note that
+        WHETHER I IDENTIFIED THE SENSATION RIGHTLY HAS BECOME IRRELEVANT.
+   NOT AN ARGUMENT FROM FALLIBLE MEMORY  the claim is that there is NOTHING HERE
+   FOR MEMORY TO BE RELIABLE ABOUT.  WHAT COLLAPSES IS 'RIGHT', NOT 'S'.
+
+ASCII MASTER FLOW — PANEL 29/33: THE BEETLE, THE FIVE-STEP CORE, AND WHAT SURVIVES
+==============================================================================
+   PI 293  'Suppose everyone had A BOX with something in it: we call it a
+   "BEETLE". No one can look into anyone else's box, and everyone says he knows
+   what a beetle is ONLY BY LOOKING AT HIS BEETLE.'
+     * the thing might be DIFFERENT in each box   * it might be CONSTANTLY CHANGING
+     * THE BOX MIGHT BE EMPTY
+   CONCLUSION  'IF WE CONSTRUE THE GRAMMAR OF THE EXPRESSION OF SENSATION ON THE
+   MODEL OF "OBJECT AND DESIGNATION" THE OBJECT DROPS OUT OF CONSIDERATION AS
+   IRRELEVANT.'   <- EXPRESSLY CONDITIONAL. The beetle attacks A MODEL.
+   ORDER OF ARGUMENT  the DIARY carries the argument; the BEETLE removes a residual
+   temptation about SHARED words. Leading with the beetle reverses the order.
+                                     |
+                                     v
+   THE FIVE-STEP CORE - WRITE IT AS A NUMBERED ARGUMENT
+     1  A meaningful sign requires a RULE OF USE.
+     2  A rule requires a CRITERION OF CORRECTNESS independent of present
+        seeming.                                                        [202]
+     3  A purely private 'rule' has NO such criterion: the only check is a
+        further seeming of the same kind.                          [258, 265]
+     4  Therefore 'correct' and 'seems correct' COINCIDE - and where they
+        coincide, 'correct' HAS NO APPLICATION.                          [258]
+     5  Therefore no rule, no meaning, NO PRIVATE LANGUAGE.
+   WHAT SURVIVES  sensations (304) | the solitary speaker (public-TYPE criteria) |
+   the first/third-person asymmetry (244, 246) | the inner life as describable (580)
+   WHAT IS CONTESTED  the memory objection | actual community vs shareable
+   standards | whether criterial grammar respects felt phenomenology
+
+ASCII MASTER FLOW — PANEL 30/33: CRITERIA, SYMPTOMS, PI 580 AND THE AVOWAL
+==============================================================================
+   SOURCE  the BLUE BOOK, DICTATED 1933-35, PUBLISHED 1958. Say 'in the Blue Book'.
+   CRITERION (Kriterium)                    SYMPTOM (Symptom)
+     INTERNAL / GRAMMATICAL - part of what    EXTERNAL / INDUCTIVE - a correlation
+     it IS for the concept to apply; taught   experience has taught us
+     with the word
+     established BY THE GRAMMAR of the game   established BY EMPIRICAL INVESTIGATION
+     if it failed we would no longer know     if it failed we would merely revise a
+     what the word MEANS                      generalisation
+   ANGINA  the BACILLUS in the blood, which we have DEFINED as the criterion
+           the INFLAMED THROAT, which experience has taught us usually goes with it
+   PAIN    criterion = PAIN-BEHAVIOUR IN APPROPRIATE CIRCUMSTANCES
+           symptom   = a raised pulse, sweating, a groan produced by an ACTOR
+   PI 580  'AN "INNER PROCESS" STANDS IN NEED OF OUTWARD CRITERIA.'
+     1 to possess a concept is to master a technique of applying a word rightly
+       and wrongly                                                    [143-202]
+     2 mastery requires circumstances in which application is right and wrong
+     3 for an 'inner' concept those circumstances CANNOT BE FURTHER INNER ITEMS -
+       that restarts 258 one level down                                   [258]
+     4 therefore they must be OUTWARD: behaviour, situation, what precedes and
+       follows - the SURROUNDINGS (Umgebung) of the utterance
+     5 therefore 580.
+   PI 244  adults TEACH THE CHILD NEW PAIN-BEHAVIOUR: 'THE VERBAL EXPRESSION OF
+   PAIN REPLACES CRYING AND DOES NOT DESCRIBE IT' -> AVOWAL (Aeusserung)
+   PI 246  'only I can know whether I am really in pain' is FALSE in one way
+   (others often do know) and NONSENSE in another - it can be said of me only AS A
+   JOKE that I KNOW I am in pain.  CAUTION: not every first-person psychological
+   sentence is an avowal; 'I was frightened last Tuesday' is a REPORT.
+
+ASCII MASTER FLOW — PANEL 31/33: THE BEHAVIOURISM CHARGE, THE FOUR-MOVE REPLY, AND PI 354
+==============================================================================
+   THE CHARGE, RAISED BY WITTGENSTEIN AGAINST HIMSELF                  307-308
+     'Aren't you at bottom really saying that EVERYTHING EXCEPT HUMAN BEHAVIOUR IS
+      A FICTION?' - 'If I do speak of a fiction, then it is of a GRAMMATICAL
+      FICTION.'
+   THE REPLY IN FOUR MOVES
+     1 THE DENIAL IS OF A PICTURE, NOT A PHENOMENON                        304
+       'It is NOT A SOMETHING, BUT NOT A NOTHING EITHER! The conclusion was only
+        that A NOTHING WOULD SERVE JUST AS WELL AS A SOMETHING ABOUT WHICH NOTHING
+        COULD BE SAID.'  What is rejected is the INNER-OBJECT MODEL - not pain,
+        joy or memory.
+     2 THE FIRST FALSE STEP                                                308
+       We begin by talking innocently of mental 'processes and states', leaving
+       their nature undecided - 'and now the analogy which was to make us
+       understand our thoughts falls to pieces ... THE DECISIVE MOVEMENT IN THE
+       CONJURING TRICK HAS BEEN MADE, AND IT WAS THE VERY ONE THAT WE THOUGHT
+       QUITE INNOCENT.'
+     3 CRITERIA ARE NOT DEFINITIONS
+       Because criteria are DEFEASIBLE, 'he is in pain' is NOT EQUIVALENT to any
+       statement about behaviour. THE BEHAVIOURIST ASSERTS AN EQUIVALENCE;
+       WITTGENSTEIN ASSERTS A GRAMMATICAL DEPENDENCE. Stating that difference is
+       what the examiner is looking for. Pretence is not a counter-example - it is
+       a possibility the account PREDICTS.
+     4 THE FIRST/THIRD-PERSON ASYMMETRY                                244, 246
+       first person = AVOWAL; third person = BEHAVIOURAL AND SITUATIONAL CRITERIA.
+   PI 354  'THE FLUCTUATION IN GRAMMAR BETWEEN CRITERIA AND SYMPTOMS MAKES IT LOOK
+   AS IF THERE WERE NOTHING AT ALL BUT SYMPTOMS.'
+     READING A candour about how concepts work | READING B the firewall is local
+     RECOMMENDED  A, conceding that the firewall is secured CASE BY CASE.
+   VERDICT  ANTI-CARTESIAN WITHOUT BEING A REDUCTIVE BEHAVIOURIST.
+
+ASCII MASTER FLOW — PANEL 32/33: SOLIPSISM, THERAPY AND THE ENRICHMENT FENCE
+==============================================================================
+   SOLIPSISM  EARLY (Tractatus 5.6 / 5.62 / 5.64): limits of MY language = limits
+   of MY world | what the solipsist MEANS is correct but CANNOT BE SAID | strictly
+   carried out it COINCIDES WITH PURE REALISM. Mechanism: SAYING and SHOWING.
+   LATER: the ROUTE CHANGES - from the LIMIT of language to the GRAMMAR of his
+   words. THE DILEMMA: either his terms are fixed by PRESENT SEEMING -> 258, no
+   rule, NOTHING STATED; or by STABLE REPEATABLE TECHNIQUES -> he has CONCEDED the
+   public-type practice he denies. VERDICT: SELF-UNDERMINING - a DISSOLUTION, NOT A
+   REFUTATION. NOT PROVED: other minds | the external world | that solitude is
+   impossible. 303 'try - in a real case - to doubt someone else's pain'.
+   THERAPY  38 language IDLES (wenn die Sprache feiert) | 109 battle against the
+   BEWITCHMENT of our intelligence | 115 A PICTURE HELD US CAPTIVE, and it LAY IN
+   OUR LANGUAGE | 122 PERSPICUOUS REPRESENTATION -> SEEING CONNECTIONS, find and
+   INVENT intermediate cases | 123 'I DON'T KNOW MY WAY ABOUT' | 127 ASSEMBLE
+   REMINDERS | 128 theses would be UNDEBATABLE | 129 hidden by SIMPLICITY AND
+   FAMILIARITY | 133 METHODS, LIKE DIFFERENT THERAPIES; the real discovery lets one
+   STOP | 255 treatment of an ILLNESS | 309 SHOW THE FLY THE WAY OUT OF THE
+   FLY-BOTTLE | 124 'leaves everything as it is' - BOUNDED BY ITS FIRST CLAUSE to
+   THE USE OF LANGUAGE.
+   ENRICHMENT FENCE  ASPECT-SEEING (Part II xi / PPF; figure JASTROW 1899; 'I see
+   that it has not changed; AND YET I SEE IT DIFFERENTLY'; the DAWNING OF AN
+   ASPECT; ASPECT-BLINDNESS ties it to the EXPERIENCE OF MEANING) and ON CERTAINTY
+   (notes 1949-51, published 1969, UNREVISED; answers MOORE; HINGE propositions)
+   are ENRICHMENT. BUDGET: 10 marks NONE | 15 marks ONE SENTENCE | 20 marks TWO.
+
+ASCII MASTER FLOW — PANEL 33/33: THE CRITICISM LEDGER, THE PYQ ROUTING AND THE ANSWER SPINE
+==============================================================================
+   CRITICISM LEDGER, RANKED  1 SELF-APPLICATION (133's plural; inherited from 6.54)
+   2 NORMATIVITY OF USE (hard cases remain) 3 KRIPKE (valuable, doubtful)
+   4 QUIETISM (bounded; discipline narrowed) 5 BEHAVIOURISM (defeasible criteria;
+   354 fluctuates) 6 RELATIVISM (241; no adjudication theory) 7 CRUSOE (logical
+   privacy; community disputed) 8 CIRCULARITY (mistake distinguishes practice).
+   PYQ ROUTING, 7 OWNED PARTS
+     2018 Q1(c) 10  family resemblance upholding 'Language is a game'
+     2019 Q3(b) 15  solipsism CULMINATING in the private-language critique
+     2020 Q4(c) 15  the 243 question itself - 'for his private use?'
+     2022 Q1(c) 10  'MOTION of language as form of life' - PRINTED WORD RETAINED
+     2023 Q4(c) 15  reasons for the shift from picture-theory to use-theory
+     2024 Q1(d) 10  why there cannot be an essentially private language
+     2025 Q3(a) 20  the transition - UNMATCHED OPENING QUOTATION RETAINED
+     2021 owns NOTHING here; its Wittgenstein part belongs to TOPIC 06.
+   ANSWER SPINE, ALL LENGTHS  state the CHANGE OF QUESTION -> give the LIMB with
+   its exact texts -> give the SUPPORT that makes it executable -> name the
+   OBJECTION and its RESIDUE -> close with a DEFENDED RULING.
+   CLOSING LINE  Everyone else was hunting the hidden thing; he was explaining why
+   the hunt felt compulsory.

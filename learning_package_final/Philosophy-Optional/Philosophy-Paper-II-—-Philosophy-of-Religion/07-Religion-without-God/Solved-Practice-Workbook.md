@@ -1,805 +1,1106 @@
 ---
 title: "Religion without God — Solved Practice Workbook"
 topic_key: philosophy-paper-ii-philosophy-of-religion-07
+variant: learner-v2
 ---
-# Religion without God — Learner-v2 Source-Complete Learning Session
+# Religion without God — Solved Practice Workbook
+
+> **Philosophy Optional · Philosophy Paper II — Philosophy of Religion · Topic 07**
+> A standalone practice document. It is designed to be worked without the learning session open beside it, and it repeats no teaching prose.
+
+### How to use this workbook
+
+Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap. The previous-year questions reproduce the official printed wording exactly; **the model answers are independent learner practice and are never official UPSC keys.**
+
+### What is inside
+
+| Part | Content | Count |
+|---|---|---:|
+| 1 | Core diagnostic MCQs | 24 |
+| 2 | Remedial diagnostic MCQs | 8 |
+| — | Question-specific option explanations | 128 |
+| — | Unique examiner traps | 32 |
+| 3 | Verified previous-year questions, fully solved | 7 |
+| 4 | Original solved Mains models (2 × 10, 2 × 15, 2 × 20) | 6 |
+
+### Marking and timing conventions
+
+- Word bands: 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words.
+- Every model answer follows **claim → named evidence → analysis → qualification**.
+- Every model answer closes with a decided verdict, and the twenty-mark models additionally name the **defeater** that would change that verdict.
+- **Standing penalties in this clause:** an answer with no stated definition of religion; "atheistic" written where "non-theistic" is meant; Cārvāka offered as an instance rather than as the limit; the Mīmāṃsā Veda called revelation; and any invented year for Smart, Feuerbach, Freud or Comte.
+
+### Terminology rule
+
+English-first throughout. The English concept leads; the accurate Sanskrit, Pali, German or Latin term follows in parentheses.
 
 ## BASIC MCQS / REMEDIATION
 
+### Practice protocol
 
-### Practice protocol — [CORE ANSWER]
+Attempt every item before reading its key. The correct option position was fixed **independently for each question** by a randomised, length-balanced assignment: there is no rotation, no repeating cycle and no adjacent repetition to exploit, and each of the four positions carries exactly eight answers across the thirty-two diagnostics. Every option carries a question-specific explanation, and every question carries a unique examiner trap.
 
-Attempt each item before reading its key. Answer placement is balanced, deterministic and non-patterned using a stable topic seed. across all forty-eight diagnostics.
+#### CORE DIAGNOSTIC MCQS — 24
 
-#### CORE DIAGNOSTIC MCQS — 40
+#### MCQ 1. The definition that decides the whole clause
 
-#### 1. Which definition most directly makes belief in a personal creator necessary for religion?
+Which kind of definition of religion, once adopted in an answer's opening lines, by itself settles whether religion without God is possible?
 
-A. A substantive definition centred on God or sacred beings
-B. A multidimensional account of doctrine, ritual and community
-C. A functional definition centred on transformation and meaning
-D. A family-resemblance account of religious practices
+A. A family-resemblance definition, which needs one feature that every member of the religious family must possess before it can classify at all.
 
-**Answer: A.** A substantive definition identifies religion through the kind of object affirmed, so a God-centred version can make theism necessary. Functional and multidimensional accounts test what religion does and therefore allow non-theistic cases.
-#### 2. Which formulation best expresses a functional definition of religion?
+B. A substantive definition, which fixes religion by the kind of object affirmed and can therefore build a personal creator into the concept itself.
 
-A. Membership in an institution possessing an infallible scripture
-B. A disciplined way of orienting life to ultimacy, transformation or liberation
-C. Belief in at least one supernatural personal agent
-D. Acceptance of a revelation authored by an omniscient being
+C. A multidimensional definition, on which Smart's doctrinal, mythic, ethical, ritual, experiential, social and material dimensions are jointly compulsory.
 
-**Answer: B.** Functional definitions focus on orientation, practice, community, meaning and liberation rather than divine ontology. They explain how Buddhism can remain religious without creator-belief.
-#### 3. What is the strongest correction to the objection that functional definitions make nationalism a religion?
+D. A functional definition, which fixes religion by orientation, practice, community and liberation and therefore rules non-theistic traditions out.
 
-A. Require belief in miracles but not in God
-B. Count every commitment that demands sacrifice as religious
-C. Add disciplined relation to an ultimate or sacred order and a transformative-soteriological practice
-D. Restrict religion to traditions founded before modernity
+**Answer: B.**
 
-**Answer: C.** Meaning and community alone are too broad. The added criteria preserve Buddhism, Jainism and Mīmāṃsā while excluding ordinary political ideology.
-#### 4. Which case best marks the boundary between religion without God and rejection of religion?
+**Option explanations:**
 
-A. Jainism, because it accepts perfected liberated beings
-B. Mīmāṃsā, because it affirms Vedic injunction
-C. Sāṃkhya, because it accepts puruṣa and prakṛti
-D. Cārvāka, because it rejects both God and the wider supersensible-soteriological order
+- **A:** Incorrect: a family-resemblance account expressly denies that any single feature must be shared by every member, which is precisely why it cannot make belief in a creator necessary.
+- **B:** Correct: substantive definitions identify religion by its object, so a God- centred version makes theism analytically necessary and decides the clause by stipulation rather than by evidence drawn from actual traditions.
+- **C:** Incorrect: Smart's dimensions are the standard argument against creator- necessity, and belief in a creator God does not appear on his essential list at all, so this reverses the point of citing him.
+- **D:** Incorrect: functional definitions do the opposite work, since orientation, practice, community and liberation are all available to Buddhism, Jainism and classical Mimamsa without any creator.
 
-**Answer: D.** Cārvāka lacks a sacred order, religious soteriology and disciplined path to liberation. It therefore shows that absence of God alone does not define a non-theistic religion.
-#### 5. Why does Buddhism not require a creator to explain the arising and cessation of suffering?
+**Examiner trap 1:** Scripts that never state which definition of religion they are using lose the clause in the first paragraph; announce the definition, defend it in one line, then apply it consistently to every case you cite.
 
-A. Dependent origination explains both through changing conditions
-B. Devas create each stream of consciousness separately
-C. The Saṅgha allocates karmic fruits infallibly
-D. Nirvāṇa acts as a personal first cause
+#### MCQ 2. Repairing an over-broad functionalism
 
-**Answer: A.** *Pratītyasamutpāda* explains conditioned arising and cessation without adding a divine maker. The creator hypothesis contributes no necessary step to the Buddhist therapeutic sequence.
-#### 6. In Buddhism, what most directly performs the role of a complete practical route to liberation?
+A functional definition is challenged on the ground that it makes nationalism a religion. Which repair keeps the Indian non-theistic cases in and ideology out?
 
-A. Acceptance of an eternal jīva
-B. The Noble Eightfold Path integrating wisdom, ethics and mental cultivation
-C. Petition to an omnipotent Buddha
-D. Speculation about whether the cosmos is eternal
+A. Add a disciplined, socially embodied relation to an ultimate or sacred order together with a transformative or soteriological practice.
 
-**Answer: B.** The Eightfold Path turns the diagnosis of the Four Noble Truths into disciplined religious practice. It is neither creator-worship nor a doctrine of an eternal self.
-#### 7. Which statement about devas in Buddhism is most accurate?
+B. Add that any commitment demanding sacrifice, generating solidarity and organising collective observance already counts as religious.
 
-A. The Buddha’s teaching requires denial of every deva
-B. Their existence makes Buddhism covertly monotheistic
-C. They may exist as conditioned beings but are neither creators nor salvifically ultimate
-D. They are creators but cannot grant liberation
+C. Add a historical restriction confining religion to traditions founded before the modern period and possessing continuous institutional life.
 
-**Answer: C.** Buddhist non-theism concerns the absence of a necessary creator and supreme saviour. Cosmological devas, where accepted, remain impermanent beings within saṃsāra.
-#### 8. What is the best evaluation of devotional Mahāyāna in the present debate?
+D. Add a requirement of belief in miracles or supernatural intervention, while leaving the question of a personal creator open for each tradition.
 
-A. It proves the historical Buddha taught creation by God
+**Answer: A.**
 
-B. It eliminates dependent origination from all Buddhist schools
-C. It turns nirvāṇa into divine reward
-D. It introduces grace-like religious functions without necessarily introducing an omnipotent creator
-**Answer: D.** Buddhas and bodhisattvas may become devotional objects and assist practitioners, but this does not by itself convert them into a single creator God.
-#### 9. Which Jain argument most directly challenges a creator God?
+**Option explanations:**
 
-A. A perfect being lacks an unfulfilled motive to create, while embodiment would limit the creator
+- **A:** Correct: this is the owner's working sufficient cluster; the non-theistic traditions all possess a sacred order and a liberation-directed discipline, while commitments that merely supply meaning and belonging do not.
+- **B:** Incorrect: this widens the definition further rather than narrowing it, because sacrifice, solidarity and a calendar of collective observance are exactly what nationalism already supplies.
+- **C:** Incorrect: an age test tracks nothing conceptual, would admit ancient non-religious ideologies and would arbitrarily expel later religious movements that meet every substantive criterion.
+- **D:** Incorrect: a miracle test is both too narrow, since Mimamsa's ritual efficacy is law-like rather than miraculous, and simply irrelevant to the over-breadth complaint that has been raised.
 
-B. The Veda is authorless and therefore needs no speaker
-C. Nature is the sole substance with infinite attributes
-D. Creation is impossible because only momentary events exist
-**Answer: A.** Jain criticism presses both motive and limitation: perfection supplies no need to create, and embodied action compromises transcendence. The other options belong to different traditions.
-#### 10. What binds the Jain jīva in saṃsāra?
+**Examiner trap 2:** Do not answer the nationalism objection by abandoning functionalism; the mark is earned by adding the sacred-order and soteriological conditions, not by retreating to a God-centred definition.
 
-A. A creator’s arbitrary allocation of bodies
-B. Karmic matter attracted and accumulated through passions and action
-C. Divine punishment for inherited sin
-D. Misidentification of Brahman with māyā alone
+#### MCQ 3. The function that really does need a deity
 
-**Answer: B.** Jainism treats karma as subtle matter that adheres to the jīva. Vows, restraint and ascetic purification stop influx and remove bondage without requiring a divine judge.
-#### 11. What is a Jain siddha?
+On the owner's table of religious functions, which one most clearly does require a personal deity, so that a candid answer has to concede it?
 
-A. The creator who begins cosmic cycles
-B. A Buddhist deity who postpones nirvāṇa
-C. A liberated and perfected jīva, not a governing creator
-D. An eternal scripture that commands ritual
+A. Liberation or salvation, since release from the human predicament must be bestowed by an agent who is genuinely able to grant it.
 
-**Answer: C.** A siddha is an achieved state of liberated consciousness. Veneration of siddhas therefore does not imply belief in a creator who rules or saves by grace.
-#### 12. Which contrast between Jainism and Buddhism is accurate?
+B. Ritual efficacy, since an unseen potency released by correct performance cannot operate unless an intelligent agent supervises the sequence.
 
-A. Buddhism accepts permanent jīvas whereas Jainism denies them
-B. Both depend on a divine dispenser of karmic results
-C. Jainism denies karma whereas Buddhism affirms it
-D. Jainism affirms enduring jīvas; Buddhism rejects a permanent self
+C. Moral motivation, since obligation collapses into mere preference unless a commanding will attaches reward and punishment to conduct.
 
-**Answer: D.** Both are non-creator traditions with karma and liberation, but they sharply differ over personal identity: Jain pluralism affirms jīvas, whereas Buddhism teaches *anātman*.
-#### 13. In Pūrva-Mīmāṃsā, *apauruṣeya* means that the Veda is:
+D. Petitionary prayer, since a responsive addressee who can hear, choose and grant is built into the structure of petition itself.
 
-A. Authorless rather than a revelation spoken by God
-B. Composed by an omniscient ṛṣi under divine inspiration
-C. A fictional text useful despite literal falsity
-D. Valid only after Nyāya proves a reliable speaker
+**Answer: D.**
 
-**Answer: A.** The Veda’s authority does not rest on any human or divine author. Calling it “revelation” would wrongly reintroduce the speaker whose absence is central to Mīmāṃsā.
-#### 14. What problem is *apūrva* introduced to solve?
+**Option explanations:**
 
-A. How a fictionalist can worship sincerely
-B. How a momentary ritual act can produce a delayed result
-C. How consciousness emerges from material elements
-D. How prakṛti first comes into existence
+- **A:** Incorrect: liberation as a generic function is exactly what nirvana, Jain liberation and Samkhya-Yoga isolation deliver without a creator; only grace in its personal-agency sense requires a giver.
+- **B:** Incorrect: Mimamsa's unseen ritual potency (apurva) secures efficacy with no supervising agent at all, and Buddhist and Jain disciplines are held to be efficacious without one either.
+- **C:** Incorrect: compassion, non-injury, karma, vows, insight and human flourishing all supply motivation here, and the full dependence question is routed to the Religion and Morality owner in any case.
+- **D:** Correct: petition is relational by structure, so meditation, aspiration and recitation perform other work without being petition in the same sense; conceding this separates a strong script from a sweeping one.
 
-**Answer: B.** *Apūrva* is the unseen potency generated by ritual that persists until the promised fruit matures. It replaces a divine dispenser with a law-like ritual mechanism.
-#### 15. Jaimini’s definition of dharma as *codanā-lakṣaṇa* primarily grounds dharma in:
+**Examiner trap 3:** Answering that God is required for nothing whatever looks bolder but scores lower; name petition, grace and covenant as genuinely theistic goods and then show that religion as such does not depend on them.
 
-A. The perceived preferences of social majorities
-B. A creator’s independently known will
-C. Vedic injunction
-D. Spontaneous emotion toward nature
+#### MCQ 4. Non-theism, atheism and the firewall between them
 
-**Answer: C.** Dharma is characterised and known through injunction. Its authority is internal to the authorless Vedic structure, not derived from a divine commander.
-#### 16. Which distinction between Kumārila and Prabhākara is most accurate?
+Which statement draws the distinction between non-theism and atheism with the precision this clause demands?
 
-A. Kumārila rejects the Veda while Prabhākara accepts it
-B. Prabhākara explains ritual fruit through divine grace
-C. Kumārila accepts a creator while Prabhākara is a Buddhist
-D. Kumārila stresses *apūrva* as potency, while Prabhākara centres *niyoga/kārya*, the enjoined ought-to-be-done
+A. Non-theism denies every god, spirit and sacred being, while atheism denies only the single omnipotent creator of classical monotheistic religion.
 
-**Answer: D.** Kumārila’s account more explicitly links act and fruit through potency. Prabhākara’s emphasis is deontological: injunction discloses what is to be done.
-#### 17. What explains cosmic evolution in classical Sāṃkhya?
+B. Non-theism means a creator is absent from a tradition's diagnosis and path, whereas atheism is the positive denial that God exists at all.
 
-A. The transformation of prakṛti through its guṇas in proximity to puruṣa
-B. An omnipotent Īśvara imposing forms on inert matter
-C. A sequence of momentary karmic decrees
-D. The self-expression of a single personal Brahman
+C. Non-theism is a politer name for atheism, adopted so that Buddhism and Jainism can be described without giving needless offence to their living practitioners.
 
-**Answer: A.** Sāṃkhya’s dualism treats prakṛti as the evolving principle and puruṣas as conscious witnesses. A creator is not needed for the standard account.
-#### 18. How should Yoga’s Īśvara be distinguished from the creator denied by classical Sāṃkhya?
+D. Non-theism holds that God's existence is unknown or unknowable, while atheism merely suspends judgement until further evidence happens to arrive.
 
-A. Yoga treats Īśvara as a useful fiction known to be false
-B. Yoga presents Īśvara as a special puruṣa, not straightforwardly the world-creator of classical theism
+**Answer: B.**
 
-C. Yoga makes Īśvara the karmic matter binding each jīva
-D. Yoga identifies Īśvara with material prakṛti
-**Answer: B.** Classical Yoga assigns Īśvara a distinctive spiritual role as a special puruṣa. It is misleading simply to insert a creator God into Sāṃkhya’s cosmology.
-#### 19. What is Nyāya’s strongest pressure against impersonal non-theistic order?
+**Option explanations:**
 
-A. No religious tradition may contain ritual
-B. Liberation is logically identical with divine grace
-C. Unconscious principles cannot intelligently organise purposive order or allot fitting karmic fruits
-D. Perception is the only valid *pramāṇa*
+- **A:** Incorrect: this inverts the scope of both terms, since the whole purpose of the non-theistic label is that it leaves lesser deities and devotional practice entirely untouched.
+- **B:** Correct: the owner's firewall is that rejecting a creator does not entail denying every deity, sacred being, devotional act or transcendent value, so absence from the path and denial of existence are different claims.
+- **C:** Incorrect: the distinction is doctrinal rather than diplomatic, since Theravada Buddhism admits cosmological gods while denying both their creatorhood and their salvific ultimacy.
+- **D:** Incorrect: this swaps the standard definitions of agnosticism and atheism and then attaches the wrong one to non-theism, collapsing three separate positions into a single confusion.
 
-**Answer: C.** Nyāya argues from intelligent coordination and moral allotment to Īśvara as maker and superintendent. Non-theistic schools reply that this assumes all regularity must resemble artefact production.
-#### 20. In discussions of Sāṃkhya, the analogy of milk nourishing a calf is used to suggest:
+**Examiner trap 4:** Writing 'Buddhism is atheistic' in the opening line concedes the theist's framing and invites the reply that a godless system cannot be a religion; write 'non-theistic' and state what the word leaves standing.
 
-A. Liberation depends on sacrificial injunction
+#### MCQ 5. Both deliverables of the agnosticism question
 
-B. Every natural process is consciously designed
-C. Puruṣa creates prakṛti out of nothing
-D. Apparently purposive activity need not be directed by a conscious creator
-**Answer: D.** The analogy supports the possibility of non-conscious yet ordered activity. Its force is dialectical against the claim that purposiveness always requires an intelligent maker.
-#### 21. Weak agnosticism is best described as:
+The 2023 question asks what agnosticism is and how agnostics conceptualise the relation between religion and God. Which answer supplies both halves?
 
-A. The claim that God’s existence is not presently known
-B. Belief that nature itself is divine
-C. Indifference to every religious question
-D. The proof that God cannot possibly exist
+A. The claim that the word 'God' carries no determinate meaning, together with the view that the existence question cannot even be coherently formulated.
 
-**Answer: A.** Weak agnosticism reports an unsettled epistemic condition. It neither denies God nor claims that knowledge is impossible in principle.
-#### 22. Strong agnosticism differs from weak agnosticism by claiming that:
+B. Indifference to the question of God, together with the view that religion is an aesthetic preference comparable to a private taste in music or in painting.
 
-A. God probably exists but never intervenes
-B. God’s existence is unknowable, not merely unknown at present
-C. religious language lacks all practical force
-D. every non-theistic religion is secretly atheistic
+C. Suspension of judgement about God, subdivided into weak and strong forms, with continued valuing of religion's ethical and experiential dimensions.
 
-**Answer: B.** Strong agnosticism makes a principled claim about the limits of possible knowledge. That stronger assertion itself requires justification.
-#### 23. Which form of religion is most compatible with agnostic suspension?
+D. Denial of God's existence on evidential grounds, together with the view that religion is a purely social institution that carries no cognitive content whatever.
 
-A. One treating doubt as equivalent to moral wrongdoing
-B. One defining salvation exclusively as an unmerited decree by God
-C. A practice-centred religion allowing ethical, contemplative and communal commitment without settled creator-belief
-D. One requiring certainty about a personal revealer before any practice
+**Answer: C.**
 
-**Answer: C.** Agnosticism can coexist with practice where commitment attaches to a path and transformation rather than assent to a determinate divine ontology.
-#### 24. Which statement correctly distinguishes agnosticism, atheism and Buddhist non-theism?
+**Option explanations:**
 
-A. Agnosticism and atheism are identical, but Buddhism is theism
+- **A:** Incorrect: that is the meaning-first position sometimes labelled ignosticism, whereas agnosticism accepts the question as intelligible and reports it to be unsettled or unsettleable.
+- **B:** Incorrect: indifference is a fourth position that the owner tells you to keep apart from suspension of judgement, which is an epistemic stance held for stated reasons about evidence.
+- **C:** Correct: the stem prints a definition task and a positional task, so the answer must define, sub-divide into 'not known' and 'unknowable', and then state the graded religiosity that withholds assent while retaining practice.
+- **D:** Incorrect: denial is atheism rather than agnosticism, and the reduction of religion to a social institution is a further thesis that suspension of judgement does not by itself entail.
 
-B. Buddhist non-theism is merely emotional indifference to God
-C. All three assert that no divine beings exist
-D. Agnosticism suspends judgement, atheism denies or lacks belief, and Buddhism does not require a creator for its soteriology
-**Answer: D.** The three positions answer different questions: knowability, belief and the doctrinal role of a creator. Collapsing them obscures the exact PYQ demand.
-#### 25. Nietzsche’s statement that God is dead is primarily:
+**Examiner trap 5:** Half-answers that define agnosticism and stop forfeit the second printed deliverable; the stem asks how agnostics relate religion and God, so the graded-religiosity paragraph is compulsory.
 
-A. A cultural diagnosis of the collapse of the Christian-metaphysical horizon and its values
-B. A Nyāya inference from effects to a maker
-C. A defence of Mīmāṃsā ritual authority
-D. A biological report about a once-living deity
+#### MCQ 6. Why the creator hypothesis is idle in Buddhism
 
-**Answer: A.** Nietzsche diagnoses the loss of credibility of the framework supporting inherited European values. The resulting issue is nihilism, not merely whether one proposition about God is false.
-#### 26. In Nietzsche’s genealogy, *ressentiment* helps explain:
+In the Buddhist account, what makes the creator hypothesis explanatorily unnecessary for the problem the tradition sets itself?
 
-A. The Buddhist cessation of craving
-B. The reversal by which weakness is revalued as moral superiority
-C. The Jain materiality of karma
-D. The authorlessness of sacred texts
+A. Dependent origination with karma explains how suffering arises from conditions and ceases when they go, so a maker adds no step to that sequence.
 
-**Answer: B.** *Ressentiment* transforms reactive powerlessness into a moral valuation that condemns strength. It is central to Nietzsche’s criticism of slave morality.
-#### 27. What does Nietzsche propose against passive nihilism after the collapse of the God-framework?
+B. The Buddha demonstrated by inference that no first cause of the world can exist, which closes the cosmological route to God permanently.
 
-A. Restoration of inherited values without their metaphysical basis
-B. Suspension of all judgement in Huxley’s sense
-C. Revaluation, self-overcoming and creation of life-affirming values
-D. Return to divine-command morality
+C. The monastic community allocates karmic fruits to practitioners, taking over the task a divine superintendent would otherwise have to perform.
 
-**Answer: C.** Nietzsche seeks active value-creation rather than resignation. Critics still question whether this supplies a non-arbitrary normative standard.
-#### 28. Why should Nietzschean post-theism not be equated with Buddhist non-theism?
+D. Liberation itself functions as an impersonal first cause from which the conditioned world is derived, so the explanatory role is occupied.
 
-A. Nietzsche grounds value in karmic matter
-B. Nietzsche and Buddhism share an identical doctrine of no-self
-C. Buddhism affirms the Christian creator Nietzsche rejects
-D. Nietzsche responds to the historical collapse of a theistic value-horizon, whereas Buddhism constructs soteriology without needing that creator-horizon
+**Answer: A.**
 
-**Answer: D.** The genealogical situations differ. Nietzsche confronts European nihilism after lost belief; Buddhism begins from suffering, dependent origination and a path of cessation.
-#### 29. Which *pramāṇa* does the strong Cārvāka position accept as independently valid?
+**Option explanations:**
 
-A. Perception (*pratyakṣa*)
-B. Inference (*anumāna*)
-C. Postulation (*arthāpatti*)
-D. Testimony (*śabda*)
+- **A:** Correct: craving and ignorance condition suffering and the path removes the conditions, so a creator neither enters the diagnosis nor performs work in the cure, which makes the hypothesis idle rather than refuted.
+- **B:** Incorrect: no such demonstration is claimed anywhere in the owner; the case is that the creator hypothesis is idle for the therapeutic problem, not that its impossibility has been proved.
+- **C:** Incorrect: no community allocates karmic results in this account; the Sangha sustains practice and transmission, while the moral-causal order operates as law rather than as administration.
+- **D:** Incorrect: nirvana is the goal of the path rather than a cosmological origin, and treating it as a first cause quietly reimports the very creator structure that Buddhism manages without.
 
-**Answer: A.** Strong Cārvāka empiricism restricts knowledge to perception. Its religious critique follows by denying any secure route to imperceptible entities.
-#### 30. Why does Cārvāka challenge *vyāpti*?
+**Examiner trap 6:** Do not argue that Buddhism disproves God; argue that it dispenses with God, since the printed stems ask whether religion is possible without God, not whether God has been refuted.
 
-A. It is identical with verbal testimony
-B. A universal concomitance cannot be secured from finitely perceived particular cases
+#### MCQ 7. The undeclared questions, used at their real scope
 
-C. It presupposes an eternal self but not inference
-D. It is a divine decree unavailable to non-believers
-**Answer: B.** Perception reaches observed instances, not every remote, past or future case. Using inference to prove its own universal basis threatens regress or circularity.
-#### 31. What does the *upādhi* objection show?
+What is the correct examination use of the Buddha's undeclared questions (avyakata) in a religion-without-God answer?
 
-A. Scripture is valid only when authorless
-B. A creator must possess a physical body
-C. An unnoticed conditioning factor may make an observed relation contingent rather than universal
-D. Every perceived object is illusory
+A. They show that the Buddha treated all religious language as meaningless, anticipating the verification principle by more than two millennia.
 
-**Answer: C.** Smoke accompanies fire only under relevant conditions such as wet fuel. Failure to exclude every hidden condition leaves possible deviation and weakens certainty.
-#### 32. What is the importance of the reported Purandara strand?
+B. They record the Buddha's own uncertainty, so Buddhism is best classified as a developed form of strong agnosticism about the divine.
 
-A. It proves all inference infallible
+C. They concern particular speculative issues the path does not require, and must not be offered as the whole Buddhist case against a creator.
 
-B. It makes Cārvāka a devotional religion
-C. It accepts Vedic testimony but rejects perception
-D. It may permit ordinary perceptually checkable inference while denying inference to the supersensible
-**Answer: D.** This moderate reading avoids global self-refutation and targets precisely the extension of inference beyond any domain where concomitance can be checked.
-#### 33. John Dewey’s idea of “the religious” refers primarily to:
+D. They are a formal declaration that no divine being of any kind exists, which is why Buddhism is properly classified as an atheistic religion.
 
-A. A quality of experience unifying the self around inclusive ideal ends
-B. Ritual action producing *apūrva*
-C. Membership in a church affirming supernatural creation
-D. Fictional assent to propositions known to be false
+**Answer: C.**
 
-**Answer: A.** In *A Common Faith*, Dewey separates institutional religion from a transformative quality of experience. His use of “God” does not denote a supernatural personal being.
-#### 34. Ronald Dworkin’s “religious atheism” centres religion on:
+**Option explanations:**
 
-A. Acceptance of karma as material particles
-B. Objective intrinsic value in human life and the sublimity of the universe without a personal God
-C. Refusal to make any value claim beyond empirical science
-D. Worship of a creator whose existence is unknowable
+- **A:** Incorrect: this smuggles in a semantic thesis owned by the Religious Language clause, whereas the undeclared questions concern profitability for the path rather than meaningfulness.
+- **B:** Incorrect: the refusal is pedagogical and soteriological rather than a confession of ignorance, and importing the agnostic label blurs the four negative positions the clause asks you to separate.
+- **C:** Correct: the owner restricts their scope deliberately, since setting certain metaphysical questions aside as unprofitable is a far narrower claim than a doctrinal denial that any divine being exists.
+- **D:** Incorrect: silence about a question is not denial of its subject matter, and the atheistic label is exactly the imprecision this clause is designed to penalise in the opening paragraph.
 
-**Answer: B.** Dworkin relocates religious depth in value realism and cosmic sublimity. His position is atheist in ontology but religious in its response to objective value.
-#### 35. How does religious fictionalism differ from non-cognitivism?
+**Examiner trap 7:** The poisoned-arrow parable illustrates the urgency of removing suffering, not the non-existence of gods; use it to explain why speculation is deferred, never as proof of atheism.
 
-A. There is no philosophical difference between them
-B. Fictionalism says religious claims are literally true but unknowable
-C. Fictionalism grants truth-conditions but declines assertion; non-cognitivism denies that the discourse primarily states truth-apt propositions
+#### MCQ 8. Gods inside the cosmology, and devotional Mahayana
 
-D. Non-cognitivism recommends pretending that false propositions are true
-**Answer: C.** The fictionalist treats religious sentences in a non-assertoric, practice-internal spirit despite their ordinary truth-conditions. Non-cognitivism interprets their basic function differently from the start.
-#### 36. What is the sincerity objection to religious fictionalism?
+Which statement handles gods within Buddhism, and later devotional Mahayana, without conceding the theist's point?
 
-A. Fictionalism requires belief in two creators
+A. Devotional Mahayana shows that Buddhism became straightforwardly theistic, so only the earliest Buddhism can still count as evidence against creator-necessity.
 
-B. Its rituals are too intellectually demanding
-C. Natural processes cannot evoke reverence
-D. Worship undertaken without belief may seem dishonest, self-deceptive or motivationally hollow
-**Answer: D.** Fictionalists reply that non-deceptive imaginative immersion is common in literature and ritual drama. Whether that preserves worship’s motivational depth remains contested.
-#### 37. Why is Advaita’s two-level account not simply religious fictionalism?
+B. Because gods appear in the cosmology, Buddhism is covertly monotheistic and its non-theism is really a modern Western reconstruction of the living tradition.
 
-A. Saguṇa practice is valid and efficacious at the conventional level and later sublated, not merely treated as knowingly false pretence
-B. Saguṇa Brahman is a Cārvāka metaphor for matter
-C. Advaita accepts only bodily perception
-D. Advaita denies any distinction between levels of truth
+C. Buddhist teaching requires denial of every god, so any text that mentions them must be treated as a later devotional corruption of the original doctrine.
 
-**Answer: A.** *Vyāvahārika* validity is not theatrical make-believe. Sublation from the *pāramārthika* standpoint preserves graded truth and practitioner sincerity.
-#### 38. What comparative use can be made of Buddhism’s two truths?
+D. Gods and Brahma figures remain impermanent beings inside rebirth, and Buddhas and bodhisattvas may carry devotional functions without becoming a creator.
 
-A. They establish a permanent creator at the ultimate level
-B. They permit committed conventional practice while denying ultimate substantial reference
-C. They reject the Saṅgha as an error to be abandoned immediately
-D. They prove that all conventional claims are meaningless
+**Answer: D.**
 
-**Answer: B.** The *saṃvṛti–paramārtha* distinction explains how practice can remain serious without treating conventional entities as ultimately substantial. This differs from mere fictional pretence.
-#### 39. What most clearly distinguishes non-theistic religion from secular ethics?
+**Option explanations:**
 
-A. Secular ethics necessarily denies objective value
-B. Non-theistic religion always predicts supernatural miracles
-C. Non-theistic religion embeds ethics within sacred or ultimate order, communal discipline and a transformative-soteriological goal
-D. Secular ethics cannot form communities
+- **A:** Incorrect: performing a religious function is not the same as occupying the creator role, so the concession is unnecessary and the counterexample survives the devotional development intact.
+- **B:** Incorrect: a plurality of impermanent beings is not monotheism, and the reconstruction charge ignores the tradition's own doctrinal denial that any of those beings created or can finally save.
+- **C:** Incorrect: the owner states plainly that Buddhism does not deny every deity, and the corruption move is a textual claim that none of the controlling sources here supports.
+- **D:** Correct: this holds both lines at once, denying creatorhood and salvific ultimacy to the gods while conceding that being non-theistic does not make a tradition devotion-free.
 
-**Answer: C.** Ethical rules alone are insufficient. Buddhism and Jainism place conduct within comprehensive accounts of bondage, practice and liberation.
-#### 40. Which is the most defensible overall verdict on religion without God?
+**Examiner trap 8:** Examiners reward the sentence separating religious function from ontological status: devotion to a Buddha performs some of what worship performs without installing an omnipotent maker.
 
-A. God is irrelevant to every possible religious good
-B. Every form of atheism is automatically a religion
-C. Only creator-belief can distinguish religion from politics
-D. God is necessary for specifically theistic goods such as petition and grace, but not for religion organised around sacred order, practice and liberation
+#### MCQ 9. What orients Buddhist religious life
 
-**Answer: D.** The verdict avoids both extremes. It recognises real losses when personal theism is absent while accepting historically complete non-theistic religions.
+Which formulation of what organises Buddhist religious life, in the absence of a creator, is the most defensible in an answer?
+
+A. Teaching, community and liberation organise doctrine, practice and value without working as one-for-one substitutes for a personal creator.
+
+B. Dharma occupies the place of God, the Sangha the place of the church and nirvana the place of heaven, so the two religious structures map onto each other one to one.
+
+C. Meditative attainment alone organises Buddhist life, since ethics and community are later cultural additions rather than constitutive parts of the path.
+
+D. The Four Noble Truths function as revealed propositions from an authority whose reliability has first to be accepted on faith before practice can begin.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the qualification does the work, because saying that these simply replace God invites the hidden-God objection that non-theistic religion is theism operating under other names.
+- **B:** Incorrect: functional similarity does not establish ontological identity, and this neat mapping is exactly the concession that the hidden-God objection needs in order to succeed.
+- **C:** Incorrect: moral discipline and the community are constitutive elements of the eightfold path and of its institutional form, not optional cultural accretions added afterwards.
+- **D:** Incorrect: they are presented as a diagnosis to be tested in practice, and propositional revelation from a divine speaker is one of the functions this clause identifies as genuinely theistic.
+
+**Examiner trap 9:** The examiner is watching for the phrase 'not a one-for-one substitute'; without it your own Buddhist paragraph hands the theist the reply he needs.
+
+#### MCQ 10. The Jain case against a creator
+
+Which pair of considerations captures the Jain argument against a creator God as the owner states it?
+
+A. Scripture is authorless and therefore needs no divine speaker, so the whole argument from the reliability of a speaker collapses at once.
+
+B. Only momentary events exist, so there is no persisting agent capable of performing a single sustained act of world-creation at any point whatever.
+
+C. The world is eternal and uncreated, and consciousness emerges from the body, so no soul survives that would require a maker to account for it.
+
+D. A perfect being has no unfulfilled motive that creating could satisfy, and an embodied creator would be limited by the embodiment that action requires.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: that is the Mimamsa route through the authorless Veda, which is a different counterexample resting on a different mechanism from the Jain motive and embodiment arguments.
+- **B:** Incorrect: momentariness is a Buddhist thesis, while Jain metaphysics is explicitly substantialist about souls and matter and could not use this premise without abandoning its own ontology.
+- **C:** Incorrect: the second half is Carvaka's materialist thesis, whereas Jainism affirms innumerable eternal souls and a genuine liberation, both of which materialism denies outright.
+- **D:** Correct: motive and limitation are the two Jain pressures, and the same argument family reappears in Kumarila's attack on the possibility of a bodiless agent acting upon matter.
+
+**Examiner trap 10:** Never describe the liberated Jain soul as a creator God under another name; it is an achieved perfection rather than a governing one, and that difference defeats the hidden-God objection.
+
+#### MCQ 11. Authorless scripture is not revelation
+
+Why must the Mimamsa Veda never be described in an answer as revelation?
+
+A. Because it was composed by human seers whose insight is treated as authoritative only within the boundaries of the ritual tradition.
+
+B. Because it is held to be authorless, so its authority does not depend on the reliability of any speaker, whether divine or human.
+
+C. Because revelation there is delivered through the deities named in the mantras, who dictate the injunctions to the priesthood.
+
+D. Because Mimamsa treats the Veda as literally false yet pragmatically useful for organising the ritual life of a community.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: human composition is exactly what the doctrine denies, since a composed text would inherit its author's fallibility and the school's whole case rests on avoiding that.
+- **B:** Correct: revelation presupposes a revealer, and the Mimamsa claim is that eternal, unauthored injunction needs no speaker whose trustworthiness would first have to be established by some further argument.
+- **C:** Incorrect: those deities function as elements within the ritual structure, the dative to which the oblation is offered, and are not agents who hear, choose, dictate or grant anything.
+- **D:** Incorrect: this imports modern fictionalism into a school whose injunctions are held to be intrinsically valid, and intrinsic validity is incompatible with treating them as useful falsehoods.
+
+**Examiner trap 11:** One careless sentence calling the Veda 'revealed' surrenders the whole Mimamsa counterexample, because revelation reinstates the divine speaker the school has just removed.
+
+#### MCQ 12. How Mimamsa defines what it studies
+
+Jaimini's Mimamsa-sutra 1.1.2 defines dharma. Which reading of that definition is accurate and examinable?
+
+A. Dharma is what is characterised by Vedic injunction and is beneficial, so it is known from injunction alone and never from perception or inference.
+
+B. Dharma is the eternal moral law inscribed in the nature of things and therefore knowable by unaided human reason working from the observed order of things.
+
+C. Dharma is whatever produces the greatest welfare, so injunctions may be revised whenever their consequences turn out on inspection to be harmful in ordinary ritual practice.
+
+D. Dharma is the command of a supreme being, transmitted through the Veda and enforced by the fruits that are assigned to agents in a life after death.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: the sutra reads codana-laksano 'rtho dharmah, and the epistemic consequence is the reason for citing it, since injunction is made the sole source of the knowledge of dharma.
+- **B:** Incorrect: natural-law knowability is exactly what Mimamsa denies, because perception and inference are held to be incapable of reaching dharma at all, which is why injunction is required.
+- **C:** Incorrect: this converts a scriptural criterion into a consequentialist one and loses the school's distinctive claim that injunction is epistemically prior to any assessment of outcomes.
+- **D:** Incorrect: this is divine-command theory, and it reinstates both the divine speaker and the divine dispenser that classical Mimamsa argues at length are entirely unnecessary.
+
+**Examiner trap 12:** If you cite the sutra, cite it for the epistemic point that dharma is knowable only from injunction; quoting it as decoration without that consequence earns no marks at all.
+
+#### MCQ 13. The argument that generates apurva
+
+Which reconstruction of the Mimamsa argument for the unseen potency (apurva) is correct in both its structure and its epistemic status?
+
+A. The promised fruit is purely psychological, consisting in the confidence the performer gains from having discharged the standing injunction properly and in order.
+
+B. Ritual acts are observed to generate a subtle physical residue in the performer, and that residue is then directly perceived by sufficiently advanced practitioners.
+
+C. A momentary act cannot produce a much later fruit, so a persisting potency is postulated to bridge them and admitted as a postulate, not as something observed.
+
+D. A supervising deity records each performance and assigns the promised fruit at the appropriate time, and the technical term simply names the record that is kept in this way.
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the promised results are objective states of affairs in the school's own account, and a psychological reading dissolves the very problem that the postulate was introduced to solve.
+- **B:** Incorrect: nothing whatever is claimed to be perceived here, and treating the potency as an observed entity is a listed trap that misstates the school's own account of how it is known.
+- **C:** Correct: the injunction promises a delayed result, the act perishes, a perished cause cannot produce a later effect, and the school's own epistemology licenses postulation to explain an otherwise inexplicable fact.
+- **D:** Incorrect: this is the Nyaya superintendent that the postulate exists to make unnecessary, so the reading inverts the argument and hands the theist back the function Mimamsa has removed.
+
+**Examiner trap 13:** State all five steps or none; a bare assertion that ritual generates apurva, without the perished-cause problem, reads as vocabulary rather than as argument.
+
+#### MCQ 14. Kumarila against Prabhakara
+
+How do the two classical Mimamsa schools differ in their treatment of the injunction and its fruit?
+
+A. Kumarila accepts a creator God as the guarantor of ritual efficacy, whereas Prabhakara rejects any such divine guarantor of the system entirely.
+
+B. Kumarila treats the unseen potency as a power in the act or agent linking deed to fruit; Prabhakara recentres the analysis on the sheer ought-to-be- done.
+
+C. Kumarila regards ritual as symbolic self-expression, while Prabhakara regards the ritual act itself as genuinely and causally efficacious.
+
+D. Kumarila holds that the Veda has a divine author while Prabhakara holds that it is authorless, which is why only the second of the two schools genuinely avoids theism.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: Kumarila's Slokavarttika contains sustained arguments against a creator, including the motive problem and the impossibility of a bodiless agent acting upon matter.
+- **B:** Correct: the difference carries an ethical payoff, since Prabhakara's account is closer to a deontology of the injunction and Kumarila's to a consequential mechanism of desert.
+- **C:** Incorrect: neither treats ritual as symbolic self-expression and the efficacy claim is shared, so the disagreement has to be located in what the injunction primarily discloses.
+- **D:** Incorrect: authorlessness is common ground for classical Mimamsa, and the dispute between the two concerns the analysis of injunction and fruit rather than the origin of the text.
+
+**Examiner trap 14:** Naming Kumarila and Prabhakara without stating the deontology-versus- desert consequence is name-dropping; the distinction earns marks only when the ethical payoff is spelt out.
+
+#### MCQ 15. Answering Nyaya's superintendent argument
+
+Nyaya objects that an unconscious potency cannot select the right fruit for the right agent at the right time. What is the Mimamsa reply?
+
+A. That the question of allocation is unanswerable and should be set aside in the manner of the questions the Buddha left formally undeclared.
+
+B. That fruits are allotted by liberated souls who have completed the ritual path and and who now supervise the operation of that path on behalf of others.
+
+C. That the relation is law-like rather than deliberative, and that the objection begs the question by assuming only agents can produce determinate outcomes.
+
+D. That the deities named in the mantras perform the selection, so an intelligent allocator is quietly retained within the ritual system after all.
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the undeclared questions belong to the Buddhist material, and Mimamsa offers a positive account of how act and fruit are connected rather than a refusal to answer.
+- **B:** Incorrect: this borrows Jain vocabulary and installs a governing agency that both schools deny, since liberated beings on either account do not administer the world or its rewards.
+- **C:** Correct: the exchange turns on whether determinate results require deliberation, and Mimamsa holds that regular natural law delivers determinate outcomes without any selecting mind supervising them.
+- **D:** Incorrect: those deities are elements within the ritual structure rather than agents who hear, choose and grant, so this concedes precisely the objection it was supposed to answer.
+
+**Examiner trap 15:** Do not answer Nyaya by attacking theism in general; answer the specific allocation argument, because that is where a fifteen-mark script separates itself from a ten-mark one.
+
+#### MCQ 16. Samkhya, Yoga and the non-creating Isvara
+
+Which statement handles classical Samkhya and Yoga correctly inside a religion-without-God answer?
+
+A. Both reduce liberation to the cessation of the material world itself, so the stated goal is cosmic dissolution rather than any individual release at all.
+
+B. Samkhya treats consciousness as a product of material evolution, which is why it needs no creator at all to explain the first arising of conscious awareness.
+
+C. Both systems posit a creator who superintends the evolution of nature, so neither of the two can serve as a genuine case of religion without God.
+
+D. Samkhya derives evolution from nature in proximity to plural selves and seeks isolation, while Yoga's special self is not straightforwardly a creator.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: isolation is the discriminative release of the self from entanglement with evolving nature, and it neither requires nor asserts the annihilation of nature as such.
+- **B:** Incorrect: that is the materialist thesis, whereas Samkhya holds consciousness to be an irreducible principle wholly distinct from the evolving material order it illuminates.
+- **C:** Incorrect: classical Samkhya is a standard non-theistic case in the owner, and even Yoga's Isvara is a special self rather than a maker or governor of the world process.
+- **D:** Correct: keeping the two systems apart on this point prevents the common error of importing Yoga's Isvara into classical Samkhya and thereby destroying the counterexample being offered.
+
+**Examiner trap 16:** The objection that unconscious principles cannot organise ends is answered by denying that observed regularity must be modelled on artefact production; the milk-and-calf analogy does exactly that work.
+
+#### MCQ 17. The route the 2025 directive is buying
+
+The 2025 question asks for Carvaka's critique of belief in suprasensible entities. Which route through the material does the directive actually buy?
+
+A. The linguistic route: terms for suprasensible entities fail a criterion of meaning, so claims that involve them turn out to be neither true nor false.
+
+B. The epistemological route: perception alone is a means of knowledge, and inference fails because invariable concomitance cannot itself be established.
+
+C. The historical route: the school documents that religious institutions arose to secure ritual income, which explains belief in unseen entities.
+
+D. The ethical route: since pleasure and wealth are the only real human ends, religious goods stand exposed as fabrications serving established priestly interests.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: that is verificationism, owned by the Religious Language clause, whereas Carvaka grants that the claims are meaningful and denies only that they can ever be known.
+- **B:** Correct: the directive asks for the argument of the critique rather than its conclusions, so the analysis of the means of knowledge, not the hedonist slogans, is what the examiner is paying for.
+- **C:** Incorrect: a sociological genealogy is not what the reported Carvaka argument offers, and the surviving verses are doxographic quotations rather than historical evidence of any kind.
+- **D:** Incorrect: the reduction of human ends is a consequence of the epistemology, so an answer built on hedonism misses the printed demand for the argument of the critique itself.
+
+**Examiner trap 17:** The hedonist couplet and the verses attributed to Brhaspati survive only in opponents' doxographies, chiefly Madhava's Sarvadarsanasamgraha; report them as such, and never build the answer on them.
+
+#### MCQ 18. The concomitance problem, stated in full
+
+Which statement gives the Carvaka attack on inference completely, including the residue that survives however often the concomitance is observed?
+
+A. Concomitance is known by repeated observation, but observation is unreliable because the senses are frequently deceived by illusion, by dream and by defect.
+
+B. Inference is valid for the supersensible but invalid for ordinary matters, since everyday judgements are contaminated by practical interest.
+
+C. Inference is invalid because the mark and the inferred object are never once present together within any one single and complete act of perception.
+
+D. Concomitance is unreachable by perception, by inference and by testimony, and an unnoticed conditioning factor can never be conclusively excluded.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: this is the parity argument used by critics against Carvaka rather than the Carvaka case, and it concedes at the outset that concomitance can in fact be known.
+- **B:** Incorrect: this exactly reverses the reported Purandara position, which admits ordinary inference while denying it for what lies beyond the reach of the senses altogether.
+- **C:** Incorrect: co-presence in particular cases is exactly what the argument grants; the difficulty lies in the leap from observed particulars to an unrestricted universal covering unobserved cases.
+- **D:** Correct: the three closed routes plus the conditioning-factor residue constitute the whole argument, and it is the residue that reduces inference from certainty to mere probability.
+
+**Examiner trap 18:** An answer saying only that 'Carvaka rejects inference', without the concomitance analysis and the conditioning-factor residue, has stated a conclusion and omitted the argument the directive demanded.
+
+#### MCQ 19. Self-refutation, and the two replies that are required
+
+The claim that no inference is valid looks self-refuting. Which pair of replies does the owner require an answer to supply?
+
+A. The appeal to scriptural silence, since no accepted text asserts the validity of inference anywhere in so many words, or in any equivalent formula.
+
+B. The appeal to practical success, since the school's followers manifestly survive and prosper in daily life while relying upon perception alone.
+
+C. The dialectical reading, on which the denial is pressed from inside the opponent's own commitments, and the reported strand admitting ordinary inference only.
+
+D. The appeal to Nyaya's devices, since repeated uncontradicted observation and hypothetical reasoning are conceded by both parties to the dispute.
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: Carvaka rejects scriptural authority outright, so an argument resting on what scripture does or does not assert is simply unavailable to the school in the first place.
+- **B:** Incorrect: this is the pragmatic argument used against Carvaka, because no one, including a Carvaka, can eat, speak, teach or argue without relying on inference constantly.
+- **C:** Correct: these are the two moves that rescue the school from a self- defeating universal claim, and the second yields the far more defensible thesis about the limits of inference.
+- **D:** Incorrect: those are Nyaya's positive defence of concomitance and are precisely what Carvaka contests, so they cannot be pressed into service as a Carvaka reply at all.
+
+**Examiner trap 19:** Leaving the self-refutation charge unanswered forfeits the evaluation marks; give the dialectical reading and the reported moderate strand, and flag that the evidence for the latter is fragmentary.
+
+#### MCQ 20. Consciousness, order and the four elements
+
+Which set of Carvaka applications to religion is correctly matched to the device that supports it?
+
+A. Consciousness emerges from the body, illustrated by intoxicating power arising from combined ingredients, and order follows from things acting by their own nature.
+
+B. Consciousness is a mode of one single substance, nature, and order follows from the necessity with which that single substance's own attributes unfold.
+
+C. Consciousness is a stream of momentary events, and order is explained by dependent conditioning that holds among those very momentary events themselves.
+
+D. Consciousness is an eternal substance temporarily housed in the body, and cosmic order is explained by the slow and gradual ripening of deeds performed in past lives.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: emergence removes survival, transmigration and liberation together, while the own-nature explanation removes any need for a designer of the thorn's sharpness or the peacock's colour.
+- **B:** Incorrect: that is Spinoza's apparatus, which the owner names as the historical ancestor of religious naturalism rather than as anything belonging to Carvaka materialism.
+- **C:** Incorrect: momentariness and dependent conditioning are Buddhist doctrines, and Buddhism retains exactly the supersensible order that Carvaka's epistemology closes off completely.
+- **D:** Incorrect: both halves are exactly what Carvaka denies, since an eternal conscious substance and karmic ripening are among the supersensible postulates directly under attack.
+
+**Examiner trap 20:** The four gross elements exhaust reality on this view and ether is rejected as imperceptible; getting that list wrong signals that the epistemology behind it has not been understood.
+
+#### MCQ 21. Why Carvaka is the limiting case
+
+Why is it a mark-earning move to deny that Carvaka is itself an instance of religion without God?
+
+A. Because its texts survive only in the works of opponents, and a tradition without its own surviving scripture cannot properly be counted as a religion.
+
+B. Because it denies rebirth, and any system without rebirth falls outside the recognised Indian category of religion altogether and at once.
+
+C. Because it is a school of philosophy rather than a tradition, and philosophy is never counted as religion within the classical Indian doxographic context.
+
+D. Because it has no soteriology, sacred order, community of practice or ultimate concern, and so shows what non-theistic religions actually retain.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the transmission problem is a source-discipline point governing how the verses may be quoted, and it is not a criterion of religious status at all.
+- **B:** Incorrect: rebirth is not the criterion in play here, and adopting it would wrongly expel non-Indian non-theistic positions by applying a purely local test to them.
+- **C:** Incorrect: Samkhya and Mimamsa are also philosophical schools yet function as religious systems in this clause, so the philosophy label does not settle the classification question.
+- **D:** Correct: the contrast is the point, since Buddhism, Jainism and Mimamsa survive the loss of God while Carvaka closes the epistemic route to any supersensible object and ends in no religion at all.
+
+**Examiner trap 21:** The verdict formula is that the critique succeeds exactly as far as its epistemology does: the strong thesis is self-refuting and unliveable, the moderate thesis is unrefuted and fatal to inference-based natural theology.
+
+#### MCQ 22. Nietzsche's diagnosis, and who owns the question
+
+Which handling of Nietzsche is correct both philosophically and in terms of syllabus ownership?
+
+A. It is a historical report of declining church attendance in nineteenth- century Europe, and it therefore belongs to sociology rather than to philosophy proper.
+
+B. It is a theological thesis about divine self-emptying, so Nietzsche's target turns out to be only one particular Christian doctrine of God among many.
+
+C. It is a cultural diagnosis of a collapsed value horizon, and the printed question coupling religion with morality belongs to the Religion and Morality owner.
+
+D. It is a compressed argument for atheism, establishing by inference from the problem of evil that no deity of the traditional theistic kind exists at all.
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: reducing the declaration to an empirical event is a listed trap, since the claim concerns the unbelievability of an entire framework rather than attendance statistics.
+- **B:** Incorrect: no source in this clause supports that reading, and it dissolves a cultural diagnosis into a theological doctrine that Nietzsche is certainly not defending.
+- **C:** Correct: this clause keeps Nietzsche as a critique of theistic religion and as the bridge to post-theistic value, while the full genealogical dossier is routed to the neighbouring owner file.
+- **D:** Incorrect: it is not an existence proof at all, and attaching it to the problem of evil confuses two separate clauses with two quite different owners and demands.
+
+**Examiner trap 22:** Nietzsche mourns a horizon that Buddhism and Jainism never possessed; using him as a general spokesman for religion without God confuses post- theism with non-theism.
+
+#### MCQ 23. Dewey and Dworkin on religion within nature
+
+Which pairing of thinker and thesis in religious naturalism is accurate as the owner states it?
+
+A. Dewey separates religion as institution from the religious as a unifying quality of experience; Dworkin rests religious atheism on value and cosmic sublimity.
+
+B. Dewey argues that religious language is non-assertoric make-believe, while Dworkin defends a personal God stripped of the attribute of omnipotence.
+
+C. Dewey identifies God with the natural universe taken as a single substance, while Dworkin identifies God with humanity's own idealised and projected essence.
+
+D. Both hold that religious naturalism requires abandoning ritual and community, since both of these are held to be inseparable from supernatural belief.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: Dewey proposes using the word God for the active relation between the ideal and the actual, and Dworkin makes value realism rather than theism the core of what is religious about religion.
+- **B:** Incorrect: non-assertoric participation is fictionalism rather than naturalism, and Dworkin's position is explicitly atheistic about any personal God whatever.
+- **C:** Incorrect: the first formula is Spinoza's and the second is Feuerbach's projection thesis, so neither belongs to the thinker to whom it has here been attached.
+- **D:** Incorrect: naturalists defend themselves precisely by pointing to reverence, communal practice and self-transformation as the religious elements that survive the loss of supernatural ontology.
+
+**Examiner trap 23:** The objection that this is ethics and aesthetics in religious vocabulary is met by naming ultimacy, reverence, community and transformation, and by noting that demanding a supernatural person merely restates theism.
+
+#### MCQ 24. Fictionalism, error theory and non-cognitivism
+
+Which set of distinctions among the modern non-theistic positions is correct?
+
+A. All three are versions of religious naturalism, differing only in how much reverence each of them recommends towards the natural world as it stands.
+
+B. Error theory calls the claims false and abandons them, non-cognitivism denies they have truth-conditions, and fictionalism grants these and declines to assert.
+
+C. Non-cognitivism and fictionalism agree that religious sentences lack truth-conditions and differ only over which of the inherited rituals ought to be retained.
+
+D. Fictionalism and error theory agree that the claims are false and differ only over whether that falsity ought in honesty to be publicised to ordinary worshippers.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: naturalism asserts its claims about ultimacy within nature and therefore stands apart from all three, and merging the four is expressly listed among the clause's traps.
+- **B:** Correct: fictionalism is defined by the refusal to assert rather than by a verdict on meaning or by abandonment of the practice, which is why it stands as a genuinely distinct third position.
+- **C:** Incorrect: the fictionalist grants that religious sentences have truth- conditions, which is the entire point of declining to assert them rather than denying that they mean anything.
+- **D:** Incorrect: the difference has nothing to do with publicity and everything to do with whether the practice is abandoned or accepted and continued in a non-assertoric spirit.
+
+**Examiner trap 24:** Advaita's everyday level is not fictionalism: sublation is not falsification, and the two-level device preserves the practitioner's sincerity in a way explicit make-believe cannot.
 
 #### REMEDIAL DIAGNOSTIC MCQS — 8
-#### 41. Which statement avoids confusing non-theism with atheism?
 
-A. A non-theistic religion need not make a creator central, even if it admits conditioned divine beings
+#### MCQ 25. Remedial — “Buddhism is an atheistic religion”
 
-B. Non-theism is another name for indifference to metaphysics
-C. Every non-theistic tradition proves that no deity of any kind exists
-D. Atheism necessarily includes ritual, community and liberation
-**Answer: A.** Non-theism concerns the absence of a necessary creator or supreme saviour in the system. It does not by itself entail denial of all devas, sacred beings or religious practice.
-#### 42. Which pairing of definition and criterion is correct?
+Which correction is best?
 
-A. Substantive—whether practice leads to social solidarity alone
-B. Functional—how religion supplies orientation, community or transformation
-C. Functional—whether a personal creator literally exists
-D. Substantive—what psychological benefit religion produces
+A. It is atheistic in the strict sense, since the undeclared questions amount to a formal doctrinal denial that any divine being whatever exists at all.
 
-**Answer: B.** Substantive definitions identify religion through its object or content; functional definitions identify the roles it performs. A strong answer states which one it is using and controls its breadth.
-#### 43. Why does the Buddhist denial of a necessary creator not amount to denial of religion?
+B. It is agnostic rather than atheistic, since the Buddha suspended judgement on a creator for want of sufficient evidence pointing decisively in either direction.
 
-A. The Buddha replaces karma with divine judgement
-B. Buddhist devas jointly create the universe
-C. Buddhism retains Dharma, path, Saṅgha, ethics, meditation and liberation
-D. Buddhism secretly makes nirvāṇa an omnipotent person
+C. It is better described as non-theistic, since a creator is absent from the diagnosis and path while impermanent gods and devotional practice are not denied.
 
-**Answer: C.** Buddhism lacks creator-theism but has a complete soteriological form. The confusion disappears once “no creator” is separated from “no sacred order or transformative practice.”
-#### 44. Which statement about Jain jīva is correct?
+D. It is theistic in its later forms, so no single label applies and the classification question should simply be left open for each separate school.
 
-A. It is produced by karmic matter and ends at liberation
-B. It is the single creator-self common to all beings
-C. It is denied as a permanent entity exactly as in Buddhism
-D. It is an enduring conscious substance bound by karma and capable of becoming a liberated siddha
+**Answer: C.**
 
-**Answer: D.** Jainism is pluralistic about souls. Karmic matter obscures and binds jīvas; liberation perfects rather than annihilates them.
-#### 45. Which combination explains how Mīmāṃsā functions without a deity?
+**Option explanations:**
 
-A. *Apauruṣeya* secures authorless Vedic authority, while *apūrva* links ritual to delayed fruit
-B. *Apauruṣeya* denotes karmic matter, while *apūrva* denotes a liberated jīva
-C. Both terms name attributes of Yoga’s Īśvara
-D. *Apauruṣeya* is God’s revelation, while *apūrva* is divine forgiveness
+- **A:** Incorrect: silence about a set of speculative questions is not denial of their subject matter, and the undeclared questions have a deliberately restricted scope.
+- **B:** Incorrect: agnosticism is an epistemic verdict about evidence, whereas the Buddhist point is that the creator question is idle for the therapeutic path being prescribed.
+- **C:** Correct: it repairs the label and states what the label leaves standing, which is exactly what the owner's firewall between non-theism and atheism requires of a script.
+- **D:** Incorrect: devotional development does not install an omnipotent creator, and refusing any label evades the very discrimination the examiner is testing in this clause.
 
-**Answer: A.** The two devices replace different divine functions: no author is needed for scripture, and no intelligent dispenser is needed for ritual consequences.
-#### 46. Which statement correctly locates classical Sāṃkhya?
+**Examiner trap 25:** Correcting the label without saying what non-theism permits leaves half the error standing; name the impermanent gods and the devotional practice in the same sentence.
 
-A. It treats *apūrva* as the cause of the guṇas
-B. It explains evolution through prakṛti and liberation through discriminating puruṣa from prakṛti, without requiring a creator
-C. It denies puruṣa and accepts only momentary events
-D. It identifies liberation with eternal service to a creator
+#### MCQ 26. Remedial — “Carvaka is the clearest religion without God”
 
-**Answer: B.** Sāṃkhya’s non-theistic dualism differs both from Buddhist no-self and from Mīmāṃsā ritualism. Yoga’s special puruṣa should not be confused with a standard creator.
-#### 47. Which pair of interpretations is accurate?
+Which correction is best?
 
-A. Agnosticism is religious naturalism; Nietzsche teaches Buddhist nirvāṇa
-B. Agnosticism denies God; Nietzsche proves the non-existence of God by inference
-C. Agnosticism suspends or limits knowledge-claims about God; Nietzsche’s “death of God” diagnoses cultural collapse and the danger of nihilism
+A. It cannot be classified either way, because its own texts survive only inside the summaries written by its philosophical opponents.
 
-D. Agnosticism is indifference; Nietzsche restores divine-command morality
-**Answer: C.** Agnosticism is an epistemic position, while Nietzsche’s claim is genealogical and cultural. Neither should be reduced to a bare atheist slogan.
-#### 48. Which combined statement correctly handles Cārvāka inference and fictionalist sincerity?
+B. It is the limiting case, not an instance, since it lacks soteriology, sacred order, community of practice and ultimate concern, and ends in no religion at all.
 
-A. Cārvāka accepts supersensible inference; fictionalists assert every creed literally
+C. It is an instance, since rejecting God is the only condition that a religion without God has to satisfy before it can qualify in the first place.
 
-B. Cārvāka rejects perception; fictionalists are simply error theorists who abandon practice
-C. Cārvāka’s *upādhi* proves all daily inference certain; fictionalism is identical with Advaita
-D. Cārvāka challenges unchecked *vyāpti*, while fictionalists defend non-assertoric participation but must answer the charge that worship without belief is hollow
-**Answer: D.** The moderate Cārvāka pressure is strongest against inference beyond possible perceptual testing. Fictionalism retains practice without assertion, making sincerity and motivation its central unresolved problems.
+D. It is an instance, because its this-worldly ends function as a soteriology aimed at securing ordinary human flourishing within the limits of the present life.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: the transmission problem constrains how the verses may be quoted rather than whether the doctrines can be classified, and the reported positions are determinate enough.
+- **B:** Correct: it converts a misclassification into the contrast that shows what the non-theistic religions actually retain once a creator has been given up.
+- **C:** Incorrect: this makes the absence of one belief sufficient for membership and silently abandons every positive criterion of religion the clause has been building.
+- **D:** Incorrect: pleasure and wealth in this life are not a diagnosis of a fundamental predicament together with a disciplined path leading out of it, which is what soteriology means.
+
+**Examiner trap 26:** The reward here is the sentence that religion can survive the loss of God but not the loss of a sacred order; write it explicitly rather than leaving it implied.
+
+#### MCQ 27. Remedial — “the Mimamsa Veda is divine revelation”
+
+Which correction is best?
+
+A. The Veda is authorless and therefore not the speech of any God, which is why arguments from the reliability of a divine speaker get no purchase on it.
+
+B. It is revelation given to the seers, whose authority the school then treats as intrinsically valid and therefore immune from any further external challenge.
+
+C. It is a human composition whose authority rests on long communal acceptance rather than on the personal standing of any one particular speaker or author.
+
+D. It is revelation, but of an impersonal rather than a personal deity, so the school remains theistic in at least a weak, indirect and heavily attenuated sense.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: it names the doctrine, draws the consequence and shows exactly why the counterexample to creator-necessity survives the objection being pressed.
+- **B:** Incorrect: intrinsic validity attaches to the injunction itself and not to the reliability of any recipient, transmitter or inspired individual seer.
+- **C:** Incorrect: human composition is denied as firmly as divine authorship, because a composed text would inherit the fallibility of whoever composed it.
+- **D:** Incorrect: an impersonal revealer is still a revealer, whereas the doctrine denies that there is any author whatsoever standing behind the text.
+
+**Examiner trap 27:** Watch your own vocabulary: 'revealed', 'scripture given by God' and 'divine word' all silently reinstate the speaker the school has just removed.
+
+#### MCQ 28. Remedial — “apurva is an unseen force we observe in ritual”
+
+Which correction is best?
+
+A. It is directly perceived by the officiating priest, which is why only properly qualified performers are permitted to conduct the rite on another's behalf.
+
+B. It is a postulate introduced to explain a delayed fruit, and the two schools differ over whether it is a power in the act or the sheer ought-to-be-done.
+
+C. It is a metaphor for the psychological confidence produced by having properly discharged a standing duty, and it therefore carries no ontological weight at all.
+
+D. It is inferred from repeated observation of ritual outcomes, in the same way that the presence of fire is regularly inferred from the observation of rising smoke.
+
+**Answer: B.**
+
+**Option explanations:**
+
+- **A:** Incorrect: nothing is perceived on this account, and the qualification rules concern ritual competence rather than any privileged perceptual access to a potency.
+- **B:** Correct: it corrects the epistemic status and adds the Kumarila-Prabhakara discrimination that a strong script carries into the objection-and-reply stage.
+- **C:** Incorrect: it is introduced precisely to do ontological work, bridging a perished act and a much later fruit, so a metaphorical reading dissolves the problem it answers.
+- **D:** Incorrect: the promised results typically mature long after the act and often after death, so the observational base such an inference would require simply does not exist.
+
+**Examiner trap 28:** A postulate explaining an otherwise inexplicable fact is a licensed move in this school's own epistemology; say so, or the charge of arbitrary invention goes unanswered.
+
+#### MCQ 29. Remedial — “Nietzsche proved that God does not exist”
+
+Which correction is best?
+
+A. It is a proof, though an inductive rather than a deductive one, resting on the observed historical failure of the great religious institutions.
+
+B. It is a report that the deity of Christianity once existed in fact and has at some later point in European history ceased to exist altogether.
+
+C. It is a claim that the word 'God' is meaningless, so that the question of existence never actually arises for serious philosophical discussion.
+
+D. The declaration diagnoses that belief has become unbelievable and that dependent values now face nihilism; it is not a demonstration of non- existence.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: recasting a cultural diagnosis as an induction still treats it as an argument about existence, which is exactly the misreading being corrected.
+- **B:** Incorrect: reading the declaration as an empirical event is a listed trap and makes nonsense of the genealogical project it introduces in Nietzsche's own writing.
+- **C:** Incorrect: that is a semantic thesis owned by another clause entirely, whereas Nietzsche's concern is the collapse of a framework of values and what follows from it.
+- **D:** Correct: it identifies the kind of claim being made and names its consequence, which is the demand for revaluation rather than any inference to a metaphysical conclusion.
+
+**Examiner trap 29:** Follow the diagnosis with its consequence: inherited values depended on the framework, its collapse threatens nihilism, and overcoming it requires revaluation and self-creation.
+
+#### MCQ 30. Remedial — “agnosticism is a hesitant form of atheism”
+
+Which correction is best?
+
+A. Agnosticism holds that religious statements are neither true nor false, so belief and disbelief turn out to be equally confused responses to them.
+
+B. Agnosticism denies God's existence but withholds public assertion of that denial for broadly social, professional and prudential reasons of an entirely personal kind.
+
+C. Agnosticism suspends judgement rather than denying, and subdivides into the weak claim that the matter is not known and the strong claim that it is unknowable.
+
+D. Agnosticism is indifference to religious questions and therefore has no bearing on the separate question of whether religion without God is possible.
+
+**Answer: C.**
+
+**Option explanations:**
+
+- **A:** Incorrect: that is non-cognitivism about religious language, which is a claim about meaning rather than a claim about what can or cannot be known.
+- **B:** Incorrect: this is atheism with a communication strategy attached, and it erases the epistemic content that makes agnosticism a distinct position at all.
+- **C:** Correct: it separates suspension from denial and supplies the weak-strong subdivision that the printed question expects an answer to provide.
+- **D:** Incorrect: indifference is a fourth position, and agnostics may value religion's ethical and experiential dimensions while still withholding assent on the existence of God.
+
+**Examiner trap 30:** Kant's practical faith and Spencer's Unknowable are agnostic-adjacent and show that suspending theoretical judgement is compatible with a continuing religious life.
+
+#### MCQ 31. Remedial — “dharma and nirvana are God under other names”
+
+Which correction is best?
+
+A. The objection fails because every religion, theistic or not, ultimately refers to to one and the same finally indeterminate ultimate reality.
+
+B. The objection is correct, and non-theistic religions are therefore covert theisms that have simply changed their working vocabulary over the intervening centuries.
+
+C. The objection fails because dharma and nirvana perform no religious functions whatever, being purely philosophical categories of a technical kind.
+
+D. Functional replacement does not establish ontological identity: impersonal law is not an omniscient person, and liberation by insight is not grace bestowed.
+
+**Answer: D.**
+
+**Option explanations:**
+
+- **A:** Incorrect: that is a pluralist thesis owned by another clause, and it answers a quite different question from the one the hidden-God objection actually raises.
+- **B:** Incorrect: this concedes an inference from similar role to identical entity, which is exactly the step the owner rejects when it answers the hidden-God objection.
+- **C:** Incorrect: they plainly do organise doctrine, practice and value, and denying that would abandon the very case for calling these traditions religions in the first place.
+- **D:** Correct: it names the fallacy inside the hidden-God objection and supplies the two discriminations that are needed to defeat it in a single sentence.
+
+**Examiner trap 31:** Do not let your own exposition invite this objection: avoid saying that dharma 'takes the place of' God, and state instead what work it does and does not do.
+
+#### MCQ 32. Remedial — “naturalism and fictionalism are one position”
+
+Which correction is best?
+
+A. The naturalist asserts that ultimacy and reverence lie within nature; the fictionalist declines to assert the claims and participates non- assertorically.
+
+B. Both are versions of the two-level Indian device, and differ only over which of the two levels ought in the end to be described as the ultimate one.
+
+C. Both accept that religious claims are false, and differ only over whether ritual practice should nevertheless be retained by the community afterwards.
+
+D. Both hold that religious language lacks truth-conditions, and differ only over the role that a community ought to play in a continuing religious life.
+
+**Answer: A.**
+
+**Option explanations:**
+
+- **A:** Correct: assertion is the dividing line, and stating it also keeps error theory, which abandons the discourse altogether, separate from both of the other positions.
+- **B:** Incorrect: the Indian device sublates rather than falsifies, which is precisely why it preserves the practitioner's sincerity in a way that fictionalism struggles to do.
+- **C:** Incorrect: the naturalist asserts claims she takes to be true about value and about nature, so the shared-falsity premise is mistaken from the very beginning.
+- **D:** Incorrect: the missing-truth-conditions thesis is non-cognitivism, and neither religious naturalism nor religious fictionalism is defined by holding it.
+
+**Examiner trap 32:** The comparative sentence worth writing is that Indian systems offer graded truth where Western fictionalism offers pretence, which is why sincerity is easier to preserve on the Indian model.
+
 ## PYQS AND ANSWER PRACTICE
 
-#### VERIFIED PYQS — 7 COMPLETE SOLUTIONS
+### Verified previous-year questions — 7 complete solutions
 
-These are independent practice models, not official UPSC answers. The question wording, year and marks are reproduced from the verified 2018–2025 Philosophy of Religion ledger.
+**Word bands used throughout.** 10 marks ≈ 150 words · 15 marks ≈ 250 words · 20 marks ≈ 350 words. Every question below is reproduced in its **exact printed wording** from the audited Philosophy of Religion previous-year ledger, 2018–2025, in which this clause owns seven question-parts and is absent as a primary owner only in 2022. **The model answers are independent learner practice and are never official UPSC keys.**
 
-#### 2018 · Q5(c) · 10 marks
+**Timing skeleton.** 10 marks — 1 minute to decode, 1 to outline, 6 to write, 1 to check. 15 marks — 1 / 2 / 10 / 2. 20 marks — 2 / 3 / 13 / 2. **Standing penalties in this clause:** an answer with no stated definition of religion; "atheistic" used where "non-theistic" is meant; Cārvāka offered as an instance rather than as the limit; the Mīmāṃsā Veda called revelation; and any invented year for Smart, Feuerbach, Freud or Comte.
+
+#### PYQ 1 — 2018, Q5(c), 10 marks
 
 **Exact verified question:** Can you justify religion without God? Support your answer.
 
-**Demand decoding:** “Justify” requires a defended position, not a catalogue of godless schools. Define religion first, show through actual traditions that theism is not necessary, answer the strongest theistic objection, and conclude with a qualified criterion that does not make every ideology religious.
+**Demand decoding:** "Justify" requires a defended position with the criterion stated, not a catalogue of godless schools. Announce the definition of religion first; the whole answer follows from it.
 
-**Model answer (about 320 words):**
+**Model solution:**
+Yes — provided religion is defined not substantively, by the kind of object affirmed, but multidimensionally. Ninian Smart's dimensions are doctrinal, mythic, ethical, ritual, experiential, social and material; belief in a creator is not among them.
 
-Religion without God is justifiable if religion is understood not substantively as belief in a personal creator, but functionally and multidimensionally as disciplined orientation to an ultimate order through doctrine, ritual, ethics, community, experience and a goal of transformation. Ninian Smart’s dimensions support this wider account. Creator-belief is central to many religions, but it is not a cross-cultural necessity.
+Buddhism satisfies every dimension. Dependent origination and karma explain conditioned arising; the Four Noble Truths diagnose; the Eightfold Path disciplines; the *Saṅgha* sustains; *nirvāṇa* completes. Jainism rejects a creator on the motive and embodiment arguments while retaining vows and the perfected *siddha*. Mīmāṃsā is sharper still: the Veda is authorless (*apauruṣeya*), so no divine speaker is required, and unseen potency (*apūrva*) links act to delayed fruit without a divine dispenser.
 
-Buddhism is the clearest proof. It explains suffering through dependent origination, craving and karma, not divine creation. The Four Noble Truths diagnose the human predicament; the Eightfold Path supplies ethical, meditative and cognitive discipline; the Saṅgha sustains a community; and nirvāṇa provides a soteriological end. The presence of devas does not alter the point, because they are neither creators nor ultimate saviours.
+The justification must be bounded. A definition broad enough to admit any strong commitment is empty, so the sacred-order and soteriological conditions are added — which is exactly why Cārvāka, having closed the route to every supersensible object, is the limiting case rather than an instance.
 
-Jainism similarly rejects a creator while affirming innumerable jīvas, karmic bondage, vows and liberation into the perfected state of the siddha. Pūrva-Mīmāṃsā goes further: the Veda is *apauruṣeya*, so it needs no divine author, while *apūrva* links ritual action to its delayed fruit without a divine dispenser. Classical Sāṃkhya explains cosmic evolution through prakṛti in proximity to puruṣa and seeks *kaivalya* through discriminative knowledge.
-
-A theist may object that worship requires a recipient, morality a commander, and salvation a giver of grace. This establishes only that petition, covenant and grace require a responsive God. It does not establish that every religious path must contain those goods. Non-theistic traditions replace command by dharma, grace by disciplined transformation, and creation by impersonal causal order.
-
-However, a merely functional definition may wrongly classify nationalism as religion. It should therefore require sustained relation to an ultimate or sacred order together with ritual-experiential and soteriological practice. Cārvāka, which rejects every supersensible order and lacks a path of liberation, is consequently not a religion without God. Thus religion without God is both conceptually coherent and historically actual, although religion without any sacred order becomes difficult to distinguish from secular ethics.
+Religion without God is therefore justified; religion without a sacred order is not.
 
 **Why this earns marks:**
+- Opens with a defended criterion instead of a list of schools.
+- Uses three Indian traditions with their distinct mechanisms, not their names.
+- Polices the over-breadth of its own definition inside the answer.
+- Classifies Cārvāka correctly as the limit, which is the clause's signature discrimination.
+- Closes with a decided verdict in the exact form the directive requested.
 
-- Opens with an explicit substantive–functional distinction and a direct thesis.
-- Uses Buddhism in depth, then Jainism, Mīmāṃsā and Sāṃkhya as distinct evidential routes.
-- Distinguishes non-theism from denial of every deity.
-- Answers worship, morality and grace objections rather than dismissing the theist.
-- Prevents over-broad functionalism and correctly treats Cārvāka as the limiting case.
-
-#### 2019 · Q6(c) · 15 marks
+#### PYQ 2 — 2019, Q6(c), 15 marks
 
 **Exact verified question:** How would a religious person deny the possibility of a religion without God? Discuss.
 
-**Demand decoding:** Reconstruct the religious theist’s denial sympathetically before assessing it. The examiner is testing role reversal: the answer must present definitional, devotional, moral, epistemic and soteriological arguments for necessity, and only then reply through non-theistic religions.
+**Demand decoding:** The stem asks you to argue the theist's case first, sympathetically and in its strongest form, and only then assess it. Half the marks are in the construction.
 
-**Model answer (about 500 words):**
+**Model solution:**
+A religious theist would deny the possibility on five grounds. **Definitional:** religion is a living relation between finite persons and a personal transcendent, so "religion without God" is a category error rather than an unusual species. **Devotional:** worship requires a recipient; praise, petition and surrender are relational acts, and Jain veneration of a passionless perfected being would then be commemoration rather than worship. **Moral:** unconditional obligation requires a commander whose will binds. **Cosmic-order:** purposive order and the exact allotment of karmic fruit require intelligence, which is why Nyāya posits *Īśvara* as creator and superintendent of karma (*karmādhyakṣa*). **Soteriological:** forgiveness, grace and covenant require a responsive agent who can bestow them.
 
-A religious theist would deny religion without God by arguing that religion is essentially a living relation between finite persons and a personal transcendent reality. On this substantive definition, “religion without God” is not an unusual species of religion but a category mistake: remove God and what remains may be morality, philosophy or contemplative therapy, but not religion.
+The denial nevertheless assumes its conclusion at the first step. Smart's dimensions show that doctrine, ritual, ethics, experience, narrative and community exist without a creator. Buddhism supplies a complete diagnosis of suffering, dependent origination, the path, the *Saṅgha* and *nirvāṇa*. Mīmāṃsā answers the third and fourth arguments directly: the authorless Veda secures authority without a speaker, and unseen potency (*apūrva*) secures desert without a dispenser, the relation being law-like rather than deliberative. Jainism's *siddha* is an achieved, not a governing, divinity.
 
-First, worship appears to require an intentional recipient. Praise, prayer, surrender and thanksgiving are relational acts. If no divine consciousness hears or answers, ritual becomes commemoration or symbolic self-expression. The Jain veneration of a passionless *tīrthaṅkara*, for example, might then be interpreted as admiration of an exemplar rather than worship in the full theistic sense.
+The theist may reply that *Dharma*, *nirvāṇa* and *apūrva* are hidden substitutes; but functional similarity does not establish ontological identity. The strongest surviving point is therefore devotional, not definitional: petition and grace genuinely require a responsive God, and non-theistic religions do without them at a real cost in devotional structure.
 
-Second, revelation and sacred authority seem to require an author. A text can command unconditionally only if it expresses a supreme will; otherwise its prescriptions appear historical and revisable. Third, moral obligation appears stronger when grounded in divine command and judgement. Impersonal karma may describe consequences, the theist argues, but cannot explain why one is categorically bound to obey the good. Fourth, purposive cosmic order and the precise distribution of karmic fruits seem to require intelligence. Nyāya therefore posits Īśvara as creator and *karmādhyakṣa*, the superintendent who connects deserts with consequences.
-
-Finally, salvation may exceed unaided human capacity. Forgiveness, grace, covenant and personal immortality require a responsive divine agent. A path that relies only on technique risks reducing liberation to psychological self-management. God also unifies doctrine, worship, morality and hope around one ultimate object; without that centre, “religion” may become an arbitrary bundle of functions.
-
-The denial, however, assumes the conclusion by defining religion through theism. Ninian Smart’s dimensions show that doctrine, ritual, ethics, experience, narrative and community can exist without a creator. Buddhism offers a complete diagnosis of *dukkha*, a causal account through dependent origination, the Eightfold Path, Saṅgha and nirvāṇa. Jainism retains jīva, karmic matter, vows and liberation while rejecting a creator. Mīmāṃsā directly answers the authority and desert arguments: the Veda is *apauruṣeya* rather than divine speech, and *apūrva* provides a law-like connection between ritual and fruit. Classical Sāṃkhya likewise explains order and *kaivalya* without a creator.
-
-The theist may reply that dharma, nirvāṇa or *apūrva* are hidden substitutes for God. Yet functional replacement does not entail ontological identity: an impersonal law is not an omniscient person, and liberation by insight is not bestowed grace. The strongest surviving theistic point is therefore devotional, not definitional. Petition, reciprocal love and grace genuinely require a responsive God, so non-theistic religion has a different and possibly thinner personal structure.
-
-Hence a religious person can coherently deny the possibility only by defending a specifically theistic essence of religion. Cross-cultural evidence defeats that universal necessity claim. God is necessary for some religious forms and goods, but not for religion as disciplined orientation to a sacred order and liberation.
+Religion without God is possible; religion without a sacred order is not.
 
 **Why this earns marks:**
+- Obeys the unusual directive by giving the theist's five arguments priority and philosophical force.
+- Names Nyāya's superintendent of karma and then answers it with the correct Mīmāṃsā mechanism.
+- Distinguishes achieved from governing divinity in the Jain case.
+- Refuses the hidden-God inference explicitly rather than ignoring it.
+- Concedes the devotional cost, which is what a graded verdict requires.
 
-- Obeys the unusual directive by giving the theist’s case priority and philosophical force.
-- Separates worship, authority, morality, cosmic order and grace arguments.
-- Names Nyāya’s intelligent superintendent and answers it through Mīmāṃsā.
-- Uses Buddhism, Jainism and Sāṃkhya without treating them as disguised theism.
-- Gives a graded verdict conceding what truly does require a personal God.
-
-#### 2020 · Q6(c) · 15 marks
+#### PYQ 3 — 2020, Q6(c), 15 marks
 
 **Exact verified question:** Critically examine the concept of God as prerequisite for a religion.
 
-**Demand decoding:** Test the necessity claim. Clarify which concept of God is proposed, produce counterexamples, evaluate whether they remain religious under a defensible definition, then state the limited functions for which a personal God may still be indispensable.
+**Demand decoding:** "Prerequisite" is a necessity claim. Give the substantive definition its strongest defence, produce counterinstances, then state the limited functions for which a personal God really is indispensable.
 
-**Model answer (about 510 words):**
+**Model solution:**
+To call God a prerequisite is to claim that nothing counts as religion unless it includes belief in a divine being, usually a personal creator, moral governor and saviour.
 
-To call God a prerequisite for religion is to claim that no practice counts as religious unless it includes belief in a divine being, usually a personal creator, moral governor and saviour. This is plausible within theistic traditions, but it is not adequate as a universal definition of religion.
+The claim has genuine force. A substantive definition captures prayer, worship, revelation, covenant and grace precisely, and it guards against an over-broad functionalism under which nationalism or ideology becomes a religion merely by supplying meaning and community. The theist adds that worship requires one who is worshipped, unconditional obligation a supreme commander, and karmic order an intelligent administrator.
 
-A substantive definition identifies religion through its object: God, gods or sacred beings. It captures prayer, worship, revelation, covenant and grace particularly well. It also guards against an over-broad functionalism under which nationalism, psychotherapy or political ideology could become “religions” merely because they provide meaning and community. The theist can further argue that worship requires one who is worshipped, unconditional obligation requires a supreme commander, and providential or karmic order requires an intelligent administrator.
+A prerequisite is nevertheless a necessary condition, and established traditions defeat it. Buddhism has doctrine, ethical discipline, meditation, monastic community and liberation without a creator; where gods occur they are impermanent beings within rebirth, neither makers nor indispensable saviours. Jainism rejects creation while affirming eternal souls, karmic matter, vows and the perfected *siddha*. Mīmāṃsā is the sharpest counterexample: dharma is known only from injunction — Jaimini's *Mīmāṃsā-sūtra* 1.1.2 — the Veda is authorless rather than revealed, and unseen potency (*apūrva*) explains the delayed fruit without a dispenser. Classical Sāṃkhya derives evolution from nature in proximity to plural selves and seeks isolation (*kaivalya*); Yoga's *Īśvara* is a special self and must not be read back into Sāṃkhya.
 
-Yet a prerequisite is a necessary condition, and established traditions provide counterinstances. Buddhism contains doctrine, ethical discipline, meditation, monastic community and liberation without depending on a creator. *Pratītyasamutpāda* explains conditioned arising; karma gives moral-causal continuity; the Four Noble Truths and Eightfold Path lead toward nirvāṇa. Devas may occur in Buddhist cosmology, but none is an omnipotent creator or indispensable saviour. Calling Buddhism non-religious merely because it lacks the Christian-type God makes the definition question-begging.
+Modern positions extend the case while complicating it: Dewey's "the religious", Dworkin's religious atheism and religious fictionalism all detach religious functions from theistic belief, though critics reasonably ask whether what survives is religion or only spirituality.
 
-Jainism rejects creation by God while affirming eternal jīvas, karmic matter, the vows, *tīrthaṅkaras* as liberated exemplars and the siddha-state. Mīmāṃsā is an even sharper counterexample. Vedic authority is *apauruṣeya*, not revelation from a divine speaker; dharma is known through injunction; and *apūrva*, an unseen potency generated by ritual, explains delayed fruit without a divine dispenser. Classical Sāṃkhya derives cosmic evolution from the guṇas of prakṛti in the presence of puruṣa and seeks *kaivalya* through discriminative knowledge. Yoga’s special puruṣa, Īśvara, should not be imported into classical Sāṃkhya as a creator.
-
-Modern positions reinforce, but also complicate, the case. Dewey distinguishes institutional “religion” from “the religious” quality of experience; Dworkin’s religious atheism locates religious depth in objective value and cosmic sublimity; religious naturalists direct awe toward nature. Religious fictionalists participate without asserting supernatural claims. Critics reasonably ask whether these positions preserve religion or only spirituality, ethics or aesthetic reverence.
-
-The best response is neither a narrow theistic essence nor unlimited functionalism. A workable definition requires disciplined and communal orientation to an ultimate or sacred order, transformative practices and a soteriological or existential goal. It includes Buddhism, Jainism and Mīmāṃsā but excludes Cārvāka, which rejects the entire supersensible order and offers no liberation-centred religious practice.
-
-Thus God is indispensable for petition, covenant, divine command and grace, but not for religion *as such*. The concept of God is one powerful way of integrating religious functions, not their universal prerequisite.
+God is therefore indispensable for petition, covenant, propositional revelation and grace — but not for religion as such. The concept of God is one powerful way of integrating religious functions, not their universal prerequisite.
 
 **Why this earns marks:**
+- Treats "prerequisite" as a necessity claim rather than describing non-theism generally.
+- Defends the substantive definition before dismantling it.
+- Uses four Indian counterexamples with doctrine-specific mechanisms, and protects the Sāṃkhya–Yoga distinction.
+- Integrates the modern positions without equating them with classical soteriology.
+- Ends with a bounded, function-by-function necessity verdict.
 
-- Treats “prerequisite” as a necessity claim rather than merely describing non-theism.
-- Gives the substantive definition its strongest defence before criticizing it.
-- Uses three Indian counterexamples with doctrine-specific mechanisms.
-- Integrates modern naturalism and fictionalism without equating them with classical soteriology.
-- Ends with a bounded functional criterion and a nuanced necessity verdict.
-
-#### 2021 · Q5(d) · 10 marks
+#### PYQ 4 — 2021, Q5(d), 10 marks
 
 **Exact verified question:** Is religious life possible without the belief in God? Discuss.
 
-**Demand decoding:** Establish possibility through a lived religious form, not abstract definition alone. Explain what structures religious life when creator-belief is absent, distinguish non-theism from atheism, and answer whether the result is more than secular ethics.
+**Demand decoding:** A possibility claim is established by one actual case done in depth, not by four cases mentioned. "Religious life" shifts the emphasis from doctrine to lived practice.
 
-**Model answer (about 300 words):**
+**Model solution:**
+It is possible, and the proof is actual rather than hypothetical.
 
-Religious life is possible without belief in God because its essential activities may be organised around liberation, sacred discipline and an impersonal ultimate rather than a personal creator. The claim is existentially demonstrated by Buddhist life.
+Religious life consists in disciplined orientation to a sacred order, ritual and ethical formation, community and a transformative goal. Buddhism supplies all four without a creator: the Four Noble Truths diagnose the predicament, the Eightfold Path prescribes conduct, meditation and understanding, moral discipline (*śīla*) shapes daily action, the *Saṅgha* transmits and sustains, and *nirvāṇa* is the goal. Where gods appear they are impermanent beings within rebirth, not saviours.
 
-Buddhism does not make a creator God explanatory or salvific. The Buddha’s practical refusal to centre unanswered metaphysical questions directs attention to *dukkha* and its cessation. Dependent origination explains suffering through conditions, especially ignorance and craving; karma links conduct with consequences; the Eightfold Path integrates right view, morality and meditation; the Saṅgha provides communal discipline; and nirvāṇa is the transformative goal. This is a religious life of doctrine, ritual, experience, ethics and liberation despite the absence of creator-belief.
+Mīmāṃsā shows the same for a ritual rather than a meditative life: injunction defines duty, and unseen potency (*apūrva*) connects the act to its fruit without a divine dispenser. Jain vows and asceticism organise a whole life around release.
 
-Non-theism must not be confused with dogmatic atheism. Buddhist cosmology may contain devas, but they are conditioned beings, not creators or final saviours. Jain religious life similarly centres vows, purification of jīva and liberation from karmic matter. Mīmāṃsā preserves scripture, duty and ritual while replacing divine authorship and reward with the *apauruṣeya* Veda and *apūrva*. Classical Sāṃkhya seeks *kaivalya* through discrimination between puruṣa and prakṛti.
+Two limits should be conceded. Petition and grace do require a responsive God, so the personal texture of non-theistic religious life is different and arguably thinner. And religious life is not possible where every supersensible order has been closed off — which is why Cārvāka has an ethic but no religious life.
 
-The objection is that without a conscious divine object there can be neither genuine worship nor grace, and that such paths are merely ethical philosophies. This objection identifies a real difference: petition, reciprocal devotion and divine forgiveness require a personal God. Yet religion need not possess every theistic function. Soteriology, sacred order, communal discipline and self-transformation distinguish these traditions from ordinary secular ethics.
-
-Nor does every godless view become religious. Cārvāka rejects God, karma, afterlife and liberation; it therefore marks the boundary between non-theistic religion and non-religion. Religious life without God is thus possible, though not religious life without any ultimate order, disciplined practice or transformative goal.
+Belief in God is therefore sufficient for religious life in many traditions, but not necessary for it.
 
 **Why this earns marks:**
+- Answers the possibility question with one tradition treated in depth.
+- Reads "religious life" as practice and answers on that register.
+- Adds a second and third case briefly to show the result is not idiosyncratic.
+- Concedes the devotional limit instead of overclaiming.
+- Uses the Cārvāka boundary to show what "religious life" positively requires.
 
-- Proves possibility through Buddhism as an actual form of life.
-- Identifies doctrine, ethics, meditation, community and liberation.
-- Separates non-theism from atheism and secular ethics.
-- Adds Jain, Mīmāṃsā and Sāṃkhya comparisons without losing focus.
-- Concedes the specific loss of petition and grace and uses Cārvāka as a boundary.
-
-#### 2023 · Q5(e) · 10 marks
+#### PYQ 5 — 2023, Q5(e), 10 marks
 
 **Exact verified question:** What is Agnosticism? How do agnostics conceptualize the relation between religion and God? Discuss.
 
-**Demand decoding:** The answer has two equal tasks: define and classify agnosticism, then explain how withholding knowledge-claims about God affects religious belief and practice. Distinguish it from atheism, non-theistic religion and indifference.
+**Demand decoding:** Two printed deliverables — a definition and a positional account. Define, sub-divide into weak and strong, then give the relation. Answering only the first half forfeits half the marks.
 
-**Model answer (about 310 words):**
+**Model solution:**
+Agnosticism is the claim that the existence of God is unknown or unknowable, so that judgement should be suspended. The word was coined by T. H. Huxley in 1869. It is distinct from atheism, which denies God, and from indifference, which does not raise the question. **Weak agnosticism** holds that the matter is not known and remains open to evidence; **strong agnosticism** holds that it is unknowable in principle, which is itself a substantial epistemological thesis. Kant's practical faith and Spencer's "Unknowable" are adjacent positions.
 
-Agnosticism, a term introduced by T. H. Huxley, is the position that God’s existence is not known, or in a stronger form cannot be known. Weak agnosticism makes an epistemic report—available evidence does not presently settle the question. Strong agnosticism advances a limit-claim—that the divine lies beyond possible human knowledge. Both differ from atheism, which denies or lacks belief in God, and from indifference, which treats the question as unimportant.
+On the relation between religion and God, agnostics treat the two as separable. Religious commitment can be graded, and need not include metaphysical certainty. An agnostic may therefore affirm religion's ethical dimension, its experiential and contemplative dimension, and its ritual and communal life, while withholding assent on the existence of God — a minimal or non-theistic religiosity. A person may, for instance, participate fully in Buddhist ethical and meditative practice while withholding creator claims.
 
-For an agnostic, the relation between religion and God is therefore not simple rejection but suspended assent. If religion is substantively defined as belief in and worship of a personal God, agnosticism weakens full doctrinal membership because prayer, revelation and providence normally presuppose belief. A strict theist may consequently regard agnostic religion as unstable: one cannot sincerely entrust oneself to a being whose existence one refuses to affirm.
-
-On a functional or multidimensional account, however, religious life need not await metaphysical certainty. An agnostic may participate in ethical discipline, contemplative practice, ritual and community while interpreting God symbolically, as an open possibility, or as the name of an unknown ultimate. Spencer’s “Unknowable” preserves transcendence while denying determinate cognition. Kant’s denial of theoretical knowledge of God, together with practical faith, is agnostic-adjacent rather than straightforward Huxleyan agnosticism.
-
-Buddhism shows that suspending creator-speculation need not suspend religion. Yet Buddhist non-theism is not identical with agnosticism: its soteriology positively rests on dependent origination, karma and nirvāṇa, whereas agnosticism concerns the epistemic status of God. Religious naturalism goes further by locating ultimacy within nature; it is a positive naturalistic reinterpretation, not mere suspension.
-
-The objection is that agnostic participation becomes selective culture without commitment. The reply is that commitment can attach to a path, community and transformative discipline while metaphysical judgement remains proportioned to evidence. Thus agnosticism separates certainty about God from the possibility of religion, but its coherence is strongest in non-dogmatic or practice-centred forms and weakest where personal trust in God is constitutive.
+The objection is that this reduces religion to ethics or aesthetics. The reply is that community, ritual, transformation and orientation to ultimacy exceed ordinary morality — although what remains is admittedly thinner than a fully theistic religious life.
 
 **Why this earns marks:**
+- Answers both printed deliverables, in the printed order, with a visible transition.
+- Dates the coinage correctly and distinguishes agnosticism from atheism and indifference.
+- Sub-divides into weak and strong and notes the cost of the strong form.
+- States the presupposition — graded commitment — instead of assuming it.
+- Meets the reduction objection and concedes what it should.
 
-- Defines weak and strong agnosticism and distinguishes atheism and indifference.
-- Directly addresses how agnostics relate religion to God under two definitions.
-- Uses Huxley, Spencer and Kant with careful qualification.
-- Distinguishes agnostic suspension from Buddhist non-theism and naturalist reinterpretation.
-- Gives a graded verdict about which forms of religion can accommodate agnosticism.
-
-#### 2024 · Q7(a) · 20 marks
+#### PYQ 6 — 2024, Q7(a), 20 marks
 
 **Exact verified question:** State and evaluate Buddhism as a religion without God.
 
-**Demand decoding:** “State” requires a complete doctrinal account before criticism; “evaluate” requires testing whether Buddhism satisfies defensible criteria of religion and whether creator-belief returns in disguised or devotional form. The answer must avoid calling Buddhism a simple atheism.
+**Demand decoding:** Two halves. State the doctrine fully before assessing it; do not evaluate a caricature. The evaluation must include the devotional complication and a graded verdict.
 
-**Model answer (about 690 words):**
+**Model solution:**
+**Statement.** Buddhism is non-theistic rather than atheistic: a creator is absent from its diagnosis and its path, though impermanent gods and later devotional practice are not denied. Dependent origination (*pratītyasamutpāda*) and karma explain conditioned arising; gods and *Brahmā* figures remain beings inside rebirth rather than creators or final saviours, as the *Brahmajāla* (DN 1) and *Aggañña* (DN 27) Suttas indicate. The Buddha's undeclared questions (*avyākata*) concern specific speculative issues that the path does not require, and must not be presented as the whole case.
 
-Buddhism is a paradigmatic religion without a creator God: it diagnoses an ultimate human predicament, explains it through an impersonal causal order, prescribes a disciplined path and promises liberation, while assigning no necessary cosmological or salvific role to a divine creator. Its case is strongest when religion is defined multidimensionally rather than as theism by stipulation.
+What remains is a complete religion on a multidimensional definition. Doctrine: the Four Noble Truths, impermanence and non-self. Practice: the Noble Eightfold Path, meditation and monastic observance. Ethics: moral discipline (*śīla*). Community: the *Saṅgha*, with rule, ordination and transmission. Goal: *nirvāṇa*, liberation from suffering. Sacred order: *Dharma*, the order the path discloses. Teaching, community and liberation organise all of this without functioning as one-for-one substitutes for a personal creator.
 
-The Buddhist starting point is practical and soteriological. The Four Noble Truths identify *dukkha*, trace its arising to craving under ignorance, affirm cessation, and prescribe the Noble Eightfold Path. The path integrates wisdom, ethical conduct and mental cultivation. The Saṅgha institutionalises practice; precepts regulate conduct; meditation transforms experience; and nirvāṇa names release from the causal complex sustaining suffering. Buddhism therefore possesses doctrine, ethics, ritual, experience, community and an ultimate goal—central dimensions identified in Ninian Smart’s account of religion.
+**Evaluation.** The argument is one of redundancy, not refutation: a creator adds no explanatory or practical step to the causal-soteriological sequence. Its presupposition — that dependent causation suffices for the problem Buddhism addresses — is where a theist should press.
 
-Its non-theism is also doctrinally significant. The Buddha does not ground the world in an omnipotent personal first cause. Dependent origination explains phenomena as arising through conditions: when relevant conditions cease, their effects cease. A creator adds no necessary stage to this causal and therapeutic sequence. Karma supplies moral continuity without a divine judge, and nirvāṇa is attained through insight and discipline rather than bestowed by grace.
+Three objections deserve answers. That karma is providence renamed: causal-moral regularity is impersonal, with nothing that selects, forgives or answers. That devotional Mahāyāna makes Buddhism theistic: Buddhas and bodhisattvas may perform religious functions without becoming an omnipotent creator, which shows that non-theistic does not mean devotion-free. That *Dharma* is God renamed: functional similarity does not establish ontological identity.
 
-This does not mean that Buddhism simply denies every divine being. Buddhist cosmologies admit devas and higher realms, but such beings remain impermanent, conditioned and themselves within saṃsāra. They neither create the world nor guarantee liberation. The unanswered questions, *avyākata*, and the practical orientation illustrated by the poisoned-arrow teaching caution against converting the Buddha’s silence into a dogmatic proof of atheism. “Non-theistic” is therefore more exact than “atheistic.”
+The cost must be conceded. Petition, covenant and grace require a responsive God, and Buddhism does without them; its devotional structure is therefore differently shaped.
 
-Several evaluations follow. First, Buddhism decisively refutes the claim that a personal creator is necessary for religion. It retains a sacred normative order—the Dharma—and an unambiguously soteriological aim. Unlike secular ethics, it does not merely prescribe social conduct; it offers a comprehensive account of bondage, disciplined transformation and final release.
-
-Second, critics claim that Dharma or nirvāṇa merely replaces God. The objection notes a functional analogy but mistakes it for ontological identity. Nirvāṇa is not an omniscient person, Dharma does not create by will, and karma does not forgive or deliberately allocate outcomes. Buddhism replaces divine agency with causal intelligibility and practical cultivation, not with a concealed deity.
-
-Third, theism presses a purposiveness objection. Nyāya may ask how unconscious causal law can generate an ordered cosmos and distribute karmic fruits without an intelligent superintendent. The Buddhist reply is that the analogy with artefact-production is unproved: observed conditional regularity does not logically require a cosmic artisan. More importantly, a creator contributes nothing necessary to the cessation of suffering and may generate further questions about motive, embodiment and responsibility for evil.
-
-Fourth, later Mahāyāna traditions introduce devotional Buddhas and bodhisattvas who answer aspirations and perform grace-like functions. Pure Land devotion, for example, may appear practically theistic. Yet even highly exalted Buddhas are not thereby converted into a single omnipotent creator. This development qualifies any claim that all Buddhism is devotion-free, but it does not defeat the core non-creator structure.
-
-Comparison clarifies the achievement. Jainism also rejects a creator but retains eternal jīvas, karmic matter and perfected siddhas. Mīmāṃsā preserves scripture and ritual through the *apauruṣeya* Veda and *apūrva*. Sāṃkhya derives the world from prakṛti for puruṣas and seeks *kaivalya*. Buddhism is more radical than Jainism in denying a permanent self and more path-centred than Mīmāṃsā’s ritual mechanism, yet all demonstrate that divine creation and liberation are separable.
-
-A final challenge concerns definition. Purely functional accounts can make nationalism religious. A defensible middle criterion should require disciplined communal relation to an ultimate or sacred order, practices of transformation and a soteriological or existential horizon. Buddhism clearly meets it. Cārvāka does not: rejecting God, karma, afterlife and liberation leaves no sacred-soteriological order, so it is a critique of religion rather than another religion without God.
-
-The graded verdict is therefore that Buddhism is fully, not merely analogically, religious without a creator. It lacks specifically theistic goods—petition to a supreme person, divine forgiveness and covenantal grace—but supplies coherent alternatives in Dharma, dependent origination, ethical-meditative discipline, Saṅgha and nirvāṇa. It proves that God is one possible centre of religion, not its universal prerequisite.
+**Verdict.** Buddhism is a strong actual counterexample to the claim that a personal creator is necessary — provided religion is defined multidimensionally rather than stipulated as God-relation, in which case the counterexample would have been excluded before it was examined.
 
 **Why this earns marks:**
+- Completes the statement before beginning the evaluation, as the directive demands.
+- Runs the multidimensional cluster explicitly, element by element.
+- Restricts the undeclared questions to their real scope and cites the text anchors.
+- Answers the three standing objections rather than the easiest one.
+- Concedes the devotional cost and closes with a conditional, graded verdict.
 
-- Gives the complete Buddhist diagnosis–cause–path–liberation structure before evaluation.
-- Explains dependent origination, karma, nirvāṇa, Saṅgha and *avyākata* accurately.
-- Distinguishes devas from a creator and non-theism from dogmatic atheism.
-- Evaluates hidden-God, purposiveness and Mahāyāna-devotion objections with replies.
-- Adds precise Jain, Mīmāṃsā, Sāṃkhya and Cārvāka comparisons.
-- Ends with a defended definition and a graded, not absolute, verdict.
-
-#### 2025 · Q5(a) · 10 marks
+#### PYQ 7 — 2025, Q5(a), 10 marks
 
 **Exact verified question:** Discuss Cārvāka’s critique of the belief in the existence of suprasensible entities.
 
-**Demand decoding:** The centre is epistemology, especially the problem of establishing *vyāpti*. Apply that critique to God, soul, karma and scripture; then assess self-refutation and the reported moderate view of inference. Do not substitute Cārvāka hedonism for the requested argument.
+**Demand decoding:** The directive buys the **argument** of the critique, not its conclusions. Give the epistemology — the concomitance problem — not the hedonist slogans.
 
-**Model answer (about 345 words):**
+**Model solution:**
+The critique is epistemological. Cārvāka holds that perception (*pratyakṣa*) alone is a means of knowledge, because a means of knowledge must yield certainty and every other candidate depends on a general rule that perception cannot certify.
 
-Cārvāka rejects suprasensible entities because it accepts perception, *pratyakṣa*, as the only secure *pramāṇa*. Reality comprises the four perceptible gross elements; God, an immaterial soul, karma, rebirth, heaven, liberation and ritual potencies are unwarranted unless a valid means of knowledge can establish them.
+The argument turns on inference. Inference depends on invariable, unconditional concomitance (*vyāpti*) between mark and inferred. How is that concomitance known? Not by perception, which grasps only particular co-presences while concomitance is universal. Not by inference, which would need its own concomitance, generating regress or circularity. Not by testimony, which is not a means of knowledge at all here. And even repeated observation cannot exclude an unnoticed conditioning factor (*upādhi*) — fire is accompanied by smoke only when the fuel is wet — so deviation remains possible and the concomitance remains merely probable.
 
-The decisive critique targets inference. *Anumāna* depends on *vyāpti*, an unconditional universal relation between a reason such as smoke and what is inferred, such as fire. Perception reveals only particular observed conjunctions, never all past, future and remote instances. Inference cannot establish *vyāpti* without presupposing another *vyāpti*, producing regress or circularity. Testimony cannot help because its authority is itself disputed. Repetition also cannot exclude an unnoticed condition, *upādhi*: fire produces smoke only under conditions such as wet fuel. Hence possible deviation, *vyabhicāra*, remains, and inference cannot yield certainty about what is never perceptually checkable.
+Applied to religion: God is never perceived; consciousness is emergent from the body (*dehātmavāda*), illustrated by the intoxicating power arising from combined ingredients; karma and unseen merit are imperceptible postulates; order needs no maker, since things act by their own nature (*svabhāva-vāda*).
 
-Applied to religion, God is unperceived, so inference from the world to a maker fails. Consciousness is a bodily emergence, *dehātmavāda*, compared doxographically to an intoxicating power arising from combined ingredients; no separable soul survives death. Karma, *adṛṣṭa* and *apūrva* are imperceptible postulates, while Vedic authority is rejected. *Svabhāva-vāda* explains order through things’ own natures rather than design.
-
-Nyāya replies that the universal rejection of inference is self-refuting and practically impossible; *vyāpti* is supported through repeated observation, absence of counterinstances and *tarka*. A Cārvāka may answer dialectically through *prasaṅga*, without asserting a new universal. More defensibly, the reported Purandara strand permits ordinary, perceptually testable inference while denying its extension to the supersensible.
-
-Thus the global perceptualism is unstable, but the moderate critique powerfully challenges inference-based natural theology. Cārvāka is not itself a religion without God: by closing every epistemic route to a sacred and soteriological order, it marks the boundary beyond which godlessness becomes rejection of religion.
+Two replies are required. The charge of self-refutation is met by reading the denial dialectically, and by the reported Purandara strand admitting ordinary inference while denying it for what lies beyond the senses. On that moderate reading the critique is unrefuted and fatal to every inference-based natural theology.
 
 **Why this earns marks:**
+- Gives the argument rather than the conclusions, as the directive requires.
+- States all four moves of the concomitance problem, including the conditioning-factor residue.
+- Applies the epistemology to the specific religious postulates.
+- Supplies both replies to self-refutation and flags the reported strand as reported.
+- Ends with the verdict formula tying the critique's success to its epistemology.
 
-- Makes *pramāṇa*, *vyāpti*, *upādhi* and *vyabhicāra* the core rather than hedonism.
-- Applies the argument separately to God, soul, karma, scripture and cosmic order.
-- Includes Nyāya’s self-refutation and pragmatic replies.
-- Adds both *prasaṅga* and the cautiously reported Purandara qualification.
-- Correctly identifies Cārvāka as the limiting case, not a non-theistic religion.
+### Original solved Mains practice — 6 models
 
-#### ORIGINAL SOLVED MAINS PRACTICE — 6 MODELS
-
-All six questions are original practice prompts rather than PYQs. Their models are independent examiner-oriented illustrations, not official answers.
+The following are original, independently prepared practice questions and model answers, not previous-year questions or official solutions.
 
 #### Original 1 · 10 marks
 
-**Question:** Distinguish non-theism, atheism, agnosticism and religious naturalism. Why do these distinctions matter in the philosophy of religion?
+**Question:** "Non-theistic is not identical with atheistic." Examine the significance of this distinction for the possibility of religion without God.
 
-**Demand decoding:** Define four positions by the different questions they answer, use examples, expose common conflations, and explain the analytical value of the distinctions.
+**Model solution:**
+The distinction decides the clause. Atheism denies that God exists; non-theism reports that a creator is absent from a tradition's diagnosis and path. The first is a claim about what exists, the second about what a path requires.
 
-**Model answer (about 320 words):**
+Its significance is that non-theism leaves standing everything a religion needs. Theravāda Buddhism permits cosmological gods while denying their creatorhood and salvific ultimacy; later Mahāyāna develops full devotion to Buddhas and bodhisattvas; Jainism venerates the perfected *siddha*. None of that would be available to a tradition committed to denying every deity and every sacred being.
 
-Non-theism, atheism, agnosticism and religious naturalism are not interchangeable because they concern different relations among God, knowledge and religious practice.
+The distinction also redistributes the burden of proof. The non-theist need only show that a complete religious structure exists without a creator, which is a claim about actual traditions. The atheist must additionally defend a universal negative.
 
-**Non-theism** describes a religious structure in which a creator or supreme saviour is not necessary. Buddhism explains suffering through dependent origination and ends it through the Eightfold Path; Jainism relies on jīva, karma and vows; Mīmāṃsā secures authority and ritual efficacy through the *apauruṣeya* Veda and *apūrva*. Non-theism therefore concerns the role, not necessarily the total non-existence, of divine beings.
+The objection is that a creator assigned no role has effectively been denied. The reply is doctrinal: what Buddhism denies is creatorhood and final salvific power, not existence, and the surviving devotional practice is evidence that the narrower denial is the real one.
 
-**Atheism** denies or lacks belief in God. It need not generate religion. Cārvāka rejects God together with soul, karma, afterlife and liberation, and is consequently a critique of religious ontology rather than a religion without God. Dworkin’s “religious atheism,” however, shows that atheism can be combined with religious value when objective meaning and cosmic sublimity are retained.
+Loose use of "atheistic" therefore concedes the theist's framing in the first line and makes a strong case sound like a weak one.
 
-**Agnosticism** concerns epistemic status. Weak agnosticism says God is not known; strong agnosticism says God is unknowable. An agnostic may suspend doctrinal assent while retaining ethical, contemplative or communal practice. This differs both from atheist denial and from Buddhism’s positive non-theistic soteriology.
-
-**Religious naturalism** makes an affirmative ontological proposal: nature, not a supernatural person, is the locus of ultimacy and reverence. Dewey’s “religious” quality of experience and Goodenough’s response to nature illustrate this route.
-
-The objection is that these positions all remove orthodox creator-belief and therefore differ only verbally. The reply is that they generate different commitments: suspension is not denial; a naturalistic reinterpretation is not mere absence of belief; and a non-theistic path can retain karma, liberation and sacred practice.
-
-The distinctions matter because they prevent two opposite errors—calling Buddhism simple atheism and calling every atheist outlook religious. A sound classification separately tests ontology, epistemic attitude, object of reverence, practice and soteriology.
-
-**Why this earns marks:**
-
-- Defines each term through a distinct philosophical question.
-- Gives named Indian and Western examples.
-- Uses Cārvāka to separate atheism from non-theistic religion.
-- Includes an objection and a criterion-based verdict.
+**Why this earns marks:** States the distinction precisely; shows what it preserves; identifies the shift in burden of proof; answers the collapse objection with doctrinal evidence; ends with the examination consequence.
 
 #### Original 2 · 10 marks
 
-**Question:** Does Cārvāka clarify the conceptual boundary of “religion without God”? Examine.
+**Question:** Explain why classical Mīmāṃsā is often regarded as the sharpest counterexample to the claim that religion requires God.
 
-**Demand decoding:** Do not repeat the 2025 critique stem. Use Cārvāka comparatively to identify what Buddhism, Jainism and Mīmāṃsā retain after removing God, then assess whether the boundary is defensible.
+**Model solution:**
+Because it removes God from a tradition that keeps everything else religion is usually thought to need: scripture, ritual, duty, merit and a promised fruit.
 
-**Model answer (about 330 words):**
+Three functions a deity normally performs are reassigned. Authority: the Veda is authorless (*apauruṣeya*), so no speaker's reliability needs establishing, and the theistic arguments from the text's status lose their premise. Duty: Jaimini's *Mīmāṃsā-sūtra* 1.1.2 defines dharma as what is characterised by injunction and is beneficial, so dharma is known from injunction alone, not from any deity's command. Desert: unseen potency (*apūrva*) is postulated to connect a perished momentary act with a much later fruit, answering the Nyāya demand for a superintendent of karma.
 
-Cārvāka clarifies the boundary of religion without God precisely because it is not itself a religion without God. It removes not only a creator but the epistemic and soteriological framework through which non-theistic religions remain religious.
+The deities named in the mantras are elements within the ritual structure — the dative of the offering — rather than agents who hear and grant.
 
-The strong Cārvāka position recognises perception alone as a secure *pramāṇa*. Inference depends on universal *vyāpti*, which cannot be perceived across all cases; an unnoticed *upādhi* may always condition the observed relation. Hence God, an immaterial soul, karma, rebirth, heaven and ritual potencies are rejected as suprasensible postulates. Consciousness is bodily, and *svabhāva* explains natural order without design.
+Two qualifications are owed. Nyāya objects that an unconscious potency cannot select the right fruit for the right agent; Mīmāṃsā replies that the relation is law-like rather than deliberative, which the objector must then argue against. And later authors of the school drift toward theism, so the atheistic reading is of the classical system.
 
-By contrast, Buddhism removes a creator but retains Dharma, dependent origination, karma, the Saṅgha and nirvāṇa. Jainism retains jīvas, karmic matter, vows and siddhahood. Mīmāṃsā retains sacred Veda, injunction, ritual duty and *apūrva*. Their godlessness is therefore internal to a positive account of bondage, discipline and liberation. Cārvāka closes the route to that wider sacred order itself.
+Mīmāṃsā thus shows that the functions God performs are separable, which is a stronger result than any single tradition's silence about a creator.
 
-An objection follows: if religion is functionally defined through meaning and a way of life, Cārvāka’s this-worldly ethics might also count as religious. This makes the definition too broad. Hedonistic or naturalistic life-guidance alone does not supply ritual-experiential discipline, an ultimate sacred order or soteriology. Otherwise secular ethics and political ideology would also become religions.
-
-Conversely, the boundary should not require belief in the supersensible as such, because religious naturalism locates ultimacy within nature. What is required is a disciplined and communal relation to ultimacy, practices of self-transformation and an existential or soteriological horizon. Cārvāka, as normally presented, lacks this integrated structure.
-
-Thus Cārvāka performs a negative but valuable role. It demonstrates that “without God” does not mean “without any criterion”: Buddhism, Jainism and Mīmāṃsā survive the loss of a creator because they retain sacred order and liberation, while Cārvāka’s more comprehensive negation normally crosses into non-religion.
-
-**Why this earns marks:**
-
-- Makes a direct boundary thesis instead of reproducing the PYQ answer.
-- Uses *vyāpti* and *upādhi* only to support the comparative point.
-- Specifies what three non-theistic traditions retain.
-- Refines the criterion to accommodate naturalism without admitting every ethics.
+**Why this earns marks:** Identifies the three reassigned functions; quotes the sūtra for its epistemic consequence; states the postulate's status correctly; answers Nyāya; restricts the claim to the classical system.
 
 #### Original 3 · 15 marks
 
-**Question:** Compare Jainism and Pūrva-Mīmāṃsā as two different strategies for sustaining religion without a creator God.
+**Question:** "Functional definitions of religion purchase the possibility of religion without God at the price of admitting anything." Critically discuss.
 
-**Demand decoding:** Organise the answer comparatively, not as two unrelated notes. Explain ontology, authority, moral causation, practice, liberation, creator-critique and the strongest objection to each.
+**Model solution:**
+The charge is serious and half true, and the correct answer concedes the half before repairing it.
 
-**Model answer (about 515 words):**
+It is true that every functional feature over-generates on its own. Ultimate concern is a strong candidate but nations, art and political causes can become ultimate concerns. Ritual is widespread but secular ceremonies have it. Ethical orientation is common but ethical philosophies are not religions. Community is common but so are clubs. A definition assembled from these alone would indeed admit almost anything with sufficient intensity.
 
-Jainism and Pūrva-Mīmāṃsā both sustain full religious systems without a creator, but they do so through contrasting strategies. Jainism builds a liberation-centred metaphysics of souls and karma; Mīmāṃsā builds a duty- and ritual-centred account of authorless authority and impersonal efficacy.
+It is false that this is the only functional definition available. The working repair is a **cluster with two load-bearing conditions**: a disciplined and socially embodied relation to an ultimate or sacred order, together with a transformative or soteriological practice. Both must be present. A political movement may have ritual, doctrine, ethics and community and still fail both, because its ultimate is not treated as sacred and it offers no release from a diagnosed predicament.
 
-Jain ontology is pluralistic. Innumerable eternal jīvas possess consciousness but are bound by karmic matter attracted through passion and action. The religious problem is contamination and bondage; the solution is right faith, knowledge and conduct, expressed through vows, restraint and ascetic purification. Liberation removes karmic obstruction and perfects the jīva into a siddha. Tīrthaṅkaras are liberated exemplars and teachers, not creators or dispensers of grace.
+The repair earns its keep by doing real classificatory work in both directions. It admits Buddhism, whose diagnosis of suffering and path to its cessation satisfy the soteriological condition exactly; Jainism, with bondage by karmic matter and release into the perfected state; Mīmāṃsā, with injunction, merit and a promised fruit; and Sāṃkhya, with entanglement and isolation. And it **excludes Cārvāka**, which denies the whole supersensible order and offers no path — an exclusion that shows the criterion is not merely permissive.
 
-Jain anti-creator reasoning follows from this structure. The world and its basic constituents are beginningless. A creator with a body would be limited, while a bodiless agent faces the problem of acting on matter. A perfect being also lacks an unsatisfied motive to create, and attributing a flawed world to such a being creates moral difficulty. Cosmic and moral order are explained through the nature of substances and karma.
+The alternative to functionalism is worse. A substantive definition centred on a personal creator settles a comparative question by stipulation, excluding Buddhism before examining it; and it cannot explain why traditions that lack a creator nonetheless possess doctrine, ritual, ethics, experience, narrative and institution in the pattern Smart identified.
 
-Mīmāṃsā begins not from soul-purification but from dharma disclosed in Vedic injunction. Jaimini defines dharma through *codanā*. The Veda is *apauruṣeya*: because it has no human or divine author, its authority does not depend on a speaker’s reliability. Ritual acts are momentary whereas fruits may arise much later; *apūrva*, an unseen potency postulated through *arthāpatti*, links act and delayed result. Kumārila treats it as a potency associated with act or agent, while Prabhākara stresses *niyoga/kārya*, the enjoined ought-to-be-done.
+A residual concession remains. Civil religion and secular spirituality sit uncomfortably close to the boundary, and the cluster classifies them only after asking whether a transformative discipline is present. That is a real cost of any functional account, but it is the cost of a working definition rather than of an empty one.
 
-Thus the schools replace different divine functions. Jainism replaces creation and judgement with beginningless substances and karmic matter; Mīmāṃsā replaces revelation with authorless language and providential reward with ritual law. Jain practice is ascetic-soteriological and directed toward freedom from karma. Mīmāṃsā practice is injunction- and sacrifice-centred, with classical concern for dharma and promised fruits.
+The charge therefore fails against the cluster while succeeding against unrestricted functionalism, which is precisely why the definition must be stated with its restrictions in the opening paragraph.
 
-Nyāya presses a common objection: unconscious karma or *apūrva* cannot select the correct result for the correct person at the correct time; an omniscient *karmādhyakṣa* is required. The non-theistic reply is that this models natural or moral regularity on deliberate administration and thereby begs the question. Law-like specificity does not entail a cosmic chooser. Against Mīmāṃsā, Nyāya also challenges eternal word–meaning relations; against Jainism, it can ask how non-conscious karmic matter tracks moral quality.
-
-Jainism’s strength is its integrated ethics and liberation, though the material character and moral precision of karma invite explanation. Mīmāṃsā’s strength is showing that scripture, obligation and ritual fruit can be separated from God, though *apūrva* may look like an ad hoc unseen mechanism. Neither is covert theism: a siddha is an achieved perfect jīva, and *apūrva* is not a conscious judge.
-
-Therefore both decisively weaken God’s alleged necessity, but by different architectures—Jainism through a moral-soteriological cosmos and Mīmāṃsā through an autonomous sacred-linguistic and ritual order.
-
-**Why this earns marks:**
-
-- Sustains comparison across ontology, authority, causation, practice and goal.
-- Uses jīva, karmic matter, siddha, *codanā*, *apauruṣeya* and *apūrva* precisely.
-- Includes Nyāya’s intelligent-allotment objection and a non-question-begging reply.
-- Ends by identifying the distinct non-theistic architecture of each school.
+**Why this earns marks:** Concedes the true half explicitly; states the two load-bearing conditions; demonstrates classification in both directions; shows the substantive alternative is worse; ends with a residual concession rather than a clean sweep.
 
 #### Original 4 · 15 marks
 
-**Question:** Can religious fictionalism preserve sincere participation after metaphysical belief is withdrawn? Evaluate with reference to Indian graded-truth models.
+**Question:** Assess the claim that dharma, *nirvāṇa* and *apūrva* are simply God under other names.
 
-**Demand decoding:** Define fictionalism and distinguish it from error theory and non-cognitivism. Analyse sincerity and motivation objections, then compare rather than equate it with Advaita and Buddhist two-truth frameworks.
+**Model solution:**
+This is the hidden-God objection, and it is the most persistent challenge to the whole clause. It infers, from the fact that a non-theistic concept performs a function God performs, that the concept is a disguised deity.
 
-**Model answer (about 520 words):**
+The inference is invalid, and the reply must say why rather than merely deny it. Functional similarity does not establish ontological identity. An impersonal law is not an omniscient person. Liberation reached by insight is not grace bestowed by an agent. A potency postulated to connect act and fruit does not select, forgive, respond or love. Each of these differences is not a matter of degree but of kind.
 
-Religious fictionalism holds that a person may participate rationally in religious discourse and practice without asserting its supernatural propositions as literally true. It attempts to preserve ritual, narrative, ethical formation and community after metaphysical belief is withdrawn. Its central difficulty is not logical possibility but sincerity.
+Take the three concepts in turn. *Dharma* in Buddhism is the order the path discloses and conforms to; it issues no commands, hears no petitions and grants no pardons. *Nirvāṇa* is the cessation of the conditions of suffering; it is a goal, not an agent, and it plays no cosmological role — treating it as a first cause reimports precisely the structure Buddhism dispenses with. *Apūrva* is explicitly a postulate introduced to bridge a perished act and a later fruit, and the Mīmāṃsā reply to Nyāya is that the connection is law-like rather than deliberative.
 
-The fictionalist grants that statements about God ordinarily possess truth-conditions, yet adopts them in a non-assertoric, practice-internal spirit. This differs from error theory, which concludes that false religious claims should be abandoned, and from non-cognitivism, which interprets religious language primarily as commitment, attitude or policy rather than failed description. Don Cupitt’s non-realism and Robin Le Poidevin’s explicit fictionalist route illustrate post-theistic participation.
+The objector has a comeback worth stating. If these concepts are doing the work God did, the tradition has acknowledged that the work must be done, so the theist's diagnosis of what religion requires was correct even if his ontology was not. That is a fair point and should be conceded: religion does require a sacred order, an account of moral consequence and a goal. What it does not require is that these be unified in a single responsive person.
 
-The positive case appeals to familiar imaginative engagement. Readers can be emotionally transformed by fiction without believing its characters exist; participants in ritual drama can enact a narrative without deception. Religious stories may similarly organise attention, moral aspiration, grief and communal identity. Fictionalism also avoids insincere intellectual assent: the participant openly declines literal assertion rather than pretending privately to believe.
+Two disciplinary consequences follow for an answer. First, avoid writing that *Dharma* "takes the place of" God; describe instead what work it does and what work it does not do. Second, notice that the objection is strongest exactly where the theistic goods are relational — petition and grace — and weakest where they are structural.
 
-Three objections remain. First, worship appears essentially addressed to someone. If the worshipper believes there is no recipient, prayer may become aesthetic performance. Second, the motivational power of sacrifice, hope and repentance may depend on truth-belief; practice could hollow out across generations. Third, believers themselves normally reject the fictionalist description, making it a revision of religion rather than an interpretation of existing faith.
+The claim therefore fails as stated, while identifying correctly the functions any religion must discharge somehow.
 
-The fictionalist replies that not every religious act is petition. Liturgy can shape character, express gratitude and sustain communal memory. Narrative efficacy does not always depend on literal belief, and transparent “as-if” participation need not involve self-deception. Nevertheless, this reply is partly empirical: whether durable motivation survives metaphysical withdrawal cannot be settled by conceptual analogy alone.
-
-Indian graded-truth models sharpen the evaluation. In Advaita, saguṇa worship is genuinely valid and efficacious at the *vyāvahārika* level, though ultimately sublated in non-dual Brahman at the *pāramārthika* level. Sublation is not the same as knowingly treating worship as false fiction. Buddhism’s *saṃvṛti–paramārtha* distinction likewise permits committed conventional practice while denying ultimate substantial reference. These models preserve the practitioner’s sincerity through graded validity, whereas fictionalism begins from declined assertion.
-
-An objection is that graded truth merely disguises fiction. The reply is that a conventionally true and efficacious claim has a recognised domain of validity; a fictive claim is adopted without assertion even in ordinary discourse. The logical structures therefore differ.
-
-Religious fictionalism can preserve sincere participation if sincerity means transparent commitment to practice without counterfeit belief. It struggles if sincerity requires addressing a believed divine reality. Indian models do not solve fictionalism’s problem but reveal a stronger alternative: transform the level and meaning of truth rather than replace belief with pretence.
-
-**Why this earns marks:**
-
-- Defines fictionalism against two neighbouring theories.
-- Gives the best imaginative-participation defence and all three major objections.
-- Preserves the distinction between sublation, conventional truth and fiction.
-- Reaches a conditional verdict rather than declaring fictionalism either dishonest or complete.
+**Why this earns marks:** Names the objection and its inference; refutes the inference with three kind-differences; treats the three concepts separately; concedes the objector's strongest comeback; converts the analysis into two writing rules.
 
 #### Original 5 · 20 marks
 
-**Question:** Compare the Buddhist, Jain, Mīmāṃsā and Sāṃkhya accounts of order and liberation without a creator. Do they reveal a common model of non-theistic religion?
+**Question:** "Religion can survive the loss of God, but not the loss of a sacred order." Critically examine with reference to both Indian and modern Western positions.
 
-**Demand decoding:** Give a structured four-way comparison, not parallel summaries. Identify each school’s replacement for creation, moral order and salvation; include cross-objections and finish by testing whether a common core survives doctrinal differences.
+**Model solution:**
+The statement is defensible, and examining it requires a criterion, two bodies of evidence and a boundary case.
 
-**Model answer (about 710 words):**
+**The criterion.** Religion is a socially embodied and disciplined orientation to an ultimate or sacred order, expressed through some combination of doctrine, ritual, ethical formation, experience and community, and directed at a transformative or soteriological goal. Two conditions are load-bearing: the sacred order and the transformative practice. Creator-belief is one historically powerful way of organising the orientation, not a condition of it — and a definition that made it a condition would settle a comparative question by stipulation.
 
-Buddhism, Jainism, Pūrva-Mīmāṃsā and classical Sāṃkhya jointly show that creator-belief is not necessary for a religious account of order and liberation. They do not, however, form one doctrine. Their commonality is architectural: each replaces divine agency with an impersonal order, disciplined practice and a transformative end.
+**The Indian evidence: survival without God.** Buddhism diagnoses suffering, explains its arising through dependent origination and karma, prescribes the Eightfold Path, sustains a community and completes in *nirvāṇa*. Jainism argues against a creator from motive and embodiment while retaining eternal souls, karmic matter, vows and the perfected *siddha* — an achieved rather than a governing divinity. Mīmāṃsā keeps scripture, ritual, duty and merit while making the Veda authorless and postulating unseen potency (*apūrva*) to connect act and fruit; Jaimini's *Mīmāṃsā-sūtra* 1.1.2 makes dharma knowable from injunction alone. Classical Sāṃkhya derives the world-process from nature in proximity to plural selves and seeks isolation; Yoga's special self is not a creator and must not be read back into Sāṃkhya.
 
-**Buddhism** begins from *dukkha*, not cosmogenesis. Dependent origination explains events as conditionally arisen, avoiding a first creator. Karma connects intentional conduct with consequences, while the Four Noble Truths and Eightfold Path lead through ethics, meditation and wisdom to nirvāṇa. The Saṅgha provides institutional form. Devas, where admitted, remain conditioned and non-ultimate. The distinctive feature is *anātman*: liberation does not perfect an eternal soul but ends the causal conditions sustaining suffering.
+In every case what survives the removal of God is precisely a sacred order plus a path.
 
-**Jainism** accepts what Buddhism denies—innumerable enduring jīvas. These are bound by karmic matter through passion and activity. The cosmos and its constituent realities are beginningless; no creator initiates them. Right faith, knowledge and conduct, intensified through vows and ascetic restraint, stop karmic influx and remove accumulated bondage. Liberation reveals the jīva’s perfected state as siddha. Jain arguments add that an embodied creator would be limited, a bodiless creator’s action is obscure, and a perfect being lacks motive to create.
+**The modern Western evidence: the thinner case.** Religious naturalism relocates ultimacy inside nature. Dewey's *A Common Faith* (1934) distinguishes "religion" from "the religious" and redefines God as the active relation between the ideal and the actual; Dworkin's *Religion without God* (2013) defends religious atheism on objective life-meaning and cosmic sublimity; Goodenough's *The Sacred Depths of Nature* (1998) develops reverence for natural depth. Religious fictionalism goes further, declining to assert the claims at all: Cupitt's non-realism (1980) and Le Poidevin's fictionalism (1996) retain narrative, liturgy and formation without metaphysical assent.
 
-**Mīmāṃsā** shifts the centre from metaphysical liberation to sacred injunction and ritual performance. Dharma is known through Vedic *codanā*. Because the Veda is *apauruṣeya*, authority needs neither a human composer nor divine revelation. A ritual act that perishes yet yields a later fruit generates *apūrva*, an unseen potency connecting performance and result. Kumārila stresses potency; Prabhākara stresses *niyoga/kārya*, the binding task disclosed by injunction. Deities named in sacrifice need not be autonomous agents who hear and grant; they function within the ritual grammar.
+These are genuinely religious on the criterion where a community and a transformative practice accompany the philosophy; where they do not, "religious" survives chiefly as an adjective for a quality of experience. Fictionalism additionally faces the sincerity objection, since prayer seems directed to a believed hearer. Advaita's two levels supply the instructive contrast: worship of the qualified absolute is efficacious at the everyday level and is **sublated**, not falsified, at the ultimate level — graded truth rather than pretence.
 
-**Sāṃkhya** offers an ontological and epistemic route. Prakṛti, constituted by the three guṇas, evolves in proximity to plural puruṣas. The world-process exists for experience and release, but its apparent purposiveness does not require conscious manufacture. Bondage is misidentification of puruṣa with prakṛti’s modifications; discriminative knowledge, *viveka-khyāti*, culminates in *kaivalya*. Classical Sāṃkhya should be distinguished from Yoga, whose Īśvara is a special puruṣa rather than straightforwardly the creator assumed in standard theism.
+**The boundary case.** Cārvāka closes the epistemic route to every supersensible object: perception alone is a means of knowledge, concomitance cannot be established, consciousness is emergent, and order follows from own-nature. It therefore has no soteriology, no sacred, no community of practice and no ultimate concern. What results is not a godless religion but no religion at all — which is the strongest single confirmation of the statement under examination.
 
-The comparison reveals three major differences. First, their ontologies range from Buddhist impermanence and no-self, through Jain soul pluralism, to Sāṃkhya dualism; Mīmāṃsā is primarily concerned with Vedic normativity. Second, moral causation is intentional and conditional in Buddhism, materially conceived in Jainism, ritually mediated through *apūrva* in Mīmāṃsā, and less central to Sāṃkhya’s discrimination model. Third, liberation means nirvāṇa, purified siddhahood, ritual fruit or the fulfilment of dharma in classical Mīmāṃsā contexts, and isolation of puruṣa in Sāṃkhya.
+**The qualification.** "Survive" understates a real cost. Petition, covenant and grace require a responsive God, and traditions without them have a differently shaped devotional life. And the sacred-order condition needs policing at the modern boundary, since civil religion and secular spirituality display ritual and ultimate concern without a transformative discipline.
 
-Nyāya supplies a common objection. Unconscious conditions, karmic matter, *apūrva* or prakṛti cannot, it argues, produce purposive order and exactly fitted consequences without an intelligent maker and *karmādhyakṣa*. The objection is strongest against precise moral allotment. The non-theistic reply has two parts. Regularity need not resemble an artefact requiring a craftsman; appealing to intelligence may merely relocate the explanatory problem to divine motive, embodiment and responsibility. Further, liberation-centred explanation asks what sustains bondage and ends it, not who manufactured the total cosmos.
+The statement therefore holds: God is separable from religion, a sacred order is not.
 
-A second objection claims that impersonal Dharma, nirvāṇa, karma or prakṛti merely function as God under other names. Functional substitution, however, does not establish ontological identity. These principles do not create by will, issue commands as persons, forgive, enter covenants or bestow grace. Their impersonality changes religious life: petition and reciprocal devotion become less central, while discipline and knowledge become primary.
-
-The four schools therefore share a common model only at a high level: a sacred or ultimate order, an account of the human predicament, a regulated path, community or lineage, and a transformative end. This model is strong enough to distinguish them from Cārvāka, which rejects the wider supersensible-soteriological order, but loose enough to respect their incompatible doctrines.
-
-The graded verdict is that they establish a family of non-theistic religions, not one hidden theology. God’s functions prove separable: causal order, normativity, moral consequence and liberation can be secured in different ways. What remains indispensable is not a creator but an intelligible relation among ultimate order, disciplined practice and release.
-
-**Why this earns marks:**
-
-- Gives equal doctrinal depth to all four schools.
-- Compares mechanisms of order, bondage, practice and liberation explicitly.
-- Includes Yoga’s qualification and Nyāya’s strongest common objection.
-- Rejects the hidden-God claim without denying functional analogy.
-- Derives a carefully limited common model and a Cārvāka boundary.
+**Why this earns marks:** States a criterion before assembling evidence; runs Indian and Western bodies of evidence separately and comparably; uses Cārvāka as the confirming boundary; names the defeater — the devotional cost — that qualifies the verdict; ends by deciding rather than summarising.
 
 #### Original 6 · 20 marks
 
-**Question:** Can post-theistic value, reverence and ritual remain religious without collapsing into secular ethics? Discuss with reference to Nietzsche, religious naturalism and religious fictionalism.
+**Question:** Compare the classical Indian non-theistic traditions with modern religious naturalism and fictionalism as answers to the question whether religion requires God.
 
-**Demand decoding:** Build the modern debate from Nietzsche’s problem of nihilism, then compare naturalist assertion with fictionalist non-assertion. Test both against the charge of being merely ethics or aesthetics, and use classical non-theistic religion as a control case.
+**Model solution:**
+Both answer "no", but they arrive from opposite directions, and the comparison is decided by what each has to build and what each already possessed.
 
-**Model answer (about 720 words):**
+**What is removed, and what replaces it.** Buddhism removes creator and permanent self, replacing them with dependent origination, *Dharma*, *Saṅgha* and *nirvāṇa*. Jainism removes only the creator, replacing it with karmic matter, vows and the perfected *siddha*. Mīmāṃsā removes both the author of the Veda and the dispenser of fruit, replacing them with authorless authority (*apauruṣeya*) and unseen potency (*apūrva*). Sāṃkhya removes the creator, replacing it with nature's evolution in proximity to plural selves and release as isolation. Religious naturalism removes supernatural ontology, replacing it with nature as the locus of ultimacy. Fictionalism removes assertion itself, replacing it with participation in a non-assertoric spirit.
 
-Post-theistic thought asks a sharper question than classical non-theism: after a culture has lost belief in a personal God, can value, reverence and ritual remain genuinely religious, or do they become secular ethics with religious vocabulary? Nietzsche diagnoses the problem; religious naturalism and fictionalism offer contrasting reconstructions.
+**The structural difference.** The Indian systems are **positive** systems: they possess doctrines of causation, moral consequence, community and a final goal that were never derived from theism and therefore lose nothing when theism is withdrawn. Buddhism does not retain Christian forms after withdrawing belief; it has its own diagnosis, its own causal account and its own soteriology. The modern positions are **reconstructive**: they must build or re-motivate ultimacy after inherited metaphysics has weakened. That is why they are thinner, and the thinness is structural rather than accidental.
 
-Nietzsche’s “death of God” is a cultural diagnosis of the collapse of the Christian-metaphysical horizon under the pressure of modern truthfulness and science. Because inherited European values depended on that horizon, its loss threatens nihilism. His genealogy interprets slave morality and the ascetic ideal through *ressentiment* and life-denial. Revaluation and self-overcoming are intended to create life-affirming values without divine command.
+**The sincerity test.** Fictionalism's characteristic liability is sincerity: worship seems directed to a believed hearer, and make-believe worship risks being either dishonest or hollow. The fictionalist replies that transparent imaginative immersion is a familiar and non-deceptive human capacity, and that ritual can express commitment rather than report ontology; whether motivation survives over time is an unresolved empirical and existential issue. The comparative point that earns marks is that **Indian systems offer graded truth where Western fictionalism offers pretence**. Advaita treats worship of the qualified absolute as efficacious at the everyday level and sublated, not falsified, at the ultimate level; Buddhism's two truths permit serious conventional practice while denying ultimate substantial reference. Sublation is not falsification, and that difference preserves the practitioner's sincerity.
 
-Nietzsche therefore demonstrates that removing God does not automatically leave a stable secular morality. The authority, genealogy and vitality of values become problems. Yet his positive response is not clearly a religion: it lacks a settled sacred order, communal liturgy and universal soteriology, and risks elitism or arbitrary power. Nietzsche is best treated as the bridge from theistic collapse to post-theistic value-creation, not as a straightforward founder of religion without God.
+**Where the modern positions are stronger.** They address a question the classical traditions never faced: whether someone committed to a naturalistic ontology can be religious at all. Dewey's separation of "religion" from "the religious", Dworkin's religious atheism grounded in objective life-meaning and cosmic sublimity, and Goodenough's reverence for natural depth are answers to that specific modern predicament, and the Indian systems have nothing to say to it directly.
 
-**Religious naturalism** offers a more affirmative reconstruction. It locates ultimacy within nature rather than a supernatural person. Awe, humility, gratitude and commitment respond to the natural world’s depth and to objective value. John Dewey distinguishes institutional “religion” from “the religious,” a quality of experience that unifies the self around inclusive ideal ends; his “God” names a relation between ideal and actual rather than a being. Ursula Goodenough treats nature’s depth as capable of evoking a religious response. Ronald Dworkin’s religious atheism retains objective intrinsic meaning in human life and the sublimity of the universe without personal theism.
+**The shared result, and the shared limit.** Both families show that the *functions* of religion — reverence, community, ritual, orientation to ultimacy, self-transformation — are detachable from theistic belief. Both leave untouched the specifically relational goods: petition, covenant and grace still require a responsive God. And whether what survives counts as religion depends on the definition adopted at the start, which is why this clause always returns to the substantive-versus-functional question.
 
-Naturalism differs from ordinary secular ethics when these values are embedded in comprehensive ultimacy, communal symbol and transformative practice. Ethics asks what ought to be done; religious naturalism additionally cultivates a stance toward existence as a whole. Nevertheless, the objection is serious: awe before nature may be aesthetic emotion, and objective value may be moral realism, without worship, salvation or sacred authority. Calling them religious may stretch functional definition beyond usefulness.
+The classical traditions therefore give the stronger evidence that religion without God is actual; the modern positions give the sharper test of whether it remains possible under a naturalistic ontology.
 
-The naturalist replies that religion has never been exhausted by petition to a supernatural person. Orientation to ultimacy, ritualised attention, community and self-transformation can be religious even when their object is immanent. This answer is strongest where actual practices and communities accompany the philosophy; otherwise it remains “religious” chiefly as an adjective for experience.
+**Why this earns marks:** Uses a removal-and-replacement bench for six routes; identifies the positive/reconstructive asymmetry as the structural difference; runs the sincerity test with the Indian graded-truth control; concedes where the modern positions are stronger; closes on the shared result and the shared limit.
 
-**Religious fictionalism** takes another route. It grants or suspects that supernatural claims are false or unwarranted but permits participation in a non-assertoric, fictive spirit. Don Cupitt’s non-realism and Robin Le Poidevin’s fictionalist proposal seek to retain narrative, liturgy and moral formation without metaphysical assent. Fictionalism differs from error theory, which abandons false discourse, and from non-cognitivism, which denies that the language primarily asserted descriptive propositions.
+### Timed-paper compression plan
 
-Its advantage is practical continuity: symbols and stories can shape emotion and conduct as literature does. Its liability is sincerity. Prayer seems directed to a believed hearer; sacrifice motivated by make-believe may become hollow; and believers reject the revisionary description. The fictionalist answers that transparent imaginative immersion is not deception and that ritual can express commitment rather than report ontology. Still, whether motivation survives over time is an unresolved empirical and existential issue.
+This clause owns seven parts across 2018–2025 and is absent as a primary owner only in 2022, so the compression problem is predictable and the plan below is question-shaped rather than generic.
 
-Classical non-theistic traditions provide a control. Buddhism does not merely retain Christian forms after withdrawing belief. It possesses positive doctrines of dependent origination, karma, the Four Noble Truths, the Saṅgha and nirvāṇa. Jainism and Mīmāṃsā likewise contain objective sacred orders and soteriological disciplines. They show that religion without God can be thick. Modern naturalism and fictionalism are thinner because they must reconstruct ultimacy or participation after inherited metaphysics has weakened.
+| If the stem is | Cut first | Never cut |
+|---|---|---|
+| a **justification** stem (2018) | the modern Western material; the second and third Indian cases down to a clause each | the stated definition; one Indian case with its mechanism; the boundary that excludes Cārvāka |
+| an **opponent-construction** stem (2019) | your own preferred definition down to one sentence | the theist's five arguments; the Mīmāṃsā answer to allotment; the devotional concession |
+| a **necessity** stem (2020) | Sāṃkhya; the naturalism/fictionalism paragraph | the substantive definition's best defence; one counterexample defended against reinterpretation |
+| a **possibility** stem (2021) | comparative breadth; the Western comparison entirely | one tradition in depth as a *lived* practice; the concession about petition and grace |
+| a **definition-plus-position** stem (2023) | adjacent positions (Kant, Spencer) | the weak/strong subdivision; the second printed deliverable; the reduction objection |
+| a **state-and-evaluate** stem (2024) | the Jain and Mīmāṃsā parallels | the complete statement before evaluation; the devotional-Mahāyāna answer; the graded verdict |
+| an **argument-of-the-critique** stem (2025) | the four-element ontology; the hedonist material entirely | the four moves of the concomitance problem; the conditioning-factor residue; both replies to self-refutation |
 
-Indian graded-truth devices also expose fictionalism’s weakness. Advaita regards saguṇa worship as efficacious at the *vyāvahārika* level and later sublated, not knowingly false. Buddhism’s two truths permit serious conventional practice without ultimate substantial reference. Graded validity preserves sincerity more readily than explicit make-believe.
+**The 60-second recovery drill.** If time is collapsing, write four sentences in this order and stop: (1) the definition of religion you are using; (2) one tradition, with the mechanism that replaces the divine function; (3) the strongest theistic objection, named; (4) the graded verdict, with the cost you concede. Four correct sentences of this shape outscore two pages of school-listing.
 
-The verdict must therefore be conditional. Post-theistic value becomes more than secular ethics when it integrates a comprehensive ultimate orientation with communal, symbolic and transformative practice. Religious naturalism can meet this criterion, though often thinly. Fictionalism preserves religious forms but remains vulnerable on truth, motivation and sincerity. Nietzsche identifies why reconstruction is needed but does not by himself complete it. God can disappear while religious orientation survives; what cannot disappear without conceptual cost is every sacred horizon, lived discipline and transformation beyond ordinary moral rule-following.
+**What not to over-study.** Do not let "spiritual but not religious" discourse, civil religion or the biography of the Western critics crowd out Buddhism, Jainism, Mīmāṃsā and the Indian anti-creator arguments. Master the definition test, one concrete tradition in depth, the theist's best objection and the exact verdict.
 
-**Why this earns marks:**
+### Self-scoring and next steps
 
-- Uses Nietzsche to frame the nihilism problem rather than misclassifying him as a simple atheist.
-- Separates naturalist assertion, fictionalist non-assertion and secular ethics.
-- Names Dewey, Goodenough, Dworkin, Cupitt and Le Poidevin with precise roles.
-- Tests sincerity through Advaita and Buddhist graded-truth comparisons.
-- Uses classical non-theistic religions as a control and gives a criterion-based final verdict.
+| Diagnostic score (out of 32) | Reading it | What to do next |
+|---:|---|---|
+| 28–32 | the discriminations are secure | practise under time: a 15-marker and a 20-marker back to back, 45 minutes total |
+| 22–27 | content is present, discriminations are soft | re-run the traps for every item missed, then rewrite one model answer from memory |
+| 15–21 | the definition test is not yet automatic | re-read register cards 1–3 and the graded verdict ladder before attempting more questions |
+| below 15 | non-theism, atheism and agnosticism are being confused | return to the learning session's Basic block, Sessions 1–4; do not attempt timed answers yet |
+
+**Trap census by cluster.** Of the thirty-two examiner traps in this workbook, six concern the definition test and the criteria cluster, five concern the Buddhist material and the devotional complication, six concern Mīmāṃsā (authorless scripture, the sūtra, the postulate and the two schools), six concern Cārvāka (the concomitance argument, attribution discipline, the replies and the classification), three concern Jainism and Sāṃkhya–Yoga, three concern the four negative positions and agnosticism's two deliverables, and three concern the modern naturalism/fictionalism discriminations. A candidate who repeatedly misses one cluster should revise that cluster rather than attempt more mixed practice.
+
+### Independence note
+
+Every model answer in Parts 3 and 4 is independent learner practice written to the repository's examiner-grade standard. UPSC does not publish official Mains answers or marking keys, and nothing here should be presented as one. The previous-year stems themselves are reproduced verbatim from the audited 2018–2025 Philosophy of Religion ledger, in which this clause owns seven question-parts and is absent as a primary owner only in 2022.

@@ -1,89 +1,929 @@
-ASCII MASTER FLOW — PANEL 1/8: 1. Six survival terms
-SOUL = alleged enduring subject | SELF = first-person or identity principle
- PERSON = embodied/psychological individual | IDENTITY = later is same person
- IMMORTALITY = survival of death | REBIRTH = renewed conditioned existence
- REINCARNATION = substantial soul re-embodied
- RESURRECTION = divine restoration of embodied person
- LIBERATION = release from bondage or rebirth
-                         |
- QUESTIONS MUST BE KEPT DISTINCT
- what survives? -> by what continuity criterion? -> where/when? -> through whose agency?
- -> is survival endless life, renewed embodiment, or freedom from rebirth?
- TERM CONTROL prevents treating Plato, Buddhism, Vedānta and Christianity as one doctrine.
+ASCII MASTER FLOW — PANEL 1/32: The clause, the chain and the modal question
+PHILOSOPHY PAPER II — PHILOSOPHY OF RELIGION 04
+SOUL: IMMORTALITY, REBIRTH AND LIBERATION
+COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM — 24 PANELS
+Syllabus, verbatim: "Soul : Immortality; Rebirth and Liberation."
+Read top to bottom. Each panel is data-complete: premises, named critics, replies and verdict.
 
-ASCII MASTER FLOW — PANEL 2/8: 2. Western immortality arguments
-PLATO
- cyclical argument: opposites arise from opposites
- recollection: a priori knowledge suggests prenatal existence
- affinity: invisible rational soul resembles unchanging Forms
- Phaedo final argument: soul essentially bears life and cannot admit death
-                         |
- objections: pre-existence != endless survival; harmony analogy; dependence on brain
- DESIRE/JUSTICE ARGUMENTS: fulfilment or moral completion suggests afterlife
- limit: wish and moral need do not by themselves establish metaphysical survival.
+              IMMORTALITY  ------>  REBIRTH  ------>  LIBERATION
+              (a subject is        (karmically       (exit from
+               deathless)           renewed)          the series)
+                    |                   |                  |
+              IS EACH ONE A NECESSARY CONDITION FOR THE NEXT?
+                                    |
+   +--------------------------------+---------------------------------+
+   WESTERN ROUTE                                    INDIAN ROUTE
+   Plato: four a priori proofs (Phaedo)             Vedanta: eternal atman -> moksa
+   Kant: soul is not a knowable substance           Nyaya-Vaisesika: eternal self -> apavarga
+   Semitic: RESURRECTION, one life, the             Samkhya-Yoga: purusa -> kaivalya
+   psychosomatic person re-constituted              Jainism: eternal jiva -> siddhahood
+   Cullmann 1955: the two are OPPOSED               Buddhism: NO permanent self -> nirvana
+        |                                                   |          ^
+        |                                                   |    THE COUNTER-EXAMPLE:
+        +---------------------+-----------------------------+    rebirth WITHOUT an
+                              |                                  immortal soul
+                   THE CONTINUITY-BEARER QUESTION
+   substance? · psychological series? · causal stream? · God-re-constituted person?
+   ------------------------------------------------------------------------------
+   VERDICT CARRIED THROUGH THE WHOLE TOPIC:
+   an immortal SUBSTANCE is SUFFICIENT for rebirth but NOT NECESSARY.
+   What rebirth requires is a CONTINUITY-BEARER; schools differ only on whether
+   that bearer must be a substance.
+   PYQ LOAD: 17 owned parts out of 112 across 2018-2025 — the heaviest clause in Section B.
+   2018:2 · 2019:1 · 2020:2 · 2021:3 · 2022:3 · 2023:2 · 2024:2 · 2025:2
 
-ASCII MASTER FLOW — PANEL 3/8: 3. Personal identity after death
-IDENTITY CANDIDATES
- +-> same immaterial substance
- +-> bodily continuity / resurrection
- +-> memory and psychological continuity (Locke)
- +-> causal narrative continuity
-                         |
- REID: brave officer exposes memory transitivity problem
- duplication: one psychology copied twice cannot yield two numerically identical persons
- resurrection requires divine re-identification of this person, not mere replica production
- verdict depends on whether identity needs strict sameness or survival-grade continuity.
+ASCII MASTER FLOW — PANEL 2/32: Six survival terms that are not synonyms
+   +---------------+------------------------------+-----------------------------+
+   | TERM          | CLAIM MADE                   | OWNER / FATAL MERGE         |
+   +---------------+------------------------------+-----------------------------+
+   | IMMORTALITY   | a subject is deathless       | Plato, Vedanta, Nyaya,      |
+   |               |                              | Jainism / with resurrection |
+   +---------------+------------------------------+-----------------------------+
+   | SURVIVAL      | something of the person      | the weaker neutral claim /  |
+   |               | continues after death        | with immortality            |
+   +---------------+------------------------------+-----------------------------+
+   | REBIRTH       | karmically renewed becoming  | the WIDER term; the only    |
+   | punarjanma /  | in a beginningless series    | correct one for Buddhism /  |
+   | punarbhava    |                              | with reincarnation          |
+   +---------------+------------------------------+-----------------------------+
+   | REINCARNATION | a SUBSTANTIAL soul re-enters | Vedanta, Nyaya, Jainism /   |
+   | (re-enfleshed)| flesh                        | applied to Buddhism         |
+   +---------------+------------------------------+-----------------------------+
+   | RESURRECTION  | God re-constitutes the whole | Judaism, Christianity,      |
+   |               | embodied person; ONE life    | Islam / "rebirth in heaven" |
+   +---------------+------------------------------+-----------------------------+
+   | LIBERATION    | exit from the series; SEVEN  | every Indian school /       |
+   |               | non-identical destinations   | treated as one state        |
+   +---------------+------------------------------+-----------------------------+
+                                    |
+   MERGE ANY TWO AND THE SCRIPT CAPS AT ABOUT 50%.
+   Sanskrit registers the range: punarjanma (rebirth) · punarahvrtti (return) ·
+   punarbhava (re-becoming) · samsara (the wandering itself).
+   THE THREE STEMS BUILT ON THIS BENCH:
+     necessity for REBIRTH        -> 2022 Q5(c); 2025 Q7(c)
+     necessity for LIBERATION     -> 2024 Q6(a)
+     presupposition of RELIGION   -> 2020 Q5(b)
 
-ASCII MASTER FLOW — PANEL 4/8: 4. Karma, rebirth and Buddhist continuity
-INDIAN REBIRTH: karma + saṃskāra/vāsanā -> renewed embodiment in saṃsāra
-                         |
- BUDDHISM DENIES ĀTMAN
- five skandhas + dependent origination -> causal stream -> rebirth without transmigrant
- flame-to-flame: neither numerically identical nor wholly unrelated
- intention conditions later fruit; memory is causally produced cognition
-                         |
- objection: who receives karma? reply: demand for substance mistakes continuity for identity
- nirvāṇa ends craving and the causal appropriation that renews birth.
+ASCII MASTER FLOW — PANEL 3/32: Five models of the person, five kinds of survival
+   +------------------------+----------------------+---------------------------+
+   | MODEL                  | SURVIVAL IT ALLOWS   | ITS OWN PRESSURE          |
+   +------------------------+----------------------+---------------------------+
+   | SUBSTANCE DUALISM      | disembodied soul     | interaction; what         |
+   | immaterial thinker     | persists             | individuates souls        |
+   +------------------------+----------------------+---------------------------+
+   | HYLOMORPHISM           | resurrection of the  | how the SAME person is    |
+   | soul = form of body    | embodied person      | re-constituted            |
+   +------------------------+----------------------+---------------------------+
+   | BUNDLE / NO-SELF       | causal or psycho-    | who is responsible;       |
+   | series without owner   | logical continuity   | who is reborn             |
+   +------------------------+----------------------+---------------------------+
+   | EMBODIED PERSON        | re-creation or       | replica and duplication   |
+   | psychophysical unity   | resurrection only    | problems                  |
+   +------------------------+----------------------+---------------------------+
+   | INDIAN SUBSTANTIAL     | transmigration of an | no past-life memory;      |
+   | SELF (atman / jiva)    | enduring self        | evidence                  |
+   +------------------------+----------------------+---------------------------+
+                                    |
+   FOUR CRITERIA OF PERSONAL IDENTITY — THEY ANSWER DIFFERENT QUESTIONS
+   BODILY CONTINUITY ......... same living organism ... fails outright at death
+   PSYCHOLOGICAL / MEMORY .... memory, character ...... circular, fallible, branchable
+   SOUL-SUBSTANCE ............ one enduring subject ... unobservable; individuation hard
+   CAUSAL CONTINUITY ......... causal descent ......... "neither same nor wholly other"
+   ------------------------------------------------------------------------------
+   HOW WE TELL  = bodily + psychological      WHAT MAKES IT SO = substance + causal
+   Noticing this division of labour is a top-band move.
 
-ASCII MASTER FLOW — PANEL 5/8: 5. Liberation parity bench
-SCHOOL             BONDAGE                         LIBERATION
-Advaita            avidyā, false identity           jñāna: ātman = Brahman
-Viśiṣṭādvaita      karma, dependence obscured       bhakti/prapatti; communion
-Sāṃkhya-Yoga       puruṣa-prakṛti confusion         kaivalya through viveka
-Nyāya              false knowledge, doṣa, karma     apavarga: cessation of pain
-Jainism             karmic pudgala on jīva           kevala-jñāna, siddhahood
-Buddhism            craving/ignorance                nirvāṇa
-Christianity       sin/death                         resurrection and salvation
- SAME WORD “release” conceals different selves, causes, methods and end-states.
+ASCII MASTER FLOW — PANEL 4/32: Hick's replica and the duplication objection
+   STAGE 1  a person disappears here and an exact psychophysical replica —
+            same body-pattern, same memories, same character — appears elsewhere
+        |   ordinary criteria would in practice treat this as the same person
+   STAGE 2  the same thing happens at the moment of death
+        |
+   STAGE 3  the replica appears not elsewhere on earth but in a DIFFERENT SPACE,
+            a resurrection world
+        |
+   HICK'S CLAIM: for every purpose that matters — memory, character, recognition,
+   responsibility — this IS the same person.
+   ------------------------------------------------------------------------------
+   DUPLICATION OBJECTION
+     if God can make ONE replica, God can make TWO
+     two replicas cannot both be numerically identical with the original
+     therefore either the criterion is not identity, or identity depends on the
+     accident that no rival was produced
+   HICK'S REPLY : restrict the case to a UNIQUE replica; ordinary criteria are then met
+   REJOINDER    : the bare POSSIBILITY of duplication shows the criterion tracks
+                  QUALITATIVE SIMILARITY, not NUMERICAL IDENTITY
+   ------------------------------------------------------------------------------
+   STATUS CONTROL: the replica is a THOUGHT-EXPERIMENT DEFENCE of the coherence of
+   resurrection identity. It is NOT evidence that anyone survives.
+   Source: John Hick, Philosophy of Religion / Death and Eternal Life.
 
-ASCII MASTER FLOW — PANEL 6/8: 6. Vedānta and Jain routes
-ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible;
- videhamukti ends embodiment, not the ātman's existence
- VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God
-                         |
- JAINISM: jīva + passions/activity -> āsrava -> bandha
- saṃvara blocks influx -> nirjarā sheds karma -> kevala-jñāna -> mokṣa
-                         |
- contrast: Advaita removes ignorance of identity; Rāmānuja perfects dependence;
- Jainism purges material karma from an eternally individual soul.
+ASCII MASTER FLOW — PANEL 5/32: Plato in the Phaedo, arguments 1 and 2
+   ARGUMENT 1 — FROM OPPOSITES (CYCLICAL)
+     PREMISE  opposites come to be from opposites: larger from smaller,
+              weaker from stronger, waking from sleeping
+     APPLY    being dead comes from being alive; by symmetry being alive
+              must come from being dead
+     CONCLUDE souls exist in some state between deaths, or the supply of
+              the living would exhaust itself
+     ASSESS   the pattern fits qualities admitting DEGREE, not existence and
+              non-existence; and it yields a cosmic balance-sheet, not the
+              survival of THIS soul
+        |
+   ARGUMENT 2 — FROM RECOLLECTION (ANAMNESIS)
+     PREMISE  we judge sensible things — two sticks — to be DEFICIENTLY equal
+     STEP     to judge a deficiency one must already possess the standard,
+              Equality itself, which no sense-experience supplies
+     CONCLUDE the soul acquired that standard before embodiment;
+              learning is recollection
+     EXAMPLE  equal sticks never perfectly instantiate Equality, yet we judge
+              their shortfall by a standard not derived from them alone
+     ASSESS   establishes PRE-EXISTENCE ONLY — which is why Plato must pair it
+              with the cyclical argument to close the post-mortem direction
+   ------------------------------------------------------------------------------
+   DIRECTIVE CONTROL: "critically examine Plato's a priori proofs" (2023 Q6(a), 20m)
+   = FOUR SEPARATE MINI-ASSESSMENTS, never one summary with one general complaint.
 
-ASCII MASTER FLOW — PANEL 7/8: 7. Paths, objections and ethical meaning
-THREE BROAD MEANS: jñāna (knowledge) | bhakti (devotion) | karma (disciplined action)
- Yoga adds meditative discipline; Jainism adds vows/austerity; Buddhism eightfold path
-                         |
- objections: disembodied soul lacks individuation | rebirth lacks memory
- liberation as painlessness seems empty | endless survival may be burden, not good
- replies: character/causal continuity can outlast episodic memory;
- liberation is evaluated by freedom from ignorance, craving or sin, not mere duration
- ethical test: doctrine should transform present conduct, not postpone justice to another life.
+ASCII MASTER FLOW — PANEL 6/32: Plato in the Phaedo, arguments 3 and 4
+   ARGUMENT 3 — FROM AFFINITY
+     PREMISE  two kinds of thing: composite, visible, changing, perishable;
+              and non-composite, invisible, stable, imperishable
+     STEP     the body resembles the first, the soul the second
+     CONCLUDE the soul is akin to the indissoluble, hence itself indissoluble
+     ASSESS   Plato presents this as LIKENESS, with more caution than summaries
+              suggest; resemblance to the imperishable does not entail
+              imperishability, and simplicity is assumed rather than proved
+        |
+   ARGUMENT 4 — THE FINAL ARGUMENT: THE FORM OF LIFE
+     PREMISE  some things bring a Form with them wherever they go:
+              fire brings heat, snow brings cold
+     STEP     soul brings LIFE wherever it is
+     STEP     what essentially brings a Form cannot admit that Form's opposite
+     CONCLUDE soul cannot admit death; it is deathless and indestructible
+     ASSESS   the inference from "cannot admit the opposite" to "cannot cease"
+              needs a bridge: fire does not become cold, but fire GOES OUT.
+              The argument shows a soul cannot be a DEAD soul; the critic asks
+              why it may not simply cease to exist
+   ------------------------------------------------------------------------------
+   WHAT EACH ARGUMENT ACTUALLY BUYS
+     1 persistence through the transition, both directions (weak analogy)
+     2 PRE-EXISTENCE only
+     3 likeness to the indissoluble
+     4 essential predication, with an unbridged step to indestructibility
 
-ASCII MASTER FLOW — PANEL 8/8: 8. PYQ answer rail
-DEFINE exact survival term -> identify bearer and continuity criterion
- -> explain causal mechanism -> state soteriological end and path
- -> strongest objection (identity, evidence, justice) -> strongest reply
- -> compare one unlike doctrine on same axes -> qualified conclusion
-                         |
- ANSWER AXES: self/no-self | body/disembodiment | karma/grace | continuity/identity
- | endless survival/release from rebirth
- CLOSE: survival doctrines are credible only when their ontology of the person,
- continuity mechanism and ethical-liberative purpose support one another.
+ASCII MASTER FLOW — PANEL 7/32: Simmias inside the dialogue, Kant outside it
+   SIMMIAS' OBJECTION — THE SOUL AS ATTUNEMENT (HARMONIA)
+     the soul is an attunement of bodily elements, as the tuning of a lyre is
+     of its strings; when the instrument is destroyed the attunement perishes,
+     however "divine and beautiful" it was
+        |
+   PLATO'S TWOFOLD REPLY
+     (1) recollection shows the soul existed BEFORE the body — but an attunement
+         cannot precede the instrument it tunes; so the two doctrines are
+         incompatible and Simmias must give one up
+     (2) attunements admit of degree and never oppose their own components;
+         the soul RULES the body, opposing appetite and desire, which no
+         attunement does
+   NOTE: the harmony objection is the ancient ancestor of every modern
+   brain-dependence argument. Omitting Simmias is the standard band-loss on 2023.
+   ------------------------------------------------------------------------------
+   KANT — THE PARALOGISMS OF PURE REASON
+     the "I think" that accompanies all representations gives a FORMAL UNITY of
+     consciousness, not knowledge of a simple persisting SUBSTANCE
+     rational psychology mistakes a condition of thought for an object of knowledge
+     CONSEQUENCE: immortality cannot be theoretically demonstrated
+     RELOCATION : in the second Critique it returns as a POSTULATE OF PRACTICAL
+                  REASON, required by the moral law's demand for the complete good
+   CONTROL: Kant does NOT claim the soul does not exist. He denies that it is a
+   knowable substance. This relocation is exactly what 2020 Q5(b) invites.
+   ------------------------------------------------------------------------------
+   INDIAN PARALLEL, USED CAREFULLY: atman (Vedanta), jiva (Jainism) and the Nyaya
+   self are ETERNAL in their systems, and Gita 2.23 gives the canonical image —
+   but the Indian route is scriptural and systematic, not a priori in Plato's sense.
+   Compare CONCLUSIONS, never METHODS.
+
+ASCII MASTER FLOW — PANEL 8/32: Five argument families and the burden shift
+   +--------------------+-------------------------------+---------------------------+
+   | FAMILY             | CORE REASONING                | MAIN OBJECTION            |
+   +--------------------+-------------------------------+---------------------------+
+   | SIMPLICITY /       | an immaterial simple soul has | simplicity is not         |
+   | INDIVISIBILITY     | no parts to decompose into    | established; a simple     |
+   |                    |                               | subject could still cease |
+   +--------------------+-------------------------------+---------------------------+
+   | IDENTITY /         | stable agency, responsibility | psychological or causal   |
+   | CONTINUITY         | and first-person unity need a | continuity may do the     |
+   |                    | persisting subject            | same work                 |
+   +--------------------+-------------------------------+---------------------------+
+   | MORAL ORDER        | complete justice or the       | postulation expresses     |
+   |                    | highest good requires more    | moral hope, not           |
+   |                    | than one life                 | theoretical demonstration |
+   +--------------------+-------------------------------+---------------------------+
+   | DESIRE /           | a deep natural desire for     | desires can be frustrated |
+   | FULFILMENT         | unending fulfilment points to | or socially formed;       |
+   |                    | a possible object             | existence does not follow |
+   +--------------------+-------------------------------+---------------------------+
+   | RELIGIOUS          | experiences read as contact   | interpretation, diversity |
+   | EXPERIENCE /       | with the dead or an eternal   | and alternative           |
+   | TESTIMONY          | self support survival         | explanations             |
+   +--------------------+-------------------------------+---------------------------+
+                                    |
+   BODY / BRAIN DEPENDENCE OBJECTION
+     memory, personality, agency and moral capacity vary systematically with
+     bodily and cerebral conditions
+     IT DOES NOT deductively prove that no subject survives
+     IT DOES shift the burden: the survivalist now owes accounts of
+       (i) INTERACTION  (ii) INDIVIDUATION  (iii) IDENTITY
+   ------------------------------------------------------------------------------
+   GRADED CLAIM-LEVELS  demonstration: NO · coherence: on some models · presupposition:
+   for some practices · postulate: available to practical reason.
+
+ASCII MASTER FLOW — PANEL 9/32: Hindu immortality — verse spine and school split
+   WHAT IS ETERNAL AND WHAT IS NOT
+   +----------------------------------------------------------------------------+
+   | SELF (ATMAN)        eternal · unborn · indestructible                       |
+   |      |               Gita 2.23 — weapons do not cut, fire does not burn,    |
+   |      |               water does not wet, wind does not wither               |
+   +------+---------------------------------------------------------------------+
+   | SUBTLE BODY         NOT the self — an INSTRUMENT. Carries dispositions      |
+   | (suksma-sarira)     (samskara / vasana), mind, senses, vital breath         |
+   +------+---------------------------------------------------------------------+
+   | GROSS BODY          discarded like worn-out garments (Gita 2.22)            |
+   +----------------------------------------------------------------------------+
+   VERSE SPINE: 2.22 garments (rebirth) · 2.23 indestructibility ·
+   9.21 return when merit is exhausted (heaven is INSIDE samsara) ·
+   5.4-5 convergence (balah, not panditah) · 18.66 surrender (carama-sloka).
+   Translations vary: paraphrase, or quote a NAMED translation. Never invent one.
+   ------------------------------------------------------------------------------
+   FOUR ACCOUNTS OF WHAT IS DEATHLESS — "Hindu tradition" is not one position
+   ADVAITA .......... non-dual awareness identical with Brahman; bondage = ignorance
+   VISISTADVAITA .... eternal individual soul, a mode (prakara) of God; communion
+   NYAYA-VAISESIKA .. eternal self-substance; consciousness ADVENTITIOUS; no bliss
+   SAMKHYA-YOGA ..... purusa, plural contentless witness; strictly never bound
+   ------------------------------------------------------------------------------
+   SUPPORTS OFFERED  (i) continuity of the knower across waking, dream, deep sleep
+                     (ii) moral bookkeeping across a gap longer than a life
+                     (iii) scriptural testimony (sabda) — NAME it as a presupposition
+                     (iv) beginninglessness (anadi), which blocks "when did it fall?"
+   MEMORY OBJECTION -> reply: dispositional, not episodic, continuity. Warrant contested.
+
+ASCII MASTER FLOW — PANEL 10/32: Karma — act plus potency, and where freedom lives
+   ACT + ITS UNSEEN POTENCY
+     adrsta   (Nyaya-Vaisesika) — a quality of the self
+     apurva   (Mimamsa)         — the "not-previously-existing" capacity by which
+                                  a sacrifice produces its distant result
+     BOTH EXIST TO SOLVE ONE PROBLEM: how a past act produces a future effect
+     across a temporal gap.
+   ------------------------------------------------------------------------------
+   THE THREEFOLD LEDGER
+   +----------------------------------------------------------------------------+
+   | SANCITA     the whole accumulated store, not yet ripening                   |
+   | (stored)    -> DESTROYED by liberating knowledge                            |
+   +----------------------------------------------------------------------------+
+   | PRARABDHA   the portion already ripening: this birth, this body, this span  |
+   | (fructify)  -> NOT cancelled by knowledge; runs its course                  |
+   +----------------------------------------------------------------------------+
+   | AGAMI       what present action is now generating                           |
+   | (future)    -> the liberated agent accumulates none                         |
+   +----------------------------------------------------------------------------+
+                    ^
+   FREEDOM ACTS HERE + effort (purusakara) works on agami and, through knowledge,
+                        on sancita — NEVER on prarabdha.
+   ------------------------------------------------------------------------------
+   NOT FATALISM
+     fatalism: what happens is fixed and effort is idle
+     karma   : fructifying karma fixes the CONDITIONS, not the response;
+               present action generates future karma, so acting is the point;
+               the agent is both inheritor and author
+     FORMULA : effort (purusakara) WITHIN destiny (daiva) — the hand dealt is
+               inherited, the play is not
+     niskama-karma (desireless action) USES the law rather than escaping it
+
+ASCII MASTER FLOW — PANEL 11/32: Karma — administration, postulate test, costs
+   WHO ADMINISTERS THE LAW?
+   NON-THEISTIC ROUTE                        THEISTIC ROUTE
+   Buddhism · Jainism · Mimamsa              Nyaya · Visistadvaita · Dvaita
+   the law is SELF-REGULATING                God is SUPERINTENDENT (karmadhyaksa)
+   no judge required; moral order is         who RATIFIES and dispenses the fruit
+   built into how things work                God does not DECIDE that cruelty
+        |                                    deserves suffering; God ensures the
+        |                                    fruit is delivered
+        +------------------+-----------------+
+                           |
+   NAMING THIS FORK turns a description of karma into a philosophical answer,
+   and it is exactly what 2021 Q8(b) "essential postulate" is testing.
+   ------------------------------------------------------------------------------
+   POSTULATE TEST — REMOVE KARMA AND FOUR COMMITMENTS FAIL
+     (1) DISTRIBUTION of fortune becomes arbitrary; the tradition's answer to
+         unequal suffering collapses
+     (2) REBIRTH loses its rationale — nothing would require a further life
+     (3) LIBERATION loses its content — no bondage to be freed from
+     (4) RITUAL INJUNCTION loses efficacy in the Mimamsa framework
+   A postulate is not merely believed: its REMOVAL DISABLES the rest of the system.
+   ------------------------------------------------------------------------------
+   COSTS                              REPLIES
+   (a) UNVERIFIABLE — the links       shared with every eschatology; not a special
+       are not observable             defect of karma
+   (b) VICTIM-BLAMING RISK — present  explanatory karma licenses NO social judgement;
+       suffering read as past fault   the duty of compassion is untouched
+   (c) GOD-AND-LAW PROBLEM — God      the theistic schools make God ADMINISTRATOR,
+       redundant or subordinate       not AUTHOR, of desert
+   CONTROL: never omit (b) from a karma answer.
+
+ASCII MASTER FLOW — PANEL 12/32: Rebirth — the fit-problem and its three exits
+   CLAIM : every morally weighted act matures into its result
+   FACT  : many acts plainly do not mature within one lifetime
+   GAP   : the good suffer, the cruel prosper, and infants suffer before they
+           can have acted at all
+                                    |
+   +----------------------+---------+-----------------+
+   EXIT (a)               EXIT (b)                    EXIT (c)
+   abandon the            postulate a final judge     WIDEN THE FIELD of
+   exceptionless claim    and one post-mortem         maturation across many
+                          settlement                  lives
+                          -> the SEMITIC route:       -> the INDIAN route:
+                             resurrection and            rebirth within samsara
+                             judgement
+                                    |
+   REBIRTH IS EXIT (c). THAT IS ITS PHILOSOPHICAL SIGNIFICANCE (2023 Q7(b)).
+   ------------------------------------------------------------------------------
+   WHAT REBIRTH THEREBY CONTRIBUTES
+     (i)   preserves an EXCEPTIONLESS moral law against the evidence
+     (ii)  explains INITIAL INEQUALITY: birth-conditions are consequences,
+           not impositions
+     (iii) secures BEGINNINGLESSNESS (anadi) — no "original fault" to explain,
+           as there is in a Fall narrative
+     (iv)  gives LIBERATION its content by supplying something to be freed from
+   ------------------------------------------------------------------------------
+   VEHICLES OF CONTINUITY, SCHOOL BY SCHOOL
+     Advaita / Visistadvaita ... subtle body (suksma-sarira): mind, senses, breath
+     Nyaya-Vaisesika ........... the eternal self, bearing adrsta
+     Samkhya-Yoga .............. linga-sarira, a product of prakrti — STRICTLY it is
+                                 PRAKRTI that transmigrates, not purusa
+     Jainism ................... the jiva with adhering karmic matter
+     Buddhism .................. causal continuity of aggregates; NO vehicle-substance
+   COSTS: regress explains each birth by an earlier one, never the series as a whole;
+   no past-life memory; moral hazard. Gita 9.21: even heaven is within samsara.
+
+ASCII MASTER FLOW — PANEL 13/32: Buddhist rebirth without a permanent self
+   THE FOUR-STEP ARGUMENT
+     (1) ALL CONDITIONED FACTORS ARE IMPERMANENT
+              |
+     (2) NO AGGREGATE (skandha: form, feeling, perception, formations,
+         consciousness) IS A PERMANENT SELF
+              |
+     (3) CRAVING (trsna) AND KARMIC FORMATIONS (samskara) CONDITION
+         FUTURE CONSCIOUSNESS
+              |
+     (4) THEREFORE CONTINUITY OCCURS WITHOUT AN UNCHANGING OWNER
+              |
+     REBIRTH (punarbhava) IS SECURED; A SOUL IS NOT REQUIRED
+   Mechanism: dependent origination (pratityasamutpada).
+   ------------------------------------------------------------------------------
+   DENIED                              NOT DENIED
+   an unchanging, independent,         the conventional person, who acts and is addressed
+   permanent self                      the reality of experience and moral consequence
+   a substance that owns experiences   rebirth itself — Buddhism AFFIRMS re-becoming
+   a self that transmigrates intact    the causal descent of the later from the earlier
+   ANATMAN IS NOT NIHILISM: a middle course between an eternal self and annihilation.
+   ------------------------------------------------------------------------------
+   ILLUSTRATIONS — NEVER PROOFS
+     FLAME -> FLAME  the second lamp is lit from the first. Same fire? No.
+                     Unrelated fire? Also no.  (the Milindapanha uses the lamp)
+     MILK -> CURD    continuous transformation; no stage identical with another,
+                     yet nothing imported from outside
+   ------------------------------------------------------------------------------
+   RESPONSIBILITY OBJECTION: if no same agent persists, who receives the fruit?
+   REPLY: responsibility requires CAUSAL CONNECTEDNESS, not identity of substance.
+   The later stream is NEITHER THE SAME NOR WHOLLY OTHER. Ordinary practice already
+   accepts this: the adult answers for the youth.
+   RESIDUE (concede it): critics answer that causal descent may be thinner than
+   OWNERSHIP — this pressure is genuine and unresolved.
+
+ASCII MASTER FLOW — PANEL 14/32: The modal verdict rail
+   CLAIM UNDER TEST: "Immortality of Soul is a necessary postulate for rebirth."
+                                    |
+   +----------------------------------------+----------------------------------+
+   SUBSTANTIALIST SYSTEMS                    BUDDHISM
+   Vedanta · Nyaya · Jainism                 anatman + pratityasamutpada
+   YES: a persisting self is what            NO: causal continuity of a
+   transmigrates                             conditioned stream suffices
+        |                                         |
+        +--------------------+--------------------+
+                             |
+   ONE COUNTER-EXAMPLE DEFEATS A NECESSITY CLAIM
+                             |
+   VERDICT: an immortal soul is SUFFICIENT for rebirth, NOT NECESSARY.
+   What rebirth requires is a CONTINUITY-BEARER, and the dispute is only about
+   whether that bearer must be a substance.
+   ------------------------------------------------------------------------------
+   SECOND PRESSURE, FROM INSIDE THE SUBSTANTIALIST CAMP
+     Samkhya-karika 62-63: strictly NO PURUSA is bound, released or transmigrating;
+     it is PRAKRTI who binds herself, transmigrates and releases herself.
+     So even a school with an eternal consciousness denies that IT undergoes rebirth.
+   ------------------------------------------------------------------------------
+   THE SAME RAIL, APPLIED TO LIBERATION (2024 Q6(a))
+     ROBUSTNESS TEST: a conception of liberation is robust if it fixes
+       (i) what bondage is  (ii) what is liberated
+       (iii) what the terminus is  (iv) why the terminus is final
+     Buddhism satisfies all four WITHOUT an immortal soul.
+     VERDICT: rebirth (or an equivalent bondage-HISTORY) is effectively necessary;
+     immortality of a SUBSTANTIAL soul is not.
+   TEMPLATE LINE: "Immortality of a substantial soul is SUFFICIENT for rebirth but
+   not NECESSARY: Buddhism secures re-becoming through causal continuity alone."
+
+ASCII MASTER FLOW — PANEL 15/32: The liberation parity bench — seven destinations
+   +-------------+-------------+--------------+---------------+-----------------+
+   | TERM        | SCHOOL      | WHAT ENDS    | WHAT REMAINS  | CONSCIOUSNESS?  |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | MOKSA       | Advaita     | ignorance    | Brahman alone | YES — self-     |
+   | (release)   |             | (avidya)     |               | luminous,       |
+   |             |             |              |               | non-dual        |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | MOKSA       | Visista-    | karmic       | eternal jiva  | YES — personal, |
+   | (release)   | dvaita      | bondage      | WITH God      | in communion    |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | APAVARGA    | Nyaya-      | pain AND its | the self-     | NO — no bliss,  |
+   | (cessation) | Vaisesika   | conditions   | substance     | no awareness    |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | KAIVALYA    | Samkhya-    | non-discrim- | purusa,       | YES — pure and  |
+   | (aloneness) | Yoga        | ination      | isolated      | CONTENTLESS     |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | LIBERATION  | Jainism     | karmic       | perfected     | YES — the four  |
+   | siddhahood  |             | matter       | omniscient    | infinitudes     |
+   |             |             |              | jiva          | (ananta-        |
+   |             |             |              |               | catustaya)      |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | NIRVANA     | Buddhism    | craving,     | NOT stated as | neither         |
+   | (extinguish)|             | ignorance,   | a self        | "survival" nor  |
+   |             |             | suffering    |               | "annihilation"  |
+   +-------------+-------------+--------------+---------------+-----------------+
+   | RESURRECT-  | Semitic     | death        | the embodied  | YES — embodied, |
+   | ION         |             |              | person        | before God      |
+   +-------------+-------------+--------------+---------------+-----------------+
+   FOUR STRUCTURAL QUESTIONS THE BENCH ANSWERS
+     identity / communion / cessation / isolation / perfection — which is it?
+     is INDIVIDUALITY preserved?  (sublated only in Advaita)
+     is CONSCIOUSNESS present?    (absent only in Nyaya apavarga)
+     is it attainable WHILE ALIVE? (yes in Advaita and Samkhya-Yoga)
+   TERMINOLOGY TRAP: kevala in JAINISM = OMNISCIENCE; kaivalya in SAMKHYA =
+   CONTENTLESS ISOLATION. Same syllable, opposite content.
+   POSITIVE PERFECTION vs MERE CESSATION: Advaita and Jainism are fulfilment-rich;
+   Nyaya is cessation-only; Buddhism refuses both annihilation and hedonic models.
+   Reply to "cessation is unattractive": Nyaya offers freedom FROM suffering, not
+   experiential luxury; promising more would be dishonest about its metaphysics.
+
+ASCII MASTER FLOW — PANEL 16/32: Vedanta — one fork, many consequences
+                          WHAT IS BONDAGE?
+                                 |
+   +-----------------------------+------------------------------+
+   IGNORANCE (avidya)                          KARMA AND DEPENDENCE
+   ADVAITA                                     VISISTADVAITA
+        |                                              |
+   liberation = REMOVAL of an error            liberation = ATTAINMENT of a
+   nothing is produced; freedom is             perfected relation
+   eternally accomplished (siddha)                    |
+        |                                              |
+   only KNOWLEDGE removes ignorance            KNOWLEDGE + DEVOTION + GRACE
+   as light removes darkness                   dhruvanusmrti; prapatti as the
+        |                                      universally accessible alternative
+   individuality is SUBLATED                          |
+   (shown to be superimposed —                 individuality PRESERVED eternally
+    NOT annihilated)                           as a mode (prakara) of God
+        |                                              |
+   JIVANMUKTI possible NOW; body               release at the fall of the body,
+   continues by PRARABDHA                      then service and bliss with God
+        |                                              |
+   VIDEHAMUKTI at the body's fall              the soul REACHES God — it NEVER
+                                               BECOMES God
+   ------------------------------------------------------------------------------
+   ADVAITA'S PREPARATORY LADDER
+     ritual action and worship (upasana) -> purity of mind (citta-suddhi)
+     -> fourfold qualification (sadhana-catustaya: viveka, vairagya, the six inner
+        accomplishments, mumuksutva)
+     -> sravana - manana - nididhyasana
+     SAMKARA REJECTS jnana-karma-samuccaya-vada: knowledge and ritual action do NOT
+     jointly produce liberation.
+   ROLE OF KNOWLEDGE (2021 Q6(b) second obligation): on the removal model knowledge
+   is not one contributory cause among others but the SOLE OPERATIVE CAUSE, because
+   the obstacle is cognitive. Everything else qualifies or purifies.
+
+ASCII MASTER FLOW — PANEL 17/32: Embodied liberation and the real-agent question
+   WHY THE BODY REMAINS AFTER LIBERATING KNOWLEDGE
+     knowledge destroys SANCITA (stored) and AGAMI (future) karma
+     PRARABDHA has already begun to ripen and RUNS ITS COURSE
+     IMAGE: the potter's wheel continues to spin after the potter's hand is withdrawn
+     at its exhaustion the body falls -> VIDEHAMUKTI
+   OBJECTION: if ignorance is destroyed, why does empirical activity continue?
+   REPLY    : distinguish destroyed BONDAGE from residual embodied MOMENTUM;
+              the residue is located in the body-mind complex, not in the knower
+   REJOINDER: critics say a trace of ignorance is smuggled back under another name
+   CROSS-SCHOOL CONTROL: Samkhya faces the same phenomenon and explains it
+   DIFFERENTLY — SK 67 attributes the continuing body to the momentum of the GUNAS,
+   not to karma; SK 68 gives videha-kaivalya at the body's fall. Shared image,
+   different metaphysics.
+   ------------------------------------------------------------------------------
+   2022 Q7(b): CAN LIBERATION BE CONCEIVED WITHOUT A REAL AGENT?
+   ADVAITA — YES, AND IT MUST BE
+     agency belongs to the empirical individual, which is superimposed
+     at the ultimate level (paramarthika) there is no agent, no bondage and hence
+     no one who is literally liberated
+     the tradition itself says bondage and release are stated "from the standpoint
+     of ignorance"
+   VISISTADVAITA — NO
+     an unreal agent cannot have real bondage, real striving, real devotion,
+     or a real reward; liberation must happen TO someone, so the jiva is
+     eternally real
+   HONEST VERDICT: each position pays a price. Advaita must explain how an unreal
+   individual undertakes a real discipline; Visistadvaita must explain how a really
+   distinct soul is nonetheless WHOLLY dependent on God.
+
+ASCII MASTER FLOW — PANEL 18/32: The Jain ladder — soul and bondage
+   +----------------------------------------------------------------------------+
+   | JIVA (soul)  eternal · conscious · uncreated · NO creator God               |
+   |              intrinsic nature = ANANTA-CATUSTAYA: infinite knowledge,       |
+   |              perception, bliss and energy                                   |
+   |              CO-EXTENSIVE with the body it occupies, like light filling a   |
+   |              room — extension is a MODE of the soul during bondage          |
+   +----------------------------------------------------------------------------+
+   | PASSIONS (kasaya): anger · pride · deceit · greed                           |
+   |      | make the soul "sticky"                                               |
+   | ASRAVA    INFLOW of fine karmic matter (karma-pudgala)                      |
+   |      |                                                                      |
+   | BANDHA    BONDAGE — matter binds to the soul, obscuring the four            |
+   |           infinitudes. Analysed by NATURE, DURATION, INTENSITY, QUANTITY    |
+   +----------------------------------------------------------------------------+
+   | SAMVARA   STOPPAGE — vows, carefulness, restraint, non-violence:            |
+   |      |    no new inflow                                                     |
+   | NIRJARA   SHEDDING — austerity (tapas) destroys accumulated karma           |
+   |      |                                                                      |
+   | KEVALA-JNANA  OMNISCIENCE manifests while still embodied                    |
+   |      |        (manifested, NOT produced — it was only obscured)             |
+   | MOKSA / SIDDHAHOOD  final disembodied perfection                            |
+   +----------------------------------------------------------------------------+
+   IMAGE: dust clings to an OILY body. The oil is passion; without it the dust
+   does not adhere.
+   ------------------------------------------------------------------------------
+   INTERACTION OBJECTION: how can non-material consciousness bind with material karma?
+   REPLY: extension and embodiment are MODES of the soul during bondage; the jiva is
+   not an unextended Cartesian thinker.
+   COST: the reply buys intelligibility by weakening immateriality — a substance
+   neither cleanly material nor cleanly spiritual.
+   PLACEMENT: Jain liberation PERFECTS INDIVIDUALITY — neither Advaitic identity nor
+   Buddhist cessation without a self. 2022 Q8(b) has TWO nouns: soul AND bondage.
+
+ASCII MASTER FLOW — PANEL 19/32: Nyaya-Vaisesika cessation — the chain and apavarga
+   NYAYA-VAISESIKA — THE CHAIN AND ITS REVERSAL
+     FALSE KNOWLEDGE -> DEFECT -> ACTIVITY -> BIRTH -> SUFFERING
+     TRUE KNOWLEDGE of the categories and of the self removes false knowledge;
+     the chain then unwinds link by link to ABSOLUTE CESSATION OF PAIN
+     APAVARGA = pain AND the qualities that sustain embodied experience END
+     Consciousness is ADVENTITIOUS — it arises only when the self is conjoined
+     with mind, senses and body — so the released self exists WITHOUT consciousness,
+     pleasure or bliss
+     OBJECTION: indistinguishable from stone-like insentience; who would want it?
+     REPLY    : the school offers the END OF A DEFECT, not a reward. Its value is
+                negative and complete: no pain can arise again, because the
+                conditions for ANY experience have ended
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 20/32: Samkhya — two principles and one misattribution
+   SAMKHYA — TWO PRINCIPLES, ONE MISATTRIBUTION
+     PURUSA  plural · inactive · attributeless PURE CONSCIOUSNESS · witness (saksin)
+             by nature already isolated (kevala)
+     PRAKRTI one · unconscious · active · constituted by the three gunas
+     BONDAGE IS NOT A REAL BOND but AVIVEKA: prakrti's states are MISATTRIBUTED
+     to consciousness
+     SK 1     threefold suffering: adhyatmika (self) · adhibhautika (other beings) ·
+              adhidaivika (natural and cosmic), and the failure of ordinary and
+              ritual means to end it permanently
+     SATKARYAVADA effects pre-exist in their cause: evolution is TRANSFORMATION of
+              prakrti, not creation; consciousness cannot be a product of the
+              unconscious, hence purusa is distinct
+     SK 62-63 NO PURUSA is bound, released or transmigrating — PRAKRTI binds,
+              transmigrates and releases herself. THE HIGHEST-VALUE ITEM HERE
+     SK 67    potter's wheel — the body persists on residual momentum
+     SK 68    videha-kaivalya at the fall of the body
+     LIBERATION = VIVEKA-KHYATI (discriminative discernment); prakrti then ceases
+     to display herself to that purusa. RESULT = KAIVALYA, aloneness
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 21/32: Yoga — practice, the non-creator Isvara, and three objections
+   YOGA — SAME METAPHYSICS PLUS A PRACTICE AND AN ISVARA
+     YS 1.2  yoga = citta-vrtti-nirodha (restriction of mental modifications)
+     YS 1.3  then the seer abides in its own nature
+     YS 2.3  five klesas: avidya · asmita · raga · dvesa · abhinivesa
+             (avidya is the FIELD of the rest)
+     YS 1.24 ISVARA IS A SPECIAL PURUSA untouched by klesa, karma, vipaka, asaya —
+             teacher of the ancient teachers, object of isvara-pranidhana.
+             HE IS NOT A CREATOR. Yoga = theism WITHOUT creation
+     YS 4.29 dharma-megha-samadhi
+     YS 4.34 KAIVALYA = pratiprasava (counter-flow) of the gunas, now empty of
+             purpose for purusa; equivalently citi-sakti established in its own nature
+     ASTANGA: yama · niyama · asana · pranayama · pratyahara · dharana · dhyana ·
+              samadhi — samprajnata to asamprajnata
+   THREE OBJECTIONS -> REPLIES -> COSTS
+     plurality of purusas -> difference shown by birth, death, experience ->
+       Advaitins call this question-begging, since those differences belong to prakrti
+     why does prakrti act? -> "for the sake of purusa"; milk flows for the calf ->
+       a purpose in the unconscious is exactly what Nyaya objects to
+     is contentless liberation desirable? -> Samkhya DENIES kaivalya is bliss; it is
+       the ENDING of threefold suffering -> an unattractive terminus, accepted for
+       the sake of consistency
+
+ASCII MASTER FLOW — PANEL 22/32: Devotion as a pathway — textual base and typology
+   TEXTUAL BASE
+     Gita 18.66  carama-sloka: abandon all dharmas, take refuge in Me alone
+     Gita 9.22   the Lord secures what the exclusively devoted lack
+     Gita 9.32   accessibility of the path
+     Bhagavata 7.5.23  NINE LIMBS (navadha bhakti), IN ORDER:
+       sravana (hearing) · kirtana (praising) · smarana (remembering) ·
+       pada-sevana (service at the feet) · arcana (worship) · vandana (salutation) ·
+       dasya (servitude) · sakhya (friendship) · atma-nivedana (self-offering)
+     Narada Bhakti Sutra / Sandilya Bhakti Sutra: supreme love / supreme attachment
+       to Isvara. Do NOT attach a date or an author-identification
+   TYPOLOGY (marks lie in the distinctions)
+     para (higher, disinterested)  <-> apara / gauni (preliminary, ritual-supported)
+     vaidhi (scripturally ruled)   <-> raganuga (spontaneous, Gaudiya)
+     saguna (Tulsidas, Surdas,     <-> nirguna (Kabir, Nanak, Dadu)
+       Mirabai)                        -> shows bhakti needs a PERSONAL FOCUS,
+                                          not an iconic form
+     five bhavas: santa · dasya · sakhya · vatsalya · madhurya
+
+ASCII MASTER FLOW — PANEL 23/32: Devotion — systematic positions, grace and effort, evaluation
+   SYSTEMATIC POSITIONS
+     RAMANUJA  bhakti = dhruvanusmrti (steady loving recollection);
+               PRAPATTI / saranagati as the equally efficacious, universally
+               accessible alternative; liberation finally by GRACE
+     MADHVA    jnana-purvaka-sneha (affection PRECEDED by knowledge);
+               prasada decisive; taratamya fixes the degree
+     VALLABHA  pusti-marga, the path of nourishing grace, unearned by works
+     CAITANYA  prema-bhakti as a FIFTH and higher purusartha — the devotee may
+               prefer service to liberation
+     ADVAITA   preparatory only: citta-suddhi and one-pointedness qualify one for
+               jnana, which alone removes ignorance
+               (?) the Vivekacudamani definition — ascription to Samkara DISPUTED:
+               say "the Advaita tradition", never "Samkara wrote"
+   THE GRACE / EFFORT PROBLEM
+     MARJARA-NYAYA  the cat carries the kitten -> GRACE ALONE (Tenkalai)
+     MARKATA-NYAYA  the young monkey must cling -> GRACE PLUS EFFORT (Vadakalai)
+   EVALUATION CRITERIA (2018 Q7(c) says EVALUATE, not describe)
+     ACCESSIBILITY  highest — dispenses with Sanskritic learning and ritual
+                    entitlement; hence the vernacular movement: Alvars, Nayanars,
+                    Basavanna, Kabir, Nanak, Mira, Tukaram
+     SUFFICIENCY    sufficient and DIRECT in the theistic Vedantas;
+                    PREPARATORY only in Advaita
+     TERMINUS       communion and service, not identity — sufficiency is relative
+                    to a Vaisnava conception of the goal
+   INCAPACITY ARGUMENT: if bondage is beginningless the bound jiva cannot lift
+   itself; only grace can, and bhakti is the posture in which grace is RECEIVED.
+   OBJECTIONS -> REPLIES
+     love presupposes duality -> Advaita AGREES and so classes it as means, not end;
+       the theistic Vedantas deny that identity is the goal at all
+     emotionalism -> vaidhi discipline, scriptural regulation, Madhva's knowledge-first
+     if grace decides, effort is otiose -> the cat/monkey dispute IS the tradition's
+       own statement of the problem; neither side eliminates the other term
+     bhakti presupposes a saguna God -> nirguna bhakti shows a PERSONAL FOCUS suffices,
+       BUT the objection stands against strictly non-theistic systems
+   VERDICT FORMULA: bhakti's significance is not emotional but STRUCTURAL — it
+   relocates liberation from ACHIEVEMENT to RECEPTION.
+
+ASCII MASTER FLOW — PANEL 24/32: The three-means dispute — apparatus and positions
+   THE EXACT QUESTION: are knowledge, action and devotion ALTERNATIVE routes,
+   SEQUENTIAL stages, or COMBINED? Naming the disagreement IS the answer.
+   ------------------------------------------------------------------------------
+   THREE DISTINCTIONS THAT SEPARATE A 7 FROM A 12
+     (1) DIRECT MEANS (saksat-sadhana)  vs  AUXILIARY AID (arad-upakaraka)
+     (2) MEANS  vs  QUALIFICATION (adhikara) — karma may qualify one for knowledge
+         without being a means to liberation
+     (3) PRODUCTION MODEL  vs  REMOVAL MODEL of liberation
+           if moksa is a RESULT to be produced -> action can produce it
+           if moksa is the REMOVAL of an error -> only knowledge can remove it
+           SAMKARA'S ENTIRE CASE RESTS ON THE SECOND
+   ------------------------------------------------------------------------------
+   THE POSITIONS
+     PURVA-MIMAMSA  KARMA ALONE — the Veda is essentially injunctive; knowledge-
+                    passages are subordinate to ritual action. This is the purvapaksa
+                    Samkara argues against, and naming it shows why the dispute exists
+     SAMKARA        JNANA ALONE liberates. Moksa is not a producible effect (sadhya)
+                    but the eternally accomplished nature of the self (siddha),
+                    obscured by avidya. REJECTS jnana-karma-samuccaya-vada.
+                    Karma and upasana remain indispensable PREPARATIONS
+     RAMANUJA       SEQUENTIAL CULMINATION — karma-yoga purifies, jnana-yoga discloses
+                    the self as a mode of God, both flow into BHAKTI-YOGA as the
+                    direct means; prapatti is the accessible alternative. Accepts a
+                    graded samuccaya that Samkara denies
+     MADHVA         knowledge of the Lord's supremacy is prior; bhakti ripened from it
+                    is the means; prasada is decisive
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 25/32: The three-means dispute — text signal, objections and verdict
+   THE TEXT'S OWN SIGNAL
+     Gita 5.4-5: only the immature (balah) declare Samkhya (knowledge) and Yoga
+     (action) to be different; one who reaches by one reaches by the other.
+     -> CONVERGENCE, which is why SAMKARA claimed it for jnana, RAMANUJA for bhakti,
+        and TILAK (Gita-Rahasya) for karma.
+     VIVEKANANDA: four yogas (jnana, bhakti, karma, raja) matched to TEMPERAMENT —
+     psychological, not metaphysical, pluralism.
+   OBJECTION: convergence is diplomatic mush — knowledge that dissolves individuality
+   and devotion that preserves it cannot terminate in the same state.
+   REPLY    : they converge in FUNCTION (dismantling egoic self-appropriation) and
+              diverge in TERMINUS (identity vs communion). Say exactly this.
+   SECOND OBJECTION: if karma cannot liberate, why does the Gita command action?
+   REPLY    : niskama-karma does not liberate BY PRODUCING moksa; it liberates by
+              dismantling the agency-sense that sustains bondage.
+   VERDICT FORMULA: KARMA QUALIFIES · BHAKTI RECEIVES · JNANA REMOVES.
+   Which is DIRECT is settled by a prior question: is liberation PRODUCED or UNCOVERED?
+
+ASCII MASTER FLOW — PANEL 26/32: Resurrection and rebirth — two strands and the grid
+   TWO WESTERN STRANDS OFTEN WRONGLY MERGED
+     IMMORTALITY OF THE SOUL (Greek/Platonic): the soul is naturally deathless and
+       death RELEASES it from the body
+     RESURRECTION OF THE DEAD (Hebrew-Christian-Islamic): the person is a
+       PSYCHOSOMATIC UNITY, so survival requires God to restore the WHOLE person;
+       death is real and defeat is reversed only by divine act
+     OSCAR CULLMANN (1955), "Immortality of the Soul or Resurrection of the Dead?":
+       the two are theologically OPPOSED, not complementary
+   ------------------------------------------------------------------------------
+   +------------------+---------------------------+-----------------------------+
+   | AXIS             | RESURRECTION              | REBIRTH (INDIAN)            |
+   +------------------+---------------------------+-----------------------------+
+   | Number of lives  | ONE earthly life          | beginningless series        |
+   | Mechanism        | divine act at the end of  | karma maturing through      |
+   |                  | history                   | samsara                     |
+   | Judge            | God, in a final judgement | the karmic law itself; in   |
+   |                  |                           | Nyaya/Ramanuja God RATIFIES |
+   | Telos            | restored embodied life in | EXIT from the series —      |
+   |                  | communion with God        | moksa/nirvana/kaivalya/     |
+   |                  |                           | apavarga                    |
+   | Identity-bearer  | person re-constituted by  | atman/jiva — or, in         |
+   |                  | God (soul as form, or     | Buddhism, a causal stream   |
+   |                  | replica)                  |                             |
+   | Body             | ESSENTIAL; a "spiritual   | discarded like clothing     |
+   |                  | body" is still a body     | (Gita 2.22); subtle body    |
+   |                  |                           | carries dispositions        |
+   | Direction of time| linear, eschatological    | cyclical, with a linear exit|
+   | Moral function   | accountability before a   | self-regulating desert, no  |
+   |                  | personal God              | external prosecutor         |
+   +------------------+---------------------------+-----------------------------+
+
+ASCII MASTER FLOW — PANEL 27/32: Identity failures both ways, and rebirth versus reincarnation
+   THE IDENTITY PROBLEM, BOTH WAYS
+     FOR RESURRECTION: the GAP PROBLEM (what exists between death and raising?) and
+       the RE-ASSEMBLY / "CANNIBAL" objection (if matter is shared, whose atoms rise?)
+       AQUINAS ......... the rational soul is the FORM of the body, securing continuity
+       VAN INWAGEN ..... God PRESERVES the body (or a core) and leaves a simulacrum
+       HICK ............ a unique psychophysical REPLICA with memory and character IS
+                         the same person for all purposes that matter
+       DUPLICATION OBJECTION -> if one replica, why not two? Hick restricts to a
+       UNIQUE replica; critics answer that possibility of duplication already shows
+       the criterion is not identity
+     FOR REBIRTH: the MEMORY OBJECTION — no recollection of prior lives.
+       Reply: psychological memory is not metaphysical continuity; latent samskaras
+       and vasanas connect lives. (?) Coherent, but evidentially empty.
+   ------------------------------------------------------------------------------
+   REBIRTH vs REINCARNATION (2019 Q8(a) DEMANDS THIS)
+     REINCARNATION (re-enfleshing) presupposes a SUBSTANTIAL soul re-entering a body
+       -> apt for Vedanta, Nyaya, Jainism
+     REBIRTH is the WIDER, neutral term and the ONLY correct one for Buddhism's
+       punarbhava without a transmigrating substance
+     Gita 9.21 (pitryana): those who exhaust their merit RETURN to the world of
+       mortals — even heaven is a WITHIN-SAMSARA stage, not resurrection
+   VERDICT FORMULA: resurrection asks how a person can survive when the person is
+   essentially embodied; rebirth asks how moral desert can be discharged when a
+   single life is too short. NEITHER IS A VERSION OF THE OTHER, and the identity
+   problem is unresolved on both sides — for OPPOSITE reasons.
+
+ASCII MASTER FLOW — PANEL 28/32: Anti-theistic rebirth — the three detachments
+   (1) KARMA WITHOUT A JUDGE
+       desert is discharged by an impersonal, self-regulating law
+       -> answers the DISTRIBUTION question without theodicy
+   (2) REBIRTH WITHOUT A SOUL
+       continuity, not substance, suffices (Buddhism)
+       -> defeats the NECESSITY claim
+   (3) LIBERATION WITHOUT GRACE
+       nirvana and Jain perfected omniscience need no deity and no divine favour
+       -> shows soteriology is not intrinsically theistic
+   ------------------------------------------------------------------------------
+   THE TWO SYSTEMS ARE NOT ONE POSITION
+   +-------------------+--------------------------+---------------------------+
+   |                   | BUDDHISM                 | JAINISM                   |
+   +-------------------+--------------------------+---------------------------+
+   | Permanent self?   | NO — anatman             | YES — eternal jiva        |
+   | Creator God?      | NO                       | NO                        |
+   | Karma             | causal conditioning of a | quasi-material matter     |
+   |                   | stream                   | adhering to the soul      |
+   | Liberation        | extinguishing of craving | perfected omniscient      |
+   |                   | (nirvana)                | individuality             |
+   | Proves            | rebirth needs no soul    | rebirth and liberation    |
+   |                   |                          | need no God               |
+   +-------------------+--------------------------+---------------------------+
+   TOGETHER they establish more than either alone: Jainism removes the GOD without
+   removing the SOUL; Buddhism removes the SOUL without removing REBIRTH. The WHOLE
+   structure is therefore separable.
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 29/32: Anti-theistic rebirth — significance, counter-pressures, limits
+   WHY THIS IS "PHILOSOPHICALLY SIGNIFICANT" (2018 Q5(b))
+     it ISOLATES the explanatory work: if the same phenomena are explained without a
+       judge and without a substance, neither is doing indispensable work
+     it ANSWERS DISTRIBUTION differently from theism: impersonal law explains why
+       THIS person suffers without a divine reason for the allocation
+     it RELOCATES the burden: the theist must show what a judge ADDS; the
+       substantialist must show what a permanent soul ADDS
+   COUNTER-PRESSURES -> REPLIES
+     a law with no legislator is odd -> moral causation treated as basic, as natural
+       regularities are treated
+     without a self, moral ownership is unclear -> causal descent; "neither the same
+       nor wholly other"  (STRONGEST objection; concede the residue)
+     without grace, liberation may be unattainable for most -> graded paths and
+       lay-adherent routes
+   HARD LIMITS
+     nastika = VEDA-REJECTING, not atheist
+     do NOT merge the two anti-theisms — they differ precisely on the soul
+     the conclusion is DETACHABILITY, never a disproof of theism
+
+ASCII MASTER FLOW — PANEL 30/32: The directive decoder
+   DIRECTIVE DECODER
+     "Is X a necessary condition for Y?"      -> modal verdict; substantialist YES,
+                                                 Buddhist counter-example, exact claim
+                                                 2022 Q5(c) · 2024 Q6(a) · 2025 Q7(c)
+     "Discuss with reference to [text/school]"-> fidelity to THAT source; the Gita
+                                                 question must cite Gita verses
+     "Critically examine [thinker]'s proofs"  -> four separate mini-assessments
+     "Elucidate ... and explain the role of"  -> TWO obligations, both delivered
+     "Do you accept that ...? Discuss"        -> position first, then evidence, then
+                                                 the strongest contrary case
+     "Evaluate X as a pathway"                -> criterion FIRST: accessibility,
+                                                 sufficiency, terminus
+     "State and explain the doctrines A, B, C"-> three definitions, then relations
+     "Discuss the nature of A and B"          -> two nouns, both delivered
+     "essential postulate"                    -> REMOVAL TEST, then price the costs
+     "How far is it plausible ...?"           -> graded plausibility verdict
+   RULE: the moment a stem names a liberation term (moksa/apavarga/kaivalya/nirvana/
+   jivanmukti), fix that term against the PANEL 15 bench before writing anything else.
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 31/32: 17-part PYQ routing and the fourteen standing traps
+   17-PART PYQ ROUTING, 2018-2025
+     2018 Q5(b) 10m anti-theistic rebirth ................ PANEL 23
+     2018 Q7(c) 15m bhakti as a pathway .................. PANEL 20
+     2019 Q8(a) 20m karma, rebirth, reincarnation ........ PANELS 10, 12, 22
+     2020 Q5(b) 10m immortality as presupposition ........ PANELS 8, 9
+     2020 Q8(c) 15m knowledge, action, devotion .......... PANEL 21
+     2021 Q6(a) 20m immortality, Hindu tradition ......... PANEL 9
+     2021 Q6(b) 15m Advaita liberation + role of knowledge  PANEL 16
+     2021 Q8(b) 15m karma as essential postulate ......... PANEL 11
+     2022 Q5(c) 10m necessity w.r.t. Buddhism ............ PANELS 13, 14
+     2022 Q7(b) 15m liberation without a real agent ...... PANEL 17
+     2022 Q8(b) 15m Jain soul and bondage ................ PANEL 18
+     2023 Q6(a) 20m Plato's a priori proofs .............. PANELS 5, 6, 7
+     2023 Q7(b) 15m significance of rebirth in karma ..... PANEL 12
+     2024 Q5(c) 10m Nyaya-Vaisesika apavarga ............. PANEL 19
+     2024 Q6(a) 20m robust conception of liberation ...... PANELS 14, 15
+     2025 Q5(d) 10m jivanmukti in Advaita ................ PANEL 17
+     2025 Q7(c) 15m necessity w.r.t. the Gita ............ PANELS 9, 14
+   ------------------------------------------------------------------------------
+   THE FOURTEEN STANDING TRAPS
+     1  do not equate immortality, resurrection and rebirth
+     2  do not say Buddhism denies continuity — it denies a permanent substance-self
+     3  do not describe Nyaya apavarga as positive bliss
+     4  do not make all Indian liberation doctrines a merger with God
+     5  do not use the flame analogy as proof
+     6  distinguish knowledge destroying ignorance from prarabdha sustaining the body
+     7  do not treat bhakti as mere emotion — achievement to reception is the point
+     8  do not say "Advaita rejects bhakti" — Advaita makes it PREPARATORY
+     9  do not answer the three-means question with "all three are equal"
+    10  do not conflate rebirth with reincarnation
+    11  do not present resurrection as rebirth in heaven
+    12  do not treat kaivalya as a synonym for moksa, or Jain kevala as Samkhya kaivalya
+    13  do not call Yoga's Isvara a creator (YS 1.24)
+    14  do not say Samkhya's purusa is bound and released (SK 62-63)
+   ------------------------------------------------------------------------------
+
+ASCII MASTER FLOW — PANEL 32/32: Graded verdict ladder, mark bands and verdict templates
+   GRADED VERDICT LADDER
+     WEAK   ~40%  "the soul is eternal and is reborn until liberated" — all schools
+                  merged; liberation terms used as synonyms
+     AVERAGE ~50% correct school-wise definitions; no argument reconstruction;
+                  Buddhism handled as an exception rather than a counter-example
+     GOOD   ~60%  continuity-bearer identified per school; one objection answered;
+                  necessary/sufficient distinction still unstated
+     STRONG ~65-70% modal verdict precise; parity-bench distinctions live; Western
+                  comparator (Plato / resurrection) used deliberately
+     TOP    ~70%+ all the above PLUS a discriminating distinction (production vs
+                  removal; saksat vs arad-upakaraka; SK 62-63 misattribution; replica
+                  theory) PLUS a statement of what would FALSIFY the position
+   MARK BANDS: 10m ~150 words · 15m ~250 words · 20m ~300 words.
+   PARAGRAPH PATTERN: CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION.
+   ------------------------------------------------------------------------------
+   THREE VERDICT TEMPLATES
+     NECESSITY STEM  "Immortality of a substantial soul is SUFFICIENT for rebirth but
+       not NECESSARY: Buddhism secures re-becoming through causal continuity alone.
+       What rebirth actually requires is a CONTINUITY-BEARER, and schools disagree
+       only about whether that bearer must be a substance."
+     MEANS STEM      "All three are means of different kinds. Which is the DIRECT
+       means is settled by a prior metaphysical question — whether liberation is
+       produced or uncovered — and every school's answer follows from that."
+     LIBERATION STEM "The term names a FAMILY, not a state. Once apavarga, kaivalya,
+       moksa and nirvana are separated, the apparent Indian consensus turns out to be
+       a shared vocabulary covering four incompatible destinations."

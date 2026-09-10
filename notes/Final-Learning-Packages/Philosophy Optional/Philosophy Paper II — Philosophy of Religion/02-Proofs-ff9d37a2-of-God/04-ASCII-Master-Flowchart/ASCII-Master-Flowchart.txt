@@ -1,88 +1,617 @@
-ASCII MASTER FLOW — PANEL 1/8: 1. Proof architecture
-THEISTIC ARGUMENTS START FROM DIFFERENT DATA
- +-> concept of God -> ONTOLOGICAL (a priori)
- +-> contingent/moved/caused world -> COSMOLOGICAL (a posteriori)
- +-> order and purposiveness -> TELEOLOGICAL
- +-> objective obligation -> MORAL
- +-> Indian effect/order/language/karma -> NYĀYA-UDAYANA
-                         |
- CONTROL: proofs may be deductive, abductive or cumulative;
- BURDEN: premise -> inference -> theological identification
- never judge all by the standard of a single demonstrative syllogism.
+ASCII MASTER FLOW — PANEL 1/22: The control question and the three tiers
+PHILOSOPHY PAPER II — PHILOSOPHY OF RELIGION 02
+PROOFS FOR THE EXISTENCE OF GOD AND THEIR CRITIQUE
+COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM — 13 PANELS
+Syllabus, verbatim: "Proofs for the Existence of God and their Critique (Indian and Western)."
+Read top to bottom. Each panel is data-complete: premises, named critics, replies and verdict.
 
-ASCII MASTER FLOW — PANEL 2/8: 2. Ontological line
-ANSELM: God = that than which nothing greater can be conceived
- existing in reality > existing only in understanding
- therefore the greatest conceivable being exists in reality
-                         |
- DESCARTES: necessary existence belongs to supremely perfect being
- MODAL FORM: possibly necessary God -> necessarily God, if S5 possibility is granted
-                         |
- GAUNILO: perfect-island parody | KANT: existence is not a real predicate
- reply: necessary being is unlike contingent islands; pressure shifts to coherent possibility.
+              WHAT WOULD IT TAKE TO "PROVE" GOD?
+                            |
+   +------------------------+------------------------+
+   |                        |                        |
+ FROM THE CONCEPT      FROM THE WORLD         FROM MORAL AGENCY
+ a priori              a posteriori           practical reason
+ ONTOLOGICAL           COSMOLOGICAL           KANT'S POSTULATE
+ Anselm, Descartes     TELEOLOGICAL           (not a theoretical proof)
+                       NYAYA-UDAYANA
+                            |
+   THREE SEPARATE VERDICTS — ANSWER ALL THREE, NOT ONLY THE FIRST
+   +-- VALIDITY  : granted the premises, does the conclusion follow?
+   +-- SOUNDNESS : are the premises true? (most critics attack here)
+   +-- ADEQUACY  : is the being reached one, necessary, personal, perfectly
+                   good and worship-worthy?  (Kant's conclusion-gap)
+                            |
+   SIX GRADES OF CLAIMED FORCE
+   deductive (Anselm) | inductive/abductive (design, fine-tuning)
+   cumulative (Udayana, Swinburne) | practical postulate (Kant)
+   explanatory termination (Leibniz) | pragmatic proposal (Pascal — NOT a proof)
+                            |
+   BURDEN RULE: defend (1) the starting premise, (2) the inference, and
+   (3) the theological identification SEPARATELY.
+   LIMIT: a finite explanatory gap is not itself evidence for God.
+          "Science has not explained X, therefore God" is not an argument.
 
-ASCII MASTER FLOW — PANEL 3/8: 3. Cosmological family
-AQUINAS: motion -> unmoved mover | efficient causes -> first cause
- contingency -> necessary being; not “every event has a cause”
- KALĀM: whatever begins has a cause; universe began; therefore a cause
- LEIBNIZ: principle of sufficient reason -> why something rather than nothing?
-                         |
- HUME: causal principle may not extend beyond experience; universe may be brute
- RUSSELL: universe is “just there”; composition fallacy
- REPLY: argument concerns contingent totality's explanation, not a member-cause in time.
+ASCII MASTER FLOW — PANEL 2/22: THE A PRIORI / A POSTERIORI DIVISION  (2022 Q8(a), 20 marks)
+                    A PRIORI              |            A POSTERIORI
+ BASIS      concept of God alone          | facts of the world
+ EXAMPLE    ontological only              | cosmological, teleological, moral, Nyaya
+ STRENGTH   if valid, yields a NECESSARY  | begins from premises the critic concedes
+            God                           |
+ WEAKNESS   Kant: existence is not a real | reaches at best a probable, finite,
+            predicate                     | possibly plural cause
+                            |
+ CLASSIFICATION RULE: classify by the SOURCE OF THE PREMISES, never by the
+ modality of the conclusion.  Nyaya reaches an omniscient being and is still
+ a posteriori; Aquinas' Fourth Way starts from OBSERVED degrees and is still
+ a posteriori.
+                            |
+ 2022 VERDICT FORMULA: preference depends on the criterion named —
+   evidential contact -> a posteriori
+   modal strength     -> a priori
+   religious adequacy -> neither alone.
 
-ASCII MASTER FLOW — PANEL 4/8: 4. Design and fine-tuning
-PALEY: complex purposive adaptation -> watchmaker analogy -> designer
- FINE-TUNING: life-permitting constants appear within narrow range
-                         |
- rival explanations
- +-> design
- +-> physical necessity
- +-> chance / multiverse + selection effect
- +-> unknown deeper law
- HUME: weak analogy, many designers, imperfect designer | DARWIN: adaptation by selection
- verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged.
+ASCII MASTER FLOW — PANEL 3/22: ONTOLOGICAL ARGUMENT  (2018 Q6(c) · 2020 Q6(a) · 2024 Q7(c))
+ ANSELM, Proslogion 2 (1077-78) — a REDUCTIO
+   ASSUME: God exists in the understanding ALONE
+   P1: God =def "that than which nothing greater can be conceived"
+       (aliquid quo nihil maius cogitari possit); "greater" = MORE PERFECT
+   P2: existing in reality is greater than existing in the mind alone
+   => a greater than God could be conceived — contradicts P1
+   .:. the assumption is false; God exists in reality
+                            |
+ ANSELM, Proslogion 3 — THE PHILOSOPHICALLY SERIOUS FORM
+   a being that CANNOT be thought not to exist is greater
+   .:. God exists NECESSARILY — core notion: self-existence (aseity)
+                            |
+ DESCARTES, Meditations V (1641): existence belongs to the essence of a
+   supremely perfect being as three angles to a triangle, a valley to a mountain
+   NOT to be fused with Meditations III's CAUSAL proof from the idea of the infinite
+                            |
 
-ASCII MASTER FLOW — PANEL 5/8: 5. Moral argument
-CONSCIENCE/LAW: obligation -> personal lawgiver (contested)
- OBJECTIVE VALUE: moral realism -> transcendent ground (abductive)
- KANT: morality does not theoretically prove God
- highest good (virtue proportioned to happiness) -> practical postulates:
- freedom + immortality + God
-                         |
- contemporary route: objective moral obligations -> adequate personal ground
- objection: Euthyphro dilemma; secular realism can ground moral facts
- reply: modified divine command grounds obligation in commands flowing from good nature
- limit: the move from normativity to one religiously specified God remains underdetermined.
+ASCII MASTER FLOW — PANEL 4/22: Ontological argument II: Gaunilo, Kant, the modal repair and the Indian absence
+ OBJECTION 1 — GAUNILO, In Behalf of the Fool: "most perfect island" parody
+   precision point: he wrote "most perfect OF islands", not "most perfect
+   CONCEIVABLE island" — correcting this strengthens the parody
+   ANSELM'S REPLY: an island is a contingent piece of the physical world and
+   can be thought not to exist; only God is defined with necessary existence
+   RESIDUE: protects form 2, exposes form 1, and shifts the burden to whether
+   maximal greatness is COHERENT (islands have no intrinsic maximum)
+                            |
+ OBJECTION 2 — KANT: "existence is not a real predicate" (CPR A598/B626 region)
+   100 real thalers contain not one coin more than 100 possible thalers
+   Chatterjee-Datta's Indian idiom: 100 rupees imagined in the pocket
+   .:. nothing can be defined into existence; only a CONDITIONAL follows
+                            |
+ OBJECTION 3 — post-Fregean logic: "exists" is a second-order quantificational
+   notion; it cannot appear in a list of perfections at all
+                            |
+ REPLY — MODAL VERSIONS (Malcolm, Hartshorne, Plantinga)
+   1 possibly a maximally great being exists
+   2 maximal greatness = necessary existence + maximal excellence in every world
+   3 if possible, it exists in some possible world
+   4 what exists necessarily in some world exists in every world
+   .:. it exists in the actual world
+   BURDEN MIGRATES to premise 1 - the POSSIBILITY PREMISE; "possibly no such being"
+   yields the contrary conclusion by the same modal logic
+                            |
+ INDIAN NOTE: no classical Indian analogue.  Reason is pramana-theoretic —
+   Nyaya's means of knowledge are world-involving and inference needs vyapti
+   (invariable concomitance) fixed by observation; Advaita reaches Brahman by
+   scripture plus experience, not by concept-analysis.
+                            |
+ 2018 VERDICT: the concept entails existence CONDITIONALLY (if God exists, God
+ exists necessarily) — conceptual entailment, never instantiation.
 
-ASCII MASTER FLOW — PANEL 6/8: 6. Nyāya-Udayana proof cluster
-UDAYANA'S ROUTES TO ĪŚVARA
- kāryāt: world as effect -> maker        āyojanāt: atomic combination -> arranger
- dhṛtyādeḥ: support/dissolution          padāt: conventional word-use
- pratyayataḥ: trustworthy cognition      śruteḥ/vākyāt: Vedic discourse
- saṃkhyāviśeṣāt: determinate magnitudes  adṛṣṭāt: karmic allocation
-                         |
- ĪŚVARA = omniscient efficient cause; eternal atoms = material causes
- not creation ex nihilo; proof aims at intelligent coordination of a realist cosmos.
+ASCII MASTER FLOW — PANEL 5/22: Cosmological family — three forms that must not be merged
+ FORM              STARTING POINT             TERMINUS              PRESSURE
+ ---------------   ------------------------   -------------------   ----------------
+ AQUINAS Ways 1-3  present change, ordered    unmoved actualiser,   needs an
+ (ST I q.2 a.3)    efficient causation,       first efficient       ESSENTIALLY
+                   contingency                cause, necessary      ordered series
+                                              being
+ LEIBNIZ           the contingent totality    a necessary           the principle may
+                   + principle of sufficient  sufficient reason     be denied; brute
+                   reason                     outside the series    fact allowed
+ KALAM (temporal   whatever begins has a      a cause of the        beginning premise
+ beginning)        cause; the universe began  beginning             + personhood need
+                                              separate defence
+                            |
+ THE DISTINCTION THE WHOLE ARGUMENT TURNS ON
+   ESSENTIALLY ORDERED (per se): hand -> stick -> stone.  Members act
+     SIMULTANEOUSLY; intermediates have only DERIVATIVE power; remove the hand
+     and the series stops NOW.  This is the series Aquinas terminates.
+   ACCIDENTALLY ORDERED (per accidens): grandfather -> father -> son.  Each
+     member has power in its own right and may perish.  Aquinas need NOT stop it.
+   .:. "FIRST" = EXPLANATORY priority here and now, NOT the earliest event.
+   Aquinas holds a temporal beginning is known by FAITH, not demonstration.
+                            |
 
-ASCII MASTER FLOW — PANEL 7/8: 7. Indian and Western critiques
-CĀRVĀKA: no perception of God; inference overreaches
- BUDDHIST: momentary dependent series needs no permanent creator
- JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil
- MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author
- SĀṂKHYA: unconscious nature (prakṛti) evolves without a creator
-                         |
- HUME/KANT: causal/design inference exceeds categories or experience
- NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order
- COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God.
+ASCII MASTER FLOW — PANEL 6/22: Cosmological family II: the Five Ways mapped, and the critics
+ THE FIVE WAYS, MAPPED
+   Way 1 motion/change -> unmoved mover        (cosmological)
+   Way 2 ordered efficient causes -> first cause (cosmological)
+   Way 3 contingency -> necessary being         (cosmological)
+   Way 4 observed degrees -> maximum/source     (henological)
+   Way 5 regular directedness -> intelligence   (teleological)
+   Each closes "and this everyone understands to be God."
+   Way 3's weak steps: the quantifier shift at "at some time nothing existed",
+   and necessary-through-another (ab alio) vs necessary-of-itself (a se).
+                            |
+ CRITICS
+   HUME    : why not an infinite series? explaining each part may explain the
+             whole; the cause need not be one, personal, infinite or good
+   RUSSELL : the universe is "just there" — a brute fact; composition fallacy
+   KANT    : the passage from "a necessary being" to "the most real being"
+             is the ONTOLOGICAL argument in disguise — an ADEQUACY objection
+   REPLY   : the argument concerns DEPENDENCE, not property-transfer; but
+             allowing a brute totality REJECTS sufficient reason rather than
+             refuting the argument.
 
-ASCII MASTER FLOW — PANEL 8/8: 8. Cumulative verdict and answer plan
-DEFINE target God -> classify argument -> formalise premises -> expose hidden bridge
- -> strongest named critic -> best reply -> test what conclusion actually establishes
-                         |
- ontological: necessity if possibility | cosmological: ground if PSR
- design: probability, not deduction | moral: practical/normative support
- Nyāya: intelligent order within atomism
-                         |
- QUALIFIED VERDICT: no proof compels every rational agent; together they can form a
- cumulative case only if their contested modal, causal, probabilistic and moral premises stand.
+ASCII MASTER FLOW — PANEL 7/22: TELEOLOGICAL ARGUMENT  (2025 Q6(a), 20 marks — with Hume)
+ THREE TELEOLOGIES THAT MUST NOT BE CONFUSED
+   [1] AQUINAS Way 5 : regular directedness of NON-COGNITIVE nature.
+       Archer and arrow.  A GOVERNANCE argument, not an artefact analogy.
+   [2] PALEY (1802)  : ANALOGY from artefact to organism.  Watch on a heath —
+       wheels, cogs, axles, springs, balances adjusted for regular timekeeping;
+       a stone is not.  Three riders: the inference survives (i) never having
+       seen a watch made, (ii) imperfect working, (iii) parts whose function
+       we cannot discover.  Cumulative evidence: eye as self-adjusting optical
+       instrument, bird's wing, fish's fin, planetary rotation, the seasons.
+   [3] FINE-TUNING   : probabilistic/abductive, pre-biological, about constants.
+                            |
+ CHRONOLOGY TRAP: Hume's Dialogues (published 1779) PRECEDE Paley (1802).
+ Philo — not Cleanthes — carries the objections.
+                            |
+
+ASCII MASTER FLOW — PANEL 8/22: Teleological argument II: Hume, Darwin and fine-tuning
+ HUME'S FIVE FRONTS   (mnemonic A-A-P-P-E)
+   A  ADAPTED     : any persisting universe must look adapted; there could not
+                    be birds with wings unable to live in air.  EPICUREAN
+                    HYPOTHESIS: finite particles in random motion pass through
+                    every combination in unlimited time; one is a stable order.
+   A  ANALOGY     : the universe resembles a vegetable or a crustacean at least
+                    as much as a machine; only STRONG analogy licenses inference.
+   P  PROPORTION  : proportion cause to effect — from a finite world one can
+                    never infer an infinite creator (the scales illustration).
+   P  PLURALITY   : many designers, an inferior deity, an infant or senile one,
+                    or an abandoned first attempt fit the evidence equally.
+   E  EVIL        : disorder and suffering count against a good, powerful maker.
+   LIMIT: Hume does NOT disprove a designer.  He attacks inference-strength and
+   the attributes of the conclusion.
+                            |
+ DARWIN (1859): random variation + differential survival explains adaptation.
+   Ozone illustration: life fitted itself to the filter, not the filter to life.
+   EXACT SCOPE: defeats Paley's BIOLOGICAL premise.  Does NOT touch cosmic
+   law-governedness or the fine-tuning of constants.
+                            |
+ FINE-TUNING'S LIVE RIVALS
+   +-- design
+   +-- physical necessity
+   +-- chance / multiverse + observation-selection effect
+   +-- an unknown deeper law
+   VERDICT: probabilistic inference to the best explanation, never demonstration.
+                            |
+ INDIAN ANALOGUE: ayojanat — the pot-and-potter inference.  Chatterjee-Datta
+ note parallels in Janet, Lotze and Martineau, but stress the divergence:
+ Western theists make God the source of EXISTENCE; Nyaya makes God the cause
+ of ORDER only.
+
+ASCII MASTER FLOW — PANEL 9/22: MORAL ARGUMENT  (2021 Q7(b), 15 marks)
+ THREE ROUTES — DO NOT MERGE THEM
+   ROUTE 1  MORAL LAW / CONSCIENCE  (Newman, Grammar of Assent)
+     binding duty and shame imply One before whom we are responsible
+     OBJECTION: moral psychology and social life may explain conscience
+     HICK: the route assumes values resist naturalistic explanation — it BEGS
+     the question.  Force: an inference to agency, not a demonstration.
+   ROUTE 2  OBJECTIVE VALUE AND DUTY
+     stance-independent moral truths require a transcendent ground
+     OBJECTION: moral realism need not be theistic; EUTHYPHRO presses the
+     grounding — good because willed, or willed because good?
+     Force: at most an abductive grounding argument.
+   ROUTE 3  KANT'S HIGHEST GOOD  (Critique of Practical Reason, 1788)
+     KANT'S TWO STOREYS: CPR (1781/87) DESTROYS the ontological, cosmological
+     and physico-theological proofs; CPrR REINSTATES God as a POSTULATE.
+     1 the moral law obligates pursuit of the highest good (summum bonum:
+       virtue with proportionate happiness)
+     2 finite agents cannot secure that proportion; nature does not supply it
+     3 "ought implies can" licenses postulating its conditions
+     4 THREE POSTULATES: FREEDOM, IMMORTALITY, GOD
+     A postulate is practically necessary and theoretically undemonstrable —
+     rational faith (Vernunftglaube): subjectively sufficient, objectively
+     insufficient assent.
+                            |
+ EUTHYPHRO'S TARGET: divine-command and value-grounding routes — NOT Kant.
+ For Kant the moral law is AUTONOMOUS; God guarantees PROPORTION, not obligation.
+                            |
+ OBJECTIONS: projection / wish-fulfilment; autonomy tension; adequacy.
+ HICK'S VERDICT: moral seriousness is "at least a move in the direction of
+ belief in God", but values cannot be said to point all the way to the infinite,
+ omnipotent, self-existent personal creator.
+                            |
+ INDIAN COUNTERPART: Nyaya's fruit-giver (karmaphaladata).
+ KEY CONTRAST: Kant POSTULATES a God who COULD proportion virtue and happiness;
+ Nyaya INFERS a God who DOES — epistemically bolder, correspondingly more exposed.
+
+ASCII MASTER FLOW — PANEL 10/22: NYAYA-UDAYANA THEISM  (2018 Q8(a) · 2023 Q7(a) · 2025 Q7(b))
+ NATURE OF ISVARA
+   first EFFICIENT cause — a builder, NEVER the material cause
+   also preserver (the world is kept in existence by God's will) and destroyer
+   one, infinite, eternal, omniscient; possesses the six perfections (sad-aisvarya)
+   the world relates to God as a body to the self residing in it
+   omnipotent YET GUIDED by the merit and demerit of human actions
+   eternal intelligence is an INSEPARABLE ATTRIBUTE of God, not His essence
+     (the explicit contrast with Advaita)
+   THEISM, NOT DEISM: the deist's God withdraws like a clockmaker; Nyaya's God
+   maintains a continuous relation as creator, maintainer and destroyer
+   God is prayojaka karta — efficient DIRECTIVE cause of human action; man is
+   the efficient INSTRUMENTAL cause, relatively free, directed as a wise father
+   directs a son
+                            |
+
+ASCII MASTER FLOW — PANEL 11/22: Nyaya-Udayana theism II: Udayana's eight collected grounds
+ UDAYANA, NYAYAKUSUMANJALI, 5th stabaka (11th c.) — THE COLLECTED GROUNDS
+ (a mnemonic verse conventionally unpacked as EIGHT hetus; glosses of the last
+  four VARY — give the Sanskrit term plus one clause, and say that they vary)
+   1 KARYAT          the composite world is an EFFECT; every effect presupposes
+                     an intelligent maker who knows its material, means and end.
+                     Composites are effects because they are made of parts
+                     (savayava) and have intermediate magnitude (avantara-
+                     mahattva); space, time, ether and self are excluded as
+                     partless infinities, atoms and manas as simple infinitesimals.
+                     The maker must be OMNISCIENT, since only an omniscient being
+                     can directly know atoms.
+   2 AYOJANAT        inert atoms cannot combine themselves; the initial
+                     conjunction (samyoga) requires a conscious agent's volition
+   3 DHRTYADEH       support, sustenance and periodic dissolution require a
+                     governing will ("adi" carries the maintenance/destruction pair)
+   4 PADAT           transmission of language, arts and crafts presupposes an
+                     original competent teacher
+   5 PRATYAYATAH     the VALIDITY (pramanya) of the Veda requires a trustworthy
+                     (apta) author, as a science's authority derives from its
+                     founder; the jiva cannot be that author
+   6 SRUTEH          the Veda's own testimony to Isvara counts as evidence within
+                     the system (Brhadaranyaka, Svetasvatara, Kausitaki, Gita)
+   7 VAKYAT          the Veda consists of SENTENCES, and sentences are of the kind
+                     produced by persons — hence a personal author
+   8 SAMKHYAVISESAT  the "special number": the dyad (dvyanuka) that begins creation
+                     requires the numerical cognition (apeksa-buddhi) of a conscious
+                     being present at the start, when no finite self is embodied
+                     [technically the hardest — state it only if stated correctly]
+                            |
+
+ASCII MASTER FLOW — PANEL 12/22: Nyaya-Udayana theism III: adrsta, internal answers and external pressure
+ THE ARGUMENT FROM ADRSTA — the philosophical core, running beneath all eight
+   differences of lot require a cause -> karma -> the time-gap requires a
+   persisting stock of merit and demerit (punya/papa = ADRSTA) -> adrsta is
+   UNCONSCIOUS and cannot allot the right kind and degree of joy and sorrow;
+   individual selves neither know nor control it
+   .:. an eternal, omniscient dispenser — karmadhyaksa / karmaphaladata
+                            |
+ TWO OBJECTIONS ANSWERED INSIDE THE SYSTEM
+   CIRCULARITY : in the ORDER OF EXISTENCE God creates the Veda; in the ORDER OF
+                 KNOWLEDGE the Veda leads to God.  Reciprocal dependence across
+                 DIFFERENT orders is not a vicious circle.
+   BODILESS AGENT : a dilemma — if God's existence is already established by
+                 scripture the objection is idle; if not, it presupposes what it
+                 disputes.
+                            |
+ EXTERNAL PRESSURE
+   SANKARA'S ATOMISM DILEMMA: atoms active -> permanent creation; inactive -> no
+     creation; both -> contradiction; neither -> an outside agency, itself
+     problematic.  Advaita grants Isvara only empirical (vyavaharika) standing.
+   SAMKHYA: unconscious nature (prakrti) evolves without a creator.
+   REDUNDANCY CHARGE (C. D. Sharma): Nyaya's God is "reduced to the status of a
+     supervisor" with "hands and feet chained by the shackles of the Law of Karma
+     unfolding itself as the Adrsta"; the system "could have easily done away
+     with a God".  This is Nyaya's hardest challenge.
+   CHATTERJEE-DATTA'S OWN CONCLUSION: no proof can prove God, because God as
+     ultimate reality is the highest of all premises and cannot be deduced from
+     an anterior one; God must be known through DIRECT EXPERIENCE.
+     Lotze: "all proofs that God exists are pleas put forward in justification
+     of our faith."
+
+ASCII MASTER FLOW — PANEL 13/22: Two senses of "god" in the indian debate
+   SENSE A — WORLD-MAKER (jagat-karta / Isvara-karana-vada)
+     the cosmological office: creates or arranges, sustains, dissolves, allots
+     AFFIRMED by: Nyaya-Vaisesika, theistic Vedanta, Yoga (as a special self)
+     DENIED  by: Jainism, Buddhism, Mimamsa, Carvaka, classical Samkhya
+                            |
+   SENSE B — PERFECTED / OMNISCIENT BEING (achieved divinity)
+     the soteriological office: omniscient, passion-free, exemplary, non-creative
+     AFFIRMED by: Jainism (arihanta, tirthankara, siddha), Buddhism (buddhas,
+       celestial bodhisattvas), and by devotional traditions generally
+                            |
+   THE RULE THAT SAVES THE ANSWER
+     "Denying a creator is not denying divinity."
+     A school may deny Sense A completely and affirm Sense B completely.
+     Nastika means denier of VEDIC AUTHORITY, not denier of spirit.
+     Buddhism denies a CREATOR, not devas — who are long-lived, impermanent
+     beings inside the round of rebirth.
+                            |
+   CONSEQUENCE FOR THE 2019 AND 2018 STEMS: a stem that asks for "the proofs
+   propounded in Jainism" or for "arguments against God as creator" is asking
+   about SENSE A.  Answer in Sense A, then supply Sense B as what the school
+   affirms instead.
+
+ASCII MASTER FLOW — PANEL 14/22: JAINA CRITIQUE — GODHEAD WITHOUT GOD  (2019 Q5(e), 10 marks)
+ READ THE STEM EXACTLY: Jainism propounds NO proof of a creator.  It propounds
+ (a) a battery of arguments AGAINST one, and (b) divinity as achieved perfection.
+ A script that invents Jain theistic proofs loses the paper; a script that says
+ only "Jainism is atheistic" loses half the marks.
+                            |
+ THE WORLD: uncreated, beginningless, eternal; six substances (jiva, pudgala,
+ dharma, adharma, akasa, kala); reality is origination, decay and permanence
+ (utpada-vyaya-dhrauvya); change belongs to MODES, not to a divine act.
+                            |
+ SIX ARGUMENTS AGAINST A CREATOR
+   1 MOTIVE (the strongest, and the one examiners want)
+     a perfect being is complete — without unfulfilled desire, deficiency or need
+     creation is an ACTION, and every action presupposes a want or purpose
+     .:. either God is perfect and had no motive, or God had a motive and is not perfect
+   2 REGRESS      if everything needs a maker, the maker needs a maker; if the
+                  maker can be uncaused, so can the world — the premise self-defeats
+   3 INSTRUMENT   before creation there was no matter, no space, no body, no
+                  instrument; an immaterial God with nothing to work on cannot act
+   4 MORAL        creation from compassion is refuted by suffering, inequality and
+                  predation; creation without compassion is not good; creation as
+                  sport is childish and cruel.  Karma explains the DISTRIBUTION of
+                  fortune without impugning anyone's goodness
+   5 REDUNDANCY   karmic matter, the six substances and causal law already explain
+                  order, bondage and release — the parsimony (laghava) move
+   6 SVABHAVA     things act by their own nature: fire burns, water flows
+                  (assembled in Jinasena's Mahapurana and in Hemacandra;
+                   also Haribhadra, Akalanka, Vidyanandi)
+                            |
+
+ASCII MASTER FLOW — PANEL 15/22: Jaina critique II: achieved divinity, objections and verdict
+ WHAT JAINISM AFFIRMS INSTEAD — DO NOT BLUR THESE
+   ARIHANTA / KEVALIN : destroyed the four obscuring (ghatiya) karmas and attained
+                        omniscience (kevala-jnana) WHILE STILL EMBODIED
+   TIRTHANKARA        : a special arihanta who RE-ESTABLISHES the fourfold order
+                        (monks, nuns, laymen, laywomen) and preaches the path.
+                        24 in each half-cycle; Mahavira is the 24th of the present.
+                        Defined by a TEACHING-AND-FOUNDING function, not by rank.
+   SIDDHA             : has additionally shed the four non-obscuring (aghatiya)
+                        karmas at death; DISEMBODIED, at the siddhasila at the
+                        summit of the cosmos, with the four infinitudes
+                        (ananta-catustaya: infinite knowledge, perception, bliss, energy)
+   .:. EVERY TIRTHANKARA BECOMES A SIDDHA; NOT EVERY SIDDHA WAS A TIRTHANKARA.
+   Neither creates, sustains, judges nor answers prayer.  The tirthankara is
+   passion-free (vitaraga), so worship is COMMEMORATIVE and ASPIRATIONAL — the
+   object does not respond, and cannot, since responsiveness would be a passion.
+   The five-fold salutation (arihanta, siddha, acarya, upadhyaya, sadhu) salutes
+   QUALITIES AND STAGES, not a deity.
+   Every jiva intrinsically possesses the four infinitudes, obscured not absent;
+   "we are all potential Jinas" — a religion of self-help.
+                            |
+ OBJECTION -> REPLY
+   NYAYA     : unconscious karmic matter cannot allot determinate fruits to
+               determinate persons, nor can inert atoms self-organise
+   JAIN REPLY: karmic influx and maturation are LAW-LIKE properties of the
+               jiva-matter relation, exactly as poison acts without a poisoner
+               supervising it
+   COUNTER   : "God has no motive" assumes creation must be motivated as HUMAN
+               action is; classical theism replies that creation is a free,
+               non-needy diffusion of goodness (bonum diffusivum sui), not the
+               satisfaction of a lack.  THIS EXCHANGE IS THE HIGHEST-YIELD
+               PARAGRAPH IN THE ANSWER.
+   INTERNAL  : Sharma — if ignorance and karma are inseparable from the soul,
+               liberation is impossible; if external, bondage is impossible.
+                            |
+ VERDICT: Jainism supplies no proof OF God; it supplies a proof-structure
+ AGAINST a creator and a redefinition of divinity as the soul's achieved
+ perfection.  Its motive argument is powerful against an anthropomorphic creator
+ and weaker against a classical theism that denies creation is need-driven.
+
+ASCII MASTER FLOW — PANEL 16/22: BUDDHIST CRITIQUE — THREE STRATA  (2018 Q8(b), 15 marks)
+ STRATUM (a) — CANONICAL / GENETIC
+   BRAHMAJALA SUTTA (DN 1): the being first reborn in an empty Brahma-world,
+     seeing others appear after his wish, concludes "I am Brahma, the Maker,
+     the Creator"; later arrivals remember him and transmit the error
+   AGGANNA SUTTA (DN 27): a naturalistic-cyclic account of cosmic and social
+     evolution replaces creation
+   AVYAKATA (undeclared questions) + the poisoned-arrow parable: speculative
+     cosmogony is soteriologically idle
+   HONEST LIMIT: these DIAGNOSE the belief; they do not REFUTE the proposition.
+                            |
+ STRATUM (b) — CAUSAL-METAPHYSICAL  [Dharmakirti; Santaraksita's Tattvasamgraha
+   with Kamalasila's Panjika]  — THIS IS WHERE THE EXAMINABLE ARGUMENT LIES
+   1 CRITERION OF EXISTENCE: to be real is to be causally efficacious
+     (arthakriya-karitva)
+   2 THE SUCCESSIVE-OR-SIMULTANEOUS DILEMMA (krama-akrama-virodha):
+       a PERMANENT, UNCHANGING cause must produce its effects either
+       ALL AT ONCE -> the whole cosmos arises in one instant and nothing follows
+       or SUCCESSIVELY -> God acquires at t2 an auxiliary he lacked at t1,
+         and is therefore neither permanent nor self-sufficient
+   3 AUXILIARY REGRESS: if God needs auxiliaries (material, karma, time) he is
+     not the SOLE cause; if he does not, the world's temporal order is unexplained
+   4 EVIDENTIAL: the inference "effect -> intelligent maker" rests on a vyapti
+     established only for ARTEFACTS; generalising it is the very point at issue
+   5 REDUNDANCY: conditioned co-arising (pratityasamutpada) already accounts for
+     arising and cessation — a creator is an idle wheel
+                            |
+
+ASCII MASTER FLOW — PANEL 17/22: Buddhist critique II: moral stratum, distinction, replies and verdict
+ STRATUM (c) — MORAL
+   a being able to create who ordered THIS quantity of suffering is either not
+   benevolent or not omnipotent; and if all is God's will, karma and moral effort
+   are pointless.  DEVADAHA SUTTA (MN 101) makes the parallel point against
+   determinism generally: a doctrine that makes present effort ineffective
+   destroys the moral life.
+   [Bhuridatta Jataka anti-creator verses: widely cited, wording
+    translation-dependent — PARAPHRASE ONLY.]
+                            |
+ DISTINCTION: Buddhism is NON-THEISTIC, not merely atheistic.  It rejects a
+ CREATOR (isvara-karana-vada), not every divine being; devas are impermanent
+ beings within the round of rebirth, and later Buddha-fields and celestial
+ bodhisattvas perform religious functions without an omnipotent creator.
+                            |
+ OBJECTION -> REPLY
+   NYAYA     : God's WILLING is eternal while its EFFECTS are timed by the
+               readiness of adrsta, so no change in God is required; and to
+               demand PERCEPTION of God begs the question against inference
+   BUDDHIST  : an eternal will whose efficacy is timed by something else is not
+               the sole and sufficient cause the theist claimed
+   SECOND    : if there is no self and no creator, what carries karma?
+               -> routed to Topic 04, Soul, Immortality, Rebirth and Liberation
+                            |
+ VERDICT: strongest where METAPHYSICAL — the permanence/production dilemma bites
+ on any UNCHANGING creator — and weakest where merely GENETIC, since explaining
+ why people believe in Brahma does not show there is none.
+
+ASCII MASTER FLOW — PANEL 18/22: Mimamsa and carvaka — the remaining two denials
+ MIMAMSA — displaces God twice over
+   APAURUSEYA : the Veda is eternal, AUTHORLESS and self-valid; no human and NO
+     DIVINE author is needed.  Authorlessness protects it from an author's deceit
+     or ignorance.  Against Nyaya: proving God, then His omniscience, then His
+     truthfulness, is a cumbersome three-stage dependence that authorlessness avoids.
+     -> the exact contradictory of Udayana's padat / pratyayatah / sruteh / vakyat
+   APURVA     : the unseen potency of a correctly performed ritual matures into
+     future fruit WITHOUT a divine dispenser; Prabhakara's niyoga grounds
+     obligation in the injunction itself
+     -> the exact contradictory of the adrsta / karmadhyaksa argument
+   Word-meaning relation is intrinsic (autpattika), not conventionally instituted
+   by a person — removing the last need for a divine institutor of language
+   Chatterjee-Datta record Max Muller's points that a creator God faces charges of
+   cruelty and partiality, and that denying a CREATOR is not denying God
+   THEIR CRITICISM: Mimamsa deities are not objects of worship and exist only in
+   the mantras describing them — "eternal and self-manifesting concepts"; God is
+   relegated to an ambiguous position
+                            |
+ CARVAKA — cuts the ground from every inferential proof
+   only perception is a means of valid knowledge; inference cannot reach the
+   supersensible; the world is made by the automatic combination of the material
+   elements; Vedas and priests are rejected
+   -> if this stands, EVERY anumana-based proof, Indian or Western, fails at once
+                            |
+ ADVAITA'S LEVELLING (not a denial, a demotion)
+   Nyaya's God is a qualified Lord (saguna Isvara) at the empirical (vyavaharika)
+   level, not the quality-transcending absolute (nirguna Brahman); the atomistic
+   proof is judged logically weak
+                            |
+ NYAYA'S STANDING REPLIES
+   unconscious merit cannot intelligently allot determinate fruits
+   authorless normativity is itself unexplained
+   demanding perception of God begs the question against inference
+   the pot/cosmos dissimilarity affects the STRENGTH, not the FORM, of the inference
+                            |
+ CLASSIFICATION KEY — every Indian anti-creator argument is one of three moves:
+   ECONOMY (redundancy/laghava) | COHERENCE (motive, krama-akrama) |
+   EPISTEMIC RESTRICTION (Carvaka on inference; Mimamsa on scriptural self-validity)
+
+ASCII MASTER FLOW — PANEL 19/22: Cumulative-case logic and the comparative bench
+   C-INDUCTIVE : premises RAISE the probability of the conclusion
+                 P(theism | e) > P(theism), but not necessarily > 0.5
+                       |  several INDEPENDENT strands
+                       v
+   P-INDUCTIVE : premises make the conclusion MORE PROBABLE THAN NOT  (> 0.5)
+   [Swinburne, The Existence of God; Mitchell, The Justification of Religious Belief]
+                            |
+   IMAGES: CHAIN (wrong — the components are not deductions, so no link breaks)
+           ROPE  (right — many strands, none end to end, jointly load-bearing)
+           JURY  (Mitchell — converging circumstantial evidence, none sufficient alone)
+   NOT THE SAME AS inference to the best explanation, which compares rival TOTAL
+   hypotheses rather than accumulating confirmation.
+   SWINBURNE'S PRIOR: SIMPLICITY — one agent with infinite (hence non-arbitrary)
+   degrees of power, knowledge and freedom is simpler than any finite alternative.
+                            |
+   FLEW, God and Philosophy: TEN LEAKY BUCKETS — buckets that each leak hold no
+   more water when stacked; zero plus zero is zero.
+   REPLY: correct only if each argument had NO force; a C-inductive argument has
+   some by definition.  Rope, not stacked buckets.
+   RESIDUAL OBJECTIONS: (i) underdetermination — a finite designer, a committee
+   of gods or an impersonal value-principle fit equally; simplicity is the
+   proposed selector and is itself contested; (ii) the case must be run as a NET
+   balance, with suffering counted on the other side.
+   UDAYANA'S 8-FOLD COLLECTION IS STRUCTURALLY THE SAME MOVE, EIGHT CENTURIES
+   EARLIER — and Flew's objection applies to both equally.
+                            |
+
+ASCII MASTER FLOW — PANEL 20/22: Comparative parity bench: convergence and divergence
+ THE PARITY BENCH — use whenever the stem says "compare" or "critically"
+ FUNCTION            WESTERN            INDIAN PRO-THEISTIC     INDIAN ANTI-THEISTIC
+ -----------------   ----------------   ---------------------   --------------------
+ effect -> maker     Aquinas Way 2;     Nyaya karyat, ayojanat  Buddhist attack on
+                     Paley                                      the vyapti; Jain regress
+ order/governance    Aquinas Way 5      Udayana dhrtyadeh       Jain svabhava; Samkhya's
+                                                                unconscious prakrti
+ scripture's         revealed theology  Udayana pratyayatah,    Mimamsa's apauruseya
+ authority                              sruteh, vakyat          Veda — authority
+                                                                without an author
+ moral order         Kant's postulate   Isvara as karmadhyaksa  karma/apurva as
+                                                                self-fructifying
+ from concept alone  Anselm, Descartes  no close classical      —
+                                        analogue
+ aggregation         Swinburne's        Udayana's eight-fold    Flew's leaky buckets
+                     cumulative case    stabaka                 applies to both
+                            |
+ CONVERGENCE / DIVERGENCE
+   CONVERGE: both traditions build a posteriori inferences from order to intelligence
+   DIVERGE : Aquinas' God causes BEING; Nyaya's Isvara causes only ORDER
+             creation from nothing vs the arrangement of ETERNAL atoms
+             Nyaya makes God the Veda's author; Mimamsa makes the Veda authorless —
+               there is NO Western analogue for that position
+             India's sharpest critics stood INSIDE orthodoxy (Mimamsa, Samkhya);
+               the West's stood outside it
+
+ASCII MASTER FLOW — PANEL 21/22: Verdict ladder, traps and the answer spine
+ FOUR DEFENSIBLE VERDICTS — CHOOSE ONE, NAME THE CRITERION, PAY ITS COST
+   V1 MINIMAL      no proof is demonstrative; each fails on validity, soundness
+                   or adequacy  (Chatterjee-Datta, following Kant and Lotze)
+   V2 CUMULATIVE   individually weak, jointly they raise probability
+                   (Udayana; Swinburne; Mitchell)
+   V3 DIVERGENT    different proofs establish different things — necessity,
+                   agency, intelligence, moral government — and no single one was
+                   ever meant to deliver the whole God of religion
+   V4 EXPERIENTIAL proofs are "pleas put forward in justification of our faith"
+                   (Lotze); God is known through direct experience
+                            |
+ GRADED BAND LADDER
+   WEAK   ~40%  names four Western proofs and "Nyaya's inference"; narrates the watch
+   AVG    ~50%  one proof reconstructed with a standard critique attached
+   GOOD   ~60%  premises numbered; presupposition named; one objection answered
+   STRONG 65-70 validity/soundness/adequacy separated; Indian parallel ARGUED;
+                the proponent's reply supplied
+   TOP    70%+  all the above + one discriminating distinction (per se vs per
+                accidens; C- vs P-inductive; tirthankara vs siddha; krama-akrama)
+                + a statement of what evidence would change the verdict
+                            |
+ TWELVE MASTER TRAPS
+   1  do not merge the Five Ways into one temporal "first cause" argument
+   2  the watch is PALEY'S (1802), never Aquinas'
+   3  Kant POSTULATES God for practical reason; he does not prove God by morality
+   4  Nyaya's God is the EFFICIENT, never the MATERIAL, cause; atoms are eternal
+   5  Hume attacks inference-strength and attributes; he does not disprove a designer
+   6  distinguish a proof's VALIDITY from the ADEQUACY of the God it establishes
+   7  never omit Anselm's second form; the reply to Gaunilo depends on it
+   8  modal versions carry a POSSIBILITY-PREMISE burden; they do not defeat Kant cleanly
+   9  Mimamsa's Veda is apauruseya and karma can be self-operating — the exact
+      contradictory of Nyaya's scripture and adrsta grounds
+  10  "Jainism is atheistic" misreads the 2019 stem: Jainism denies God, not godhead;
+      and tirthankara is not siddha
+  11  Buddhism denies a CREATOR, not all gods; and the case is not "the Buddha was
+      silent" — it is the krama-akrama dilemma
+  12  a cumulative case is a ROPE, not a chain; and Udayana's list is not a fixed
+      canonical eight with agreed glosses
+                            |
+
+ASCII MASTER FLOW — PANEL 22/22: The answer spine and the qualified conclusion
+ THE ANSWER SPINE — RUN IT IN THIS ORDER, EVERY TIME
+   DIRECTIVE  decode the verb; make the split visible on the page
+   PREMISES   reconstruct as numbered steps, not narrative
+   OBJECTION  attach each objection to the PREMISE it attacks
+   REPLY      give the proponent's BEST reply, not a straw one
+   VERDICT    grade validity, soundness and adequacy separately; name the criterion
+   10 marks ~150 words | 15 marks ~220-260 words | 20 marks ~320-360 words
+                            |
+ QUALIFIED CONCLUSION
+ "The proofs fail as demonstrations but succeed as diagnostics.  The ontological
+  argument shows that God, if real, cannot be a contingent item in the world; the
+  cosmological arguments show that contingent reality does not explain itself; the
+  design argument shows that order invites, without compelling, an intentional
+  explanation; the moral argument shows what a serious moral agent must hope; and
+  Nyaya shows that the same inferential path was walked in India, and met the same
+  objections from Mimamsa and Buddhism that Hume and Kant later pressed in Europe.
+  What no proof delivers is the passage from the being it establishes to the God
+  actually worshipped — which is why every tradition eventually supplements proof
+  with experience, testimony or faith."

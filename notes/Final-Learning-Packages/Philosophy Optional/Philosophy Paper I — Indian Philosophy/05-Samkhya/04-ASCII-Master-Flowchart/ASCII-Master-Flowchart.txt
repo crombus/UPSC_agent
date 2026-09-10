@@ -1,120 +1,544 @@
-ASCII MASTER FLOW — PANEL 1/9: Dualist architecture
-SĀṂKHYA = PRE-EXISTENCE OF THE EFFECT IN THE CAUSE (satkāryavāda) + CONSTITUTIVE PRINCIPLE
-  (tattva) EVOLUTION + PLURAL CONSCIOUS WITNESS (puruṣas)
-                         |
-        +----------------+----------------+
-        v                                 v
- PRIMORDIAL MATERIAL NATURE (Prakṛti)                              CONSCIOUS WITNESS (puruṣa)
- one, unconscious, productive         many, conscious, inactive witnesses
- unmanifest nature (avyakta) equilibrium of qualities (guṇas)         uncaused, unchanging,
-   non-agent
-        +----------------+----------------+
-                         v
- apparent association explains experience; discrimination ends bondage.
+ASCII MASTER FLOW — PANEL 1/14: The controlling question and the shape of the remedy
 
-ASCII MASTER FLOW — PANEL 2/9: Textual identity, suffering and subtle continuity
-TRADITION: Kapila -> Āsuri -> Pañcaśikha; early works not securely extant
-CLASSICAL OWNER: Īśvarakṛṣṇa's Sāṃkhyakārikā; later commentarial layers vary
-THREEFOLD SUFFERING: ādhyātmika | ādhibhautika | ādhidaivika
-SUBTLE BODY: liṅga-śarīra = 18 principles carrying dispositions between bodies
-Conscious witness (puruṣa) neither acts nor migrates; empirical subtle body bears action and moral
-  consequence (karma) and rebirth
-CLASSICAL POSITION: non-theistic/God-unproved; later Vijñānabhikṣu re-theizes
-YOGA BOUNDARY: Yoga owns citta, kleśa, samādhi, eight limbs and special Conscious witness (puruṣa)
+  SYLLABUS ITEM 16, PRINTED VERBATIM: "Samkhya; Prakrit; Purusa; Causation; Liberation."
+  normalised: Sāṃkhya · prakṛti · puruṣa · causation · liberation
+                                  |
+  CONTROLLING QUESTION ...... how can suffering be ended FINALLY and NON-RETURNINGLY?
+                                  |
+  +---- THREEFOLD SUFFERING (duḥkha-traya) — the exhaustive diagnosis ------------------+
+  |  ādhyātmika    internal / psychophysical .... bodily disease, mental affliction     |
+  |  ādhibhautika  from other beings + surroundings ... humans, animals, environment    |
+  |  ādhidaivika   from cosmic / elemental / unseen agencies (traditional class)        |
+  +------------------------------------------------------------------------------------+
+                                  |
+  WHY ORDINARY EXITS FAIL
+     visible remedies (medicine, wealth, protection) -> relief is PARTIAL and decays
+     ritual / scriptural means -> the result is PRODUCED -> perishable -> repeatable
+     => GRADED AS EXHAUSTIBLE, NOT DENOUNCED AS FALSE   [trap 2]
+                                  |
+  THEREFORE the required remedy must be NON-PRODUCTIVE
+     it cannot manufacture a state; it must CORRECT A MISTAKE
+     correcting a mistake = KNOWLEDGE, not action
+                                  |
+  THEREFORE the knowledge must have CONTENT
+     "Sāṃkhya" is connected BOTH with ENUMERATION and with DISCRIMINATIVE/RIGHT KNOWLEDGE
+     => the content is the TWENTY-FIVE PRINCIPLES (tattva)
+                                  |
+  +------------------------------------------------------------------------------------+
+  |  ANSWER-GRABBING SPINE                                                              |
+  |  Sāṃkhya is a soteriology forced to become a cosmology: a system promising release  |
+  |  by knowledge must first specify, exhaustively, what there is to be known.          |
+  +------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/9: Knowledge and proof of primordial material nature (Prakṛti)
-THREE MEANS OF VALID KNOWLEDGE (pramāṇas): perception | inference | reliable testimony
- primordial material nature (Prakṛti) is inferred, not ordinarily perceived
-                         |
- finite effects require cause -> effects share common features
- coordinated world requires common source -> evolutes need an unevolved ground
- pleasure/pain/dullness in effects -> sattva/rajas/tamas in cause
-                         |
- PRIMORDIAL MATERIAL NATURE (Prakṛti): beginningless, unmanifest, independent material cause;
- not “matter” alone, but psychophysical source of intellect, senses and elements.
-proof 3 exact reading: śaktitaḥ pravṛtteś ca -> operation from causal power
-proof 5 avibhāgāt vaiśvarūpyasya -> one undivided material root
+  ! TRAP 1: do not present duḥkha-traya as a printed syllabus noun. It is the doctrinal
+    starting point that explains why the printed clause ends with "Liberation".
 
-ASCII MASTER FLOW — PANEL 4/9: Three qualities (guṇas)
-                    SATTVA
-          lightness | illumination | pleasure
-                 /                         \
-                /        PRIMORDIAL MATERIAL NATURE (Prakṛti)          \
-               /   equilibrium breaks     \
-          RAJAS -------------------------- TAMAS
- activity | stimulation | pain     inertia | obstruction | dullness
-                         |
- qualities (guṇas) are constituents, not detachable qualities
- mutual domination + support + production drive all manifest difference.
+ASCII MASTER FLOW — PANEL 2/14: System identity and the textual ladder
 
-ASCII MASTER FLOW — PANEL 5/9: Twenty-five principles (tattvas)
-PRIMORDIAL MATERIAL NATURE (Prakṛti) (1)
-   -> COSMIC INTELLECT (mahat) / DETERMINATIVE INTELLECT (buddhi) (2)
-      -> EGO-MAKER (ahaṃkāra) (3)
-         +-> sāttvika -> SENSORY MIND (manas) (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS
-         +-> tāmasa  -> 5 SUBTLE ELEMENT (tanmātras) -> 5 GROSS ELEMENT (mahābhūtas)
-         +-> rājasa supplies activity to both branches
- CONSCIOUS WITNESS (puruṣa) (25) stands outside the evolute chain as witness
- COUNT CONTROL: 1 primordial material nature (Prakṛti) + 23 evolutes + conscious witness (puruṣa)
-   = 25 principles (tattvas).
-11 instruments: hearing/touch/sight/taste/smell + speech/grasping/walking/excretion/reproduction +
-  sensory mind (manas)
-5 subtle element (tanmātras): sound | touch | form | taste | smell
-5 gross elements: ether | air | fire | water | earth
-cause only 1 | cause-effect 7 | effects only 16 | neither 1 Conscious witness (puruṣa)
+  RUNG                          WHAT IT IS                        WHAT IT LICENSES
+  ---------------------------   -------------------------------   ------------------------------
+  Kapila -> Āsuri -> Pañcaśikha traditional founders; works NOT    name the lineage;
+                                extant in securely recoverable     DO NOT quote them
+                                form
+  ---------------------------   -------------------------------   ------------------------------
+  ĪŚVARAKṚṢṆA,                  earliest EXTANT systematic         THIS IS "SĀṂKHYA"
+  SĀṂKHYAKĀRIKĀ           *     classical text                     unless told otherwise
+  ---------------------------   -------------------------------   ------------------------------
+  Gauḍapāda's commentary;       major explanatory traditions       supporting commentarial
+  Vācaspati Miśra,              on the Kārikā                      authority
+  TATTVAKAUMUDĪ
+  ---------------------------   -------------------------------   ------------------------------
+  Sāṃkhyapravacana-sūtra;       later textual phase, often more    cite ONLY as a labelled later
+  Vijñānabhikṣu           !     theistic and reconciliatory        development; NEVER project it
+                                                                   back into the Kārikā system
 
-ASCII MASTER FLOW — PANEL 6/9: Pre-existence of the effect in the cause (satkāryavāda)
-EFFECT PRE-EXISTS LATENTLY IN CAUSE
- asadakaraṇāt: non-being cannot be produced
- upādānagrahaṇāt: specific material cause is selected
- sarvasambhavābhāvāt: not everything arises from everything
- śaktasya śakyakaraṇāt: cause produces only what it has power to produce
- kāraṇabhāvāt: effect shares nature of cause
-                         |
- real transformation (pariṇāmavāda): real transformation of primordial material nature (Prakṛti)
- NYĀYA new production (ārambhavāda): new effect | ADVAITA vivarta: apparent transformation.
+  DOCTRINAL IDENTITY OF THE CLASSICAL SYSTEM
+     realist DUALISM: one unconscious prakṛti + many inactive conscious puruṣas
+     causation: satkāryavāda in the specific form of pariṇāmavāda
+     soteriology: kaivalya by viveka-jñāna
+     theology: NIRĪŚVARA — non-theistic / God-unproved, NOT "atheistic by proof"   [trap 4]
+     status: ORTHODOX (āstika) school that nevertheless requires no creator
 
-ASCII MASTER FLOW — PANEL 7/9: Why many conscious witness (puruṣas)?
-CONSCIOUS WITNESS (puruṣa) EXISTS BECAUSE
- composites serve another | experience needs conscious witness
- objects of three qualities (guṇas) require non-guṇa experiencer | liberation is conceivable
-                         |
- PLURALITY: births/deaths differ; sense capacities and actions are uncoordinated;
- if one conscious witness (puruṣa), one person's liberation or pain would belong to all
-                         |
- CONTACT PROBLEM: inactive consciousness cannot literally touch unconscious primordial material
-   nature (Prakṛti)
- analogies: blind-and-lame cooperation | magnet and iron
- pressure remains: how does mere proximity begin purposive evolution?
-Kārikā 18: fixed births/deaths/faculties | non-simultaneous activity | constituent quality (guṇa)
-  differences
-differential liberation = supplementary plurality argument
+  BOUNDARY WITH YOGA (bounded comparison, never a source)
+     Sāṃkhya supplies ....... the dualist metaphysics Yoga substantially shares
+     Yoga owns .............. mind-field, afflictions, eight limbs, meditative absorption,
+                              God as a special conscious witness, the yogi's perception
+     => Sāṃkhya = non-theistic and theoretical | Yoga = theistic and practical
 
-ASCII MASTER FLOW — PANEL 8/9: Bondage, liberation and critique
-AVIVEKA: determinative intellect (buddhi)'s states are appropriated as “I” by reflected
-  consciousness
- experience + karmic dispositions -> repeated embodiment
-                         |
- tattva-jñāna / viveka-khyāti: “I am conscious witness (puruṣa), not primordial material nature
-   (Prakṛti) or its evolutes”
-                         |
- primordial material nature (Prakṛti) has been seen -> ceases activity for that conscious witness
-   (puruṣa) -> ISOLATION (kaivalya)
-                         |
- ŚAṂKARA: unconscious primordial material nature (Prakṛti) cannot act for an end; dualism cannot
-   explain contact
- SĀṂKHYA REPLY: teleology is immanent, as milk flows for calf; no creator is needed.
-Conscious witness (puruṣa) is never really bound, liberated or transmigrating
-jīvanmukti: knowledge now; body continues like potter's wheel
-videhamukti: subtle/gross embodiment finally ceases
+  ANSWER LINE: chronological hygiene is a philosophical commitment — a later theistic
+  commentary cannot soften a non-theism the classical system deliberately argues for.
 
-ASCII MASTER FLOW — PANEL 9/9: PYQ answer synthesis
-START with source-controlled dualism and threefold suffering -> one Primordial material nature
-  (Prakṛti), many Conscious witness (puruṣas)
-       -> draw exact 25-tattva cascade -> defend pre-existence of the effect in the cause
-         (satkāryavāda) with five reasons
-       -> distinguish real transformation (pariṇāmavāda) from ārambha/vivarta
-       -> explain aviveka and isolation (kaivalya) -> test contact and teleology objections
-                         |
- QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation,
- but the coordination of inactive consciousness with unconscious nature is its hard problem.
+ASCII MASTER FLOW — PANEL 3/14: Instruments of valid knowledge and the inferential burden
+
+  ADMITTED — EXACTLY THREE                    REDUCED — absorbed, NOT rejected   [trap 6]
+  ----------------------------------------    --------------------------------------------
+  1 PERCEPTION (pratyakṣa)                    upamāna      -> inference / testimony
+    prativiṣayādhyavasāya: ascertainment      arthāpatti   -> inference
+    with respect to a presented object        anupalabdhi  -> perception's FAILURE-CONDITIONS
+    through sense-capacities in contact       sambhava     -> inference
+                                              aitihya      -> testimony when reliable
+  2 INFERENCE (anumāna) — THREE KINDS
+    pūrvavat ......... antecedent/cause -> effect ....... clouds -> rain
+    śeṣavat .......... effect/residue -> cause .......... one drop -> the sea is salty
+    sāmānyato-dṛṣṭa .. general correlation; the connection between the terms is
+                       NOT ITSELF PERCEIVED ............. sun in different positions -> it moves
+
+  3 RELIABLE TESTIMONY (āptavacana / śabda)
+    word of a non-defective source, pre-eminently Veda/śruti, where the object is not
+    otherwise easily known
+
+  EIGHT CAUSES OF NON-PERCEPTION
+    excessive distance · excessive proximity · organ-defect · inattention of mind ·
+    SUBTLETY (saukṣmya) · obstruction by an intervening object · being overpowered ·
+    admixture with like things
+    => mūla-prakṛti's imperceptibility is assigned to SUBTLETY; puruṣa is likewise
+      atīndriya rather than non-existent.  IMPERCEPTIBILITY IS NOT ABSENCE   [trap 7]
+
+  +---------------------------- THE SELF-IMPOSED DEBT ---------------------------------+
+  | both ultimates are BEYOND THE SENSES (atīndriya) -> perception cannot reach them   |
+  | testimony alone BEGS THE QUESTION against non-Vedic opponents                      |
+  | => THE WHOLE EVIDENTIAL WEIGHT FALLS ON SĀMĀNYATO-DṚṢṬA INFERENCE                   |
+  | => the five proofs of prakṛti and the five proofs of puruṣa ARE that payment        |
+  +------------------------------------------------------------------------------------+
+
+  PRESUPPOSITION: a general correlation of KINDS can license inference to an entity of a
+  kind never itself observed as a sense-object.
+  OBJ Cārvāka: vyāpti cannot be secured for a term never perceived.
+      REPLY: strict perceptualism cannot explain ordinary causal reasoning either.
+  OBJ Nyāya: legitimate but over-extended — atoms + Īśvara is more economical.
+      REPLY: adding God does not explain the MATERIAL CONTINUITY between cause and effect.
+
+ASCII MASTER FLOW — PANEL 4/14: Cognition, reflection and the two-way mistake
+
+  THE DOORS (dvāra) — external           THE DOORKEEPER (dvārin) — internal
+  ----------------------------------     -----------------------------------------------------
+  5 COGNITIVE CAPACITIES                 MANAS ...... coordination, attention, synthesis
+    (jñānendriya / buddhīndriya)              |
+    hearing · touch · sight ·                 v
+    taste · smell                        AHAṂKĀRA ... appropriation as "I" and "mine"
+                                              |
+  5 ACTION CAPACITIES                         v
+    (karmendriya)                        BUDDHI ..... FINAL ASCERTAINMENT (adhyavasāya):
+    speech · grasping · locomotion ·                  judgement and discrimination
+    excretion · reproduction                          sattva-predominant => TRANSPARENT
+
+  5 + 5 + 3 = THIRTEENFOLD INSTRUMENT (trayodaśa-karaṇa)
+  ! a functional grouping drawn from within the 25 — NOT thirteen extra principles
+
+                    PURUṢA — pure light, never acts
+                             |
+                             v  reflection falls into transparent buddhi
+             +--------------------------------------------------+
+             | puruṣa-cchāyā-āpatti / buddhi-pratibimba          |
+             +--------------------------------------------------+
+                             |
+              +--------------+---------------+
+              v                              v
+   THE INSENTIENT (jaḍa) ORGAN     THE INACTIVE WITNESS
+   APPEARS CONSCIOUS               APPEARS TO BE AN AGENT
+              +--------------+---------------+
+                             v
+              FALSE APPROPRIATION (abhimāna)
+              "I am the doer / knower / enjoyer"
+              = THE PSYCHOLOGICAL ROOT OF BONDAGE
+
+  ORDERING TO KEEP EXACT: reflection is a STRUCTURAL FACT -> appropriation is the ERROR
+  -> bondage is the CONSEQUENCE.
+  ! TRAP 10: reflection must NOT be described as a real modification of puruṣa; a really
+    modified changeless principle could never be released.
+  ANSWER LINE: the intellect processes without awareness, the witness is aware without
+  processing, and a conscious thought is the borrowed light of the second on the first.
+
+ASCII MASTER FLOW — PANEL 5/14: Primordial material nature — names, scope, necessity
+
+  PRAKṚTI = unmanifest, unconscious, uncreated, active primordial MATERIAL principle;
+            the ultimate MATERIAL CAUSE within Sāṃkhya's dualist ontology
+
+  NAME              EMPHASIS                                  ANSWER USE
+  ---------------   ---------------------------------------   ----------------------------------
+  prakṛti           the productive nature of the principle     the general term
+  pradhāna          it is the CHIEF material principle         Śaṃkara's target in pradhāna malla
+  avyakta           UNMANIFEST before differentiation          contrasts with vyakta (manifest)
+  mūla-prakṛti      ROOT: cause of all, effect of none         fixes its place in the 1/7/16/1 grid
+
+  EXAM-SAFE DEFINITION: prakṛti is the AVYAKTA PRADHĀNA — the unmanifest chief principle
+  constituted by the three guṇas.
+
+  WHAT THE RESERVOIR CONTAINS  ! "material" here means UNCONSCIOUS, not physical  [trap 11]
+    +-------------+---------------+-----------------+------------------------------+
+    | buddhi      | ahaṃkāra      | manas + 10      | 5 tanmātra -> 5 mahābhūta    |
+    | intellect   | ego-maker     | capacities      | subtle -> gross elements     |
+    +-------------+---------------+-----------------+------------------------------+
+  => THE FAULT-LINE IS NOT MIND vs BODY. It is EVERYTHING UNCONSCIOUS vs PURE CONSCIOUSNESS.
+
+  WHY A SECOND PRINCIPLE IS FORCED
+    1 the world shows plurality, transformation, dependence, purposiveness, structure
+    2 a school accepting REAL effects, REAL bondage and REAL liberation needs a REAL
+      material source; it may not dissolve the world into appearance
+    3 puruṣa is CHANGELESS and INACTIVE => it cannot itself become the world
+    4 => an ACTIVE but UNCONSCIOUS second principle is required
+
+  ANSWER LINE: Sāṃkhya's dualism is misdescribed as mind against matter; intellect, ego
+  and mind sit firmly inside unconscious nature, so the fault-line runs between everything
+  that changes and the one thing that merely watches.
+
+ASCII MASTER FLOW — PANEL 6/14: The five proofs of nature and the one-nature verdict
+
+  #  PROOF                          ARGUES FROM                    DELIVERS
+  -- -----------------------------  -----------------------------  --------------------------
+  1  bhedānāṃ parimāṇāt             finitude, delimitation,        a SUBTLER GROUND beneath
+     "from the finitude of things"  measurability of effects       limitation
+  -- -----------------------------  -----------------------------  --------------------------
+  2  samanvayāt                     order and common pattern       a COMMON MATERIAL BASIS
+     "from uniformity in effects"   across diverse products
+  -- -----------------------------  -----------------------------  --------------------------
+  3  śaktitaḥ pravṛtteś ca          operation through a cause      a PRODUCTIVE POWER
+     "from operation due to power"  possessing the relevant        adequate to the full range
+                                    śakti                          of manifest effects
+  -- -----------------------------  -----------------------------  --------------------------
+  4  kāraṇa-kārya-vibhāgāt          cause and effect as            an UNMANIFEST CAUSAL
+     "from the cause-effect         distinguishable STAGES         MATRIX distinct from the
+      distinction"                  (distinguishable ≠ unrelated)  manifest order
+  == =============================  =============================  ==========================
+  5  avibhāgāt vaiśvarūpyasya   *   the diversified world is       => THE ROOT MUST BE **ONE**
+     "from the undivided source     ONE INTERCONNECTED COSMOS      => THE 2019 Q8(c) ANSWER
+      of the diversified universe"
+
+  WHY PROOFS 1-4 CANNOT DELIVER UNITY
+    several reservoirs could EACH be subtler than their products, EACH show pattern,
+    EACH possess power and EACH differ in stage from their effects.
+    None of the four takes UNITY as a premise, so none yields unity as a conclusion.
+
+  THE BRIDGE SENTENCE THE EXAMINER WANTS  [trap 12 if omitted]
+    the premise of proof 5 is the world's UNDIVIDED interconnectedness, so plurality at
+    the root would FALSIFY THE PREMISE, not merely complicate the conclusion.
+
+  TEXTUAL CONTROL  [trap 13]
+    Sāṃkhyakārikā 15 reads ŚAKTITAḤ PRAVṚTTEŚ CA — from causal POWER and operation.
+    It does NOT read kāryataḥ pravṛtteḥ. Misreading it converts a non-theistic argument
+    into a DESIGN argument, which would be fatal to a nirīśvara system.
+
+  HONEST LIMIT: the verdict holds within Sāṃkhya's own inferential licence; a Nyāya
+  atomist traces interconnectedness to COORDINATION among many causes, not to one origin.
+
+ASCII MASTER FLOW — PANEL 7/14: The three qualities, their states and their modifications
+
+  GUṆA     CORE CHARACTER                  AFFECTIVE TONE   FUNCTION IN EVOLUTION
+  -------  ------------------------------  --------------   --------------------------------
+  SATTVA   lightness, illumination,        PLEASURE         revelation, clarity,
+           buoyancy                                         manifestation, knowledge
+  RAJAS    activity, restlessness,         PAIN             energy, stimulation, movement,
+           propulsion                                       mediation
+  TAMAS    heaviness, obstruction,         DELUSION         concealment, resistance,
+           inertia                                          fixation, material density
+
+  ! TRAP 14: NOT three separable substances. Three INSEPARABLE CONSTITUTIVE TENDENCIES of
+    one prakṛti, present together in EVERY evolute in varying proportion.
+
+  TWO STATES OF THE SAME TRIAD
+  ------------------------------------------  --------------------------------------------
+  EQUILIBRIUM (sāmyāvasthā)                   DISTURBANCE
+  the three in exact balance                  asymmetrical relations begin
+  prakṛti = AVYAKTA (unmanifest)              prakṛti = manifest evolution
+            |                                            |
+            v                                            v
+  SARŪPA-PARIṆĀMA                             VIRŪPA-PARIṆĀMA
+  homogeneous: each guṇa transforms           heterogeneous: the guṇas transform
+  WITHIN ITS OWN NATURE                       ACROSS one another
+  => nature is dynamic even when unmanifest    => ACTUAL COSMOLOGICAL EVOLUTION lives here
+  => dissolution is NOT annihilation           => this is the mechanism of ALL causation
+
+  WHAT DISTURBS THE BALANCE
+    the MERE PRESENCE (sannidhi) of puruṣa — FUNCTIONAL ACTIVATION IN PROXIMITY,
+    NOT a mechanical collision and NOT an act of the witness.
+    => this is the system's most exposed joint; see PANEL 14.
+
+  ! TRAP 15: the 2021 demand is "three guṇas AND THEIR MODIFICATIONS" — stopping at the
+    table forfeits roughly half the marks.
+  ANSWER LINE: one triad is made to explain physical constitution, affective tone and
+  moral temperament together, so cosmology and psychology are not two subjects here.
+
+ASCII MASTER FLOW — PANEL 8/14: The conscious witness — nature and the five proofs
+
+  SHARED PREMISE OF ALL FIVE: the entire objective complex is UNCONSCIOUS (jaḍa),
+  INSTRUMENTAL, and PRESENTED to experience.
+        |            |             |              |               |
+        v            v             v              v               v
+   1 saṅghāta-  2 triguṇādi-  3 adhiṣṭhānāt  4 bhoktṛ-       5 kaivalyārthaṃ
+     parārthatvāt  viparyayāt                   bhāvāt          pravṛtteḥ
+   -----------  ------------  -------------  -------------   -----------------
+   body, senses  the guṇas    psychophysical  pleasure, pain  striving for release
+   mind, buddhi  are objective life is        and delusion    from suffering is a
+   are AGGRE-    mutable, and COORDINATED,    are EXPER-      central fact
+   GATES         are the KNOWN not disconnec- IENCED
+   (saṅghāta)                  ted flashes
+        |            |             |              |               |
+        v            v             v              v               v
+   an instrument the knower of a conscious    presented       such striving is
+   exists FOR a  pain cannot   support makes  states demand   unintelligible without
+   USER distinct BE those same the system an  a BHOKTṚ        a witness distinct from
+   from it       changing      experienced    distinct from   bondage-producing nature
+                 states        ORDER          them
+        +------------+------+-------+--------------+
+                            v
+        A NON-GUṆA-CONSTITUTED CONSCIOUS PRINCIPLE = PURUṢA
+        FORM OF ALL FIVE: SĀMĀNYATO-DṚṢṬA ANUMĀNA — from the general structure of
+        objectifiable experience to a witness that is never itself an object
+
+  ! TRAP 16: proof 3 is NOT a God-proof. It infers a PRESIDING WITNESS OF LIVED ORDER.
+
+  NATURE OF PURUṢA          consciousness = ESSENCE, not quality   [trap 17]
+                            activity ...... inactive, non-productive
+                            change ........ changeless, immutable
+                            guṇas ......... entirely beyond them
+                            status ........ witness, seer, experiencer (bhoktṛ)
+  => never bound in its own nature | never produces the world
+
+  EVALUATION (the 2022 directive): the proofs are CUMULATIVE, not isolated. Honest limit —
+  they yield a SUBJECT-POLE, not yet an eternal, plural and wholly inactive witness.
+
+ASCII MASTER FLOW — PANEL 9/14: Plurality, purposive nature and the empirical self
+
+  PLURALITY IS NUMERICAL, NOT QUALITATIVE — every puruṣa is equally pure consciousness
+
+  +-- FROM SĀṂKHYAKĀRIKĀ 18 — write these THREE first ---------------------------------+
+  | 1 FIXED DISTRIBUTION of birth, death and sense-faculties: one witness would make   |
+  |   one birth every birth, and all would be blind when one is blind                  |
+  | 2 NON-SIMULTANEITY OF ACTIVITY: beings act at different times and in different     |
+  |   ways; one self would make all embodied streams act together                      |
+  | 3 DIFFERENTIAL CONSTITUTION BY THE GUṆAS: beings differ as sattvic, rajasic or     |
+  |   tamasic in temperament => distinct centres of experience                          |
+  +------------------------------------------------------------------------------------+
+  +-- SUPPLEMENTARY — reinforcement only, NOT a fourth phrase of the verse  [trap 18] -+
+  | 4 DIFFERENTIAL LIBERATION: release of one would be release of all                 |
+  +------------------------------------------------------------------------------------+
+
+  OBJECTOR      OBJECTION                          REPLY                    RESIDUE
+  ------------  ---------------------------------  -----------------------  ----------------
+  Advaita       differences lie in LIMITING        bondage and release are  clash of first
+                ADJUNCTS (upādhi) => at most many   NON-TRANSFERABLE;        principles
+                CITTAS, not many puruṣas           reflection needs
+                                                   distinct loci
+  Nyāya         an inactive self cannot own        agency belongs to        moral subject
+                moral desert                       prakṛti's evolutes;      becomes empirical
+                                                   ascribing it is abhimāna
+  Buddhist      a changeless actionless entity     efficacy = SANNIDHI      is non-productive
+                fails arthakriyā => unreal          (mere presence)          efficacy efficacy?
+  Internal      what individuates qualitatively    inferred from non-       THE WEAKEST JOINT
+                identical witnesses?               transferability          — concede it
+
+  TELEOLOGY (puruṣārtha): prakṛti acts FOR the witness — four canonical images
+    MILK FOR THE CALF ..... unconscious functioning can serve a purposive end
+    LAME AND BLIND ........ sees but cannot act / acts but cannot see
+    THE DANCER ............ retires once she has been seen
+    THE MODEST WOMAN ...... concealment ends on being seen
+  OBJ: unconscious teleology is incoherent. REPLY: purposive functioning need not be
+  conscious PLANNING; the guṇa-structure unfolds in the witness's presence.
+
+  JĪVA IS NOT A SEPARATE TATTVA  [trap 19] — it is puruṣa as empirically conditioned
+  through buddhi, ahaṃkāra, manas, body and the karmic stream.
+
+ASCII MASTER FLOW — PANEL 10/14: The twenty-five principles in exact evolutionary order
+
+     PURUṢA (25th, NOT an evolute) --- mere presence (sannidhi) ---+
+                                                                  v
+                                          PRAKṚTI  (cause of all, effect of none)
+                                                    |
+                                                    v
+                                  MAHAT / BUDDHI  — FIRST EVOLUTE
+                            cosmic name = mahat · individual name = buddhi
+                            ! ONE principle under TWO names — never two stages  [trap 20]
+                                                    |
+                                                    v
+                                  AHAṂKĀRA — the principle of individuation
+                                                    |
+        +-------------------------------+-----------+------------------------+
+        v                               v                                    v
+  SĀTTVIKA LINE                   RĀJASA FACTOR                        TĀMASA LINE
+  manas (mind)                    supplies ENERGY and operative        5 TANMĀTRA
+  5 JÑĀNENDRIYA                   force to BOTH lines                  sound · touch · form
+    hearing · touch · sight ·     ! produces NO separate set of        · taste · smell
+    taste · smell                   principles          [trap 21]            |
+  5 KARMENDRIYA                                                              v
+    speech · grasping ·                                                5 MAHĀBHŪTA
+    locomotion · excretion ·                                           ether · air · fire
+    reproduction                                                       · water · earth
+
+  CORRESPONDENCE: sound -> ether | touch -> air | form -> fire | taste -> water |
+                  smell -> earth      ! do NOT import Advaita's pañcīkaraṇa
+
+  COUNT: 1 prakṛti + 1 buddhi + 1 ahaṃkāra + 1 manas + 5 + 5 + 5 + 5 = 24 evolutes
+         + 1 puruṣa = 25 PRINCIPLES
+
+  FOURFOLD CAUSE-EFFECT CLASSIFICATION — the fastest control on the whole list
+    cause but NOT effect ..... prakṛti alone ................................  1
+    BOTH cause and effect .... buddhi, ahaṃkāra, five tanmātras .............  7
+    effect ONLY .............. manas, ten capacities, five mahābhūtas .......  16
+    NEITHER .................. puruṣa .......................................  1
+
+  THREE FUNCTIONS TO KEEP APART (the 2024 second half)
+    BUDDHI ..... determines / ascertains (adhyavasāya); transparent, receives reflection
+    AHAṂKĀRA ... appropriates as "I" and "mine"; false selfhood crystallises here
+    MANAS ...... coordinates, attends, synthesises sense-data
+
+ASCII MASTER FLOW — PANEL 11/14: Subtle body, transmigration and karma
+
+  +------------------------------------------------------------------------------------+
+  | DOES NOT MIGRATE                                                                    |
+  | PURUṢA — never acts, never moves, is never really bound, liberated or transmigrating|
+  | => transmigration in Sāṃkhya is NOT the journey of a soul            [trap 24 guard] |
+  +------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------+
+  | MIGRATES: THE SUBTLE BODY (liṅga-śarīra / sūkṣma-śarīra)                            |
+  | the continuing psychophysical vehicle between gross embodiments                     |
+  |   buddhi ......................................... 1                                |
+  |   ahaṃkāra ....................................... 1                                |
+  |   eleven capacities INCLUDING MANAS .............. 11   ! omitting manas gives 17   |
+  |   five tanmātras ................................. 5              [trap 22]         |
+  |                                          TOTAL = 18                                 |
+  |                                                                                     |
+  | CONDITIONED BY dispositions (bhāva) and the EIGHT TENDENCIES OF BUDDHI:              |
+  |   merit  <-> demerit            knowledge  <-> ignorance                            |
+  |   detachment <-> non-detachment power      <-> powerlessness                        |
+  | described as primordially arisen within the evolutionary cycle                      |
+  +------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------+
+  | IS DISCARDED: THE GROSS BODY — produced from parental material; falls away at death |
+  +------------------------------------------------------------------------------------+
+
+  THE PRESSURE POINT (state it; do not hide it)
+    moral ownership must be secured by the STABLE ASSOCIATION of one subtle stream with
+    ONE numerically distinct witness. Sāṃkhya ASSERTS that association; it does not
+    ground it. This is PANEL 9's weakest joint seen from the ethical side.
+
+  ANSWER LINE: Sāṃkhya buys the inactivity of consciousness by relocating rebirth — what
+  travels is not a self but a disposition-bearing subtle body, so the school must then
+  explain how a passive witness owns a moral career it never conducted.
+
+ASCII MASTER FLOW — PANEL 12/14: Causation — the pre-existent effect and the rival map
+
+  SATKĀRYAVĀDA: the effect PRE-EXISTS in its material cause; production = ABHIVYAKTI
+  (manifestation), not creation from non-being. Sāṃkhya's specific form = PARIṆĀMAVĀDA.
+
+  #  ARGUMENT                  EXAMPLE                   COUNTER              REPLY
+  -- ------------------------  ------------------------  -------------------  ---------------
+  1  asadakaraṇāt              no hare's horn;           Nyāya: equivocation  the not-yet
+     a non-entity cannot be    no oil from sand          between absolutely   effect must be
+     produced                                            and not-yet non-     SOMETHING deter-
+                                                         existent            minate in the cause
+  2  upādāna-grahaṇāt          milk for curd; threads    it is CAPACITY, not  determinate
+     a determinate material    for cloth; mango seed     pre-existence        capacity IS latent
+     cause is taken up         not sand                                       presence
+  3  sarvasambhavābhāvāt       curd from milk, never     restriction comes    a constitution
+     everything cannot arise   from water                from the constitu-   capable of only X
+     from everything                                     tion of causes       IS X latently
+  4  śaktasya śakya-karaṇāt    milk has potency for      Nyāya: potency is a  relational potency
+     the potent produces only  curd, not for cloth       RELATIONAL property  cannot explain
+     the producible                                                           determinacy
+  5  kāraṇa-bhāvāt             cloth is threads          Nyāya: the whole     new properties are
+     the effect has the being  arranged; ornament and    (avayavin) is a NEW  new ARRANGEMENTS
+     of the cause              gold                      substance            (saṃsthāna)
+
+  THREE STANDING OBJECTIONS: effort pointless -> production is MANIFESTATION | cause and
+  effect collapse -> they differ by STATE (avasthā) | world always as now -> only the
+  CAPACITY is latent, never the gross effect
+
+  DOES THE EFFECT PRE-EXIST IN ITS MATERIAL CAUSE?
+        YES (satkārya orientation)                        NO
+        SĀṂKHYA pariṇāmavāda | ADVAITA vivartavāda        NYĀYA asatkārya/ārambha | BUDDHISM
+        real transformation  | apparent transformation    prāgabhāva; new beginning | dependent
+        cause = prakṛti      | cause = Brahman            effect = a fresh product  | arising,
+        world = real evolute | world = appearance         continuity BROKEN         | no root
+        mechanism = guṇa-    | mechanism = super-
+        pariṇāma             | imposition
+  => SHARED PREMISE with Advaita; DECISIVE DIFFERENCE = PARIṆĀMA vs VIVARTA   [trap 23]
+  ! MANGO-SEED FORMULA: latent effect + material continuity + real transformation.
+    NEVER a miniature gross tree hidden inside the seed.
+
+ASCII MASTER FLOW — PANEL 13/14: Bondage, discriminative knowledge, isolation, non-theism
+
+  BONDAGE (aviveka)                          LIBERATION (viveka-jñāna)
+  ---------------------------------------    ------------------------------------------------
+  buddhi reflects consciousness              the distinction between witness-consciousness
+            |                                and guṇa-evolutes becomes STEADY
+            v                                            |
+  FALSE IDENTIFICATION                                   v
+            |                                FALSE IDENTIFICATION ENDS
+            v                                            |
+  the self APPEARS as agent, enjoyer,                    v
+  sufferer and knower empirically            KAIVALYA — the ALONENESS / ISOLATION of puruṣa
+            |                                ! NOT merger · NOT annihilation ·
+            v                                  NOT union with God · NOT identity with Brahman
+  ! bondage is NOT a real alteration IN
+    puruṣa; it is MISTAKEN IDENTIFICATION
+
+  FOUR CANONICAL IMAGES                      TWO STAGES OF RELEASE
+    lame + blind ..... complementarity         JĪVANMUKTI — the body continues by PRIOR
+    dancer ........... retires once seen       MOMENTUM; analogy: THE POTTER'S WHEEL that
+    modest woman ..... concealment ends        keeps turning after the impulse ceases
+    milk for calf .... purposive without              |
+                       intention                      v
+                                               VIDEHAMUKTI — final cessation of embodiment
+  STRICT FORMULATION: puruṣa is NEVER really bound, liberated or transmigrating; these
+  belong to prakṛti and the subtle body, and knowledge ends FALSE ATTRIBUTION.
+
+  THREE GOALS THAT MUST NOT BE INTERCHANGED   [trap 24]
+    kaivalya (Sāṃkhya) = ISOLATION of the witness
+    mokṣa (Advaita) ... = IDENTITY with Brahman
+    apavarga (Nyāya) .. = CESSATION OF SUFFERING
+
+  NIRĪŚVARA — FIVE STANDARD ARGUMENTS
+    1 a God acting from desire or motive is neither perfect nor free
+    2 an eternally fulfilled God has NO MOTIVE to create a painful world
+    3 distributing results under karma limits divine independence; arbitrary distribution
+      destroys justice
+    4 an immutable conscious God cannot be the MATERIAL source of a changing unconscious
+      world under Sāṃkhya's cause-effect continuity
+    5 eternal puruṣas + prakṛti ALREADY explain consciousness and material evolution
+  ! classical position = NON-THEISTIC / GOD-UNPROVED, not "no divine being can exist".
+  ! Vijñānabhikṣu's later theism must not be projected back; Yoga owns Īśvara.
+
+ASCII MASTER FLOW — PANEL 14/14: Contact problem, Śaṃkara, PYQ route and verdict
+
+  THE PROBLEM: puruṣa is INACTIVE and prakṛti is UNCONSCIOUS — what relation is possible?
+  Yet evolution, bondage and liberation ALL presuppose one.
+  SĀṂKHYA ANSWER: SĀNNIDHYA — mere PROXIMITY or PRESENCE, not gross physical contact.
+    MAGNET AND IRON ...... explains ACTIVATION BY PRESENCE
+    CRYSTAL AND FLOWER ... explains APPARENT CONTAMINATION WITHOUT REAL CHANGE
+  ŚAṂKARA ON BOTH: even a magnet EXERTS FORCE => puruṣa would not be wholly inactive;
+    the crystal explains APPEARANCE but not the INITIATION of the world-process.
+
+  WHY SĀṂKHYA IS PRADHĀNA MALLA (chief wrestler) — systematic strength, NOT contempt
+    A most sophisticated non-Vedāntic rival at the level of ULTIMATE EXPLANATION
+    B pariṇāmavāda is the NEAREST RIVAL to vivartavāda
+    C both appeal to a SINGLE ULTIMATE EXPLANATORY GROUND — unconscious prakṛti vs
+      conscious Brahman => the contest is DIRECT, so refutation must be detailed
+  FOUR OBJECTIONS: unconscious prakṛti cannot be the Upaniṣadic cause | the contact
+  problem is unresolved | teleology cannot rest on unconscious matter | tajjña-type
+  "knowing-cause" texts exclude an insentient nature
+  => PRESSED VERDICT: the dualism is UNSTABLE — it collapses toward monism or needs a
+    third mediating principle. A DEMAND FOR EXPLANATION, not a proof of Advaita.
+
+  PYQ ANSWER ROUTE, 2018-2025 (10 primary-owned + 3 routed)
+    2018 Q5(e) 10 .. Kārikā 18 x3 -> supplementary -> upādhi objection -> concede joint
+    2018 Q7(b) 15 .. real transformation -> Advaita x3 -> defence x3 -> first principles
+    2019 Q5(d) 10 .. puruṣa -> jīva is no tattva -> reflection -> critical limit
+    2019 Q8(c) 15 .. avibhāgāt vaiśvarūpyasya -> why 1-4 fail -> bridge -> Nyāya refusal
+    2020 Q7(a) 20 .. latent-effect formula -> five arguments -> reject 3 rivals by name
+    2021 Q6(b) 15 .. triad -> equilibrium -> sarūpa/virūpa -> trigger problem
+    2022 Q5(a) 10 .. five proofs -> shared premise and form -> cumulative -> honest limit
+    2023 Q5(b) 10 .. relation problem -> sānnidhya -> two analogies -> instability
+    2024 Q7(a) 20 .. evolution tree + 1/7/16/1 -> mahat = buddhi -> three functions
+    2025 Q7(a) 20 .. three grounds for the title -> four objections examined -> verdict
+    2021 Q5(a) 10 routed .. prāgabhāva "no" vs latent-capacity "yes" -> equivocation
+    2022 Q5(e) 10 routed .. shared premise -> opposite commitments -> question-begging
+    2023 Q8(b) 15 routed .. prāgabhāva -> its defensive work -> dilemma -> three replies
+
+  GRADED VERDICT
+    STRONG ..... argued non-theistic realism · economical guṇa theory · a causal thesis
+                 explaining determinate production · consciousness separated from cognition
+    WEAK ....... the puruṣa-prakṛti relation · unconscious teleology · individuation of
+                 attributeless witnesses · the obscure beginning of bondage
+    CONTESTED .. early theism? · is kaivalya purely negative? · Kārikā vs Sūtra traditions

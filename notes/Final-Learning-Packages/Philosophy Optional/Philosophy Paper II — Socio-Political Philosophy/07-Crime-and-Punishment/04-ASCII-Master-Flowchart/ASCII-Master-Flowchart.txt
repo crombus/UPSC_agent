@@ -1,389 +1,1546 @@
-ASCII MASTER FLOW — PANEL 1/12: The central question of the clause and the three doors from wrong to punishment
-CENTRAL QUESTION -> when, and on what terms, may a political community
-                    turn a wrong into a crime and attach punishment to it?
+ASCII MASTER FLOW — PANEL 1/22: The printed clause, central question and ownership fence
+SYLLABUS (verbatim) -> "Crime and Punishment : Corruption, Mass Violence,
+        |             Genocide, Capital Punishment."
+        |             ONE PAIRED CONCEPT + FOUR NAMED APPLICATIONS
+        v
+THE CENTRAL QUESTION -> WHEN, IF EVER, MAY A STATE DELIBERATELY IMPOSE HARM ON
+                        A PERSON BECAUSE OF WHAT THAT PERSON HAS DONE -- AND
+                        HOW MUCH?
         |
         v
-THREE DOORS, THREE SEPARATE KEYS  (never open door 3 from door 1)
-  DOOR 1  WRONGDOING     -> has a justified ethical norm been breached?
-  DOOR 2  CRIMINALISATION-> may the state bring this inside the code?
-  DOOR 3  PUNISHMENT     -> by which theory, and within which limits?
+THE PREREQUISITE (not padding) -> what makes conduct a PUBLIC WRONG | who is
+  ANSWERABLE for it | on what TERMS may coercion follow
         |
         v
-LEGAL CRIME vs MORAL WRONG -- overlapping, not identical
-  A law only      -> an unjust law criminalises innocent conduct
-  B overlap       -> murder, theft: legal AND moral wrong (paradigm)
-  C wrong only    -> a grave moral wrong the code never reached
-  CONSEQUENCE -> validity does not prove justice; wrongness does not
-                 prove criminalisability
+THE FOUR PRINTED NOUNS ARE STRESS TESTS, NOT FOUR TOPICS
+  +----------------+--------------------------+--------------------------+
+  | APPLICATION    | JOINT IT ATTACKS         | WHAT SURVIVAL SHOWS      |
+  +----------------+--------------------------+--------------------------+
+  | CORRUPTION     | must a public wrong have | public wrong needs no    |
+  |                | an IDENTIFIABLE VICTIM?  | assaulted victim         |
+  +----------------+--------------------------+--------------------------+
+  | MASS VIOLENCE  | does RESPONSIBILITY      | division of labour       |
+  |                | survive DIVISION OF      | REDISTRIBUTES but does   |
+  |                | LABOUR and OBEDIENCE?    | not DISSOLVE it          |
+  +----------------+--------------------------+--------------------------+
+  | GENOCIDE       | can a wrong be done to a | a group's SHARED LIFE is |
+  |                | GROUP AS SUCH?           | a distinct object        |
+  +----------------+--------------------------+--------------------------+
+  | CAPITAL        | every constraint at once | the theory must hold     |
+  | PUNISHMENT     | -- IRREVERSIBLE, and it  | where error CANNOT BE    |
+  |                | REMOVES the agent        | CORRECTED                |
+  +----------------+--------------------------+--------------------------+
         |
         v
-THREE ACCOUNTS OF CRIME, WITH THE LIMIT ATTACHED TO EACH
-  legal-positivist -> what has the law prohibited?   limit: validity
-                      certainty and fair notice             != justice
-  moral            -> what wrongful harm occurred?   limit: vagueness
-  sociological     -> which power relations define   limit: weakens
-                      deviance?                             certainty
-ATTRIBUTION -> act/omission (ACTUS REUS) + fault (MENS REA) + causation
-DEFENCES -> JUSTIFICATION defends act | EXCUSE reduces blame/control
-THE CRIMINALISATION FILTER -- five gates in series
-  harm -> rights -> public wrong -> culpability -> proportionality
-  FAIL ANY GATE -> criminalisation unjustified, however disliked
-CONTROL -> abhorrence is not a licence; the theory of punishment
-           begins only after gate five has been cleared.
+MASTER DISTINCTION -> punishment is NOT justified merely because conduct is
+  ABHORRENT. A theory must say WHO may punish, FOR WHAT PURPOSE, WITHIN WHAT
+  LIMITS, and UNDER WHAT CONDITIONS of responsibility and fair procedure.
+        |
+        v
+OWNERSHIP FENCE  rights, duties, accountability, legitimacy of coercion ->
+  Individual and State | justice, equality, liberty, dignity as ideals ->
+  Social and Political Ideals | regime design and propaganda -> Forms of
+  Government | gender doctrine -> Gender Discrimination | caste doctrine ->
+  Caste Discrimination | moral evil and theodicy -> Philosophy of Religion |
+  procedure, prisons, statistics, case-law survey -> OUTSIDE THIS PAPER
+BOUNDED BRIDGES  DIGNITY and EQUAL MORAL STATUS -- name, use as a constraint,
+  never re-expound | LEGITIMACY OF COERCION -- enters only through DUFF'S
+  STANDING CONDITION
+NOT ROUTED  GANDHI and RAWLS are not independently demanded by the 2018-2025
+  corpus and are not imported as decoration.
+CORPUS SHARE -> 12 of 112 parts (2018:1 2019:2 2020:2 2021:1 2022:2 2023:1
+  2024:1 2025:2). Corruption 5 | Capital punishment 4 | Theory 2 |
+  Proportionality 1 | GENOCIDE 0 -- and still a full syllabus obligation.
 
-ASCII MASTER FLOW — PANEL 2/12: Conditions of responsible punishment and the classification of the six theory families
-PUNISHMENT = hard treatment + AUTHORITATIVE CENSURE, imposed by a
-             competent public authority for a proved breach
-        |
-        v
-SEVEN ENABLING CONDITIONS (all must hold before any theory is reached)
-  1 public law known in advance      -> conduct is guidable
-  2 voluntary act or legally relevant omission
-  3 culpability GRADED: intention > knowledge > recklessness >
-                        negligence
-  4 fair procedure and reliable proof
-  5 competent and impartial authority
-  6 proportionality between wrong, responsibility and sanction
-  7 equal application without status bias
-  DISTINCTION -> responsibility is NOT causal contribution: one may
-                 contribute without knowledge or control, and an
-                 official may be responsible for culpable omission
-  FREEDOM -> compatibilism asks for reasons-responsive control
-        |
-        v
-SIX FAMILIES    |  DIRECTION  |  CENTRAL TEST      |  MAIN DANGER
-  retributive   |  backward   |  desert            |  vengeance, excess
-  deterrent     |  forward    |  expected          |  offender used as
-                |             |  prevention        |  a means
-  incapacitative|  forward    |  necessity + risk  |  indefinite or
-                |             |                    |  biased confinement
-  reformative   |  forward    |  reintegration     |  paternalism;
-                |             |                    |  victims neglected
-  restorative   |  relational |  restitution + participation | imbalance
-  expressive    |  public     |  denunciation/censure | hard-treatment gap
-  LOGICS -> deontology: desert | consequence: prevention | relation: repair
-CONTROL -> punishment differs from revenge by being public,
-           proportionate, impartial and rule-governed.
 
-ASCII MASTER FLOW — PANEL 3/12: The retributive argument: desert as ground and as ceiling
-CLAIM -> punish BECAUSE a culpable wrong was done, not in order to
-         produce a future benefit
+ASCII MASTER FLOW — PANEL 2/22: Crime, moral wrong, and the five criminalisation filters
+TWO CIRCLES THAT DO NOT COINCIDE -- AND THE NON-IDENTITY RUNS BOTH WAYS
+  LEGAL CRIME = conduct prohibited and punishable by a VALID CRIMINAL LAW
+  MORAL WRONG = conduct violating a JUSTIFIED ETHICAL NORM
+  +------------------+------------------+------------------------------+
+  | A: LEGAL BUT NOT | B: LEGAL *AND*   | C: MORALLY WRONG BUT NOT     |
+  | MORALLY WRONG    | MORALLY WRONG    | LEGAL                        |
+  | an UNJUST LAW    | the paradigm     | wrongs that ESCAPE legal     |
+  | criminalises the | case             | definition, enforcement or   |
+  | innocent         |                  | proof                        |
+  +------------------+------------------+------------------------------+
+  DIRECTION A -> VALIDITY DOES NOT PROVE JUSTICE (the POSITIVIST'S OWN point)
+  DIRECTION C -> where much CORRUPTION and STRUCTURAL DEPRIVATION harm lies
         |
         v
-FOUR-STEP ARGUMENT (reproduce as numbered premises)
-  (1) the crime asserts a MAXIM incompatible with equal right
-  (2) IMPUTABLE AGENCY makes the offender answerable for it
-  (3) a PROPORTIONATE legal response publicly denies that maxim
-  (4) the denial expresses RESPECT FOR RIGHT, not private revenge
-        |
-        +--> KANT: punishment answers the culpable act; the offender
-        |          is an end, never a mere instrument of deterrence
-        +--> HEGEL: punishment is the ANNULMENT of the crime's
-                   wrongful claim; it restores right and honours the
-                   offender as a responsible agent
+THREE ACCOUNTS, THREE DIFFERENT QUESTIONS -- NOT THREE RIVALS
+  +---------------+--------------------------+---------------------------+
+  | ACCOUNT       | ITS QUESTION             | ITS LIMITATION            |
+  +---------------+--------------------------+---------------------------+
+  | LEGAL         | what has the law         | validity does not prove   |
+  | POSITIVIST    | PROHIBITED?              | moral justice             |
+  +---------------+--------------------------+---------------------------+
+  | MORAL         | what wrongful HARM or    | disagreement and          |
+  |               | VIOLATION occurred?      | vagueness                 |
+  +---------------+--------------------------+---------------------------+
+  | SOCIOLOGICAL  | which NORMS and POWER    | may weaken LEGAL          |
+  |               | RELATIONS define         | CERTAINTY and fair notice |
+  |               | deviance?                |                           |
+  +---------------+--------------------------+---------------------------+
         |
         v
-OBJECTION -> suffering does not undo suffering; desert alone does not
-             show why the STATE should add pain to the world
+CRIMINALISATION IS ITSELF AN EXERCISE OF POWER -> FIVE FILTERS
+  [1] HARM ......... are interests SET BACK?
+  [2] RIGHTS ....... does the conduct violate a right -- or would BANNING it?
+  [3] PUBLIC WRONG . is this the COMMUNITY'S BUSINESS, or a private failing?
+  [4] CULPABILITY .. can a FAULT ELEMENT be FAIRLY ATTRIBUTED?
+  [5] PROPORTION-
+      ALITY ....... is criminal sanction the LEAST SEVERE ADEQUATE response,
+                    and is the penalty RANGE defensible?
+  FAIL ANY FILTER -> better handled by regulation, civil liability, taxation
+  or education
         |
         v
-REPLY -> LIMITING (negative) RETRIBUTIVISM
-  never WITHOUT desert   |   never BEYOND desert
-  maximising form: desert REQUIRES the penalty  -> rights objection
-                                                   bites here
-  limiting form:   desert PERMITS up to a ceiling -> rights objection
-                                                   fails here
-RESIDUAL LIMIT -> the limiting form buys defence by surrendering the
-  positive aim, so Q1 remains unanswered and passes to the grid.
-CONTROL -> retribution is public, proportionate and impartial;
-           vengeance is private, unbounded and partisan.
+WHERE THE APPLICATIONS SIT  CORRUPTION strains [3] because victims are DIFFUSE
+  -- carried by BREACH OF ENTRUSTED OFFICE, not by measurable damage | MASS
+  VIOLENCE and GENOCIDE pass all five and fail at ATTRIBUTION | CAPITAL
+  PUNISHMENT is a SEVERITY question (Q3), NOT a criminalisation question
 
-ASCII MASTER FLOW — PANEL 4/12: Deterrence and incapacitation weighed on the same axes
-FORWARD-LOOKING PREVENTION splits into two arguments with two targets
-        |
-  +-----+-----------------------------+
-  v                                   v
-DETERRENCE (works on REASONS)   INCAPACITATION (works on OPPORTUNITY)
-  specific -> this offender       restrains a dangerous offender
-  general  -> everyone else       test: necessity and risk
-        |                          danger: indefinite or
-        v                                  discriminatory confinement
-FOUR PRESUPPOSITIONS OF THE DETERRENT CLAIM
-  persons respond to perceived costs
-  sanctions are known and sufficiently certain
-  preventive benefit exceeds direct and collateral harm
-  less harmful alternatives are inadequate
-  BECCARIA / BENTHAM -> CERTAINTY and PROMPTNESS outweigh SEVERITY;
-                        all punishment is an evil, justified only by
-                        preventing a greater evil
-        |
-        v
-WHERE THE OBJECTION LANDS
-  at Q1 general aim ------- strong: prevention is a statable purpose
-  at Q2 who may be punished FAILS: permits convicting a known innocent
-     reply    -> rule-utilitarian legality and due process are
-                 themselves utility-maximising rules
-     rejoinder-> protection then rests on a calculation that could
-                 come out the other way; rights should constrain
-                 utility independently
-  at Q3 how much ---------- FAILS: no ceiling without a desert limit
-CONTROL -> comparative deterrent effect is an EMPIRICAL CONTROVERSY;
-           never report it as proved or disproved.
 
-ASCII MASTER FLOW — PANEL 5/12: Reform, dignity and the two proportionality dimensions for juveniles
-REFORMATIVE THESIS -> the offender is capable of moral development
-                      and of return to lawful membership
+ASCII MASTER FLOW — PANEL 3/22: The attribution ladder and the two defences
+FOUR STEPS FROM PROHIBITED CONDUCT TO ATTRIBUTED BLAME
+  [1] EXTERNAL ACT OR OMISSION (actus reus)
+      FUNCTION: links liability to CONDUCT, not to THOUGHT
+      CONTROL:  an OMISSION requires a RELEVANT DUTY -- otherwise every
+      |         bystander becomes a principal
+      v
+  [2] FAULT ELEMENT (mens rea)
+      FUNCTION: GRADES answerability
+      LADDER:   INTENTION -> KNOWLEDGE -> RECKLESSNESS -> NEGLIGENCE ->
+      |         ACCIDENT (no fault)
+      CONTROL:  offences differ in required fault, but punishment must track
+      |         ATTRIBUTABLE CULPABILITY
+      v
+  [3] CAUSATION AND HARM
+      FUNCTION: connects AGENCY to the PUBLIC WRONG CHARGED
+      CONTROL:  causal contribution ALONE is NOT sufficient responsibility
+      v
+  [4] LEGALITY AND FAIR NOTICE
+      FUNCTION: prevents RETROSPECTIVE or INDETERMINATE condemnation
+      CONTROL:  legal validity STILL does not prove moral justice
         |
         v
-DIGNITY ARGUMENT, four steps
-  (1) persons are more than their worst act
-  (2) responsible agency can be impaired and rebuilt
-  (3) a humane state reduces wrongdoing by CAPABILITY, not degradation
-  (4) punishment must preserve a ROUTE BACK to membership
-  addresses ignorance, addiction, trauma, exclusion, distorted
-  incentives -- WITHOUT denying responsibility
+EVEN THEN, TWO ANSWERS REMAIN -- AND THEY DENY DIFFERENT THINGS
+  +-----------------------------+-----------------------------------------+
+  | JUSTIFICATION               | EXCUSE                                  |
+  +-----------------------------+-----------------------------------------+
+  | the act was PERMISSIBLE in  | the act was WRONG, but blame is DENIED  |
+  | the circumstances           | or REDUCED                              |
+  +-----------------------------+-----------------------------------------+
+  | e.g. necessary PROPORTIONATE| e.g. DURESS; serious INCAPACITY         |
+  | defence against an UNJUST   |                                         |
+  | threat                      |                                         |
+  +-----------------------------+-----------------------------------------+
+  | DENIES: WRONGFULNESS        | DENIES: ANSWERABILITY                   |
+  +-----------------------------+-----------------------------------------+
+  | IF UPHELD: no wrong was done| IF UPHELD: a wrong was done, by a not-  |
+  |                             | fully-answerable agent                  |
+  +-----------------------------+-----------------------------------------+
+  | THIRD PARTIES: ASSISTANTS   | THIRD PARTIES: the wrong REMAINS a      |
+  | may SHARE the justification | wrong, so RESISTANCE stays permissible  |
+  +-----------------------------+-----------------------------------------+
+  DEGREES: excuses come in DEGREES; justifications do NOT -- which is why
+  PARTIAL EXCUSE is intelligible and PARTIAL JUSTIFICATION is not
         |
         v
-TWO DIMENSIONS OF PROPORTIONALITY
-  ORDINAL   -> ranks offences against one another
-  CARDINAL  -> fixes how severe the WHOLE penal scale may be
-        |
-        v
-JUVENILE DECISION SEQUENCE
-  seriousness of harm -> intention and understanding ->
-  developmental capacity -> susceptibility to influence ->
-  prospects of reform -> procedural reliability
-  RESULT -> harm may rank high ORDINALLY while reduced and developing
-            agency lowers CULPABILITY, so the deserved point on the
-            CARDINAL scale falls
-  VERDICT -> the nature of the crime is RELEVANT but NOT CONCLUSIVE;
-             offence-centred and offender-centred views are integrated
-OBJECTION -> compulsory treatment pathologises dissent, runs indefinitely
-REPLY -> bounded rehabilitation: proportionate band, consent where
-  possible, periodic review, rights; capacity, not conformity.
+BOUNDARY MARKER  this is NOT a criminal-law syllabus inside Philosophy. The
+  four elements and two defences identify WHY COERCIVE BLAME MAY OR MAY NOT BE
+  ATTRIBUTED. Mental incapacity enters ONLY through COMPETENCE, CONTROL and
+  EXCUSE. NO clinical diagnosis and NO legal test is asserted anywhere.
 
-ASCII MASTER FLOW — PANEL 6/12: The three-question grid and the mixed or limiting theory
-THE CLASSIC MISTAKE -> one answer offered to three different questions
-        |
-        v
-  Q  | THE QUESTION            | BEST ANSWER          | FAILS FOR
- ----+-------------------------+----------------------+--------------
-  Q1 | why should the          | forward-looking      | pure
-     | institution exist?      | prevention,          | retribution
-     | GENERAL JUSTIFYING AIM  | protection, security |
- ----+-------------------------+----------------------+--------------
-  Q2 | whom may we punish,     | backward-looking     | pure
-     | on what condition?      | desert: guilt,       | deterrence
-     | DISTRIBUTION/LIABILITY  | voluntary act,       |
-     |                         | culpability          |
- ----+-------------------------+----------------------+--------------
-  Q3 | how much punishment     | proportionality:     | pure
-     | is permissible?         | ordinal ranking +    | deterrence
-     | AMOUNT/SEVERITY         | cardinal ceiling     |
-        |
-        v
-THE SEPARATION ARGUMENT (associated with Hart)
-  (1) an institution may be justified by its general benefit while
-      its applications follow an independent principle of fairness
-  (2) ordinary institutional reasoning: the point of promise-keeping
-      differs from the rules fixing who is bound by a given promise
-  (3) prevention supplies the AIM; desert supplies the SIDE-CONSTRAINT
-  (4) therefore MIXED / TWO-LEVEL THEORY: consequentialist in aim,
-      retributivist in constraint
-  PRESUPPOSITION -> aim and application principle can come apart; the
-                    pure retributivist denies exactly this
-CONTROL -> each objection now has an ADDRESS: punishing the innocent
-           lands at Q2; why-inflict-suffering lands at Q1.
 
-ASCII MASTER FLOW — PANEL 7/12: Expressive, communicative and restorative theories compared
-WHAT SEPARATES PUNISHMENT FROM A MERE PENALTY? -> CONDEMNATION
-  a parking fine and a conviction both impose hardship; only the
-  second carries authoritative reprobation (FEINBERG)
-  explains -> wrongful conviction is a distinct wrong; degrading
-  punishment is objectionable apart from severity; acquittal is a
-  VINDICATION, not a mere release
+ASCII MASTER FLOW — PANEL 4/22: Seven conditions, seven abuses and the causation hinge
+SEVEN CONDITIONS A DEFENSIBLE PUNISHMENT PRESUPPOSES -- LEARN THE ABUSE, NOT
+THE LIST
+  +---+-------------------------------+------------------------------------+
+  | # | CONDITION                     | ABUSE IT BLOCKS                    |
+  +---+-------------------------------+------------------------------------+
+  | 1 | a PUBLIC LAW known in advance | retrospective condemnation         |
+  | 2 | a VOLUNTARY ACT or legally    | punishment of thought, status or   |
+  |   | relevant OMISSION             | identity                           |
+  | 3 | CULPABILITY proportionate to  | treating the reckless and the      |
+  |   | the fault ladder              | deliberate alike                   |
+  | 4 | FAIR PROCEDURE and RELIABLE   | conviction on suspicion, rumour or |
+  |   | PROOF                         | pressured confession               |
+  | 5 | a COMPETENT and IMPARTIAL     | private vengeance in official      |
+  |   | AUTHORITY                     | dress                              |
+  | 6 | PROPORTIONALITY between WRONG,| escalation without ceiling         |
+  |   | RESPONSIBILITY and SANCTION   |                                    |
+  | 7 | EQUAL APPLICATION without     | penalty tracking status, wealth or |
+  |   | status bias                   | group rather than conduct          |
+  +---+-------------------------------+------------------------------------+
+  CONDITIONS 5 and 7 ARE NORMATIVE, NOT PROCEDURAL:
+    5 -> the doorway to DUFF'S STANDING ARGUMENT (Panel 14)
+    7 -> the foundation of the UNEQUAL-ADMINISTRATION objection (Panel 21)
         |
         v
-  AXIS            | EXPRESSIVE       | COMMUNICATIVE  | RESTORATIVE
- -----------------+------------------+----------------+---------------
-  direction       | one-way          | two-way address| relational
-  offender is     | object of        | rational       | active
-                  | judgment         | participant    | participant
-  aim             | denunciation     | repentance,    | reparation,
-                  |                  | reconciliation | reintegration
-  hard treatment  | credible censure | SECULAR PENANCE| measured by
-                  |                  |                | repair needed
-  central question| what is deserved | are you        | who was hurt,
-                  |                  | answerable?    | what is needed?
+THE HINGE -- RESPONSIBILITY IS NOT CAUSAL CONTRIBUTION
+                   CAUSED IT?                      RESPONSIBLE?
+  +----------------+------------------+------------------+----------------+
+  | CASE A         | CASE B           | CASE C           | CASE D         |
+  | caused AND     | CAUSED but NOT   | RESPONSIBLE but  | neither        |
+  | responsible    | responsible      | did NOT directly |                |
+  |                |                  | cause            |                |
+  | the paradigm   | contribution     | CULPABLE         | no attribution |
+  |                | WITHOUT sufficient| OMISSION by a    |                |
+  |                | KNOWLEDGE or     | DUTY-BEARER      |                |
+  |                | CONTROL          |                  |                |
+  +----------------+------------------+------------------+----------------+
+  CASE B -> "HE CAUSED IT" DOES NOT SETTLE BLAME
+  CASE C -> "HE DID NOTHING" DOES NOT SETTLE INNOCENCE
         |
         v
-DUFF'S STANDING CONDITION -> a polity that has denied a person the
-  conditions of citizenship has weakened its STANDING to call him to
-  account. An argument about standing, not about causation.
-BRAITHWAITE -> stigmatising shaming condemns the PERSON, severs bonds,
-  is criminogenic; reintegrative shaming condemns the ACT and keeps
-  the route back open. Presupposes inclusion and reacceptance.
-FOUCAULT CAVEAT -> discipline, panopticism, docile bodies, produced
-  delinquency: GENEALOGY of penal power, never a justification.
+CONSEQUENCE FOR THE WHOLE CLAUSE -> DIFFERENTIATED RESPONSIBILITY by ROLE,
+  KNOWLEDGE, CAPACITY and CONTRIBUTION. Case B protects the low-level
+  participant in MASS VIOLENCE from automatic principal liability; Case C
+  reaches the ENABLER, the SUPERVISOR and the OFFICE-HOLDER.
 
-ASCII MASTER FLOW — PANEL 8/12: Corruption: entrusted power, particularism and the systemic-ethical verdict
-CORRUPTION = misuse of ENTRUSTED public or institutional power through
-  partial, concealed or improperly exchanged advantage. Wider than
-  bribery: favouritism, nepotism, embezzlement, regulatory capture,
-  abuse of discretion
-FIVE WRONGS, IN ORDER OF DEPTH
-  breach of fiduciary trust -> office creates obligations
-  violation of impartiality -> like cases treated unlike
-  injury to the rule of law -> private access displaces public rules
-  harm to civic agency      -> citizens become clients, not equals
-  institutional corrosion   -> honest action becomes costly
-        |
-        v
-PARTICULARISTIC vs UNIVERSALISTIC STANDARDS  (2025 Q1a route)
-  (1) personal relations generate GENUINE duties
-  (2) public office is entrusted for a specified common purpose
-  (3) discharging private loyalty through office costs unrepresented
-      citizens
-  (4) corruption = a legitimate PARTICULAR loyalty acted upon inside a
-      role governed by UNIVERSAL criteria
-  REMEDY -> role boundaries, conflict-of-interest rules, recusal --
-            not the abolition of loyalty
-        |
-        v
-ETHICAL or SYSTEMIC?  (2022 Q1c route)
-  ethical: greed, dishonesty, weak integrity -> moral education
-  systemic: opacity, monopoly, discretion, impunity -> transparency,
-            audit, competition, accountability
-  VERDICT -> an ETHICAL ACT inside a SYSTEMIC ECOLOGY; structure
-             shapes opportunity and cost but does not erase agency.
-REGIME -> no regime is automatically immune; regime type affects
-  information, accountability and competition, not outcomes alone.
 
-ASCII MASTER FLOW — PANEL 9/12: Mass violence: mechanisms and the five kinds of collective responsibility
-MASS VIOLENCE = large-scale violence against populations produced by
-  organised coercion, collective mobilisation or cascading participation
+ASCII MASTER FLOW — PANEL 5/22: Freedom, determinism and the working penal standard
+THREE POSITIONS -- EACH WITH ITS PENAL IMPLICATION AND ITS DIFFICULTY
+  +-------------------+---------------------------+------------------------+
+  | POSITION          | PENAL IMPLICATION         | DIFFICULTY             |
+  +-------------------+---------------------------+------------------------+
+  | LIBERTARIAN       | DESERT requires genuine   | hard to reconcile with |
+  | FREEDOM           | ALTERNATIVE POSSIBILITIES | CAUSAL EXPLANATION     |
+  +-------------------+---------------------------+------------------------+
+  | HARD DETERMINISM  | BASIC DESERT undermined;  | risks treating persons |
+  |                   | PROTECTION and REHABILI-  | ONLY as DANGEROUS      |
+  |                   | TATION replace blame      | OBJECTS                |
+  +-------------------+---------------------------+------------------------+
+  | COMPATIBILISM     | responsibility = REASONS- | must DISTINGUISH       |
+  |                   | RESPONSIVE CONTROL,       | CONSTRAINED AGENCY     |
+  |                   | WITHOUT metaphysical      | from ORDINARY          |
+  |                   | exemption from causation  | CAUSATION              |
+  +-------------------+---------------------------+------------------------+
         |
         v
-SIX MECHANISMS THAT LOWER THE THRESHOLD
-  dehumanisation -> victims figured as contaminants or non-persons
-  moral exclusion -> ordinary restraints withdrawn from an out-group
-  diffusion of responsibility -> agency treated as fragmented
-  obedience and bureaucracy -> harm routinised as role-performance
-  polarisation and propaganda -> ambiguity and dissent suppressed
-  security dilemma -> pre-emption reinterpreted as self-defence
-  ARENDT -> thoughtlessness, cliche and careerism, not demonic depth;
-            the thesis concerns the PSYCHOLOGY of perpetration, never
-            the DEGREE of guilt
+THE WORKING PENAL STANDARD -- WHAT A COURT ACTUALLY NEEDS
+  CRIMINAL RESPONSIBILITY NEED NOT PROVE METAPHYSICAL FREE WILL. IT REQUIRES:
+    [i]   the accused could UNDERSTAND the RELEVANT REASONS;
+    [ii]  could CONTROL conduct to an ADEQUATE degree;
+    [iii] acted WITHOUT responsibility-defeating COERCION or INCAPACITY.
         |
         v
-FIVE KINDS OF COLLECTIVE RESPONSIBILITY
-  criminal guilt          | defensible: paradigm  | individuals only
-  organisational liability| defensible where the  | institutions,
-                          | body has real agency  | commands, parties
-  political responsibility| partly: grounds       | citizens
-                          | reparation and reform | collectively
-  responsibility for      | yes, graded by        | individuals, by
-  omission                | knowledge, capacity   | role and situation
-  inherited/metaphysical  | NO -- the perpetrator's| rejected
-  guilt                   | own reasoning         |
-  RULE -> guilt is INDIVIDUAL; responsibility admits collective forms
-RELIGIOUSLY FRAMED VIOLENCE -> separate doctrine from mobilisation;
-  communal violence from pogrom from genocide; identity as TARGET
-  from identity as MOTIVE. Answer at the level of criteria only.
+WHAT DETERMINISTIC EXPLANATION CAN AND CANNOT DO
+  CAN     -> MITIGATE (reduce the severity desert permits)
+  CAN     -> REDIRECT (punitive -> protective/rehabilitative, within limits)
+  CANNOT  -> ERASE the INTENTIONAL / RECKLESS / NEGLIGENT / ACCIDENTAL
+             distinction, which turns on KNOWLEDGE and CONTROL -- and
+             deterministic explanation does not equalise those across cases
+        |
+        v
+TWO SYMMETRICAL ERRORS BLOCKED
+  ERROR 1 -> DETERMINISM AS BLANKET ACQUITTAL: abolishes the FAULT LADDER, yet
+             the same script goes on to discuss PROPORTIONATE DESERT
+  ERROR 2 -> METAPHYSICAL FREEDOM AS A COURTROOM FACT: makes DURESS,
+             INCAPACITY and MITIGATION unintelligible
+        |
+        v
+THE COST TO STATE HONESTLY  where a PROTECTIVE rationale replaces a DESERT
+  rationale, the DESERT CEILING disappears with it -- so a purely
+  dangerousness-based system may detain LONGER than the wrong ever warranted
 
-ASCII MASTER FLOW — PANEL 10/12: Genocide: Lemkin's coinage, the 1948 Convention and the neighbouring categories
-1944  LEMKIN, Axis Rule in Occupied Europe -> coins GENOCIDE from
-      Greek genos (race, tribe) + Latin -cide (killing)
-        |
-        v
-      LEMKIN'S CONCEPTION -> a coordinated plan aimed at destroying
-      the ESSENTIAL FOUNDATIONS OF THE LIFE of a group: institutions,
-      culture, language, religion, economic existence, personal
-      security, liberty, health, dignity. Killing is ONE method.
-        |
-        v
-1948  CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF
-      GENOCIDE -> specified acts + SPECIFIC INTENT to destroy, in
-      whole or in part, a NATIONAL, ETHNICAL, RACIAL or RELIGIOUS
-      group, AS SUCH.  1951 -> entry into force.
-      PRECISION -> the adopted text is NARROWER than Lemkin; political
-      groups are NOT among the protected categories
-        |
-        v
-WHY IT IS A DISTINCTIVE MORAL WRONG
-  victims attacked as MEMBERS of a group marked for destruction
-  cultural and generational continuity is targeted
-  the perpetrator claims power to decide which human plurality exists
-  individual killing and collective annihilatory purpose are joined
-NEIGHBOURING CATEGORIES -- do not merge them
-  mass violence          -> scale and pattern; no fixed intent test
-  genocide               -> specific intent against a protected group
-  crimes against humanity-> widespread or systematic attack on a
-                            civilian population
-  war crime              -> serious violation tied to armed conflict
-CONTROL -> not every massacre is genocide; intent is decisive, may be
-  inferred from a pattern, and NO episode or actor is named here.
 
-ASCII MASTER FLOW — PANEL 11/12: Capital punishment: the argument tree, objections and replies
-CAPITAL PUNISHMENT = the state's intentional execution of a convicted
-  and SECURED offender -- irreversible, and it removes the very agent
-  whose responsibility, reform and rights penal theory relies upon
-        |
-  +-----+---------------------------------+
-  v                                       v
-FOR                                     AGAINST
-  retribution: gravest culpable           fallibility + IRREVERSIBILITY
-    killing, gravest response             dignity: the state kills a
-  deterrence [EMPIRICAL, CONTESTED]         restrained person
-  incapacitation -- but secure            deterrence uncertainty
-    custody also incapacitates            unequal administration
-  public affirmation of the equal         foreclosure of reform
-    value of victims                      death-row suffering
-IS THE RIGHT TO LIFE ABSOLUTE?  (2025 Q3a route)
-  (1) a right may be fundamental WITHOUT being exceptionless
-  (2) it yields to a PRESENT unjust threat: self-defence, necessity
-  (3) execution follows CUSTODY and ADJUDICATION
-  (4) less final means of incapacitation are available
-  (5) therefore the defensive permission does NOT transfer
-  KANTIAN TENSION -> desert supports the penalty; persons-as-ends
-    intensifies concern about certainty and instrumental deterrence
-        |
-        v
-INDIAN ILLUSTRATIONS, CLASSIFIED
-  Bachan Singh v. State of Punjab (1980) -> Supreme Court JUDGMENT;
-    retained the penalty, formulated the rarest of rare limitation
-  Law Commission Report No. 262 (2015) -> ADVISORY REPORT; recommended
-    abolition for ordinary crimes, excluding specified terrorism-
-    related and war contexts. Not legislation, not a judgment.
+ASCII MASTER FLOW — PANEL 6/22: The six theory families on four axes
++---------------+--------------------+-----------+-------------+-----------+
+| FAMILY        | DOCTRINE           | DIRECTION | CENTRAL TEST| DANGER    |
++---------------+--------------------+-----------+-------------+-----------+
+| RETRIBUTIVE   | punish because     | BACKWARD  | DESERT      | vengeance |
+|               | CULPABLE WRONGDOING|           |             | / excess  |
+|               | deserves a         |           |             |           |
+|               | PROPORTIONATE      |           |             |           |
+|               | response           |           |             |           |
++---------------+--------------------+-----------+-------------+-----------+
+| DETERRENT     | threaten or impose | FORWARD   | EXPECTED    | using the |
+|               | penalty to REDUCE  |           | PREVENTION  | offender  |
+|               | FUTURE OFFENDING   |           |             | as a MEANS|
++---------------+--------------------+-----------+-------------+-----------+
+| PREVENTIVE /  | RESTRAIN a         | FORWARD   | NECESSITY   | indefinite|
+| INCAPACITATIVE| DANGEROUS offender |           | and RISK    | or        |
+|               | to PROTECT OTHERS  |           |             | discrimin-|
+|               |                    |           |             | atory     |
+|               |                    |           |             | confinement|
++---------------+--------------------+-----------+-------------+-----------+
+| REFORMATIVE / | TRANSFORM          | FORWARD   | REINTEGRA-  | paternal- |
+| REHABILITATIVE| CAPACITIES and     |           | TION        | ism;      |
+|               | CONDITIONS for     |           |             | neglect of|
+|               | LAWFUL AGENCY      |           |             | victims   |
++---------------+--------------------+-----------+-------------+-----------+
+| RESTITUTION / | RESTITUTION returns| RELATIONAL| ACKNOWLEDGE-| unequal   |
+| RESTORATIVE   | value or repairs   |           | MENT, REPAIR| bargaining;|
+|               | loss; RESTORATIVE  |           | REINTEGRA-  | unsuitable|
+|               | JUSTICE adds       |           | TION        | for some  |
+|               | ACCOUNTABLE        |           |             | crimes    |
+|               | PARTICIPATION of   |           |             |           |
+|               | victim, offender,  |           |             |           |
+|               | community          |           |             |           |
++---------------+--------------------+-----------+-------------+-----------+
+| DENUNCIATORY /| PUBLICLY CONDEMN   | BACKWARD  | AUTHORITA-  | hard      |
+| EXPRESSIVE    | the wrong and      | / PUBLIC  | TIVE CENSURE| treatment |
+|               | AFFIRM the NORM    |           |             | STILL     |
+|               | VIOLATED           |           |             | needs its |
+|               |                    |           |             | own       |
+|               |                    |           |             | justific- |
+|               |                    |           |             | ation     |
++---------------+--------------------+-----------+-------------+-----------+
+THE TWO SCRIPTS ALWAYS OMIT -> PREVENTIVE and EXPRESSIVE. Omitting them is why
+  answers oscillate between only RETRIBUTION and DETERRENCE, and it removes
+  the INCAPACITATION argument (Panel 21) and the WRONGFUL-CONVICTION argument
+  (Panel 13)
+RESTITUTION != RESTORATION -> restitution is an OUTCOME; restoration is a
+  PARTICIPATORY PROCESS inside which restitution may be one outcome
 
-ASCII MASTER FLOW — PANEL 12/12: Integrated answer spine, directive decoder and the graded verdict bank
-FOUR STANDING DEBATES OF THE CLAUSE
-  Kant vs Bentham        -> desert vs prevention; backward vs forward;
-                            sanctified suffering vs instrumentalising
-  retribution vs reform  -> a FALSE alternative: desert sets the upper
-                            limit, humane reform works inside it
-  Arendt vs monster      -> thoughtless bureaucratic participation vs
-  theories of evil          evil placed outside ordinary humanity;
-                            the two are not exclusive
-  loyalty vs impartiality-> particular bonds are real, but entrusted
-                            office is not private property
+
+ASCII MASTER FLOW — PANEL 7/22: The three justificatory logics and the structured mixed theory
++---------------+-------------------+-----------------+--------------------+
+| LOGIC         | CENTRAL QUESTION  | THEORIES        | NON-NEGOTIABLE     |
+|               |                   |                 | OBJECTION          |
++---------------+-------------------+-----------------+--------------------+
+| DEONTOLOGICAL | what is OWED      | retribution,    | DESERVED SUFFERING |
+|               | because of        | desert, rights, | STILL NEEDS A      |
+|               | CULPABLE WRONG    | proportionality | PUBLIC INSTITU-    |
+|               | and EQUAL AGENCY? |                 | TIONAL PURPOSE     |
++---------------+-------------------+-----------------+--------------------+
+| CONSEQUEN-    | which response    | deterrence,     | UTILITY ALONE can  |
+| TIALIST       | PREVENTS FUTURE   | prevention,     | TARGET INNOCENTS   |
+|               | HARM at LEAST     | rehabilitation  | or PERMIT          |
+|               | JUSTIFIED COST?   |                 | EXCESSIVE SEVERITY |
++---------------+-------------------+-----------------+--------------------+
+| RELATIONAL /  | what response     | expressive,     | COERCION, STANDING |
+| COMMUNICATIVE | CONDEMNS,         | communicative,  | and UNEQUAL        |
+|               | ADDRESSES and     | restorative     | BARGAINING remain  |
+|               | REPAIRS while     |                 |                    |
+|               | RETAINING         |                 |                    |
+|               | MEMBERSHIP?       |                 |                    |
++---------------+-------------------+-----------------+--------------------+
         |
         v
-DIRECTIVE DECODER -- the verb fixes the structure
-  Explain -> statement, premises, key distinction, illustration
-  Discuss -> theory, rival, objection, reply, verdict
-  Critically examine -> two objections, replies, residual problems
-  Is X justified? -> Q1 aim, Q2 liability, Q3 amount, verdict
-  Abolish or retain? -> name the CRITERION first, then apply
-  Is X a form of Y? -> state Y's conditions, test X, graded verdict
-  Do you agree that..? -> qualified commitment FIRST, then defend
-UNIVERSAL ANSWER SPINE (any stem in this clause)
-  name the penal question -> separate Q1/Q2/Q3 -> strongest rival on
-  the SAME question -> one objection, reply, residual limit -> one
-  correctly classified illustration -> GRADED VERDICT
-GRADED VERDICT BANK -- adapt, never reproduce mechanically
-  layered | question-separating | fallibility | standing |
-  conditional-appropriateness | differentiated-responsibility |
-  critical-qualification
-FINAL CONTROL -> separate philosophical validity from implementation
-  and from empirical effect; that separation is the marked move.
+THE MIXED THEORY THE TWO GRIDS MAKE AVAILABLE
+  CONSEQUENTIALIST about the INSTITUTION'S GENERAL AIM
+  DEONTOLOGICAL in the CONSTRAINTS on LIABILITY and AMOUNT
+  RELATIONAL in the MANNER of ADDRESS and REPAIR
+        |
+        v
+OBJECTION -> "a mixed theory is an EVASION: it uses whichever component
+             supports the conclusion it wants"
+REPLY ----> that defeats an UNSTRUCTURED mixture. A STRUCTURED one assigns
+            each logic a DETERMINATE ROLE and thereby generates THREE TESTABLE
+            PROHIBITIONS:
+              [1] NO punishment of the KNOWN INNOCENT, whatever the preventive
+                  gain
+              [2] NO penalty BEYOND the DESERT CEILING, whatever the deterrent
+                  gain
+              [3] NO substitution of REPAIR for CONDEMNATION where the wrong
+                  is GRAVE and PUBLIC
+RESIDUE --> the PRIORITY ORDERING itself must be defended: why is desert a
+            CEILING rather than a FLOOR? The mixed theory is a THIRD POSITION
+            with its own burden, NOT a neutral compromise
+
+
+ASCII MASTER FLOW — PANEL 8/22: Retributivism -- Kant, Hegel and the limiting reply
+THE ARGUMENT IN FOUR STEPS
+  [1] CRIME ASSERTS A MAXIM INCOMPATIBLE WITH EQUAL RIGHT
+      v
+  [2] IMPUTABLE AGENCY MAKES THE OFFENDER ANSWERABLE -- addressed as a
+      RATIONAL AGENT, not managed as a HAZARD
+      v
+  [3] A PROPORTIONATE LEGAL RESPONSE PUBLICLY DENIES THE WRONGFUL MAXIM
+      HEGEL: punishment NEGATES the crime's wrongful claim; it RESTORES RIGHT
+      v
+  [4] PUNISHMENT THEREFORE EXPRESSES RESPECT FOR RIGHT, NOT PRIVATE REVENGE
+        |
+        v
+KANT, STATED WITHOUT CARICATURE
+  punishment must answer to the offender's CULPABLE ACT and CANNOT be imposed
+  MERELY to produce SOCIAL UTILITY; treating a person *ONLY* as an INSTRUMENT
+  of deterrence violates RATIONAL AGENCY
+  [!] KEEP THE WORD "ONLY". Kant does not deny that punishment has useful
+      effects; he denies that USEFULNESS LICENSES IT.
+        |
+        v
+RETRIBUTION IS NOT REVENGE -- FOUR AXES
+  +------------+-------------------------+----------------------------------+
+  | AXIS       | REVENGE                 | RETRIBUTION                      |
+  +------------+-------------------------+----------------------------------+
+  | WHO ACTS   | the injured party       | a PUBLIC, IMPARTIAL AUTHORITY    |
+  | MEASURE    | intensity of grievance  | PROPORTIONATE DESERT             |
+  | LIMIT      | none intrinsic          | a CEILING fixed by CULPABILITY   |
+  | GENERALITY | this case, this enemy   | LIKE CASES ALIKE, impersonally   |
+  +------------+-------------------------+----------------------------------+
+        |
+        v
+OBJECTION -> "SUFFERING DOES NOT UNDO SUFFERING, and DESERT ALONE cannot show
+             why the STATE should ADD pain"
+REPLY ----> MODERN RETRIBUTIVISM CAN BE *LIMITING* RATHER THAN *MAXIMISING*:
+              (a) NO ONE may be punished WITHOUT desert
+              (b) NO PENALTY may EXCEED desert
+            -- desert as a NECESSARY CONDITION and a CEILING, NOT a positive
+            command to inflict. These are PROHIBITIONS, not COMMANDS.
+RESIDUE --> [i] the Q1 GAP survives: why the STATE, rather than no one?
+            [ii] the CARDINAL ANCHOR must come from OUTSIDE desert (Panel 11)
+            [iii] a penalty INSIDE the ceiling may still be administered
+                  DEGRADINGLY -- humane institutions need a separate account
+        |
+        v
+THE OWNED 2020 STEM IN ONE LINE  "Is retributivism against human rights?" ->
+  AGAINST them if MAXIMISING | THEIR STRONGEST PENAL ALLY if LIMITING, since
+  it is the ONLY family that STRUCTURALLY FORBIDS punishing the innocent AND
+  forbids escalation for preventive gain. A script treating retributivism as
+  ONE THING has answered NEITHER version.
+
+
+ASCII MASTER FLOW — PANEL 9/22: Deterrence -- presuppositions and two located failures
+JUSTIFICATION -> punishment is justified by the EXPECTED REDUCTION OF FUTURE
+  HARM.  SPECIFIC DETERRENCE addresses THE OFFENDER | GENERAL DETERRENCE
+  addresses OTHERS
+        |
+        v
+FOUR PRESUPPOSITIONS -- EACH IS A PLACE THE ARGUMENT CAN FAIL
+  +---+-------------------------------+------------------------------------+
+  | 1 | persons respond to PERCEIVED  | FAILS for the impulsive,           |
+  |   | COSTS                         | intoxicated, coerced, ideologically|
+  |   |                               | committed                          |
+  | 2 | sanctions are KNOWN and       | FAILS where enforcement is rare,   |
+  |   | sufficiently CERTAIN          | slow or arbitrary                  |
+  | 3 | preventive BENEFITS EXCEED    | FAILS where damage to families,    |
+  |   | direct and collateral harms   | employment and trust is ignored    |
+  | 4 | LESS HARMFUL ALTERNATIVES are | FAILS where regulation, civil      |
+  |   | INADEQUATE                    | liability or design would serve    |
+  +---+-------------------------------+------------------------------------+
+        |
+        v
+BENTHAM -> all punishment is an EVIL, justified only by PREVENTING A GREATER
+  EVIL
+BECCARIA -> CERTAINTY and PROMPTNESS matter MORE than SEVERITY, so ESCALATION
+  is usually the WRONG LEVER
+        |
+        v
+FAILURE ONE -- LOCATED AT Q2 (WHOM MAY WE PUNISH?)
+  OBJECTION -> deterrence may justify punishing an INNOCENT person if the
+               social benefit is large enough
+  REPLY -----> RULE-UTILITARIAN CONSTRAINTS: reliable guilt, legality, due
+               process -- a practice of framing the innocent would destroy
+               TRUST and thus LONG-RUN UTILITY
+  COUNTER ---> the protection is therefore CONTINGENT ON DISCOVERY. A SECRET
+               injustice, or a POPULAR one, escapes the objection while
+               remaining an injustice. RIGHTS THAT HOLD ONLY WHEN OBSERVED
+               ARE NOT RIGHTS.
+  RESIDUE ---> a rights constraint that admits NO AGGREGATION must still say
+               what happens in genuine CATASTROPHE cases
+        |
+        v
+FAILURE TWO -- LOCATED AT Q3 (HOW MUCH?)
+  PURE DETERRENCE PERMITS ESCALATION WITHOUT CEILING: if harsher deters more,
+  the theory has NO INTERNAL RESOURCE to say STOP. Beccaria's calibration is a
+  PRUDENTIAL correction, not a PRINCIPLED ceiling.
+  REPAIR ----> a DESERT SIDE-CONSTRAINT (Panels 8, 11, 12)
+        |
+        v
+EMPIRICAL DISCIPLINE  deterrence is an EMPIRICAL claim: TRUE, FALSE or
+  UNDETERMINED for a given penalty, and an answer must say which. NEVER write
+  "proved" or "disproved" without evidence. UNDER UNCERTAINTY THE BURDEN LIES
+  ON WHOEVER PROPOSES AN IRREVERSIBLE PENALTY.
+TRANSFER  deterrence is STRONGEST for CALCULATED offences by actors WITH
+  SOMETHING TO LOSE -> which is why it transfers to CORRUPTION (Panel 18) and
+  transfers BADLY to crimes of passion and ideological violence
+
+
+ASCII MASTER FLOW — PANEL 10/22: Prevention against reform, and the four bounds
+TWO FORWARD-LOOKING FAMILIES THAT ARE ROUTINELY MERGED
+  +---------------------------+------------------------------------------+
+  | PREVENTIVE /              | REFORMATIVE / REHABILITATIVE             |
+  | INCAPACITATIVE            |                                          |
+  +---------------------------+------------------------------------------+
+  | RESTRAIN a dangerous      | TRANSFORM capacities and conditions for  |
+  | offender to protect others| LAWFUL AGENCY                            |
+  | TEST: necessity and RISK  | TEST: REINTEGRATION                      |
+  | OFFENDER = a SOURCE OF    | OFFENDER = an AGENT whose capacities can |
+  | RISK to be CONTAINED      | be REBUILT                               |
+  | DANGER: indefinite or     | DANGER: PATERNALISM; compulsory          |
+  | DISCRIMINATORY confinement| "treatment"; NEGLECT OF VICTIMS          |
+  | ALONE: loses the DESERT   | ALONE: loses PROPORTIONALITY, since      |
+  | CEILING                   | intervention tracks NEED, not DEED       |
+  +---------------------------+------------------------------------------+
+        |
+        v
+THE REFORMATIVE DIGNITY ARGUMENT -- FOUR STEPS
+  [1] PERSONS ARE MORE THAN THEIR WORST ACT (the act is not excused; it does
+      not EXHAUST the person)
+  [2] RESPONSIBLE AGENCY CAN BE IMPAIRED *AND REBUILT* -- ignorance,
+      addiction, trauma, exclusion, distorted incentives, addressed WITHOUT
+      DENYING RESPONSIBILITY
+  [3] A HUMANE STATE SHOULD REDUCE FUTURE WRONGDOING THROUGH CAPABILITY, NOT
+      DEGRADATION
+  [4] PUNISHMENT SHOULD THEREFORE PRESERVE A ROUTE BACK TO MEMBERSHIP
+        |
+        v
+OBJECTION -> compulsory "TREATMENT" can PATHOLOGISE DISSENT and become
+             INDEFINITE
+REPLY ----> REHABILITATION MUST REMAIN BOUNDED BY:
+              [i]   PROPORTIONALITY -- never beyond the desert ceiling
+              [ii]  CONSENT WHERE POSSIBLE
+              [iii] REVIEW -- no open-ended intervention
+              [iv]  RIGHTS -- retained throughout
+            UNDER THESE FOUR CONDITIONS, REFORM IS IN TUNE WITH DIGNITY.
+            WITHOUT THEM, IT IS NOT.  <- THE OWNED 2021 STEM IN ONE BOX
+RESIDUE --> the HARD CASE: the COMPETENT offender who REFUSES voluntary
+            provision and whose DESERT CEILING EXPIRES while RISK REMAINS.
+            The bounded theory has nothing further to offer there.
+        |
+        v
+TWO MISREADINGS BLOCKED
+  "REFORM = LENIENCY" -> false: reform is compatible with RESPONSIBILITY and
+    PROPORTIONATE RESTRAINT
+  "REFORM = THERAPY" -> false: reform ADDRESSES AN AGENT; it does not TREAT A
+    PATIENT, and that difference is where dignity is won or lost
+CARRY FORWARD  PURE INCAPACITATION FAILS NECESSITY once SECURE IMPRISONMENT is
+  available -- the hinge of the capital-punishment answer (Panel 21)
+
+
+ASCII MASTER FLOW — PANEL 11/22: Proportionality -- ordinal, cardinal and juveniles
+TWO QUESTIONS THAT ARE NOT THE SAME QUESTION
+  ORDINAL PROPORTIONALITY -> RANKS penalties by SERIOUSNESS. A RELATIVE
+    question. RELIABLY supplied by DESERT INTUITIONS.
+  CARDINAL PROPORTIONALITY -> asks HOW SEVERE THE ENTIRE SCALE MAY BE. An
+    ABSOLUTE question. NOT supplied by desert; needs an ANCHOR FROM OUTSIDE --
+    DIGNITY, HUMANE TREATMENT, the PROHIBITION OF DEGRADATION.
+        |
+        v
+THE CONSEQUENCE THAT WINS MARKS -> A SCALE CAN BE PERFECTLY ORDINALLY
+  PROPORTIONATE AND STILL BE MONSTROUS. DOUBLE EVERY PENALTY AND THE RANKING
+  IS UNTOUCHED. ORDINAL PROPORTIONALITY ALONE PLACES NO CEILING ON ANYTHING.
+        |
+        v
+THE THREE-TERM RELATION (from Panel 4, condition 6)
+  PROPORTIONALITY HOLDS BETWEEN *WRONG*, *RESPONSIBILITY* AND *SANCTION* --
+  THREE TERMS, NOT TWO. Any inference from GRAVITY OF OFFENCE straight to
+  SEVERITY OF SENTENCE is a TWO-TERM INFERENCE and is invalid.
+        |
+        v
+THE OWNED 2023 STEM: "Severity of punishment should be proportionate to the
+seriousness of the crime." Do you agree that while punishing a JUVENILE the
+NATURE OF THE CRIME should be considered?
+  THE TRAP: it offers a PRINCIPLE EVERYONE ACCEPTS, then asks whether it
+  settles a case IT DOES NOT SETTLE.
+  FIVE FACTORS MORAL ASSESSMENT MUST DISTINGUISH
+   +---+-------------------------------+---------------------------------+
+   | 1 | SERIOUSNESS OF HARM           | OFFENCE-CENTRED                 |
+   | 2 | INTENTION AND UNDERSTANDING   | JOINS offence to offender       |
+   | 3 | DEVELOPMENTAL CAPACITY and    | OFFENDER-CENTRED                |
+   |   | SUSCEPTIBILITY TO INFLUENCE   |                                 |
+   | 4 | PROSPECTS OF REFORM           | OFFENDER-CENTRED / FORWARD      |
+   | 5 | PROCEDURAL RELIABILITY        | INSTITUTIONAL -- systematically |
+   |   |                               | WEAKER for young accused        |
+   +---+-------------------------------+---------------------------------+
+        |
+        v
+VERDICT SHAPE -> THE NATURE OF THE CRIME IS *RELEVANT BUT NOT CONCLUSIVE*.
+  Reduced and developing agency ALTERS CULPABILITY even where harm is GRAVE.
+  INTEGRATE the offence-centred and offender-centred perspectives; do NOT
+  BALANCE them: capacity is an INPUT INTO CULPABILITY, not a COUNTERWEIGHT.
+  ADJUSTING THE SENTENCE IS THEREFORE AN *APPLICATION* OF THE PRINCIPLE.
+OBJECTION -> the reasoning extends to adults shaped by DEPRIVATION, dissolving
+             responsibility
+REPLY ----> DEVELOPMENTAL INCOMPLETENESS is UNIVERSAL, TEMPORARY and
+            PREDICTABLE; adverse circumstance is PARTICULAR, VARIABLE and
+            CONTESTED -> a GENERAL RULE for juveniles, CASE-BY-CASE mitigation
+            for adults
+RESIDUE --> supports GRADED rather than THRESHOLD treatment; any AGE LINE is a
+            practical compromise the philosophy does not generate
+NOT LICENSED  [X] juveniles are never responsible  [X] harm is erased
+
+
+ASCII MASTER FLOW — PANEL 12/22: Hart's three questions and the two-level theory
++---------+----------------------------+-------------+---------------------+
+| QUESTION| FORMULATION                | FITS WELL   | FITS BADLY          |
++---------+----------------------------+-------------+---------------------+
+| Q1      | WHY should the INSTITUTION | FORWARD-    | PURE RETRIBUTION    |
+| GENERAL | of punishment exist AT ALL?| LOOKING:    | struggles to explain|
+| JUSTIFY-|                            | prevention, | why the STATE must  |
+| ING AIM |                            | protection, | inflict deserved    |
+|         |                            | security    | suffering           |
++---------+----------------------------+-------------+---------------------+
+| Q2      | WHOM may we punish, and on | BACKWARD-   | PURE DETERRENCE     |
+| DISTRI- | what CONDITION?            | LOOKING:    | permits punishing   |
+| BUTION /|                            | only the    | the INNOCENT where  |
+| LIABIL- |                            | GUILTY,     | it would deter      |
+| ITY     |                            | only for a  | effectively         |
+|         |                            | VOLUNTARY   |                     |
+|         |                            | act, only to|                     |
+|         |                            | the extent  |                     |
+|         |                            | of CULPABIL-|                     |
+|         |                            | ITY         |                     |
++---------+----------------------------+-------------+---------------------+
+| Q3      | HOW MUCH punishment is     | PROPORTION- | PURE DETERRENCE     |
+| AMOUNT /| permissible?               | ALITY:      | permits ESCALATION  |
+| SEVERITY|                            | ordinal +   | WITHOUT CEILING     |
+|         |                            | cardinal    |                     |
++---------+----------------------------+-------------+---------------------+
+        |
+        v
+THE SIX-STEP RECONSTRUCTION
+  [1] an institution can be justified by its GENERAL BENEFIT while its
+      INDIVIDUAL APPLICATIONS are governed by an INDEPENDENT PRINCIPLE OF
+      FAIRNESS
+  [2] this is ORDINARY institutional reasoning -- the AIMS of a PROMISE-
+      KEEPING PRACTICE differ from the RULES determining who is BOUND BY A
+      PARTICULAR PROMISE
+  [3] CRIME PREVENTION supplies a plausible AIM for the institution (Q1)
+  [4] DESERT and CULPABILITY supply an indispensable SIDE-CONSTRAINT on
+      LIABILITY and SEVERITY (Q2, Q3)
+  [5] therefore the strongest position is a MIXED or TWO-LEVEL theory --
+      CONSEQUENTIALIST IN AIM, RETRIBUTIVIST IN CONSTRAINT
+  [6] this DISSOLVES the classical dilemma without conceding that either PURE
+      theory is adequate
+        |
+        v
+THE PRESUPPOSITION THAT MUST BE STATED  the AIM of an institution and the
+  PRINCIPLES GOVERNING ITS APPLICATION can COME APART WITHOUT INCOHERENCE --
+  A PURE RETRIBUTIVIST DENIES THIS, so it must be argued, not assumed
+        |
+        v
+THE EXAMINER-FACING PAYOFF -- LOCATE OBJECTIONS, DO NOT MERELY RECITE THEM
+  "PUNISHING THE INNOCENT" is an objection to DETERRENCE *AT Q2* -- NOT at Q1
+  "WHY SHOULD THE STATE INFLICT SUFFERING" is an objection to RETRIBUTIVISM
+    *AT Q1* -- NOT at Q2 or Q3
+  AN ANSWER TREATING THE TWO THEORIES AS RIVAL ANSWERS TO ONE QUESTION CANNOT
+  MAKE EITHER POINT.
+        |
+        v
+OBJECTION -> the two levels are UNSTABLE: where punishing within the ceiling
+             yields NO preventive benefit, the AIM gives no reason to punish
+             while the CONSTRAINT permits it
+REPLY ----> the AIM justifies the RULE-GOVERNED PRACTICE, not each
+            APPLICATION; a practice making EXCEPTIONS whenever marginal gain
+            was absent would NOT BE the practice whose benefit was invoked,
+            since its threats would be known to be CONDITIONAL
+RESIDUE --> this commits the theory to RULE-LEVEL evaluation and inherits the
+            standing difficulty of rule-based consequentialism
+HIGHEST-YIELD OPENING IN THE CLAUSE  separate Q1/Q2/Q3 in the FIRST THREE
+  LINES of any justification stem
+
+
+ASCII MASTER FLOW — PANEL 13/22: Feinberg -- the expressive differentia
+THE PUZZLE  a PARKING FINE, a TAX and a LATE-FILING FEE all impose HARD
+  TREATMENT. So does a FINE ON CONVICTION. What makes the second a PUNISHMENT
+  and the first three MERE PENALTIES?
+        |
+        v
+NOT SEVERITY -> SOME PENALTIES ARE HEAVIER THAN SOME PUNISHMENTS
+NOT THE AUTHORITY -> the same body may impose both
+        |
+        v
+THE DIFFERENTIA IS SYMBOLIC  punishment conveys the community's RESENTMENT,
+  REPROBATION and JUDGMENT OF CONDEMNATION toward the offender for what was
+  done. NOBODY REGARDS A PARKING FINE AS A STAIN ON CHARACTER.
+        |
+        v
+THE ARGUMENT IN FIVE STEPS
+  [1] penalties and punishments BOTH impose hard treatment
+  [2] yet we DISTINGUISH them SHARPLY
+  [3] the difference CANNOT lie in SEVERITY
+  [4] it lies in SYMBOLIC SIGNIFICANCE -- authoritative DISAPPROVAL
+  [5] therefore CONDEMNATION IS PART OF THE *CONCEPT* OF PUNISHMENT, NOT AN
+      INCIDENTAL SIDE EFFECT
+        |
+        v
+FOUR THINGS ONLY THIS ACCOUNT EXPLAINS
+  [1] WRONGFUL CONVICTION is a distinct and grave wrong EVEN IF COMPENSATED --
+      THE CONDEMNATION CANNOT BE REFUNDED
+  [2] the *FORM* of punishment matters: DEGRADING punishments are
+      objectionable INDEPENDENTLY OF SEVERITY
+  [3] ACQUITTAL is not merely RELEASE but VINDICATION
+  [4] VICTIMS often want the offence PUBLICLY NAMED rather than only PAID FOR
+        |
+        v
+OBJECTION -> if CONDEMNATION is the point, SYMBOLIC DENUNCIATION WITHOUT HARD
+             TREATMENT would suffice
+REPLY ----> HARD TREATMENT makes the condemnation CREDIBLE and NON-CHEAP, and
+            distinguishes a PUBLIC VERDICT from MERE DISAPPROVAL
+RESIDUE --> this makes hard treatment INSTRUMENTAL TO EXPRESSION, which sits
+            uneasily with the claim that it is DESERVED FOR ITS OWN SAKE.
+            STATE THE RESIDUE.
+SECOND OBJECTION -> the account grounds punishment in a community's ACTUAL
+             attitudes, which can be MISDIRECTED or MANUFACTURED
+REPLY ----> the thesis is CONCEPTUAL (what punishment IS), not JUSTIFICATORY
+            (whether THIS condemnation is warranted). It STRENGTHENS the
+            critique of misdirected condemnation, since an unwarranted
+            conviction inflicts an UNWARRANTED CONDEMNATION -- a DISTINCT
+            injury, not merely an unwarranted hardship.
+RESIDUE --> where enforcement is SELECTIVE, the system EXPRESSES that some
+            persons' wrongs are the community's business and others' are not.
+            SELECTIVE ENFORCEMENT BECOMES A *SYMBOLIC* WRONG.
+        |
+        v
+POSITION ON THE GRID  Q1 = authoritative CENSURE | Q2 = only the GUILTY may be
+  condemned; condemning the innocent is a DIFFERENT and grave wrong |
+  Q3 = constrains the FORM more sharply than the QUANTUM -- rules out
+  DEGRADATION directly, leaves SEVERITY to be fixed elsewhere
+WHERE IT BITES HARDEST  the "PUBLIC AFFIRMATION" argument for CAPITAL
+  PUNISHMENT is an EXPRESSIVE argument -- assess it as one; and the
+  IRREVERSIBILITY objection gets its strongest ground here, since a
+  condemnation cannot be withdrawn from someone no longer alive to be
+  VINDICATED
+
+
+ASCII MASTER FLOW — PANEL 14/22: Duff -- communication, penance and standing to punish
+FROM EXPRESSION *ABOUT* THE OFFENDER TO COMMUNICATION *WITH* HIM
+  +----------------+---------------------------+--------------------------+
+  | AXIS           | EXPRESSIVE (Feinberg)     | COMMUNICATIVE (Duff)     |
+  +----------------+---------------------------+--------------------------+
+  | DIRECTION      | ONE-WAY: society EXPRESSES| TWO-WAY: an ADDRESS that |
+  |                | condemnation              | INVITES A RESPONSE       |
+  | OFFENDER AS    | the OBJECT of judgment    | a RATIONAL PARTICIPANT   |
+  |                |                           | capable of ANSWERING     |
+  | AIM            | authoritative DENUNCIATION| REPENTANCE, REFORM,      |
+  |                |                           | RECONCILIATION           |
+  | HARD TREATMENT | the VEHICLE of CREDIBLE   | a SECULAR PENANCE -- a   |
+  | IS             | condemnation              | burden that FOCUSES      |
+  |                |                           | ATTENTION on the wrong   |
+  |                |                           | and gives repentance     |
+  |                |                           | PUBLIC FORM              |
+  +----------------+---------------------------+--------------------------+
+        |
+        v
+THE ARGUMENT IN FIVE STEPS
+  [1] citizens OWE ONE ANOTHER AN ACCOUNT of their conduct
+  [2] a CRIMINAL TRIAL is a process of CALLING TO ACCOUNT, not merely of
+      FACT-FINDING
+  [3] the offender REMAINS A MEMBER, so the response must ADDRESS him rather
+      than merely PROCESS him
+  [4] a BURDEN IMPOSED AND UNDERGONE can focus attention on the wrong and give
+      repentance PUBLIC FORM
+  [5] therefore punishment is justified as COMMUNICATIVE PENANCE
+        |
+        v
+THE PRESUPPOSITION -> the political community has the *STANDING* to call THIS
+  offender to account, which requires that it has NOT ITSELF DENIED HIM THE
+  CONDITIONS OF CITIZENSHIP
+        |
+        v
+THE STANDING ARGUMENT -- THE STRONGEST BRIDGE TO SOCIAL JUSTICE
+  +---------------------------------------------------------------------+
+  | THE LEGITIMACY OF PUNISHMENT IS *CONDITIONAL ON THE JUSTICE OF THE   |
+  | POLITICAL ORDER THAT IMPOSES IT*.                                     |
+  +---------------------------------------------------------------------+
+  WHY IT BEATS "POVERTY CAUSES CRIME"
+  +----------------------------+----------------------------------------+
+  | "POVERTY CAUSES CRIME"     | THE STANDING ARGUMENT                  |
+  | an EMPIRICAL claim about   | a NORMATIVE claim about AUTHORITY      |
+  | CAUSATION                  |                                        |
+  | REPLY THAT KILLS IT: "many | that reply is IRRELEVANT: the question  |
+  | poor people do not offend" | is whether THE ACCUSER MAY ACCUSE      |
+  | if true, it MITIGATES      | if true, it CHALLENGES THE STANDING OF |
+  |                            | THE PUNISHER                           |
+  +----------------------------+----------------------------------------+
+        |
+        v
+SECOND OBJECTION -> aiming at REPENTANCE is ILLIBERAL; the state may regulate
+             CONDUCT but not attempt MORAL CONVERSION
+REPLY ----> the communication INVITES rather than COMPELS, and REFUSAL TO
+            REPENT attracts NO FURTHER PENALTY
+RESIDUE --> A BURDEN IMPOSED BY FORCE IS A STRANGE INVITATION
+THIRD OBJECTION -> standing has NO THRESHOLD, so every order's standing is
+             partly compromised and the condition distinguishes nothing
+REPLY ----> STANDING IS GRADED, not binary: the more SEVERELY and SPECIFICALLY
+            a polity has denied a person the conditions of citizenship, the
+            stronger the case for RESTRAINT IN SEVERITY and INSTITUTIONAL
+            REFORM
+RESIDUE --> no PROCEDURE is supplied for making that judgement inside a trial,
+            and the VICTIM'S claim to public condemnation does NOT weaken
+            merely because the state's standing has
+LIMIT TO STATE  [X] standing does NOT entail that an imperfect state may
+  punish NOBODY. It grounds RESTRAINT and REFORM, never AMNESTY.
+
+
+ASCII MASTER FLOW — PANEL 15/22: Foucault -- discipline, panopticism and the compulsory caveat
+A GENEALOGY OF PENAL POWER -- *NOT* A THEORY OF JUSTIFICATION
+  *DISCIPLINE AND PUNISH* (1975 French; 1977 English translation)
+        |
+        v
+THE HISTORICAL SHIFT
+  PUNISHMENT AS PUBLIC SPECTACLE inflicted on the BODY of the condemned
+        -> PUNISHMENT AS DISCIPLINE: ORDERING, OBSERVATION, TIMETABLING,
+           TRAINING, NORMALISATION of subjects
+  USUALLY NARRATED AS: HUMANITARIAN PROGRESS
+  BUT IT ALSO CHANGED TWO THINGS:
+    THE TARGET .... from the BODY to the SOUL, CONDUCT and HABITS
+    THE TECHNIQUE . from OCCASIONAL TERROR to CONTINUOUS SUPERVISION
+        |
+        v
+THE NEW TECHNIQUE REQUIRED *KNOWLEDGE* OF THE OFFENDER -> generating
+  CRIMINOLOGY, PSYCHIATRY and the CASE FILE
+        -> THEREFORE POWER AND KNOWLEDGE DEVELOP *TOGETHER* rather than
+           OPPOSING ONE ANOTHER
+        |
+        v
+PANOPTICISM -- THE MECHANISM
+  +---------------------------------------------------------------------+
+  | AN ARCHITECTURE OF PERMANENT, *ASYMMETRICAL* VISIBILITY IN WHICH THE |
+  | OBSERVED CANNOT VERIFY WHETHER THEY ARE BEING WATCHED AT ANY GIVEN   |
+  | MOMENT -- SO SURVEILLANCE IS *INTERNALISED* AND THE SUBJECT          |
+  | DISCIPLINES HERSELF.                                                 |
+  | THE APPARATUS'S POWER LIES IN THE *POSSIBILITY* OF OBSERVATION, NOT  |
+  | ITS ACTUALITY -- WHICH IS WHY IT *ECONOMISES ON FORCE*.              |
+  +---------------------------------------------------------------------+
+  RESULT ON THIS ACCOUNT: "DOCILE BODIES", and DELINQUENCY MANUFACTURED as a
+  MANAGEABLE CATEGORY rather than CRIME ELIMINATED
+        |
+        v
+THE FUNCTIONAL CLAIM [?]  the prison's persistent FAILURE to reduce
+  reoffending is NOT AN ANOMALY but FUNCTIONAL, sustaining a bounded,
+  identifiable delinquent population -- CONTESTED, and STRONGER than the
+  historical evidence strictly supports. PRESENT AS A THESIS, NOT A FINDING.
+        |
+        v
+THE COMPULSORY CAVEAT -- STATE IT EXPLICITLY OR LOSE MARKS
+  [1] [X] Do NOT present him as saying punishment is UNJUSTIFIED. His argument
+      is about HOW PENAL POWER OPERATES, not about DESERT or LIABILITY. Using
+      him as a NORMATIVE ALTERNATIVE to retribution or deterrence is a
+      CATEGORY ERROR and will be marked as one.
+  [2] [!] The FUNCTIONAL CLAIM is CONTESTED -- a thesis, not a finding.
+  [3] [X] Do NOT attach panopticism to ANY named contemporary TECHNOLOGY,
+      DATABASE, PROGRAMME or GOVERNMENT. It is an ANALYTICAL MODEL; NO
+      empirical claim is made here about ANY surveillance practice ANYWHERE.
+        |
+        v
+OBJECTION -> if POWER CONSTITUTES SUBJECTS, the resources for CRITICISING
+             penal power are unavailable; the critique UNDERCUTS ITSELF
+REPLY ----> RESISTANCE IS CO-EXTENSIVE WITH POWER, and the aim is to make
+            CONTINGENT ARRANGEMENTS VISIBLE AS CONTINGENT
+RESIDUE --> showing an arrangement is CONTINGENT does NOT show it is BAD;
+            without a NORMATIVE CRITERION the analysis cannot distinguish what
+            is worth RESISTING from what is worth KEEPING -> so FOUCAULT MUST
+            BE PAIRED WITH A NORMATIVE THEORY, NEVER SUBSTITUTED FOR ONE
+        |
+        v
+PLACEMENT IN AN ANSWER  JUSTIFICATORY PARAGRAPH -> NO.  CRITICAL PARAGRAPH ->
+  YES, and he is STRONGEST showing why REFORMATIVE RHETORIC can coexist with
+  INTENSIFIED CONTROL -- a direct qualification of Panel 10. JUDGE AIMS BY
+  TECHNIQUES, not only by STATED PURPOSES.
+
+
+ASCII MASTER FLOW — PANEL 16/22: Restorative justice and Braithwaite's two kinds of shaming
+SIX AXES ON WHICH RESTORATIVE PROCESS DIFFERS FROM CONVENTIONAL
+  +--------------+--------------------------+---------------------------+
+  | AXIS         | RETRIBUTIVE/CONVENTIONAL | RESTORATIVE               |
+  +--------------+--------------------------+---------------------------+
+  | CRIME IS     | a BREACH OF LAW, an      | a HARM TO PERSONS AND     |
+  |              | offence against the STATE| RELATIONSHIPS             |
+  | CENTRAL      | which law was broken,    | who was HURT, what do they|
+  | QUESTION     | who did it, what do they | NEED, whose OBLIGATION is |
+  |              | DESERVE?                 | it to REPAIR?             |
+  | VICTIM'S ROLE| a WITNESS for the        | a CENTRAL PARTICIPANT with|
+  |              | prosecution              | STANDING                  |
+  | OFFENDER'S   | OBJECT of proceedings;   | ACTIVE PARTICIPANT,       |
+  | ROLE         | INCENTIVISED TO DENY     | expected to ACKNOWLEDGE   |
+  |              |                          | and REPAIR                |
+  | OUTCOME      | proportionate HARD       | reparation, apology,      |
+  |              | TREATMENT                | restitution, changed      |
+  |              |                          | conduct, REINTEGRATION    |
+  | COMMUNITY    | REPRESENTED by the state | DIRECTLY INVOLVED as a    |
+  |              |                          | STAKEHOLDER               |
+  +--------------+--------------------------+---------------------------+
+        |
+        v
+BRAITHWAITE'S MECHANISM -- SHAME THE ACT, KEEP THE PERSON
+  +-------------------------------+-----------------------------------+
+  | STIGMATISING SHAMING          | REINTEGRATIVE SHAMING             |
+  | condemns THE OFFENDER         | condemns THE ACT                  |
+  | LABELS THE PERSON as bad      | SUSTAINS RESPECT for the person   |
+  | SEVERS bonds                  | disapproval WITHIN a CONTINUING   |
+  |                               | RELATIONSHIP OF CARE              |
+  | offers NO ROUTE BACK          | TERMINATED by FORGIVENESS and     |
+  |                               | REACCEPTANCE                      |
+  | pushes toward CRIMINAL        | returns the offender to the       |
+  | SUBCULTURES where the label is| COMMUNITY OF LAW-ABIDING CITIZENS |
+  | worn as IDENTITY              |                                   |
+  | => CRIMINOGENIC               | => REGULATORY                     |
+  +-------------------------------+-----------------------------------+
+  ARGUMENT: informal disapproval regulates MORE POWERFULLY than formal
+  sanction -> shaming reduces offending ONLY IF the offender is NOT
+  PERMANENTLY CAST OUT -> stigmatisation SEVERS the bonds that make
+  disapproval MATTER -> reintegration PRESERVES them and provides a ROUTE BACK
+  -> therefore restorative processes are justified BOTH by MORAL CHARACTER and
+  by REGULATORY EFFECT
+        |
+        v
+PRESUPPOSITION [!]  the offender VALUES INCLUSION and the community is WILLING
+  TO REACCEPT -- conditions that PLAINLY FAIL for members of ALREADY-EXCLUDED
+  GROUPS. THE THEORY'S MOST SERIOUS LIMITATION. STATE IT.
+        |
+        v
+POSITION ON THE GRID  Q1 = REPAIR of harm and RESTORATION of relationships |
+  Q2 = liability STILL requires an ADMITTED OR PROVED VOLUNTARY WRONG, so
+  restoration is NOT a licence to BYPASS GUILT | Q3 = measured by WHAT REPAIR
+  REQUIRES rather than WHAT DESERT PERMITS -- EXACTLY where the PROPORTIONALITY
+  objection BITES
+        |
+        v
+THREE OBJECTIONS, THREE REPLIES
+  PROPORTIONALITY -> outcomes vary with the VICTIM'S TEMPERAMENT; like cases
+    are not treated alike | REPLY: defensible schemes operate INSIDE UPPER AND
+    LOWER LIMITS SET BY DESERT -- which CONCEDES that the retributive
+    framework remains the OUTER CONSTRAINT
+  POWER IMBALANCE -> face-to-face process can RE-TRAUMATISE or COERCE where
+    parties are UNEQUAL | REPLY: the STRONGEST objection, and it CANNOT BE
+    FULLY ANSWERED -> restorative process is CONDITIONALLY APPROPRIATE:
+    genuine VOLUNTARINESS, prior SAFETY, skilled FACILITATION, SCREENING OUT
+    of entrenched domination. [X] NOT universally applicable.
+  PUBLIC WRONG -> if crime is only PRIVATE HARM, DENUNCIATION disappears |
+    REPLY: FEINBERG and DUFF -- some wrongs must be PUBLICLY NAMED, so
+    restoration must SUPPLEMENT rather than REPLACE authoritative condemnation
+        |
+        v
+THE LAYERED VERDICT -- THE BEST CLOSING AVAILABLE IN THE CLAUSE
+  DESERT fixes the LIMITS | CONDEMNATION supplies the MEANING | COMMUNICATION
+  supplies the ADDRESS to the offender | RESTORATION supplies the REPAIR of
+  harm | FOUCAULT supplies the standing WARNING that ANY of these can be
+  CAPTURED BY AN APPARATUS OF CONTROL
+DISTRIBUTIONAL RESIDUE  restorative justice is STRONGEST where social bonds
+  are INTACT and WEAKEST where they have been DESTROYED -- so it is LEAST
+  AVAILABLE to those whom conventional process treats WORST
+
+
+ASCII MASTER FLOW — PANEL 17/22: Corruption I -- entrusted power and the five wrongs
+DEFINITION
+  +---------------------------------------------------------------------+
+  | CORRUPTION = THE MISUSE OF *ENTRUSTED* PUBLIC OR INSTITUTIONAL POWER |
+  | THROUGH PARTIAL, CONCEALED OR IMPROPERLY EXCHANGED ADVANTAGE,        |
+  | SUBVERTING THE NORM THAT OFFICE SHOULD SERVE ITS JUSTIFIED PURPOSE.  |
+  +---------------------------------------------------------------------+
+  WIDER THAN BRIBERY -> BRIBERY (improper exchange) | FAVOURITISM (partial
+  allocation) | NEPOTISM (partiality by kinship) | EMBEZZLEMENT (conversion of
+  entrusted resources) | REGULATORY CAPTURE (the regulated set the rules) |
+  ABUSE OF DISCRETION (lawful power for unjustified ends)
+  [X] An answer that treats corruption as BRIBERY has already NARROWED THE
+  QUESTION -- several owned stems turn on CAPTURE, DISCRETION and PATRONAGE.
+        |
+        v
+FIVE REASONS IT IS WRONG -- FIVE *DIFFERENT* WRONGS
+  [1] BREACH OF TRUST ...... office creates FIDUCIARY OBLIGATIONS
+  [2] IMPARTIALITY VIOLATION similarly placed persons receive UNEQUAL
+                             TREATMENT
+  [3] RULE-OF-LAW INJURY ... PUBLIC RULES are DISPLACED BY PRIVATE ACCESS
+  [4] AGENCY HARM .......... citizens become CLIENTS or SUPPLICANTS rather
+                             than EQUALS
+  [5] INSTITUTIONAL HARM ... repeated corruption CHANGES EXPECTATIONS, making
+      [analysis]             HONEST ACTION COSTLY and collective trust FRAGILE
+  WHY FIVE AND NOT ONE -> EACH SURVIVES THE FAILURE OF THE OTHERS. Even where
+  NO ONE IS MEASURABLY WORSE OFF, [1] and [3] STILL HOLD -> which is how
+  corruption passes the PUBLIC-WRONG FILTER (Panel 2) WITHOUT an identifiable
+  injured party.
+        |
+        v
+THE OWNED 2025 STEM: "Corrupt practices reveal an INHERENT TENSION between
+PARTICULARISTIC and UNIVERSALISTIC normative standards."
+  +---------------------------+-------------------------------------------+
+  | PARTICULARISTIC NORMS     | UNIVERSALISTIC NORMS                      |
+  | assign SPECIAL WEIGHT to  | require OFFICE-HOLDERS to apply PUBLIC    |
+  | FAMILY, CASTE, FRIENDSHIP,| CRITERIA IMPARTIALLY                      |
+  | PATRONAGE                 |                                           |
+  | generate GENUINE DUTIES   | generate duties owed to ALL who stand in  |
+  | -- NOT mere bias          | the same relation to the office           |
+  +---------------------------+-------------------------------------------+
+  THE FOUR-STEP ARGUMENT
+    [1] personal relations generate GENUINE DUTIES
+    [2] public office is ENTRUSTED FOR A SPECIFIED COMMON PURPOSE
+    [3] using office to discharge PRIVATE LOYALTY imposes costs on
+        UNREPRESENTED CITIZENS
+    [4] CORRUPTION OCCURS WHEN A *LEGITIMATE* PARTICULAR LOYALTY IS ACTED UPON
+        IN A ROLE GOVERNED BY *UNIVERSAL PUBLIC STANDARDS*
+        |
+        v
+THE REMEDY  [X] NOT the abolition of personal loyalty -> [OK] DEFINE ROLE
+  BOUNDARIES, CONFLICTS OF INTEREST and RECUSAL
+THE CHARACTERISATION THAT EARNS THE VERDICT MARK  the tension is between
+  *DOMAINS*, not between two RIVAL MORALITIES. Both norms are VALID IN THEIR
+  OWN DOMAIN. CORRUPTION IS A *CATEGORY ERROR OF ROLE, EXECUTED FOR
+  ADVANTAGE*. That is why the tension is INHERENT rather than resolvable.
+ARISTOTLE, BOUNDED  friendship and particular bonds MATTER and CANNOT convert
+  public office into private property -> the task is ROLE-DIFFERENTIATION.
+  ONE controlled point; [X] do NOT import a general theory of friendship.
+LIMIT  boundaries work cleanly for DISCRETE DECISIONS and less cleanly for
+  PERVASIVE INFLUENCE, INFORMAL NETWORKS and AGENDA-SHAPING, where no
+  identifiable decision is diverted and RECUSAL HAS NOTHING TO ATTACH TO
+
+
+ASCII MASTER FLOW — PANEL 18/22: Corruption II -- diagnosis, regimes and remedies
+THE OWNED 2022 STEM: SYSTEMIC ISSUE OR ETHICAL ISSUE?
+  +----------------------------+------------------------------------------+
+  | ETHICAL DIAGNOSIS          | SYSTEMIC DIAGNOSIS                       |
+  | CAUSE: greed, dishonesty,  | CAUSE: OPACITY, MONOPOLY, EXCESSIVE      |
+  | weak integrity             | DISCRETION, IMPUNITY                     |
+  | FOCUS: CHARACTER, CHOICE   | FOCUS: INCENTIVES, INSTITUTIONAL         |
+  |                            | EQUILIBRIUM                              |
+  | REMEDY: MORAL EDUCATION,   | REMEDY: TRANSPARENCY, AUDIT, COMPETITION,|
+  | PROFESSIONAL ETHOS         | ACCOUNTABILITY                           |
+  +----------------------------+------------------------------------------+
+  BEST POSITION -> CORRUPTION IS AN *ETHICAL ACT WITHIN A SYSTEMIC ECOLOGY*.
+  Structure influences OPPORTUNITY and COST but does NOT ERASE AGENCY;
+  character matters, but HEROIC VIRTUE CANNOT SUBSTITUTE FOR SOUND
+  INSTITUTIONS.
+  [!] THE MARK IS FOR THE *REASON* THE DISJUNCTION FAILS, NOT FOR SAYING
+  "BOTH". THE TWO EXPLANATORY RESIDUES:
+    PURE ETHICS cannot explain VARIATION ACROSS INSTITUTIONS with comparable
+      populations
+    PURE STRUCTURE cannot explain VARIATION ACROSS INDIVIDUALS in IDENTICAL
+      positions under IDENTICAL incentives
+  PRIORITY -> STRUCTURE FIRST (it fixes the opportunity set), ETHOS WHERE
+  STRUCTURE CANNOT REACH
+  REGRESS -> auditors, investigators and rule-designers are THEMSELVES
+  office-holders; design DISTRIBUTES and CHECKS discretion but cannot remove
+  the FINAL LAYER OF JUDGMENT
+        |
+        v
+THE OWNED 2020 STEM: HOW FAR DO REGIMES CONDITION CORRUPT PRACTICE?
+  NO FORM OF GOVERNMENT IS AUTOMATICALLY IMMUNE
+    AUTOCRACY -> may CONCEAL corruption through WEAK SCRUTINY
+    DEMOCRACY -> may EXPOSE it, yet ALSO GENERATE PATRONAGE, CAMPAIGN-FINANCE
+                 and CAPTURE risks
+  REGIME TYPE AFFECTS -> INFORMATION | ACCOUNTABILITY | COMPETITION
+  OUTCOMES ALSO DEPEND ON -> INSTITUTIONAL DESIGN | SOCIAL INEQUALITY | NORMS
+    OF OFFICE
+  THE PRECISE ANSWER TO "HOW FAR" -> regimes condition the VISIBILITY, the
+    COST and the FORM of corruption FAR MORE THAN ITS EXISTENCE
+  [!] THE STANDARD ERROR -> CONFUSING *DISCLOSURE* WITH *INCIDENCE*. A regime
+    that EXPOSES more corruption is NOT thereby MORE CORRUPT.
+        |
+        v
+THE OWNED 2019 STEM: IS CORRUPTION *NOT* A FORM OF MASS VIOLENCE?
+  STEP 1 -> STATE THE NECESSARY CONDITIONS FOR *VIOLENCE* FIRST. TEST, DO NOT
+            ASSERT.
+  STEP 2 -> TEST CORRUPTION AGAINST EACH
+   +----------------------------+-----------+----------------------------+
+   | CONDITION OF VIOLENCE      | MEETS?    | NOTE                       |
+   | large-scale harm to persons| OFTEN YES | via DIVERSION of essential |
+   |                            |           | resources                  |
+   | DIRECT PHYSICAL FORCE      | NO        | THE CORE DISANALOGY        |
+   | INTENT TO HARM THE VICTIMS | USUALLY NO| intent is to GAIN, not to  |
+   |                            |           | INJURE                     |
+   | IDENTIFIABLE VICTIMS       | NO        | DIFFUSE; causal chains     |
+   |                            |           | INVISIBLE                  |
+   | ABUSE OF INSTITUTIONAL     | YES       | the SHARED FEATURE         |
+   | POWER                      |           |                            |
+   +----------------------------+-----------+----------------------------+
+  STEP 3 -> VERDICT: CALL CORRUPTION "MASS VIOLENCE" ONLY *ANALOGICALLY* AND
+    WITH A DEMONSTRATED, FORESEEABLE HARM-CHAIN; OTHERWISE USE *STRUCTURAL
+    HARM*.  FOR: diffuse victims, cumulative harm, invisible causal chains,
+    abuse of institutional power.  AGAINST: CONCEPTUAL INFLATION erases the
+    distinctive AGENCY and INTENT of PHYSICAL mass violence -- and a concept
+    covering everything DISCRIMINATES NOTHING.
+        |
+        v
+THE OWNED 2018 STEM: MEASURES TO ERADICATE CORRUPTION
+  [X] THE TRAP: the stem invites a LIST. [OK] GIVE THE PRINCIPLE THAT
+  GENERATES THE LIST -> ATTACK THE THREE VARIABLES THAT MAKE OFFICE MISUSABLE
+    [A] MONOPOLY ... COMPETITION, PLURAL PROVIDERS, EFFECTIVE APPEAL
+    [B] DISCRETION . RULES, PUBLISHED CRITERIA, RECORDED REASONS, DEFINED
+                     CONFLICTS OF INTEREST, MANDATORY RECUSAL
+    [C] IMPUNITY ... TRANSPARENCY, INDEPENDENT AUDIT, INDEPENDENT
+                     INVESTIGATION, CERTAINTY OF DETECTION
+    [D] ETHOS ...... PROFESSIONAL ETHOS and MORAL EDUCATION for the RESIDUE OF
+                     JUDGMENT that no rule eliminates
+  BECCARIA TRANSFERS EXACTLY HERE -> corruption is the paradigm CALCULATED
+  offence by an actor WITH SOMETHING TO LOSE, so CERTAINTY OF DETECTION is the
+  OPERATIVE LEVER, not SEVERITY OF PENALTY
+INDIAN INSTITUTIONAL ILLUSTRATIONS -- CLASSIFY BEFORE USE
+  PREVENTION OF CORRUPTION ACT, 1988 (amended 2018) = ENACTED CRIMINAL-LAW
+    FRAMEWORK
+  LOKPAL AND LOKAYUKTAS ACT, 2013 = INSTITUTIONAL ACCOUNTABILITY FRAMEWORK
+  [!] NEITHER ENACTMENT PROVES THAT CORRUPTION IS ETHICALLY SOLVED.
+  IMPLEMENTATION, INDEPENDENCE, ENFORCEMENT and PUBLIC NORMS remain SEPARATE
+  QUESTIONS.
+LIMIT  where corruption is concentrated at the level that DESIGNS AND ENFORCES
+  the rules, there is NO EXTERNAL ARCHITECT and the systemic remedy has NO
+  PURCHASE -- the analysis reaches its limit where the CORRUPT and the
+  REFORMER ARE THE SAME OFFICE
+
+
+ASCII MASTER FLOW — PANEL 19/22: Mass violence -- mechanisms and responsibility
+DEFINITION  MASS VIOLENCE = LARGE-SCALE VIOLENCE AGAINST POPULATIONS produced
+  through ORGANISED COERCION, COLLECTIVE MOBILISATION or CASCADING
+  PARTICIPATION. It INCLUDES, but is WIDER THAN, GENOCIDE.
+        |
+        v
+SIX MECHANISMS BY WHICH ORDINARY PEOPLE PARTICIPATE
+  [1] DEHUMANISATION ......... victims represented as CONTAMINANTS, THREATS or
+                               NON-PERSONS
+  [2] MORAL EXCLUSION ........ ordinary restraints WITHDRAWN from an OUT-GROUP
+  [3] DIFFUSION OF RESPONSI-   each participant treats agency as FRAGMENTED
+      BILITY
+  [4] OBEDIENCE AND BUREAU-    harmful acts ROUTINISED as ROLE-PERFORMANCE
+      CRACY
+  [5] POLARISATION AND         AMBIGUITY and DISSENT SUPPRESSED
+      PROPAGANDA
+  [6] SECURITY DILEMMA [?] ... groups interpret PRE-EMPTION as NECESSARY
+                               SELF-DEFENCE
+  WHAT THE LIST IMPLIES -> MASS VIOLENCE DOES NOT REQUIRE EXCEPTIONAL PERSONS.
+  It requires REPRESENTATION, PERMISSION, FRAGMENTATION, ROUTINE, SILENCE and
+  FEAR.
+        |
+        v
+ARENDT -- *EICHMANN IN JERUSALEM*
+  the "BANALITY OF EVIL": EXTRAORDINARY WRONGDOING can be performed through
+  CLICHES, CAREERISM and FAILURE OF JUDGMENT rather than DEMONIC DEPTH
+  PRESUPPOSITION -> moral responsibility requires REFLECTIVE JUDGMENT, not
+    merely CONFORMITY TO ROLE
+  OBJECTION -> "banality" may UNDERSTATE ideology, hatred, initiative
+  REPLY ----> Arendt does NOT DENY THE ENORMITY; she warns that ORDINARY
+              INSTITUTIONAL OBEDIENCE can become ITS VEHICLE
+  [!] CRITICAL CONTROL -> BANALITY CONCERNS THE *PSYCHOLOGY OF PERPETRATION*,
+      NOT THE *DEGREE OF GUILT*. SAY SO, OR IT WILL BE READ AS AN EXCUSE.
+        |
+        v
+THREE POSITIONS ON RESPONSIBILITY
+  ONLY INDIVIDUALS -> preserves personal culpability | IGNORES institutions
+    and COMMAND STRUCTURES
+  GROUPS COLLECTIVELY -> captures organised agency and inherited benefit |
+    PUNISHES PERSONS MERELY BY MEMBERSHIP
+  DIFFERENTIATED -> assigns liability by ROLE, KNOWLEDGE, CAPACITY,
+    CONTRIBUTION | FACTUALLY DEMANDING  <- THE STRONGEST VIEW
+  LEADERS, PLANNERS, DIRECT PERPETRATORS, ENABLERS, BYSTANDERS and RESISTERS
+  DO NOT BEAR IDENTICAL RESPONSIBILITY.
+        |
+        v
+THE FIVE KINDS OF COLLECTIVE RESPONSIBILITY -- THE DECISIVE GRID
+ +--------------------+----------------------------+---------+------------+
+ | KIND               | CLAIM                      | DEFENS- | ATTACHES TO|
+ |                    |                            | IBLE?   |            |
+ +--------------------+----------------------------+---------+------------+
+ | CRIMINAL GUILT     | this person PLANNED,       | YES --  | INDIVIDUALS|
+ |                    | ORDERED, INCITED, COMMITTED| paradigm| ONLY       |
+ | ORGANISATIONAL     | a body with DECISION       | YES,    | INSTITUTIONS|
+ | LIABILITY          | PROCEDURES and a CHAIN OF  | where it| COMMANDS,  |
+ |                    | COMMAND answers for what it| has     | PARTIES    |
+ |                    | DECIDED                    | GENUINE |            |
+ |                    |                            | AGENCY  |            |
+ | POLITICAL          | members bear responsibility| PARTLY: | CITIZENS   |
+ | RESPONSIBILITY     | for what is done IN THEIR  | grounds | COLLECT-   |
+ |                    | NAME and by THEIR          | REPARA- | IVELY      |
+ |                    | INSTITUTIONS               | TION,   |            |
+ |                    |                            | MEMORY, |            |
+ |                    |                            | REFORM  |            |
+ |                    |                            | NOT     |            |
+ |                    |                            | GUILT   |            |
+ | RESPONSIBILITY FOR | BYSTANDERS who could have  | YES,    | INDIVIDUALS|
+ | OMISSION           | acted at ACCEPTABLE COST   | GRADED  | by role and|
+ |                    | and did not                | by      | situation  |
+ |                    |                            | knowledge|           |
+ |                    |                            | capacity|            |
+ |                    |                            | risk    |            |
+ | METAPHYSICAL /     | guilty because of ANCESTRY | NO --   | REJECTED   |
+ | INHERITED GUILT    | or MEMBERSHIP              | THE VERY|            |
+ |                    |                            | LOGIC   |            |
+ |                    |                            | THAT    |            |
+ |                    |                            | GENERATES|           |
+ |                    |                            | ATROCITY|            |
+ +--------------------+----------------------------+---------+------------+
+  THE CONTROLLING RULE -> GUILT IS INDIVIDUAL; *RESPONSIBILITY* ADMITS OF
+  COLLECTIVE FORMS. POLITICAL RESPONSIBILITY GROUNDS OBLIGATIONS TO REPAIR,
+  REMEMBER AND REFORM; IT NEVER CONVERTS INTO CRIMINAL GUILT BY MEMBERSHIP.
+  AN ANSWER THAT ASSIGNS GUILT TO A COMMUNITY *AS SUCH* HAS REPRODUCED THE
+  PERPETRATOR'S OWN REASONING.
+  RESIDUE [?] -> political responsibility is WEAKEST for citizens who had NO
+  EFFECTIVE VOICE, on whom it may fall MOST HEAVILY though they were LEAST
+  ABLE TO PREVENT the wrong
+        |
+        v
+RELIGIOUSLY FRAMED VIOLENCE -- THREE DISTINCTIONS
+  [1] DOCTRINE vs MOBILISATION -> a tradition's TEXTS and a movement's
+      POLITICAL USE of them are NOT THE SAME OBJECT. Explanation requires
+      ORGANISATION, INCENTIVE, LEADERSHIP, IMPUNITY, PRIOR GRIEVANCE -- not
+      only theology. [X] do not DERIVE violence from a religion; [X] do not
+      EXONERATE a movement by pointing to a peaceful text
+  [2] COMMUNAL VIOLENCE vs POGROM vs GENOCIDE -> differ in STRUCTURE, not
+      merely SCALE: RECIPROCAL communal conflict | ONE-SIDED attack with
+      OFFICIAL ACQUIESCENCE | destruction of a group AS SUCH with SPECIFIC
+      INTENT. Three categories, three EVIDENTIARY REQUIREMENTS.
+  [3] IDENTITY AS TARGET vs IDENTITY AS MOTIVE -> victims may be SELECTED by
+      religious identity for INSTRUMENTAL POLITICAL reasons (land, votes,
+      markets, labour). That the MARKER is religious does NOT establish that
+      the MOTIVE is -- and the REMEDY differs: THEOLOGICAL ENGAGEMENT for one,
+      ACCOUNTABILITY FOR ORGANISATION AND IMPUNITY for the other.
+  [X] ANSWER DISCIPLINE -> NO community, country, party, government, movement
+  or historical episode is named as an instance of ANY of these categories.
+  ANSWER AT THE LEVEL OF *CRITERIA*.
+        |
+        v
+PREVENTION -- INSTITUTIONS THAT PRESERVE PERSONHOOD
+  INDEPENDENT INFORMATION | PROTECTION OF DISSENT | UNIVERSAL CIVIC STATUS |
+  ACCOUNTABILITY FOR COMMAND | REFUSAL OF DEHUMANISING CATEGORIES
+  [!] Education and memory matter, but MORAL EXHORTATION WITHOUT INSTITUTIONAL
+  CHECKS IS INADEQUATE.
+
+
+ASCII MASTER FLOW — PANEL 20/22: Genocide -- Lemkin, the Convention, and the group as such
+HOW THE CONCEPT WAS CONSTRUCTED
+  1944  LEMKIN, *AXIS RULE IN OCCUPIED EUROPE*  [SCHOLARLY WORK]
+        coins GENOCIDE from Greek *genos* (race, tribe) + Latin *-cide*
+        (killing)
+        LEMKIN'S CONCEPTION -> a COORDINATED PLAN OF DIFFERENT ACTIONS aiming
+        at the DESTRUCTION OF THE ESSENTIAL FOUNDATIONS OF THE LIFE OF A
+        GROUP, with the aim of ANNIHILATING THE GROUP ITSELF. TARGETS INCLUDE
+        political and social institutions, culture, language, national
+        feeling, religion, economic existence, personal security, liberty,
+        health and dignity -- KILLING BEING ONE METHOD AMONG SEVERAL.
+        v
+  1948  GENOCIDE CONVENTION  [INTERNATIONAL INSTRUMENT]
+        SPECIFIED ACTS + INTENT TO DESTROY, IN WHOLE OR IN PART, A NATIONAL,
+        ETHNICAL, RACIAL or RELIGIOUS GROUP, *AS SUCH*
+        v
+  1951  ENTERS INTO FORCE  [ADOPTION and ENTRY INTO FORCE are DIFFERENT
+        EVENTS -- do not conflate them]
+        |
+        v
+THE PRECISION THE EXAMINER REWARDS
+  +---------------------------------------------------------------------+
+  | THE CONVENTION IS *NARROWER* THAN LEMKIN'S CONCEPTION.               |
+  |  [X] Do NOT assert that the Convention adopts Lemkin's conception IN |
+  |      FULL -- the single commonest factual error on this material.    |
+  |  [X] POLITICAL GROUPS ARE *NOT* AMONG THE PROTECTED CATEGORIES.      |
+  |  [X] Do NOT extend the protected categories beyond the FOUR NAMED.   |
+  +---------------------------------------------------------------------+
+        |
+        v
+LEMKIN'S ARGUMENT IN SIX STEPS
+  [1] existing legal categories addressed wrongs done to INDIVIDUALS
+  [2] but some wrongs are directed at a person *BECAUSE OF* MEMBERSHIP, and
+      aim at the GROUP'S CONTINUED EXISTENCE AS SUCH
+  [3] a group's existence is sustained not only by the LIVES of its members
+      but by its INSTITUTIONS, LANGUAGE, TRANSMISSION and SHARED LIFE
+  [4] destroying those FOUNDATIONS destroys the GROUP even where MANY
+      INDIVIDUALS SURVIVE
+  [5] therefore a DISTINCT CATEGORY is required, whose defining element is the
+      *INTENT TO DESTROY THE GROUP AS SUCH*
+  [6] the wrong is IRREDUCIBLE to the AGGREGATE of the individual murders that
+      may compose it
+  PRESUPPOSITION [!] -> groups have a MORALLY SIGNIFICANT EXISTENCE not
+  EXHAUSTED by the aggregate of their members' interests. MUST BE ARGUED --
+  INDIVIDUALIST moral theories DENY it and would locate the entire wrong in
+  the murders.
+        |
+        v
+FOUR NEIGHBOURING CONCEPTS -- DISTINGUISHED BY FEATURE, NOT SCALE
+  +-------------------------+------------------------------------------+
+  | MASS VIOLENCE           | SCALE and COLLECTIVE PATTERN; NO single  |
+  |                         | fixed legal INTENT requirement           |
+  | GENOCIDE                | SPECIAL INTENT to DESTROY A PROTECTED    |
+  |                         | GROUP, wholly or partly                  |
+  | CRIMES AGAINST HUMANITY | specified acts as part of a WIDESPREAD or |
+  |                         | SYSTEMATIC ATTACK against a CIVILIAN     |
+  |                         | POPULATION                               |
+  | WAR CRIME               | serious violation CONNECTED TO ARMED     |
+  |                         | CONFLICT                                 |
+  +-------------------------+------------------------------------------+
+  UPSC TEST -> *NOT EVERY MASSACRE IS LEGALLY GENOCIDE.* THE SPECIFIC
+  DESTRUCTIVE INTENT MATTERS.
+        |
+        v
+WHY GENOCIDE IS A DISTINCTIVE MORAL WRONG -- FOUR REASONS
+  [1] victims are attacked NOT ONLY AS INDIVIDUALS but AS MEMBERS of a group
+      MARKED FOR DESTRUCTION
+  [2] CULTURAL and GENERATIONAL CONTINUITY is targeted
+  [3] the perpetrator CLAIMS POWER TO DECIDE WHICH HUMAN PLURALITY MAY EXIST
+  [4] INDIVIDUAL KILLING and COLLECTIVE ANNIHILATORY PURPOSE ARE JOINED
+        |
+        v
+THREE OBJECTIONS, THREE REPLIES
+  REDUNDANCY -> "if the killings are already the gravest crimes, 'genocide'
+    adds a LABEL" | REPLY: the ADDITIONAL wrong is the destruction of a *FORM
+    OF SHARED LIFE* -- a language, a tradition of transmission, a community of
+    memory -- a loss to SURVIVORS, to THOSE NEVER BORN INTO IT, and arguably
+    to HUMANITY, NOT captured by counting murders
+  PROOF -> "SPECIFIC INTENT makes it nearly impossible to prove, so the
+    concept PROTECTS PERPETRATORS" | REPLY: a REAL evidentiary problem, met by
+    INFERRING INTENT FROM A PATTERN OF CONDUCT -- but a LIMIT to be STATED
+    honestly, and it explains why CRIMES AGAINST HUMANITY often does the
+    PRACTICAL WORK
+  PROTECTED-GROUP LIMITATION -> the Convention omits POLITICAL and many SOCIAL
+    groups | REPLY: that is a limitation of the LEGAL DEFINITION; broader
+    MORAL CONDEMNATION runs through CRIMES AGAINST HUMANITY WITHOUT CASUALLY
+    REWRITING THE TREATY TERM
+        |
+        v
+RESPONSIBILITY, OBEDIENCE AND DENIAL
+  "FOLLOWING ORDERS" does NOT erase agency where an order is MANIFESTLY
+  CRIMINAL. COMMAND RESPONSIBILITY, BUREAUCRATIC CONTRIBUTION and PROPAGANDA
+  raise DIFFERENT EVIDENTIARY and MORAL questions, but ROLE NEVER
+  AUTOMATICALLY CANCELS JUDGMENT.
+  DENIAL continues the wrong by attacking MEMORY, TESTIMONY and the STANDING
+  OF SURVIVORS -- yet LEGAL GUILT MUST REMAIN INDIVIDUALISED rather than
+  INHERITED by later members of a population.
+[X] ANSWER DISCIPLINE  name NO country, community, government or episode. Cite
+  the 1948 Convention as a DATED INTERNATIONAL INSTRUMENT and Lemkin's 1944
+  work as a DATED SCHOLARLY SOURCE; argue the PHILOSOPHY SEPARATELY.
+
+
+ASCII MASTER FLOW — PANEL 21/22: Capital punishment -- argument tree and custody test
+DEFINITION  the state's INTENTIONAL EXECUTION of a CONVICTED offender. THE
+  HARDEST CASE because punishment becomes IRREVERSIBLE and ELIMINATES THE
+  SUBJECT whose RESPONSIBILITY, REFORM and RIGHTS GROUND PENAL THEORY.
+        |
+        v
+THE ARGUMENT TREE
+  +-------------------------------+-------------------------------------+
+  | FOR                           | AGAINST                             |
+  +-------------------------------+-------------------------------------+
+  | [1] RETRIBUTION [OK] --       | [1] FALLIBILITY AND IRREVERSIBILITY |
+  | exceptionally grave culpable  | [OK] -- WRONGFUL EXECUTION CANNOT   |
+  | killing may DESERVE the       | BE REPAIRED                         |
+  | gravest proportionate response|                                     |
+  | [2] DETERRENCE [?] -- may     | [2] HUMAN DIGNITY [OK] -- the state |
+  | deter BEYOND LIFE IMPRISON-   | CONTRADICTS ITS OWN CONDEMNATION OF |
+  | MENT; an EMPIRICAL claim that | KILLING by deliberately             |
+  | CANNOT BE ASSUMED             | extinguishing a RESTRAINED person   |
+  | [3] INCAPACITATION [OK] --    | [3] DETERRENCE UNCERTAINTY [?] --   |
+  | permanently prevents          | comparative claims are EMPIRICALLY  |
+  | reoffending, THOUGH SECURE    | CONTESTED; the argument MUST STATE  |
+  | IMPRISONMENT ALSO             | the uncertainty                     |
+  | INCAPACITATES                 |                                     |
+  | [4] PUBLIC AFFIRMATION [!] -- | [4] UNEQUAL ADMINISTRATION [OK] --  |
+  | may EXPRESS the equal value of| unequal defence, bias and discretion|
+  | victims; an EXPRESSIVE        | UNDERMINE PROPORTIONALITY           |
+  | argument -- ASSESS IT AS ONE  | [5] FORECLOSURE OF REFORM [OK]      |
+  |                               | [6] CRUELTY AND DEATH-ROW PROCESS   |
+  |                               | [!] -- prolonged uncertainty can ADD|
+  |                               | SUFFERING BEYOND the formal sentence|
+  +-------------------------------+-------------------------------------+
+        |
+        v
+THE OWNED 2025 STEM: CAN THE RIGHT TO LIFE BE ABSOLUTE? -- FOUR MOVES IN ORDER
+  [1] THE RIGHT TO LIFE IS NOT TREATED AS ABSOLUTE *EVEN BY ITS DEFENDERS*:
+      SELF-DEFENCE and NECESSITY are accepted limits. A right can be
+      FUNDAMENTAL WITHOUT BEING EXCEPTIONLESS. [X] asserting absoluteness
+      chooses the WEAKEST premise and is refuted by one counter-example.
+      v
+  [2] SO THE QUESTION IS WHETHER *CUSTODIAL* KILLING MEETS THE SAME CONDITIONS
+      +---------------------------+---------------------------------------+
+      | IMMEDIATE DEFENCE         | EXECUTION                             |
+      | responds to a PRESENT     | FOLLOWS CUSTODY and ADJUDICATION      |
+      | UNJUST THREAT             |                                       |
+      | NO ALTERNATIVE available  | LESS FINAL MEANS of INCAPACITATION    |
+      | in time                   | ARE AVAILABLE                         |
+      | NECESSITY SATISFIED       | NECESSITY *NOT* SATISFIED             |
+      +---------------------------+---------------------------------------+
+      => LIMITS ON THE RIGHT TO LIFE IN DEFENCE DO *NOT* AUTOMATICALLY JUSTIFY
+         CAPITAL PUNISHMENT
+      v
+  [3] THEN DESERT and DETERRENCE, EACH ON ITS OWN QUESTION (Q1/Q2/Q3), NOT AS
+      A HEAP
+      v
+  [4] THEN FALLIBILITY, UNEQUAL ADMINISTRATION, FORECLOSURE OF REFORM -> AND
+      THE CONDITION-SPECIFYING VERDICT
+  +---------------------------------------------------------------------+
+  | THE STRONGEST ABOLITIONIST CONCLUSION IS *NOT* "ALL RIGHTS ARE       |
+  | ABSOLUTE" BUT: *DELIBERATE IRREVERSIBLE KILLING AFTER CONTROL IS     |
+  | ESTABLISHED FAILS NECESSITY UNDER CONDITIONS OF FALLIBILITY AND      |
+  | ALTERNATIVE PROTECTION.*                                             |
+  +---------------------------------------------------------------------+
+        |
+        v
+THE KANTIAN TENSION  KANTIAN RETRIBUTIVISM supports punishment ACCORDING TO
+  DESERT and famously treats MURDER as demanding DEATH -- YET the wider
+  KANTIAN COMMITMENT to PERSONS AS ENDS INTENSIFIES concern about PROCEDURAL
+  CERTAINTY and INSTRUMENTAL DETERRENCE.
+  [!] A KANTIAN ABOLITIONIST CANNOT SIMPLY CITE DIGNITY. The argument must
+  show WHY EQUAL RESPECT FORBIDS EXECUTION EVEN WHERE GUILT AND DESERT ARE
+  ESTABLISHED -> the available route is the IRREVERSIBILITY + FALLIBILITY +
+  UNEQUAL-ADMINISTRATION chain, which attacks the CONDITIONS OF
+  DESERT-TRACKING rather than desert itself.
+        |
+        v
+THE OWNED 2019 STEM: DOES IT WEAKEN SOCIAL JUSTICE? -- THREE VARIABLES
+  PROPORTIONALITY -> seriousness is NECESSARY but NOT SUFFICIENT; culpability,
+    mitigation, consistency and ALTERNATIVES matter
+  SOCIAL JUSTICE -> a penalty administered THROUGH UNEQUAL SOCIAL CONDITIONS
+    can MAGNIFY INJUSTICE even where its ABSTRACT RULE IS NEUTRAL (condition 7,
+    Panel 4)
+  DETERRENCE -> SEPARATE empirical EFFECTIVENESS from moral PERMISSIBILITY: an
+    EFFECTIVE deterrent may still VIOLATE RIGHTS; an INEFFECTIVE one LOSES its
+    utilitarian basis
+  + DUFF'S STANDING ARGUMENT (Panel 14) is the sharpest link available
+        |
+        v
+INDIAN LEGAL ILLUSTRATIONS -- CLASSIFY BEFORE USE
+  *BACHAN SINGH v. STATE OF PUNJAB* (1980) = SUPREME COURT *JUDGMENT*;
+    retained capital punishment while formulating the "RAREST OF RARE"
+    limitation.  [X] NOT LEGISLATION.
+  LAW COMMISSION OF INDIA, REPORT NO. 262, *THE DEATH PENALTY* (2015) =
+    OFFICIAL *ADVISORY REPORT*; recommended ABOLITION FOR ORDINARY CRIMES
+    while EXCLUDING specified TERRORISM-RELATED and WAR contexts from that
+    recommendation.  [X] IT RECOMMENDS; IT DOES NOT ENACT.
+  [!] THESE ILLUSTRATE INDIA'S LEGAL COMPROMISE. THEY DO NOT SETTLE THE MORAL
+  DEBATE OR ESTABLISH DETERRENT EFFECT.
+OBJECTION -> "necessity is the WRONG TEST: no punishment is 'necessary' once
+             the offender is in custody, so the argument would abolish
+             IMPRISONMENT too"
+REPLY ----> NECESSITY GOVERNS ONLY *PROTECTIVE* RATIONALES. Where the defence
+            is INCAPACITATION or PUBLIC SAFETY, necessity applies and SECURE
+            IMPRISONMENT satisfies it at LOWER COST. Where the defence is
+            DESERT ALONE, the argument shifts to the SECOND CHAIN --
+            FALLIBILITY, IRREVERSIBILITY, UNEQUAL ADMINISTRATION.
+RESIDUE --> a PURE DESERT RETENTIONIST who concedes non-necessity and claims
+            SUFFICIENT PROCESS RELIABILITY has been CONTRADICTED on a question
+            of INSTITUTIONAL FACT, not REFUTED. Philosophy FRAMES that debate;
+            it does not SETTLE it.
+
+
+ASCII MASTER FLOW — PANEL 22/22: The integrated answer spine, the evidence bank and the ledger
+DIRECTIVE DECODER -- THE VERB FIXES THE STRUCTURE
+ +--------------------+---------------------------+----------------------+
+ | DIRECTIVE          | COMPULSORY STRUCTURAL MOVE| FAILURE MODE         |
+ +--------------------+---------------------------+----------------------+
+ | EXPLAIN/ELUCIDATE  | statement -> premises ->  | MORALISING instead of|
+ |                    | key distinction -> example| EXPOUNDING           |
+ | DISCUSS            | theory -> rival ->        | LISTING the theory   |
+ |                    | objection -> reply ->     | catalogue with NO    |
+ |                    | verdict                   | ADJUDICATION         |
+ | CRITICALLY EXAMINE | TWO objections, each with | EMOTIVE denunciation |
+ | / EVALUATE         | REPLY and RESIDUAL PROBLEM| of crime or penalty  |
+ | IS X JUSTIFIED?    | Q1 aim -> Q2 liability -> | ONE answer offered to|
+ |                    | Q3 amount -> verdict      | THREE questions      |
+ | SHOULD X BE        | NAME THE TEST (desert,    | asserting a position |
+ | ABOLISHED/RETAINED?| deterrence, dignity,      | then listing both    |
+ |                    | fallibility, equality) -> | sides                |
+ |                    | apply -> verdict          |                      |
+ | IS X A FORM OF Y?  | define Y's NECESSARY      | ANALOGY ASSERTED     |
+ |                    | CONDITIONS -> test X ->   | WITHOUT A TEST       |
+ |                    | verdict INCLUDING partial |                      |
+ |                    | fit                       |                      |
+ | DO YOU AGREE THAT..| COMMITMENT is compulsory  | a SURVEY with NO     |
+ |                    | and must be QUALIFIED     | POSITION TAKEN       |
+ +--------------------+---------------------------+----------------------+
+        |
+        v
+THE THREE ANSWER METHODS
+  10 MARKS (~150 words, 4 moves, ~12 min) -> PRECISE CONCEPT in technical
+    vocabulary -> ARGUMENT as numbered premises + the ONE distinction the stem
+    turns on -> ONE EVIDENCE UNIT with its LIMITATION -> GRADED VERDICT
+    stating the CONTROLLING PRINCIPLE. [X] do NOT run the theory catalogue.
+  15 MARKS (~220 words, 6 moves, ~18 min) -> identify the PENAL PURPOSE or
+    INSTITUTIONAL WRONG at issue -> the relevant THEORY with its
+    PRESUPPOSITION -> the STRONGEST RIVAL on the SAME question -> ONE TABLE
+    (the three questions | retributive vs restorative | the five kinds |
+    expressive vs communicative) -> ONE fully worked OBJECTION -> REPLY ->
+    RESIDUAL PROBLEM -> VERDICT separating PHILOSOPHICAL VALIDITY from
+    IMPLEMENTATION and from EMPIRICAL EFFECT
+  20 MARKS (~300 words, 8 moves, ~25 min) -> state WHAT MAKES THE CASE
+    DIFFICULT (desert vs consequence vs dignity) -> SEPARATE Q1/Q2/Q3 -> the
+    competing theories in their STRONGEST form -> rights, dignity,
+    culpability, proportionality APPLIED -> TWO objection->reply chains, one
+    using FALLIBILITY, DIFFERENTIATED RESPONSIBILITY or STANDING -> the
+    CRITICAL QUALIFICATION (Foucault with its caveat, or Duff's standing) in
+    the CRITICAL paragraph -> ONE PRECISELY CLASSIFIED Indian legal
+    illustration -> GRADED VERDICT naming the CONDITIONS under which it holds
+        |
+        v
+SELECTABLE EVIDENCE BANK -- 1 UNIT AT 10 MARKS, 2 AT 15, 4-5 AT 20
+  C1  Kant: punishment for the CRIME, never merely as a MEANS | LIMIT: strong
+      at Q2/Q3, weak at Q1
+  C2  Hegel: crime ANNULS RIGHT; punishment ANNULS THE ANNULMENT | LIMIT:
+      abstract; supplies NO measure of severity
+  C3  Bentham; Beccaria: all punishment an EVIL; CERTAINTY and PROMPTNESS over
+      SEVERITY | LIMIT: unconstrained at Q2 and Q3
+  C4  The three-question grid | LIMIT: presupposes aim and application can
+      come apart
+  C5  Feinberg: PUNISHMENT CONDEMNS, PENALTIES DO NOT | LIMIT: hard treatment
+      then needs a separate justification
+  C6  Duff: COMMUNICATIVE SECULAR PENANCE; the STANDING condition | LIMIT: an
+      invitation backed by force
+  C7  Foucault: DISCIPLINE and PANOPTICISM | LIMIT: genealogy NOT
+      justification; functional claim CONTESTED; attach to NO actual practice
+  C8  Restorative justice: harm to PERSONS, REPAIR as response | LIMIT:
+      proportionality varies; POWER IMBALANCE
+  C9  Braithwaite: STIGMATISING shaming is CRIMINOGENIC | LIMIT: presupposes
+      valued inclusion and willing reacceptance
+  C10 ORDINAL vs CARDINAL proportionality | LIMIT: ordinal is easier to defend
+      than any cardinal anchor
+  C11 Arendt: EVIL CAN BE BANAL | LIMIT: psychology of PERPETRATION, NOT
+      degree of GUILT
+  C12 The five kinds of collective responsibility | LIMIT: political
+      responsibility is contested where citizens had no effective voice
+  C13 Lemkin 1944; Convention 1948 | LIMIT: the Convention is NARROWER and
+      OMITS POLITICAL GROUPS; name NO episode
+  C14 Corruption as betrayal of ENTRUSTED ROLE | LIMIT: the mass-violence
+      analogy is PARTIAL -- state the conditions, concede the disanalogy
+  C15 Indian penal illustrations, correctly classified | LIMIT: a judgment,
+      report or statute is a DATED LEGAL FACT and NEVER a philosophical proof
+  C16 Wrongdoing, culpability and defences are SEPARATE | LIMIT: philosophical
+      prerequisites, not a complete legal test
+  C17 COMPATIBILIST responsibility needs no causal exemption | LIMIT: the
+      threshold of ADEQUATE CONTROL is contestable
+  C18 The three justificatory logics | LIMIT: mixed theories must explain how
+      components COHERE
+  C19 RESTITUTION is not the whole of RESTORATION | LIMIT: serious public
+      wrongs still require authoritative condemnation
+        |
+        v
+GRADED VERDICT FORMULAS -- ADAPT, NEVER REPRODUCE MECHANICALLY
+  LAYERED -> desert fixes the LIMITS, condemnation the MEANING, communication
+    the ADDRESS, restoration the REPAIR; retribution vs reform is a FALSE
+    ALTERNATIVE
+  QUESTION-SEPARATING -> the institution is justified by PREVENTION; its
+    application is constrained by DESERT; the dilemma DISSOLVES
+  FALLIBILITY -> even granting desert, an IRREVOCABLE penalty administered by
+    a FALLIBLE and UNEQUALLY APPLIED process cannot satisfy the very principle
+    of PROPORTIONATE DESERT offered to justify it
+  STANDING -> legitimacy is CONDITIONAL on the JUSTICE OF THE ORDER that
+    imposes it
+  CONDITIONAL-APPROPRIATENESS -> restorative process is justified where
+    participation is VOLUNTARY, safety SECURED and NO ENTRENCHED DOMINATION is
+    present
+  DIFFERENTIATED-RESPONSIBILITY -> leaders, planners, perpetrators, enablers,
+    bystanders and resisters DO NOT BEAR IDENTICAL RESPONSIBILITY; GUILT
+    REMAINS INDIVIDUAL
+  CRITICAL-QUALIFICATION -> reformative language is NOT SELF-VALIDATING; a
+    regime can INTENSIFY CONTROL while calling itself REHABILITATIVE, so
+    ASSESS AIMS BY TECHNIQUES
+        |
+        v
+THE SEVENTEEN TRAPS -- ONE LINE EACH
+  [1] every moral wrong is NOT a legal crime
+  [2] RETRIBUTION IS NOT REVENGE -- public, proportionate, impartial desert
+  [3] never say deterrence is "PROVED" or "DISPROVED" without evidence
+  [4] REFORM IS NOT LENIENCY -- it keeps responsibility and proportionate
+      restraint
+  [5] NOT EVERY MASSACRE IS GENOCIDE -- specific destructive intent is
+      decisive
+  [6] NO COLLECTIVE GUILT FROM GROUP MEMBERSHIP
+  [7] corruption is NOT only bad character NOR only bad structure
+  [8] the 2015 LAW COMMISSION REPORT IS ADVISORY, NOT ENACTED LAW
+  [9] *BACHAN SINGH* IS A 1980 JUDGMENT, NOT LEGISLATION
+  [10] "the right to life has limits" DOES NOT ENTAIL capital punishment --
+       NECESSITY and the CUSTODY DISTINCTION remain
+  [11] DO NOT PUNISH THOUGHT ALONE -- act/omission, fault, causation, notice
+  [12] JUSTIFICATION defends the ACT; EXCUSE concedes wrong and reduces BLAME
+  [13] RESPONSIBILITY IS NOT CAUSAL CONTRIBUTION ALONE
+  [14] determinism is NOT automatic acquittal; metaphysical freedom is NOT a
+       courtroom fact
+  [15] RESTITUTION (an outcome) != RESTORATIVE JUSTICE (a process)
+  [16] DENUNCIATION ALONE DOES NOT JUSTIFY HARD TREATMENT
+  [17] DO NOT IMPORT GANDHI OR RAWLS into penal theory without a stem-specific
+       reason
+        |
+        v
+PYQ LEDGER 2018-2025 -- 12 OF 112 OWNED PARTS
+  2018 Q1(e) 10 -> measures to ERADICATE CORRUPTION in Indian democracy
+  2019 Q1(d) 10 -> is CORRUPTION NOT A FORM OF MASS VIOLENCE?
+  2019 Q4(c) 15 -> does CAPITAL PUNISHMENT WEAKEN SOCIAL JUSTICE?
+  2020 Q3(c) 15 -> is RETRIBUTIVE THEORY AGAINST HUMAN RIGHTS?
+  2020 Q4(c) 15 -> how far do REGIMES CONDITION CORRUPT PRACTICES?
+  2021 Q2(b) 15 -> REFORMATIVE THEORY and HUMAN DIGNITY
+  2022 Q1(c) 10 -> is CORRUPTION SYSTEMIC OR ETHICAL?
+  2022 Q1(e) 10 -> MORAL JUSTIFICATIONS of CAPITAL PUNISHMENT
+  2023 Q4(a) 20 -> SEVERITY PROPORTIONATE TO SERIOUSNESS; the JUVENILE case
+  2024 Q3(b) 15 -> CAPITAL PUNISHMENT as an EFFECTIVE DETERRENT
+  2025 Q1(a) 10 -> PARTICULARISTIC vs UNIVERSALISTIC standards in corruption
+  2025 Q3(a) 20 -> can the RIGHT TO LIFE be ABSOLUTE? (capital punishment)
+  DISTRIBUTION -> CORRUPTION 5 | CAPITAL PUNISHMENT 4 | THEORY 2 |
+  PROPORTIONALITY 1 | GENOCIDE 0 AND STILL A FULL SYLLABUS OBLIGATION

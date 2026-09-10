@@ -1,133 +1,1504 @@
-ASCII MASTER FLOW — PANEL 1/10: Kantian dualisms and Hegel's immanent starting project
-START: Kant secures objective experience but retains fixed residual oppositions.
-APPEARANCES = knowable objects; NEGATIVE NOUMENON = limit, not hidden known object.
-KANT separates conditions of appearance from things considered in themselves.
-THOUGHT versus BEING; FREEDOM versus NATURE remain externally divided.
-HEGEL -> a determinately known limit is relational; this alone does not prove totality.
-IMMANENT CRITIQUE -> test a category or form of life by its own criterion.
-FINITE CATEGORY -> its claim to self-sufficiency discloses dependence on its other.
-ABSTRACT/UNDERSTANDING -> NEGATIVE/DIALECTICAL -> SPECULATIVE/POSITIVE moment
-IDENTITY-IN-DIFFERENCE -> reconciliation preserves determinate distinctions.
-ABSOLUTE -> self-developing rational whole/subject, not a static supernatural thing.
-ANSWER LINE -> Hegel transforms Kantian limits into internally mediated relations.
+ASCII MASTER FLOW — PANEL 1/55: Central claim, the two printed limbs and the one-line answer
+==============================================================================
+CENTRAL CLAIM: A FINITE DETERMINATION, TAKEN AS COMPLETE IN ITSELF,
+DESTROYS ITSELF BY ITS OWN CLAIM - AND THE PRECISE SHAPE OF THAT
+FAILURE DICTATES WHAT MUST COME NEXT.
+        |
+   +----------------------------+----------------------------+
+   | LIMB 1  DIALECTICAL METHOD | LIMB 2  ABSOLUTE IDEALISM  |
+   | the MECHANISM              | the RESULT                 |
+   +----------------------------+----------------------------+
+   | 1 ABSTRACT IMMEDIACY       | thought, nature and finite |
+   |   (Unmittelbarkeit)        | spirit are intelligible    |
+   | 2 IMMANENT EXAMINATION     | ONLY within a SELF-        |
+   | 3 DETERMINATE NEGATION     | DEVELOPING RATIONAL WHOLE  |
+   |   (bestimmte Negation)     |                            |
+   | 4 SUBLATION (Aufhebung)    | nature and finite minds    |
+   |   CANCEL + PRESERVE + RAISE| are REAL but NOT SELF-     |
+   |                            | SUFFICIENT = MOMENTS       |
+   | MEDIATION (Vermittlung):   |                            |
+   | a term is fully itself     | "not only as SUBSTANCE but |
+   | THROUGH what it excluded   |  equally as SUBJECT"       |
+   |                            |  (Phenomenology, Pref. P17)|
+   | NEGATION OF THE NEGATION = |                            |
+   | a NEW IMMEDIACY containing | "The True is the Whole"    |
+   | the route                  |  (Preface P20)             |
+   +----------------------------+----------------------------+
+        |
+        v
+THEY ARE ONE CLAIM, NOT TWO TOPICS
+   The method is not applied TO the Absolute from outside; the
+   Absolute IS the completed movement of the method.
+        |
+        v
+ANSWER LINE (first sentence of 2021 Q2(a) and 2022 Q3(b)):
+   "Hegel's Absolute is not a thing behind the world but the world
+    grasped as a self-developing rational whole - which is why the
+    method and the result cannot be separated."
 
-ASCII MASTER FLOW — PANEL 2/10: Determinate negation, sublation and the opening logical movement
-DIALECTIC -> immanent self-movement through an internally generated tension.
-CONTRADICTION -> opposed determinations within a claim, not licence for formal chaos.
-DETERMINATE NEGATION -> negation of THIS content yields a SPECIFIC successor.
-SUBLATION / AUFHEBUNG -> CANCEL one-sidedness + PRESERVE content + ELEVATE.
-NEGATION OF NEGATION -> mediated recovery, not return to untouched immediacy.
-PURE BEING -> no determination; therefore indistinguishable from PURE NOTHING.
-BEING <-> NOTHING -> their truth is the passing-over named BECOMING.
-BECOMING -> first richer determination; Being and Nothing survive as moments.
-TRANSITION IS LOGICAL -> no temporal sequence and no magic formula.
-T-A-S -> loose teaching shorthand, not Hegel's standard fixed algorithm.
-TEST -> every progression must be justified from the prior term's precise failure.
+ASCII MASTER FLOW — PANEL 2/55: Syllabus verbatim, owner scope and the boundary firewall
+==============================================================================
+SYLLABUS (verbatim, Paper I, Section A, item 5):
+   "Hegel : Dialectical Method; Absolute Idealism."
+        |
+        v
+OWNS (marks-essential)
+   dialectical method as IMMANENT DEVELOPMENT | abstract immediacy |
+   determinate negation | mediation | contradiction | sublation |
+   BEING-NOTHING-BECOMING | concrete universal | identity-in-
+   difference | the Concept: universality / particularity /
+   individuality | ABSOLUTE IDEALISM | substance-as-subject |
+   actuality (Wirklichkeit) vs determinate existence (Dasein) |
+   Logic - Nature - Spirit | bad infinite vs true infinite | the
+   THREE PRONGS against Kant's thing in itself | the MEDIATED
+   REALITY OF THE PHENOMENAL WORLD | dialectic in history and the
+   consciousness of freedom | Hegel against Berkeley
+        |
+        v
+BOUNDED ORIENTATION (only to the depth a routed PYQ requires)
+   lordship-bondage (Ch. IV A) | Stoicism-Scepticism-Unhappy
+   Consciousness (Ch. IV B) | objective Spirit: abstract right ->
+   morality -> ethical life = family / civil society / state |
+   art, religion and philosophy as the SAME CONTENT in sensuous,
+   representational and conceptual form | the Logic-to-Nature seam
+        |
+        v
+NOT OWNED HERE (cross-owned; one bounded comparison at most)
+   Kant's positive critical system ................ TOPIC 04
+   Berkeley's own immaterialism ................... TOPIC 03
+   Kierkegaard's existentialism ................... TOPIC 10
+   Moore and Russell's own philosophies ........... TOPIC 06
+   Strawson's descriptive metaphysics ............. TOPIC 11
+   Marxist historical materialism as doctrine ..... PAPER II
+   detailed Philosophy of Right, full philosophy of nature, complete
+   philosophies of art and religion ............... OPTIONAL
+        |
+        v
+FIREWALL SENTENCE: a script that turns a dialectical-method question
+   into a survey of the Philosophy of Right, or into Marxism, has
 
-ASCII MASTER FLOW — PANEL 3/10: Concrete universal, finite reality and nested system architecture
-ABSTRACT UNIVERSAL -> gains unity by omitting difference; Hegel calls it one-sided.
-CONCEPT -> UNIVERSALITY particularises itself and is concrete in INDIVIDUALITY.
-IDENTITY-IN-DIFFERENCE -> unity preserves determinate difference.
-TRUE INFINITE -> includes finite self-limitation/return; not endless beyond.
-FINITE ENTITIES/CATEGORIES -> real as moments, partial when treated in isolation.
-INTERNAL RELATIONS -> a moment's identity depends on mediated relations to others.
-'THE TRUE IS THE WHOLE' -> whole is RESULT of development, not ready-made totality.
-LOGIC -> Idea in-itself; Being -> Essence -> Concept.
-NATURE -> Idea in otherness; space, time, matter, life; not created later in time.
-SPIRIT -> Idea returned-to-itself through rational self-conscious life.
-SUBJECTIVE SPIRIT -> mind; OBJECTIVE SPIRIT -> right, morality, ethical life, history
-ABSOLUTE SPIRIT -> art -> religion -> philosophy as conceptual comprehension.
-ANSWER LINE -> the whole preserves finite difference while making it intelligible.
+ASCII MASTER FLOW — PANEL 3/55: Syllabus verbatim, owner scope and the boundary firewall (continued)
+==============================================================================
+   answered a question the paper did not ask.
 
-ASCII MASTER FLOW — PANEL 4/10: Recognition and the lordship-bondage dependence reversal
-SELF-CONSCIOUSNESS -> requires recognition from another self-consciousness.
-ENCOUNTER -> each seeks certainty of itself through the other's acknowledgement.
-STRUGGLE -> one becomes LORD; the other becomes BONDMAN through fear of death.
-LORD'S FAILURE -> recognition from a devalued unfree other is worthless.
-LORD'S DEPENDENCE -> enjoyment relies on the bondsman's labour and mediation.
-BONDMAN'S FEAR -> disrupts attachment to immediate natural desire.
-SERVICE -> disciplines desire; LABOUR shapes an enduring independent object.
-BILDUNG -> the bondsman sees his own form in the worked world and forms himself.
-REVERSAL -> apparent independence is dependent; servitude becomes formative.
-LIMIT -> unequal recognition is conceptually unstable, not historically brief.
-ROLE -> bounded illustration; later Marxist/feminist/colonial uses are transformations.
+ASCII MASTER FLOW — PANEL 4/55: Origin and chronology - the minimum needed to avoid anachronism
+==============================================================================
+1770      born STUTTGART; father a minor financial official of the
+          Duchy of Wurttemberg
+1788-93   theology seminary (STIFT) at TUBINGEN, with SCHELLING and
+          the poet HOLDERLIN
+1793-99   private tutor at Bern, then Frankfurt; early essays on
+          morality, culture and religion - NOT yet the system
+1801      JENA, with Schelling's help; the DIFFERENCE essay - source
+          of the phrase usually rendered "identity of identity and
+          non-identity/difference"
+          CAUTION: rendering varies; paraphrase as identity-in-
+          difference unless an edition is named
+1805      appointed professor at Jena
+1807      PHENOMENOLOGY OF SPIRIT - planned as a short introduction;
+          completed 13 OCTOBER 1807, the day Napoleon's armies
+          captured Jena
+            Preface P17  "not only as Substance, but equally as
+                         Subject"
+            Preface P20  "The True is the Whole"
+            Ch. IV A     LORDSHIP AND BONDAGE
+            Ch. IV B     STOICISM / SCEPTICISM / UNHAPPY
+                         CONSCIOUSNESS
+1807-08   newspaper editor at Bamberg
+1808-16   headmaster and philosophy teacher, Gymnasium at NURNBERG
+1812-16   SCIENCE OF LOGIC, two volumes - BEING / NOTHING / BECOMING,
+          determinate negation, mediation, contradiction, the
+          Concept, the Absolute Idea
+1816      chair at HEIDELBERG
+1817      ENCYCLOPAEDIA, first version (also 1827, 1830)
+            S244  the Absolute Idea "freely releases itself"
+            S247  Nature as "the Idea in the form of otherness"
+            S250  the IMPOTENCE OF NATURE
+            S209  the cunning of reason
+1818      the Berlin chair; remains until death
+1820/21   PHILOSOPHY OF RIGHT
+            Preface  "What is rational is actual, and what is actual
+                     is rational"
+            Preface  "the owl of Minerva spreads its wings only with
+                     the falling of the dusk"
 
-ASCII MASTER FLOW — PANEL 5/10: Phenomenological ladder from consciousness to reason and Spirit
-GESTALT / SHAPE -> a criterion of knowing plus the object it claims to know.
-EXPERIENCE -> the object fails the shape's own criterion; both standard and object shift.
-CONSCIOUSNESS -> treats the object as independent; immediacy proves unstable.
-SELF-CONSCIOUSNESS -> discovers that another self and recognition are necessary.
-LORDSHIP-BONDAGE -> unequal recognition fails and freedom withdraws into thought.
-STOICISM -> abstract inner freedom; empty because indifferent to determinate content.
-SCEPTICISM -> dissolves content but lives as a determinate self: performative conflict.
-UNHAPPY CONSCIOUSNESS -> knows the split between changeable self and beyond.
-DEVOTION -> WORK -> MEDIATOR -> self-renunciation reverses into universality.
-REASON -> finds itself in reality; SPIRIT -> shared historical and social life.
-RULE -> transitions are logical immanent failures, not a literal world chronology.
+ASCII MASTER FLOW — PANEL 5/55: Origin and chronology - the minimum needed to avoid anachronism (continued)
+==============================================================================
+            abstract right -> morality -> ethical life
+1831      dies in Berlin
 
-ASCII MASTER FLOW — PANEL 6/10: Absolute Idealism, substance-as-subject and actuality
-ABSOLUTE IDEALISM -> reality intelligible as one internally related developing whole.
-ABSOLUTE AS RESULT -> whole becomes what it is through differentiation and return.
-SUBSTANCE ALSO AS SUBJECT -> unity is active, self-differentiating and self-knowing.
-THOUGHT AND BEING -> identity through mediation, not undifferentiated sameness.
-NATURE + FINITE MINDS -> real moments of the Absolute, not unreal illusions.
-PHENOMENAL WORLD -> mediated manifestation: real as moment, not ultimate alone.
-MERE EXISTENCE / DASEIN -> a fact may fail its concept or norm.
-ACTUALITY / WIRKLICHKEIT -> effective unity of concept and existence.
-'ACTUAL IS RATIONAL' -> NOT 'whatever exists or every injustice is justified.'
-INSTITUTIONAL TEST -> does the form concretely realise freedom?
-RESIDUAL -> reconciliation can still slide into retrospective conservatism.
+ASCII MASTER FLOW — PANEL 6/55: Posthumous evidence and the afterlife that supplies the objections
+==============================================================================
+POSTHUMOUS, AND EVIDENTIALLY WEAKER
+1837      LECTURES ON THE PHILOSOPHY OF HISTORY, edited by GANS;
+          second edition by KARL HEGEL 1840. STUDENT TRANSCRIPTS
+          edited after Hegel's death.
+          "World history is the progress of the consciousness of
+           freedom" and the CUNNING OF REASON belong HERE.
+          RULE: say "in the lectures on the philosophy of history";
+          never "Hegel wrote".
+1837      CHALYBAUS popularises THESIS-ANTITHESIS-SYNTHESIS. A
+          nineteenth-century teaching device running through FICHTE.
+          NOT Hegel's general schema. NOT printed in any routed PYQ.
+also      Lectures on aesthetics and on the philosophy of religion -
+          same posthumous, student-mediated footing
+        |
+        v
+THE AFTERLIFE THAT SUPPLIES THE OBJECTIONS
+1839      FEUERBACH, Towards a Critique of Hegelian Philosophy - the
+          release of the Idea is creation ex nihilo renamed
+1840      TRENDELENBURG, Logische Untersuchungen - movement smuggled
+          into static categories
+1841-2    SCHELLING's Berlin lectures, audience including
+          KIERKEGAARD and ENGELS - a rational system is "NEGATIVE
+          PHILOSOPHY"; it gives WHAT must be, never THAT anything is
+1846      KIERKEGAARD, Concluding Unscientific Postscript - the
+          existing individual cannot be a moment of a system
+1867-     MARX keeps the dialectic and relocates development in
+          material social relations
+1903-     MOORE and RUSSELL revolt against idealist holism; the
+          immediate target is often the BRITISH neo-Hegelian BRADLEY
+1945      RUSSELL, History of Western Philosophy - broadly hostile
+1945      POPPER, The Open Society and Its Enemies vol. 2 -
+          historicism rationalises outcomes retrospectively
+        |
+        v
+CITATION RULE: Encyclopaedia by S (edition-invariant) | Phenomenology
+   by P or chapter | Science of Logic by division | Philosophy of
+   Right by its Preface | history material AS LECTURES
 
-ASCII MASTER FLOW — PANEL 7/10: Kant-Hegel comparison: noumenal limit and immanent reason
-KANT -> forms/categories secure phenomena; thing-in-itself limits theoretical knowledge.
-HEGEL PRONG 1 -> a determinately known boundary relates what it distinguishes.
-HEGEL PRONG 2 -> 'thing-in-itself' uses being, negation and determinacy.
-HEGEL PRONG 3 -> noumenal affection applies relation/causality beyond experience.
-RESULT -> fixed subject/object dualism is unstable and must be internally mediated.
-KANT'S REPLY -> negative noumenon restricts categories without describing a beyond.
-HEGEL'S REJOINDER -> externally imposed limits remain dogmatic unless self-generated.
-KANT -> critical restraint; HEGEL -> reason develops its own criteria and limits.
-KANT -> phenomenal objectivity; HEGEL -> identity-in-difference of thought and being.
-VERDICT -> strongest against reified two-world/affection readings; totality unproved.
-ANSWER RULE -> present both systems accurately before ruling.
+ASCII MASTER FLOW — PANEL 7/55: Kant's residual oppositions and why the criticism must be immanent
+==============================================================================
+WHAT HEGEL KEEPS FROM KANT
+   thought is CONSTITUTIVE, not a passive mirror; the categories are
+   the structure of intelligibility
+        |
+        v
+WHAT KANT LEFT STANDING - THE FOUR FIXED OPPOSITIONS
+   1  SENSIBILITY vs UNDERSTANDING - two stems externally joined
+   2  APPEARANCE vs THING IN ITSELF - a permanent unknowable
+      remainder
+   3  FINITE vs UNCONDITIONED - reason may regulate, never
+      constitute
+   4  IS vs OUGHT - the moral law confronts an unreformed world
+        |
+        v
+WHY THE CRITICISM MUST BE IMMANENT
+   After Kant NO EXTERNAL STANDARD is available - that was Kant's own
+   point against dogmatism. The only permissible test is whether the
+   position can be stated CONSISTENTLY ON ITS OWN TERMS.
+   -> Hegel does NOT say "the thing in itself is unknowable and I know
+      it". He says: YOU specified a DETERMINATE limit; specifying it
+      is an act of thought; an act of thought that determinately
+      EXCLUDES something has ALREADY RELATED to it.
+   -> THE PREMISE IS KANT'S, NOT HEGEL'S.
+        |
+        v
+THE SAME DISCIPLINE RUNS THROUGH THE WHOLE SYSTEM
+   PHENOMENOLOGY  a shape of consciousness is destroyed by ITS OWN
+                  criterion; the philosopher only WATCHES
+   LOGIC          a category collapses because of what IT claims
+   HISTORY        an institution is broken by the norm IT proclaims
+   -> this is why a METHOD and a RESULT can be the same thing
+        |
+        v
+ANSWER LINE: the fence is drawn from inside the field - and drawing
+   it is already an act of the thought it was meant to fence off.
 
-ASCII MASTER FLOW — PANEL 8/10: Logic-Nature seam: free release, contingency and objections
-LOGIC -> Being -> Essence -> Concept -> Absolute Idea under claimed necessity.
-QUESTION -> how can pure categories be followed by existing contingent nature?
-'FREE RELEASE' -> Absolute Idea relates to itself as externality.
-NATURE -> Idea in otherness; NOT later in time, NOT caused by a thinking agent.
-IMPOTENCE OF NATURE -> externality cannot perfectly hold the Concept.
-CONSEQUENCE -> contingency and imprecision; no deduction of every natural fact.
-SCHELLING -> logic gives what existence must be, not THAT anything exists.
-TRENDELENBURG -> movement is smuggled into static categories.
-FEUERBACH -> disguised creation theology; ANALYTIC -> personification, no proof.
-REPLY -> conceptual instability is non-spatial and non-temporal self-undermining.
-VERDICT -> coherent within the system, but not strictly demonstrative to every critic.
+ASCII MASTER FLOW — PANEL 8/55: The dialectical method - the four steps, stated exactly
+==============================================================================
+STEP 1  ABSTRACT IMMEDIACY (Unmittelbarkeit)
+   a determination is taken as self-standing, needing nothing else
+   IMMEDIATE = unmediated | ABSTRACT = drawn away from relations
+   NOTE: immediacy is a CLAIM ABOUT STANDING, not a kind of object.
+   "pure being", "the isolated individual", "the lord's independence",
+   "the Stoic's inner freedom" are all immediacies in this sense.
+        |
+        v
+STEP 2  IMMANENT EXAMINATION
+   hold the determination to ITS OWN claim; a SPECIFIC insufficiency
+   or self-opposition appears - GENERATED by the claim, not imported
+        |
+        v
+STEP 3  DETERMINATE NEGATION (bestimmte Negation)
+   negation OF THIS CONTENT -> the successor must answer THE PRECISE
+   DEFECT disclosed
+   CONTRAST: an INDETERMINATE negation of X yields only "not-X", i.e.
+   everything else in the universe -> the sequence would be arbitrary
+   and the method worthless
+   TEST YOU CAN APPLY TO YOUR OWN SCRIPT: can you say WHY the
+   successor had to be THAT one? If not, you have written a triad.
+        |
+        v
+STEP 4  SUBLATION (Aufhebung) - all three senses TOGETHER
+   CANCEL   the claim to isolated sufficiency is negated
+   PRESERVE the valid determinate content is retained
+   RAISE    the content is reorganised in a richer mediated unity
+   DROP "cancel"   -> nothing has been criticised
+   DROP "raise"    -> two positions merely draw
+   DROP "preserve" -> refutation-and-collapse; the cumulative history
+                      of philosophy is destroyed
+        |
+        v
+STANDING WARNING: not every passage has a visible three-beat form,
+   and the transition must be DEMONSTRATED in each case. Naming
+   "contradiction" or drawing a triangle is not yet an argument.
 
-ASCII MASTER FLOW — PANEL 9/10: Objective Spirit, institutional freedom and historical development
-FREEDOM -> being at home with oneself in an other, not arbitrary absence of limits.
-SUBJECTIVE WILL -> choice remains abstract without recognition and stable norms.
-ABSTRACT RIGHT -> persons and property; MORALITY -> intention and conscience
-ETHICAL LIFE -> family, civil society and constitutional institutions.
-OBJECTIVE SPIRIT -> freedom becomes durable, public and mutually recognisable.
-HISTORY -> posthumous lecture schema: freedom belongs in principle to all.
-ONE FREE -> SOME FREE -> ALL FREE IN PRINCIPLE is Hegel's broad sequence.
-INTERNAL CONTRADICTION -> a society fails its own norm, such as freedom with slavery.
-CUNNING OF REASON -> passions produce outcomes beyond agents' intentions.
-CRITIQUE -> Eurocentric hierarchy, retrospective teleology, conservatism/exclusion.
-DEFENSIBLE RESIDUE -> institutions can be criticised by their own norm of freedom.
+ASCII MASTER FLOW — PANEL 9/55: Contradiction, mediation, negation of the negation, and the T-A-S provenance
+==============================================================================
+CONTRADICTION (Widerspruch) - THE MARKS-SAFE FORMULATION
+   the SELF-OPPOSITION of a FINITE determination ABSOLUTISED beyond
+   its proper limits
+   NOT the assertion of P and not-P in the SAME RESPECT
+   NOT a licence to infer anything from inconsistency (ex falso
+   quodlibet)
+   OBJECTION (formal logicians): if contradiction is permitted,
+      anything follows and the system collapses
+   REPLY: Hegel's contradiction is a TENSION OF OPPOSED DETERMINATIONS
+      within a concept that demands resolution - dialectical, not
+      truth-functional
+   RESIDUAL: whether that reply is finally coherent remains DEBATED
+   CONTESTED: whether Hegel ALSO commits himself to genuine
+      ONTOLOGICAL contradiction
+        |
+        v
+MEDIATION (Vermittlung)
+   a term becomes intelligible and fully ITSELF through its relation
+   to what it initially EXCLUDES
+   mediated identity is NOT dependence on an external referee; the
+   relation is INTERNAL to the term's own determinacy
+        |
+        v
+NEGATION OF THE NEGATION
+   does NOT restore the untouched starting point
+   produces a NEW IMMEDIACY that CONTAINS the path through difference
+   -> the lord's "independence" and the bondsman's recovered agency
+      are this structure in a social register
+        |
+        v
+PROVENANCE, DISCHARGED IN ONE LINE
+   "THESIS - ANTITHESIS - SYNTHESIS" is NOT Hegel's general schema.
+   Commonly traced through FICHTE; popularised by HEINRICH MORITZ
+   CHALYBAUS (1837). Hegel's operative vocabulary is MOMENT,
+   DETERMINATE NEGATION and SUBLATION.
+   The verified 2018-2025 papers ask for "the dialectical method" and
+   NOT ONE of them prints the formula.
+   IF USED AS SHORTHAND: flag the provenance and IMMEDIATELY
 
-ASCII MASTER FLOW — PANEL 10/10: Comparison, criticism-reply map and complete answer spine
-SUBJECTIVE IDEALISM -> finite mind/ideas; OBJECTIVE -> mind-independent ideal order.
-ABSOLUTE IDEALISM -> finite subject and object are moments of one developing whole.
-KIERKEGAARD -> system loses existing individual; reply: finite is preserved as moment.
-MARX -> transforms method and ground; later materialism is not Hegel's doctrine.
-ANALYTIC REVOLT -> often targets British neo-Hegelianism; transitions remain disputed.
-REPLY -> determinate negation demands a specific successor, not arbitrary synthesis.
-POLITICAL OBJECTION -> actuality excuses power; reply: Wirklichkeit != mere existence.
-STRENGTH -> immanent critique, mediation, recognition and internal relations.
-TENSION -> retrospective coherence may fall short of demonstrative necessity.
-PYQS -> 2019 truth; 2020 phenomenal world; 2021/22 method-Absolute; 2023 history;
-PYQ -> 2025 Kant challenge; practice -> 36 MCQs + solved 10/15/20-mark originals.
-OWNER -> method/Absolute; politics, art/religion and later schools stay bounded.
-ANSWER SPINE -> thesis -> terms -> transition -> example -> objection/reply -> verdict.
+ASCII MASTER FLOW — PANEL 10/55: Contradiction, mediation, negation of the negation, and the T-A-S provenance (continued)
+==============================================================================
+   reconstruct the immanent transition.
+
+ASCII MASTER FLOW — PANEL 11/55: Three registers, one method - and the rule that keeps them apart
+==============================================================================
++---------------+---------------------------+--------------------+
+| REGISTER      | WHAT DEVELOPS             | SAFE USE           |
++---------------+---------------------------+--------------------+
+| LOGICAL       | categories, through       | the PRIMARY        |
+| Science of    | internal conceptual       | explanation of the |
+| Logic         | insufficiency             | dialectical method |
++---------------+---------------------------+--------------------+
+| PHENOMENO-    | a shape of consciousness  | ONE concrete       |
+| LOGICAL       | (Gestalt), through        | illustration -     |
+| Phenomenology | failure by its OWN        | NEVER a universal  |
+| of Spirit     | criterion                 | template           |
++---------------+---------------------------+--------------------+
+| HISTORICAL /  | practices and             | REQUIRED for 2023  |
+| SOCIAL        | institutions, through     | Q1(b), with the    |
+| history       | tensions in embodied      | teleology and      |
+| lectures;     | freedom                   | EUROCENTRISM       |
+| Phil. Right   |                           | cautions           |
++---------------+---------------------------+--------------------+
+        |
+        v
+THE COMMONEST STRUCTURAL ERROR IN A HEGEL SCRIPT
+   explaining the METHOD through the MASTER-SLAVE story alone
+   -> this converts a LOGICAL doctrine into an ANECDOTE
+   -> the Logic is primary; the Phenomenology supplies illustration
+        |
+        v
+THE PHENOMENOLOGY IS NOT THE SPIRIT DIVISION
+   The Phenomenology of Spirit is a DISTINCT ITINERARY through shapes
+   of consciousness toward the standpoint of philosophical science.
+   Within the ENCYCLOPAEDIA, Spirit is oriented as
+   SUBJECTIVE -> OBJECTIVE -> ABSOLUTE.
+   Reference works record that what had been planned as a short
+   introduction "took on a life of its own", and that there is
+   controversy to this day about its overall unity.
+        |
+        v
+AND: each domain develops IMMANENTLY, but NOT by mechanically
+   repeating ONE IDENTICAL TRIAD. Concede that the three-beat shape
+
+ASCII MASTER FLOW — PANEL 12/55: Three registers, one method - and the rule that keeps them apart (continued)
+==============================================================================
+   is not universal; insist that IMMANENT GENERATION is.
+
+ASCII MASTER FLOW — PANEL 13/55: The worked case - Being, Nothing and Becoming
+==============================================================================
+WHY THE LOGIC MUST BEGIN WITH NOTHING ASSUMED
+   the system claims to be PRESUPPOSITIONLESS: it may not borrow a
+   criterion, a method or a content from outside itself
+   -> a beginning with ANY determinate content would import exactly
+      such a presupposition
+   -> hence PURE BEING: the thought of "is" with everything else
+      stripped away. The choice is FORCED, not arbitrary.
+        |
+        v
++----------------------------+----------------------------+
+| PURE BEING (Sein)          | PURE NOTHING (Nichts)      |
+| "pure being, without       | pure absence of ALL        |
+|  further determination"    | determination              |
+| - no quality               | - no quality               |
+| - no quantity              | - no quantity              |
+| - no relation              | - no relation              |
+| - nothing to point at      | - nothing to point at      |
++----------------------------+----------------------------+
+        |
+   AT THIS OPENING LEVEL THEY ARE INDISTINGUISHABLE
+   any mark that would separate them IS a determination, and
+   determination is precisely what has been excluded
+        |
+   YET THEY WERE NOT MEANT AS THE SAME THOUGHT
+        |
+        v
+BECOMING (Werden)
+   COMING-TO-BE   nothing --> being
+   CEASING-TO-BE  being   --> nothing
+   the TRUTH of their inseparability
+   Being and Nothing SURVIVE as MOMENTS - cancelled as independent,
+   preserved as constituents, raised into a determination WITH
+   CONTENT = THE FIRST CONCRETE CATEGORY
+        |
+        v
+FORWARD: Becoming -> DASEIN (determinate being) -> the divisions of
+   the Logic: BEING -> ESSENCE -> CONCEPT
+CROSS-LINK THAT SAVES MARKS: DASEIN is an EARLY logical category and
+
+ASCII MASTER FLOW — PANEL 14/55: The worked case - Being, Nothing and Becoming (continued)
+==============================================================================
+   is NOT Wirklichkeit - which is why "the rational is actual" cannot
+   mean "whatever exists is right".
+
+ASCII MASTER FLOW — PANEL 15/55: Four misreadings of the first triad, blocked - and the honest limit
+==============================================================================
+X  "Nothing is a kind of Being."
+   -> NO. Both are equally indeterminate; neither is a species of
+      the other.
+X  "First there was Being, then Nothing appeared, then Becoming."
+   -> NO. The sequence is LOGICAL, not temporal. There is no before.
+      This is not Genesis.
+X  "Becoming is a compromise between the two."
+   -> NO. It is the TRUTH of their inseparability, and it has genuine
+      content of its own.
+X  "This proves the whole system."
+   -> NO. It EXHIBITS the method.
+        |
+        v
+THE HONEST LIMIT THAT STRONG ANSWERS STATE
+   CONTESTED: critics may deny that INDISTINGUISHABILITY establishes
+   TRANSITION. From "these two thoughts cannot be told apart" it does
+   not obviously follow that either PASSES INTO the other; one might
+   instead conclude that the starting point was ill-formed.
+   HEGEL'S REPLY: the vanishing of each into the other IS what we
+   were trying to think, and BECOMING names it.
+   CORRECT EXAM FORMULATION: the triad ILLUSTRATES Hegel's method
+   WITHOUT PROVING every later transition. Each later transition
+   carries its own burden of demonstration.
+   -> saying this protects you from the TRENDELENBURG objection
+      landing unanswered
+        |
+        v
+WHY THE PASSAGE IS WORTH USING
+   It is the ONLY example where the method can be shown with a
+   starting point that assumes NOTHING. Use it whenever a question
+   says "explain the dialectical method": ONE WORKED CASE BEATS THREE
+   DEFINITIONS.
+        |
+        v
+ANSWER LINE: two blanks that cannot be told apart, and one movement
+   that is the difference between them.
+
+ASCII MASTER FLOW — PANEL 16/55: Abstract versus concrete universal, and the whole quotation
+==============================================================================
+THE ABSTRACT UNIVERSAL - UNITY BY OMISSION
+   dog + horse + human -> delete the differences -> "ANIMAL"
+   a thin residue that is NOWHERE ACTUAL, hovering ABOVE its
+   instances
+   HEGEL'S CHARGE: a SHADOW. Its unity is real but PURCHASED BY
+   OMISSION, and what has been omitted is precisely the determinacy
+   that made the instances intelligible.
+   -> it cannot EXPLAIN its instances, because everything that
+      distinguishes them has been removed from it
+        |
+        v
+THE CONCRETE UNIVERSAL - UNITY BY SELF-DIFFERENTIATION
+   ANIMALITY -> particularises itself -> DOG / HORSE / HUMAN
+             -> and is ACTUAL only as THIS dog, THIS horse
+   RETAINS and ORGANISES its own differentiations WITHIN itself
+   the differences are what the universal DOES
+        |
+        v
+THE QUOTATION, IN FULL - NEVER QUOTE THE FIRST CLAUSE ALONE
+   "The True is the Whole. But the Whole is nothing other than the
+    essence completing itself through its development."
+                        (Phenomenology of Spirit, Preface P20)
+   -> "Whole" does NOT mean "everything added together"
+   -> it means the ESSENCE COMPLETED THROUGH ITS OWN DEVELOPMENT
+   -> therefore the Whole is a RESULT, and truth is not a proposition
+      one grasps but a movement one traverses
+        |
+        v
+COROLLARY: INTERNAL RELATIONS
+   a moment's identity depends on its mediated relations to the others
+   -> the SPECIFIC target of the analytic revolt
+   ATTRIBUTION RULE: Moore's and Russell's immediate targets were
+   often the BRITISH NEO-HEGELIANS, especially BRADLEY, rather than
+   every claim of Hegel's own texts. Concede the objection; keep the
+   attribution exact.
+
+ASCII MASTER FLOW — PANEL 17/55: Identity-in-difference and the three moments of the Concept
+==============================================================================
+IDENTITY-IN-DIFFERENCE
+   genuine identity is MAINTAINED THROUGH determinate difference, not
+   by erasing it
+   Early DIFFERENCE essay (1801), commonly translated as the
+   "identity of identity and non-identity/difference"
+   CAUTION: translation VARIES - paraphrase as identity-in-difference
+      unless you name an edition
+   IT CLAIMS: an adequate whole includes BOTH the relation that
+      unifies the terms AND the difference that makes each determinate
+   IT DOES NOT CLAIM: numerical identity between opposites
+        |
+        v
+THE CONCEPT (Begriff) - a self-differentiating INTELLIGIBLE STRUCTURE
+   NOT a private mental image | NOT an extensional class
++-------------------+-------------------+-----------------------+
+| UNIVERSALITY      | PARTICULARITY     | INDIVIDUALITY         |
+| (Allgemeinheit)   | (Besonderheit)    | (Einzelheit)          |
+| the common        | the universal     | the concrete unity in |
+| intelligible      | DIFFERENTIATING   | which universal and   |
+| structure         | itself into       | particular are        |
+|                   | determinate forms | realised TOGETHER     |
++-------------------+-------------------+-----------------------+
+   THE SEQUENCE IS AN ARGUMENT: universality is ACTUAL only THROUGH
+   particularisation and concrete individuality - which is exactly
+   why the concrete universal does not hover above particulars
+        |
+        v
+REGISTER WARNING
+   the U / P / I triad belongs primarily to the LOGICAL register.
+   Do NOT mechanically identify it with political individuals,
+   historical periods, or the three divisions of Spirit.
+        |
+        v
+STANDING OBJECTION: if each finite item is true only as a moment of
+   the whole, individuality and contingency seem DISSOLVED
+   REPLY: sublation PRESERVES determinate difference
+   RESIDUAL: the reply succeeds only if the system can SHOW, rather
+   than PRESUME, that the particular remains irreducible
+
+ASCII MASTER FLOW — PANEL 18/55: The bad infinite, the true infinite, and the architecture they force
+==============================================================================
+THE ARGUMENT, IN FIVE STEPS
+   1 suppose the infinite is WHAT LIES BEYOND the finite
+   2 then it is determined by WHAT IT IS NOT - the finite is its
+     BORDER
+   3 but to have a border is to be LIMITED
+   4 therefore an infinite defined by EXCLUSION of the finite is
+     ITSELF FINITE = the BAD or SPURIOUS INFINITE (schlechte
+     Unendlichkeit), whose natural expression is an endless "and so on"
+   5 therefore the genuine infinite must INCLUDE finite self-
+     limitation and RETURN within itself = the TRUE INFINITE
+        |
+        v
+CONSEQUENCES THAT MUST BE WRITTEN
+   -> the ABSOLUTE is NOT one object over against finite objects.
+      Any answer that makes it one has produced a bad infinite.
+   -> the FINITE IS REAL as a MOMENT: annihilating it would RESTORE
+      the exclusion that produced the bad infinite in the first place
+        |
+        v
+THE SYSTEM IS THAT MOVEMENT WRITTEN OUT
++-----------+------------------------+---------------------------+
+| STAGE     | CHARACTER              | CONTENT                   |
++-----------+------------------------+---------------------------+
+| LOGIC     | pure thought;          | BEING -> ESSENCE ->       |
+| Idea IN   | categories prior to    | CONCEPT: the self-        |
+| itself    | nature                 | articulation of the Idea  |
++-----------+------------------------+---------------------------+
+| NATURE    | Spirit alienated /     | space, time, matter,      |
+| Idea      | externalised           | organisms - "the Idea in  |
+| OUTSIDE   |                        | the form of otherness"    |
+| itself    |                        | (Enc. S247)               |
++-----------+------------------------+---------------------------+
+| SPIRIT    | self-conscious         | SUBJECTIVE -> OBJECTIVE   |
+| Idea      | rational life          | (law, morality, state) -> |
+| RETURNED  |                        | ABSOLUTE (art, religion,  |
+| to itself |                        | philosophy)               |
++-----------+------------------------+---------------------------+
+   PHILOSOPHY is the highest form of Absolute Spirit - the system's
+
+ASCII MASTER FLOW — PANEL 19/55: The bad infinite, the true infinite, and the architecture they force (continued)
+==============================================================================
+   CLAIMED standpoint of conceptual self-comprehension. This does NOT
+   make each finite philosopher omniscient.
+
+ASCII MASTER FLOW — PANEL 20/55: The three forms of Spirit, and ethical life at owned depth
+==============================================================================
+SUBJECTIVE SPIRIT   individual minded life and agency
+OBJECTIVE SPIRIT    freedom EMBODIED in right, morality and ethical
+                    institutions
+ABSOLUTE SPIRIT     art, religion and philosophy as SENSUOUS,
+                    REPRESENTATIONAL and CONCEPTUAL self-
+                    comprehension
+        |
+        v
+THE BOUNDED LADDER REQUIRED FOR THE 2023 HISTORY DEMAND
+   ABSTRACT RIGHT -> MORALITY -> ETHICAL LIFE (Sittlichkeit)
++-----------------+-----------------------------------------------+
+| FAMILY          | immediate ethical unity                       |
++-----------------+-----------------------------------------------+
+| CIVIL SOCIETY   | differentiated needs, work, legal dependence   |
++-----------------+-----------------------------------------------+
+| STATE           | CLAIMED integration of particular and         |
+|                 | universal freedom                             |
++-----------------+-----------------------------------------------+
+   CAUTION: ORIENTATION, NOT ENDORSEMENT of every existing state.
+   Detailed political philosophy remains OPTIONAL ENRICHMENT.
+   TRAP: swapping the FAMILY and CIVIL SOCIETY descriptions is a
+   quick way to lose a mark you had already earned.
+        |
+        v
+ART, RELIGION AND PHILOSOPHY - THE OWNED DEPTH IS ONE DISTINCTION
+   the SAME CONTENT in THREE FORMS:
+      ART        sensuous form
+      RELIGION   representation (Vorstellung)
+      PHILOSOPHY concept (Begriff)
+   -> this single sentence is what licenses the provenance rule that
+      "ABSOLUTE SPIRIT IS GOD" is NOT a Hegelian formula in that bald
+      form. Paraphrase: religion's Vorstellung of God and philosophy's
+      Begriff of Absolute Spirit are the SAME CONTENT in DIFFERENT
+      FORMS.
+        |
+        v
+SPIRIT (Geist) - THE WORD DEFUSED
+   rational self-consciousness REALISED in human culture,
+
+ASCII MASTER FLOW — PANEL 21/55: The three forms of Spirit, and ethical life at owned depth (continued)
+==============================================================================
+   institutions, art, religion and philosophy; a COLLECTIVE SUBJECT
+   that Hegel tries to advance WITHOUT HYPOSTATISING it as something
+   existing independently of the actions and thoughts of individuals.
+   NOT a private mind | NOT a ghost | NOT a cosmic person secretly
+   steering events | NOT a devotional synonym for God
+
+ASCII MASTER FLOW — PANEL 22/55: Absolute Idealism - statement, four denials and the interpretive control
+==============================================================================
+STATEMENT
+   thought, nature and finite spirit are intelligible ONLY within a
+   SELF-DEVELOPING RATIONAL WHOLE, the ABSOLUTE
+   Hegel calls the whole SPIRIT (Geist) at the stage where it knows
+   itself through finite social and cultural life
+   nature and finite minds are REAL but NOT SELF-SUFFICIENT MOMENTS
+        |
+        v
+FOUR DENIALS BUILT INTO IT
+   X it does NOT deny that nature exists
+   X it does NOT make existence depend on being perceived by any
+     finite mind
+   X it does NOT posit a second world behind this one
+   X it does NOT turn the Absolute into a cosmic person
+   WHAT IT ASSERTS: IMMANENT INTELLIGIBILITY - the explanation of any
+   moment lies in its MEDIATED PLACE within the developing whole, and
+   not in an external ground
+        |
+        v
+THE ANALOGY THAT PREVENTS THE COMMONEST MISREADING
+   ask what a CHAPTER of a novel IS. It is really there - you can
+   read it on its own. But what it MEANS depends on the book.
+   -> nature and finite minds are ENTIRELY REAL and NOT SELF-
+      EXPLANATORY. "Absolute" names the BOOK, not a ghost-author.
+        |
+        v
+INTERPRETIVE CONTROL - STATE IT ONCE, THEN LEAVE IT ALONE
+   METAPHYSICAL readings: Absolute Spirit is reality's own self-
+      knowing structure
+   POST-KANTIAN / NON-METAPHYSICAL readings (Pippin, Pinkard):
+      historically achieved COLLECTIVE SELF-COMPREHENSION
+   MARKS-SAFE COMMON CORE: immanent intelligibility, mediation,
+      substance-as-subject, and the rejection of an unknowable
+      external remainder
+   Reference works register the same ambiguity from the other side,
+   reporting that "the realisation of Absolute Spirit" meant EITHER
+   the absolute completion of the human attempt to know itself OR the
+   realisation in human affairs of some extra-human transcendence.
+
+ASCII MASTER FLOW — PANEL 23/55: Absolute Idealism - statement, four denials and the interpretive control (continued)
+==============================================================================
+   -> note the split in ONE CLAUSE; do not adjudicate it in a script
+
+ASCII MASTER FLOW — PANEL 24/55: Substance and Subject, and the actuality discrimination
+==============================================================================
+THESIS 1: "not only as SUBSTANCE, but equally as SUBJECT"
+                          (Phenomenology of Spirit, Preface P17)
++-------------------------------+-------------------------------+
+| SUBSTANCE, as Hegel criticises| SUBJECT, as Hegel's correction|
+| the Spinozist picture         |                               |
++-------------------------------+-------------------------------+
+| infinite unity is affirmed,   | the Absolute is ACTIVE SELF-  |
+| but determinate difference    | MEDIATION: it differentiates  |
+| appears ABSORBED rather than  | itself and RETURNS to itself  |
+| returned into self-conscious  | in Spirit                     |
+| unity                         |                               |
++-------------------------------+-------------------------------+
+| immanent causality does not   | development proceeds through  |
+| yet make substance a SELF-    | DETERMINATE NEGATION and      |
+| DEVELOPING subject            | SUBLATION                     |
++-------------------------------+-------------------------------+
+| unity WITHOUT self-return     | a LIVING, SELF-RELATING       |
+|                               | TOTALITY                      |
++-------------------------------+-------------------------------+
+   TRAP: "Subject" is NOT a psychological ego and NOT a cosmic
+      person. It names a SELF-DIFFERENTIATING, SELF-RETURNING
+      STRUCTURE.
+   TRAP: the text says "NOT ONLY ... BUT EQUALLY". Spinoza is
+      CORRECTED, not discarded - and Hegel greatly admired him.
+        |
+        v
+THESIS 2: "What is rational is actual, and what is actual is
+           rational."          (Philosophy of Right, Preface)
++---------------------------+---------------------------------+
+| ACTUALITY (Wirklichkeit)  | DETERMINATE EXISTENCE (Dasein)  |
+| the EFFECTIVE UNITY of    | bare being-there; an EARLY,     |
+| essence and existence -   | still abstract category of the  |
+| the REALISED OPERATION of | Logic; anything that merely     |
+| a concept                 | happens to be the case          |
++---------------------------+---------------------------------+
+   -> "whatever exists is right" is NOT what the sentence says
+   -> a defective institution EXISTS (Dasein) without being ACTUAL
+      (wirklich) - which is precisely what LICENSES immanent
+
+ASCII MASTER FLOW — PANEL 25/55: Substance and Subject, and the actuality discrimination (continued)
+==============================================================================
+      criticism of it
+   -> RESIDUE, CONCEDE IT: critics can still ask whether Hegel
+      applies his own criterion TOO CONSERVATIVELY to the modern
+      state. The distinction blocks the slogan; it does not erase the
+      conservative passages.
+   -> TRANSLATION RULE: wirklich = ACTUAL in Hegel's technical sense.
+      Translate or gloss it, or the sentence means the OPPOSITE of
+      what Hegel intends.
+
+ASCII MASTER FLOW — PANEL 26/55: The three prongs against Kant's thing in itself
+==============================================================================
+KANT'S POSITION, STATED FAIRLY FIRST
+   we know objects only as APPEARANCES, under the forms of intuition
+   and the categories. A NEGATIVE NOUMENON LIMITS sensible cognition.
+   Kant does NOT claim positive theoretical knowledge of a hidden
+   second object.
+   -> state this first: an examiner reading a Hegel answer that
+      MISDESCRIBES Kant will discount the criticism before reading it
+        |
+        v
++---+------------------------------+--------------------------------+
+| 1 | A DETERMINATELY KNOWN LIMIT  | to know something AS a limit is |
+|   | IS RELATIONAL                | to place it in a field of      |
+|   |                              | determinations and relate it   |
+|   |                              | to what it excludes; it cannot |
+|   |                              | remain a wholly external,      |
+|   |                              | contentless barrier            |
++---+------------------------------+--------------------------------+
+| 2 | THE EMPTY IN-ITSELF IS AN    | remove every determinate       |
+|   | ABSTRACTION                  | relation and the alleged pure  |
+|   |                              | in-itself says NOTHING;        |
+|   |                              | thought produced the           |
+|   |                              | abstraction it then treats as  |
+|   |                              | alien                          |
++---+------------------------------+--------------------------------+
+| 3 | FIXED DUALISM BLOCKS         | if appearance and reality are  |
+|   | KNOWLEDGE                    | permanently external,          |
+|   |                              | philosophy cannot explain      |
+|   |                              | their relation - Hegel seeks   |
+|   |                              | their MEDIATED IDENTITY-IN-    |
+|   |                              | DIFFERENCE                     |
++---+------------------------------+--------------------------------+
+        |
+        v
+RESULT: reject the thing in itself as a PERMANENTLY UNKNOWABLE
+   EXPLANATORY REMAINDER. What is "in itself" becomes intelligible
+   through its relations and its development "for itself"; subject
+   and object are reconciled within the Absolute.
+   CAUTION: this is NOT immediate omniscience, and the argument from
+
+ASCII MASTER FLOW — PANEL 27/55: The three prongs against Kant's thing in itself (continued)
+==============================================================================
+   a thought limit does NOT by itself prove the COMPLETENESS of
+   Hegel's system.
+   DISCRIMINATION: "Hegel knows the thing in itself" and "Hegel
+   denies there is a permanently external remainder" are DIFFERENT
+   claims. Only the second is his.
+
+ASCII MASTER FLOW — PANEL 28/55: Kant's reply, the verdict grid, and the reality of the phenomenal world
+==============================================================================
+KANT'S AVAILABLE REPLY - WRITE IT IN ANY "DISCUSS" ANSWER
+   a NEGATIVE noumenon RESTRICTS the employment of the categories
+           without DESCRIBING what lies beyond. It is a LIMITING CONCEPT
+           (Grenzbegriff): its EMPTINESS IS THE POINT, not a defect.
+        |
+        v
+THE VERDICT GRID - WHERE THE CRITIQUE ACTUALLY LANDS
++------------------------------------+----------------------------+
+| READING OF KANT                    | FORCE OF HEGEL'S CRITIQUE  |
++------------------------------------+----------------------------+
+| REIFIED TWO-WORLD reading          | STRONG - the "other world" |
+| (a second set of objects)          | IS the abstraction         |
++------------------------------------+----------------------------+
+| AFFECTION reading (things in       | STRONG - causality is      |
+| themselves CAUSE our sensations)   | restricted to appearances  |
++------------------------------------+----------------------------+
+| STRICT LIMITING-CONCEPT reading    | WEAK - emptiness is the    |
+| (Grenzbegriff only)                | FUNCTION, not a failure    |
++------------------------------------+----------------------------+
+        |
+        v
+AND THEN THE 2020 QUESTION: WHAT ARE APPEARANCES?
+   NOT an independent thing in itself | NOT a private mental illusion
+        -> A FINITE, MEDIATED MANIFESTATION OF THE SELF-DEVELOPING
+           ABSOLUTE - REAL AS A MOMENT, NOT ULTIMATE AS ISOLATED
+   ARGUMENT: finite determinations generate contradictions when
+      treated as self-sufficient; dialectical negation PRESERVES
+      their partial truth while LOCATING them within a more
+      comprehensive unity
+   DISTINCTION: Hegelian appearance differs from BERKELEYAN idea-
+      dependence and from a TWO-WORLD reading of Kant. The contrast
+      is ABSTRACT INDEPENDENCE versus MEDIATED CONCRETENESS.
+   OBJECTION: if only the whole is fully true, individual reality
+      seems dissolved
+   REPLY: sublation PRESERVES determinate content rather than
+      annihilating it
+   RESIDUAL: critics question whether individuality survives
+        |
+
+ASCII MASTER FLOW — PANEL 29/55: Kant's reply, the verdict grid, and the reality of the phenomenal world (continued)
+==============================================================================
+        v
+ANSWER CONSEQUENCE: do NOT convert Hegel into Berkeleyan subjective
+   idealism, and do NOT deploy a mechanical triad. The 2020 demand is
+   met by explaining DETERMINATE NEGATION, MEDIATION and the
+   OVERCOMING OF THE FINITE/INFINITE OPPOSITION.
+
+ASCII MASTER FLOW — PANEL 30/55: Lordship and bondage - the four steps and the reversal
+==============================================================================
+STEP 1  TWO SELF-CONSCIOUSNESSES SEEK RECOGNITION (Anerkennung)
+   each demands to be acknowledged as free by another whose
+   acknowledgement would be WORTH HAVING
+        |
+        v
+STEP 2  LIFE-AND-DEATH STRUGGLE
+   risking life proves one is MORE THAN a merely living thing
+   CAUTION: if either DIES the whole point is lost - there is no one
+   left to recognise anything
+        |
+        v
+STEP 3  ASYMMETRIC ROLES EMERGE - AS A RESULT, NOT AS CHARACTERS
+   one consciousness SUBMITS rather than sustain the risk of death
++-------------------------+-------------------------------+
+| LORD (Herr)             | BONDSMAN (Knecht)             |
+| enjoys, does not work   | works, does not enjoy         |
+| relates to the thing    | relates to the thing by       |
+| THROUGH the bondsman    | FORMING it                    |
++-------------------------+-------------------------------+
+        |
+        v
+STEP 4  THE REVERSAL - THE MARKED CONTENT OF THE WHOLE PASSAGE
+   THE LORD
+      recognition comes from a DEPENDENT consciousness -> WORTHLESS
+      he no longer engages the world; the bondsman's work mediates
+      everything -> he DEPENDS ON THE DEPENDENT ONE
+   THE BONDSMAN - THE THREE CONDITIONS, IN HEGEL'S ORDER
+      FEAR    the absolute melting-away of everything stable;
+              nothing in him is a fixed thing
+      SERVICE discipline; desire is CHECKED and DEFERRED rather than
+              immediately consumed
+      LABOUR  a FORM is put into an object and PERSISTS there ->
+              DURABLE AGENCY discovered in the object -> SELF-
+              FORMATION (Bildung)
+      ORDER MATTERS: labour alone does not liberate. Labour is
+      transformative FOR A CONSCIOUSNESS ALREADY SHAKEN BY FEAR AND
+      DISCIPLINED BY SERVICE. Reporting labour without fear is the
+      standard compression error.
+
+ASCII MASTER FLOW — PANEL 31/55: Lordship and bondage - the four steps and the reversal (continued)
+==============================================================================
+        |
+        v
+WHY IT IS A DIALECTICAL RESULT AND NOT A MORAL
+   nothing external intervenes. The lord is not punished; he GETS
+   WHAT HE ASKED FOR, and what he asked for is self-defeating when
+   obtained. That is DETERMINATE NEGATION in a social register.
+
+ASCII MASTER FLOW — PANEL 32/55: The explicit limit, the reception firewall and the register note
+==============================================================================
+THE EXPLICIT LIMIT - WRITE IT EVERY TIME
+   the episode DESTABILISES one-sided domination. It does NOT yet
+   deliver complete RECIPROCAL RECOGNITION or FINAL FREEDOM.
+   Chapter IV B (Stoicism, Scepticism, Unhappy Consciousness) follows
+   PRECISELY BECAUSE freedom has not been achieved here.
+   -> "the slave becomes the master" is WRONG: the relation is
+      DESTABILISED, the roles are not swapped
+        |
+        v
+RECEPTION FIREWALL - THE MARK-SAVING PARAGRAPH
+   later MARXIST, KOJEVIAN, FEMINIST and ANTI-COLONIAL receptions
+   make this episode central.
+   MARX'S accounts of labour, alienation and class are
+   TRANSFORMATIONS of BROADER Hegelian resources - NOT a simple
+   direct transcription of this passage.
+   YOU MAY WRITE: that the episode has had an extraordinary
+      afterlife; that Marx relocates the analysis in material social
+      relations; that Kojeve's reading made recognition central to
+      twentieth-century French thought
+   YOU MAY NOT WRITE: that Hegel's bondsman is the proletariat; that
+      the passage is about colonialism or gender; that Hegel
+      anticipated a theory of surplus value
+        |
+        v
+REGISTER NOTE
+   this is the PHENOMENOLOGICAL register - ONE concrete illustration
+   of the method. It is NOT the primary explanation of dialectic,
+   which belongs to the LOGIC. A "dialectical method" answer that
+   consists of this story has answered in the WRONG REGISTER.
+        |
+        v
+OPTIONAL INTERPRETIVE QUESTION - MARK IT, DO NOT SETTLE IT
+   is recognition CENTRAL to Hegel's concept of freedom, or ONE
+   DRAMATIC MOMENT inside the larger movement of self-consciousness?
+   recognition-centred SOCIAL reading: KOJEVE, HONNETH
+   narrower TEXTUAL reading: one pedagogic episode
+   OBJECTION: making all of Hegel into recognition theory shrinks
+      Absolute Idealism into social psychology
+
+ASCII MASTER FLOW — PANEL 33/55: The explicit limit, the reception firewall and the register note (continued)
+==============================================================================
+   COUNTER-REPLY: used sparingly, recognition concretises how freedom
+      becomes relational and historically mediated without replacing
+      the larger system
+        |
+        v
+ANSWER LINE: the lord wins the argument and loses the reason for
+   having it.
+
+ASCII MASTER FLOW — PANEL 34/55: Stoicism, Scepticism and the unhappy consciousness - the three failures
+==============================================================================
+WHERE THE CHAPTER SITS
+   lordship and bondage ends WITHOUT adequate reciprocal recognition.
+   Ch. IV B then examines freedom sought IN THOUGHT.
+   SCOPE CONTROL: no routed Hegel PYQ requires a full reconstruction.
+   Two sentences at 10 marks; a short paragraph at 20.
+        |
+        v
++-------------+---------------------------+------------------------+
+| SHAPE       | ITS CLAIM TO FREEDOM      | THE CONTRADICTION THAT |
+|             |                           | DESTROYS IT            |
++-------------+---------------------------+------------------------+
+| STOICISM    | I am free in thought      | ABSTRACT and EMPTY.    |
+|             | whatever my condition -   | Indifferent to all     |
+|             | "whether on the throne    | content, it can answer |
+|             | or in chains." Freedom    | only "the true, the    |
+|             | = withdrawal into the     | good" IN GENERAL.      |
+|             | thinking self.            | Freedom bought by      |
+|             |                           | making the world       |
+|             |                           | irrelevant is freedom  |
+|             |                           | with NOTHING TO DO.    |
++-------------+---------------------------+------------------------+
+| SCEPTICISM  | the negativity Stoicism   | PERFORMATIVE SELF-     |
+|             | merely implied is now     | CONTRADICTION. It      |
+|             | ENACTED: I actively       | ASSERTS that nothing   |
+|             | dissolve every            | can be asserted; it    |
+|             | determinate content.      | denies all determinacy |
+|             |                           | while continuing to    |
+|             |                           | eat, drink and act as  |
+|             |                           | a determinate          |
+|             |                           | individual. Hegel:     |
+|             |                           | "the unconscious       |
+|             |                           | babble of              |
+|             |                           | contradiction."        |
++-------------+---------------------------+------------------------+
+| UNHAPPY     | the contradiction         | it knows itself as "a  |
+| CONSCIOUS-  | Scepticism unconsciously  | dual-natured, merely   |
+| NESS        | WAS becomes CONSCIOUS OF  | contradictory being" - |
+|             | ITSELF: ONE consciousness | the UNCHANGEABLE (das  |
+
+ASCII MASTER FLOW — PANEL 35/55: Stoicism, Scepticism and the unhappy consciousness - the three failures (continued)
+==============================================================================
+|             | containing TWO, and       | Unwandelbare) and the  |
+|             | knowing it.               | CHANGEABLE (das        |
+|             |                           | Wandelbare). It cannot |
+|             |                           | abandon EITHER.        |
++-------------+---------------------------+------------------------+
+   PRINTED SUBTERMS: Gestalt | das unglueckliche Bewusstsein |
+   Andacht | Entaeusserung | Mittler | Entzweiung
+
+ASCII MASTER FLOW — PANEL 36/55: The four moments, the reversal into Reason, and the objection ledger
+==============================================================================
+1 DEVOTION (Andacht)
+   the Unchangeable as a BEYOND: infinite yearning, feeling, pure
+   longing toward what it can never grasp as an object. The
+   Unchangeable remains SHAPELESS; devotion "reaches out and finds
+   nothing". The self experiences its own particularity as GUILT.
+2 DESIRE AND WORK
+   the self labours, consumes, achieves - but ATTRIBUTES capacity and
+   result to the Unchangeable. Its own activity is ALIENATED FROM
+   ITSELF.
+3 SELF-MORTIFICATION AND THE MEDIATOR (Mittler)
+   it surrenders even judgement and will: property, enjoyment and
+   decision are handed to the priest/church. Total EXTERNALISATION
+   (Entaeusserung).
+4 THE REVERSAL - THE DIALECTICAL POINT
+   in renouncing its particularity COMPLETELY, the self ceases to be
+   THIS particular self standing opposed to the universal. THE
+   RENUNCIATION IS THE ACHIEVEMENT OF UNIVERSALITY. The Unchangeable
+   turns out not to be a beyond at all but to be realised IN AND
+   THROUGH the individual's own act.
+        |
+        v
+TRANSITION TO REASON - the shape "certain of being all reality",
+   i.e. that finds ITSELF in the world instead of opposed to it
+        |
+        v
+THREE PRESUPPOSITIONS
+   P1 shapes have an internal logic that destroys them from within;
+      the philosopher only WATCHES. No external criterion is applied.
+   P2 alienation is SELF-INFLICTED and therefore SELF-CURABLE - the
+      beyond is the consciousness's own product
+   P3 the sequence is LOGICAL, NOT CHRONOLOGICAL: Stoicism,
+      Scepticism and medieval piety are historical ILLUSTRATIONS of a
+      conceptual order
+        |
+        v
+OBJECTIONS -> REPLIES -> RESIDUALS
+   KIERKEGAARD (Concluding Unscientific Postscript): the overcoming
+      is verbal; the individual before God CANNOT be a moment of a
+
+ASCII MASTER FLOW — PANEL 37/55: The four moments, the reversal into Reason, and the objection ledger (continued)
+==============================================================================
+      system. REPLY: the objection mistakes the phenomenology's
+      LEVEL. RESIDUAL: the STRONGEST objection here; concede it and
+      use it as the bridge to Topic 10.
+   THEOLOGICAL CRITICS: the account of Christianity is reductive.
+      REPLY: religion is ABSOLUTE SPIRIT in representational form
+      (Vorstellung), not error. RESIDUAL: whether "surpassing"
+      respects it is exactly what is disputed.
+   ANALYTIC CRITICS: literary description, not argument. REPLY: the
+      force is the PERFORMATIVE CONTRADICTION. RESIDUAL: the
+      necessity is RETROSPECTIVE - the owl of Minerva.
+   PROVENANCE RULE: FEUERBACH and MARX later TRANSFORM this structure
+      into distinct critiques of religious and material alienation;
+      their theories must NOT be retrojected as Hegel's own.
+
+ASCII MASTER FLOW — PANEL 38/55: The Logic-to-Nature seam - the dilemma and Hegel's own text
+==============================================================================
+THE PROBLEM, STATED EXACTLY
+   the SCIENCE OF LOGIC claims to move by STRICT INTERNAL NECESSITY
+   from Being to the ABSOLUTE IDEA, with NOTHING brought in from
+   outside.
+   the ENCYCLOPAEDIA then passes from LOGIC to the PHILOSOPHY OF
+   NATURE - from a self-contained order of pure categories to a world
+   of space, time, matter, contingent particulars and brute
+   givenness.
+        |
+   +--------------------------+---------------------------------+
+   | IF THE STEP IS NECESSARY | IF IT IS NOT NECESSARY          |
+   | how can a CATEGORY       | the system's claim to be        |
+   | PRODUCE an EXISTENT?     | PRESUPPOSITIONLESS SELF-        |
+   |                          | GROUNDING COLLAPSES at the very |
+   |                          | moment of its completion        |
+   +--------------------------+---------------------------------+
+        |
+        v
+HEGEL'S OWN TEXT
+   Enc. S244  the Absolute Idea, being the complete unity of Concept
+              and reality, "FREELY RELEASES ITSELF" (entlaesst sich
+              frei) - it "resolves to let the moment of its
+              particularity go forth freely as Nature"
+   Enc. S247  Nature is "THE IDEA IN THE FORM OF OTHERNESS" - the
+              Idea OUTSIDE itself, in externality and self-
+              externality
+   PROVENANCE: renderings differ ("resolves to release", "freely lets
+   itself go forth"). Give the S and mark it a RENDERING. S numbers
+   are EDITION-INVARIANT; page numbers are not.
+        |
+        v
+WHY THIS IS NOT A CREATION STORY
+   X NOT TEMPORAL - there is no "before" in which Logic existed alone
+   X NOT CAUSAL   - categories do not exert force
+   / LOGICAL / STRUCTURAL - the Absolute Idea is PURE SELF-RELATING
+     FORM. A form that is nothing but self-relation has, precisely in
+     that, NO CONTENT OF ITS OWN - so it IS its own externality. To
+     be completely self-determining is to be, in the same act, wholly
+
+ASCII MASTER FLOW — PANEL 39/55: The Logic-to-Nature seam - the dilemma and Hegel's own text (continued)
+==============================================================================
+     out of oneself. "RELEASE" NAMES THIS; it is not an event.
+        |
+        v
+THE CONCESSION THAT PROTECTS THE ANSWER
+   Enc. S250  THE IMPOTENCE OF NATURE (die Ohnmacht der Natur):
+   nature is UNABLE TO HOLD FAST TO THE CONCEPT, which is why it
+   teems with contingency, imprecision and monstrosity.
+   -> HEGEL DOES NOT CLAIM TO DEDUCE PARTICULAR NATURAL FACTS
+   -> the "deduced the number of the planets" charge is a CARICATURE:
+      a garbled version of a passage in the 1801 Dissertation, and
+      one flatly contradicted by S250
+
+ASCII MASTER FLOW — PANEL 40/55: The four standing objections to the seam, with replies and residuals
+==============================================================================
+1  SCHELLING - THE LEAP FROM ESSENCE TO EXISTENCE
+   OBJECTION: the Logic can show what anything must be IF it is; it
+      cannot show THAT anything is. The transition to Nature is a
+      covert EXISTENTIAL LEAP. A rational system can be "NEGATIVE
+      PHILOSOPHY" only.
+   SOURCE: Berlin lectures 1841-2, to an audience including
+      KIERKEGAARD and ENGELS
+   REPLY: for Hegel there is no "if" - BEING is the first category
+      AND the most immediate existent; the Logic never LEFT
+      existence, it only considered it in its pure form
+   RESIDUAL: THE STRONGEST OBJECTION IN THE TOPIC. Schelling's demand
+      for a "positive philosophy" launches the entire existentialist
+      line down to Kierkegaard and Heidegger.
+2  FEUERBACH - THEOLOGY IN DISGUISE
+   OBJECTION: "the Idea resolves to release itself" is creation EX
+      NIHILO with the Creator renamed
+   SOURCE: Towards a Critique of Hegelian Philosophy, 1839
+   REPLY: accept the parallel and INVERT its force - Christian
+      Vorstellung pictures in narrative form what the Logic states
+      conceptually
+   RESIDUAL: protects the system only if one ALREADY accepts that
+      philosophy translates religion without loss
+3  TRENDELENBURG - MOTION IS SMUGGLED IN
+   OBJECTION: dialectical transition presupposes movement, becoming
+      and time; the categories are STATIC determinations. Hegel must
+      BORROW from intuition the very thing he claims to DERIVE.
+   SOURCE: Logische Untersuchungen, 1840
+   REPLY: the "movement" is not spatiotemporal but the self-
+      undermining of a determination that cannot be thought
+      consistently; conceptual instability is not borrowed motion
+   RESIDUAL: GENERALISES BEYOND this step - name it in ANY
+      dialectical-method answer
+4  CATEGORY MISTAKE / PERSONIFICATION
+   OBJECTION: "resolves", "releases", "goes forth freely" are verbs
+      of AGENCY applied to a CONCEPT. Strip the metaphor and no
+      argument remains.
+   SOURCE: analytic critics; Russell's general charge of being
+      "destitute of valid argument"
+
+ASCII MASTER FLOW — PANEL 41/55: The four standing objections to the seam, with replies and residuals (continued)
+==============================================================================
+   REPLY: the verbs mark a LOGICAL transition to externality, not a
+      decision; Hegel's German uses REFLEXIVE constructions precisely
+      to avoid an agent
+   RESIDUAL: the metaphor does rhetorical work Hegel cannot fully
+      cash out - CONCEDE THIS and the answer looks honest
+        |
+        v
+POST-HEGELIAN SPLIT, DIRECTLY FROM OBJECTION 1
+   KEEP the dialectic, DROP the Idea .......... MARX
+   KEEP existence, DROP the system ............ KIERKEGAARD,
+                                                HEIDEGGER
+
+ASCII MASTER FLOW — PANEL 42/55: Dialectic in history - source status, mechanism and schema
+==============================================================================
+EVIDENCE STATUS FIRST - ONE LINE AT THE TOP OF THE ANSWER
+   the philosophy of history survives as LECTURES edited posthumously
+   (GANS 1837; KARL HEGEL 1840) from STUDENT TRANSCRIPTS. Say "in the
+   lectures on the philosophy of history", never "Hegel wrote".
+        |
+        v
+STEP 1  THE MECHANISM - BEFORE ANY STAGE LIST
+   EMBODIED NORM OF FREEDOM -> INTERNAL RESTRICTION -> the society's
+   OWN PRACTICES expose the inadequacy -> a MORE ADEQUATE INSTITUTION
+   = IMMANENT CRITIQUE in the HISTORICAL register; the same argument-
+     form as the Logic and the Phenomenology
+        |
+        v
+STEP 2  THE CLAIM
+   "World history is the progress of the CONSCIOUSNESS of freedom."
+   -> the development is in WHAT A SOCIETY UNDERSTANDS FREEDOM TO
+      REQUIRE, not in an automatic improvement of events
+   -> the claim is DIRECTION and INTELLIGIBILITY, NOT simple
+      linearity and NOT causal determinism
+        |
+        v
+STEP 3  THE SCHEMA, WITH A NAMED EXAMPLE PER STAGE (ILLUSTRATION)
++---------------------+-------------------+---------------------+
+| ORIENTAL            | GREEK / ROMAN     | GERMANIC-CHRISTIAN  |
+| ONE is free         | SOME are free     | ALL free IN         |
+| (the despot)        | (citizens, not    | PRINCIPLE - freedom |
+|                     |  slaves)          | as rational self-   |
+|                     |                   | determination       |
+| Persian / Chinese   | Athenian          | the modern          |
+| empires             | democracy,        | constitutional      |
+|                     | Roman law         | state as Hegel's    |
+|                     |                   | CLAIMED horizon     |
++---------------------+-------------------+---------------------+
+        |
+        v
+STEP 4  THE CUNNING OF REASON (List der Vernunft)
+   Enc. S209 and the history lectures
+   individuals pursue PASSIONS and INTERESTS whose historical
+
+ASCII MASTER FLOW — PANEL 43/55: Dialectic in history - source status, mechanism and schema (continued)
+==============================================================================
+   CONSEQUENCES EXCEED THEIR INTENTIONS
+   "WORLD-HISTORICAL INDIVIDUALS" - CAESAR, NAPOLEON - are agents of
+   transitions they do not fully comprehend
+   CAUTION: SPIRIT here names the INTELLIGIBLE HISTORICAL PROCESS,
+   not an occult person secretly manipulating events
+        |
+        v
+FATAL ERROR: offering the CIVILISATION LIST AS PROOF. The list is an
+   ILLUSTRATION of a mechanism that must be stated FIRST and
+   criticised AFTERWARDS.
+
+ASCII MASTER FLOW — PANEL 44/55: The required criticism, Popper, and where freedom is supposed to land
+==============================================================================
+THE REQUIRED QUALIFICATION - THIS IS PART OF THE ANSWER
+   - the ORIENTAL / GREEK-ROMAN / GERMANIC sequence is a DATED
+     EUROCENTRIC HIERARCHY that MARGINALISES OR EXCLUDES major
+     peoples and treats EUROPEAN MODERNITY AS THE TELOS
+   - "ALL ARE FREE" states a PRINCIPLE of freedom, NOT evidence that
+     Hegel's Europe realised equal freedom in practice
+   - retrospective TELEOLOGY can RATIONALISE VICTORS and understate
+     CONTINGENCY, COLONIALISM, CLASS and GENDER EXCLUSION
+        |
+        v
+POPPER'S VERSION OF THE CHARGE
+   historicist narratives rationalise outcomes retrospectively and
+   can IMMUNISE THEMSELVES against counter-evidence
+   REPLY: the Logic is not empirical prediction, and Popper often
+      CARICATURES Hegel; the objection is STRONGER against
+      DETERMINISTIC USES of Hegelian history than against immanent
+      conceptual critique. CHARLES TAYLOR defends along these lines.
+   RESIDUAL: Hegel's own concession - "THE OWL OF MINERVA SPREADS ITS
+      WINGS ONLY WITH THE FALLING OF THE DUSK" - protects him from
+      false prophecy at the cost of conceding that the necessity is
+      visible only AFTERWARDS
+        |
+        v
+WHERE FREEDOM IS SUPPOSED TO LAND - OBJECTIVE SPIRIT, BOUNDED
+   ABSTRACT RIGHT -> MORALITY -> ETHICAL LIFE (Sittlichkeit)
+      FAMILY         immediate ethical unity
+      CIVIL SOCIETY  differentiated needs, work, legal dependence
+      STATE          CLAIMED integration of particular and universal
+                     freedom
+   ORIENTATION, NOT ENDORSEMENT of every existing state. Hegel's
+   state is a CLAIMED integration, not whatever government happens to
+   exist - and the conservative application remains CONTESTABLE.
+   -> the ACTUALITY / EXISTENCE distinction is what makes that
+      sentence CONSISTENT rather than evasive
+        |
+        v
+ART AND RELIGION APPEAR HERE ONLY AT OWNED DEPTH, as the sensuous and
+   representational forms of the same content that philosophy
+
+ASCII MASTER FLOW — PANEL 45/55: The required criticism, Popper, and where freedom is supposed to land (continued)
+==============================================================================
+   comprehends conceptually. Detailed philosophies of art and
+   religion remain OPTIONAL ENRICHMENT.
+
+ASCII MASTER FLOW — PANEL 46/55: Comparison matrix - Kant, Hegel, Marx, Kierkegaard
+==============================================================================
+FIX THE AXIS, THEN RUN THE ROWS
++-----------+------------+------------+------------+------------+
+| AXIS      | KANT       | HEGEL      | MARX       | KIERKEGAARD|
++-----------+------------+------------+------------+------------+
+| thing-in- | unknowable | ABOLISHED -| irrelevant | -          |
+| itself    | noumenon   | thought    | (material- |            |
+|           |            | encompasses| ism)       |            |
+|           |            | all        |            |            |
++-----------+------------+------------+------------+------------+
+| ultimate  | theoretical| the        | material   | the        |
+| reality   | cognition  | ABSOLUTE   | social     | EXISTING   |
+|           | limited to | as self-   | relations; | INDIVIDUAL |
+|           | appearances| developing | "dialect-  | before     |
+|           |            | intelligi- | ical       | abstraction|
+|           |            | bility /   | material-  | and system |
+|           |            | Spirit     | ism" is a  |            |
+|           |            |            | LATER      |            |
+|           |            |            | systemat-  |            |
+|           |            |            | isation    |            |
++-----------+------------+------------+------------+------------+
+| dialectic | ANTINOMIES | CONTRA-    | TRANSFORMED| the TOTAL  |
+|           | diagnose   | DICTION    | critique of| SYSTEM is  |
+|           | reason's   | within     | material   | rejected - |
+|           | illegit-   | finite     | and social | NOT every  |
+|           | imate      | determin-  | contra-    | dialectical|
+|           | world-     | ations     | dictions   | contrast   |
+|           | totality   | drives     |            |            |
+|           | claims     | IMMANENT   |            |            |
+|           |            | development|            |            |
++-----------+------------+------------+------------+------------+
+| freedom   | moral      | HISTORICAL | proletarian| existential|
+|           | autonomy   | self-      | liberation | choice,    |
+|           | (noumenal) | realisation|            | dread,     |
+|           |            | of Spirit  |            | faith      |
++-----------+------------+------------+------------+------------+
+| truth     | phenomenal | THE WHOLE  | praxis,    | subject-   |
+|           | adequacy   | (the       | revolution-| ivity,     |
+|           | adequacy   | system)    | ary trans- | passionate |
+
+ASCII MASTER FLOW — PANEL 47/55: Comparison matrix - Kant, Hegel, Marx, Kierkegaard (continued)
+==============================================================================
+|           |            |            | formation  | inwardness |
++-----------+------------+------------+------------+------------+
+        |
+        v
+KEY EXAM BRIDGES
+   MARX TRANSFORMS and "inverts" Hegelian dialectic by relocating
+      development in material social relations. It is NOT the same
+      method with one noun replaced.
+   KIERKEGAARD'S REVOLT: the system forgets the EXISTING INDIVIDUAL;
+      "truth is subjectivity". Bridge to Topic 10 (2023 Q1(d),
+      2022 Q4(a)).
+
+ASCII MASTER FLOW — PANEL 48/55: Hegel against Berkeley - the 2024 axis, and the optional Strawson bridge
+==============================================================================
+THE AXIS: WHAT IS ULTIMATE - a finite perceiving mind and its ideas,
+   or a self-developing intelligible whole?
++--------------+------------------------+------------------------+
+| AXIS         | BERKELEY (SUBJECTIVE)  | HEGEL (ABSOLUTE)       |
++--------------+------------------------+------------------------+
+| what exists  | sensible IDEAS and     | NATURE and FINITE      |
+|              | active SPIRITS, within | SPIRIT as MOMENTS of a |
+|              | a divinely ordered     | self-developing        |
+|              | world                  | intelligible whole     |
++--------------+------------------------+------------------------+
+| role of the  | finite spirit PERCEIVES| a FINITE MOMENT within |
+| individual   | ideas but does not     | the Absolute - not the |
+| mind         | create the entire order| sole ground            |
++--------------+------------------------+------------------------+
+| external     | DENIED as independent; | NATURE IS REAL, but as |
+| world        | depends on perception  | Spirit's own self-     |
+|              |                        | externalisation        |
++--------------+------------------------+------------------------+
+| development  | NONE - static          | DIALECTICAL self-      |
+|              | dependence on God      | development through    |
+|              |                        | contradiction          |
++--------------+------------------------+------------------------+
+| knowledge    | direct awareness of    | SYSTEMATIC self-       |
+|              | ideas; spirits known   | comprehension achieved |
+|              | differently from ideas | through finite knowing,|
+|              |                        | without making each    |
+|              |                        | knower omniscient      |
++--------------+------------------------+------------------------+
+   CAUTION: Berkeley rejects MATTER but NOT spirits, God or
+   experienced order. Hegel's claim concerns MEDIATED INTELLIGIBILITY
+   of nature and finite spirit within the Absolute, NOT dependence on
+   one finite perceiver.
+        |
+        v
+OPTIONAL BRIDGE - HEGEL AND STRAWSON ON A REIFIED NOUMENON
+   TARGET     both attack Kant's thing-in-itself
+   CHARGE     HEGEL: a wholly external in-itself is an EMPTY
+              ABSTRACTION generated by fixed opposition
+
+ASCII MASTER FLOW — PANEL 49/55: Hegel against Berkeley - the 2024 axis, and the optional Strawson bridge (continued)
+==============================================================================
+              STRAWSON: a supersensible reality said to AFFECT
+              sensibility illegitimately applies concepts beyond
+              experience (The Bounds of Sense, 1966)
+   METHOD     DIALECTICAL - the concept destroys itself from within
+              ANALYTIC - the doctrine violates its own restriction
+   RESIDUE    HEGEL: subject and object reconciled through immanent
+              mediation -> ABSOLUTE IDEALISM
+              STRAWSON: Kant's "austere" transcendental core survives
+              -> DESCRIPTIVE METAPHYSICS (Individuals, 1959), with
+              MATERIAL BODIES and PERSONS as basic particulars
+   FIREWALL   use ONLY after the Hegel-Kant argument is complete; the
+              two overlap against a CAUSALISED TWO-WORLD reading but
+              NOT against every negative-noumenon reading. OPTIONAL,
+              and owned by TOPIC 11.
+
+ASCII MASTER FLOW — PANEL 50/55: The criticism ledger and the directive decoder
+==============================================================================
+CRITICISM -> REPLY -> RESIDUAL. A CRITICISM WITHOUT A REPLY, OR A
+REPLY WITHOUT A RESIDUAL, FORFEITS THE ASSESSMENT MARK.
+   KIERKEGAARD  the system swallows the INDIVIDUAL. REPLY: Spirit
+      includes individuality at the subjective-spirit stage.
+      RESIDUAL: MY existence is not a "moment" - it is MINE.
+   MARX  the Idea is primary and reconciliation too conceptual.
+      REPLY: Marx praises a rational core while claiming Hegel
+      mystifies it. RESIDUAL: the critique TRANSFORMS both method and
+      ground rather than merely substituting "matter" for "Spirit".
+   MOORE and RUSSELL  idealist holism and INTERNAL RELATIONS obscure
+      logical distinctions and independent facts. REPLY: the
+      immediate targets were often BRITISH NEO-HEGELIANS such as
+      BRADLEY. RESIDUAL: the objection genuinely tests totalisation.
+   POPPER  historicism rationalises outcomes retrospectively.
+      REPLY: the Logic is not empirical prediction; Popper often
+      caricatures. RESIDUAL: stronger against DETERMINISTIC USES.
+   FORMAL LOGICIANS  ex falso quodlibet. REPLY: dialectical, not
+      truth-functional, contradiction. RESIDUAL: coherence DEBATED.
+   TRENDELENBURG  movement smuggled into static determinations.
+      REPLY: conceptual instability is not borrowed motion.
+      RESIDUAL: each transition must be DEMONSTRATED, not announced.
+   TOTALISATION CRITICS  individuality and contingency dissolved.
+      REPLY: sublation PRESERVES determinate difference. RESIDUAL:
+      the system must SHOW, not PRESUME, the particular's
+      irreducibility.
+   POLITICAL / HISTORICAL CRITICS  reconciliation with the state,
+      Eurocentric stage theory, retrospective teleology. REPLY: the
+      actuality/existence distinction permits immanent criticism of
+      defective institutions. RESIDUAL: it does not erase the
+      conservative passages or the exclusionary limits.
+        |
+        v
+DIRECTIVE DECODER
+   EXPLAIN THE DIALECTICAL METHOD -> mechanism, THEN an instance;
+      DEMONSTRATE the transition. FATAL: defining T-A-S and stopping.
+   CRITICALLY EXAMINE / EVALUATE -> reconstruct in 4 lines, then
+      KIERKEGAARD or TRENDELENBURG or POPPER BY NAME, then adjudicate.
+      FATAL: anonymous "some critics say".
+
+ASCII MASTER FLOW — PANEL 51/55: The criticism ledger and the directive decoder (continued)
+==============================================================================
+   COMMENT ON "THE REAL IS THE RATIONAL" -> disambiguate the
+      TECHNICAL term FIRST, in LINE 2: wirklich (actual) =/= Dasein.
+      FATAL: reading it as "whatever exists is right".
+   DISCUSS WITH REFERENCE TO KANT (2025 Q1e) -> TWO-SIDED engagement
+      with a RULING. FATAL: one-sided demolition of Kant.
+   HOW DOES HISTORY EXHIBIT DIALECTIC? (2023 Q1b) -> MECHANISM plus a
+      TELOS, with instances. FATAL: a list of civilisations.
+   DISTINGUISH (2024 Q2a) -> CRITERION-LED contrast; fix the axis
+      first. FATAL: parallel summaries with no axis.
+   TRACE THE DEVELOPMENT -> say WHY each stage collapses; the
+      TRANSITIONS are the marked content. FATAL: listing stages.
+   ASSESS THE INFLUENCE -> name heirs AND what each KEPT / DROPPED.
+      FATAL: "Hegel influenced Marx."
+
+ASCII MASTER FLOW — PANEL 52/55: PYQ routes 2018-2025, the answer spine and the graded verdict bank
+==============================================================================
+DIRECTLY OWNED (6 of 112 parts; 2018 and 2024 have no owned part)
+   2019 Q1(c) 10m  role of dialectics in realizing the truth
+      ROUTE truth as whole/result -> immanent failure -> determinate
+      negation and sublation -> ONE example -> qualified verdict
+   2020 Q1(d) 10m  reality of the phenomenal world
+      ROUTE reject illusion / independent in-itself -> finite
+      appearance as a REAL MEDIATED MOMENT -> identity-in-difference
+      -> individuality objection
+   2021 Q2(a) 20m  dialectical method -> Absolute Idealism
+      ROUTE mechanism -> Being/Nothing/Becoming -> concrete universal
+      and the Concept -> Logic/Nature/Spirit -> Kant and objections
+   2022 Q3(b) 15m  dialectical method; realising the Absolute
+      ROUTE immanent development, NOT a T-A-S recipe -> sublation ->
+      substance-as-subject -> the whole as RESULT -> transition
+      objection
+   2023 Q1(b) 10m  history as dialectical change
+      ROUTE embodied norm of freedom -> internal restriction ->
+      cunning of reason -> one/some/all -> teleology and
+      EUROCENTRISM caution
+   2025 Q1(e) 10m  challenge to Kant's phenomena/noumena
+      ROUTE Kant's negative noumenon -> relational limit / empty
+      abstraction / fixed dualism -> mediation -> KANT'S REPLY ->
+      graded verdict
+SUPPORTING ROUTED - NAME HEGEL BUT OWNED ELSEWHERE
+   2018 Q2(b) 15m  TOPIC 04 - "Understanding makes Nature"; is
+      Hegel's Absolutism the culmination of Kantian dualism?
+      RULING: PARTIALLY - culmination in extending constitutive
+      idealism; attempted OVERCOMING in rejecting Kant's limits
+   2023 Q1(d) 10m  TOPIC 10 - Kierkegaard against universal spirit
+      HEGEL-SIDE BLOCK: Spirit includes individuality at the
+      subjective stage; RESIDUAL: my existence is not a moment
+   2024 Q2(a) 20m  TOPIC 03 - subjective vs absolute idealism
+      HEGEL-SIDE BLOCK: fix the axis, then run the five rows
+        |
+        v
+UNIVERSAL ANSWER SPINE FOR ANY HEGEL PART
+   LINE 1  the AXIS or the question restated
+   BODY A  the MECHANISM in numbered steps, with a DEMONSTRATED
+
+ASCII MASTER FLOW — PANEL 53/55: PYQ routes 2018-2025, the answer spine and the graded verdict bank (continued)
+==============================================================================
+           transition and a text or S number
+   BODY B  the RESULT or APPLICATION
+   BODY C  the reckoning with the NAMED RIVAL, on the fixed axis
+   ASSESS  ONE named critic -> reply -> RESIDUAL
+   CLOSE   a GRADED verdict, EARNED not asserted
+   SCALING at 10 marks B and C merge and the assessment is two
+   sentences; at 20 marks A becomes method plus worked case, B
+   becomes the architecture, and the assessment takes two critics
+        |
+        v
+GRADED VERDICT BANK - 10 / 15 / 20 MARKS, EIGHT SUB-TOPICS
+   dialectical method | sublation | Absolute Idealism | against
+   Kant's noumenon | lordship and bondage | unhappy consciousness |
+   Logic -> Nature | history
+
+ASCII MASTER FLOW — PANEL 54/55: Trap sheet, provenance rules and the qualified conclusion
+==============================================================================
+TEN-LINE TRAP SHEET
+  1  "thesis-antithesis-synthesis" is LATER SHORTHAND - Fichte,
+     CHALYBAUS 1837 - not Hegel's general schema
+  2  dialectic is NOT DEBATE; it is the self-movement of a CONCEPT
+  3  contradiction = self-opposition of an ABSOLUTISED FINITE
+     determination; NOT arbitrary inconsistency, NOT a licence for
+     ex falso quodlibet
+  4  Aufhebung = CANCEL and PRESERVE and RAISE; dropping "preserve"
+     destroys the cumulative history of philosophy
+  5  "the rational is actual" uses WIRKLICHKEIT, not DASEIN - it
+     BLOCKS "whatever exists is right" and LICENSES immanent
+     criticism
+  6  GEIST is rational self-consciousness in culture and
+     institutions - NOT a ghost, NOT a cosmic person
+  7  HEGEL =/= BERKELEY: the axis is WHAT IS ULTIMATE - a finite
+     perceiving mind, or the self-developing whole
+  8  MARX TRANSFORMS the dialectic; later class and labour doctrine
+     is not Hegel's own
+  9  the history material is POSTHUMOUSLY EDITED STUDENT TRANSCRIPTS,
+     and the one/some/all schema is EUROCENTRIC and must be qualified
+ 10  the Logic-to-Nature release is LOGICAL, not temporal or causal;
+     S250 concedes the IMPOTENCE OF NATURE, so NO natural particulars
+     are deduced
+ PLUS: the roles of lord and bondsman are a RESULT, not two
+     personality types; the Phenomenology is NOT the Encyclopaedia's
+     Spirit division; "The True is the Whole" must carry its
+     COMPLETION CLAUSE
+        |
+        v
+NEVER WRITE
+   X "Hegel said thesis, antithesis, synthesis" without provenance
+   X "the real is the rational means whatever exists is justified"
+   X "Hegel deduced the planets from the Idea"
+   X "Absolute Spirit is God" in that bald form
+   X a manufactured or sharpened Russell epigram
+        |
+        v
+FIFTEEN-SECOND MEMORY CHAIN
+
+ASCII MASTER FLOW — PANEL 55/55: Trap sheet, provenance rules and the qualified conclusion (continued)
+==============================================================================
+   IMMANENT CRITIQUE OF KANT'S FIXED OPPOSITIONS -> DETERMINATE
+   NEGATION AND SUBLATION -> BEING / NOTHING / BECOMING -> CONCRETE
+   UNIVERSAL AND IDENTITY-IN-DIFFERENCE -> LOGIC, NATURE, SPIRIT
+   WITHIN THE TRUE INFINITE -> SUBSTANCE AS SUBJECT AND WIRKLICHKEIT
+   -> THE THREE PRONGS AGAINST THE NOUMENON -> APPEARANCE AS A
+   MEDIATED MOMENT -> LORDSHIP AND BONDAGE -> THE UNHAPPY
+   CONSCIOUSNESS -> THE FREE RELEASE INTO NATURE -> THE CONSCIOUSNESS
+   OF FREEDOM IN HISTORY -> CRITICISMS, REPLIES AND RESIDUALS
+        |
+        v
+QUALIFIED CONCLUSION
+   Hegel's system is ONE CLAIM WITH TWO FACES: the method IS the
+   Absolute's life, so the dialectic that shows how a finite
+   determination destroys itself is the same movement by which the
+   whole articulates itself, and neither can be assessed without the
+   other. ITS PERMANENT ACHIEVEMENTS are the demonstration that a
+   determinately known limit belongs within thought, the replacement
+   of a fixed appearance/reality dualism by identity-in-difference,
+   and the account of development as CUMULATIVE through sublation.
+   ITS PERMANENT COSTS are that each transition's necessity is
+   visible only RETROSPECTIVELY, that a method proceeding from
+   concepts cannot generate the sheer THAT of existence, and that the
+   preservation of the particular within the whole is ASSERTED more
+   securely than it is DEMONSTRATED.
